@@ -1,0 +1,2108 @@
+Dr. Megan Blakely: Good
+morning, everyone.
+
+You may notice that we have
+
+a slightly different format
+on the lecture PowerPoint.
+
+I posted a placeholder,
+essentially,
+
+because a lot of
+what we're going to
+
+do today is interactive.
+
+I'm going to go ahead
+and upload the full
+
+PowerPoint now, but I
+
+wanted to ask that you not
+flip ahead and look at
+
+the whole thing if
+you want to get
+
+the maximum amount of
+benefit out of this lecture,
+
+because there's activities that
+
+you can test, how you do it.
+
+If you want to read
+the back cover,
+
+nobody is going to
+come check on you.
+
+But what I would ask that you do
+
+is don't flip the head
+in the lecture notes,
+
+but I want to make sure
+they're available to
+
+everyone for
+accessibility reasons,
+
+and also because we
+are in a big room,
+
+it may be hard to read.
+
+I'm going to go ahead
+and make the full
+
+available now on your page,
+
+and it should be
+ready in a minute.
+
+But the reason I
+want to do this is
+
+because I obviously won't have
+
+an opportunity to work with
+
+all of you individually and give
+
+you some suggestions
+about how to
+
+approach the problem questions,
+
+and also just to be
+really super clear
+
+with everybody what we're
+
+looking for when
+we read your work,
+
+particularly on the
+problem questions.
+
+I would also say that this
+
+is not only applicable to tort.
+
+Anytime you're doing a
+fact pattern analysis,
+
+you should be able to use this.
+
+All it is really is an
+expansion of your IRAC or IPAC,
+
+issue rule, or principle
+analysis and conclusion.
+
+You may have moved away
+from that as you've
+
+not had concentrate
+on this for a second,
+
+so I can get this up for you.
+
+I'm going to turn this off.
+
+The full lecture should
+be on Moodle now.
+
+Go ahead and download
+that if you so choose.
+
+If you don't so choose,
+
+it doesn't matter, you
+can watch the PowerPoint.
+
+I think one of the
+things when we
+
+constantly give you these
+lecture notes in advance,
+
+if one is accessibility,
+
+yes, we want everyone to be
+able to access the materials,
+
+but I think it also gives
+
+this impression that you
+should be somehow familiar
+
+with the lecture
+before you come to
+
+lecture and for almost all
+classes that you take,
+
+we are not presupposing that
+
+you're familiar with
+the lecture slides.
+
+Part of it is just to
+be able to sit here and
+
+absorb the information and
+that's completely fine.
+
+If you want to prepare
+for a lecture,
+
+the best thing you can
+do is read your textbook
+
+on the topic so you know
+what we're talking about.
+
+But ultimately, it's meant to be
+
+a live delivery where you're
+receiving information.
+
+I don't think it
+does anybody any
+
+favours that we give
+these to you in advance,
+
+because then it makes it seem
+
+like you should know
+what's happening before
+
+lecture and you really
+don't have to do
+
+that unless you're
+specifically told.
+
+Like I said, I'm just
+going to talk you through
+
+a little bit how I recommend
+doing a problem question.
+
+There's going to be
+some interactivity.
+
+There will be a link
+on the lecture slides,
+
+or you can use your
+phone for QR code.
+
+I've tried to make it
+as massive as possible.
+
+We'll give it a go.
+
+If it works and it's helpful,
+
+we can do it again at
+
+the end of the next
+little mini section on
+
+privacy and defamation
+in a week or so.
+
+But we won't go through
+
+the checklist that's been
+
+up for the last week
+in as much detail.
+
+But I think it gives
+you a little bit of
+
+a chance to check your
+knowledge when we do
+
+revision rather than
+my just repeating
+
+back to what you've heard
+the last few lectures.
+
+I've had quite a few
+students say that it is
+
+helpful in my workshops
+to do things this way,
+
+so we're going to
+try it at scale.
+
+The only thing that we just want
+
+to keep an eye on when we get to
+
+those parts if you
+can just be really
+
+conscientious about talking
+to your neighbours,
+
+because however 200 of you
+or 100 of you are here,
+
+talking very quietly at
+
+the same time can make it
+difficult for people to work.
+
+That's what we're doing
+today. Monday morning.
+
+This is my cat Evie.
+
+This is how we're
+feeling this morning,
+
+and it is a preview of
+
+your problem question
+we're going to talk about,
+
+you're going to get
+quite a few cats,
+
+so hopefully you like cats.
+
+What we're going to do today
+is brief review of Week 11,
+
+talk about the OLAs.
+
+What do you need to
+do to recognise this?
+
+Why do you approach it
+differently than negligence?
+
+We'll do a few MCQs,
+
+three on the 1957 Act,
+
+3 on the 1984 Act.
+
+Then we'll talk about
+
+this problem approach
+application technique.
+
+Like I said, this is
+nothing new for you.
+
+This is simply a
+different way of
+
+approaching things
+like IRAC and IPAC,
+
+and there's a very
+clear formulaic way
+
+to go about these problems
+that we look for.
+
+The bulk of the
+strength of the exams,
+
+the bulk of the strength
+of the responses,
+
+what differentiates
+it is the analysis,
+
+the familiarity
+with the case law,
+
+the engagement either with
+
+the case law or
+with the statutes.
+
+But if you have this
+basic framework,
+
+this gives you that space,
+
+and I want everyone to have
+all the same information;
+
+this is all transparent, there's
+no hiding the ball here.
+
+I've had several students from
+
+last year come in
+without even doing
+
+a basic format of claimant
+Little V defendant.
+
+Really specific, this is
+how you answer the exam.
+
+Um, so some really basic
+stuff that you want to
+
+format it and the reason you'll
+
+probably be sick of hearing this
+
+you've been in my workshops.
+
+The reason that you hear
+about these things is because
+
+that is the way that
+you should be doing
+
+this as a practising lawyer.
+
+If somebody comes
+into your office,
+
+the way that you
+file this is not
+
+by everything that's
+duty or everything
+
+that's breach or everything
+that's under the OLA 1957.
+
+Your revision. Think about this,
+
+think about the way you want to
+
+apply this and get back into it.
+
+It looks like a regular
+negligence problem
+
+quite often when
+you come into it.
+
+Either someone's been injured on
+
+a premises or property has
+been damaged on a premises,
+
+but you don't need to also
+do a negligence analysis.
+
+Ultimately, this is a
+partial codification
+
+of what you already have.
+
+One thing you want
+to do is decide are
+
+you going to do your
+negligence analysis for
+
+the injuries under one of
+
+the OLAs or you going
+to do under negligence?
+
+If you have all of
+these criteria around
+
+a lawful visitor and an
+occupier of a premises,
+
+and you have a static danger,
+
+you should only be
+dealing with the OLAs.
+
+You want to set out
+right at the beginning,
+
+1957 or 1984, this
+
+is what you're
+dealing with because
+
+the temptation always is,
+
+especially when you're
+under a timed environment,
+
+you're under a time situation
+that you go right to
+
+the issue you see
+because you will
+
+quite likely see something
+that's wrong right away.
+
+You'll either see that someone's
+
+exceeded their permissions,
+
+or you'll see that they
+
+didn't take all
+reasonable care to
+
+give a warning of the
+danger concerned.
+
+Don't launch right into that.
+
+You want to go really formulaic
+
+with the way that
+you approach this.
+
+The other thing to think about,
+
+and I got into this a little
+bit on the end of Friday,
+
+is the actual facts and
+
+stories behind these
+particular cases.
+
+Depending on the way
+you read the facts,
+
+you might either
+see the claimant
+
+as a very deserving claimant,
+
+somebody who perhaps did exceed
+
+their permissions and maybe
+
+didn't heed warnings given
+of a danger concerned,
+
+but suffered a really
+life-changing,
+
+terrible injury, and you'll
+see this in the cases.
+
+When you're trying to
+sort through your cases,
+
+when you're preparing
+for workshop,
+
+especially cases
+around swimming.
+
+A lot of the time
+they're around water.
+
+You'll see a lot of deviation
+around the reasoning,
+
+although they say
+they're in line.
+
+But you could analytically
+
+come up with a way that an
+outcome could be different.
+
+I think this is one of
+the challenges for law.
+
+You're halfway through
+your degree now,
+
+and this is the time when
+
+a lot of students
+just want an answer,
+
+what is the answer to this,
+
+particularly for these occupiers
+
+liability questions
+where there's
+
+been a really serious injury,
+
+it may seem like the
+reasoning deviates
+
+based on the claimant slightly,
+
+even though the justification
+is made that it's in line.
+
+This is why, when we say
+you can come up with
+
+quite a different way
+of doing your analysis,
+
+all reasonable critical analysis
+
+that's based on the law is
+
+accepted because there are
+
+different supportable types
+of analysis you can do,
+
+and we'll talk about that in
+
+a minute and you
+
+also want to note from
+a jurisprudential,
+
+if you have an essay question
+on this sort of thing,
+
+why is there such a big gap
+
+between 1957 Act
+and the 1984 Act?
+
+If I probably the early 1950s,
+
+there was this
+legislative recognition
+
+that there was a
+certainty issue,
+
+there was a consistency
+issue with the outcomes of
+
+the common law, courts,
+
+the way they were
+deciding similar cases,
+
+and there needed to be
+some an intervention
+
+for this consistency
+and standardising
+
+the variation of the standard of
+
+care in particular for visitors.
+
+What I mean by that
+is when we say,
+
+not only do they need
+to ensure that you
+
+are making sure your
+visitor is reasonably safe,
+
+given all the circumstances,
+
+if a warning is enough great;
+
+if a warning is not enough,
+
+you need to do more
+for your visitor.
+
+Then they introduce these
+two different standards.
+
+One for children, where
+you have to do more,
+
+one for professional
+independent contractors,
+
+people who come in and
+service your boiler,
+
+for instance, where
+you're not expected to
+
+be able to specifically warn
+of the danger concerned,
+
+you're not an expert
+here, that's fine.
+
+They create this standard,
+
+but this is a pretty
+substantial gap
+
+between the two bits
+of legislation,
+
+if they were going to create
+the companion legislation,
+
+you would probably expect
+them to go together.
+
+But what happened is over time,
+
+based on the courts
+applying the 1957 Act,
+
+they saw that there was this gap
+
+in enclosure of
+appropriate claimants.
+
+They were looking to capture
+
+this particular type
+of claimant who was
+
+injured on a premises
+where there was
+
+an occupier with a
+degree of control,
+
+and there was a static danger.
+
+They were seeing that
+the appropriate remedy
+
+was not being issued
+by the courts,
+
+and this is how you
+get the non-visitors,
+
+and that's why it's important,
+
+not just trespassers,
+because trespassers
+
+also then tend to
+introduce this element,
+
+whether it's legislated or not,
+
+that they're doing
+something wrong.
+
+The 1984 Act is not always
+
+going to be a situation
+where somebody is
+
+doing something necessarily
+wrong or something that
+
+might also indicate liability
+
+of the person who is injured.
+
+If you're trying to reason
+why there is the gap,
+
+it's because there was a
+demonstrated problem where we
+
+weren't getting the
+type of outcome that
+
+was intended with the 1957 Act.
+
+Instead of amending it,
+they felt it was so
+
+important that there was a
+separate act passed later.
+
+You want to keep this on hand,
+
+print it out, put it at
+the top of your notes.
+
+Hopefully, you already have it.
+
+Like I said before,
+for most things,
+
+we're not going
+to ask you to put
+
+any a section in your
+writing in an exam format,
+
+but for something that's very
+
+short and very tied together and
+
+completely open
+book, open statute,
+
+this should be
+something that you're
+
+sufficiently familiar
+with that you can
+
+find and reference because
+this is what the courts do.
+
+This is what the basis
+of the reasoning is.
+
+How are they the
+same? What changes?
+
+What doesn't change when we
+get the 1984 Act introduced
+
+after 30 years or so of
+applying the 57 Act?
+
+They don't extend the
+way that it's codified.
+
+They keep the duty in breach;
+
+they leave causation and
+remoteness to the common law.
+
+This indicates that actually
+
+Parliament is happy with the way
+
+that causation and
+remoteness was being
+
+applied in the 1957 Act.
+
+We don't see a big
+change here on what's
+
+codified and what isn't
+as far as negligence.
+
+We do have some
+standard for warning,
+
+but the warning standard
+itself is different.
+
+But ultimately, one of
+the things that takes up
+
+a lot of space in this very
+short act is what kind of
+
+warning do you need to
+give your visitor or
+
+non-visitor in both acts?
+
+As I said, they still require
+
+causation and remoteness,
+but they don't modify it.
+
+You still have the same
+type of defences available.
+
+There's more things you
+could come up with here.
+
+These are just some examples
+
+when you're looking at
+the two acts together,
+
+how do they work together?
+
+You'll do more of
+this in workshop
+
+and compare it with negligence.
+
+This is just a bit of
+starter to get thinking.
+
+One of or some of
+
+the major differences
+here are going to be,
+
+of course, the claimant status.
+
+This is what you're
+going to want to start
+
+with visitor or non-visitor.
+
+More duty, essentially
+broader as far
+
+as what you have to
+fulfil for visitors,
+
+and there are those
+specific variations
+
+in standard of care
+for the 57 Act.
+
+The big one you want to pay
+attention to here is what do
+
+the warning requirements look
+
+like in these statutory acts.
+
+One is safe in all the
+circumstances without more,
+
+57 Act versus a full absolution
+
+of liability in the 84 Act.
+
+If you can fulfil
+
+those criteria and
+property damage recovery,
+
+yes, for the 57,
+
+no for the 84.
+
+Go ahead and either
+
+click on with your
+QR code or click on
+
+the link and go ahead
+and try these 57 Acts.
+
+Like I said, if you can just be
+
+conscientious about chatting
+with your neighbour,
+
+it's very tempting, but
+it won't be too long.
+
+I put the QR code
+
+back up in case you missed it.
+
+Take about one more minute.
+
+Fifty three responses so far.
+
+Just as a contextual
+thing for you,
+
+when you do take the MCQ,
+
+not to terrify you
+Monday morning,
+
+you have 30 minutes
+and 45 questions.
+
+The reason this is done
+this way is because, again,
+
+you're sitting at home on
+
+your computer with
+open Internet,
+
+open book, whatever, so if
+we gave you infinite time,
+
+we aren't testing anything.
+
+As you've not done any revision
+or anything like that,
+
+so you won't be as
+quick and some of
+
+these questions are
+a bit not balanced.
+
+But just to give you an
+idea of what the pacing is.
+
+Seventy four percent party
+or parties with degree of
+
+control, 26 occupying landlord.
+
+Degree of control of the space.
+
+Landlord, no
+landlord, irrelevant.
+
+As long as you have degree
+of control over the space,
+
+all of you who occupy
+
+your space and have control
+over the static danger,
+
+then you may be the occupier
+for purposes of the OLA.
+
+As a preview, when you get
+into private nuisance,
+
+you're going to be looking for
+
+property ownership because
+the tort is even more closely
+
+tied to the land where occupiers
+liability is more tied
+
+to control over the space,
+
+control over the danger.
+
+Mostly correct goods, yes.
+
+If you have something
+that is luring children,
+
+this is very Hansel
+and Gretel situation.
+
+You have a candy house
+and then you're surprised
+
+when kids come and
+fall into the oven.
+
+We all still know
+Hansel and Gretel?
+
+Yes, hopefully.
+
+That's not even me being old,
+
+that's just really old.
+
+That's what the doctrine
+of allurement is.
+
+If you have something that
+
+will bring children
+onto your property,
+
+then they are essentially
+considered visitors.
+
+They're implied invitation.
+
+Remember, a visitor can
+be an express invitation.
+
+You can say, hey, would
+you like to come over for
+
+dinner or implied invitation,
+
+you want someone to
+deliver your post.
+
+You don't say to
+
+the royal mail every time they
+
+come on that they're invited.
+
+Similar with children, this is
+
+treated as an
+implied invitation.
+
+I did not mention
+hopefully this one.
+
+If you have a case in mind,
+
+hopefully you were thinking
+of Wheat and Lacon.
+
+Wheat and Lacon is what
+tells you about degree
+
+of control and who
+the occupier is.
+
+Here, there's a couple
+ones you could talk about,
+
+but one would be Glasgow Corp
+
+with the poisonous
+berries in the park.
+
+We're expecting children
+to come into a park,
+
+if you have something that
+looks like an edible berry,
+
+then you have to expect that
+
+this is a static danger
+of the property,
+
+children will engage with.
+
+Again, another red
+flag with that one,
+
+Glasgow Corp is early 1900,
+
+so even though it informs
+
+later case law and
+informs the OLAs,
+
+it is not per se,
+
+an OLA case because
+chronologically it can't be.
+
+It informs this doctrine.
+
+We use it to talk
+about the OLAs.
+
+Citations are important.
+
+Why does this not work?
+
+The 23% on the not invited.
+
+This has to do with,
+I just explained.
+
+An invitation can be implied
+
+in a couple of different ways.
+
+If you have something
+that fits under
+
+doctrine of allure
+implied invitation.
+
+Children are never trespassers.
+
+They can be, but their
+legal treatment is varied.
+
+Garden can be occupied.
+
+It doesn't necessarily
+mean you live there,
+
+it can be a vehicle,
+
+it can be an aeroplane,
+it can be a boat.
+
+It's just a premises that you
+
+have control over
+as an occupier.
+
+Good. Again, yes,
+mostly correct.
+
+Just keep in mind,
+
+we do need to do
+
+the common law causation and
+remoteness for both acts.
+
+Don't do this in addition
+
+because not only
+is this a waste of
+
+your time and will eat into
+your analysis of the facts,
+
+your actual valuable
+critical analysis
+
+because you'll be
+trying to do two.
+
+It exemplifies that there's
+
+not a full understanding
+of what the OLAs do.
+
+Great. Hopefully
+this was helpful.
+
+We're going to now do
+this really quickly
+
+for the 1984 Act.
+
+Go ahead and start with that.
+
+We'll take 4-5 minutes.
+
+Take about one more minute.
+
+We have an occupier
+has reason to believe.
+
+Yes. Majority correct here.
+
+This is language directly
+out of the 1984 Act,
+
+which is why it's
+very helpful to
+
+have the statute
+in front of you.
+
+This is the type of risk you
+are meant to guard against.
+
+This is the trick one,
+a reasonable person.
+
+Ultimately, this refers back to
+
+a more objective standard,
+
+which is one of the reasons
+we have the 1984 Act.
+
+It actually has a more
+subjective flavour.
+
+What the occupier would do
+
+that was reasonable in
+all the circumstances.
+
+This ties back to the
+example I gave last week
+
+on if the thing
+that would really
+
+provide the most safeguarding
+on your property,
+
+let's say you have
+an acre of land and
+
+the best protection you
+
+could give would be to
+fence the whole thing off,
+
+and this is going
+to be financially
+
+prohibitive for a lot of people.
+
+If you are considering
+regular negligence,
+
+personal financial
+situation is not
+
+really going to come into
+this if you are negligent.
+
+But something like the 1984
+Act is going to consider
+
+the cost of fully protecting
+into the reasonable factor.
+
+You don't want to go
+into the objective.
+
+Non-obvious to an
+invited visitor.
+
+We're not really dealing
+with that area right now.
+
+You do need to think about
+
+obvious and non-obvious dangers,
+
+but these are
+uninvited children,
+
+we're in the 1984
+act, not the other.
+
+Completely sure, yeah,
+
+not completely sure it's
+reasonably expected.
+
+Good. Cases you could
+
+talk about for this one would be
+
+things like Phipps
+and Rochester,
+
+for instance, where you have
+
+unexpected children coming onto
+
+a construction site,
+5-7-year-olds.
+
+You'd expect some
+parental supervision.
+
+This is still a response
+when you're talking
+
+about what's reasonable
+to protect against.
+
+Statutory escape hatch.
+
+Yes, I'm a
+
+little bit sad no one went for
+
+physical escape hatch,
+but that's okay.
+
+Statutory rule
+allowing an occupier
+
+to fully discharge their duty.
+
+This is a statutory
+escape hatch.
+
+This is a big difference that
+was put in legislatively.
+
+You can see what might happen.
+
+Perhaps we talk a lot
+about deserving claimants,
+
+but if you think about the
+1957 Act, and it says,
+
+the warning isn't enough without
+
+more for these visitors
+to be reasonably safe.
+
+There's a large variation
+here where if you
+
+actually do take reasonable
+steps to warn or discourage,
+
+you're completely not liable.
+
+You don't even have to
+establish duty or breach.
+
+This cuts it off absolute
+freedom from liability.
+
+You don't have to talk
+about whether you
+
+breached or not with the danger.
+
+This is important
+for the 84 Act.
+
+Quite a few different cases
+you can look at with this.
+
+Ultimately, it's a
+fact based analysis.
+
+What do you owe a non-visitor?
+
+This was definitely the trick
+here because same duty,
+
+and the reason we know this,
+
+what is lesser here,
+
+the variation of the duty
+has to do with the standard.
+
+The reason we know this,
+
+if we go to the
+Occupiers Liability Act.
+
+Where have I put the 57?
+
+There.
+
+Here.
+
+Same common duty of care
+
+in the 1957 Act.
+
+Your scope of how
+
+that duty is applied is
+going to be different.
+
+The text of what the duty is is
+
+the common law duty of
+care in the statute.
+
+This is one of the tricky ones,
+
+but this is also why you want to
+
+have the text in front of you.
+
+This is one of those
+things that you
+
+probably wrestled
+with in negligence as
+
+well where if you're
+separating out duty and
+
+standard of care,
+they're quite enmeshed.
+
+Just be aware what
+the actual text
+
+says is that it's the same here.
+
+Your big variations in
+
+the '84 Act have to do
+with the warnings and
+
+have to do what your
+standard of care
+
+is rather than the
+actual duty itself.
+
+Let's go back.
+
+We are now going to do a
+really short problem question,
+
+and I will talk through what I
+
+would think this
+would look like with
+
+this checklist that
+I put up in advance.
+
+Have a go with this.
+
+If you haven't had a look at
+
+that and I'm
+wondering if that is
+
+the case based on
+some look to horror.
+
+Let's do it this way. If you've
+not had a look on Moodle
+
+at this issue spotting and
+fact pattern analysis,
+
+like I said, this is just
+IRAC and/or IPAC expanded.
+
+If you've not thought
+about this since
+
+LAW 101 last year in
+your exam period,
+
+when you're going
+to your workshops,
+
+not just for tort,
+
+but when you're doing
+problem questions,
+
+if you think about it this way,
+
+it will be much more thorough.
+
+You will not miss things.
+
+When we're reading,
+and this is probably
+
+true for the majority of
+
+people who are
+looking at your work,
+
+the main issues we're going
+to be looking at here is,
+
+are you identifying
+six through 11.
+
+One through five is
+
+the approach that I
+think you should take.
+
+When you used to do
+in-person assessments,
+
+when you used to sit for
+exams in person here,
+
+there will be a 10-minute
+reading period.
+
+You would not be
+allowed to touch
+
+your pen or your
+pencil, your paper,
+
+you would just pick up the
+exam and you would read it,
+
+and the proctors wouldn't
+allow you to go forward.
+
+You may or may not
+take 10 minutes,
+
+but I think it's a really
+good practise to exercise
+
+some self-control
+at home when you're
+
+doing this and just read it.
+
+Because again, that allows
+
+you to take the full picture in,
+
+get your structure
+going because you still
+
+want to have a good
+organised structure.
+
+This can actually work for
+a lot of different things.
+
+Even if you did
+regular negligence.
+
+Let's say you find negligence,
+
+you find where the facts are,
+
+then what you would have
+here would be things like,
+
+duty Robinson,
+breach, causation.
+
+Then you would say, the rule is,
+
+and you set out
+all of your torts.
+
+This may seem redundant
+when you're thinking,
+
+I don't have that much time.
+
+They already know that
+I know that they know.
+
+I'm not going to tell them about
+
+incrementalism and
+duty and Robinson.
+
+But we need to know
+that you know.
+
+It is absolutely worth it to
+
+take the time to set
+out what you mean.
+
+If you were going to say breach,
+
+you would then say bolton,
+
+likelihood, degree harm.
+
+My notes aren't going to
+make sense to you and
+
+your notes probably shouldn't
+make sense to other people,
+
+so I won't write the
+whole thing out for you.
+
+Part of the skill
+
+that you're acquiring
+here that's going to be
+
+really valuable for you as
+legally educated people.
+
+What can you offer in
+
+your future employment
+if AI can do doc review?
+
+What you need to do is
+make sure you are able to
+
+demonstrate how you can take
+
+a large amount of
+critical information,
+
+identify what's relevant,
+why it's correct or not.
+
+You're going to become
+an issue spotter rather
+
+than a ground up
+content generator.
+
+Being able to do
+this and knowing
+
+what is correct and
+what isn't correct
+
+is going to be able
+to differentiate
+
+you and you also
+want to be able to
+
+explain that to
+somebody when you're in
+
+an interview or what is
+it that you can offer.
+
+If you can talk about
+
+how you can really synthesise
+
+these large bits of information,
+
+but also identify how
+they're supposed to
+
+go together and what's
+correct and what isn't,
+
+you could apply this in
+many different situations.
+
+When you're looking
+at these fact
+
+patterns, go through this.
+
+Take time to do all of these
+steps and like I said,
+
+your claimant and
+your v defendant
+
+for every single situation.
+
+Identify your facts,
+identify what tort it is.
+
+If you are doing negligence,
+
+you would just say negligence
+applies to A or B.
+
+Then you analyse in each turn.
+
+Be sure you do
+defences and remedies.
+
+Dr. Gilmartin will take over
+
+tort after I do in a few weeks.
+
+She will do defences and
+remedies with you and
+
+she pays very close attention
+
+to whether or not you've talked
+
+about defences and remedies,
+
+so don't neglect this when
+you're writing up your answer.
+
+We aren't going to do it
+now, but when you get there,
+
+just a heads up, make
+sure that you do this.
+
+You want to make a conclusion,
+
+take a position, do the
+analysis all the way through.
+
+If we disagree
+with your outcome,
+
+it doesn't really matter if
+you've done a solid analysis.
+
+You have minority
+opinions from judges.
+
+Highly legally educated experts
+
+come to different conclusions
+at the highest levels.
+
+If you say yes, they're
+liable or no, they're not,
+
+this is not our concern
+
+if you've made a really
+good solid legal analysis.
+
+With that in mind, go ahead
+and take a few minutes.
+
+What I want you to do here
+is start with Bob and Maeve.
+
+Read the pattern.
+
+Try to really quickly write
+B v M. What is the issue?
+
+What are the elements?
+
+What cases can you apply?
+
+Just take a few
+minutes because of
+
+course we're going
+to run out of time.
+
+I'm completely aware this is
+
+nowhere near enough
+time to do this,
+
+but I just want
+you to get a feel
+
+for something completely unseen.
+
+How do you engage
+with the material,
+
+and you can take this later and
+
+do it as a full practise
+question under time environment.
+
+If you want, there's enough
+
+there to write up a
+full exam question.
+
+I tried to keep it short,
+I didn't really succeed.
+
+But if you only start with
+
+Bob and you look
+at your checklist.
+
+You can do this as a bit of
+
+follow -up work or if
+you're looking for
+
+more practise as we get
+closer to exam session,
+
+you can use this to go through.
+
+You can review this
+later because again,
+
+it's a lot of text.
+
+But if I were to start on this,
+
+if I were to just make
+my own notes for myself,
+
+this is what I would look like.
+
+As I said, the very first thing
+
+that tells us if you've
+been paying attention at
+
+all all year is you divide
+your answer up like this,
+
+claimant, v, pronounced
+and defendant.
+
+This is how you would
+file something.
+
+It wouldn't be filed under
+duty and breach in OLA.
+
+There's going to be
+some facts that are
+
+relevant to each party
+and some that aren't,
+
+so you probably want
+to divide these up.
+
+You don't need to reiterate
+
+all of the facts in your answer.
+
+You don't have time,
+it's not necessary.
+
+You just want to highlight
+the ones that are there
+
+relevant to your legal
+reasoning and maybe you want to
+
+highlight a few cases
+as you go through.
+
+If you have very good notes,
+
+this will be on hand for you.
+
+If you make yourself a
+little outline and you say,
+
+I can lift this up
+and put this into
+
+a negligence analysis or
+
+OLA or whatever it is
+that you're doing,
+
+the only danger with that is
+
+you really need to
+double triple check
+
+your notes because I have had
+
+students come in and
+say, I used my notes,
+
+I did all this stuff
+and I've looked at
+
+the notes and they've
+got their rules
+
+mixed up with particular
+cases, this thing.
+
+If you're going to
+use a sheet sheet,
+
+you just want to
+double triple check
+
+because beginning of the year
+is a long time from June.
+
+If we're looking at what
+Bob may be able to claim,
+
+what we do have is we have
+
+a premises with a static danger.
+
+We have an invited visitor,
+
+so you should be
+under the OLA 1957.
+
+We know that the duty is
+established in the statute,
+
+so you want to put in
+your common law duty
+
+as described in the statute.
+
+You have your relevant occupier,
+
+degree of control
+over the premises.
+
+You would talk about Section
+2.1, all the circumstances.
+
+Has she in all the circumstances
+
+made the visitor
+reasonably safe?
+
+She's given a warning,
+but the warning is
+
+not sufficient for
+him to be safe.
+
+Whenever you see
+this flagged up,
+
+somebody is given a warning,
+
+this is an invitation
+to talk about one
+
+of the two sections in the OLAs.
+
+Not reasonably safe with
+
+the warning, it's
+not good enough.
+
+She's talking about
+something being slippy,
+
+but that is not
+really the issue.
+
+The issue is that the
+side of it is loose.
+
+There's your breach, not
+discharged to the duty.
+
+Does this static danger
+caused the injury?
+
+Yes. Is the injury too remote?
+
+No. Can you recover
+physical damage?
+
+Yes. Can you recover
+property damage?
+
+Yes. If I'm reading a
+response to the OLA,
+
+this is exactly what my
+brain is looking for.
+
+If you miss one of these steps,
+
+you're slowly knocking down
+
+the maximum you
+could achieve here.
+
+Again, this is the
+high level framework.
+
+All of this needs to
+be fleshed out with
+
+much deeper analysis and
+application of cases.
+
+But if you use that checklist
+and go in that order,
+
+this will also make sure that
+you don't miss the issues.
+
+This is what I'm talking about
+spending a few minutes at
+
+the beginning when you first
+
+decide on the question,
+you're going to answer,
+
+list out your parties
+because time can
+
+sometimes get the better
+of you and if you
+
+set your framework out first,
+
+it will remind you that you
+need to come back to that.
+
+Leave you with EV here again.
+
+But you want to consider
+
+if the facts had been
+varied or more complicated.
+
+I tried to make something
+quite straightforward,
+
+not a lot going on just so you
+
+could have a quick look in time.
+
+What if the warning
+had been different?
+
+If you look at the child,
+
+what if the child
+had been injured?
+
+What if the injury to
+the child was not from
+
+slipping on water or
+from being chased
+
+by another child but
+was from the hot tub.
+
+You can see this high degree of
+
+variation that would affect
+
+your analysis
+specifically on the fact.
+
+I'll just go back
+again to this is
+
+why you really need to be
+
+the human authority on what
+is in the fact pattern,
+
+not what pops up on
+Google search first,
+
+because you will get a lot of
+
+inferences like Jolie
+taking place on
+
+a beach and that will make
+
+a big difference to what
+your outcome will be.
+
+My final question is,
+
+are cats an allurement
+onto your property?
+
+Do they become visitors
+if they come to see
+
+the cat? I will see you Friday.
+
+Thanks very much. Thank you for
+
+being really mindful
+about your working.
+
+I know it's a lot
+for Monday morning.
+

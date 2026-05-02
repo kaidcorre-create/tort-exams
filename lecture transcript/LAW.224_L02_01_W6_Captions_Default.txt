@@ -1,0 +1,2581 @@
+MALE_1: Show you these slides.
+
+I think Tina's looking
+for something or other.
+
+Tasking group, AI tasking
+ambassadors. Contact her.
+
+It's all on the Moodle
+page. Just here.
+
+While I'm at it,
+I can go on here,
+
+and if I click on that,
+
+I can see how many of you have
+
+actually looked at the
+reading list for this week.
+
+That's quite a small
+number, so alarming.
+
+Just maybe worth re-emphasising.
+
+I can't find that.
+
+Before I come on to
+Pure Economic Loss (2),
+
+it just might be
+worth re-emphasising
+
+that absolutely brilliant
+though my lectures are,
+
+absolutely wonderful
+though the slides
+
+I have created for you may be.
+
+However stunned you are at
+
+the comprehensiveness
+and elegance
+
+and wisdom of my lectures,
+it's not enough.
+
+It does not do the job.
+
+I didn't teach you, for example,
+
+Week 2, I didn't teach
+you, not week 2.
+
+The second negligence
+topic was breach.
+
+One of the doctrines I don't
+mention in the lectures
+
+for breach is a doctrine
+called res ipsa loquitur,
+
+the thing speaks for itself.
+
+This is in the textbook.
+
+It's not in my lectures.
+
+It's very definitely
+important and relevant.
+
+It became apparent to
+
+me not actually
+during my workshops,
+
+but from talking to my
+
+colleagues in their
+workshops that
+
+no one has been reading
+
+the textbook enough to
+
+know about what res
+ipsa loquitur was.
+
+I'm sure some of you have read
+
+the textbook. Well
+done if you have.
+
+But I should just stress,
+
+reading the textbook
+reading really
+
+is the absolute bare minimum.
+
+It's a very easy textbook.
+
+Back in my day,
+
+which was not all that long ago,
+
+reading the textbook used to be
+
+literally the bare
+minimum when I
+
+used to actually go
+ahead and read cases,
+
+even though I wasn't
+a massive nerd,
+
+just reading cases was
+generally the expectation.
+
+Anyway, I won't bang
+on and on about this
+
+because I understand
+what it's like.
+
+But do some reading.
+
+However good you think
+the lectures are,
+
+however good you
+think the slides are,
+
+they really are not enough.
+
+You are going to get
+absolutely screwed in
+
+the exam if you just
+
+do the lectures and
+don't do any reading.
+
+Onto merrier stuff.
+
+Pure Economic Loss (2).
+
+No, before I actually come
+
+on to Pure Economic
+Loss number two,
+
+there's one more
+thing I want to say,
+
+which is more to
+try and help you
+
+understand further
+what I mean when I
+
+say that you will be examined
+
+primarily largely on the
+topics in the workshops.
+
+I said something about this at
+
+the beginning of last lecture.
+
+I'm just going to repeat
+it now and add to it.
+
+One thing I tried to
+make clear was that
+
+other stuff is still relevant.
+
+We just won't set a
+question in the exam,
+
+which is focused solely on,
+
+for example, Pure Economic Loss.
+
+I will not set a question
+where the primary topic is
+
+Pure Economic Loss
+because you do not
+
+get a workshop about
+Pure Economic Loss.
+
+But here's a good example
+
+of what I mean not
+primarily focused on.
+
+In week 20, 19, 20, next term,
+
+you do remedies and defences.
+
+You don't get a
+separate workshop
+
+on remedies and defences.
+
+But literally every
+
+single tort problem question
+
+will involve you saying
+a little something
+
+about remedies and defences.
+
+Now, in the past, we
+
+might have set
+questions which are all
+
+about remedies and defences or
+
+primarily about
+remedies and defences.
+
+Where there's loads
+of really hard,
+
+tricky issues
+concerning the details
+
+of remedies and defences.
+
+But just because we
+
+don't have workshops on
+remedies and defences,
+
+that doesn't mean you can leave
+
+out remedies and defences.
+
+You are still going to need
+to cover them briefly.
+
+We're just not going
+to set a question
+
+which is focused solely,
+
+wholly largely on those.
+
+I hope that makes more sense.
+
+Good. Now I'm coming to
+Pure Economic Loss (2).
+
+Just to remind you, this
+
+is another special
+duty scenario.
+
+That's what we're going
+to be learning about
+
+the next couple of weeks,
+special duty problems.
+
+Just to reiterate, these
+are problems about whether
+
+or not a duty of care
+exists in the first place.
+
+I think people tend to get
+a bit confused about that.
+
+Remember, stages of negligence
+
+are duty, breach, causation.
+
+All the things I'm teaching
+about now are duty problems.
+
+They're to do with the
+first stage of that.
+
+Whether or not there
+is a duty of care.
+
+The problem with Pure
+
+Economic Loss is
+that there might be
+
+no duty of care to avoid
+
+causing Pure Economic
+Loss in the first place.
+
+You fail at the first hurdle.
+
+The general rule, of course,
+
+is that normally is
+
+no duty to avoid causing
+Pure Economic Loss.
+
+Apart from in very
+special circumstances,
+
+and those circumstances
+basically are where D assumes
+
+responsibility to avoid
+causing this particular loss.
+
+Normally, that assumption
+of responsibility
+
+involves these
+three ingredients,
+
+well, really two ingredients
+most of the time.
+
+A special relationship and
+
+the assumption of
+responsibility is voluntary.
+
+Then sometimes third
+reasonable reliance,
+
+but that's only in negligent
+misstatement cases,
+
+not in negligent provision
+of services cases.
+
+This is a doctrine that
+started in Hedley Byrne,
+
+expanded to provision
+of services in
+
+Henderson and Merrett
+and was taken beyond
+
+assumption of responsibility in
+
+this weird one off case about
+
+solicitors White and Jones,
+
+which has actually
+been followed since.
+
+That's a summary of
+
+last time and just say
+one more thing, mainly,
+
+you're doing this because
+you need to learn about
+
+the doctrine of assumption
+of responsibility,
+
+which is very important
+in its own right,
+
+quite apart from
+Pure Economic Loss.
+
+There's the recap. We did
+the first three last time,
+
+and now we are coming
+to the limits of
+
+the doctrine and some
+specific aspects of it.
+
+I should have just checked.
+
+Sounds all right at the back?
+
+Good. The limits of
+the doctrine first.
+
+That's a nice Brugal
+painting again.
+
+Brugal it should be clear is
+
+one of my favourite artists.
+
+The first limit is
+
+that assumption
+of responsibility
+
+happens in professional,
+not social contexts.
+
+What does that mean?
+Well, Robinson and
+
+Jones sets this
+out quite clearly.
+
+It gives this nice useful
+general quote on this.
+
+The point is here
+that you've got
+
+this asymmetry of knowledge
+
+or asymmetry of understanding,
+
+especially in negligent
+misstatement cases,
+
+between the professional
+and the lay person.
+
+The financial advisor
+and their client,
+
+the lawyer and their client,
+
+the value and their client.
+
+Even in provision
+of services cases,
+
+you've got this asymmetry too,
+
+in the sense that you have
+
+a care provider and a child
+or a school and a pupil.
+
+You've got all sorts of
+different relationships
+
+where the professional takes
+on this responsibility,
+
+this special heightened
+responsibility.
+
+In fact, you get assumption
+of responsibility in
+
+doctor patient cases as well as
+
+the basis of
+liability sometimes.
+
+If you remember,
+that was explored in
+
+ABC and St. George's Healthcare.
+
+That case that I taught
+you about in Lecture 2B,
+
+I believe it was, about novel
+duty of care scenarios.
+
+One of the things discussed
+there was whether or not
+
+the therapists had assumed
+
+responsibility to the daughter
+
+to tell her about her
+father's Huntington's.
+
+Whether there was an
+assumption of responsibility
+
+by the therapist
+to the daughter.
+
+That's because they were in
+an asymmetric relationship.
+
+Now, as it happens,
+
+there was no assumption of
+responsibility in that case,
+
+but you get the point, I hope.
+
+This is professionals
+and lay people,
+
+and those professionals occupy
+
+a sudden position of
+trust within society,
+
+and they know that their
+clients are going to rely
+
+or might rely on their
+professional role,
+
+on their professional advice,
+
+on their provision of services,
+
+and that might have some
+economic consequences.
+
+Burgess and Lejonvarn gives
+a really nice example
+
+of something quite close to
+
+the boundary between
+professional and social,
+
+but it does fall on the
+professional side of that,
+
+and so there was an assumption
+of responsibility here.
+
+This case was about
+some neighbours.
+
+The claimant asked their
+friend and neighbour,
+
+who was a qualified architect,
+
+to oversee the landscaping
+of their back garden.
+
+Defendant was
+heavily involved in
+
+the organisation of contractors
+
+and the delivery of the project,
+
+as well as in planning
+later elements.
+
+No payment had been discussed
+but it was pretty clear
+
+that there was going
+to be some payment
+
+from the way the
+relationship was working.
+
+The claimants became
+unhappy with the quality of
+
+work because the costs had
+substantially overrun.
+
+Here we have a case where
+there's no contract.
+
+The defendant can't sue any
+contract and that's why
+
+tort gets involved because
+
+no payment had been discussed,
+
+no consideration
+passed hands yet.
+
+The question is was this
+a professional context?
+
+Because obviously they
+were just neighbours.
+
+The answer was, yes,
+
+this just fell on the
+professional side of the line.
+
+But these are going to be
+genuinely tricky questions.
+
+At the moment, for example,
+
+I have a friend who might
+
+potentially be being
+made redundant.
+
+My wife's an employment lawyer,
+
+so my wife is giving my
+friend some ad hoc advice.
+
+Is my wife assuming
+responsibility to
+
+my mate to give her
+the right advice?
+
+Probably not because she's
+been pretty clear that
+
+the advice is without
+responsibility
+
+and that she's not
+giving legal advice.
+
+Indeed, she couldn't
+lawfully give
+
+legal advice to my mate properly
+
+because you've got to have
+
+all sorts of particular
+certificates and you've
+
+got to engage someone, etc.
+
+She's not insured to do that.
+
+So there's all
+sorts of reasons in
+
+that particular case why it's
+
+not professional
+and it's social,
+
+but you can see how
+these things can
+
+get very blurred and
+get quite tricky.
+
+But it's got to be
+professional is the point.
+
+In this case it was.
+
+It was recognised
+by both parties
+
+that the professional
+services would be
+
+required for the project
+to be successful.
+
+It wasn't just some
+useful advice.
+
+That's quite different from
+
+my wife and my friend's
+case, for example,
+
+because my friend doesn't need
+
+my wife's advice in order
+
+for everything to be successful.
+
+She can just do this
+without a lawyer.
+
+Indeed, she is without a lawyer.
+
+Just a friend is advising
+her. That's very different.
+
+Whereas here, the
+whole thing just would
+
+not work unless the
+defendant was involved,
+
+unless the defendant's
+services were given.
+
+The defendant was
+basically planning
+
+the whole project in a
+professional capacity,
+
+even though they
+were just neighbours
+
+and they weren't clients
+in a contractual sense.
+
+There's the point. It was
+
+not an informal or
+social context.
+
+There was an obvious
+relationship proximity.
+
+Although she wasn't going
+to be paid initially,
+
+the expectation was that
+she would be paid later.
+
+She was holding herself out
+
+as having professional skills.
+
+There were no disclaimers.
+
+Unlike in my wife's case,
+
+my wife is very clearly saying,
+
+this is not legal advice.
+
+If you want proper legal
+advice, go and get a lawyer.
+
+That's not what
+was going on here.
+
+Very different. It just
+
+fell on the professional
+side of the line.
+
+But you can see that it's
+quite close and quite tricky,
+
+which is why it got to the
+Court of Appeal, of course.
+
+EWCA Court of Appeal.
+
+Good. That's the first rule.
+
+It's got to be
+professional, not social.
+
+You do not get assumptions of
+
+responsibility in
+a social context.
+
+You get them where there's
+
+an asymmetry between
+the parties.
+
+One is a professional,
+one is a lay person.
+
+Another limitation is that
+
+the defendant has to assume
+
+responsibility to the
+claimant personally.
+
+What does that mean? BNL,
+
+Banca Nazionale,
+something or other,
+
+it's a Spanish bank, I believe,
+
+and Playboy Club is
+a good case on this.
+
+Playboy Club is what
+it says on the tin.
+
+It's a club in London
+associated with
+
+the Playboy magazine,
+Playboy House.
+
+I'm sure you know
+what that is roughly.
+
+It's where gambling takes place.
+
+It's in Mayfair. Just
+on the edge of Mayfair.
+
+Very, very wealthy
+people go there,
+
+of course, because
+it's in Mayfair.
+
+Tourists a lot, but very
+wealthy Londoners too,
+
+and gamble a lot of money.
+
+Mr. Barakat was one such person,
+
+although he was not
+actually very wealthy.
+
+He was pretending
+to be very wealthy.
+
+He wanted to gamble,
+
+and the claimant, which
+was Playboy Club,
+
+through its agent T,
+
+sought a credit
+reference for Mr.
+
+Barakat, to allow him to gamble,
+
+to basically borrow
+money, to borrow chips,
+
+and be able to gamble.
+
+The defendant, Banca Nazionale,
+
+negligently gave a
+positive reference
+
+to this third party.
+
+The defendant didn't know
+what that reference was for.
+
+They didn't know that it
+was for the Playboy Club.
+
+In order for Mr. Barakat
+to gamble loads of money,
+
+and it turns out that Mr.
+Barakat was not creditworthy.
+
+He was a fraudster
+pretending to be very rich,
+
+and the claimant ended up
+losing a lot of money.
+
+Playboy Club ended up
+losing a lot of money.
+
+They sued. It was held the
+defendant wasn't liable
+
+because the defendant didn't
+
+know the purpose of
+their reference.
+
+They did not know
+that it was being
+
+used for Mr. Barakat to
+gamble huge sums of money.
+
+The defendant, in
+order for there to
+
+be an assumption
+of responsibility,
+
+defendants have to know
+
+what they are assuming
+responsibility for exactly.
+
+They have to know the
+details of their assumption,
+
+what's at risk, what's at stake.
+
+They've got to know
+what economic loss they
+
+might be assuming
+responsibility for.
+
+Lord Sumption's quote
+is quite useful here on
+
+this where a statement
+is relied on by B,
+
+to whom A has passed it
+
+on the representor
+owes no duty to
+
+be unless he knew the statement
+
+was likely to be
+communicated to B.
+
+We can contrast that with
+
+the case I looked at last time,
+
+Smith and Eric Bush,
+
+which is similar in the
+sense that there was
+
+no direct relationship
+between D and
+
+C. This was the
+one where you had
+
+home owners and valuers,
+
+and the home owners didn't go
+
+directly to the valuers
+for the valuation.
+
+They went to a third party who
+
+then they gave the money
+to the third party,
+
+and then the third party
+gave the valuers the money,
+
+and the valuers knew
+that they were providing
+
+the valuation for the
+benefit of the claimant,
+
+even though they were getting
+
+the money from the third party,
+
+they knew that they
+were providing
+
+for the valuation
+for the benefit of
+
+the claimant and that the money
+
+was ultimately coming
+from the claimant,
+
+even though it was going
+through the third party.
+
+Very different scenario to
+this where the defendant had
+
+no idea what the reference was
+
+for or who it was for exactly.
+
+They knew they were providing
+
+a reference for Mr. Barakat,
+
+but they didn't know
+for what purposes,
+
+and they didn't know
+what was at stake
+
+and what might be lost.
+
+You've got to know what you're
+
+assuming responsibility for,
+
+and who you're assuming
+responsibility for and what way.
+
+You've got to assume
+responsibility
+
+personally to the claimant.
+
+That's the idea. It must
+
+be part of the statements
+known purpose that it should
+
+be communicated to and
+relied upon by B if
+
+the representor
+is to be taken to
+
+assume responsibility to B.
+
+Here's another limitation,
+just a different limitation.
+
+Reliance is necessary
+in misstatement cases.
+
+Just because it's not
+
+necessary in provision
+of services cases,
+
+it is still necessary in
+
+negligent misstatement
+cases like Hedley Byrne.
+
+This says yesterday because in
+
+previous years I used to give
+
+the lectures sequentially
+one after the other.
+
+That should say Monday now.
+
+We saw on Monday
+that reliance is
+
+no longer necessary in the
+provision of services cases.
+
+It is necessary in misstatement
+cases and the case,
+
+which is authority of that
+is just NRAM and Steel.
+
+Then it's an interesting
+question whether it's possible
+
+to have D be
+
+liable for pure economic loss
+
+outside of assumption
+of responsibility.
+
+This is a rather interesting
+conceptual question.
+
+Sorry, interesting
+for tort lawyers,
+
+not interesting for anyone else.
+
+But for tort lawyers,
+traditionally,
+
+it's often been thought,
+
+and this is the way
+it's often taught,
+
+that assumption of
+responsibility is
+
+the exception to the rule
+
+that D is not liable to C
+for pure economic loss.
+
+Now you already know one
+exception to that rule,
+
+which I taught you on
+Monday, White and Jones.
+
+That's the special case about
+
+solicitors and
+
+their special relationship
+to their clients,
+
+and the wrongly made will or
+
+the failure to correct the
+will to what it really was.
+
+What this indicates,
+
+is that the grounds of
+negligence are never closed.
+
+To quote Lord Bridge and Caparo,
+
+the grounds of negligence
+are never closed.
+
+The point here is
+that although it is
+
+the case that normally D is only
+
+liable for C's
+pure economic loss
+
+insofar as there is
+
+an assumption of
+responsibility by D to C,
+
+the grounds of negligence
+are never closed;
+
+there may be some other
+circumstances where
+
+justice calls for an
+advancement of the law.
+
+You can see if you're
+given a case where there
+
+is serious obvious injustice,
+
+it may be that the House
+of Lords will create
+
+some new grounds analogously
+
+with White and Jones
+or something else.
+
+It doesn't seem like assumption
+
+of responsibility
+is the only way.
+
+It seems like there
+might be other ways.
+
+Now we come on to a number
+
+of specific aspects
+of the doctrine,
+
+and I appreciate
+it's a little bit
+
+incoherent today in
+the sense that I'm
+
+just teaching you a lot of
+
+quite distinct rules about
+this quite tricky doctrine,
+
+assumption of
+responsibility, and
+
+it's not very conceptually
+
+unified which is why I've
+
+chosen this wonderful
+Brugal painting,
+
+I think it's called
+Carnival Games,
+
+where there's just
+loads of little
+
+different things going on.
+
+I saw this painting this
+summer in real life as well.
+
+It's absolutely wonderful.
+
+It's one of my
+favourite paintings.
+
+Reasonable reliance,
+that's one of
+
+the specific aspects
+of the doctrine.
+
+The reliance, in so
+far as it's required,
+
+remember, reliance is only
+
+required in negligent
+misstatement cases,
+
+not in provision
+of services cases,
+
+but where it is required in
+provision of services cases,
+
+it has to be reasonable.
+
+We're not talking
+about what's in
+
+the mind of the claimant.
+
+We're not talking about whether
+or not the claimant did,
+
+as a matter of fact,
+
+subjectively rely on the
+defendant's actions.
+
+We're talking about
+whether or not
+
+it would have been
+reasonable for
+
+the claimant to rely on
+the defendant's advice.
+
+Riemann is an example of this.
+
+Defendant negligently
+issued a certificate
+
+of seaworthiness for a ship.
+
+They were issued for the
+purpose of safety at sea,
+
+not for the purposes of
+
+ensuring the claimant
+did not make
+
+an economic loss and it was held
+
+that the defendant
+had no duty of care
+
+here for pure economic loss.
+
+This is similar to
+the Caparo case.
+
+Remember, Caparo bad,
+
+Robinson good for duty of care.
+
+Use Robinson for duty
+of care, not Caparo.
+
+But that doesn't mean Caparo's
+an interesting case with
+
+some useful stuff to teach
+us if we read it properly.
+
+One of the things
+Caparo actually
+
+teaches us because
+in Caparo itself,
+
+there was no duty of
+
+care is that statements
+made for one purpose,
+
+X cannot reasonably be
+
+relied on for very
+different purposes, Y?
+
+Caparo itself was a
+case about valuation
+
+of some shares for the purposes
+
+of shareholders,
+accounts prepared.
+
+The accounts were not
+
+prepared for the
+whole world at large,
+
+so that the world at large
+could decide whether or not
+
+to invest in a company rather,
+
+it was prepared purely for
+a very specific purpose,
+
+and so people who use
+
+these negligently
+prepared accounts
+
+to invest in the company to
+
+buy more shares could not
+
+sue on the basis that those
+accounts were prepared wrong.
+
+Because that was not the
+purpose of the accounts,
+
+and it's the same here.
+
+Defendant issued certificate of
+
+seaworthiness for the ship for
+
+the purpose of safety at sea.
+
+If the ship had ended
+up being unsafe
+
+at sea and caused
+a massive crash,
+
+then you can sue for
+the results of that.
+
+You can't sue for
+
+the purposes of ensuring
+the claimant didn't make
+
+an economic loss from
+
+the ship being grounded
+or something like that.
+
+Pure economic loss that is.
+
+If it had led to the ship
+
+being destroyed
+at sea because it
+
+was unsafe and the value
+
+of the ship being lost,
+you could sue for that.
+
+That's not pure economic loss;
+
+that's economic loss consequent
+upon physical damage and
+
+economic loss consequent upon
+
+the ship not actually
+being seaworthy.
+
+That's the point. Reliance
+has to be reasonable.
+
+NRAM and Steel is another
+case that teaches us this.
+
+This is a picture
+of Northern Rock,
+
+one of the banks which
+collapsed in the UK during
+
+the financial crisis and
+
+precipitated the rest of the
+financial crisis in the UK.
+
+That's people queuing up outside
+
+Northern Rock wanting to
+get all their money out,
+
+and they couldn't
+get their money
+
+out because they didn't
+have any money left.
+
+Now, when everyone showed up at
+
+the door trying to
+get their money out,
+
+there wasn't enough, and the
+government had to step in.
+
+This case is about to fall
+out of that, essentially.
+
+Here, the claimant
+loaned money to
+
+a third party as part of
+
+the claimant's business
+as a commercial lender.
+
+During dealings between the
+claimant and third-party,
+
+the claimant suffered
+pure economic loss
+
+as a result of acting on
+
+negligent information
+in an email sent to
+
+them by D, third-party
+solicitors.
+
+Facts are quite
+complicated here.
+
+There's quite a lot of
+chains of events going on.
+
+The claimant didn't check
+
+the accuracy of the
+information themselves.
+
+Basically, what you
+need to realise and
+
+remember from this case
+is not the details of C,
+
+T, and D and T
+solicitors and all that.
+
+What you need to
+realise or remember
+
+is that when you have
+two commercial parties,
+
+it's not reasonable for
+
+one commercial party to be fully
+
+reliant on the other
+commercial party.
+
+Again, think back to Monday
+and Smith and Eric Bush.
+
+Smith and Eric Bush
+was this case about
+
+the valuers and the people
+trying to buy the house.
+
+People trying to buy the house
+
+don't know shit about valuation.
+
+They're laypeople. They
+haven't got a clue.
+
+They don't have
+massive resources
+
+available to go off and
+do their own checks,
+
+and so the law is
+quite paternalistic.
+
+It protects the
+ordinary homeowner
+
+or the ordinary home buyer.
+
+It protects them as compared and
+
+imposes onerous duties
+on the professional.
+
+The person holding
+themselves out to
+
+the world is the great expert,
+
+the person who you can trust.
+
+That is not the case when you
+
+have two commercial enterprises.
+
+It's expected that the business
+
+should take care of themselves.
+
+Reliance was not reasonable
+in the circumstances.
+
+We should accept that
+
+a commercial lender
+about to implement
+
+some agreements
+with borrower does
+
+not act reasonably if it
+proceeds on no more than
+
+a description of its terms
+
+put forward by or on
+behalf of the borrower.
+
+The point is,
+they're a business;
+
+they should do their own checks.
+
+It's not up to
+
+one professional to be
+
+responsible for
+another professional.
+
+You need this
+asymmetrical relationship
+
+for assumption of
+responsibility.
+
+That's what you're looking for.
+
+Outside of these
+asymmetrical relationships,
+
+when you have a symmetrical
+relationship, normally,
+
+reliance will not be
+reasonable where it's
+
+something that the claimant
+
+could have checked themselves,
+
+but was too lazy to do so.
+
+A lot of cases involving
+a lot of money here,
+
+big banks, Scullin,
+
+and Bank of Scotland,
+basically the same idea.
+
+Negligent valuation of
+the property led to
+
+massive losses for a commercial
+buy-to-let purchaser.
+
+Essentially, the
+commercial nature of
+
+the relationship meant there
+was no need for reliance.
+
+Again, contrast with
+Smith and Eric Bush,
+
+where the relationship
+was between
+
+a professional and
+normal purchaser
+
+who had lived in the house.
+
+Very different cases.
+
+The upshot is, at least in
+negligent misstatement cases,
+
+if it was reasonable for
+
+the claimant to rely on
+the defendant's statement,
+
+there will be a duty of care.
+
+If it was unreasonable for
+
+the claimant to rely on
+the defendant's statement,
+
+there will be no duty of care.
+
+The point is, even in
+negligent misstatement cases,
+
+we're not really dealing
+with actual reliance.
+
+We've got this idea of reliance.
+
+Again, remember, no reliance
+
+necessary in provision
+of services cases.
+
+Don't need it in those. You do
+
+need it in negligent
+misstatement cases.
+
+What you actually need is not
+
+real reliance because
+that's not what matters.
+
+The point is whether
+or not it would
+
+be reasonable for the
+claimant to rely.
+
+It's a completely
+objective test.
+
+You're not asking about
+whether they did rely in fact.
+
+You're asking about
+whether it would be
+
+reasonable for them
+to rely in theory.
+
+The touchstone of
+liability is not the state
+
+of mind of the defendant.
+
+It's the same point made in
+
+Williams and Natural Life
+Health Foods by Lord Steyn.
+
+It's a rather
+interesting case worth
+
+reading some rather
+interesting facts.
+
+You don't look at
+the state of mind,
+
+you look at the exchanges and
+
+the expectations they
+would have given.
+
+In real life, this means
+you go through the emails.
+
+Again, the answer doesn't
+depend either on what
+
+the claimant thought or on
+what the defendant thought,
+
+but upon what would
+reasonably be inferred from
+
+his conduct against
+the background
+
+of all the circumstances,
+
+so what is reasonable to infer?
+
+Some reliance is not
+
+really what's going
+on here, in my view.
+
+You get a similar idea from
+
+Lord Griffiths and
+Smith, and Eric Bush,
+
+when he says that I do not
+
+think the voluntary assumption
+of responsibility is
+
+a helpful or realistic
+test for liability.
+
+Obviously, if an advisor
+
+expressly assumes
+responsibility,
+
+a duty of care will arise,
+
+but that's not
+normally what happens.
+
+You don't normally get
+express assumptions
+
+of responsibility where
+the defendant says,
+
+yes, I assume responsibility for
+
+all possible loss that you may
+
+make in these circumstances.
+
+Rather, what normally happens
+
+is you get a
+professional saying,
+
+here's what you should
+do to the claimant.
+
+When they say that,
+
+they know that the claimant
+is going to do something on
+
+that basis because it's
+reasonable for them to know.
+
+Again, it doesn't
+actually matter if they
+
+do know, as a matter of fact.
+
+The question is, would it be
+reasonable for them to know?
+
+The law just imposes
+a duty on them.
+
+This is not an agreement
+between the parties.
+
+You're not looking to see
+did they actually agree.
+
+It's an externally
+imposed objective duty
+
+on the professional to
+
+take extra skill and care
+because they're advising
+
+a layperson in a way that they
+
+ought to know may cause loss.
+
+That's what we mean by
+reasonable reliance
+
+and this idea of
+an objective test.
+
+Then we come to a
+separate special rule,
+
+which is that assumption
+must be voluntary.
+
+This is the other
+side of the coin.
+
+I've just told you in
+
+these cases that we're
+not looking really for
+
+voluntary assumption
+of responsibility
+
+in the sense that we're
+not looking inside
+
+the defendant's mind to see
+whether they thought yes,
+
+I'm happy and willing to
+assume responsibility.
+
+We're just looking at
+whether we ought to
+
+impose externally
+a duty on them,
+
+given what they did do.
+
+But at the same
+time, some element
+
+of voluntariness must remain.
+
+They can't be forced into it,
+
+and Customs and Excise
+Commissioners and
+
+Barclays Bank is an example
+
+of where they were
+forced into it,
+
+and so they didn't
+assume responsibility as
+
+a result of being forced.
+
+You've got these things
+called freezing injunctions.
+
+Freezing injunctions
+are pretty big money.
+
+There's a massive EU case
+
+about hundreds and
+hundreds of millions of
+
+pounds or euros about terrorist
+freezing injunctions.
+
+Where the Customs and
+Excise Commissioners
+
+or Homeland Security in America
+
+or the police here
+think that you're
+
+a dodgy person in
+some way or another,
+
+you try to commit some fraud,
+
+or, quite often,
+you're a terrorist.
+
+They'll issue what's called
+a freezing injunction.
+
+That means the bank is told
+don't move this money,
+
+do not let the money go
+out of this account.
+
+This account is frozen.
+
+The Customs and
+Excise Commissioners
+
+ordered Barclays Bank
+to freeze an account.
+
+Barclays Bank didn't do
+it, couldn't be asked.
+
+They got the email,
+too busy, ignored it.
+
+This meant that the claimant,
+
+the Customs and
+Excise Commissioners,
+
+didn't end up with
+a whole heap of
+
+money which they should
+have ended up with.
+
+They should have
+been able to seize
+
+a whole bunch of money
+from this account,
+
+which hadn't paid the proper
+customs and excise duties.
+
+The government essentially
+
+ended up losing a
+bunch of money.
+
+They sued Barclays Bank,
+
+saying you had a responsibility
+
+to freeze this account,
+you failed to.
+
+I never really understood why
+
+this case got to
+the Supreme Court,
+
+because to me it seems pretty
+
+obvious that there
+is no assumption of
+
+responsibility here
+because they're being told
+
+by the Customs and Excise
+Commissioners to do something,
+
+so that's not voluntary.
+
+You can't assume
+responsibility involuntarily.
+
+That's basically what
+Lord Rodgers says,
+
+the bank and the claimant
+are as far from being in
+
+a relationship equivalent to
+contract as they could be.
+
+Remember that the nasty PDO,
+
+Lord Devlin, that's his phrase,
+
+isn't it? Akin to contract.
+
+That's what he thought assumption
+of responsibility was.
+
+A nasty man though he might be,
+
+that's quite a useful way
+of thinking in my view
+
+about assumption
+of responsibility.
+
+The bank and the claimant
+are about as far from being
+
+in a relationship akin to
+contract as they could be here.
+
+The bank has to act merely
+because they're compelled to,
+
+and so they don't assume
+responsibility to the claimant.
+
+That's not what's
+going on there,
+
+and everyone basically
+agreed with that.
+
+Lord Walker said that as
+the law is developed,
+
+liability is imposed because of
+
+voluntary assumption
+of responsibility.
+
+Now, voluntary is a
+bit funny of a word,
+
+as I've said, it's not
+
+that it really has
+to be voluntary,
+
+but what it does mean
+is that it has to
+
+be conscious
+considered deliberate,
+
+and here that wasn't the case.
+
+The bank did not make
+
+a voluntary assumption
+of responsibility.
+
+It was an imposed
+responsibility,
+
+externally imposed responsibility
+by the freezing order.
+
+Where does this leave
+us this funny tension?
+
+The assumption doesn't
+have to be voluntary in
+
+a strong sense, as we've seen.
+
+You got this nice quote from
+
+Dow Nolan about
+vintage port, though.
+
+It doesn't have to be
+voluntary in a strong sense,
+
+but there does have
+to be some element
+
+of voluntariness remaining.
+
+Dow Nolan's example of A making
+
+a contract with B to
+sell B something.
+
+Well, that means
+technically that A has
+
+a legal obligation to buy
+this nice port from C,
+
+but that's still
+the relevant degree
+
+of voluntariness because A
+
+committed themselves to buying
+
+this port voluntarily by the
+contract in the first place.
+
+It's not that any
+legal compulsion
+
+will get rid of the
+relevant voluntariness.
+
+But obviously, this
+scenario contemplated
+
+here of A buying
+the port is very
+
+different from the scenario
+
+in customs and excise
+commissions in Barclays Bank,
+
+where the long arm of the
+law told Barclays Bank,
+
+you must freeze this account
+on criminal sanction.
+
+What's required
+ultimately is that
+
+D undertook a task for C,
+
+rather than D being forced
+to do something which would
+
+incidentally benefit C.
+That's what happened here.
+
+It's not that the Customs
+and Excise Commissioners
+
+had Barclays Bank assuming
+responsibility to them.
+
+It's rather that Customs and
+
+Excise Commissioners
+told Barclays Bank,
+
+you've got to do this,
+
+and a benefit would happen to
+
+accrue or could accrue
+if they did do that.
+
+Barclays Bank didn't do it
+
+voluntarily, that's the point.
+
+Now, of all the
+things I've said,
+
+and if you tuned out
+for the rest of it,
+
+this is one you really
+should not miss out on.
+
+I'd be banging on
+and on about this,
+
+but I've said it again now,
+
+assumption of responsibility is
+
+a way bigger doctrine than
+just pure economic loss.
+
+You learn about in pure
+economic loss because it's
+
+the primary exception to
+
+the rule that there
+is no liability or
+
+no duty owed in respect
+to pure economic loss.
+
+It's the big exception to that,
+
+and it developed out of that.
+
+It came from this
+case, Hedley Byrne.
+
+Hedley Byrne and Heller one of
+
+these great old
+cases that people
+
+often remember long
+after their law degree,
+
+along with Donoghue and
+Stevenson and High Trees House,
+
+and a few others, which
+seem to stick with people.
+
+Hedley Byrne does, too,
+
+because it has
+massive ramifications
+
+well beyond even
+the Law of Tort.
+
+It develops out of this
+pure economic loss case,
+
+but it is very much not
+limited to dismain.
+
+Not next week, but
+the week after,
+
+we will do emissions,
+
+and you'll see that normally
+
+D does not owe a duty of care to
+
+avoid harming C. I hope or
+roughly know this by now,
+
+but there's no good Samaritan
+duty in English law.
+
+If I walk past a
+drowning child in
+
+a shallow pond and I'm
+the only person around to
+
+save them tall or has no
+problem with that whatsoever.
+
+It's perfectly permissible.
+
+The child dies,
+
+not my problem, says tort law.
+
+Legally speaking, I'm golden.
+
+Morally speaking, I'm evil,
+
+but legally speaking, I'm fine.
+
+One of the big exceptions to
+
+that rule is assumption
+of responsibility.
+
+You need to understand
+
+these general assumptions of
+responsibility principles.
+
+You may not need to understand
+
+for problem questions
+in the exam,
+
+the details of Customs and
+
+Excise Commissioners
+and Barclays Bank,
+
+or ERM or all these
+complicated cases per
+
+se because that's about
+
+pure economic loss and
+the niche bits of it,
+
+but you do need to
+understand the broad scope
+
+of what this doctrine is,
+
+the assumption of
+responsibility because it
+
+is so much broader
+than economic loss.
+
+As I say, you'll learn about it
+
+especially in relation
+to emissions cases.
+
+It's central to
+understanding the law of
+
+negligence as a
+whole, I would argue,
+
+because as you saw in Week 2,
+
+we learned about it
+as a possible route
+
+to duty of care
+in that ABC case.
+
+That was a case about
+therapists and patients,
+
+completely different from
+
+these pure economic loss cases,
+
+but that's where assumption
+of responsibility has gone.
+
+It is a sui generis
+doctrine, arguably.
+
+That takes me to the
+closing thought.
+
+We've got this weird,
+massive doctrine,
+
+which is a whole area
+of law on its own.
+
+There's four
+different schools of
+
+thought about what the hell
+this doctrine really is.
+
+First, we've got this idea
+
+that maybe it doesn't
+really mean anything.
+
+It's just about
+policy arguments.
+
+What would that mean?
+
+Basically, you get
+unfairness in cases,
+
+and you get this idea
+
+that maybe it would
+be good for all,
+
+a whole host of random
+extraneous moral reasons,
+
+moral and political reasons.
+
+It will be good if
+we sometimes made
+
+particular defendants liable
+to particular claimants.
+
+Well, that's what
+White and Jones
+
+is very definitely doing.
+
+We definitely think
+that solicitors owe
+
+special duties in
+relation to making wills.
+
+In White and Jones, it is very
+
+nakedly just policy reasoning.
+
+We think that these
+solicitors did wrong,
+
+the law wants to correct it,
+
+and so there's some chat
+
+about assumption
+of responsibility,
+
+but really, it's just the
+law lords making new law.
+
+They just say,
+here's some new law.
+
+These solicitors
+did a bad thing,
+
+we're going to impose
+a duty on them.
+
+We don't quite know why,
+
+but we all know it's bad
+and wrong and nasty,
+
+so we're coming up
+with a new law.
+
+Like the old days, what law
+
+used to look like
+about 100 years ago,
+
+when judges were just
+off on one all the time,
+
+inventing new law
+all over the place,
+
+White and Jones
+is a bit of that.
+
+Some people argue
+that's what the whole
+
+of assumption of
+responsibility is.
+
+Indeed, some of my
+colleagues have argued that.
+
+Well, some of my
+ex-colleagues, I should add.
+
+There's no coherent
+concept to it.
+
+It's not actually
+some unified doctrine
+
+that makes internal sense.
+
+It's just policy arguments
+disguised as a doctrine.
+
+Why is that useful as a thought?
+
+If you're thinking,
+what is going on here,
+
+this doctrine is so
+confusing and so amorphous
+
+and seems to have so
+many random little bits
+
+tacked on and weird,
+
+confusing elements to it,
+
+which don't seem
+to fit together.
+
+The answer might be,
+
+it is not actually a
+single coherent doctrine.
+
+It is just a bunch
+of policy arguments
+
+grouped together in a
+family of resemblances.
+
+This idea of family
+resemblance is quite useful,
+
+just a bunch of things
+which look a bit
+
+like one another
+without any clear,
+
+coherent, simple rules
+tying them together in
+
+a neat conceptual package,
+so that's one option.
+
+Another option is that
+they're really just
+
+instances of liability in
+contract minus consideration.
+
+That's basically the
+nasty Lord Devlin's view,
+
+akin to contract, just
+songs consideration.
+
+I find that quite an appealing
+view, I have to say.
+
+That makes some sense to me,
+
+it's quite a neat way
+of thinking about it.
+
+A third option is that in
+
+cases where assumption of
+
+responsibility
+concept is employed,
+
+no liability should have
+been imposed at all.
+
+On that view, they're all
+just completely wrong.
+
+Another colleague of mine
+argues that the assumption of
+
+responsibility was
+dead end and we
+
+shouldn't have it
+in the first place.
+
+This is not commonly argued,
+
+and assumption of responsibility
+
+is definitely here to stay,
+
+and you should
+definitely not argue in
+
+a problem question involving
+
+assumption of responsibility
+
+that we should get
+rid of the doctrine.
+
+In an essay question,
+a different matter.
+
+Finally, we've got this
+idea that it's sui-generis.
+
+Sui generis meaning special,
+
+different of its own nature,
+
+completely separate from
+the rest of the law,
+
+basis of legal obligation,
+
+and it's not really tort law,
+
+and it's not really
+contract law.
+
+It's a whole body
+of law on its own.
+
+Thank you very
+much, see you next.
+

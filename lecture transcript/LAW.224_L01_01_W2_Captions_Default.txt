@@ -1,0 +1,2390 @@
+MALE_1: Last week was
+all pretty introductory.
+
+Again, I'll remind
+you before this year,
+
+everything last
+week was examinable
+
+in the 70% final proper exam.
+
+Now, I'm making it much
+easier for you guys.
+
+What we looked at last week,
+
+there will be some multiple
+choice questions about
+
+that in the multiple
+choice question quiz,
+
+which is on Moodle and which
+is worth 30% of your grade,
+
+but there will not be
+any exam questions,
+
+problem questions or essay
+questions in the final exam
+
+about last week's topic
+
+because it's not one
+of the workshops.
+
+We'll not be doing a workshop
+about tort law theory.
+
+That's not to say,
+of course, some
+
+of it might not be relevant.
+
+You might want to learn tort
+law theory in detail anyway.
+
+I'll definitely help you
+with the rest of the course.
+
+Everything is interlinked
+I keep repeating this,
+
+but it's not actually examined.
+
+Today, we come to
+a subject which is
+
+very definitely going
+to be examined.
+
+Negligence. Negligence is
+the very core of tort law,
+
+it takes up by far
+
+the largest proportion
+of tort law suits,
+
+and it's foundational for
+
+understanding most of what
+
+we're going to be
+doing this time.
+
+I'm just going to start
+by giving you an overview
+
+of what negligence is and how it
+
+works and that's going to
+
+lead us into the
+next few lectures.
+
+This week we'll be
+doing duty of care,
+
+next week we'll be
+doing breach of duty,
+
+and the week after
+that we'll be doing
+
+causation and then in the weeks
+
+after that we'll be returning to
+
+different bits of duty of care.
+
+This is a rather
+beautiful painting by
+
+Jacques-Louis David called
+The Oath of the Horatii.
+
+He's sending his sons
+off to war to fight,
+
+and I, too, am sending you off
+
+essentially into
+battle in negligence.
+
+What is negligence?
+
+Well, Winfield and Jolowicz,
+
+which is one of the
+other textbooks which
+
+I sometimes will recommend
+
+readings from or
+optional readings from.
+
+They say that it's a breach
+of a legal duty to take care,
+
+which results in damage
+to the claimant.
+
+Key there is damage
+to the claimant.
+
+That's the first step.
+
+We'll go over that in
+more detail in a moment.
+
+You do not have negligence
+without damage.
+
+That's to be contrasted
+with intentional torts,
+
+which we'll learn
+about next time.
+
+Intentional torts are things
+like battery and assault.
+
+If I touch one of you
+without your consent,
+
+I'm committing a battery.
+
+I may not have damaged you,
+
+but I'd still be committing
+
+a battery because it's
+actionable per se,
+
+it's actionable in and of
+itself without damage.
+
+Negligence requires damage.
+
+There is no suit in
+negligence without damage.
+
+Once you've got some kind
+
+of damage, the next question is,
+
+did the defendant owe the
+claimant a duty of care?
+
+There's all sorts of damage
+which might be caused,
+
+which don't create
+duties of care.
+
+For example, let's say
+
+I was to tell you that
+I'm going to make
+
+the exam really hard
+
+this year and you're
+probably all going to get
+
+F. Some of you might be quite
+
+reasonably upset by
+that or Ds or whatever,
+
+some of you might be reasonably
+quite upset by that.
+
+Or let's say I said something
+
+which was going to be
+emotionally distressing,
+
+generally, I just
+started swearing at you,
+
+said nasty things about you,
+
+singled out one of you and
+
+really picked on you and called
+
+you an idiot and got
+everyone else to mock them.
+
+That would be reasonably
+very distressing, indeed.
+
+It probably would not be
+
+actionable in
+negligence, though,
+
+because I don't owe
+you any duty of
+
+care to avoid causing
+you emotional distress.
+
+On the other hand,
+if I did something
+
+negligent which caused
+your physical injury,
+
+I do have a duty of
+care not to do that,
+
+not to cause you
+physical injury.
+
+The first question is, did
+
+the defendant owe the
+claimant a duty of care?
+
+Just one further confusion
+to avoid at this stage.
+
+I think some people get
+
+confused and think
+that duty is the whole
+
+of negligence so they talk
+as if there's a duty,
+
+then the tort is made out,
+
+then the defendant is liable.
+
+That's not the case, it's
+just the first step.
+
+There needs to be a duty,
+
+that is a necessary condition,
+
+but it is not a
+sufficient condition.
+
+The second question
+is, did the defendant
+
+breach their duty of
+care to the claimant?
+
+If they have a duty, then
+
+the next question is,
+did they breach it?
+
+Go back to Lecture 1.
+
+I'm on the mountain, I
+knock that rock off.
+
+Remember that? I
+clearly have a duty.
+
+We all have a duty not to
+
+foreseeably cause
+people physical injury.
+
+I had a duty not to
+cause that guy below
+
+me physical injury.
+That's unquestionable.
+
+But the second question is,
+did I breach that duty?
+
+The answer is, I probably
+
+didn't breach that
+duty because I was
+
+probably acting as the
+reasonable climber ought to act.
+
+That's my view on the matter.
+
+Not all duties, even in
+cases where there is a duty,
+
+there's not always a breach.
+
+Not all duties lead to breaches.
+
+The same thing at the next
+stage, if there is a breach,
+
+you still need to establish
+that it was that breach that
+
+caused the damage and
+
+the damage needs to
+not be too remote.
+
+Again, we're going to go over
+
+this in the following weeks
+
+because we will do factual
+causation and legal causation,
+
+breach of duty or in
+the coming weeks.
+
+Today, we're going to focus on
+
+the first of these
+elements though,
+
+which is establishing a duty
+of care in the first place.
+
+If you're going to
+take one thing away
+
+from this slide,
+it should be this.
+
+You always need to structure
+
+your negligence
+inquiry sequentially
+
+in an ordered fashion.
+
+You begin with duty,
+
+only if you establish
+that there is a duty,
+
+do you move to breach.
+
+Only if you establish
+that there is a breach,
+
+do you move to causation.
+
+Now, I should just add
+
+a caveat or
+qualification to that,
+
+which is that sometimes
+you might not be
+
+absolutely certain
+whether or not there's
+
+a breach or a duty or whatever.
+
+If you're not completely sure,
+
+often do move on to the
+next bit of the question.
+
+Another caveat to
+that is sometimes we
+
+write problem questions where
+
+there probably isn't a duty,
+
+but it's pretty obvious
+
+from the problem question
+that we want you
+
+to explore something
+about breach anyway.
+
+In which case, you should
+
+obviously keep
+going on to breach.
+
+But the point is you
+need all of these.
+
+They're all necessary
+conditions,
+
+but they are not
+sufficient conditions
+
+individually for negligence.
+
+Oh, no, no, no, no, well,
+
+that's skip way, way
+ahead, Jesus Christ.
+
+How does that happen? I just
+
+pressed the wrong button.
+All right, so there we go.
+
+Very brief history
+of negligence.
+
+This is not terribly
+important and I will
+
+come back to this in more
+detail next lecture,
+
+but I just want to
+summarise it briefly so
+
+you understand how things
+fit together for Robinson.
+
+Back in the day in
+the early 1900s,
+
+late 1800s, negligence
+was fragmented.
+
+There were only a series of
+
+specific duties in
+specific contexts.
+
+There was no general
+tort of negligence.
+
+Cases came before the courts
+
+and they saw things
+they didn't like.
+
+They saw doctors doing a bad
+job and that hurt patients,
+
+they said, that seems bad,
+
+compensation should be paid.
+
+Employers hurting
+employees in some way.
+
+They said, that seems bad,
+
+compensation should be paid.
+
+But there was no general
+tort of negligence.
+
+That's represented in this case,
+
+Blacker and Lake Elliott.
+
+Or Black and Lake and Elliot.
+
+In that case, the defendant
+sold the product to A,
+
+which then that product
+
+because of a defect,
+injured the claimant.
+
+Even though the defendant had
+
+been negligent in the
+production of that product,
+
+i.e pretty reckless and
+
+failed to do what they
+
+ought to do in
+creating the product,
+
+they hadn't made it safe.
+
+That product therefore
+injured the claimant.
+
+There was no tort
+law suit there.
+
+But because there was
+
+no contract between the
+defendant and the claimant.
+
+I'm just going to pause quickly.
+
+I'll just say I appreciate
+this is the 9:00 AM lecture,
+
+so people come in a bit
+late and that's fine.
+
+I get it. It's a
+9:00 AM lecture.
+
+In fact, I might be late
+sometimes if I'm sleeping in.
+
+But if I could ask you
+possibly to try and
+
+come in the back
+because otherwise,
+
+there's a steady stream
+from 9:00 AM to about
+
+9:10 coming in the front and
+it's slightly disruptive.
+
+If you are coming in late to the
+
+9:00 AM lecture in particular,
+
+could you try and come
+in the back, please?
+
+Thank you very much.
+
+That was the situation before
+Donoghue and Stevenson,
+
+which is this case about
+the snail in the bottle.
+
+That's a Bosch painting.
+
+Bosch is a rather nasty,
+well, he's not nasty,
+
+but he paints rather
+nasty paintings
+
+of horrible devilish scenes,
+
+and this is a tiny
+fragment from it.
+
+He's a Dutch artist.
+
+I'll be showing you some
+more Bosches later.
+
+This case Donoghue and Stevenson
+
+was about a snail in a
+bottle. It's very famous.
+
+It's probably the
+single most famous case
+
+in English law, to be honest.
+
+It's the only one
+most people remember.
+
+If they stopped doing
+law 10 years later,
+
+they'll still remember Donoghue
+
+and Stevenson for some reason.
+
+Because it kicked off
+the whole of negligence,
+
+which is the largest part of
+
+tort law Donoghue and Stevenson
+was just like Blacker and
+
+Lake Elliott in the sense
+that the defendant sold
+
+a ginger beer to the claimant or
+
+to a third party who then
+gave it to the claimant.
+
+There's no contract between
+
+the defendant and the claimant.
+
+The claimant drank
+the ginger beer.
+
+There was a snail
+in the ginger beer.
+
+Claimant freaked out,
+physical injury ensued.
+
+Question, does the defendant owe
+
+the claimant any kind of
+
+money because there's no
+contract between them?
+
+Well, if we'd followed
+Blacker and Lake Elliott,
+
+they would have said there's
+
+no duty here,
+there's no contract.
+
+But they created the tort
+
+of negligence in Donoghue
+and Stevenson, essentially.
+
+Lord Atkin said
+famously there must
+
+take reasonable care to
+avoid acts or omissions,
+
+which you can reasonably foresee
+
+would be likely to
+injure your neighbour.
+
+That essentially is what
+negligence is about.
+
+You owe all people a duty
+of care not to do acts,
+
+which reasonably
+foreseeably injure them.
+
+It's a nice quote from Lord
+
+McMillan here saying
+that the grounds of
+
+action may be as various and
+manifold as human errant,
+
+the categories of negligence
+are never closed.
+
+This just goes back to what I've
+
+been talking about last week.
+
+Negligence protects
+basic rights,
+
+our rights as human beings,
+
+our rights to bodily integrity,
+
+our rights to property,
+
+our rights to
+psychological integrity,
+
+to some degree, our right
+not to get ripped off,
+
+all sorts of rights,
+
+but also our rights
+not to be interfered
+
+with by our
+neighbours and things
+
+like that, and nuisance.
+
+The categories aren't closed,
+
+they keep expanding and
+we'll see that in a moment.
+
+There's lots of novel cases
+that come up and they're
+
+judged against
+difficult standards.
+
+But mainly now we have a
+pretty settled body of law,
+
+and that's what I'm about
+to teach you about.
+
+This pretty settled body of law.
+
+Just stepping back, what's
+the relevance of all this?
+
+This is just history.
+Forget about this, really.
+
+Do not cite Donoghue
+and Stevenson as
+
+an authority in a problem
+question. It is not helpful.
+
+It is the wrong case to cite.
+
+Don't cite Gladwell and Steggall
+
+or Smith and Blacker or
+Blacker and Lake Elliott.
+
+These are not problem
+question cases.
+
+They're just to inform
+you about the history.
+
+They're not the current law.
+
+We'll get on now to
+actionable damage.
+
+This, again, I repeat,
+
+is the first stage of
+the negligence inquiry.
+
+You don't have negligence
+unless you have damage.
+
+Again, unlike intentional torts,
+
+touch someone without their
+consent, that's a battery,
+
+regardless of whether or
+not you do them damage,
+
+that's not the case
+for negligence.
+
+You need damage. Damage
+can come in lots of forms,
+
+mainly physical injury,
+property damage,
+
+psychological injury
+or economic damage.
+
+They're ranked
+slightly differently
+
+and treated slightly
+differently by
+
+the law of negligence so
+we'll get into that later.
+
+You need some damage.
+
+What is damage?
+
+This is a really grim
+Francisco Goya painting,
+
+Satan devouring one of his sons.
+
+If there's anything that's
+damaged, it's that.
+
+It's a very haunting painting.
+
+Rothwell, there's two cases
+I'm going to teach you here,
+
+Rothwell and Dryden,
+and they're to
+
+be seen in opposition.
+
+Rothwell is an example of a case
+
+where there was no damage.
+
+In Rothwell, employees exposed
+
+to asbestos dust and developed
+
+were exposed to asbestos dust
+
+and developed these things
+
+called pleural
+plaques as a result.
+
+Asbestos, for those
+of you don't know,
+
+it's a nasty substance that's in
+
+walls and roofs sometimes.
+
+It was used as a building
+material in the 20th century,
+
+for a large part of
+the 20th century,
+
+it's a very good insulator.
+
+Unfortunately, they
+didn't realise until
+
+fairly recently that if
+you're exposed to it,
+
+it gives you cancer and all
+sorts of other nasty things.
+
+One of those nasty things
+is pleural plaques.
+
+Although, as it turns
+out, plural plaques
+
+are not that nasty.
+They don't do anything.
+
+They are essentially
+a physical change
+
+with no real important
+consequences.
+
+They're a sign that you've
+been exposed to asbestos,
+
+but they're not
+actually damaged.
+
+They don't cause any problems.
+
+They don't have any symptoms,
+without any symptoms.
+
+They can't be seen or felt.
+
+They won't need
+some other event.
+
+Now, it is true that
+
+the claimant did not want
+to have pleural plaques.
+
+They didn't like it.
+It was bad for them.
+
+But just in the sense that me
+giving you a reading list,
+
+which is longer than
+you like is bad for
+
+you, but it is not damage.
+
+This is not damage
+or in the same sense
+
+that getting a small
+spot is not damage.
+
+This is not damage.
+
+That's to be contrasted
+with Dryden and Johnson.
+
+This is a case where
+the claimants worked at
+
+a factory and they
+
+developed as a result of
+the defendant's negligence,
+
+something called platinum
+salt sensitization.
+
+For the ordinary person,
+
+this would not have
+been a problem.
+
+Platinum salt sensitization
+does not hurt you normally.
+
+But for the claimants, it was
+
+a problem because it meant
+they couldn't work in
+
+the factory that
+they were employed
+
+in or they couldn't do a
+certain work in that factory.
+
+That was damage, essentially.
+
+What this shows you is that
+
+damage has some
+subjective element.
+
+It depends on how it
+affects someone's life.
+
+The real question
+you've got to ask is,
+
+does this have a negative
+impact on the person's life?
+
+I said earlier that a small
+spot wouldn't be damage.
+
+Well, it wouldn't for any of us.
+
+But if you're a
+high fashion model
+
+and you're about to appear
+on the cover of vogue,
+
+then perhaps things
+might be different.
+
+Perhaps if you put
+a skin cream on
+
+which leads to you
+having a breakout,
+
+you might be able to
+sue the defendant,
+
+the person who sold
+you the skin cream.
+
+I don't know. That's a
+tricky case, I should add.
+
+It's not black or white,
+
+but I think that probably
+would be damage.
+
+There is some subjective
+element there.
+
+You can see that in
+the quotes here,
+
+and there's a nice
+example given by
+
+Lady Black of coffee tasters.
+
+If any of us lost
+
+our sense of smell or
+taste a little bit,
+
+just the very top end of it
+might not count as damage,
+
+but for a coffee
+taster, it would.
+
+That's a subjective
+element to damage.
+
+But this subjective element,
+
+it's important, but it's
+not the key message here.
+
+The key message here is this,
+
+you need damage for negligence.
+
+People get this
+wrong every year.
+
+People imagine they see people
+
+doing things which are reckless.
+
+Like I don't know, let's
+say I'm driving along
+
+at 200 miles an
+hour down the M6,
+
+and that really upsets
+
+someone who sees me
+speeding past them.
+
+Some old rule abiding
+
+grandmother in her
+little Honda Jazz,
+
+sees me speeding
+past at 200 mile and
+
+wags her finger at me and
+says, that's really bad.
+
+Yes, I've definitely
+been negligent,
+
+but there is no negligence
+because you need damage,
+
+someone needs to get hurt.
+
+So just because someone's
+done something stupid,
+
+reckless, negligent,
+it doesn't mean
+
+that there is
+actually negligence.
+
+Someone needs to get hurt.
+
+Damage is the gist
+of negligence.
+
+This may seem really obvious,
+
+but people fuck it every
+
+single year in the
+problem questions.
+
+They're always
+imagining negligences
+
+all over the place because
+
+someone's done something nasty,
+
+even though there's no damage,
+
+so that's why I'm
+banging on about it.
+
+Now we move into the
+meat of duty of care.
+
+Once you've got some damage,
+
+you need to ask, is this
+the right of damage?
+
+Should the defendant not have
+
+caused this damage
+to the claimant?
+
+Is it the thing they owe
+them a duty not to do?
+
+I hope some of you
+recognise that.
+
+It's Michelangelo. That's me.
+
+God. You're there, the humans.
+
+I'm about to communicate to
+you negligence, duty of care.
+
+Just like you need damage,
+
+you need a duty.
+
+You can be as
+negligent as you want,
+
+if you don't owe someone
+
+a duty not to cause
+them the type of harm.
+
+Again, me speeding down the
+road at 200 miles an hour.
+
+Yes, that upset the old granny.
+
+But I have no duty not
+to cause her that upset.
+
+I can upset any of you as much
+as I want to, pretty much.
+
+Now, there is actually
+a tort called,
+
+which we'll study
+later in the year,
+
+called intentional infliction
+of emotional harm.
+
+If I really pick on one of you
+
+enough and single you out
+and was really cruel to you,
+
+I might be had up under
+
+the tort for intentional
+infliction of emotional harm
+
+or indeed potentially
+harassment if
+
+I did it on multiple occasions.
+
+That would be intentional,
+that's different.
+
+But negligently, if by
+my words or actions,
+
+I recklessly cause one of
+
+you really bad emotional damage,
+
+tort law doesn't recognise
+that as an issue.
+
+The same thing goes
+basically for economic loss.
+
+Tort is mainly concerned or
+
+negligence is mainly concerned
+
+with bodily integrity
+and property.
+
+I said this in Lecture 1,
+
+tort law values bodily integrity
+
+and property more highly
+than anything else.
+
+Without getting
+into the specifics
+
+which I'll get into in a moment,
+
+just remember that
+that mainly you have
+
+duties not to cause
+
+other people property
+damage or physical injury.
+
+It's never sufficient
+simply to ask
+
+whether A owes B a duty of care,
+
+it's always necessary to
+determine the scope of the duty
+
+by reference to the damage.
+
+In the exam last year,
+
+I think 200 people forgot
+
+about this in one
+part of the question.
+
+I had a bit of problem
+
+question where there
+was a psychiatrist,
+
+and the psychiatrist was
+a shitty psychiatrist.
+
+They were really
+mean to the patient.
+
+They just said
+really nasty things.
+
+The patient had slipped
+up and hurt someone in
+
+my problem question and
+
+the psychiatrist
+told the patient,
+
+it's all your fault,
+you're guilty of sin,
+
+the psychiatrist was
+definitely negligent.
+
+But people forgot
+to ask themselves,
+
+what's the damage
+being caused here?
+
+Now, you might think,
+psychiatrist cause
+
+this person psychiatric injury,
+
+surely they shouldn't do that.
+
+It was not that
+simple at all because
+
+psychiatric injury is
+a really weird injury,
+
+and people only owe
+duties to others,
+
+not to cause them
+psychiatric injury,
+
+mental harm in
+very specific sets
+
+of circumstances that
+we will learn about.
+
+Same with economic loss.
+
+If I want to set up
+a business next to
+
+my mate's business and
+outcompete him such
+
+that he has to go out of
+business, become bankrupt.
+
+It ruins his life.
+
+It ruins his life
+maybe much more
+
+than if I'd hurt his hand a bit.
+
+But he got complain about
+
+that because that's
+capitalist society.
+
+We all free to set
+up businesses,
+
+which I compete other people.
+
+The point is, you've
+got to pay attention
+
+really carefully to
+what damages at stake.
+
+There's really three questions
+
+which duty is concerned with.
+
+I've mentioned one
+of them, the damage,
+
+and we'll come back to that
+in more detail in a moment.
+
+You'll see which aspect of
+
+the claimant's interest was
+
+affected deals with
+that damage issue.
+
+What's the damage?
+
+Again, come back to that in
+more detail in a moment.
+
+But there's really
+three aspects to duty.
+
+One, was the damage
+reasonably foreseeable?
+
+Two, was it an act or a
+mission that caused it?
+
+Three, what was the damage?
+
+The point here is this,
+
+which I'll reiterate
+again later,
+
+the simple case is
+where you've got
+
+an act which
+reasonably foreseeably
+
+causes physical injury
+or property damage.
+
+What does reasonable
+foreseeability mean?
+
+Reasonable foreseeability is
+the question is the claimant
+
+the individual who you
+
+might expect to come along
+and come into damage?
+
+Haley and London Electricity
+Board is an example of this.
+
+Defendant's workers dug a
+trench in London and they put
+
+some cones up and
+
+a blind man walked into
+them, fell in the trench.
+
+It was held that
+it was perfectly
+
+foreseeable that
+a blind man would
+
+be walking along the
+pavement in London.
+
+Now, in that case, there's
+an interesting discussion.
+
+Would that be true if it was
+in a field in the middle
+
+of Devon or Cumbria,
+
+for that matter?
+The answer is no.
+
+You don't expect
+a blind man to be
+
+walking through the middle of
+a random field in Cumbria.
+
+You do expect them to be
+
+walking along a
+pavement in London.
+
+They're a foreseeable
+individual.
+
+The fact that they would
+fall into a trench
+
+when there's just
+a hammer across
+
+each end and that's here,
+
+it is also very foreseeable.
+
+That's a Bruegel painting,
+
+I'll show you many Bruegels.
+
+It's called the blind
+leading the blind.
+
+It's meant to help you
+
+remember that this case
+is about a blind man.
+
+Once you've established that
+
+the claimant was
+reasonably foreseeable,
+
+you need to establish
+
+whether or not there's
+an act or an omission.
+
+Top and London country bus is
+an example of an omission.
+
+The defendant left
+the keys in a bus.
+
+In the ignition, third
+party stole the bus.
+
+What the defendant had done
+was forgets to take his keys.
+
+That's not an act,
+it's an omission.
+
+Again, we're going
+to do a whole week
+
+on omissions versus acts,
+
+so you'll understand that
+difference in much more detail.
+
+But very basically, me
+
+forgetting to brake
+is not an omission.
+
+That's an act
+because I'm already
+
+engaged in the act of driving.
+
+But in tort law,
+
+there is no general
+duty to save people.
+
+If I see one of you drowning,
+
+I can just keep walking.
+
+It's not my duty to save you,
+
+we do not owe others
+duties to help them.
+
+We only owe people duties
+not to do acts which
+
+reasonably foreseeably
+harm them.
+
+If you have the claimant
+in contemplation,
+
+they're reasonably foreseeable
+and you do an act,
+
+which causes physical
+injury or property damage,
+
+you have a duty of care
+not to do those things.
+
+The situation is
+much more complex in
+
+relation to economic loss and
+psychiatric injury, though.
+
+I just really want to
+stress this point.
+
+Reasonable
+foreseeability and acts
+
+versus omissions are
+relatively simple.
+
+It's pretty easy to
+work out and remember
+
+that the claimant needs
+to be foreseeable.
+
+Obviously, people should not be
+
+liable for damage they cause,
+
+which was not foreseeable.
+
+I think we all intuitively
+understand that.
+
+In the same way, I think it's
+fairly easy for people to
+
+understand that you don't
+have a duty to save people,
+
+but you do have a duty
+not to harm them,
+
+so you have a duty not to
+do acts which harm them.
+
+People really struggle
+with this though.
+
+People struggle with the idea
+
+that there's such a
+difference between
+
+physical injury and
+property damage and
+
+economic loss and
+psychiatric injury.
+
+You always have a duty not to do
+
+acts which reasonably
+foreseeably
+
+cause physical injury
+or property damage.
+
+You do not always have
+a duty to do that in
+
+relation to economic loss
+or psychiatric injury.
+
+Again, me saying,
+
+you're all idiots, that might
+
+cause one of you
+psychiatric injury.
+
+Act reasonably
+foreseeable, fine,
+
+but because it's psychiatric
+injury, no duty.
+
+Similarly, setting up a business
+
+next to someone
+out competes them.
+
+You've done an act,
+setting up a business,
+
+which reasonably
+foreseeably, yes,
+
+if it's a really good business,
+
+outcompetes them and causes
+
+their business to go bankrupt.
+
+You have done an act
+which reasonably
+
+foreseeably causes someone
+else economic loss,
+
+you had no duty not to do that.
+
+For physical injury and
+property damage, though,
+
+you always have a duty not
+to do acts which reasonably
+
+foreseeably cause physical
+injury or property damage.
+
+This is the simple rule which
+I want you to learn now,
+
+you always owe others
+a duty of care,
+
+not to do acts,
+
+which foreseeably cause
+
+physical injury or
+property damage.
+
+When I say I want
+you to learn this,
+
+here's what I'm
+really getting at.
+
+If you're going to
+listen to one thing
+
+in this lecture, listen to this.
+
+Every single time
+you do negligence,
+
+do a negligence question,
+
+I would like you to begin
+that negligence inquiry.
+
+Well, first by asking,
+is there any damage?
+
+Once you've established
+that there is some damage,
+
+then step 2 is this.
+
+Ask yourself, one, is what the
+
+defendant did an
+act or an omission?
+
+Two, was damage to this
+claimant foreseeable?
+
+Three, what was the damage?
+
+If it is the case,
+
+the defendant did an act,
+
+which foreseeably caused
+
+physical injury or
+property damage,
+
+the whole thing is
+really fucking simple.
+
+All you need to do
+is cite this case,
+
+which I'm going to
+come to Robinson.
+
+That's all you need to
+do just cite Robinson.
+
+Say, this is
+
+why I'm repeating it
+because this is what I
+
+want you to answer in
+a problem question.
+
+The defendant did an act,
+
+which foreseeably
+caused physical injury.
+
+Let's say that's what
+you're trying to establish.
+
+That's the case.
+
+All you need to say is
+the defendant did an act,
+
+which foreseeably
+caused physical injury,
+
+brackets Robinson, there you go.
+
+That's it. That's
+duty established.
+
+I can't tell you how often
+people screw this up.
+
+It really is just very simple.
+
+If you ask yourself
+
+those three questions and
+don't miss out on any of them,
+
+you will filter your answer
+
+so much more easily in
+the right direction.
+
+About 50% of people
+would fuck this up in
+
+one way or another
+because they don't just
+
+step back and ask this question,
+
+which I say in Lecture 2A.
+
+They don't ask themselves
+this question, is it an act?
+
+Was it foreseeable?
+What's the damage?
+
+That should be the
+first question.
+
+Now, what happens if
+it's not this simple?
+
+What happens if it's not an act,
+
+or it's not foreseeable,
+
+or the damage isn't physical
+injury or property damage?
+
+Things are a bit
+more complicated in
+
+each of those circumstances.
+
+If there's no reasonable
+foreseeability,
+
+there's no duty. It's game over.
+
+The whole thing ends there.
+
+Going back to Haley,
+
+if your problem
+question is about
+
+a blind guy falling down
+
+a manhole in a field
+in the middle of fuck
+
+nowhere and whether or not,
+
+the engineers are liable,
+
+they're not because
+the blind guy
+
+wasn't foreseeable in a field
+in the middle of Cumbria.
+
+They were foreseeable on
+the street in London,
+
+but not in the middle of
+the field in Cumbria.
+
+No duty if the claimant
+is not foreseeable.
+
+The other two are much
+more complicated,
+
+and we're going to
+learn about them in
+
+much more detail later.
+
+But if it's a mission,
+
+not an act, very complicated.
+
+We'll do a whole week on it.
+
+If the damage is not
+physical or property damage,
+
+but psychiatric injury
+or economic loss,
+
+again, it's more complicated.
+
+There's only duties in certain
+particular circumstances.
+
+But if it is an act
+which reasonably
+
+foreseeably causes physical
+injury or property damage,
+
+the whole thing is really
+simple and there is a duty.
+
+Tort poll Number 2, please scan.
+
+Now, just to explain this a bit,
+
+I want you to answer whether
+you think it's right
+
+that property damage and
+
+physical injury are
+ranked more highly,
+
+that they're
+protected absolutely,
+
+whereas your economic
+interests and
+
+your mind are not so protected.
+
+Just in the abstract, obviously
+we're going to get into
+
+much more detail about
+what that really means.
+
+But in the abstract,
+
+is it right that your body
+
+is so much more protected
+than your mind?
+
+Is your mind not more
+
+important than your
+body in some ways?
+
+[BACKGROUND]
+
+Out of just under 200 responses,
+
+65% of people think
+that it is right,
+
+that the body and
+
+property are more important
+than money and mind,
+
+35% think, no, it's not right,
+
+and a very small
+proportion don't get it.
+
+I'm glad that it's only a
+
+small proportion
+that don't get it.
+
+If you said don't
+get it, that's fine.
+
+Please email me, and I will
+
+try and explain in more detail.
+
+But just to remind us
+again, the point is,
+
+you always in all
+circumstances owe
+
+other people a duty of
+care not to do acts which
+
+foreseeably cause them
+
+physical injury or
+property damage.
+
+Those are, in essence,
+protected absolutely.
+
+There is an absolute duty not
+to cause them that injury.
+
+Whereas in relation to the
+other kinds of damage,
+
+money and mind, economic
+loss and psychiatric injury,
+
+there's normally not a duty.
+
+We normally do not owe others
+
+duties not to cause them
+those kinds of injury.
+
+Only in specific,
+
+specified circumstances
+do we owe them duty.
+
+That takes us on to the
+cases in some more detail.
+
+Now, Robinson, this must be
+
+the starting point for
+
+all problem questions
+on negligence.
+
+Remember what I
+said in Lecture 1,
+
+Robinson good, Caparo bad.
+
+Always start with Robinson.
+
+Robinson Good.
+
+Robinson was a case,
+
+the facts are honestly not
+particularly important.
+
+Some plainclothes policemen,
+they plan to arrest a guy.
+
+Poor Mrs. Robinson, she's
+walking along the street.
+
+Policeman who moved
+to arrest the bloke,
+
+Mrs. Robinson gets knocked over.
+
+She brings a claim in
+negligence for personal injury.
+
+Facts, not terribly important.
+
+The whole police thing is
+a bit of a distraction.
+
+What's interesting
+about Robinson is this.
+
+It set out a new and
+very simple approach
+
+to duty of care.
+
+Back in the old days,
+
+what people were doing
+before Robinson was this.
+
+Every time a new case came up,
+
+they were asking themselves
+this last question.
+
+Judges were saying,
+oh, would it be fair,
+
+just and reasonable to
+impose a duty of care?
+
+Is it fair that the
+defendant should
+
+owe a duty in these
+circumstances?
+
+They were doing that most of
+
+the time or a lot of the time.
+
+In Robinson, they said,
+
+stop doing that, things
+
+are actually really
+quite simple.
+
+The question is this,
+
+is there an established
+category of duty of care?
+
+There been hundreds
+of cases before?
+
+Did they establish that,
+
+in circumstances like these,
+
+there was a duty or not?
+
+That's what you
+should normally do.
+
+Duty is simple in
+
+most cases if there is
+an established category.
+
+What is an established category?
+
+What does that mean?
+
+Well, this is an
+established category.
+
+Acts, which foreseeably cause
+
+physical injury or
+property damage,
+
+is one massive
+established category.
+
+There is always a duty of care,
+
+not to do acts which foreseeably
+
+cause physical injury
+or property damage.
+
+That is an established
+category of duty of care.
+
+You do not need to ask
+any further questions.
+
+When you get a case where
+someone doesn't act,
+
+which foreseeably
+causes physical
+
+injury or property damage,
+
+there's a duty of care there.
+
+Now, there may not be a breach,
+
+there may not be causation.
+
+Those are further
+questions to ask,
+
+but there is a duty of care,
+
+that's an established category.
+
+If there's not an act,
+
+but an emission or the
+damage is different,
+
+it's psychiatric injury
+or economic loss,
+
+then things could be
+more complicated.
+
+Again, we're going to go on
+and learn in more detail in
+
+the coming weeks about how
+you deal with emissions,
+
+how you deal with economic loss,
+
+and how you deal with
+psychiatric injury.
+
+You will understand what counts
+
+as an established
+category or not in
+
+those more complicated
+circumstances in the coming weeks.
+
+But if you face one of
+those cases where it's
+
+not clear whether there's
+an established category,
+
+then you go on to
+this next question,
+
+which is, what are
+
+the cases and what
+direction do they pull in.
+
+You look at the different cases
+
+on either side of
+the dividing line,
+
+and you see which imply that
+
+there should be a duty
+of care and which don't,
+
+if they pull in
+different directions,
+
+then you go to this
+final question,
+
+policy reasons, fair,
+just and reasonable.
+
+That is a flow chart
+to help you with this.
+
+It probably doesn't
+seem very helpful at
+
+the moment if you've
+not done the reading.
+
+You need to go and
+do the reading,
+
+and then once you've
+done the reading,
+
+come back and look
+at this flow chart,
+
+and then I think you'll
+find it very helpful.
+
+But essentially, Step 1 is,
+
+does the case fall within
+an established category,
+
+and most of the time it will.
+
+In cases where there's
+acts which reasonably
+
+foreseeably cause physical
+injury or property damage,
+
+there is an
+established category.
+
+If it's, let's say,
+
+economic loss and
+there's a tricky issue
+
+about whether or not
+
+the thing counted as
+negligent misstatement,
+
+we'll get into that
+in the weeks to come.
+
+Then it might not be so clear,
+
+only if it's unclear,
+
+do you go to coherence
+with analogous cases?
+
+If that doesn't result
+in a clear answer,
+
+then you go to policy reasons.
+
+Basically, the point here is
+
+that you just follow
+the precedents,
+
+you maintain coherence,
+
+and it's all pretty simple to
+
+establish a duty of
+care in most cases.
+
+In this circumstance,
+it was pretty simple.
+
+The police here had a
+duty of care to protect
+
+the individual from a danger of
+
+injury which they
+themselves had created.
+
+They banged into her, basically,
+they knocked into her.
+
+It was foreseeable.
+
+They might be knocked into
+
+an injured, physically injured.
+
+There was an act
+which foreseeably
+
+caused physical injury.
+
+That act, that reasonably
+foreseeable risk of injury,
+
+was sufficient to impose on
+the officers a duty of care.
+
+You can see it's a
+pretty simple case.
+
+It was an act which reasonably
+
+foreseeably caused
+physical injury.
+
+Darnley and Croydon was
+
+a further case establishing
+essentially the same point,
+
+but putting a slight
+nuance on it.
+
+No, just deal with
+this very quickly.
+
+Claimant went to hospital
+with a head injury.
+
+He was told that the
+waiting time would be ages.
+
+He went home, his
+condition deteriorated.
+
+Had the receptionist told him
+triage will be 30 minutes,
+
+he would have
+stayed and wouldn't
+
+have suffered the damage.
+
+Basically, the court said,
+
+ultimately, I'll
+just get onto this.
+
+This fell within an
+established category.
+
+The receptionist gave him
+
+wrong information,
+she didn't act,
+
+which reasonably foreseeably
+caused physical injury,
+
+and it was that simple
+in darning, they said.
+
+That leads me on very quickly to
+
+this poll which I would
+
+like you all to take rapidly
+
+because it's worth
+stressing this.
+
+What the poll asks you to
+
+do is to say what
+cases you should
+
+cite where it's clear
+the defendant has done
+
+an act that foreseeably
+
+causes physical injury
+or property damage.
+
+The vast majority of people
+are getting this right,
+
+but some people are
+getting it wrong.
+
+In fact, even 30% are saying
+you should cite Darnley.
+
+The answer is Robinson.
+
+Just cite Robinson.
+
+None of this other
+guff, simple. Goodbye.
+

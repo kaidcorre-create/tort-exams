@@ -1,0 +1,2451 @@
+MALE_1: Stick your
+hand, it's a problem.
+
+It's good. Great. Thank you.
+
+Factual Causation number 2.
+
+Let's just very quickly recap.
+
+That's a nice mono water lilies.
+
+Let's just recap negligence
+as a whole very quickly.
+
+Duty of care, first,
+
+you establish that you've
+got actionable damage,
+
+then you establish that
+you've got a duty of care,
+
+which you do normally
+by showing that there's
+
+an act which reasonably
+
+foreseeably causes a physical
+injury or property damage,
+
+things more tricky if it's
+
+an emission or if the damage
+is of a different kind,
+
+psychiatric injury
+or economic loss.
+
+Probably getting bored of
+me saying that by now.
+
+Once you've established that
+there's a duty of care,
+
+you establish whether or not
+there's a breach of duty.
+
+Something quickly, I
+think I forgot to say in
+
+the breach of duty
+lecture, by the way.
+
+You might make a note of this
+
+in some other file,
+just quickly,
+
+on breach of duty,
+
+is that normally you're
+
+asking did the person
+
+act as the reasonable
+person or not.
+
+You balance the five
+factors, if you recall?
+
+Those five factors
+being ordinarily,
+
+probability of harm, gravity of
+
+harm, cost of precautions,
+
+utility of conduct and context,
+
+and you're balancing those
+factors against one another,
+
+and then there's certain
+special circumstances
+
+where you take into
+account the subjective
+
+characteristics
+of the defendant,
+
+such as in relation to children.
+
+You don't ask, did the child
+act as a reasonable adult,
+
+or you ask did the child act as
+
+a reasonable 15-year-old,
+
+or whatever age of the child.
+
+In the child's case, you still
+balance the five factors.
+
+Here's the thing
+I didn't mention.
+
+When it comes to say
+doctors or professionals,
+
+any other professionals for
+
+whom you apply a different
+test, the Bingham test,
+
+and you're asking, did
+they act according to
+
+a responsible body of
+insert professions opinion?
+
+With doctors, it's a responsible
+body of medical opinion.
+
+With lawyers, it's
+
+a responsible body
+of lawyerly opinion.
+
+In those circumstances,
+you're not
+
+applying those five
+factors in the same way.
+
+For normal breach of duty cases,
+
+you apply those five factors,
+
+balance them against
+one another,
+
+considering the context.
+
+Whereas when it
+comes to doctors and
+
+other professionals,
+plumbers, whatever included,
+
+you just ask what does a
+responsible body of plumbing,
+
+doctor, lawyerly,
+
+whatever it is, opinion say?
+
+The point, just to
+be clear, normally
+
+you balance the five factors.
+
+When you're applying the B test,
+
+you don't do the balancing
+of the five factors.
+
+I think I forgot to say that in
+
+the breach of duty lecture,
+
+and I just wanted
+to clarify that.
+
+Good. Now we're
+back to causation.
+
+Once you've established that
+there is a breach of duty,
+
+you need to establish that
+what the defendant did,
+
+their breach of duty,
+
+was actually the cause of the
+claimant's loss or damage.
+
+Just to recap on last time,
+
+normally, that will work
+
+through standard,
+but for causation.
+
+You simply ask, you look
+at the counterfactual.
+
+If the defendant had not
+
+done whatever it was that
+the breach of duty was,
+
+if they hadn't
+breached their duty,
+
+would the damage have
+occurred anyway?
+
+If the damage would
+have occurred anyway,
+
+then there's no
+causation. Pretty simple.
+
+There are some cases
+
+where it's ever so
+slightly trickier,
+
+where you've got a
+divisible injury.
+
+Again, just to stress,
+divisible injury
+
+is an injury like a
+burn, which gets worse,
+
+the more the burning object
+
+is held against the skin or
+the more heat is applied
+
+and you can divide up
+
+the injury in relation to
+
+its causes and you
+can say this bit
+
+of the injury was
+caused by this thing,
+
+this other bit of
+
+the injury was caused
+by this other thing,
+
+and there the rule
+is very simple.
+
+It's just that the defendant is
+
+liable for whichever
+bit of the injury
+
+they caused and not liable
+
+for the bit of the injury
+they didn't cause.
+
+Things get much more
+complicated when it seems
+
+like you have an indivisible
+injury, eg death,
+
+which the defendant's action
+
+did seem to materially
+contribute to,
+
+but it cannot be said
+to be a but-for cause.
+
+In some of those tricky cases,
+
+the defendant is
+made liable in full.
+
+For the invisible injury.
+
+Then you have material
+contribution to
+
+the risk of injury
+cases where D is
+
+liable in proportion to their
+contribution to the risk.
+
+It's this last category that
+we're going to be looking
+
+at in a little bit more detail
+
+today and dealing with some of
+
+the nuances and trickiness to
+do with this last category,
+
+material contribution
+to the risk of injury.
+
+Again, I would just stress,
+
+this is one doctrine, material
+contribution to injury.
+
+This is a really very
+different doctrine,
+
+material contribution
+to the risk of injury,
+
+and you should recall that
+
+the final doctrine
+only applies in
+
+very rare circumstances
+where there
+
+is what Lord Bingham called
+the rock of uncertainty,
+
+complete impossibility
+of knowing whether or
+
+not the defendant's breach
+
+contributed to the
+injury at all.
+
+You just can't know. All you
+
+can know is that they
+increase the risk.
+
+That's because of
+scientific impossibility.
+
+I'm not going to
+bore you by running
+
+through all of these T
+scenarios again in detail,
+
+but I'm just
+reiterating them with
+
+new headings to show that
+
+this first one was about
+material contribution
+
+to divisible injury.
+
+The second one was about
+material contribution
+
+to indivisible injury,
+
+and it gives you the simple
+modern legal rule for each.
+
+Again, you see material
+
+contribution to
+indivisible injury.
+
+The result is D is
+entirely liable.
+
+Material contribution
+to the risk of injury.
+
+The normal result there is that
+
+the different
+defendants are liable.
+
+In proportion to the extent
+
+to which they increase the risk,
+
+and it's this final
+doctrine that
+
+we're looking at in a
+bit more detail today.
+
+What we're looking at is the
+limits of this doctrine.
+
+We've seen when the
+doctrine applies.
+
+It applies only in very
+rare circumstances.
+
+We have what Lord Bingham
+called the rock of uncertainty.
+
+Just one more time
+because every year
+
+we get people applying this in
+
+all circumstances where it's
+
+completely inappropriate
+because they think, oh,
+
+I'm not sure about this,
+
+and because I'm not
+sure about this,
+
+I ought to apply this doctrine,
+
+which I vaguely remember
+
+applies where things
+are uncertain.
+
+It is not just some
+uncertainty in the evidence,
+
+it has to be scientifically
+
+impossible to know
+whether or not
+
+the defence breach
+caused anything at all.
+
+All you know is that
+it increased risk.
+
+If you want a more
+detailed explanation
+
+of how that works and
+why that's the logic,
+
+you do need to go and read
+the cases because it's too
+
+complicated for me to
+
+explain in the
+context of a lecture.
+
+We know when the rule applies,
+
+but when does it not
+
+apply really is what
+we're dealing with now.
+
+Wiltshire Essex Area
+Health Authority
+
+tells us when it does not apply.
+
+This is a case that came
+
+before Fairchild and the
+other material contribution
+
+to risk of injury cases.
+
+It was held in this
+House of Lords case
+
+that there was no
+factual causation.
+
+Let's just consider the facts.
+
+Defendant negligently gave
+the claimant too much oxygen,
+
+that increased the risk
+of condition called RLF.
+
+You do not need to know the
+details of that condition.
+
+The key point here is
+this that there were
+
+five different and equally
+possible causes of the RLF.
+
+There was a scientific
+impossibility
+
+of knowing which one of
+
+these five possible causes
+actually was the cause.
+
+It was simply
+impossible to know.
+
+All you could know is that they
+
+were all equally likely
+to be responsible.
+
+They each increased
+the risk a bit.
+
+But it was not clear that any of
+
+them was the cause at all.
+
+Sorry, I misspoke.
+
+It wasn't just unclear.
+
+It was impossible to know
+which one was the cause.
+
+Impossible to know
+anything more about
+
+the situation other than
+that they increase the risk.
+
+Now, you might think here,
+
+why not just apply the
+simple rule from Fairchild?
+
+Why is this not a
+case in which we just
+
+say five different equally
+likely possible causes?
+
+Each of them is
+one-fifth responsible.
+
+You get one-fifth of
+
+the total damages in the
+same way you would under
+
+the rule in Fairchild and
+now Barker and [inaudible].
+
+Well, the answer is this.
+
+It's because of a rule known as
+
+the single noxious agent rule.
+
+The idea is that
+this doctrine in
+
+Fairchild of material
+contribution
+
+to the risk of injury is a
+very exceptional doctrine.
+
+It is a real departure from
+
+the ordinary rules of causation.
+
+The ordinary rules of
+causation, remember,
+
+say that on the balance of
+
+probabilities, it
+has to be shown,
+
+it is on the claimant
+to show that
+
+the defendant's breach was on
+
+the balance of probabilities,
+the cause of their injury.
+
+We're departing from
+that rule because
+
+of the unfortunate fact
+
+that we have limits
+to human knowledge.
+
+But there's got to
+be some end to this.
+
+Because we can't
+just say whenever
+
+things are very uncertain,
+
+when we don't know things,
+
+we'll just do liability in
+
+proportion to the
+increase in risk.
+
+Maybe you'll understand
+more towards the end of
+
+the lecture when I go
+over another doctrine,
+
+loss of a chance.
+
+Why exactly that would
+be such a bad result?
+
+Because I just want to quickly
+pause and have you imagine
+
+an alternative world in
+
+which people are just
+
+made liable for the extent
+to which they increase risk,
+
+because it's never shown
+in a tort law case,
+
+or not normally shown
+that D's actions are
+
+100% certainly responsible
+for C's injury.
+
+It's very difficult ever to
+
+show 100% certainty on anything.
+
+Most things we know in
+the world about anything,
+
+the fact that the sun's
+going to rise tomorrow.
+
+We don't even know that
+with 100% certainty,
+
+and most of these tricky medical
+cases or tort law cases,
+
+the certainty is much
+lower than that.
+
+It might be 51%,
+60% or whatever.
+
+You might adopt a
+different system
+
+where if we're 60% certain
+
+that the D's negligence was
+the cause of C's injury,
+
+we make D liable for
+60% of the damage.
+
+That might be an
+alternative world.
+
+We'll consider that alternative
+
+world later in the lecture,
+
+and why that's not
+the way we do things.
+
+But it should be, I hope
+obvious to you guys already,
+
+that that's not the way
+the law does things.
+
+In tort law like in
+other bits of law,
+
+the proof works on the
+balance of probabilities,
+
+and whatever is proved on the
+balance of probabilities,
+
+to 51% likelihood is taken to
+be true in a binary sense.
+
+We take that as certain.
+That's not the way it works.
+
+Normally, we prove things
+
+on the balance of probabilities,
+
+and then we make
+the defendant fully
+
+liable for whatever it's shown
+
+on the balance of probabilities
+that they caused.
+
+Coming back to the slide and
+
+going back to what you can
+start noting in detail again,
+
+the point is Fairchild
+and the cases from it,
+
+material contribution
+to risk of injury are
+
+a massive departure
+from the ordinary rules
+
+of but for causation
+because we are
+
+making people liable
+for increased risk,
+
+not for the damage
+
+they caused on the
+balance of probabilities.
+
+Because you can't
+show anything on
+
+the balance of probabilities
+in these cases.
+
+Given that exceptionality,
+
+there has to be
+some limit to it,
+
+limit to how far this
+doctrine is pushed.
+
+Because if we expand
+it too widely,
+
+it would be like we start making
+
+liability a result of risk
+
+rather than facts we
+
+have assessed on the
+balance of probabilities.
+
+We apply this funny rule
+
+called the single
+noxious agent rule.
+
+Where the rule only
+applies in so far
+
+as the different
+possible causes,
+
+or the different possible
+increases in risk,
+
+all operate to increase
+risk in the same manner.
+
+You can call it the single
+noxious agent rule,
+
+but that's not actually
+what I would call it.
+
+The point is made
+more concretely,
+
+but the best authority here is
+
+Lord Hoffmann in
+Barker, where he says,
+
+"It's an essential condition
+
+for the operation of
+the exceptional rule,
+
+the impossibility of
+proving the defendant cause
+
+damage arises out of
+
+the existence of another
+potential causative agent
+
+which operates in the same way."
+
+The different possible causes
+
+have to operate in the same way.
+
+Now, what do we mean by operate
+
+in the same way is
+a little tricky,
+
+but do not worry.
+
+I'm not going to give
+you a problem question
+
+where it's an open issue,
+
+whether or not the
+different possible
+
+causes operate in the same way.
+
+We're really getting
+into the weeds here.
+
+No one ever faces this
+issue in practise.
+
+That would go to
+the Supreme Court.
+
+You don't need to worry
+about that nuance.
+
+But what you do need to worry
+
+about is the fact
+that in Wilsher,
+
+there were five different
+equally likely possible causes
+
+of this damage,
+
+and they all operated
+in different ways.
+
+The defendant was not liable
+
+because it was held
+there was no causation.
+
+That was seen to be good law
+
+and carried through in
+Fairchild and Barker.
+
+It was said that this
+exceptional approach
+
+only applies where you've got
+
+one kind of mechanism of damage.
+
+Only when all the different
+possible causes of
+
+the damage are operating in
+
+the same way can you apply
+this exceptional rule.
+
+For example, where it
+was asbestos causing it,
+
+where an employee was
+
+exposed by different
+employers to asbestos,
+
+that's the case in
+which you would apply
+
+this rule or some
+other noxious agent,
+
+which is the same thing.
+
+I give again,
+
+another silly T example to
+
+illustrate the limits
+of fair child.
+
+Here we've got two
+different kinds of serums,
+
+serum X and serum Y. I haven't
+stipulated on the slide,
+
+but it should be noted,
+
+you have to say that
+it's impossible to
+
+know which one of these serums
+actually caused the issue.
+
+All we know is that
+drinking a drop of
+
+this serum increases the
+chances by 10 percent.
+
+We got these two serums.
+
+D will only be liable if
+
+serum X and serum Y cause food
+poisoning in the same way.
+
+If one operates
+on, I don't know,
+
+the intestines and the other
+one operates on the bowels,
+
+I'm not a doctor,
+
+so I don't know how food
+poisoning actually works.
+
+I'm just giving hypothetical.
+But you see the point.
+
+If they both operate
+on the intestines in
+
+the same way and they
+cause the same problems,
+
+then you apply
+this special rule,
+
+material contribution
+to risk of injury.
+
+If they don't, they
+operate on different bits,
+
+even though they're both causing
+
+food poisoning because they are,
+
+as Lord Hoffmann said,
+
+operating in a different way,
+
+there would be no liability
+for the defendant
+
+because you would not be able
+to show but for causation.
+
+This is a complicated
+rule, doesn't often arise,
+
+but it just sets out
+
+the outer limits of the
+Fairchild doctrine.
+
+You can see that
+Fairchild has been
+
+criticised quite a lot.
+
+Lords Neuberger and Reed
+said in Zurich Insurance,
+
+the main reason this
+doctrine gets going
+
+is basically because they
+thought in Fairchild,
+
+well, if we don't
+make this decision,
+
+if we don't create
+this doctrine,
+
+we're going to get reversed
+by Parliament ultimately.
+
+So that's why the
+rule got created.
+
+It is very much an exception
+to the normal rule.
+
+Further judicial
+experimentation in
+
+this area is not
+to be encouraged,
+
+say Winfield and Jollewz.
+
+What's the upshot of
+all this for you guys,
+
+practically, most of the time,
+
+you're not going to have
+to worry about this.
+
+It's going to be pretty
+obvious, I think,
+
+in a problem
+question that I set.
+
+I'm going to make
+it pretty obvious
+
+if I set a problem
+question on this
+
+that there's this
+impossibility of knowing.
+
+Unless this impossibility of
+
+knowing how the
+damages done arises,
+
+you just do not
+apply this doctrine.
+
+You will normally just be
+applying but for causation.
+
+Sometimes you may be applying
+but for causation in
+
+a particular circumstance in
+
+relation to divisible injuries.
+
+Very rarely you'll be
+
+applying the indivisible
+injury doctrine,
+
+and even more rarely
+probably you'll be applying
+
+this very special rule
+
+material contribution
+to risk of injury.
+
+Most of the time it's
+just but for causation.
+
+There's an interesting
+point to note,
+
+just a interesting
+conceptual point to know
+
+about material contribution
+to risk of injury.
+
+I've already said it turns
+on scientific impossibility
+
+of knowing whether the defendant
+
+caused the claimant's injury.
+
+That means that science
+will at some point
+
+develop to a stage we think,
+
+most likely, where all
+knowledge is attainable.
+
+If humanity does not die out,
+
+there will be some future point
+
+at which we know everything,
+
+we think, at least.
+
+There'll definitely be some
+future point at which we know
+
+almost everything
+about the human body
+
+and how causes on it work.
+
+At that point, there will be
+no need for this doctrine.
+
+It's pretty much
+a certainty that
+
+we are going to be
+able to identify at
+
+some stage which strand of
+
+asbestos causes which
+bit of mesothelioma,
+
+and we're going to be able
+to date it precisely.
+
+That will probably not be
+impossible to know forever.
+
+That being the case,
+we will no longer
+
+need material contribution
+to injury as a doctrine.
+
+This is a little bit like
+
+the way that in
+lecture number two,
+
+I taught you about ABC and
+St. George's healthcare.
+
+That was a novel duty scenario.
+
+I think I said, the number of
+
+novel duty scenarios gradually
+
+diminishes as the law deals with
+
+more and more new
+duty scenarios.
+
+In the same way, well,
+
+it's not the law advancing,
+it's scientific knowledge,
+
+we're going to get less and
+less need for the doctrine of
+
+material contribution to
+risk of injury over time.
+
+Wonky flow chart for
+
+everyone who likes
+learning in this way.
+
+It's just to help you
+out and to understand
+
+what's going on in factual
+causation a bit better.
+
+It's almost
+impossible to express
+
+this perfectly accurately
+in a flow chart.
+
+Don't take this as some gospel,
+
+just take it as a useful
+device to another way of
+
+understanding things rather than
+
+being the only
+thing you look at.
+
+But the main point is, if you
+can show but for causation,
+
+you don't need to progress,
+
+to look at the other
+kinds of causation.
+
+This is a mistake people
+have made in the past,
+
+which I want you all to avoid.
+
+People act as if you
+
+have to look at all
+kinds of causation for
+
+every case and as
+if they're somehow
+
+alternative doctrines
+which the courts
+
+apply based on vibes,
+
+depending on what they
+feel like on the day.
+
+It's not like that.
+
+The vast majority of the time,
+
+I'm going to set a
+question where you
+
+can show but for causation.
+
+It's only if but for
+causation cannot be
+
+shown that you need to even
+
+begin to think about any
+of the other doctrines.
+
+Then you might want to
+start to think about
+
+material contribution
+to divisible injury,
+
+material contribution
+to risk of injury,
+
+and material contribution to
+
+indivisible injury
+in tricky cases
+
+where but for causation
+is not made out.
+
+Basically, there are three sets
+
+of options here, which is,
+
+the defendant's fully liable,
+
+the defendant's liable for
+
+the proportion of
+the injury they
+
+caused or the proportion of
+the risk they contributed to.
+
+This applies in relation to
+
+material contribution to risk of
+
+injury and material contribution
+to divisible injury.
+
+This one, D fully liable
+applies in relation to but for
+
+causation and
+material contribution
+
+to indivisible injury.
+
+There's a whole bunch of
+circumstances, obviously,
+
+where the defendant
+is not liable
+
+because you cannot show
+but for causation.
+
+We've dealt with a couple
+of tricky problem cases,
+
+material contribution to injury,
+
+material contribution
+to risk of injury.
+
+Now we're going to deal with
+a fiendishly complicated,
+
+other type of tricky case,
+
+which is loss of a chance.
+
+Now, loss of a chance is
+interesting in its own right.
+
+But what's most
+interesting about
+
+loss of a chance is what
+
+it teaches us about the
+fundamentals of causation.
+
+Let's look at this doctrine
+
+with a nice Van
+Gogh starry night.
+
+Just relax for a
+moment before we
+
+move into loss of
+a chance properly.
+
+Back to horrible head
+scratching tort law.
+
+The setup, loss of a chance.
+
+These are cases where
+the claimant can't
+
+show on the balance
+of probability
+
+the defendant cause harm,
+
+they can show the defendant
+
+caused the claimant to lose
+a chance of avoiding harm.
+
+This is not really a case about
+
+causation or factual causation
+because in these cases,
+
+we absolutely know that
+
+the defendant caused
+something to happen.
+
+They did a breach, which
+caused something to happen.
+
+We know that they caused a
+loss of a chance in some way,
+
+in various different ways.
+
+Normally, a loss of a chance of
+
+recovery from some illness.
+
+That's the paradigmatic case.
+
+You can consider this as
+part of factual causation.
+
+Different textbooks break
+it up in different ways.
+
+I'm teaching it as a part
+of factual causation.
+
+I wouldn't worry too much
+about the specific taxonomy,
+
+but it teaches you something
+about factual causation.
+
+Hotson and East Berkshire is
+
+the classic case here that
+
+teaches you the
+normal standard rule.
+
+The normal standard rule
+is just but for causation.
+
+If you cannot show
+on the balance of
+
+probabilities that D's
+negligence caused the damage,
+
+D is not liable, obviously.
+
+On the balance of
+probabilities means
+
+showing a more than
+50 percent chance.
+
+These cases are ones
+
+where there's a less
+than 50 percent chance.
+
+Here, the claimant fell from
+a tree and hurt his hip.
+
+The defendant negligently
+misdiagnosed the claimant.
+
+If there had been a
+correct diagnosis,
+
+there would have been
+a 25 percent chance
+
+that the hip would
+have recovered.
+
+It's on the balance
+of probabilities,
+
+the hip was not
+going to recover.
+
+Go back to yesterday,
+
+go back to our classic but
+for causation case, Barnett.
+
+What we saw in Barnett is
+
+that the doctor negligently
+treated the claimant,
+
+but it was shown
+on the balance of
+
+probabilities that the claimant
+
+would not have recovered anyway,
+
+and so there's no causation
+
+because the claimant was
+done for in any event.
+
+Same thing is true here.
+
+The claimant did have a 25
+percent chance of recovery,
+
+but that's well
+under 50 percent.
+
+We've got two clear things here.
+
+We've got the defendant who
+
+has very obviously
+been negligent.
+
+We've got this poor
+claimant who's lost
+
+a solid quarter
+chance of recovery.
+
+The doctor's negligence deprived
+
+the poor claimant of that 25
+percent chance of recovery.
+
+That's a decent chance.
+
+Yet, obviously,
+
+because you apply
+normal causation rules,
+
+the claimant gets nothing.
+
+They get nothing for
+their lost chance because
+
+the lost chance is less than
+a 50 percent lost chance.
+
+Because it's only 25 percent.
+
+On the balance of probabilities,
+
+he would have lost
+a hip anyway so
+
+reduction in chance
+doesn't matter.
+
+You can immediately begin to see
+
+that this is a contentious area.
+
+A, from the way I've
+just sketched it out,
+
+we've got negligence,
+
+we've got a poor claimant
+
+who's lost something
+very material,
+
+a 25 percent chance
+of getting better.
+
+That's why the High Court and
+
+the Court of Appeal
+in the courts
+
+below had held that we
+should give some damages.
+
+We should give 25
+percent damages.
+
+But the Supreme Court
+
+held causation does
+not work that way.
+
+It's black and white.
+
+If you can show
+
+a 51 percent likelihood
+
+that the negligence
+was the but for cause,
+
+you get 100 percent of damages.
+
+If you can only show a 49
+percent, you get zero.
+
+It's binary. The
+law takes the view,
+
+and I said this
+earlier, but it's
+
+now worth repeating
+in light of this.
+
+The law takes the view.
+
+Do you just work out
+
+the percentage likelihood
+of a set of facts?
+
+Even if it's 51 percent,
+
+the law arbitrarily imposes
+
+this idea that actually
+it was certain.
+
+We go from balance of
+probabilities to certainty.
+
+For the purpose of damages.
+
+Now, the injustice,
+
+you might just be
+able to accept that.
+
+You could say, 25 percent is
+not that much lost chance.
+
+Pretty overwhelmingly
+likely that
+
+the guy was going to
+lose the hip anyway.
+
+Fair. It's not an
+unreasonable result.
+
+Fine. But it starts to get
+
+a bit more galling and a
+little bit more difficult to
+
+accept when we find
+that the claimant had
+
+a very close to 51%
+chance of recovery.
+
+Greg and Scott is
+just such a case.
+
+In Greg and Scott,
+
+the defendant's
+negligence delayed
+
+the claimant receiving
+medical treatment for cancer.
+
+The claimant initially had
+a 42% chance of recovery.
+
+That's pretty likely.
+
+Defendant's negligence
+reduced that to a 25% chance,
+
+quite a substantial reduction.
+
+Again, we get the same results,
+
+but it's on a bare majority.
+
+It's 32, Greg and Scott.
+
+We get the same result.
+
+The law takes the
+view arbitrarily
+
+that even if something
+is 49% likely to happen,
+
+the law says it wasn't
+going to happen.
+
+It's certain that
+it wasn't going to
+
+happen for the
+purpose of damages.
+
+You can see that this in
+a way butts up against
+
+stories at odds with
+the rule in Fairchild.
+
+Because in Fairchild, we are
+doing this weird and Barker
+
+and those other
+material contribution
+
+to risk of injury cases.
+
+The Laura is doing
+something really weird.
+
+It's giving damages,
+not on the basis
+
+of a 51% likelihood that the
+breach caused the damage,
+
+but on the basis of
+an increase in risk,
+
+and it's proportioning
+out those damages
+
+on the basis of how much the
+risk would be increased.
+
+You might think, isn't this
+
+a really similar
+case in many ways?
+
+Why can't we just do that here?
+
+Why can't we just give
+the poor bloke in
+
+Hodson 25% of the damages?
+
+Why can't we just give the
+poor claimant in Greg and
+
+Scott whatever 42 -25 is,
+
+which I'm not going to
+try and do in front of
+
+you in my head because I'm
+very bad at mental math.
+
+Lady Hale tries to explain in
+
+the majority why
+we don't do that,
+
+why the rule in Fairchild is
+
+exceptional and why
+we confine it as
+
+tort lawyers to a
+very narrow set
+
+of circumstances
+where we've got,
+
+again, this rock of uncertainty.
+
+The reasons are this.
+Allowing damages for
+
+loss chances would render
+but for causation redundant.
+
+As I said earlier,
+because we never
+
+have great certainty
+about anything,
+
+so you'd never be getting
+100% damages in any cases.
+
+But that's not the
+reason she's giving.
+
+That's one of the
+reasons I would give,
+
+but the reason she's
+giving here is that in
+
+almost every case where
+there's a breach of duty,
+
+there is a loss of a chance.
+
+Now funnily enough,
+
+students make this
+mistake quite often.
+
+I've said this before.
+I said, again,
+
+they quite often see
+a breach of duty.
+
+They see someone doing
+something negligent
+
+and they either assume
+
+that because someone's
+done something negligent,
+
+there must be a duty of
+care in the first place.
+
+That's one mistake
+that's often made.
+
+The other mistake that's
+often made is the mistake
+
+she's hinting out
+here, Lady Hale,
+
+when she says,
+almost every breach
+
+of duty leads to
+some loss of chance.
+
+Students see a breach of duty,
+
+they notice that a defendant's
+
+done something wrong and they
+
+feel there must
+be some injustice
+
+there which must be remedied,
+
+they forget that you need
+to show on the balance of
+
+probabilities that
+that breach of
+
+duty caused the claimant's loss.
+
+But note that doesn't
+have to be this way.
+
+Tort law could in theory,
+
+adopt a less binary
+approach and it could have
+
+given damages in proportion
+to the loss chance.
+
+Another reason we don't do
+that is because allowing
+
+recovery for damages for lost
+chances would do away with
+
+the need to show damage
+or to prove damage,
+
+and that's what
+negligence is all about,
+
+proof of damages Lady Hale.
+
+Then I think this final point
+
+is perhaps the most
+compelling one.
+
+It's quite complicated.
+
+By the way, before I
+get into this point,
+
+I just want to zoom out and say,
+
+if you're finding
+this complicated
+
+and you are feeling lost,
+
+you are almost
+certainly not alone.
+
+I said at the beginning
+of last lecture,
+
+this is really
+fucking complicated.
+
+This is as complicated
+as it gets.
+
+I'm sorry it comes in
+Week 4. Don't worry.
+
+There'll be plenty of
+tricky stuff from now on.
+
+But this is as bad as it gets.
+
+This is really
+nasty tricky stuff,
+
+especially if you try
+and read the judgments.
+
+If you try and read
+Greg and Scott itself,
+
+I almost recommend
+against doing that.
+
+It's quite an interesting read,
+
+but just try and learn the
+rules here if you're getting
+
+confused because if you try and
+
+really understand
+what's going on here,
+
+entire books have been
+written about this,
+
+the great philosophers
+have dealt with
+
+this, is not simple.
+
+Back to the lecture.
+Lady Hale's points here,
+
+why do we not just compensate
+
+people for their lost chances?
+
+Well, I don't want to
+start with the top here.
+
+I just want to start
+with alternatives,
+
+why is it not that we just
+compensate people for
+
+their lost chances or
+
+the risk rather than compensating
+people in a binary way?
+
+The answer is this,
+
+it would add lots of
+complexity and cost to cases.
+
+The burden of proof rules,
+
+the balance of probabilities,
+
+that way of doing,
+
+that binary way that tort law
+
+understands whether or not
+events in the world happened,
+
+you can show it's 51%
+likelihood, it happened.
+
+If you can't show it's 51%
+likelihood, it didn't happen.
+
+It takes this binary attitude.
+
+It does that for
+simplicity's sake,
+
+for the sake of saving costs,
+
+for the sake of just
+making everything easier.
+
+In a way, this is not
+a principled rule.
+
+There's no fundamental
+feature of
+
+the world and law
+which makes this just.
+
+It is just a pragmatic approach.
+
+It exists purely to
+
+save massive time and effort
+on the part of courts,
+
+on the part of counsel
+because you might think,
+
+why would this be so costly?
+
+Well, we would start getting in
+
+every single case arguments
+
+about whether or not it was 51%
+
+likely or 62% likely or
+
+63% likely or 68% likely that
+
+the defendant's negligence
+caused the claimant's loss.
+
+Every single case, pretty much,
+
+apart from ones where you
+could say with 99.9% certainty
+
+the defendant's negligence
+caused the damage,
+
+which are very rare cases
+
+because of the causal uncertainty
+inherent in the world,
+
+you would get complex,
+lengthy, tricky,
+
+costly arguments about exactly
+
+how likely they were to
+have caused the damage.
+
+That really is not an option.
+
+Indeed, just pause to know
+
+that in these
+Fairchild type cases,
+
+material contribution to
+risk of injury cases,
+
+that is actually
+exactly what happens.
+
+You get employers
+arguing to death
+
+about exactly how
+much asbestos they're
+
+exposed the claimant to
+
+and for exactly how
+long it was because,
+
+if they can avoid
+
+actually 1% of a couple
+of million quid,
+
+that's quite a lot of money,
+
+and there are quite a
+lot of money involved in
+
+tort claims, and
+what does that do?
+
+We learned in the first lecture
+that half of the cost of
+
+tort claims already goes
+to lot in the future,
+
+ambulance tracing lawyers,
+
+if you want to put it that way,
+
+and this would just
+massively up that cost.
+
+Everything would get
+more complicated.
+
+Doing it on this basis
+as a matter of routine,
+
+giving people damages in
+
+proportion to the amount
+of lost chances they get
+
+or the risk they're
+exposed to is
+
+not really a
+practical way of do.
+
+We need to do this
+on a binary basis.
+
+But what about another option?
+
+What about we do
+this mixed approach
+
+where claimants who can
+show that their injury was
+
+more than 50% likely get
+
+100% and claimants
+who can show that
+
+their injury was less than 50%
+
+likely get damages in proportion
+to their loss chances.
+
+Well, I hope you all have
+
+an immediate intuitive sense
+
+that is not really a
+very practical solution.
+
+One thing, it still introduces
+
+all complex arguments
+in a bunch of cases.
+
+But for another thing,
+
+as Lady Hale puts it,
+
+and I think this is a nice
+metaphor, it's heads,
+
+you lose everything, tails,
+
+I win something situation.
+
+It's what the great
+legal philosopher
+
+Ronald Dakin would have called
+a checkerboard solution.
+
+It's in egalitarian,
+essentially.
+
+It makes for an
+unequal approach,
+
+which treats different
+claimants differently,
+
+and the law rejects these
+unequal approaches.
+
+It tries to treat
+everyone equally.
+
+But two of the
+judges, in this case,
+
+two of the great law lords were
+
+not happy about this result,
+
+and we all have, I hope,
+
+an intuitive sense of
+rebellion against this.
+
+As Lord Nicholls says,
+
+the point of our
+medical duty is to
+
+promote the patient's recovery.
+
+It would be irrational to
+empty this duty of content.
+
+A 45% chance of recovery
+is a very real one.
+
+Lord Hope just says, the delay
+
+allowed the cancer to grow.
+It's a physical injury.
+
+Chance could be assessed
+as usual through damages.
+
+He doesn't see what
+the big problem is.
+
+Maybe it would be a bit of an
+issue if it became routine.
+
+But Greg and Scott
+was a very edge case.
+
+Normally, there is a greater set
+
+of certainties than
+Greg and Scott,
+
+can't we make some exceptions
+for these very edge cases,
+
+just like the way we make some
+exceptions for Fairchild?
+
+That's a tricky edge case.
+
+It feels so unjust
+
+not to reward the
+claimant Greg and Scott.
+
+I'll leave it up to you to
+decide whether you think
+
+the majority was right or
+the minority was right.
+
+I think for my part,
+
+the majority was right,
+
+and we should go with clear,
+
+simple rules which create
+egalitarian solutions for
+
+everyone rather than this
+
+checkerboard, weird,
+complex approach.
+
+Bloody hell, tort law and
+
+factual causation is
+complicated enough as it is.
+
+Let's not introduce more
+further complexity into it.
+
+Now, just to introduce
+
+some more further
+complexity into it,
+
+there is an exception
+to the rule that you
+
+don't calculate damages
+for loss of a chance.
+
+You just calculate
+in a binary way,
+
+and that's when you
+lose a chance not
+
+of avoiding some
+physical injury,
+
+but lose a chance
+of getting money.
+
+Well, why do we do it
+differently with money?
+
+I think there's two
+responses you might give.
+
+The first goes back to
+these pragmatic reasons.
+
+It's very easy for
+
+claimants and defendants spend
+
+massive amounts of money and
+
+time arguing about
+physical realities in
+
+the world and they're very
+difficult to quantify,
+
+but it's generally
+substantially easier to
+
+quantify and put a figure
+on lost chances of money.
+
+The gambling market
+does this the
+
+entire time without
+any great difficulty.
+
+We just put numbers
+
+on how likely it is
+that someone's going to
+
+make some money and that's
+
+what the stock markets
+are doing, essentially.
+
+That's what the
+insurance markets do.
+
+We already have fairly
+well established market
+
+mechanisms for pricing
+and pegging these things.
+
+There is a pragmatic point here.
+
+But then there's a
+more principled point
+
+here Lady Hale makes too.
+
+There's not that much difference
+
+between the money
+one expected to
+
+have and the money one expected
+
+to have a chance of having.
+
+It's all money.
+
+The difference between
+the leg one ought to
+
+have and the chance of
+
+keeping a leg which
+one ought to have.
+
+That's a big difference.
+
+There is a bigger
+difference between that
+
+and the chance of
+money and real money.
+
+Maybe that's where I got the
+whole leg chat in Lecture 1.
+
+Good. Yes, this is a
+further complexity.
+
+We've got this role in
+Allied Maples group.
+
+I almost don't really want
+to teach you with this,
+
+and I will just say that
+this particular rule,
+
+the rule in Allied Maples
+Group and Simmons and Simmons,
+
+the firm that my wife used
+to work for, got sued.
+
+There's a special rule here,
+
+which is that you
+
+don't recover for all
+lost chances of money.
+
+You only recover for some
+lost chances of money,
+
+but don't worry too
+much about that.
+
+It won't be on the exam.
+
+It's just one of them
+ones where I'm making you
+
+aware of it in case you have
+
+the great misfortune
+of ending up in
+
+tort law practise and you
+actually need to know about it.
+
+I don't want to not tag you
+about it. There you go.
+
+The tricky rolling
+Allied Maples Group.
+
+Further nature of the rule.
+
+Got another nice flow chart
+to try and help you there.
+
+Again, I wouldn't worry too much
+
+about the nuances of
+loss of a chance.
+
+Just worry about the fact
+
+that you've got this
+tricky doctrine,
+
+that it does teach you
+something and remember that
+
+the normal approach is binary.
+
+Even if you feel like there's
+a deep injustice there,
+
+if there's a less
+than 50% chance,
+
+but for causation is
+not generally made out.
+
+That's a little summary
+just to help you with
+
+all the rules and how it works,
+
+whether D's fully liable,
+
+whether D's not liable at all,
+
+etc. Thank you very much.
+

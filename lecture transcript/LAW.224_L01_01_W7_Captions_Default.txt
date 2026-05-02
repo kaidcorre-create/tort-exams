@@ -1,0 +1,2389 @@
+MALE_1: This is
+the reading list,
+
+and I just want to
+take a moment to
+
+talk about this
+because obviously,
+
+we're now back to topics on
+
+which you may well be examined
+
+because there will
+be a workshop on
+
+pure psychiatric injury
+examined in the 70% exam.
+
+Everything is in
+the MCQ, remember?
+
+That's the 30% thing which
+will take place in May,
+
+and then 70% main exam
+
+is restricted to the
+workshop topics,
+
+and pure psychiatric injury
+
+is one of those workshop topics,
+
+which will be the
+workshop in Week 4.
+
+I just want to take a moment
+to talk about some stuff on
+
+the reading list.
+Obviously, textbook.
+
+Make sure it's the ninth
+edition because this case,
+
+Paul and Royal
+Wolverhampton NHS Trust is
+
+a recent Supreme Court case
+
+last year which made very
+major changes to the law,
+
+in particular, removed
+
+a requirement or
+control mechanism.
+
+We'll get into that
+in more detail later.
+
+I also want you,
+
+when it comes to this topic,
+
+to think about some of
+
+the more abstract normative
+theoretical questions about
+
+whether or not you think
+this area of law is any
+
+good in order that you might,
+
+in theory, be able to write
+essays on it, for example.
+
+That's why I've given you
+some articles to read.
+
+This old one is by
+James Stapleton,
+
+one of the great
+tort law scholars.
+
+It was from the year
+after my birth,
+
+1994, so it's really
+old, obviously.
+
+A lot of the actual
+strictly legal material
+
+in that will now be out
+of date, of course.
+
+You can see many of these cases
+
+come after that, although
+crucially Alcock,
+
+which is very important here and
+
+the foundation of this
+entire area of law,
+
+came before that article.
+
+The reason I've set
+this article as reading
+
+is it's jolly interesting,
+Stapleton's brilliant.
+
+It said some interesting
+things about tort law as
+
+a whole, but more importantly,
+
+it's one of the
+early pieces which
+
+suggests a normative
+rearrangement
+
+of this entire area of law.
+
+It makes arguments about
+how this area of law
+
+ought or ought not to be
+
+rearranged, which
+are interesting.
+
+Then these two pieces comment
+on Paul, this new case.
+
+Then there's a bunch
+of podcasts on
+
+this stuff, which are
+jolly interesting.
+
+This is a good
+podcast I listen to
+
+quite a lot in my free
+time because I like law.
+
+They also have a good
+episode on Hillsborough,
+
+which is, I hope most of you
+know what Hillsborough is,
+
+but it was a massive disaster,
+
+very horrible, very shocking,
+
+caused lots of
+fallout in Liverpool.
+
+The families of the victims of
+
+the Hillsborough disaster were
+
+denied justice for
+a very long time.
+
+They have recently been given
+
+justice or some small
+degree of justice.
+
+Largely, I should add, through
+
+the operation of
+human rights law,
+
+if we were to leave
+
+the European Convention
+on human rights,
+
+the Hillsborough victims
+
+would not have been
+given justice.
+
+Anyway, this podcast
+not only has
+
+an interesting episode on this
+
+very narrow topic of
+psychiatric injury,
+
+but also the topic of
+
+Hillsborough more broadly,
+if you get interested in it,
+
+and the series of inquiries
+which took place into it,
+
+and the new law that has just
+been passed essentially to
+
+prevent the police banding
+
+together and lying,
+which is what happened.
+
+Hillsborough disaster was
+caused by the police.
+
+The police blamed
+it on the fans,
+
+but the police were all
+actually lying and there was
+
+very deep and
+widespread dishonesty
+
+throughout the entire
+police force there.
+
+In that podcast episode,
+
+someone who was
+involved in it says
+
+the level of dishonesty was
+
+roughly proportional to how
+
+high up the people in
+the police force were.
+
+The higher up they were
+in the police force,
+
+the more lies they told and
+the more dishonest they were.
+
+It's a truly shocking event
+from many perspectives,
+
+not just for the victims,
+but for the state society.
+
+Onto psychiatric injury.
+
+This is another
+special duty problem.
+
+We are talking, again,
+
+about duty of care here,
+
+not breach, not causation,
+
+but the first stage duty.
+
+There are no special
+issues about breach
+
+or causation in relation
+to psychiatric injury.
+
+The only special issues
+relate to whether or not
+
+there's a duty of care
+in the first place.
+
+Recall, there is always
+a duty of care not to do
+
+acts which reasonably
+foreseeably
+
+cause physical injury
+or property damage.
+
+That is not true in relation
+to psychiatric injury.
+
+Just because someone
+doesn't act,
+
+which reasonably foreseeably
+cause psychiatric injury,
+
+does not create a duty of care.
+
+Most of the time, it does not.
+
+We'll start with this
+general exclusionary rule.
+
+We're accompanied today by
+some lovely modern art.
+
+The paintings of Andrew Wyeth,
+
+Edward Hopper, and Francis Bacon
+
+will accompany us this week.
+
+Here is the general rule.
+
+D does not normally owe C
+
+a duty of care in respect
+to psychiatric injury
+
+unless that injury is
+
+consequent upon physical
+injury or property damage.
+
+Just like for pure
+economic loss,
+
+if you get your leg
+taken off because of
+
+a negligence and you
+
+get really depressed because
+
+you haven't got any leg anymore,
+
+you can recover from that
+depression, obviously.
+
+No issues about that.
+
+You'll learn about
+that more in damages,
+
+but it is ordinary
+what's called PSLA;
+
+pain, suffering and
+loss of amenity.
+
+Pain, suffering and loss
+of amenity consequent
+
+upon physical injury.
+No problems there.
+
+The only problem comes when
+
+you haven't got a
+physical injury to
+
+which your psychiatric
+injury is attached,
+
+but it's pure
+psychiatric injury.
+
+Let's think of what is
+pure psychiatric injury?
+
+Well, for example, today,
+
+I'll be telling you all
+about the shocking events
+
+at the Hillsborough Stadium in
+
+graphic detail where hundreds
+
+of people died very
+horrible deaths.
+
+I'm not actually
+going to show you
+
+horrific photos of the event of
+
+people dying because that's
+
+just too gruesome and I'm
+not going to do that.
+
+But imagine I did,
+and one of you,
+
+I think foreseeably,
+if I did that
+
+develop PTSD after that lecture.
+
+This would be particularly
+the case, let's say,
+
+had someone you known been
+
+in the event or
+something like that,
+
+develop PTSD after the lecture.
+
+I think it's
+reasonably foreseeable
+
+that that could occur
+in these circumstances.
+
+Would I be liable?
+
+No, I would not because
+I know no duty of
+
+care in respect of that
+pure psychiatric injury.
+
+The law does not
+impose such duties
+
+of care as run-of-the-mill.
+
+If anyone's looked at any
+past exam papers yet,
+
+the last year's main exam had
+
+a pretty good example of
+this where things were
+
+quite tricky and a lot
+of people missed it.
+
+I gave an example
+of a psychiatrist
+
+who was really nasty
+to their patient.
+
+Everyone assumed
+because you've got
+
+a psychiatrist and a patient,
+
+that the psychiatrist
+owes the duty of
+
+care to take care of the
+patient's mental health.
+
+It is not that
+straightforward at
+
+all because you've got to ask
+what's the type of damage?
+
+It's psychiatric injury.
+
+D is only liable,
+
+only owes a duty of care to
+
+C in respect of
+psychiatric injury if
+
+the narrow special
+set of rules are met,
+
+if there's one of the
+recognised exceptions,
+
+which I'm going to teach
+you today and on Friday.
+
+You can't just assume duties of
+
+care in case of
+psychiatric injury,
+
+even in doctor-patient
+relationships.
+
+That's not important. Well, it
+
+is important. It is relevant.
+
+You cannot just assume it.
+
+I just want to add
+
+that it's not just
+
+consequent on physical
+injury that's simple, easy.
+
+If the pain,
+suffering and loss of
+
+amenity occurs as a result
+of property damage,
+
+you've got no problems as
+
+well because of Attia
+and British Gas.
+
+Now I don't know whether
+
+the result of this
+case is really right.
+
+We're going to learn
+about some cases later
+
+where people's relatives
+die in front of them,
+
+and they're not able to recover
+for that in various ways.
+
+In this case, someone
+is able to recover for
+
+psychiatric injury because they
+
+watch their house burn down.
+
+You might reasonably think
+in those circumstances,
+
+what the hell is
+the law doing here?
+
+Why are we allowing recovery for
+
+psychiatric injury for
+watching a house burn down,
+
+but not for watching a
+dad die or your mom die,
+
+or your whole family die
+
+if it's in the wrong
+circumstances.
+
+That seems potentially unfair,
+
+but it is what the
+law is at the moment.
+
+Why? Well, something
+I said in Lecture
+
+2 or maybe it was
+Lecture 1, whatever.
+
+The hierarchy of
+protected interests.
+
+The law ranks property
+
+and the body more highly than
+any other set of interests,
+
+much more highly than
+psychiatric injury.
+
+Psychiatric injury
+consequent upon
+
+property damage is
+easily recoverable,
+
+according to Attia and
+British Gas, at least.
+
+Why does the law rank psychiatric
+injury so lowly when we
+
+all care about the state of
+
+our mind as much as
+
+the state of our
+body, I do, at least.
+
+More, if anything, the state of
+
+my body only affects me in so
+far as it affects my mind.
+
+I don't really
+care about my body
+
+independently of my mind.
+
+Why do we rank it
+lower in tort law?
+
+These four reasons,
+broadly speaking.
+
+First, diagnostic uncertainty.
+
+For the vast majority
+of mental illness,
+
+it is very difficult,
+
+if not impossible,
+
+to do a simple diagnostic test
+
+which someone
+couldn't lie about.
+
+It's quite easy to say
+
+repeatedly that you have a
+certain mental condition,
+
+mental illness, when you don't.
+
+Most physical conditions
+are not like that.
+
+Some are, of course.
+One physical condition
+
+that caused a lot of problem
+in the courts was whiplash.
+
+The only way you
+know if someone has
+
+whiplash is if they tell
+you they've got whiplash.
+
+My friend was in a car accident
+
+and he said he had whiplash.
+
+Now, for all I know,
+
+he did have whiplash, but he
+did end up with 15 grand.
+
+He told me he
+
+had whiplash and he told
+the doctor he had whiplash.
+
+But did he have whiplash?
+
+Only he knows. The same
+
+is generally true for
+most psychiatric illness.
+
+Only you actually know
+
+whether you've got a
+psychiatric illness.
+
+There's diagnostic uncertainty.
+Now, this is, of course,
+
+not true if your leg is off,
+
+or if you've got
+
+a heart condition or
+if you've got cancer.
+
+These things are all
+easy to diagnose.
+
+Well, not easy to
+diagnose, obviously.
+
+I don't want to say that,
+but you get the point,
+
+I hope. That's one reason.
+
+I think when they
+say diagnostics,
+
+they really mean the
+ability for people to lie,
+
+and people will lie when
+there's money involved.
+
+It's perverse
+incentives, if you like,
+
+incentives to create
+a psychiatric illness
+
+for yourself to get some
+money or to lie about it.
+
+Then we have this second
+rather interesting idea
+
+that litigation is sometimes
+
+an unconscious disincentive
+to rehabilitation.
+
+Now, I'm not sure I
+necessarily agree with this,
+
+but it's an interesting idea
+
+that having people
+essentially label
+
+themselves as X might
+
+create a unconscious
+disincentive
+
+for them to rehabilitate
+themselves as such.
+
+I don't think I really
+agree with that in
+
+its narrowest terms or its
+broadest terms rather,
+
+but I do see the point that
+
+pathologising
+everything in society
+
+is probably not optimal.
+
+We don't want to
+get into a state
+
+of pathologising everything,
+
+and bringing litigation into
+it makes it even worse.
+
+So yeah, there's
+something there.
+
+I think those first two
+points go together,
+
+and then we've got this
+third point, the floodgates.
+
+It's always a concern,
+
+but it's more of a concern in
+
+cases of psychiatric injury
+than almost any other
+
+because we've got this
+
+potentially very wide class
+of plaintiffs involved.
+
+For example, in the
+Hillsborough disaster,
+
+a lot of people watched the
+Hillsborough disaster on TV.
+
+Sorry, I haven't actually
+
+said what the Hillsborough
+disaster is. I'm aware.
+
+I hope most of you do know,
+but it was a big disaster at
+
+a football stadium where lots of
+
+people got crushed
+in a crowd and died.
+
+Huge numbers of people died in
+
+very, very gruesome
+circumstances.
+
+It was broadcast on TV.
+
+Lots of people watched it.
+
+There would have
+been a potentially
+
+massive class of claimants,
+
+everyone who watched it on TV.
+
+Indeed, psychiatric injury
+can be very widespread
+
+compared to the actual physical
+events which cause it,
+
+whereas physical events are
+
+limited by physical
+space, if you like.
+
+A car accident can only
+hurt so many people in
+
+a given vicinity, physically.
+
+That's not the case with
+psychological damage.
+
+We get this big worry about
+
+the floodgates coming through in
+
+the cases which you'll
+see more of later.
+
+Finally, we've
+
+got this
+disproportionality between
+
+tortious conduct and momentary
+lapses of concentration.
+
+That goes along with the
+flood gates consideration.
+
+We'll see more of that later,
+
+but this is the same
+disproportionality concern that
+
+motivates the exclusionary rule
+
+for pure economic loss as well.
+
+You just don't want to
+create massive classes of
+
+liability for potentially
+small bits of negligence.
+
+These are really important
+to keep in mind because
+
+this area of law is pretty
+much naked policy reasoning.
+
+No one is trying to
+
+pretend that this is
+purely principled and
+
+that the restrictions
+on the class of
+
+people who can claim
+
+have anything to do
+with fundamental,
+
+deep moral principle
+at a deep moral level.
+
+I think everyone
+can broadly agree
+
+that if we are sure
+that someone has
+
+a psychiatric injury and we are
+
+sure that the other person was
+
+negligent and caused
+their psychiatric injury,
+
+that morally speaking, that
+negligent person is culpable,
+
+is blameworthy in some way
+
+for the other person's
+psychiatric injury,
+
+if it was foreseeable, at least.
+
+The real principled
+solution, if you like,
+
+or some people say that
+
+the principle solution
+here is just to have
+
+the same rule for
+psychiatric injury
+
+as for physical injury.
+
+Any act which reasonably
+foreseeably causes
+
+psychiatric injury
+creates duties of care.
+
+You owe a duty of care to all
+other people at all times,
+
+not to do acts which reasonably
+
+foreseeably cause
+psychiatric injury.
+
+The only reason we
+do not have that it,
+
+as often argued, is because
+of these policy reasons.
+
+These policy reasons shape
+
+the controls or the
+limits of liability here.
+
+Before we get into what
+those controls are exactly,
+
+we need to begin with
+this distinction
+
+between primary and
+secondary victims.
+
+Now, I just want to make clear
+
+that this idea of primary
+and secondary victims,
+
+it often gets confused,
+
+but we are essentially
+dealing here with accidents.
+
+We'll see why we're dealing with
+
+accidents more in a moment.
+
+But it's very different from,
+say, employment scenarios.
+
+At the end of Friday,
+
+I will tell you
+about cases where
+
+employers fail to take care
+
+of their employees'
+mental health.
+
+You don't need to talk about
+
+primary and secondary victims
+in those circumstances.
+
+This idea of primary and
+secondary victims really
+
+comes into play when you
+are dealing with accidents.
+
+What is a primary victim in
+this context of an accident,
+
+which is where most of
+these things arise?
+
+They arose out of road
+traffic accidents,
+
+to begin with, but now they
+
+apply to all sorts of accidents.
+
+A primary victim
+is the person who
+
+could foreseeably suffer
+from the accident.
+
+Page and Smith is
+an example of this.
+
+In Page and Smith,
+the claimant suffered
+
+from chronic fatigue,
+myalgic encephalitis.
+
+The claimant was in a car crash
+
+caused by the defendant's
+negligent driving.
+
+The claimant was not
+physically injured,
+
+but his ME, chronic
+fatigue worsened
+
+significantly as a result of
+
+this shocking event
+he was involved in.
+
+Now, just pause to know
+if he had been physically
+
+injured and the ME
+
+worsened as a result of
+his physical injury,
+
+you wouldn't have
+to get into any of
+
+the psychiatric injury case
+law because you'd just be
+
+dealing with physical
+injury and pain suffering
+
+and loss of immunity consequent
+
+upon that physical
+injury in a very simple,
+
+normal way in the
+same way if my leg
+
+gets chopped off and I get
+depressed as a result of that,
+
+there's no problem
+with recovery.
+
+But here he was not
+physically injured,
+
+but his ME worsened
+significantly,
+
+and the question was, was
+the defendant liable?
+
+The answer is yes, because
+
+the claimant was "within
+the zone of danger".
+
+What is the zone of danger?
+
+People misuse and abuse
+
+that phrase quite often
+in problem questions.
+
+It does not just mean
+someone who happened to be
+
+hanging about in some
+way in the general area.
+
+It means someone for whom
+
+physical injury was
+reasonably foreseeable.
+
+This is a car crash.
+
+It was reasonably
+foreseeable that
+
+the claimant might have
+become physically injured.
+
+He didn't, as a matter of fact,
+
+but it was possible that he did
+
+while within the range of
+foreseeable physical injury.
+
+That's the test.
+
+That's what the zone
+of danger means.
+
+Then we've got
+this useful way of
+
+understanding what's
+a secondary victim,
+
+which we'll come to
+later in a moment,
+
+but secondary victims or
+
+people who could
+theoretically be
+
+secondary victims are those
+who see or hear the accident,
+
+but they're not
+actually involved,
+
+they're not within the range
+
+of foreseeable physical injury.
+
+Whenever you
+encounter psychiatric
+
+injury in a problem question,
+
+the first thing to do is to ask
+
+yourself is it an accident case,
+
+is this person
+within the range of
+
+foreseeable physical
+injury, the zone of danger?
+
+If they are, they
+recover easily.
+
+Then the exclusionary
+rule does not apply.
+
+That's an established
+category of
+
+duty of care, primary victims.
+
+A few complexities about
+
+primary victims now
+to add to things.
+
+Monk and PC Harrington,
+
+we've got some slight
+trickiness about people who
+
+think that an accident
+was their fault.
+
+Monk and BC Harrington is a
+case where the claimant was
+
+a foreman working
+on Wembley Stadium.
+
+That's Wembley
+Stadium. The platform
+
+fell and killed a worker.
+
+C felt responsible,
+felt like it was
+
+his fault and he developed
+a psychiatric illness.
+
+Now, he was not within
+the zone of danger
+
+because physical injury was
+not foreseeable for him.
+
+He couldn't have been
+physically injured.
+
+But he could have been in
+
+this third category an
+unwilling participant.
+
+Now, I just want to take a
+moment to say on this slide,
+
+don't get tricked into
+this because really
+
+one and two are just
+the same category here.
+
+In the old days,
+
+it used to be the case
+that rescuers were
+
+treated differently
+and that they
+
+could recover as primary victims
+
+even where they were not
+within the zone of danger.
+
+That's no longer the case.
+
+That's just history.
+
+In the modern day, there are
+basically two categories
+
+of people who count
+as primary victims.
+
+One, people I've just
+been talking about,
+
+in the zone of danger for
+
+whom physical injury is
+reasonably foreseeable,
+
+and then two, unwilling
+participants,
+
+people who are in
+
+the position of being or
+thinking that they are about to
+
+be the involuntary cause of
+
+another's death or
+injury and the illness
+
+complained of stems from
+the shock to the plaintiff
+
+of the consciousness
+of this supposed fact.
+
+They feel like it's their fault,
+
+and reasonably feel
+like it's their fault.
+
+Now, as it happens,
+
+Mr Monk in Monk and BC
+Harrington was irrational.
+
+He felt like it was his
+fault, but it was not.
+
+That was a reasonable feeling,
+
+and so he could not recover.
+
+You got two classes
+of primary victims.
+
+Those for whom physical
+injury is reasonably
+
+foreseeable and those who
+
+are unwilling
+participants reasonably
+
+believing that they
+caused the accident.
+
+It is possible that
+there may, in theory,
+
+be other people
+who end up fitting
+
+into this primary
+victim category.
+
+The categories are not
+completely closed.
+
+We don't know quite where
+the boundaries are,
+
+and it's still to some
+degree developing.
+
+W and Essex shows that.
+
+W and Essex is a
+really gruesome case.
+
+Claimants were the parents
+of foster children
+
+placed in their care
+by local authority.
+
+The local authority gave
+them a sex offender,
+
+basically, a child who
+was a sex offender.
+
+They specifically said,
+we don't want that.
+
+We've got lots of other
+children in our care and
+
+we don't want to be abused
+by this other child.
+
+The defendant, local authority,
+
+did not tell them about
+
+the child they were giving
+them had sexual history.
+
+The sexual abuse that they
+feared ended up occurring.
+
+I think they felt like it was
+
+their fault that they brought
+
+this new child who then sexually
+
+abused their existing
+children into the family,
+
+became severely depressed
+and developed PTSD,
+
+and the House of Lords
+here said that even though
+
+they were not within
+
+the zone of danger as
+in physical injuries
+
+foreseeable to them
+because they were
+
+obviously not likely to be
+
+sexually abused by this child,
+
+nor were they actually
+unwilling participants
+
+in the strict sense,
+
+they might still count as
+primary victims due to
+
+the shocking circumstances
+of the case, if you like.
+
+But the answer with
+that was never clear
+
+because it wasn't a final case,
+
+it was an application for
+a strikeout, I think.
+
+But the point is the
+concept is still to be
+
+developed in different
+factual circumstances.
+
+It could be that it develops
+further in the future,
+
+although this was in
+2001 and it doesn't seem
+
+to have developed much
+in the last 24 years,
+
+so maybe this is old news.
+
+Now we are going to move
+on to secondary victims.
+
+Who are these secondary victims?
+
+They are people who don't
+
+fit into one of the other
+special victim categories.
+
+Normally, they are people
+who witnessed something bad
+
+happen to someone
+else and develop
+
+psychiatric injury as a result.
+
+As it turns out, after
+the case of Paul,
+
+as I'll tell you
+in a moment, this
+
+is only about accidents.
+
+You only apply the primary,
+
+secondary victim framework in so
+
+far as you are dealing
+with accidents.
+
+Just to recap on primary
+victims quickly, basically,
+
+there are two requirements
+for someone to be
+
+a primary victim and
+
+recover for psychiatric
+injury as a primary victim.
+
+The first is, as I said,
+
+that they are in
+the zone of danger
+
+and foreseeable personal
+injury to them,
+
+or they're an
+unwilling participant
+
+in the Monk and PC
+Harrington sense,
+
+and that they have a recognised
+psychiatric illness.
+
+That basically means the
+psychiatric illness which is
+
+in the Diagnostic
+Statistical Manual,
+
+which is a big book
+of mental illness.
+
+We'll come to that
+more in a moment.
+
+Secondary victims,
+people who witness
+
+accidents but are not
+
+themselves within
+the zone of danger,
+
+need a recognised
+psychiatric illness,
+
+it needs to be, two,
+
+foreseeable that a
+psychiatric illness would
+
+occur in a person of
+ordinary fortitude.
+
+We'll discuss what that
+means more in a moment.
+
+As to result from an
+accident, that's third.
+
+Then fourth, there've got to
+be these three elements of
+
+proximity drawn from
+the case of Alcock.
+
+I'll say more about what
+those mean next lecture,
+
+the three elements of proximity.
+
+You get a more detailed slide
+summarising them later.
+
+The requirements for
+primary victims, again,
+
+are foreseeable personal injury,
+
+recognised psychiatric illness.
+
+Then what is recognised
+psychiatric illness?
+
+That's the one thing I've
+not spoken about yet.
+
+Things like PTSD, ME,
+
+OCD, schizophrenia,
+depression and stuff.
+
+It's got to be a
+proper condition which
+
+is in this big book
+of mental disorders.
+
+How does this actually
+get hashed out in court?
+
+You call in expert witnesses.
+
+You get psychiatrists
+in to say whether
+
+something counts as a
+psychiatric illness or not.
+
+What is not recognised,
+the point being,
+
+is mere grief,
+sorrow, regret, fear,
+
+sadness, other normal,
+
+regrettable but existing human
+emotions that we all have.
+
+It's got to be
+pathological, is the idea.
+
+Just pause for a moment
+on this and ask yourself
+
+whether you think
+this is really right
+
+because, of course,
+
+you can have some things
+
+which count as
+psychiatric illnesses,
+
+but are not necessarily more
+
+severe than ordinary
+human emotions,
+
+even if they're
+more pathological.
+
+If we are just thinking
+about tort in terms
+
+of damage, obviously,
+
+this is a useful way of
+
+categorising things
+because how the hell else
+
+are we meant to tell
+whether something reaches
+
+over a certain threshold?
+
+We obviously don't want to
+have people recovering for
+
+saying I felt a bit tearful for
+
+about 10 minutes and can I get
+five grand for that maybe?
+
+That's not where we're
+going with this, obviously.
+
+But grief can be very,
+
+very bad and less bad,
+
+but potentially much
+worse than very mild OCD.
+
+One is pathological,
+
+one is a normal human emotion,
+
+one you can recover in law
+for, the other you can't.
+
+I don't want to
+say anything about
+
+any particular mental illness in
+
+any particular normal
+human emotion,
+
+but you get the general
+point, I think.
+
+We're making this medical idea,
+
+the arbitrary cutoff point,
+
+even though it doesn't necessarily
+correlate to severity,
+
+but it does correlate to
+a pathological nature.
+
+Now we're on secondary victims.
+
+They also have to have a
+recognised psychiatric illness,
+
+so that's always
+got to be the case.
+
+It's got to be
+foreseeable that they
+
+might suffer a
+psychiatric illness.
+
+This brings into view
+this idea of a person of
+
+ordinary fortitude.
+What does that mean?
+
+The law basically says,
+
+if you're a wimp and you develop
+
+a psychiatric illness in
+
+circumstances where
+most people wouldn't,
+
+it's judged not to
+be foreseeable.
+
+Now, recall what reasonable
+foreseeability means
+
+normally when we think
+about duty of care,
+
+Haley and London
+Electricity Board,
+
+the blind man walking along
+
+the pavement and he
+falls into the pothole.
+
+It said that it's
+perfectly foreseeable that
+
+a blind man will be walking
+
+along the pavement
+in Central London.
+
+In order to not be foreseeable,
+
+it would have to be
+the blind man walking
+
+in a field in the middle
+of nowhere on his own.
+
+You're allowed to
+have a big open hole
+
+in a field in the middle
+of nowhere on its own,
+
+as long as that's
+guarded by some
+
+cones because you expect
+
+a blind man wouldn't be walking
+
+along a field in the middle
+of nowhere on his own.
+
+Again, query where this
+field is exactly because
+
+obviously it's a recognised tow
+
+path that's a different thing.
+
+I think we're saying a field
+
+which doesn't have
+a footpath on it.
+
+That's very unforeseeable.
+
+Most things pass the
+foreseeability threshold
+
+in normal duty of care
+scenarios when it comes
+
+to acts which reasonably
+
+foreseeably cause
+physical injury.
+
+This is a higher threshold.
+
+It's more difficult to overcome.
+
+Bourhill and Young
+demonstrates this.
+
+Claimant was a pregnant woman.
+
+She witnessed a
+motorbike accident.
+
+She didn't see the accident,
+
+but she heard it in
+saw some blood and
+
+she suffered
+psychiatric illness,
+
+I believe what they call back in
+
+those days, nervous shock.
+
+Now, in 1943, it was held
+
+that the defendant owed
+
+no duty of care
+because this woman,
+
+and I think it's
+important that she was
+
+a woman because
+it's illustrative,
+
+I think, of attitudes in 1943.
+
+It was said that basically,
+she was being a wimp.
+
+A person of ordinary
+fortitude in
+
+these circumstances would not
+
+have suffered
+psychiatric illness.
+
+Now we still have the rule
+from Bourhill and Young.
+
+We are still left with
+
+this rather archaic idea
+that the law expects
+
+people to have a
+certain degree of
+
+fortitude and what's meant by
+
+ordinary is not
+quite clear here.
+
+But I would conjecture that were
+
+the same circumstances as
+
+Bourhill and Young
+to arise today,
+
+the woman would be
+judged to be of
+
+ordinary fortitude and it was
+
+the sexist attitudes
+which prevailed in 1943,
+
+which led to this case failing.
+
+The driver of the car
+is entitled to assume
+
+the ordinary frequenter of
+
+the streets has
+sufficient fortitude,
+
+customary phlegm, as in
+phlegmatic, which means stoic.
+
+She merely heard a
+noise which upset
+
+her without having any
+definite idea at all,
+
+saw nothing of the accident
+
+until or indeed any marks
+of blood until later,
+
+Lord Wright couldn't accept that
+
+the reasonable hypothetical
+observer could
+
+reasonably have foreseen that
+
+someone could be
+affected in this manner.
+
+Again, I'm not sure
+that would stand today,
+
+but we are left still with
+
+this idea of not just
+reasonable foreseeability,
+
+but reasonable foreseeability in
+
+a person of ordinary fortitude,
+
+which makes it a slightly
+higher standard.
+
+Now we come on to the Paul case.
+
+Paul is a very complicated case.
+
+It involves actually three
+separate cases Paul,
+
+Purchase, and Polmear,
+
+and they all had slightly
+different facts.
+
+The High Court
+said one thing and
+
+the Court of Appeals
+said another thing,
+
+and then the Supreme Court said
+
+a completely different thing.
+
+There were before 2024,
+
+a series of deeply
+confused cases
+
+and some really
+tricky distinctions
+
+between the events and when
+
+the actual psychiatric illness
+
+occurred and what their
+relationship was exactly.
+
+It was all a complete mess.
+
+Paul fixed a lot of that.
+
+You will learn, I think,
+
+about some of the
+historical complexities
+
+in your own reading of the
+textbook and the cases,
+
+I hope. You ought to.
+
+Given that we've got
+a workshop on this,
+
+you really ought to.
+
+But I'm just going to
+
+give you a simplified
+version now and it's
+
+actually quite useful that
+we've had Paul because
+
+although it's a very
+complex sequence
+
+of events in history,
+
+Paul has actually made the
+law a fair bit simpler.
+
+There used to be this
+requirement for shock
+
+that the event which occurred
+
+was a horrifying shocking event.
+
+That's no longer a requirement,
+forget about that.
+
+It's consigned to
+the history books.
+
+But what we do have
+is a new requirement.
+
+You have some old cases,
+
+one old case in
+particular, Walters,
+
+where the defendants
+were doctors
+
+and they caused a mother
+
+to lose her baby
+through negligence.
+
+The mother did
+recover in that case.
+
+The courts really grappled with
+
+how this could be the case.
+
+But what they decided in Paul
+was that case was wrongly
+
+decided because, in essence,
+
+you can only be a secondary
+victim in so far as
+
+your psychiatric injury results
+
+from witnessing an accident.
+
+It's got to be an accident.
+
+It can't be medical negligence.
+
+It can't be some
+slow progression.
+
+It's got to be a
+single distinct event.
+
+Here in Paul, that meant
+
+the victims didn't
+recover because they were
+
+given negligent treatment by
+
+the defendant
+healthcare services and
+
+then they died in
+various horrible ways,
+
+months or years later as
+
+a result and none of
+them could recover.
+
+Because what had happened to
+
+the primary victims,
+the people who died,
+
+was as a result of
+medical negligence,
+
+and so their families
+who watched them die,
+
+were just not able to recover
+
+because it was not an accident.
+
+Question raised by these
+appeals is whether
+
+witnessing negligently
+caused medical crisis,
+
+confound a claim for
+damages. The answer is no.
+
+You have no analogy with
+
+these other cases like
+McLoughlin, Alcock, and Frost.
+
+McLoughlin got this all going,
+
+McLoughlin was a case
+about a car accident,
+
+and the family coming
+across the car accident
+
+and seeing their family dying,
+
+basically, or in
+a very bad state.
+
+That's an accident.
+Alcock? That was
+
+about people watching the
+Hillsborough disaster.
+
+Again, a massive accident.
+
+Frost, also known as White,
+
+was also about Hillsborough,
+
+but it was about the
+police in Hillsborough
+
+and the policemen
+involved in Hillsborough,
+
+and whether they
+could recover for
+
+the psychiatric injury they
+
+sustained as a result
+of Hillsborough.
+
+We'll look at all those
+cases in more detail later.
+
+But the point is,
+
+all of the existing cases,
+
+apart from one
+involve accidents,
+
+what the Supreme Court did in
+
+Paul and what Wolverhampton
+NHS Trust is say,
+
+we are confining this
+whole area of law or
+
+whole area of liability
+just to accidents.
+
+You cannot recover for
+psychiatric injury as
+
+a secondary victim unless
+you witnessed an accident.
+
+That is an accident. We all
+
+have an intuitive
+sense of it, I think.
+
+But the idea is they say it's
+
+an external event which
+
+causes or has the
+potential to cause injury.
+
+It's by definition,
+a discrete event
+
+in the ordinary
+sense of the word,
+
+meaning something that
+happens at a particular time
+
+at a particular place
+in a particular way.
+
+No, I don't about you,
+but that doesn't actually
+
+tell me very much because I
+
+think just about
+everything happens at
+
+a particular time at
+
+a particular place
+in a particular way.
+
+I don't really understand
+what that means,
+
+but I guess the point is,
+
+it's not a long drawn out thing.
+
+This does raise the question,
+
+can you have a medical accident?
+
+They were pretty clear that
+
+most normal medical negligence
+
+doesn't count as an accident.
+
+But what if the doctor does
+
+something accidental
+when he's treating you?
+
+Where is the line between
+a genuine accident
+
+and a medical disaster
+or a medical crisis?
+
+That seems a pretty hard
+distinction to draw to my mind.
+
+I get in some way that
+a car accident is
+
+an accident and a medical
+crisis is a medical crisis,
+
+and you can see that
+they're a bit different.
+
+But where is the line
+
+around exactly what
+counts as an accident?
+
+Why is this meant to be
+normatively significant?
+
+That's not really explained.
+
+What we're basically
+getting in this case,
+
+and what we get in
+all these cases,
+
+is this idea that we need to
+
+narrow the grounds of liability.
+
+The judges do not want to create
+
+too widespread liability in
+psychiatric injury cases.
+
+They're always looking
+for ways to narrow
+
+it, which are logical.
+
+The reason they've gone
+for accidents, I think,
+
+is because the set of
+cases historically,
+
+which opened up
+this whole area of
+
+law, all concerned accidents.
+
+There's a long history of
+cases involving accidents.
+
+That's a reason to
+confine liability to
+
+accident cases in itself,
+historical accident.
+
+Sorry, that's a confusing pun,
+
+but I'm not clear that there is
+
+any real moral significance
+
+to the difference between
+
+an accident and a
+medical crisis.
+
+I think it's
+historical accident.
+
+But you can get the
+idea from Paul here.
+
+They say, we're
+not accepting that
+
+our society has yet
+reached a point where
+
+experience of
+witnessing the death
+
+of a close family
+member from disease is
+
+something from which a
+person can reasonably
+
+be expected to be shielded
+by the medical profession.
+
+That's just part of life.
+
+Again, I don't
+personally understand
+
+why a doctor being negligent and
+
+killing your relative and
+
+you becoming very
+depressed as a result of
+
+your relative dying because of
+
+a doctor's negligence is meant
+to be just part of life.
+
+Whereas your relative dying
+
+in a car accident
+which you witness,
+
+isn't just part of life.
+
+You can recover from that.
+
+I don't think there is
+
+a principled distinction
+here, personally.
+
+I think what we are doing
+is saying we don't want
+
+to create too much
+liability here.
+
+We're just going to
+narrow it down because
+
+we're worried about
+the floodgates,
+
+we're worried about people
+lying about mental illness,
+
+we're worried about
+bad incentives,
+
+and we're worried
+about crucially,
+
+in these cases, it's
+the NHS, isn't it?
+
+Next week, I'll teach you about
+
+emissions and
+public authorities.
+
+A lot of public authority
+cases in the old days,
+
+there was no liability for
+
+public authorities because
+it's taxpayers' money.
+
+I think some of that is what's
+motivating these cases.
+
+Even though they don't
+say it in the judgement,
+
+we don't want to create
+massive liability
+
+for a massively
+overburdened NHS already.
+
+That's the idea. Thank you.
+

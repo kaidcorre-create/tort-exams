@@ -1,0 +1,2609 @@
+Megan Blakely: Monday.
+Today, we're going
+
+to be talking about
+
+the Consumer Protection Act.
+
+It is not going to be quite
+
+as initially racy as last week.
+
+But if you are interested
+in going into practise,
+
+this is an area that gets
+
+a lot of traction
+professionally.
+
+If you're looking
+at product safety,
+
+so both on the consumer side
+
+and also for a large company,
+
+there is a lot of
+work in this area.
+
+If you are reading these claims,
+
+you'll see them often brought
+
+alongside a negligence claim,
+
+but this operates differently.
+
+A company can be liable
+
+under the CPA without
+being negligent.
+
+That is part of the
+reason why you had
+
+the 1987 Act come into
+place in the first place.
+
+You'll see fewer claims
+specifically under the CPA
+
+because you can
+question, is it needed?
+
+Is it still important after
+being in place in 1987?
+
+But ultimately, as we
+go through the hour,
+
+you want to think about the
+
+deterrent effect of
+things like this,
+
+particularly if
+you're dealing with
+
+a sophisticated party
+like a company.
+
+This is aimed at product
+manufacturers of goods.
+
+It's aimed at putting
+
+a brand name on something
+in order to protect people.
+
+So it's something
+we all really want.
+
+You don't want to be buying
+
+a defective product
+that can injure you.
+
+So the reason that
+we have this type
+
+of legislation is
+to ensure clarity,
+
+specifically for those
+sophisticated parties.
+
+Ultimately, you would
+probably consider
+
+something like the
+CPA to be successful,
+
+even if you don't see
+
+a lot of litigation
+around it because
+
+there are companies that
+are aware that it exists,
+
+that there are consequences,
+there's guidance,
+
+and they need to ensure that
+their products are safe.
+
+It underpins a lot of
+
+other issues in this
+product safety area.
+
+Like I said, even
+if it doesn't sound
+
+quite as exciting as
+something like defamation,
+
+it actually has some really
+interesting fact patterns.
+
+I think there's fewer
+people who are coming
+
+into law school thinking,
+
+I want to get involved
+with product liability.
+
+But ultimately, you get
+
+some really interesting
+fact patterns.
+
+Your job is not
+going to be boring.
+
+You have anything
+from transportation,
+
+aircraft carrier insurance,
+
+you have self
+driving automobiles,
+
+you have representing all people
+
+with crazy claims about slipping
+
+on blueberries and Costco.
+
+At the very least, you'll
+have a lot going on.
+
+If you downloaded
+this at advance,
+
+I uploaded a slightly
+modified bit of PowerPoint.
+
+You can make your own notes
+or re-download just because
+
+they're in the past,
+
+less than a decade has
+been a phasing out of
+
+a particular non-standard
+and standard products,
+
+and we'll talk about that.
+
+But I've included it in
+a chronological order,
+
+and I think if you are just
+looking at the PowerPoints,
+
+it could be confusing.
+
+I've just made a
+note on there even
+
+though it's a oral
+delivery a lecture.
+
+If you're looking at the
+text, it can look confusing.
+
+Hopefully, I've clarified that
+
+in the other version
+of the text.
+
+That's everything as
+far as intro goes.
+
+There's three different regimes
+
+you're looking at for
+product liability,
+
+and I've mentioned
+two, so either the
+
+statutory negligence
+and also contracts.
+
+I would suggest to
+you that contracts
+
+are getting even more
+important in this area.
+
+Now with the CPA, you're
+looking at goods.
+
+But everything that you order
+online or you do online,
+
+you are agreeing to pages and
+
+pages of terms and conditions.
+
+But remember, you can't contract
+
+out of something like
+legislative obligation.
+
+They can't make you sign
+something that says,
+
+I waive all my
+rights under the CPA
+
+or in the event that
+the good is defective,
+
+I agree to not pursue
+
+any legal action or not
+exercise my rights.
+
+That's the other reason you have
+
+this legislation in place.
+
+But a lot of these things around
+
+products liability is going to
+
+be governed around contracts.
+
+You should just have a
+look at the full statute.
+
+You'll probably
+notice, like I said,
+
+it's very much geared towards
+a sophisticated audience.
+
+It's for the counsel
+
+primarily of companies,
+manufacturers.
+
+They meet these standards
+so you don't get
+
+all the litigation
+tying up the courts.
+
+Some of the other things
+we've looked at in
+
+this mini unit around statutes,
+
+so just as a refresher,
+
+we've looked at the OLAs,
+
+we've looked at the
+Defamation Act.
+
+We're going to look now
+at the CPA that has
+
+this common law shaping around
+these different statutes.
+
+This particular
+statute is going to
+
+be more geared towards
+preventative action,
+
+I would say, then they
+don't want a bunch
+
+of litigation in the courts
+tied up for ages and ages.
+
+Nonetheless, this is going to
+
+happen because people
+get injured by things.
+
+This is going to be
+more aimed at something
+
+like that peloton treadmill.
+
+The first version they went out,
+
+it was manufactured with there
+
+was too much of a
+space underneath and
+
+your poor little animals or
+
+small children will get sucked
+
+underneath and
+seriously injured.
+
+This is a defect in the product.
+
+It's going to be a lot
+of gore for the morning.
+
+I'll try to scale it back.
+
+But there's lots of things like
+
+this where they say it works.
+
+You can go on the
+platin treadmill
+
+and you may notice the
+treadmill is different now.
+
+But if it's manufactured with
+
+too much space underneath,
+then it's not safe.
+
+It's not aimed at
+things like people who
+
+use a lawn mower to trim their
+hedges and lose a finger.
+
+This is not a product
+defect issue,
+
+but there's still
+other types of regimes
+
+where somehow you might find
+
+some liability for a company.
+
+We're going to get into
+an area that should feel
+
+nice and comfortable
+and familiar for you.
+
+1932, this is a big
+date for you in tort.
+
+You would have a
+manufacturer that was
+
+only liable if you had
+a dangerous product,
+
+and they were obliged
+to warn of the danger.
+
+They were relying on contract,
+
+but if you have a
+manufacturer who then
+
+sells to a retailer and then
+
+the retailer sells to a
+consumer and the consumer
+
+gives hypothetically a bottle
+
+of ginger beer to their friend,
+
+there's no privity
+of contract here.
+
+This should all be sounding
+somewhat familiar,
+
+which meant that if you were
+manufacturing something,
+
+you were able to escape
+this space where you should
+
+have liability
+because someone was
+
+injured by faulty product,
+
+but they were relying on
+
+privity of contract and
+it didn't work here.
+
+Hopefully, this is what
+you were thinking of.
+
+We have this early
+common law intervention
+
+which gave us the underlying
+principles of negligence.
+
+You have this
+neighbour principle
+
+where if you are putting
+a good on the market,
+
+then you need to
+
+ensure that you're not injuring
+your ultimate consumer,
+
+their life or their property.
+
+I think everyone
+agrees this is fair,
+
+very well established now.
+
+When you're thinking about
+who our manufacturer is
+
+now and what intermediate
+examination means.
+
+If something's obviously
+defective and you still use it,
+
+if you had a sprite
+with a snail in
+
+it instead of a ginger
+beer with a snail in it,
+
+you probably have a different
+outcome with Donahue.
+
+You still have to take
+reasonable precautions as
+
+a consumer but they
+
+also extend this to
+an ultimate consumer,
+
+which anybody that is injured,
+
+if you can't see that
+it is dangerous,
+
+then it is a problem.
+
+Design defects, we used to
+
+have a lot more
+distinction with that,
+
+but the law evolves over time.
+
+You have your three
+different regimes
+
+here now that will apply.
+
+The CPA is a strict liability
+regime, as I mentioned.
+
+It doesn't mean 100% liability,
+
+it doesn't mean 100% safety,
+
+but it does mean that you can
+
+have a non negligent
+manufacturer,
+
+producer of good and you can
+still end up with liability.
+
+Part of the reason for that
+
+legislative intervention
+was to make sure
+
+that people who were injured by
+
+defective products
+were able to recover.
+
+We'll talk about the case
+examples where you could have
+
+a non negligent producer or
+
+manufacturer and still end up
+being injured by a product.
+
+A lot of this was
+transposed like
+
+most statutory law from EU law.
+
+We have our regular
+post Brexit issues,
+
+but a lot of the
+
+substantive protections
+still remain the same.
+
+I think we've grown
+
+up with the expectation
+that we will be protected.
+
+The consumer protections in
+
+this jurisdiction and in
+the EU are quite good
+
+compared to some other
+
+comparable common
+law jurisdictions.
+
+I think EU and
+
+former EU countries have
+
+a higher expectation of safety
+products and therefore,
+
+you have more confidence in
+the products that you buy.
+
+This will tie directly into
+
+our lecture on Friday
+about passing off,
+
+which just as a little
+preview is if you
+
+have a recognisable brand
+name that you trust or you
+
+go the shop and you
+look for Fairy Liquid
+
+because you think
+Fairy Liquid is
+
+a better product than
+the generic one,
+
+even if it has all the
+exact same things in it,
+
+and you'll notice that the
+other competitors bottles and
+
+colours and marketing
+start looking
+
+closer and closer
+to Fairy Liquid.
+
+This is what we'll be
+talking about on Friday,
+
+but it also relates to this in
+
+that you have trust
+in certain brands,
+
+particularly things
+like electronics.
+
+You generate a trust that
+
+you'll be safe and it's
+a good investment.
+
+This is just your
+little summary of
+
+what is in the 1987 Act.
+
+Obviously, we're
+not spending a ton
+
+of time on this because we
+
+are covering everything
+basically in
+
+a broad way as an
+introductory module,
+
+but I just want you
+to be familiar with
+
+the overview of
+what is in the act.
+
+You want to know what it gives.
+
+It actually has quite a
+few specific defences.
+
+There's six specific defences,
+
+and they talk about the
+meaning of defect and
+
+how liability arises in
+relation to these things.
+
+I think importantly,
+
+prohibition on exclusions
+from liability,
+
+that's what I mentioned
+a few minutes ago.
+
+You can't just exclude
+
+yourself from liability
+with this by contract,
+
+and that's really important,
+
+especially, like I said,
+
+when you're getting pages and
+pages of digital contract
+
+that it's almost impossible
+to dedicate enough
+
+of your personal time to
+
+read everything
+you're agreeing to.
+
+If they were able
+to contract out,
+
+it would negate a lot of
+
+the purpose of
+this intervention.
+
+Who can bring a
+claim under the CPA?
+
+That's anyone who
+suffers damage as
+
+a result of the
+defective product.
+
+There's no real special
+qualifications other than damage.
+
+You can recover for death by
+estate or personal injury,
+
+damage to your private
+property that exceeds 275,
+
+so not the item itself.
+
+If your blender explodes and
+ruins your nice fancy hob,
+
+then this might be
+an example of that.
+
+We don't go into too much
+complex economic loss.
+
+You may have done a little bit,
+
+but just recall back to
+
+Murphy when you're
+looking at this.
+
+Hopefully that all makes sense,
+
+but you need to look at
+
+a different claim
+through the defendant
+
+if you want to recover for
+
+the item itself
+that is defective.
+
+Goods or electricity.
+
+This is not to do with
+
+anything that is a service
+or a subscription,
+
+just goods including lots
+of different things,
+
+including land
+attached to vehicles.
+
+One of the things that I think
+
+is interesting here is this
+
+has also been subject of
+litigation around donated blood.
+
+As a good, there's
+
+some interesting
+further thought perhaps
+
+about how do we treat
+something like human products,
+
+human blood, human
+organs, as a good.
+
+But ultimately, if you are
+receiving donated blood,
+
+what's the best way to protect
+
+the ultimate consumer of
+
+the blood because you
+
+really want to make
+sure that's safe.
+
+When I was going through law
+school ages and ages ago,
+
+it was not me ages
+ago, a while ago,
+
+I did have a professor who
+recommended to us that we
+
+donate our own blood and pay
+a fee to have it stored.
+
+This gives you a little bit of
+
+an insight about the
+US healthcare system,
+
+I think, on one hand.
+
+On the other hand, it also
+indicates how much we know.
+
+Biologically, how much
+do we know is in blood,
+
+not to give you some
+horrible complex about this.
+
+But ultimately, with this case,
+
+it decided in 2001,
+
+the donated blood for
+
+this consumer contained
+hepatitis C and they couldn't
+
+properly screen for hepatitis C
+
+and the patient ended up
+
+contracting hepatitis C
+through contaminated blood.
+
+This happened quite, I
+wouldn't say frequently,
+
+but did occur with
+
+HIV and AIDS before we could
+properly screen for that.
+
+There are people that
+contracted HIV and
+
+AIDS through contaminated blood.
+
+The basis of what
+this professor was
+
+saying is that science will
+
+hopefully continue to progress,
+
+and we will understand
+more and more things
+
+about blood and what you're
+putting in your body.
+
+I would say, at this point,
+
+we're doing pretty good.
+
+We're doing the best we can.
+
+I don't think you need to bank
+
+your own blood in case
+anything happens to you.
+
+But what happened was this
+litigation occurred because of
+
+this hepatitis C
+infected blood at
+
+the time the claimant
+received the blood,
+
+the science was not at a place
+they could screen for it.
+
+They brought a suit forward on
+
+the basis that this was
+a defective product,
+
+that the blood was defective.
+
+What did they do here?
+
+This is why I talk about
+
+a standard and
+non-standard product.
+
+You'll see if you
+look at this case,
+
+quite a lot of discussing of
+
+this concept of a standard
+and non-standard product,
+
+which we've moved past.
+
+I'll tell you a little
+bit more about this.
+
+But your takeaway for
+this is not about
+
+what the science or
+protection was at the time,
+
+but it is about what the
+public can expect from a good,
+
+the level of safety from a good.
+
+You are entitled to
+objectively go to a doctor
+
+and expect that you will
+receive non-contaminated blood.
+
+Like I said, where the
+law departs here is from
+
+these ideas of standard
+non-standard products
+
+to try to discern
+
+what the public
+should expect and
+
+goes to this more
+holistic approach
+
+of reasonably what do
+
+you objectively expect
+from a product?
+
+Sometimes that means a defendant
+
+will be liable whether or
+not they were negligent.
+
+In this case, there was
+nothing negligent on
+
+the part of the National
+Blood Authority
+
+by giving the blood.
+
+The science wasn't available to
+
+determine this particular
+type of contamination,
+
+whether it was present.
+
+If we didn't have something that
+
+would have protected them
+
+contractually and there
+was no negligence,
+
+there would not have been
+a liability available.
+
+You'll be looking
+at the CPA coming
+
+in here for goods where there is
+
+actual harm suffered
+and sometimes
+
+this goes back to that
+underpinning bit around,
+
+what are we trying to
+achieve here with tort?
+
+What is the underpinning
+
+of the jurisprudential
+reasoning?
+
+This has to do with do we
+have an injured party and
+
+prior to interacting with
+a defendant and who's
+
+the best party to
+deal with this,
+
+and they could never get to
+
+a company or an
+authority's insurance.
+
+All of these people are insured,
+
+and so if you do suffer
+this lifelong injury,
+
+then there is a way
+to make sure that
+
+the best party compensates you.
+
+Only defects, what do
+we think about defects?
+
+What do we consider
+to be a defect?
+
+If we're talking about
+expectations of consumers,
+
+objective, is tobacco defective?
+
+Is alcohol defective?
+
+If we can prove that
+
+something is going to cause
+harm by consuming it,
+
+are you entitled then to have
+
+compensation for
+your lung cancer
+
+or your mouth
+cancer from vaping?
+
+Do people expect that
+there's injury from vaping?
+
+Does that mean it's defective?
+
+Part of what they look at
+with this has to do with what
+
+can you expect the
+consumer to know.
+
+The manner or purpose for
+which the product is marketed,
+
+the use to which it might be
+put and the time of supply.
+
+Things like alcohol,
+this is why you do have
+
+the drink aware warnings
+on it as an adult,
+
+and not all jurisdictions
+are like this.
+
+The UK is quite
+good at balancing.
+
+You do have choices,
+
+you do have the
+responsibility to be
+
+an informed adult
+and it doesn't all
+
+kick back to litigation.
+
+You don't get money
+for that all the time.
+
+But I was really surprised at
+
+the very graphic
+pictures on tobacco.
+
+It doesn't seem to
+deter everyone.
+
+I think what did end
+up deterring people
+
+more would have been a
+bit of social pressure,
+
+but also money.
+
+It's really expensive.
+
+I'm not entirely sure how
+they're getting away with
+
+the vapes without
+all the warnings.
+
+We'll see how that
+goes in the future.
+
+One of the things from a zoning,
+
+any of you guys going
+into zoning or whatever,
+
+most of the vape shops
+are also candy shops.
+
+Have you noticed
+American candy shop
+
+and strawberry flavoured vapes.
+
+Not very long ago,
+
+less than 50 years ago,
+
+60 years ago, people will be
+
+smoking in offices,
+cigarettes and offices.
+
+Even if you didn't smoke,
+
+you were smoking for a
+long period of time.
+
+This was marketed in a very
+positive favourable sexy way.
+
+You were very cool
+if you smoked.
+
+Then all of a sudden,
+
+we've had this marketing shift,
+
+and it's really odd from a
+product liability perspective.
+
+Even if you don't
+have the science at
+
+the time that says this is fully
+
+harmful and we are
+getting more science
+
+back about how
+problematic bathing is.
+
+If you were doing it,
+have a look at that.
+
+I imagine eventually it will
+be treated like cigarettes,
+
+but from a consumer
+expectation point of view,
+
+it'll be interesting
+to look at this.
+
+Just something to
+flag up for you.
+
+If you're looking at
+these older cases,
+
+this is what I mentioned with
+
+standard and
+non-standard products.
+
+They were trying to give
+
+a lot more leeway to
+the manufacturers,
+
+I would say, and then
+you had to go through
+
+this complex analysis to
+
+determine whether or not
+something was defective.
+
+This came from the National
+Blood Authority case
+
+with the hepatitis C blood.
+
+They had to make these
+differentiations in order to
+
+prove whether the product
+
+was deficient or
+defective or not.
+
+Ultimately, when we
+talk about Wilkes,
+
+they've come to a
+different agreement
+
+on how this approach
+should be made.
+
+It's a bit more claimant
+
+friendly than this
+particular area is.
+
+Like I said, if you're
+working in this area,
+
+there's a lot of complex
+litigation that goes on
+
+and this was much more
+
+geared towards
+sophisticated parties.
+
+But if you have
+legislation that's
+
+meant to protect
+consumers and you're
+
+trying to base this
+on what do consumers
+
+expect objectively
+from a product,
+
+you want to gear this
+a bit more hopefully
+
+towards being claimant friendly
+
+if that is where
+you're trying to go.
+
+A few cases to look
+at just talking
+
+about as an overview
+of what a defect is.
+
+We talked about National
+Blood Authority and how
+
+even if you don't
+have the science
+
+and technology at the time,
+
+you still might
+generate liability.
+
+But this isn't absolute.
+
+We aren't entitled to
+
+100% safety of any product
+that's on the market.
+
+You have Tesco
+stores as well that
+
+came after National
+Blood Authority.
+
+This had to do with a
+child resistant cap
+
+on washing powder.
+
+You have a lot of
+products that have
+
+child resistant and sometimes
+adult resistant types
+
+of caps on them types of
+
+packaging to prevent
+children from getting into
+
+them and touching
+them if they are
+
+harmful that way or
+eating them usually.
+
+But in this particular case,
+
+the powder product casing did
+
+meet the British
+national standards
+
+for the packaging
+and child safety,
+
+and it doesn't need
+to be child proof.
+
+We do still expect
+some parents around,
+
+but if you are
+around little kids,
+
+they are slippery, you
+look away for a second.
+
+Ultimately, they didn't
+
+find that there was
+anything here that was
+
+defective about the
+product packaging and
+
+it is difficult if
+you have a product
+
+that meets the
+regulatory standards.
+
+Again, but if you think back
+to things around products
+
+that might be
+inherently harmful as
+
+a side effect and things
+
+that people can
+make choices about,
+
+if you have regulatory bodies
+
+that make decisions about this,
+
+it's going to be hard to prove
+the product is defective.
+
+It can't just be that you
+were harmed by a product,
+
+there's got to be something
+defective about it.
+
+This goes into things like
+pregnancy from broken condoms,
+
+condoms break, PSA of the day.
+
+If you have these things,
+
+this Richardson and LRC
+had to do with litigation.
+
+They've actually sued
+the condom company
+
+because the wife has become
+
+pregnant because they said
+
+the condom was defective
+in Richardson.
+
+They said, there's
+no expectation
+
+by anyone that this
+is 100% effective.
+
+Keep in mind, breakage on its
+
+own does not indicate a defect.
+
+It has to do with what are
+the expectations again,
+
+of the people who are
+using these things.
+
+I don't think I do.
+
+You have a balance here.
+
+If you look at TAM brands,
+
+this is semi related
+where they're
+
+talking about design
+and marketing defects.
+
+If you think about
+a condom breaking,
+
+this is not
+necessarily a defect.
+
+You're not inclined, you're
+not entitled to 100% safety.
+
+But what about design
+and marketing?
+
+You look around different
+types of defects.
+
+This is where you
+get the older cases
+
+talking about standard
+and non-standard.
+
+It was a way to try to figure
+out what you can reasonably
+
+expect it was determined
+
+to be too rigid at
+a certain point,
+
+so we don't have
+to determine that,
+
+but that's the
+language that is used.
+
+But things like TAM brand,
+
+if you are a user of tampons,
+
+hopefully, they have
+fixed some of this.
+
+But ultimately, you can
+get toxic shock syndrome.
+
+Hopefully, everybody
+knows about this.
+
+You can't wear them for too
+long because of toxins.
+
+Someone had suffered
+this and sued
+
+the manufacturing company and
+
+there was just a
+warning on the leaflet.
+
+There wasn't really a
+lot of information.
+
+If you are a young person who
+
+doesn't want to go around
+asking about this,
+
+this can be really problematic.
+
+They ended up finding this was
+
+not a defect in the product,
+
+and it was not a
+defect in the warning
+
+because people who
+used this product
+
+should be aware that this
+
+is a possibility
+using the product.
+
+Again, absolutely no 100%
+
+protection in relation to
+
+manufacturing,
+design or marketing.
+
+Have you all still heard
+about McDonald's Coffee case.
+
+This used to be a
+really prominent thing
+
+where people would talk about
+
+how bad civil litigation is and
+
+how it was really claimant
+friendly and people
+
+were just out here
+trying to get money.
+
+The first of these major
+international cases
+
+because it's McDonald's,
+
+had to do with the
+McDonald's coffee
+
+being prepared too hot.
+
+Again, if you are a cynic
+
+or you want to
+critique the system,
+
+you would say, well,
+coffee is hot.
+
+If you want to talk
+about anybody making
+
+sure that they're
+safe themselves,
+
+any responsibility
+on the consumer,
+
+then coffee is hot. Be careful.
+
+But the standard product cups
+
+didn't used to have
+any warning on them.
+
+I don't think that would have
+really made a difference
+
+in this case because
+you're still
+
+entitled to make sure that it is
+
+something that is not defective.
+
+Even with a warning,
+
+you can't also have a defect.
+
+In the state,
+
+there were a few cases,
+
+What happened is
+McDonald's was heating
+
+the coffee to an absolutely
+scalding temperature.
+
+It was scalding because they
+
+didn't want it to be too cold.
+
+People would come back and
+say my coffee is too cold.
+
+You would go through
+your drive in in
+
+the morning and get your coffee,
+
+and then people
+would drive to work
+
+and they didn't want
+
+people coming back saying
+their coffee is too cold.
+
+It was a decision that they
+knew that they were heating
+
+the coffee hotter than it
+should be in food service.
+
+But the idea was that
+they would better serve
+
+higher volumes of customers with
+
+fewer complaints
+by keeping it hot.
+
+Some complaints about
+this, they were aware,
+
+and there was an elderly
+woman who had gone through,
+
+put the coffee on her
+lap and it spilled
+
+and she suffered third degree
+
+burns all over her
+legs and lower body.
+
+Again, when you start looking
+at the actual facts of it,
+
+it was really quite horrific.
+
+She had to have
+lots of surgeries.
+
+It was so hot, it melted
+parts of her skin.
+
+This is obviously not what
+we want from McDonald's.
+
+They were aware that
+this had occurred.
+
+Eventually, she is
+successful in this case,
+
+but with McDonald's
+restaurants later,
+
+10 years later, so
+that's lie back.
+
+Then if you look at the later,
+
+you look at more of a
+cost benefit approach.
+
+I'll reference this
+before going back.
+
+If you want to know how one
+of these transcripts works,
+
+whenever you're
+doing a deposition,
+
+you'll have a court
+reporter of some nature,
+
+whether or not that will be just
+
+automatically
+recorded and checked.
+
+Who knows? But you used to
+
+have people typing this
+up as you were going.
+
+This was one of the
+bits of testimony.
+
+They're saying you
+know that the coffee
+
+is a hazard if you sell it
+
+at 180 and 190 Fahrenheit.
+
+They say, is this hazard?
+
+He says, yes, the
+coffee can cause
+
+burns at high temperature.
+It's a hazard.
+
+They keep going back
+to them saying,
+
+you know this will scald your
+customers if this occurs
+
+and it's sold to them and you
+
+drink it in less
+than five minutes,
+
+it's not fit to drink.
+
+They say, well you can put
+some cream and sugar in it.
+
+It's perfectly fit product
+to open the lid carefully.
+
+They go back and
+forth about this
+
+and keeps asking him to say,
+
+if you put this in your body
+
+within five minutes
+of buying it,
+
+it's not fit for consumption.
+
+This is how this type of
+litigation will look.
+
+But if you're
+looking at something
+
+with a cost and a benefit,
+
+there can be a more
+mitigated approach.
+
+I'd mentioned Wilkes before,
+
+along with Hastings.
+
+These were medical
+cases having to
+
+do with orthopaedic devices.
+
+Hastings in particular is
+nice and easy for us if
+
+you look at Finsbury
+Orthopaedics.
+
+These are actually
+fairly recent cases,
+
+and hopefully none
+of you will be
+
+needing hip replacement
+anytime soon,
+
+but injuries as you get older,
+
+this is one of the
+more common things.
+
+If you start thinking about
+
+hip transplants and things that
+
+are actually in your body,
+
+then you want these to be
+as defect free as possible.
+
+You don't want something
+you can't easily replace.
+
+In Wilkes, what we
+were looking at was
+
+a transplant that had failed
+
+within three years of implant.
+
+It failed in these cases,
+
+not 100% of the time,
+
+but in some cases,
+
+even with normal wear and tear.
+
+This was more where they
+moved away in this case,
+
+they moved away from
+the standard and
+
+non standard product distinction
+
+that was put in with the
+blood authority case.
+
+What they looked at
+was at the time that
+
+the products was made
+available to the public,
+
+did it meet the level of
+
+personal safety
+that was expected?
+
+If you think about this
+in the McDonald's cases,
+
+if you have scalding coffee that
+
+you can't even touch
+within five minutes,
+
+this probably is not
+what people would expect
+
+of a beverage that
+they buy at a shop.
+
+The standard is what the
+objective public would
+
+expect from a product at
+
+the time it's released
+at the market.
+
+In this case, they found
+in all the circumstances
+
+that it doesn't mean
+that the defect itself,
+
+if there was a defect,
+
+caused the harm at the time
+it was placed in the market.
+
+There's a lot more balancing
+going on as far as cost,
+
+availability of
+scientific information.
+
+The claim here was
+unsuccessful with
+
+the hip joints because
+
+at the time it was
+put on the market,
+
+it was what people would
+reasonably expect.
+
+This is why you get quite a lot
+
+of information, hopefully,
+
+from your doctor if you're
+having a procedure saying,
+
+we know this is not
+100% effective.
+
+There's a possibility,
+they'll usually say whatever
+
+the condition is that
+this might recur.
+
+Here's the percentage in
+
+which we think that
+this might fail.
+
+There was something
+like a 10% failure rate
+
+of hip transplant
+operations and they said,
+
+look, this doesn't mean
+
+that if it fails
+within three years,
+
+that the product is defective.
+
+That's what you're
+really looking for.
+
+The current approach here,
+
+and I leave standard and
+
+non-standard because you'll see
+
+it in a lot of the discussions,
+
+but you don't need to talk
+about it specifically.
+
+They've moved to the
+more holistic objective,
+
+what are your reasonable
+expectations of the product?
+
+You want to find
+
+the harmful characteristic
+of the product.
+
+Is it a defect?
+
+If you see any discussion of
+standard or non-standard,
+
+you want to know that
+this was moved to
+
+Wilkes where you do this
+more holistic analysis.
+
+What is the public objectively?
+
+What is that standard as
+
+a reasonable expectation to
+the safety of the product?
+
+You do need to look at
+
+causation in relation
+specifically to the product.
+
+You don't need negligence.
+
+This will still hold
+
+even if like in the
+blood authority case,
+
+there is not negligence on
+the part of the defendant.
+
+Keep in mind again,
+
+no expectation to
+absolute safety.
+
+There needs to be a look
+at the industry standard,
+
+and that's why I made
+the note that if you
+
+have a regulatory body
+standard like in Tesco,
+
+where you have a product
+packaging standard
+
+and the product does
+meet that standard,
+
+then it's going to
+be very difficult
+
+to say that it is defective.
+
+Who is your producer?
+
+Can be manufacturers
+of your product,
+
+can be pieces of products.
+
+You can have joint and
+several liability here.
+
+You don't need to just go for
+
+the one manufacturer and
+distributors and subsidiaries.
+
+You have the nice
+technical abstractors
+
+and also industrial processes.
+
+You'd be looking at the
+design of the product itself.
+
+If you're involved
+in actually carrying
+
+out the design unless
+that is faulty,
+
+you're not going to have a
+lot of issues with that.
+
+It's pretty broad.
+
+I think it's pretty logical.
+
+There's not any illogical
+
+exclusions that I would suggest.
+
+A lot of the time you have
+
+companies that actually
+are a different company,
+
+they might put a
+specific brand name.
+
+Lots of large companies
+
+have consumer specific
+branded marketing.
+
+If you have that, you're holding
+
+yourself out as the producer.
+
+You can't get around this
+by having a shell company.
+
+If you buy something
+that bears a brand name,
+
+and food processor
+is the classic one.
+
+They used to explode a lot.
+
+Luckily, they don't anymore,
+
+hopefully, thanks to
+something like the CPA.
+
+Pressure cookers were a
+big one with that as well.
+
+Can they sue M&S?
+
+You would have to then
+locate who is the producer,
+
+who is the designer
+and if you put
+
+your brand name on it, again,
+
+preview for Friday, you're
+
+associating your company
+with that product.
+
+This has become less
+convoluted thankfully,
+
+but after leaving the
+EU with imported goods,
+
+this became a
+difficult issue with
+
+enforcing because we can't
+
+enforce the CPA
+outside of the UK.
+
+But a lot of it does
+harmonise with what is
+
+going on in the EU and you may
+
+need to go up a supply
+chain to head back
+
+to your original source.
+
+This puts an additional onus on
+
+importers as far as how do
+you get product liability.
+
+Again, thankfully
+has become a little
+
+bit clearer in
+relation to how we're
+
+going to go forward
+with the EPA.
+
+But again, even four
+or five years out,
+
+this is not going to
+be the top of the list
+
+for different law to
+look at to enforce.
+
+But it's just a lot more
+
+challenging to enforce
+with EU traders.
+
+I mean, a lot of them aren't
+sending as much stuff here
+
+because it costs
+a lot of money or
+
+it costs a lot of money to you.
+
+If they don't have the taxes and
+
+import duties built
+into the goods,
+
+then a lot of the times it's
+not worth it to ship it.
+
+We don't have the input into
+the larger structures here,
+
+which economically is
+probably not great.
+
+Silent suppliers.
+
+If you're interested
+in this area,
+
+this can be things
+like shipping.
+
+This can be things like
+if you are working for
+
+a company like
+aircraft manufacturer,
+
+you really need to be aware of
+
+what your supply
+chain looks like.
+
+Ultimately, your
+goal here is find
+
+the manufacturer, and
+the one you can sue.
+
+I mentioned there are quite
+a lot of defences here
+
+to do with the CPA.
+
+It seems like it may be
+quite claimant friendly,
+
+but ultimately they
+want to have a balance.
+
+If you are complying with
+
+a law that has resulted
+in this type of a defect,
+
+then that's on our side,
+
+on the law side, not their side.
+
+You can bring that as a defence.
+
+Remember, a defence is only
+
+after you've already established
+
+liability in the first place.
+
+They would already have
+to have liability for
+
+a defective product,
+never supplied.
+
+If somebody breaks into
+your warehouse and
+
+steals a product that's defective
+and injures themselves,
+
+luckily, you don't need
+to be liable for that.
+
+Similarly course of a business.
+
+This goes back to
+what I said about
+
+really aimed at companies,
+
+really aimed at industry
+
+supplying goods
+on a large scale,
+
+not if you are making a
+few sour dough loaves for
+
+your local farmers
+market on a small scale.
+
+Maybe you might get in
+trouble if you're a business.
+
+If you're not a business,
+
+you're selling
+something on vinted.
+
+You're not a business here.
+
+You have way fewer
+protections and
+
+I've actually noticed this
+
+when you're looking
+at things like Ebay,
+
+when you're looking at
+things like Vinted where
+
+more and more people are selling
+
+things online
+through a platform,
+
+you're getting more
+and more warnings that
+
+say you as a buyer are not
+
+protected as a consumer in
+
+the same way as you are from
+buying from a business.
+
+Most of the time this is fine,
+
+but if you are buying
+something that
+
+is an electronic
+piece of equipment,
+
+you need to keep in mind that
+
+your protections might
+look somewhat different.
+
+Okay, defect occurring after
+time of supply, so later on,
+
+this is your guy who's turned
+
+his lawnmower into
+a hedge trimmer.
+
+This happens more
+than you would think.
+
+Development risks are a
+really important area.
+
+I'll just spend a few
+minutes on because
+
+you don't want people
+or not people.
+
+You don't want companies to
+
+hold things back
+for too long or not
+
+develop in an innovative way for
+
+fear of risking
+liability for injury.
+
+But this is not 100%.
+
+You can't say something like,
+
+we didn't know at the time
+we were in development,
+
+it was in progress and we
+couldn't have known that
+
+this would have been something
+that had injured someone.
+
+If you're looking at this case,
+
+this mother care case is one
+that comes with quite a lot.
+
+Again, I love the
+cases that tell
+
+you exactly something
+about the facts.
+
+It really helps to keep it
+in the front of your mind.
+
+This was a prem buckle
+situation for a baby
+
+and there was a
+12-year-old who was
+
+helping his mom with
+putting the baby in,
+
+and there was a buckle
+or a belt snap that
+
+flicked off and damage
+to the child's eye.
+
+The defence here was
+this wasn't a piece
+
+of science and technology that
+
+we could have known
+about at the time.
+
+It was in development
+as an industry,
+
+as a product. This was rejected.
+
+They said, you can't use
+this for something that,
+
+what did they exactly say?
+
+Would be really simple to test.
+
+Just because there's
+no previous record
+
+of this particular
+type of injury,
+
+doesn't mean it's not
+something that you as
+
+a manufacturer should
+not guard against.
+
+Just because they haven't
+had a complaint of
+
+that specific type of this
+
+buckle popping off and
+hitting someone in the face,
+
+it doesn't mean that
+they shouldn't have
+
+known when they were
+testing their own product.
+
+This is not an out or an excuse
+for companies to not test
+
+their own product
+and not run through
+
+all simple and reasonable ways.
+
+Of course, it depends on the
+scale of potential harm.
+
+Obviously, if you're putting
+an automobile on the market,
+
+you're doing some really
+extensive testing
+
+to make sure that
+there's no defect.
+
+Whereas even if you're making
+
+this particular
+pram type of strap,
+
+you need to do simple
+testing to make
+
+sure that it is safe
+as constructed,
+
+even if you have not got
+
+complaints about
+similar things before.
+
+The court basically said here,
+
+you can't wait for someone
+
+actually to get
+injured in that way
+
+to take meaningful steps to make
+
+sure that it doesn't
+happen in the future.
+
+If it's something that is
+simple and that you should
+
+know being in that industry.
+
+The last defence, again,
+
+like I said, this
+is very complex.
+
+You don't really
+need to worry about
+
+this particular
+defence at this level,
+
+but I just want you to be
+aware that it's there.
+
+Component risks and parts
+
+and joint and several liability.
+
+When you have lots of
+different a vehicle,
+
+lots of different manufacturers
+working together,
+
+you can't just toss it
+off on someone else.
+
+Good old contributory
+negligence.
+
+You can always come back to that
+
+if you have liability
+and if there's
+
+something the consumer did that
+
+worsened the state
+of their injury.
+
+This should have
+done on its own.
+
+I'm not going to do
+this one at a time.
+
+Here's what you need to know.
+
+Here's your recap.
+
+What type of claim do you have?
+
+Does it fall under the CPA?
+
+Personal injury or
+death, property damage,
+
+and damage to the subject
+product is excluded.
+
+You need to define
+what your product
+
+is and what is the defect.
+
+You have a specifically
+defined array
+
+of who might be liable
+and this again,
+
+excludes if you're buying
+something person to person.
+
+You don't have the same amount
+
+of consumer protection that you
+
+do otherwise and there's a
+fair number of defences.
+
+This is for also your
+personal reference.
+
+I thought this was quite useful.
+
+But this is from your textbook.
+
+If you wanted another type
+of summary to have a look
+
+at what you want to review
+
+from the particular
+relevant sections
+
+and they do talk about
+
+where the defect of the
+product is defined,
+
+which is the objective
+of packaging use,
+
+normal use, warnings may
+be taken into account.
+
+Like I said, there's not
+very many cases on this,
+
+but that doesn't mean it's not
+important and not working.
+
+Hopefully what has happened
+is that industries are
+
+pre-emptively aware and testing
+
+and making things
+safe for the market.
+
+As they may have
+different types of
+
+resolutions such as replacing
+the product when they
+
+realise there's an issue
+and making sure they
+
+don't get to a litigation
+stage where someone's injured.
+
+I'm going to leave this
+scenario for you and
+
+I will begin the next class
+
+by going over this a little bit.
+
+On Friday, we'll just
+take a few minutes
+
+to talk about the scenario
+if you want to have a look,
+
+a reminder that we won't have
+
+a workshop on this
+particular topic,
+
+so it won't be
+subject to the exam.
+
+Still no E word. It may be on
+

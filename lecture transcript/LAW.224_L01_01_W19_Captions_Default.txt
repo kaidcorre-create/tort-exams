@@ -1,0 +1,3047 @@
+Dr. Sarah Gilmartin:
+Hi, everyone.
+
+Monday morning again at 9:00 AM.
+
+It seems to be
+getting quieter as we
+
+make our way towards
+the end of the term,
+
+but it's nice to
+see you all here.
+
+We're looking at
+Defences this week,
+
+and you've considered throughout
+
+the module already
+defences and remedies,
+
+but you've only really
+addressed them in passing,
+
+and as a reminder probably
+to consider them in
+
+problem questions once you've
+
+addressed issues of liability.
+
+If the defendant is
+obviously liable for a tort,
+
+whatever that tort may be, then
+
+the next question would be,
+
+can they actually
+rely on any defences?
+
+If they can't rely
+on any defences,
+
+what will the remedy be that
+the claimant is seeking?
+
+The aim of our next
+four lectures,
+
+our last four lectures is to
+
+consider defences and
+remedies in further depth.
+
+We've got defences this week
+and remedies next week.
+
+As you were told last year,
+
+you can remember
+that far back in
+
+criminal law when
+you did Law 104,
+
+you were sometimes told that
+the defences themselves
+
+require as much analysis
+as the offence itself,
+
+and the same really
+said in tort.
+
+Sometimes the defence will
+be really easy to deal with.
+
+There might not be a defence.
+
+In some of the examples
+that we've looked at,
+
+in lectures and workshops,
+
+we might even have
+pointed that out
+
+on occasion or pointed out
+
+a few times there
+doesn't seem to be
+
+a defence on the facts
+that we've been presented.
+
+In the last workshop
+round that we had,
+
+there were some that were
+not obvious for nuisances.
+
+It was difficult to see
+where the defence would be,
+
+but you might have mentioned
+or considered a couple.
+
+In the trespass against
+
+the person workshop,
+the one with Steve,
+
+the thug that was getting
+into a range of trouble,
+
+then there were no defences
+
+available to him in
+most instances either.
+
+Sometimes though,
+the defence will be
+
+a much larger issue and
+it'll require a little bit
+
+more of your time or the same
+amount of time sometime as
+
+the other elements of
+the tort that might need
+
+to have been established
+and satisfied.
+
+I'm going to say,
+if you take nothing
+
+else away from the
+next four lectures,
+
+do make a note,
+
+do not forget defences and
+
+remedies when you're
+addressing a problem question.
+
+Don't forget about these
+in problem questions.
+
+There are two
+additional issues that
+
+you will have to consider.
+
+What's the defence?
+Well, quite simply,
+
+a defence excludes liability
+that would otherwise arise.
+
+We can have complete
+or partial defences,
+
+and some are arguably not really
+
+defences in the
+traditional sense at all.
+
+Goudkamp gives us these
+three definitions
+
+now particularly like these.
+
+One is a reason why
+liability should not attach.
+
+That would be a total
+defence and generally
+
+relates to the rules that
+
+we tend to think of
+as being defences.
+
+This defence, I would say
+relates to external matters,
+
+something external
+to the tort itself.
+
+The defendant in this first
+instance might say, yes,
+
+I've committed the tort,
+
+but judgement should
+be made in my favour,
+
+not the claimants because
+
+I'm relying on this
+particular defence.
+
+The defendant here basically
+tries to find a way
+
+around liability
+where all elements
+
+of the tort are satisfied.
+
+An example of this kind of
+defence would be self defence.
+
+In the case of trespass
+against the person,
+
+and you might use something like
+
+illegality or consent defences,
+
+which we're going to
+look at in more detail
+
+in the case of negligence.
+
+That's where you say,
+yeah, all the elements is
+
+satisfied, but
+here's my defence.
+
+I shouldn't be found
+liable for this reason.
+
+As I say, we will look
+closely at illegality
+
+and consent in
+regard to defences.
+
+The second that Goudkamp says
+
+is a method of denying
+elements of the tort.
+
+Another total defence.
+
+Less commonly, I would
+say thought of as
+
+a defence because here
+
+you're saying that the tort
+hasn't been satisfied at all,
+
+that the elements of the
+tort haven't been met
+
+and therefore liability
+can't attach at all.
+
+Perhaps because the
+defendant says, well,
+
+I might have owed a duty
+of care to the claimant,
+
+but I didn't breach
+that duty of care.
+
+I didn't fall below
+the standard of care
+
+that was expected
+of me and therefore
+
+the elements of the tort are not
+
+satisfied or perhaps they say,
+
+okay, I satisfy the tortious
+elements of duty and breach,
+
+but the claimant's
+injury wasn't caused
+
+by my tort or the harm that
+
+the claimant suffered
+was too remote for
+
+liability to attach to
+me as the defendant.
+
+It works just as successfully
+as the first defence,
+
+if it's accepted
+because no liability in
+
+that instance would then
+attach to the defendant,
+
+and the claimant is obviously
+
+not in either of
+those instances,
+
+if a defence is successful,
+
+if the elements of the
+tort haven't been met,
+
+then your claimants not
+entitled to a remedy.
+
+The third defence at
+
+the bottom is what we call
+contributory negligence.
+
+I know we've mentioned this
+quite a lot in workshops.
+
+There is a question as to
+
+whether this is a
+defence at all.
+
+If it is, then generally,
+
+it's only going to act
+as a partial defence.
+
+It's a defence to mitigate
+in some way the remedy,
+
+to reduce the remedy that is
+available to the claimant.
+
+The defendant might admit
+
+all elements of the tort or
+be found liable for the same
+
+regardless of what
+they admit or don't
+
+admit the defendant might
+
+plead as well
+contributory negligence.
+
+In this regard, the defendant
+says the claimant was
+
+partly at fault for
+their own injury or
+
+partly at fault for the
+losses they've sustained.
+
+They've contributed in some way,
+
+and therefore, the
+defendant says,
+
+I shouldn't have to pay the
+full value of the claim,
+
+so they opt to reduce
+their liability.
+
+It's an action on
+damages because
+
+it might affect how
+much the claimant is
+
+entitled to or it might
+be like an apportionment.
+
+Quite often a defendant
+will offer to split
+
+liability on the basis that
+
+the claimant has been
+contributory negligent.
+
+They might propose what's
+called a liability split.
+
+Sometimes that'll be accepted.
+
+For example, if it's hard
+to tell who was at fault,
+
+for example, in a road
+traffic accident,
+
+other times that split
+
+will be disputed and it'll
+be heavily contested.
+
+But it's basically an
+instance where the defendant
+
+perhaps accepts some fault
+for what has arisen,
+
+but seeks to also shift
+some of the fault
+
+some of the blame onto
+the claimant as well.
+
+Take, for example, a dispute
+in a road traffic accident,
+
+maybe over failure to
+wear a bicycle helmet.
+
+A defendant motorist might
+say that the cyclist
+
+was partially at fault
+for their injuries
+
+because they failed
+to wear a helmet.
+
+In the case of a
+dislocated shoulder,
+
+then that argument
+is not going to hold
+
+any weight because the
+wearing or the not wearing
+
+of a bicycle helmet would make
+
+no difference to the injuries
+that the cyclist has
+
+sustained.ssensual
+But if the cyclist
+
+has suffered a head injury,
+
+then it might be
+more arguable that
+
+the claimant was partly at fault
+
+was contributory
+negligent in some way.
+
+Although you need
+medical evidence,
+
+it would all turn on
+causation because
+
+medical evidence might say
+that even the wearing of
+
+a bicycle helmet in
+some instances would
+
+still result in the same
+
+injuries that have
+been sustained.
+
+There is contradictory evidence
+
+that some cycle
+helmets will only
+
+withstand a blow
+of up to 12 miles
+
+an hour better ones
+offer better protection.
+
+But anything faster
+than that and
+
+the argument might be
+
+that even if they
+had worn a helmet,
+
+it wouldn't have offered
+them any protection anyway,
+
+and therefore, they're not
+contributory negligent.
+
+We've got these three
+kinds of defences,
+
+complete or partial defences
+according to Goudkamp.
+
+As I say, I don't I quite like
+
+the way he categorises them,
+
+but I'd say the first two are
+
+more traditional
+defences because
+
+they are the complete defence.
+
+They're what we traditionally
+think of as a defence.
+
+The third one for me is
+
+less defence and more of
+a mitigation tactic or
+
+a negotiation tactic as
+well sometimes to try
+
+and achieve a resolution where
+
+you're at loggerheads
+over liability.
+
+We've got some examples
+
+that I just want
+you to bear in mind
+
+as we work through our
+lectures this week.
+
+We've got the first example.
+
+The claimant driving
+carefully collides
+
+head on with the
+defendant's speeding car.
+
+The defendant was
+executing an overtake at
+
+the time of the
+collision and was on
+
+the claimant's side of the road.
+
+Claimant suffers head
+and neck injuries.
+
+As a result of the collision,
+
+the claimant was not
+wearing a seat belt.
+
+I also want to spay
+my example too,
+
+the claimant and defendant stole
+
+some ladders from
+the front guiding.
+
+Ladders didn't fit
+onto their van,
+
+so the claimant stood on
+the back of the van holding
+
+the ladders in place with
+
+one hand and holding onto
+the van with the other.
+
+The defendant drove
+around a corner sharply
+
+and the claimant fell off
+the van and was injured.
+
+The third example, the claimant
+
+spent the afternoon drinking
+with the defendant.
+
+The defendant
+suggested they take
+
+a joy ride in his
+light aircraft,
+
+Claimant helps defendant
+prepare the plane.
+
+Defendant was the pilot.
+
+Shortly after
+takeoff they crash,
+
+defendant is killed and
+
+the claimant is
+seriously injured.
+
+I've just said here,
+assuming all elements
+
+of negligence are met
+in these scenarios,
+
+just consider whether
+the defendants can raise
+
+a defence and what defence
+might be applicable.
+
+Some might already
+be jumping out at
+
+you and be really
+obvious to you.
+
+But as I said, just bear
+these in mind as we work
+
+through and we will come
+back to them on Friday.
+
+Head on collision claimant,
+not wearing a seat belt,
+
+stealing ladders injured
+during that and getting
+
+on a plane with an
+intoxicated pilot.
+
+There's a lot of case law
+
+as we go through these lectures.
+
+I'll give you as much
+information on each of
+
+the cases as possible
+as we go through.
+
+You'll have to bear
+with us on these ones.
+
+Just to give you a
+bit of an overview.
+
+As I say, this is a
+non exhaustive list.
+
+You've already had
+an opportunity to
+
+consider a number of defences.
+
+Some that you'll
+be aware of from
+
+your other modules as
+well, self defence,
+
+obviously, criminal
+law, honest belief,
+
+proportionate force, etc.
+
+Some we spent, I'd say,
+
+a good deal of
+
+time either discussing in
+
+your lectures or
+in your workshops
+
+like locality being a
+defence relevant to
+
+immunity damage in
+private nuisance
+
+or simply a denial of
+an element of a tort,
+
+depending on which way
+you want to look at it.
+
+We definitely spoke about
+Saint Helens smeelting and
+
+it's not relevant when
+you've got property damage.
+
+Natural disaster arguably one of
+
+those defences where you
+deny an element of the tort.
+
+I've placed that in the
+middle there for us as well.
+
+There's lots of these defences.
+
+Some are stand alone,
+
+some work with others.
+
+Some fit more with some
+torts than others.
+
+Some have a general
+application to all torts.
+
+We're going to be
+most concerned in
+
+these lectures with
+the ones that have
+
+a general application
+to all torts in
+
+the yellow box in the middle
+
+at the bottom of
+the screen there.
+
+We're going to be looking
+at ex turpi causa which
+
+concerns the illegality defence,
+
+volenti non fit injuria,
+
+which concerns the
+consent defence.
+
+We're also going to
+have another look
+
+at contributory negligence
+
+because they're the ones you're
+
+going to need to understand,
+
+I would say, in
+regard to most torts.
+
+I should say about contributory
+negligence, incidentally,
+
+it doesn't apply in trespass
+against the person cases,
+
+so it doesn't apply to
+those intentional torts.
+
+It'd be tricky.
+
+I'd say as well to argue it
+
+on trespass to land
+as well, contribute.
+
+But that's probably the only
+two I would exclude it from.
+
+I'm just going to
+say for more detail
+
+on the other defences
+that I've just
+
+put on screen just as a reminder
+to trigger your memory,
+
+have a look at your reading
+obviously in that regard,
+
+have a look back over your
+lecture notes because
+
+we've all mentioned
+defences at the end of
+
+each of the torts we've
+considered and some
+
+of the textbooks cover
+specific defences as well.
+
+As I said, it's not intended
+
+to be an exhaustive list there,
+
+but just a reminder
+of some that you've
+
+maybe covered as
+part of this module.
+
+We'll start then
+with illegality.
+
+Most of the cases
+that we look at
+
+show the operation of
+
+this defence in the
+context of negligence.
+
+You'll see the same with Volenti
+
+as well so you'll see
+the same with consent.
+
+Illegality is one of
+those complete defences,
+
+meaning that if it's
+successfully pleaded,
+
+then the defendant
+bears no liability,
+
+and the claimant is then
+obviously without a remedy.
+
+We've got all these
+lovely Latin phrases,
+
+Ex turpi causa non
+oritur action,
+
+which I never know if I'm
+pronouncing correctly.
+
+I just go with ex turpi
+causa, shorthand.
+
+It's got various translations,
+
+but an action cannot
+be founded on
+
+illegal or immoral conduct
+
+or from a wrongful
+cause no action arises.
+
+Complete defence, remember,
+but we are talking here,
+
+obviously, whose illegality
+are we talking about?
+
+We're obviously talking about
+the claimant's illegality.
+
+That's what the defendant says.
+
+The defendant says, well,
+
+the claimant was
+involved in something,
+
+it was an illegal
+act, and therefore,
+
+the claimant's illegality should
+
+bar their claim and
+that's a defence.
+
+The scope of the defence,
+
+I'd say is quite uncertain.
+
+But the defence of illegality
+has to be pleaded and
+
+has to be proven by
+
+the defendant on the
+balance of probabilities.
+
+It's one of these where proof
+
+burden shifts to the defendant.
+
+As I say, we're looking for
+
+the illegal conduct
+of the claimant.
+
+There is no criminal act.
+
+If the claimant can establish
+there's no criminal act,
+
+then obviously this
+defence can't be invoked
+
+by the defendant and
+
+the offending has got
+to be contemporaneous.
+
+That's one of the
+very clear rules
+
+about invoking this defence.
+
+If the claimant withdraws from
+
+a criminal act before
+they suffer the damage,
+
+then the defence
+isn't applicable.
+
+The criminality and the tort
+have got to be hand in hand.
+
+The harm has got to be suffered
+
+and during the enterprise,
+
+it's got to be connected to it.
+
+It's got to causally
+
+relate to the claimant's damage
+
+is another way of looking at it.
+
+Causation applicable in
+a very different way
+
+to how we've looked
+at it so far already.
+
+Did the claimant's illegality
+
+cause the harm is effectively
+what you're asking?
+
+If it did, then the
+defendant may be
+
+able to defend the claim on
+
+the basis of the
+claimant's illegality.
+
+I should say that
+not every breach of
+
+the criminal law is sufficient
+to trigger this defence.
+
+It makes it quite hard
+sometimes for us to tell when
+
+it will be successful and
+when it won't be successful.
+
+What's the point of an
+illegality defence?
+
+Well, it's founded as posing
+to really on these ideas
+
+of equitable principles or
+similar notions, at least.
+
+It was said in this case
+of Holman and Johnson,
+
+which has been cited
+with approval on
+
+several occasions in
+illegality cases,
+
+that no court will lend
+its aid to a man who found
+
+his cause of action upon an
+illegal or an immoral act.
+
+Why do I say it's founded
+on equitable principles?
+
+It can be translated into one of
+
+our equitable maxins which
+you'll learn about next year,
+
+you, but might be something
+
+that you've heard about in
+an episode of Judge Judy,
+
+if you've ever
+watched Judge Judy.
+
+She quite often says to people,
+
+you've got to come to
+court with clean hands.
+
+That's that idea. If you
+
+don't come to court
+with clean hands,
+
+then the court won't help you.
+
+If you've been engaged in
+something that is wrong,
+
+yourself criminally
+or civilly sometimes,
+
+even one who,
+
+he is injured or
+has suffered harm,
+
+the court might say,
+well, we can't help you.
+
+You've been engaged
+in something wrong,
+
+so you can't ask the
+court for a remedy;
+
+the court won't
+help a wrongdoer.
+
+For example, I don't know,
+
+the tax office made a
+mistake in a refund,
+
+but you've been submitting
+
+inaccurate tax
+accounts for years,
+
+fiddling the system, the
+court might not help you,
+
+even though the refund from
+
+the tax might
+rightfully be yours.
+
+It's usually something
+like that that
+
+crops up on Judge Judy.
+
+She usually gets to
+the bottom of that,
+
+and she'll say, Well,
+
+you're not coming to court with
+
+clean hands, so I'm
+not helping you.
+
+In terms of illegality,
+
+there's three types of case,
+
+where the defence
+might be pleaded.
+
+One is joint illegal
+enterprise cases.
+
+The second is unilateral
+illegality cases.
+
+Then we've got something called
+sanction shifting cases,
+
+which I'd say are some of the
+more complicated cases to
+
+understand but we'll start with
+
+the simpler ones that
+make much more sense.
+
+We'll start with the joint
+illegal enterprise cases.
+
+What we mean by this is
+that the claimant and
+
+the defendant are together
+engaged in illegal activity.
+
+At the time the defendant
+
+carries out the tort which
+causes the claimant harm.
+
+Can the defendant then
+
+say that the claimant's
+own conduct,
+
+the claimant's illegality,
+
+is a defence to any
+claim that they
+
+try to make against the
+defendant for the tort?
+
+The criminal activity can
+be the basis of the claim,
+
+or it might just offer
+
+some context and background
+to the claim itself.
+
+We're going to start by
+looking at this case of
+
+Pits and Hunt from 1991.
+
+Sad there's a lot of cases,
+
+tried to include some
+corresponding images on
+
+the slides to help commit
+the facts to memory for you.
+
+But Pits and Hunt
+concerned a claimant
+
+who'd been a pillion
+motorcycle passenger,
+
+so a person on the
+back of the bike,
+
+and the driver was
+the defendant.
+
+The court sometimes takes
+
+a duty of care approach
+
+to the question of
+
+the illegality defence
+when it's raised.
+
+In this instance,
+the claimant and
+
+the defendant had been
+drinking together,
+
+and they set off on the
+defendant's motorbike
+
+and the claimant knew
+
+that the defendant
+had been drinking,
+
+knew that the defendant
+was underage,
+
+knew that the defendant
+was uninsured as well.
+
+Not very wise. The
+fact, of course,
+
+that he was underage
+meant that the defendant
+
+didn't have a driving
+licence either.
+
+The facts were
+that the claimant,
+
+on the back of the
+bike had actually
+
+encouraged the defendant
+to drive recklessly.
+
+Inevitably, there
+was an accident.
+
+The defendant was killed,
+
+and then the claimant
+was seriously injured.
+
+Who is the claim brought
+against in this instance?
+
+Well, in this instance,
+
+the Motor Insurance
+Bureau would be
+
+involved because they represent
+
+uninsured drivers on our roads.
+
+A certain part all of us who pay
+
+our car insurance or
+motorbike insurance,
+
+a certain part of our insurance
+
+funds motor insurance bureau
+
+claims, the MIB.
+
+This would obviously be
+a claim as well against
+
+the defendant's estate because
+the defendant is deceased.
+
+The court said, can we
+say on these facts that
+
+the defendant owed the
+claimant a duty of care?
+
+That's how they looked at it,
+
+it's an interesting approach
+
+to use the duty of care test.
+
+How can you have or
+
+recognise a duty of care
+really between two people who
+
+are involved in a criminal act
+
+and are knowingly engaged
+in that activity.
+
+How can you ask how much care
+
+the reasonable person
+would have taken
+
+in the defendant's
+circumstances?
+
+Can we even use our
+reasonable man test here?
+
+The tests that we
+have, I would say,
+
+regarding duty of care
+become quite difficult,
+
+if not nonsensical.
+
+There's arguments
+that this approach
+
+that the court took is
+
+actually unsuitable to assessing
+the illegality defence.
+
+In this case, the Court
+of Appeal refused
+
+the claimant's claim on
+the basis of illegality.
+
+They said, both the claimant
+and the defendant are
+
+involved in the criminal
+activity of reckless driving.
+
+You'll see I've put a note on
+the screen as well that you
+
+can look at Pits and Hunt for
+a discussion of the lenti,
+
+which is the consent
+defence as well.
+
+But it's relevant sometimes
+to illegality as well.
+
+Because of the
+trickiness in using
+
+this duty of care approach
+
+like they did in Pits and Hunt,
+
+we start to see a move
+away from duty of care in
+
+the next case on screen of
+DelaniumPicket in 2011.
+
+Indeed, in Joyce and
+O'Brien as well in 2013.
+
+Delaney and Pickett should
+
+actually read Delaney
+and Pickett and Another,
+
+and another being the
+second defendant,
+
+which was the Motor Insurers
+Bureau that I've mentioned,
+
+who cover uninsured drivers.
+
+Pickett was driving,
+
+and Delaney and
+Pickett were both
+
+drug users and drug sellers.
+
+They were involved
+in an accident,
+
+and Delaney was injured.
+
+Because Pickett, as the driver,
+
+was under the
+influence at the time,
+
+his motor insurance was void,
+
+which is why you get the
+Motor Insurance Bureau
+
+involved as a second defender.
+
+Both the claimant and the
+defendant were found to be
+
+holding a large amount of
+
+cannabis at the time
+of the accident,
+
+and it was determined,
+therefore,
+
+that they were
+jointly engaged in
+
+illegal activity when
+the crash happened.
+
+They were engaged
+in the transport
+
+and the supply of drugs.
+
+Were the defendant driver and
+the Motor Insurers Bureau
+
+entitled to rely on
+the ex Terp cause of
+
+defence to prevent the
+claimant's case succeeding?
+
+The court said the first
+defendant, Pickett,
+
+wasn't couldn't rely on
+the illegality defence.
+
+But the Motor
+Insurers Bureau were
+
+entitled to rely on the
+illegality defence.
+
+Why? We've got Lord Justice
+Ward and I'd say what he said
+
+in the case taps into
+the quote that you can
+
+see in Pits and Hunt on
+screen because he said,
+
+the crucial question is
+whether on the one hand,
+
+the criminal activity
+merely gave occasion for
+
+the tortious acts of the first
+defendant to be committed,
+
+or whether even though
+the accident would
+
+never have happened had
+they not made the journey,
+
+which at some point
+involved their obtaining
+
+and or transporting drugs
+with the intention to supply,
+
+or on the other hand,
+
+whether the immediate cause of
+
+the claimant's damage was
+the negligent driving.
+
+They said the answer
+to that question is,
+
+in our judgement, clear.
+
+They said, viewed as a
+matter of causation,
+
+the damage they said
+suffered by the claimant was
+
+not caused by his or
+their criminal activity.
+
+It was caused, they said,
+
+by the tortious acts of
+the first defendant in
+
+the negligent way in which
+he drove the vehicle.
+
+In those circumstances,
+they said
+
+the illegal acts are incidental,
+
+and so the claimant should be
+
+entitled to recover his loss.
+
+The claimant was able
+to recover against
+
+Pickett as the defendant driver;
+
+illegality was no defence
+
+but as regards the
+Motor Insurance Bureau,
+
+they were able to
+rely on the defence.
+
+Same facts, obviously.
+
+But they're using
+causation arguments,
+
+rather than duty
+of care arguments.
+
+Causation arguments were
+used to support the defence
+
+here instead of the duty
+
+of care like we saw
+in Pits and Hunt.
+
+Why did the MIB get to
+rely on the defence?
+
+Policy reasons, partly
+and contract as well,
+
+because the Motor Insurers
+Bureau agreement excludes
+
+the MIB from paying
+
+where a claimant is involved
+
+in the furtherance of a crime,
+
+if not also in the
+course of a crime.
+
+A policy in itself that
+
+the Motor Insurers
+Bureau is there to
+
+protect the innocent victims of
+
+road traffic accidents where
+
+another driver is uninsured,
+
+and not those who cannot come
+to court with clean hands,
+
+as the claimant couldn't
+in this instance.
+
+Then Joyce and O'Brien follows
+
+the same reasoning that we
+get in Delaney and Pickett.
+
+It works on causation
+principles as
+
+the preferred test
+for illegality
+
+over the duty of care that
+we saw in Pits and Hunt.
+
+The question for the court was,
+
+could the defence of illegality
+
+be raised by the defendant here?
+
+What happened in this
+case was Joyce was
+
+injured falling off a van,
+
+having just stolen some
+ladders with O'Brien.
+
+The ladders didn't
+fit in the van,
+
+so he clung onto them,
+
+and he clung onto the back of
+
+the van as they
+made their getaway.
+
+O'Brien drove negligently
+drove far too fast,
+
+and the claimant fell
+off the back during
+
+the commission of this
+particular crime,
+
+and he sustained serious injury.
+
+If we distinguish
+Joyce from Delaney,
+
+we can say that the injury in
+
+Joyce was caused by the crime,
+
+even though it results
+
+more directly from
+the negligent act,
+
+the driving too fast.
+
+It's not incidental to the
+crime like it was in Delaney.
+
+It was part and parcel of
+
+the commission of
+the crime itself.
+
+O'Brien's negligent driving
+caused the injury during
+
+the joint enterprise as they
+
+were engaged in their getaway,
+
+and so illegality was a
+successful defence here.
+
+In this case, I think
+you need to question
+
+whether it's foreseeable that
+
+a party would be subject to
+
+unusual or increased risks
+
+as a consequence of
+
+the activities that
+they're engaged in,
+
+in pursuance of their
+criminal activities.
+
+I think the summary
+of the case in
+
+Joyce provides the best reason
+
+because what the
+summary said was,
+
+where the character of
+
+a joint criminal enterprise was
+
+such that it was
+foreseeable that
+
+a party or parties
+might be subject to
+
+unusual or increased risk
+of harm as a consequence
+
+of the activities of the
+parties in pursuance of
+
+their criminal objectives and
+
+the risk materialised,
+the injury.
+
+The injury could
+properly be said to have
+
+been caused by the criminal
+act of the claimant,
+
+even if it resulted from
+
+the negligent or
+intentional act of
+
+another party to the
+illegal enterprise,
+
+the injury had occurred
+because the claimant had taken
+
+the heightened risk of
+
+dangerous driving by
+the first defendant,
+
+that risk materialised
+and accordingly,
+
+the injury could properly be
+said to have been caused by
+
+the claimant and the principal
+ex terpicausa applied.
+
+Much more engaged in the
+criminal activity at the time as
+
+opposed to being incidental
+to like it was in Delaney.
+
+Ashton is an older case working
+
+on duty of care principles
+that we see in Pits and Hunt,
+
+but reaches a
+different conclusion,
+
+I think it's important
+to bear it in mind.
+
+In Ashton, three parties
+had been drinking together.
+
+Two of them committed
+a burglary,
+
+and the third man was the
+wheelman, the getaway driver.
+
+Whilst they were
+escaping the scene,
+
+one of the two burglars,
+
+passengers in the car,
+
+were injured in a collision
+
+because the getaway driver
+crashed the vehicle.
+
+We had Justice Eubank
+
+in this particular
+case, and he said,
+
+the law is based
+on public policy,
+
+and the application of the law
+
+depends on a consideration
+of all the facts.
+
+Having regard to all
+the facts in this case,
+
+I've come to the
+conclusion that a duty of
+
+care didn't exist between
+
+the first defendant and the
+claimant during the course of
+
+the burglary and
+during the course of
+
+the subsequent flight
+in the getaway car.
+
+It was held that any negligence
+during the burglary and
+
+subsequent getaway would be
+
+met by a defence of illegality.
+
+Ex terpiicus is
+successfully raised,
+
+and the claimant's claim failed.
+
+Again, I think
+because it's part and
+
+parcel like Joyce
+of the commission,
+
+as opposed to being
+incidental to.
+
+Unilateral illegality, then,
+
+bit like it says on the tin,
+
+where the claimant is engaged in
+
+an illegal activity all by
+
+themselves we've
+got no illegality
+
+here on the part
+of the defendant.
+
+This is just a question
+about whether the claimant
+
+themselves is engaged
+in illegal activity.
+
+Again, tried to give
+you an image to
+
+contextualise the main case on
+
+here of the Leno and
+
+Chief Constable of
+Manchester Police.
+
+It was a police chase on foot.
+
+The claimant had avoided
+
+being arrested on
+numerous occasions,
+
+and he did so on this
+particular day by
+
+climbing out of a
+window but he fell.
+
+It was quite high up, higher
+
+than he probably anticipated,
+
+and he suffered very
+severe brain injury,
+
+and he was tetraplegic as
+
+well as a result of the
+fall out of the window,
+
+and he went on to sue the
+police in negligence.
+
+This is where we get the
+defence being raised.
+
+The question was, can you
+bring a claim in negligence
+
+against the police in
+
+these circumstances where the
+claimants evading arrest.
+
+The court decided
+that the police
+
+didn't owe the claimant
+a duty of care,
+
+didn't owe him a duty
+of care when he was in
+
+the process of
+evading their arrest.
+
+It didn't actually really
+turn on illegality at all,
+
+although that's the
+positioning of it.
+
+It rested solely on the fact
+
+that they didn't
+owe a duty of care,
+
+but certainly the
+illegality defence
+
+was definitely pleaded,
+
+and they considered it anyway,
+
+and they talked about
+these three considerations
+
+where the illegality
+defence is pleaded.
+
+They said one, the operation of
+
+the principal arises where
+
+the claimant's claim is founded
+
+upon his own criminal
+or immoral act,
+
+evading arrest fits this.
+
+Two, the principle is
+one of public policy.
+
+Not for the benefit
+of the defendant,
+
+not for the benefit of the
+police to escape liability,
+
+but a social justice
+
+in being able to
+rely on the defence.
+
+Three, in the case
+of criminal conduct,
+
+this has to be
+sufficiently serious to
+
+merit the application
+of the principle.
+
+In passing or as an aside,
+
+it was said that
+evading arrest was
+
+sufficiently serious in
+which to base the defence,
+
+but it failed solely on failure
+
+to establish those
+tortious principles.
+
+Through the discussion,
+I would say of exurpcsa
+
+from Volino is very important.
+
+No, I would say that
+
+the timing or age of the
+case would have meant that
+
+Caparo was in operation
+
+at the time in terms
+of duty of care.
+
+Under Caparo, they
+were thinking about
+
+did the court owe the
+claimant a duty of care?
+
+Is it fair, just
+reasonable to hold
+
+a duty of care in this
+particular instance?
+
+The answer that they
+reached was no, it's old.
+
+Even with Caparo, I would say
+they're no longer needed.
+
+We do still have cases which
+
+think about fair,
+just, reasonable.
+
+Even without it, I would say on
+
+the basis of the illegality
+
+and for policy reasons that
+
+everyone injured evading
+arrest could claim.
+
+If it was successful, I
+think the decision would
+
+still have been the same
+even post, Robinson.
+
+Even without the
+Caparo considerations.
+
+Revill v Newbery, in 1996,
+
+defendant slept
+frequently in a shed on
+
+his allotment to protect it
+from thieves and vandals.
+
+He was fed up with his allotment
+
+being damaged by
+thieves and vandals.
+
+The claimant was
+a burglar who got
+
+quite a nasty surprise in the
+commissioner of his offence
+
+when the defendant
+fired a gun in
+
+the direction of a
+disturbance which he'd heard,
+
+intending, he said, only to
+scare away whoever was there,
+
+the thief, the bullet hit
+
+the claimant who was
+committing the burglary.
+
+The claimant burglar sued
+the defendant shooter in
+
+negligence and
+also for breach of
+
+Occupiers Liability Act 1984.
+
+The defence of illegality
+was rejected by the court.
+
+Defendants said,
+the claimant was
+
+involved in the
+commission of offence.
+
+They were stealing.
+
+They were trespassing.
+They shouldn't
+
+be able to succeed on the
+basis of their own illegality.
+
+They were shot as
+a result of them
+
+carrying out their
+offence at the time.
+
+The court said, no,
+
+not in this instance.
+
+They felt it was a bit too far
+
+beyond what was acceptable.
+
+But what they did do is
+they did reduce the damages
+
+that were to be paid
+to the claimant on
+
+the basis of
+contributory negligence,
+
+which we will look at next time.
+
+The court said,
+the mere fact that
+
+the claimant was engaged in
+criminal activities upon
+
+the premises when he
+suffered injury as
+
+a result of the defendant's
+negligence was not
+
+sufficient of itself to debar
+
+him from claiming damages
+for those injuries.
+
+They said the judge
+because it was appeal,
+
+the judge had been entitled to
+
+find that the defendant
+was negligent,
+
+even by reference
+to the standard
+
+of care to be expected from
+
+the reasonable man placed in
+
+the situation in which
+he found himself,
+
+but the judge's
+finding of contrib
+
+was more than justified.
+
+The defence on of [inaudible]
+
+cause of illegality
+was rejected,
+
+I would say in Revill for
+
+the same reasons why it might
+be applicable in others,
+
+these idea of policy reasons.
+
+Because what they said is,
+
+they looked at the
+occupiers liability Act
+
+1994 and they said the
+intention of parliament
+
+in enacting that statute
+indicates that trespassers,
+
+including burglars,
+should not be treated
+
+as outlaws by the law.
+
+Therefore, a
+defendant occupier is
+
+not free to do as they wish,
+
+and so use exurpcus as a
+means of escaping liability.
+
+But as I said, it's difficult,
+I would say to determine
+
+sometimes what governs
+the success or otherwise.
+
+But I think the principles
+from Velena are helpful.
+
+I think sometimes
+it's a question
+
+maybe of proportionality
+as well,
+
+how far beyond things go.
+
+Sanction shifting. I said
+
+these were a little
+bit more complicated.
+
+They're tricky and interesting
+all at the same time.
+
+Don't shoot the messenger
+with these ones,
+
+but these cases involve
+a claimant who basically
+
+attempts to use tort law
+
+to deflect the impact
+of the criminal law.
+
+Perhaps we could say to
+negate their own illegality.
+
+The case of Gray
+and Thames Trains,
+
+the claimant was the
+victim of a train crash.
+
+For those of you who remember
+it, you might remember it.
+
+He was a passenger in one of
+
+the carriages at the
+Ladbrok Grove train crash,
+
+which killed 31 people and
+injured hundreds more.
+
+The crash occurred
+as a result of
+
+the defendant's
+negligence, Thames Trains.
+
+The claimant's physical injuries
+
+were quite minor in that crash,
+
+but he suffered from
+
+post traumatic stress
+disorder, PTSD.
+
+His mental health was so
+bad after the crash that he
+
+actually subsequently
+stabbed somebody to
+
+death sometime
+after the incident,
+
+and he was convicted of
+
+manslaughter on grounds of
+diminished responsibility.
+
+He then sued the train company
+
+for losses which arose from
+
+his criminal conviction and
+
+because of his mental
+health facility detainment.
+
+I'd say we get
+
+a very clear distinction in
+
+this case between tort law
+and criminal law because
+
+the claimant was
+entitled to damages for
+
+losses which were not
+
+associated with the
+criminal sanctions.
+
+He was entitled to
+damages for losses
+
+arising from the
+train crash itself,
+
+and for his PTSD and the
+impact that had had.
+
+He was entitled to what we call
+
+pain suffering and loss
+of immunity damages for
+
+his physical and
+psychological injuries
+
+further to the accident.
+
+We know that they
+would be recoverable,
+
+if you're injured
+in an accident as
+
+a result of someone
+else's negligence.
+
+But the court said he wasn't
+entitled to recover for
+
+losses that were associated
+
+with his subsequent conviction.
+
+His loss of freedom,
+
+loss of earnings as a result of
+
+his detention in a
+mental health facility.
+
+We tank the case of sanction
+
+shifting because what
+the claimant does is
+
+sue the defendant
+complaining that
+
+the defendant's
+negligence caused
+
+the claimants incur
+the criminal sanction.
+
+They said that's
+not permissible.
+
+Again, it's on fairly
+wide policy grounds
+
+as to why that can't be allowed.
+
+Lloyd Rogers said,
+
+"A claim of this kind
+undoubtedly falls foul of
+
+the ex turpi causa maxim
+since the claimant is
+
+asking the defendant
+to compensate him for
+
+the consequences of his own
+deliberate criminal act
+
+in killing a person."
+
+I'd say there's a distinction
+to be made between
+
+recoverable and non
+recoverable losses.
+
+The decisions not allow
+
+the claimant to shift
+his illegality,
+
+or the effects of that,
+
+or some of it onto
+the defendant,
+
+so to allow the
+defendant to rely
+
+on ex turpi causa is
+based on this logic that
+
+tort law and criminal law are
+
+separate and tort shouldn't
+
+undermine the criminal
+law as a result.
+
+If we allow the claimant
+to be compensated for
+
+loss of freedom and loss of
+
+earnings as a result of
+his criminal conviction,
+
+then arguably that undermines
+
+the sentence and the
+punishment that's being
+
+imposed for the crime and the
+court weren't prepared to
+
+do that and they kept
+the two very separate.
+
+Prior to Gray,
+
+so before this case
+came before the court,
+
+the law commission had been
+conducting an investigation
+
+or a consultation into
+
+the scope of the
+illegality defence.
+
+Subsequent to Gray,
+
+they said it wasn't a priority.
+
+That's perhaps because
+Gray dealt with some of
+
+the issues or
+possibly just because
+
+other things occupy
+the government's time.
+
+But also since Gray,
+
+there's been a couple of
+Supreme Court decisions to
+
+try and help us clarify
+
+the scope of illegality
+as a defence.
+
+There has been some
+conflicting approaches,
+
+although I think we've
+now resolved it,
+
+but I'll take you through a
+little bit of the history of
+
+those cases because
+they're all very relevant,
+
+obviously Supreme
+Court judgments,
+
+and all good law.
+
+There was a little bit of post
+
+grad uncertainty as a result of
+
+this case of Allen
+and Hounga in 2014.
+
+This case concerned
+a claimant ape
+
+who had entered
+the UK illegally.
+
+She was actually only
+14 years of age at
+
+the time she arrived
+in the UK and
+
+she was subject to
+abuse while she was
+
+working for the
+defendant as au pair,
+
+looking after their children.
+
+Eventually they let her go.
+
+The claimant brought a claim in
+
+the employment tribunal
+for discrimination.
+
+The defendants, somewhat
+cheekily in the circumstances,
+
+sought to rely on the
+illegality defence.
+
+In this instance, it didn't
+
+defeat her claim.
+The facts were bad.
+
+The claimant had
+been subjected to
+
+physical abuse and
+verbal threats.
+
+She was obviously vulnerable.
+
+She'd actually been
+trafficked into the UK.
+
+In the claimant's case,
+
+a minor child entering
+
+the UK illegally would
+obviously be offered
+
+some protections under our laws
+
+relating to people trafficking.
+
+The illegality defence failed.
+
+Basically, what they said to
+the defendants is you can't
+
+shift your own illegality
+onto the claimant.
+
+Again, you can relate it to
+that clean hands principle.
+
+The defendants who were
+
+her employers who
+subjected her to
+
+this abuse weren't coming
+into court with clean hands.
+
+They knew that she was
+
+an illegal immigrant and
+
+they'd obviously
+treated her very badly.
+
+The court wouldn't assist
+them to avoid liability on
+
+the basis that the claimant
+
+themselves was here illegally.
+
+The fact she'd enter
+the UK illegally
+
+with their help
+as well, no less.
+
+They definitely won't come
+into court clean hands.
+
+Lloyd Wilson said the
+public policy in support of
+
+the application of the
+illegality defence
+
+to the extent that
+it exists at all,
+
+should give way to
+the public policy to
+
+which its application
+is an affront,
+
+so that'd be human trafficking.
+
+In this case, the
+defence failed.
+
+Then Lloyd Wilson gave
+
+this example in
+
+this particular case,
+which I think is helpful.
+
+He said, "If bank robbers or
+
+terrorists are using
+explosives in their crimes,
+
+and one of them, A, let's say,
+
+is injured by a
+premature explosion
+
+attributable to the
+carelessness of B."
+
+"It doesn't seem," he
+said "to be controversial
+
+to deny a civil claim against B.
+
+It will be because
+there is such a
+
+close connection," they said,
+
+"between the illegality
+and the civil claim that
+
+the court could not
+consistently condemn the first,
+
+the making of an explosive
+
+and give relief for the second,
+
+the negligence in
+making the explosive."
+
+"For the same reason," he said,
+
+"claims by one criminal
+against another in relation to
+
+bad driving in escape from
+the crime will also fail.
+
+Conversely, when the illegality
+
+is not sufficiently
+closely connected to
+
+the claim and can properly be
+
+regarded as collateral
+or incidental
+
+or was doing no more than
+providing the context
+
+for the relationship which
+gives rise to the claim,
+
+the bar of illegality
+will not fall."
+
+In other words, it's
+that comparison again,
+
+that we looked at
+with Delaney where
+
+the defence of illegality
+failed and Joyce,
+
+where the defence
+was successful.
+
+One was incidental and one was
+
+part and parcel of the
+commission of the crime.
+
+We've also got this nec case.
+
+We've got time to do this one.
+
+But this next case of
+Les Laboratoires, 2015,
+
+it is complicated
+because it was a case
+
+involving patents and
+quasi criminal acts.
+
+The issue here was a balance.
+
+One party, Party A,
+
+had an injunction in
+Europe against Party B.
+
+It transpired that
+that injunction
+
+should never have been granted.
+
+Party B successfully claimed
+
+damages against Pi A
+who'd had the benefit of
+
+the injunction on the
+basis that Party B had
+
+lost money by not being
+allowed to trade in
+
+Europe because of the
+injunction that was in place.
+
+It then transpired that Party B,
+
+so the one who was successful in
+
+recovering damages
+against Party A,
+
+had actually breached
+Canadian laws by
+
+importing the goods into
+Europe in the first place.
+
+Whilst they were, in fact,
+
+free to trade in Europe,
+
+they were in breach
+of other export laws.
+
+They were in breach of
+Canadian export laws.
+
+It wasn't really a
+breach of criminal law,
+
+it was quasi criminal and
+the damages that Party B had
+
+received in relation to
+their earlier claim because
+
+of the injunction were
+therefore offset by the court.
+
+The court said, Party A,
+
+the party who held
+the injunction
+
+that never should have been,
+
+was entitled to recover some of
+
+the damages that they'd
+actually paid to Party B
+
+because of Party B's
+quasi illegality in
+
+exporting those goods into
+
+Europe and thereby
+breaching Canadian law,
+
+presumably impacting then on
+
+Party A's sales of the
+same product in Europe.
+
+They were competitors selling
+the same product in Europe.
+
+Because what Party A did in
+
+this one was successfully invoke
+
+the defence of ex turpi causa.
+
+They said if Party B
+doesn't actually repay
+
+some of the damages that
+we've paid to them,
+
+they'd be in a better
+position than they should
+
+have been because of
+their own illegality.
+
+The court agreed. The use,
+
+I would say the defence of
+
+illegality in this
+case was targeted
+
+at even in the playing field
+
+between two commercial parties.
+
+It's complicated
+case like I say,
+
+I'd say, go and have a
+read of the case headnote,
+
+the summary on Westlaw
+at least because
+
+there's also then a couple of
+useful quotes on the slide,
+
+which I will let you
+read in your own time.
+
+But you can see the confusion
+that we get post Gray.
+
+We've got Gray, a
+little bit of clarity.
+
+Then we get the Hounga case,
+illegality defence fails,
+
+and then we get the
+Les Laboratoires case,
+
+where it helps.
+
+It becomes quite difficult
+sometimes, I would say,
+
+to say when the case will be
+
+successful and when it won't in
+
+these sanction shifting when
+
+you're looking at
+multiple illegalities.
+
+Gray wasn't able to do so.
+
+Hounga and Les
+Laboratoires were.
+
+You can't negate
+liability, I would say,
+
+using the illegality defence
+
+to reduce the effect
+of criminal sanctions.
+
+That's the uplift. You
+can't sanction shifts.
+
+The victim of the train
+crash couldn't claim
+
+against the train company for
+
+losses arising from
+his criminality,
+
+even though it had caused
+the mental health,
+
+which led to the actions
+that he subsequently took.
+
+In Hounga and Les Laboratoires,
+
+I'd say we've got some
+policy reasons at
+
+play for allowing
+the application,
+
+even though there
+is some illegality
+
+on both parties in
+those instances.
+
+Then we get a little bit more
+clarity, Patel and Mizra,
+
+and this one's
+more recently been
+
+cited with some good authority.
+
+But in this case, it's
+not a tort case at all,
+
+but I do think it gives
+
+clarity on the defence
+of illegality.
+
+The claimant and
+the defendant in
+
+this instance had entered
+into an illegal contract.
+
+The claimant had paid
+money to the defendant,
+
+which the defendant
+was then supposed to
+
+use to bet on the
+price of shares.
+
+It was a little bit of
+insider trading going on,
+
+insider dealing,
+which is illegal.
+
+The defendant then
+didn't actually get
+
+the information needed to
+put the plan into action,
+
+so actually didn't go ahead
+and purchase the shares.
+
+The claimant therefore said,
+
+"Well, I want my money back."
+
+The defendant said, "No,
+you can't have it back."
+
+The claimant sued the defendant.
+
+The question was, could
+the defendant use
+
+the claimant's
+illegality in being
+
+involved in this
+illegal transaction
+
+as a defence to the claim?
+
+It was held that the
+defendant couldn't.
+
+The claimant was entitled
+to his money back,
+
+but the nine judges
+in the case had
+
+different reasons as to why.
+
+My own view is this was
+a joint enterprise case.
+
+This was a little bit
+like Pits and Hunt,
+
+but unlike in cases
+of negligence where
+
+neither the claimant or
+
+the defendant ever
+really benefit,
+
+so where both are injured or
+
+worse in the commission
+of an offence,
+
+in taking the money and in
+refusing to give it back,
+
+the defendant here benefited
+from the illegality.
+
+I think that was a key
+reason in this instance.
+
+As I say, it's a case based on
+
+contract or a restitution case.
+
+It is distinctive from
+
+the other three cases
+we've looked at.
+
+But it relates, I would
+say to the state,
+
+should I say, the general
+
+approach to the
+illegality defence.
+
+Lloyd Hoffman in
+Gray is relied on.
+
+The court was slit 6-3
+based on how to approach
+
+the conclusion and we'll start
+
+our next lecture at this point,
+
+looking at those three reasons
+that were given and have
+
+recently been cited with
+
+approval again by
+the Supreme Court.
+
+Thank you very much, everyone.
+

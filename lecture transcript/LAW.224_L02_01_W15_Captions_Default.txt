@@ -1,0 +1,3101 @@
+FEMALE_1: All right.
+Hi, everybody.
+
+So we are continuing where
+we left off last time,
+
+so we're still carrying on with
+
+our look at private nuisance,
+
+which is the second of
+
+the land-based torts
+that we're looking at.
+
+So we looked at trespass.
+
+We'd had this brief
+introduction to
+
+private nuisance by
+way of reminder,
+
+some comparisons
+of it as well with
+
+the other land torts
+that are noteworthy,
+
+before we go through
+
+the elements of establishing
+the tort as well.
+
+Just a reminder for
+those of you who
+
+are here, make sure
+you've checked in.
+
+Just a reminder to check
+in when you are present.
+
+We'd finished and I just
+
+said that the statutory
+frameworks for
+
+things like
+environmental nuisance
+
+are obviously now in play today,
+
+but we don't really look
+at those on this module,
+
+but be mindful,
+be aware of them.
+
+Private Nuisance is obviously
+a tort of the common law,
+
+we use the common
+law to apply it,
+
+but at other times other
+legislation might be
+
+helpful depending on the nature
+
+of the nuisance that's
+being generated.
+
+So just a reminder of some of
+the things we talked about,
+
+hopefully this slide
+helps with some of that.
+
+Private nuisance is an
+action only in tort,
+
+so it's not criminal and
+
+we can compare that
+to public nuisance,
+
+which we'll come to,
+which is more of
+
+a special remedy and public
+nuisance is criminal.
+
+An interest in land is required
+to actually take action,
+
+and it's tighter
+than the interest in
+
+land that we had for trespass.
+
+A claimant's got to have a
+proprietary interest to bring
+
+a claim in private
+nuisance and we'll talk a
+
+little bit more in a second
+about what that actually is.
+
+Private nuisance
+as well, I'd say,
+
+distinct from public nuisance
+
+in ways other than criminality,
+
+as we'll see, unlike
+trespass to land,
+
+which we know is
+actionable per se,
+
+it's actionable in
+the absence of harm.
+
+Private nuisance is
+not actionable per se.
+
+There's got to be some
+legally recognised damage
+
+in order to make a claim
+in private nuisance,
+
+whether that's immunity damage,
+
+so that's use and
+interference, should I say,
+
+with the use and enjoyment
+
+of the claimant's
+land or perhaps
+
+physical damage and
+sometimes you might
+
+have both as well.
+
+Private nuisance is quite
+a narrow land-based tort
+
+in the sense that
+
+the remedy that is available is
+
+very focused on protection
+of the land itself.
+
+Even though it's got to do
+with how people are using it,
+
+it's very much about the land.
+
+Personal injury, as we'll see,
+
+is not recoverable
+in private nuisance
+
+because personal injury has
+nothing to do with the land.
+
+That would be a different
+type of claim that you'd
+
+probably bring in negligence
+for personal injury.
+
+And so personal injury is not
+
+recoverable in private nuisance.
+
+Then this was the bit where I
+
+had hoped we'd have
+got to last time.
+
+I'm not doing too bad. Three
+minutes into this lecture.
+
+It was just some
+additional reading just
+
+to suggest where else
+
+you can go for some further
+information on this.
+
+Obviously, your
+textbook and I've
+
+given you the relevant sections
+of the chapters there,
+
+and then obviously, have
+a look at the cases that
+
+are on the reading list
+that we give you as well.
+
+Of course, there'll
+be some reading for
+
+your workshop on the
+land-based torts, too.
+
+I just want to
+
+remind us again of the
+elements of the tort.
+
+We are talking about
+something that is
+
+an indirect continuous
+interference
+
+with the use and enjoyment
+of another's land.
+
+It's got to be an
+unreasonable interference,
+
+so it's got to be beyond
+just mere inconvenience.
+
+And even reasonable uses of
+
+land may indirectly
+affect your neighbour.
+
+But it's got to
+reach a threshold
+
+of unreasonable use in order
+
+for there to actually
+be an actionable tort
+
+and we'll have a look at
+some examples shortly.
+
+As I say, you've
+got to have damage.
+
+But the standard for meeting
+
+the criteria for damage with
+
+private nuisance
+is not rigorous.
+
+In the sense that we're going to
+
+meet at least one case where
+
+risk of damage has been accepted
+
+as opposed to actual damage,
+
+but there's got to be harm,
+
+or there's got to
+be risk of harm to
+
+someone's immunity or
+to their property.
+
+The court dealing
+with private nuisance
+
+these are claims
+between individuals.
+
+The court in private
+nuisance is really trying to
+
+balance the interests
+of neighbours.
+
+Each person's rights
+in their own home,
+
+each person's right to use
+
+their own property
+as they see fit.
+
+So you're looking
+for substantial,
+
+that's the threshold
+of inconvenience.
+
+You're looking for a
+substantial interference
+
+with use and enjoyment of land.
+
+In a problem question that's
+about private nuisance,
+
+as you'll see when we
+get to your workshops,
+
+you need to do a full
+analysis of unreasonableness.
+
+You'll want to think about
+
+causation and
+remoteness as well,
+
+which you're more familiar with.
+
+Usually, if there's a
+substantial interference
+
+with somebody's
+use and enjoyment,
+
+if it's unreasonable, causation
+and remoteness usually
+
+follow quite easily in
+these types of case.
+
+If you are behaving
+unreasonably with your land,
+
+but you're not actually
+causing any damage,
+
+then there's no liability.
+
+It's similar to negligence
+
+in that way, but
+they're not the same.
+
+Obviously, you'll sometimes see
+
+discussions of remoteness
+in private nuisance claims.
+
+Even though causation might be
+
+straightforward, if
+you cause damage,
+
+there can be questions about
+
+whether the type of
+damage is too remote.
+
+But again, as you'll
+see, sometimes it's much
+
+easier to establish than
+it often is in negligence.
+
+So we're going to start by
+
+going through each of
+these elements and
+
+we start with who can
+
+actually make a claim because
+I've already told you,
+
+there's got to be a
+proprietary interest.
+
+Who is our claimant? This is
+
+where we get into
+some of the case law.
+
+Private nuisance requires the
+claimant to have standing.
+
+They've got to have locus standi
+
+to actually bring a claim.
+
+Standing means that
+the claimants got
+
+to have exclusive possessory
+
+or a proprietary interest
+
+in the property that they say
+is being interfered with.
+
+It comes back to that idea that
+
+this is a land-based tort.
+
+It's about controlling
+interests in property,
+
+which is obviously
+the definition
+
+earlier on in the slides.
+
+The leading case which confirms
+
+standing is this case of
+Hunter and Canary Wharf.
+
+Canary Wharf in London,
+
+it's the buildings with
+the pyramids on top,
+
+the one that you can see in
+the middle of the screen.
+
+When Canary Wharf
+was built in London,
+
+residents who were in nearby
+apartments started to notice
+
+interference and
+loss of access to
+
+their television signals as
+
+a result of these buildings
+that sprang up next to them.
+
+TV obviously all used
+to work on aerials.
+
+It wasn't satellite
+in the same way.
+
+A bird landed on your aerial,
+
+that would often interfere
+with your TV signal,
+
+high winds, you'd get that
+black and white fuzziness,
+
+which you may or
+may not remember.
+
+But it all used to
+work on aerials.
+
+Some of those residents
+who were having
+
+their television signals
+interfered with,
+
+they brought claims in private
+nuisance and they said,
+
+we are experiencing an
+indirect interference which is
+
+affecting the use and enjoyment
+
+of our property because we can't
+
+watch television in peace.
+
+The House of Lords
+looked at two issues.
+
+They said, is interference with
+
+a television signal
+the right interference
+
+that private nuisance
+can address?
+
+Is this even something
+that the tort can
+
+address and do the
+claimants have standing?
+
+If you're the owner
+of a property or
+
+you have a proprietary
+interest in the property,
+
+then you can bring a claim
+in private nuisance.
+
+But those who don't have
+proprietary interests,
+
+that would be people
+like children, spouses,
+
+partners, maybe if they're not
+
+named on the property, lodgers,
+
+for example, they do not have
+
+a proprietary interest
+to bring a claim.
+
+That's why I say it's much
+narrower than trespass.
+
+Again, it's because
+it's about land,
+
+it's about injury
+to the property,
+
+if you think of it
+that way, rather
+
+than injury to the person.
+
+But there's some
+criticism of that.
+
+Take the other
+case that I've put
+
+on screen for you of
+Malone and Lasky.
+
+The claimant in this
+case was injured,
+
+but she was unable to rely
+on nuisance as the basis of
+
+her claim because she was
+
+a spouse and she wasn't
+
+named on the deeds
+of the property.
+
+Now, lots of people
+who are married today,
+
+Malone and Lasky 1907.
+
+Lots of people who
+are married today
+
+on their properties jointly,
+
+both their names are
+probably on the deed.
+
+But in this instance, her
+name was not on the property.
+
+Her husband was actually the one
+
+who could be said to
+have the locus standi.
+
+Her husband was the one with
+the proprietary interest.
+
+And what they said is, as well,
+
+she's also got other avenues
+under which she could
+
+claim that would be more
+suitable than private nuisance.
+
+It's not that we're
+rejecting her completely
+
+outright and leaving her
+with no access to justice.
+
+It's just that private nuisance;
+
+she does not have the local
+
+standby because she doesn't have
+
+a proprietary interest
+to make this claim.
+
+The court's reasoning
+for excluding others,
+
+those who do not have a
+proprietary interest,
+
+is that if you make a defendant
+
+pay multiple times for
+the same nuisance,
+
+so you pay each individual
+
+in a property for the nuisance.
+
+Then what they
+think is that that
+
+would overcompensate
+for the nuisance.
+
+Or actually what
+you're doing is you're
+
+reducing the damages that
+each person receives by
+
+sharing it among a
+number and that means
+
+the person with the
+proprietary interest
+
+is undercompensated, if you look
+
+at it from that perspective.
+
+The rationale for only
+allowing a claimant with
+
+exclusive possessory or
+proprietary interest
+
+to make a claim is that
+it's about the land.
+
+It's then about the owner or
+
+the person who has the
+proprietary interest only.
+
+Now, some of you may
+
+well be sat there thinking
+about the Human Rights Act,
+
+1998, under which you'll
+
+know everyone's got
+right to respect,
+
+obviously, for private and
+family life and home as well.
+
+How does that fit if
+
+we exclude certain
+people from claiming?
+
+How did the court rationalise
+
+limiting private
+nuisance in that way?
+
+The way they do it
+is they say, Well,
+
+right to private
+life and home is not
+
+attached to the
+proprietary interest.
+
+There's a bit of tension
+there with our human rights.
+
+But proprietary interest
+is what Hunter and
+
+Canary Wharf says that we've
+
+got to have in order
+to have standing.
+
+It does make it that little bit
+
+narrower than some of the
+other land-based torts,
+
+including trespass, that
+we've already looked at
+
+and some of the others that
+we'll come to as well.
+
+Even though something
+on its face
+
+might look like
+private nuisance,
+
+it might be that the
+claimant does not have
+
+standing to bring a
+claim in this tort;
+
+watch out for standing.
+
+I'm going to say,
+
+before you suggest
+a problem question
+
+that a claimant can pursue a
+claim in private nuisance,
+
+you've got to first
+make sure that
+
+that claimant can bring a
+claim in private nuisance.
+
+So make sure they've got
+the proper standing.
+
+Then, for any of you who are
+particularly interested in
+
+the human rights arguments
+
+and environmental laws as well,
+
+which we've skimmed over too,
+
+you might wish to
+read more about it in
+
+your textbook and
+that's at Chapter 18,
+
+and it's 18.4.3 for
+
+anyone who's particularly
+interested in that.
+
+There's a discussion
+at 18.4.3 of
+
+private nuisance
+and its interaction
+
+with the Human Rights Act.
+
+But I'm going to say
+that even though there's
+
+some very good academic
+argument about it,
+
+Hunter and Canary Wharf
+is the law of England
+
+and Wales on the standing that
+
+a person has to have
+to bring their claim.
+
+I don't propose to say
+more about it in lectures,
+
+but it could certainly that
+
+tension with the
+Human Rights Act.
+
+There's maybe something in
+
+there that you might be able to
+
+bring in and draw on
+in an essay question,
+
+depending on the nature of
+the question, obviously.
+
+I've seen some students
+inappropriate questions,
+
+take that human rights
+tension as an angle.
+
+One of their subheadings.
+
+But as I say, that
+depends obviously on
+
+the question that's being posed
+
+on whether that would
+be appropriate,
+
+but it's certainly a line of
+
+argument that you
+might want to make
+
+yourselves aware of. Okay.
+
+We know who our
+claimant is, then,
+
+someone with possessory
+or proprietary interests.
+
+Who's the defendant? This slide,
+
+I'm going to say, make a note,
+
+it might be a slide
+to come back to
+
+when we reach the
+end of nuisance,
+
+because you'll be able to attach
+
+these boxes to some of
+
+the cases that we're
+going to look at.
+
+But in short, I just wanted
+to have a brief look at who
+
+our claimant could pursue
+
+once you've decided
+they've got standing.
+
+Who are they going after?
+Who's the defendant?
+
+Well, the defendant
+the obvious one,
+
+creator of the nuisance.
+
+But it's got to
+do with the land.
+
+Have a look at the Hussein
+case that I've put on
+
+there to see what other
+types of claim might
+
+be possible when it's not
+
+land-based in the same way
+that private nuisance is.
+
+Occupier of land, that's
+another possible defendant,
+
+so you could approach
+the person who is
+
+permitting the
+nuisance to occur.
+
+You could pursue the
+owner or the landlord.
+
+Even if they're not present
+
+when the nuisance is occurring,
+
+then you may well
+be saying, well,
+
+they're the owner,
+they're the landlord.
+
+Therefore, they are
+authorising the nuisance.
+
+Like I said, there's
+
+some additional notes on
+that particular slide.
+
+I'm going to say,
+come back to it when
+
+you know more about the cases,
+
+to think about who was the
+defendant in those cases.
+
+Once you know that your
+claimant's got standing,
+
+and once you know who
+your defendant is,
+
+you've then got to
+consider what we
+
+actually mean by
+unlawful interference,
+
+and I've already given you some
+
+indication of what
+we mean by this.
+
+What do we mean
+unlawful interference?
+
+It's interference that is
+unreasonable in order to
+
+determine whether or
+not the defendant
+
+who creates the nuisance
+is unreasonable,
+
+there's a number
+of factors that we
+
+might need to think
+about and consider.
+
+I mentioned these on Monday,
+
+but you get them very
+clearly now on this slide.
+
+Locality is something
+that we're going to have
+
+to consider to determine whether
+
+the defendant is
+unreasonable or not.
+
+Locality is relevant.
+
+And only if you've got amenity
+damage and nothing else.
+
+If you've got physical damage,
+
+then locality is not relevant.
+
+But if your claim is just about
+
+interference with use
+and enjoyment of land,
+
+then the area where
+
+this is happening is
+going to be relevant to
+
+determine whether or not that's
+
+a reasonable or
+unreasonable interference
+
+with your use and
+enjoyment of land.
+
+But if you've got
+property damage as well,
+
+then locality is irrelevant.
+
+When assessing locality,
+you're looking at what is
+
+the nature of the area where
+this nuisance has arisen.
+
+Because what's a
+nuisance on a farm in
+
+the country is not
+
+necessarily the same
+in an industrial area
+
+or a residential area.
+
+You've got to think
+about the nature of
+
+the area where the
+nuisance is taking place.
+
+What's a nuisance in
+a residential area?
+
+Perhaps loud noises,
+vibrations during
+
+the day wouldn't
+be a nuisance in
+
+an industrial area
+in the same way.
+
+You've also got to
+look at your claimant.
+
+You've got to ask
+whether your claimant is
+
+sensitive in some way.
+
+For example, if you work
+
+nights and you need to
+sleep during the day,
+
+the fact that your neighbour
+is conducting very normal
+
+day-to-day activities like
+mowing the lawn once a week,
+
+that might disturb your sleep,
+
+but it doesn't mean you
+can get a remedy in
+
+private nuisance because they're
+
+not necessarily
+being unreasonable.
+
+You are perhaps
+unusually sensitive.
+
+Claimants can also be
+sensitive in other ways,
+
+in ways that other
+neighbours might not be.
+
+Let's say, as the claimant,
+
+you handle a particularly
+sensitive type of
+
+chemical that has
+to be maintained at
+
+a certain temperature and
+
+your neighbour's
+normal activity,
+
+which is not
+unreasonable in any way,
+
+affects you because it
+
+affects the temperature
+of your property.
+
+Let's say there's
+a furnace going
+
+next door in one
+business and you've
+
+got these chemicals next
+
+door that need to be kept
+at a certain temperature.
+
+A claim in private nuisance in
+
+those circumstances might
+not succeed because you
+
+are abnormally sensitive
+and the defendant
+
+is using their
+land in a way that
+
+is perhaps not unreasonable.
+
+Malice does what it
+says on the training.
+
+It means looking
+at whether or not
+
+your defendant has
+behaved maliciously.
+
+Did they behave
+in a way that was
+
+unreasonable because it
+was malicious in some way?
+
+You've also going to think
+about the duration and extent,
+
+which I hinted at last time.
+
+It reflects that need for
+continuous in private nuisance.
+
+The defendant doesn't need to be
+
+causing a nuisance 24/7,
+
+but a sufficient
+number of times or
+
+a sufficient number of times at
+
+odd hours, that's a nuisance.
+
+I gave you the example
+
+on Monday of the
+neighbour maybe who has
+
+a party every weekend
+versus the one
+
+who has a party for the
+birthday once a year.
+
+One's unreasonable, one is not.
+
+You've got to pass that
+threshold of inconvenience.
+
+The interference has
+got to be substantial,
+
+and a one-off event is not
+likely to be substantial.
+
+It's not likely to
+satisfy that threshold.
+
+Particularly if you
+think about it in terms
+
+of common and ordinary use.
+
+That's one of the
+questions that comes
+
+up in some of the
+more recent case,
+
+is the defendant's
+use of their land?
+
+Is it common and ordinary,
+
+and therefore, is it a
+reasonable use of land?
+
+I've added public
+interest because
+
+there are limits when
+
+a private nuisance
+claim can succeed.
+
+Again, it's that something
+
+you're bit more familiar with,
+
+perhaps with negligence
+law as well.
+
+A socially useful activity
+
+is maybe taking place next door,
+
+which maybe is interfering with
+
+your use and enjoyment
+of your property.
+
+Because it's a socially
+useful activity,
+
+because it's in the
+public interest,
+
+that might impose a limit on
+
+the remedy as opposed to
+
+the actual bringing of
+a successful claim,
+
+like the other elements of
+
+reasonableness might
+interfere with.
+
+Public interest
+sometimes impacts
+
+the remedy rather
+than the ability to
+
+succeed in a claim
+of private nuisance.
+
+When you're addressing
+a problem question,
+
+these are all things that
+
+should go into your analysis for
+
+private nuisance in order to
+
+determine the
+defendant's liability.
+
+But only those that obviously
+
+appear relevant on the facts.
+
+For example, if there's no
+suggestion on the facts
+
+that the defendant's
+behaving in a malicious way,
+
+then there's absolutely
+no need to consider that.
+
+If there's nothing to
+suggest that your claimants
+
+particularly sensitive
+for some reason,
+
+then there's no reason
+to consider that.
+
+You've got to be selective,
+
+but these are the
+things that would
+
+inform your analysis
+of whether or
+
+not a defendant is behaving
+
+in a reasonable or
+an unreasonable way.
+
+We're going to take a
+look at some cases to put
+
+these matters into
+context as well.
+
+Sturges and Bridgman,
+
+an old case, but a goodie.
+
+It concerned two neighbours.
+
+The defendant was baking
+out in the backyard.
+
+He ran a confectioner's shop,
+
+and he used a pestle and
+
+mortar to mix all the
+ingredients together.
+
+He and his father, before him,
+
+had done that same thing for
+something like 60 years.
+
+This was a
+long-running business.
+
+A doctor moved into the
+area and built a practise
+
+at the back of the property near
+
+the boundary line with
+the claimant's property.
+
+Effectively, building
+this consulting room
+
+adjacent to where the claimant
+
+utilised their pestle and
+mortar to make their goods.
+
+The noise from the baking,
+
+the noise from the use of the
+pestle and mortar disturbed
+
+the claimant in his practise,
+
+so he brought a claim in
+
+private nuisance against
+the confectioner.
+
+Defendant convection
+said, hang on a minute,
+
+claimant built their
+practise area next to me.
+
+I was carrying on my business
+long before he came here.
+
+The interference that's
+actually complained of
+
+by the doctor is
+noise and vibrations.
+
+It's an indirect interference.
+
+The damage that the
+claimant doctor was
+
+experiencing was
+immunity damage only.
+
+That's key when you're
+looking at locality,
+
+as we'll see in the next case.
+
+In determining
+whether or not it was
+
+an unlawful interference
+and whether
+
+the confectioner was an
+unreasonable user of his land,
+
+the court did look at locality.
+
+The key line from the case,
+
+which is often cited
+is that what would be
+
+a nuisance in
+Belgrave Square would
+
+not necessarily be
+so in Bermondsey.
+
+In other words, what would be
+
+a nuisance an expensive
+area of London,
+
+which is mainly residential,
+
+wouldn't be a
+nuisance in parts of
+
+London that are not quite
+so posh and expensive.
+
+Bermondsey at the time was
+known for its tanneries.
+
+It was known for leather
+making, lots of noise,
+
+lots of factories,
+chemical usage,
+
+lots of nasty smells.
+
+I suspect I've never looked,
+
+but I'm just going to
+suspect that property in
+
+Bermondsey is probably quite
+expensive now as well.
+
+That analogy probably
+doesn't work as well.
+
+But the court said in Sturges,
+
+coming to a nuisance
+was not a defence.
+
+The confectioner couldn't say
+
+because the doctor
+came to the nuisance,
+
+he couldn't rely on
+that as a defence.
+
+You'll know from land law
+
+the prescription means that you
+
+can acquire a right
+to do something,
+
+but you can't do that
+in terms of nuisance.
+
+The time on that,
+
+and when something
+becomes a nuisance,
+
+only starts to run
+from the point
+
+at which it becomes a nuisance.
+
+The confectioner was
+not able to rely on
+
+the fact that the
+claimant doctor
+
+had come to the nuisance.
+
+That nuisance had
+existed already in
+
+excess of 20 years
+
+because until it becomes
+a nuisance to somebody,
+
+you couldn't start to
+accumulate prescription rights,
+
+and no one, they said,
+
+is likely to withstand that
+nuisance for 20 years.
+
+What's a nuisance to
+one might not be to
+
+another neighbour who comes
+
+along as the doctor did here,
+
+and does something different
+with their own land,
+
+to maybe the previous neighbour.
+
+The claimant was successful.
+
+Then the doctor
+was successful in
+
+his claim for private nuisance,
+
+and he was granted
+an injunction,
+
+which as I say, is one of
+the remedies that you're
+
+looking for here to stop the
+nuisance from happening.
+
+St. Helen's Smelting,
+
+that's your go-to case when
+you're analysing locality.
+
+It concerned a fairly
+palatial estate
+
+with really beautiful gardens,
+
+and nearby there was
+a smelting plant,
+
+a large factory that's
+
+essentially doing
+really dirty work.
+
+The noxious fumes from
+
+that smelting plant
+would waft over,
+
+and sediment from the fumes was
+
+damaging the claimant's
+beautiful gardens.
+
+There was also some
+injury to cattle,
+
+as well and cattle or property.
+
+The claimant also said,
+
+in addition to the
+property damage
+
+and understandably so,
+
+I've also lost use and
+enjoyment of my garden,
+
+and the court said, Well,
+
+there's property damage as here,
+
+to plants, to trees, to cattle.
+
+They said locality is
+irrelevant in assessing
+
+whether or not the
+defendant is a reasonable
+
+or an unreasonable user of land.
+
+The fact of damage arguably
+
+tells you that the
+defendant is likely to
+
+be an unreasonable
+user regardless of
+
+the locale in which this
+nuisance is taking place.
+
+In St. Helen's Smelting,
+damages were awarded.
+
+That was all he asked
+for, incidentally.
+
+There was no mention of
+
+a request by the claimant
+for an injunction.
+
+They just wanted damages
+to put them back in
+
+the position that
+they would have been
+
+in to replace the cattle,
+
+replace the plants, etc
+that had been damaged.
+
+I suppose the other
+key thing that you
+
+might have noted
+here is that there's
+
+no suggestion that the
+
+factory or the confectioner
+
+in the Sturges and
+Bridgman's case.
+
+There's no suggestion
+that any of
+
+our defendants are doing
+anything negligent.
+
+No fault is involved here.
+
+All that matters
+is they are doing
+
+something that is causing an
+unreasonable interference.
+
+But you could also see
+that this could be a case
+
+where negligence might
+also be alleged.
+
+In St. Helen's Smelting,
+
+you can see that there might
+be potential there to allege
+
+negligence as well
+as private nuisance.
+
+Negligence being
+you are allowing
+
+dangerous substances to
+emanate from your property.
+
+It just wasn't brought in
+that particular claim.
+
+It proceeded solely
+on private nuisance.
+
+But just another example,
+
+sometimes you might have more
+than one basis of claim,
+
+and you've to pick
+which is the best,
+
+and they obviously decided
+
+private nuisance was
+the best one here.
+
+This case of St. Helen's,
+
+again, you can tell
+from the date,
+
+it's around the time of
+the Industrial Revolution,
+
+this boom period of industry and
+
+development in the world.
+
+There weren't statutes to
+
+address these environmental
+nuisances like we've got now.
+
+If it was a modern
+smelting plant,
+
+there would be
+environmental assessments,
+
+there would be
+planning permissions.
+
+Even though in a case
+like this today,
+
+you might find a claim
+in statute as well.
+
+St. Helen's and cases like it is
+
+still good law in
+private nuisance claims,
+
+even if there might be other
+avenues that a claimant
+
+might be able to pursue
+using legislation.
+
+St. Helen's Smelting locality.
+
+It confirms for us
+that locality is not
+
+relevant where you've
+got property damage.
+
+If the claim had just
+been for ammunity damage,
+
+let's say claimant builds
+a new house next to
+
+an industrial site and
+
+noise interferes with
+the claimant's use
+
+and enjoyment of the property.
+
+Then the court would
+probably consider
+
+that it's a mixed-use
+neighbourhood,
+
+and so they might consider
+the locality to actually
+
+determine the reasonableness of
+
+the activity going on there.
+
+But even if you're in a
+mixed-use neighbourhood
+
+and you cause property damage
+
+to somebody else's property,
+
+then the locality
+in which that is
+
+taking place does not make
+
+a difference to the assessment
+
+of the defendant as
+an unreasonable user.
+
+As I say, where there's
+property damage,
+
+it's more likely
+that the defendant
+
+will be found to
+be unreasonable.
+
+But if you've got
+immunity damage
+
+only interference with
+use and enjoyment,
+
+then locality becomes much more
+
+important to your assessment.
+
+Gillingham and Medway, the
+first case on there, 1993,
+
+that is no longer good law,
+
+but we use it to show the
+change in the law for you.
+
+It used to be that planning
+permission was decisive
+
+on the character of
+
+the neighbourhood or on what
+
+the character of the
+neighbourhood was or should be.
+
+If you receive
+planning permission
+
+to build a new housing estate
+
+next to an industrial plant,
+
+then the planning permission
+
+would change the character
+of the neighbourhood.
+
+It would go from
+industrial to mixed-use.
+
+But using planning
+permission as being
+
+the decisive factor was
+
+quite problematic and it
+was tough on claimants,
+
+particularly because if the
+planning permission existed,
+
+then around the time of
+Gillingham and Medway,
+
+it could potentially bar a claim
+
+on the basis that
+the court would take
+
+the view that all these issues
+
+about this being a mixed
+use neighbourhood,
+
+what would be the interference?
+
+What should the
+levels of noise be?
+
+The court took the view
+that all those issues
+
+had been ironed out
+
+in the planning stages by
+the local councils and
+
+that was not always
+the case because
+
+there's very little
+transparency and
+
+accountability with
+planning permission.
+
+If it becomes decisive like
+it seemed to initially,
+
+then it's not fair.
+
+It can be relevant,
+
+but it's not decisive,
+
+and that's the clarity that
+
+came in Coventry and Lawrence.
+
+It's one relevant
+factor to consider.
+
+Coventry and Lawrence was about
+
+a motor racing track that had
+been in place for decades.
+
+You can see if you
+have a look at
+
+the judgement that before
+
+the neighbouring
+residents brought
+
+their claim under
+private nuisance,
+
+they'd actually
+made complaints to
+
+the local council and
+the local council had
+
+actually taken action under
+
+environmental
+legislation as a result
+
+of those complaints,
+
+that has resulted in
+
+the owners of the
+motor racing track.
+
+Taking certain actions to
+limit the noise and to
+
+limit the impact on their
+residential neighbours.
+
+But the residents
+still complained.
+
+They complained about the noise,
+
+they complained
+about the traffic,
+
+the amount of traffic going to
+
+racing these things
+to watch these races.
+
+What they were
+essentially claiming
+
+for was immunity damage.
+
+We know if you're claiming
+for immunity damage,
+
+you've got to consider locality.
+
+The court said, the fact that
+
+the motor track had planning
+permission was not decisive,
+
+but it was a relevant factor.
+
+It was informative in
+considering unreasonable use.
+
+What they did here though
+in the Coventry case,
+
+as well as focusing
+on the locality,
+
+they also considered
+that social utility.
+
+They considered the social
+benefit of using the track,
+
+the community benefit of it all.
+
+The court didn't order
+
+a complete cessation of
+activities at the site.
+
+They went with damages in
+lieu of an injunction to
+
+reflect the nuisance that the
+residents were suffering,
+
+but also to allow the activity
+
+to continue because
+the defendants they
+
+found had done all
+they could to actually
+
+minimise the interference
+to the residents.
+
+A remedy there, if
+not a total solution
+
+for those who felt that
+
+their use and enjoyment
+had been interfered with.
+
+Sensitivity, as I say,
+
+and this is more about the
+claimant than the defendant.
+
+You've got to question
+whether your claimants
+
+abnormally sensitive.
+
+It's another way, I suppose
+in determining whether
+
+the defendant's acts are
+
+unreasonable and causing
+substantial interference.
+
+But because we're
+looking at the claimant,
+
+it's a slightly different focus.
+
+But we're still questioning,
+
+is what the defendant's doing
+causing the interference,
+
+would it cause
+interference to others,
+
+or is it just that this
+claimant is sensitive?
+
+Robinson and Kilvert is
+a case that's useful.
+
+The claimant stored special
+paper in a warehouse.
+
+In a neighbouring and
+immediately adjacent warehouse,
+
+the claimant and
+the defendant had
+
+shared walls and floors,
+
+the defendant occupiers
+made cardboard boxes.
+
+You think they go together,
+
+special paper, cardboard boxes.
+
+The problem is
+that the making of
+
+the cardboard boxes required
+the use of heat and glue.
+
+The defendants' use of
+
+their own warehouse
+was not unreasonable.
+
+Their activities were
+common and ordinary.
+
+Although they were generating
+heat from their activities,
+
+what the court found
+was it wouldn't
+
+have affected anyone else.
+
+It wouldn't have
+affected someone who
+
+wasn't storing special paper.
+
+The claimant was saying it
+was the defendant's use of
+
+the heat that was damaging
+the special paper,
+
+but it was very clear that
+nobody else suffered harm.
+
+What they said is,
+it wasn't so hot,
+
+the heat that was
+being generated,
+
+to interfere with use and
+enjoyment of the space
+
+or to cause damage to anything
+
+else other than
+the special paper.
+
+Because your claimant in
+
+Robinson Kilvert was
+abnormally sensitive,
+
+the court said it actually comes
+
+down to the claimant to protect
+
+their sensitive goods.
+It's time to drink water.
+
+In some instances like this,
+
+where a claimant is
+abnormally sensitive,
+
+it might be up to
+the claimant to
+
+actually mitigate the effect of
+
+the defendant's
+activities rather
+
+than the defendant to
+curtail what they're doing.
+
+The claimant was
+actually unsuccessful in
+
+this claim for private nuisance.
+
+But I'm going to say,
+as we'll see in one of
+
+the more recent nuisance cases,
+
+that it's not a defence to
+
+say that the claimant
+could or should
+
+mitigate the impact of the
+defendant's use of the land.
+
+But where a claimant
+is abnormally
+
+sensitive and the
+defendant, as here,
+
+is doing nothing out
+of the ordinary,
+
+then it might apply to determine
+
+whether or not your defendant
+is an unreasonable user.
+
+It's not every case
+where the claimants are
+
+expected to do something
+to mitigate the impact.
+
+The case of Network
+Rail and Morris also
+
+concern the question of
+sensitivity of the claimant.
+
+But it's also an interesting
+case on the issue
+
+of remoteness in
+nuisance as well.
+
+I said, whilst
+often causation and
+
+remoteness can be
+dealt with quite
+
+quickly, in some instances,
+
+further discussion is
+warranted and often that
+
+further discussion is on
+
+this particular
+issue of remoteness.
+
+I suppose you could say
+remoteness was also
+
+an issue in Robinson
+and Kilvert as
+
+well because would
+it be foreseeable to
+
+someone carrying
+out the activities
+
+that the defendant
+was carrying out?
+
+Would it be foreseeable
+that they could cause
+
+damage to the neighbour's
+store of special paper?
+
+Probably not, because
+ordinary paper wouldn't
+
+have been affected obviously by
+
+the activities and
+use of their land.
+
+But Network Rail is different.
+
+A guitar teacher in
+Network Rail had created
+
+a recording studio and
+
+stored sensitive electrical
+equipment within it.
+
+His property neighbed
+a railway line and
+
+at some point in
+time, Network Rail,
+
+who owned the line installed
+
+some new equipment on the
+railway and that new equipment
+
+emitted an electrical
+interference and that
+
+electrical interference
+interfered with
+
+the electric guitars in the
+claimant's recording studio.
+
+The court determined
+that the harm that was
+
+caused by Network Rail's
+activities was too
+
+remote for the railway
+to foresee because
+
+the claimant's equipment
+was so specialised.
+
+The particular type of
+
+harm that the claimant
+experienced here
+
+was too remote and the
+defendant couldn't see it.
+
+Here again, the court
+
+placed the responsibility
+on the claimant to
+
+protect their own equipment
+
+because the claimant was
+abnormally sensitive,
+
+but they did it more on
+the basis of remoteness,
+
+whereas Robinson in Kilvert was
+
+more about unreasonable use.
+
+The leading judgement in
+
+Network Rail with
+which the other judges
+
+agreed found the claimants
+abnormally sensitive,
+
+but there were some
+orbiter comments there by
+
+Lord Justice Buxton and
+they're quite interesting
+
+to read because he rejected
+this idea of abnormally
+
+sensitive and he felt it was
+
+quite outdated because he said,
+
+the claimants use here,
+
+really, setting up
+a recording studio,
+
+lots of different types
+of electric guitars,
+
+it's not particularly
+abnormal these days.
+
+Instead, he felt that
+foreseeability as an aspect of
+
+reasonableness is
+what was important in
+
+determining whether
+or not the defendant
+
+was an unreasonable user.
+
+I took slightly
+different angle to it.
+
+It's quite interesting is
+
+Lord Justice Buxton's orbit of
+
+comments in that
+particular case.
+
+I should add that
+
+if you're thinking
+about foreseeability,
+
+if you're thinking
+about remoteness,
+
+you can use the same case law
+that we do in negligence,
+
+so you can use the
+Wagon Mound case.
+
+Numerous judgments,
+including this one,
+
+have made clear that
+
+the Wagon Mound case is
+equally applicable to
+
+nuisance when you
+are considering
+
+whether or not damage
+is too remote.
+
+Malice as another of the
+criteria to consider,
+
+it's dealt with very
+straightforwardly.
+
+Again, I'm going to remind you,
+
+if there's no hint of malice
+in a problem question,
+
+then you don't need
+to consider it,
+
+only consider it
+where it seems that
+
+the defendant is doing something
+particularly malicious.
+
+Our leading example case that
+
+I've put on screen for
+you is Christie Davey,
+
+and the image gives
+you an indication of
+
+what both of these
+parties were up to.
+
+The claimant was a music teacher
+
+taught lessons at home
+during normal working hours,
+
+and her kids also
+practised at night,
+
+sometimes very musical family as
+
+well as teaching other
+people's children,
+
+her neighbour, the defendant
+complained about the noise.
+
+The court quotes from some of
+
+the correspondence between them
+
+and it's rather
+amusing judgement.
+
+If you want a bit of a giggle,
+it's worth having a read.
+
+But I do have to say,
+
+having lived next
+door to somebody,
+
+learning the recorder
+in recent years,
+
+I feel a little bit for the
+defendant in this case.
+
+The claimant said,
+
+I was just playing
+music at normal hours,
+
+but he then started to bang pots
+
+and pans to interrupt
+my lessons.
+
+It's actually the
+music teacher who
+
+brings the claim
+against her neighbour.
+
+He counterclaimed
+in private nuisance
+
+saying it was she that
+was the nuisance.
+
+She's the one playing
+music all the time.
+
+That's interfering with my use
+and enjoyment of the land.
+
+She said, yes, but you
+are banging pots and pans
+
+to interfere with my use and
+enjoyment of my property.
+
+The court found that she
+
+was actually behaving
+reasonably in
+
+running lessons in
+the way that she
+
+was in using her home
+the way she was,
+
+and it was the defendant
+who ended up with
+
+the only injunction in
+
+that case against him
+really for his behaviour.
+
+Malice was obviously a factor
+
+that the court were considering
+
+in deciding whether
+or not the defendant
+
+who was banging
+his pots and pans,
+
+whether or not he
+was reasonable or
+
+unreasonable in his
+use of the land.
+
+He said he was playing
+his own instrument,
+
+but that just didn't fly
+with the judge at all.
+
+A bit of a fun one.
+
+Not so fun if other parties
+involved, but like I said,
+
+some correspondence is quoted
+
+and it's rather entertaining.
+
+Time and duration:
+time and duration
+
+is also really important,
+as I've said before.
+
+What time is the nuisance
+occurring and for
+
+how long has that situation
+actually continued?
+
+In this case of Halsey and Esso
+
+and in terms of our
+interest at this time,
+
+only in private nuisance,
+
+the claimant complained
+of noise from
+
+boilers at the
+defendant's premises.
+
+They said these
+boilers are going
+
+at all hours of the night.
+
+They also said there's trucks
+
+driving through a mixed
+use neighbourhood,
+
+mainly residential all
+through the night,
+
+to and from the
+defendant's premises.
+
+The defendant was
+found liable in
+
+private nuisance in respect to
+
+the noise from the boilers.
+
+Among other things,
+
+public nuisance in relation
+to the trucks that were going
+
+past every night because they
+
+said that's obviously when an
+
+ordinary person is sleeping.
+
+I'm going to say Halsey and
+Esso is a really good case
+
+to look at once we've considered
+
+all the other land
+based torts because you
+
+can actually see the interaction
+
+of the different
+land based torts and
+
+how one element was
+private nuisance,
+
+one element was public nuisance.
+
+There's also the operation of
+
+the Roland Rylands and
+Fletcher discussed as well.
+
+We've got three torts
+going on in this instance.
+
+Make a note, as I say,
+
+to have a read of it in
+full at a later time.
+
+Then I think we've got time.
+
+We have. We've got some time to
+
+make a start on looking at this.
+
+We've got two of the more
+recent cases to look at
+
+in the next number of slides.
+
+They've arguably
+developed the law
+
+in this area quite a bit,
+
+taking it somewhat further
+
+and particularly
+taking it further in
+
+relation to our assessment of
+unreasonable interference,
+
+which causes immunity damage,
+
+so interference with claimants
+
+use and enjoyment of property.
+
+This first case is another
+Network Rail case,
+
+Network Rail and Williams.
+
+It's a case which concerns
+
+an invasive plant species
+called Japanese Knotweed.
+
+If you're not familiar with it,
+
+this particular
+plant or weed has
+
+very deep and very strong roots
+
+that spreads really quickly.
+
+It's a concern for homeowners
+
+because if it's left unattended,
+
+it can undermine the foundations
+of nearby properties.
+
+It's particularly
+difficult to get
+
+rid of Japanese Knotweed
+once you've got it.
+
+In fact, what you need
+is a specialist to come
+
+in to treat it regularly
+for a number of years,
+
+and it can affect quite a lot of
+
+things like home insurance,
+
+sale of your home,
+
+if you've got it, and you might
+
+need indemnities and
+things like that.
+
+Two neighbours, whose
+property backed
+
+onto a railway
+line and therefore
+
+Network Rail land brought a
+claim in private nuisance.
+
+They'd identified
+Japanese Knotweed on
+
+Network Rail's land close
+
+to the boundary
+with their fencing.
+
+It was on the other
+side of the fencing,
+
+but they'd spotted it
+on Network Rail's land.
+
+They said the presence of
+
+the Japanese Knotweed was
+interfering with their use and
+
+enjoyment of their
+property and was liable to
+
+cause a diminution in
+value of their properties.
+
+Presence of the
+Knotweed they said is
+
+within so many
+feet of our homes.
+
+It's something that we
+would have to declare if we
+
+ever sold our properties
+and it would impact,
+
+they said on sale if we were to
+
+sell and they said that
+was causing them upset.
+
+That worry that concern was
+
+interfering with their use
+
+and enjoyment of
+their properties.
+
+There's actually no damage
+to land at the time they
+
+bring the claim
+because the Knotweed
+
+was not yet on their land.
+
+Eventually though, they were
+
+successful in achieving an award
+
+of damages in private nuisance
+
+for their loss of
+use and enjoyment.
+
+But it was damages which
+
+reflected the diminution
+in market value.
+
+Even though the court couldn't
+actually make an award for
+
+pure financial loss in nuisance,
+they got around with it.
+
+They said, the Knotweed
+
+may well never interfere
+with their property.
+
+Network Rail were
+made aware of it,
+
+they would address it.
+
+But the wary of what it
+
+might do and that it
+could affect sale,
+
+the court accepted that
+
+was interference with
+use and enjoyment.
+
+The court got quite
+creative with
+
+trying to award the
+claimants immunity damage.
+
+They said, we can't
+actually give you
+
+an award for
+diminution in value,
+
+but we accept that this
+concern has affected,
+
+so affected your enjoyment
+that we can see that it's
+
+immunity damage and we're
+willing to make an award.
+
+Immunity damage was treated,
+
+really flexibly in this case.
+
+Doubtedly calls these types of
+
+cases examples of
+legal gymnastics.
+
+Essentially, the
+court trying to get
+
+a fair resolution even where
+
+the law doesn't
+really allow for it.
+
+I think that's quite
+a good description.
+
+The approach in Network
+Rail and Williams
+
+was a new take on immunity
+damage that we've not seen
+
+before because it effectively
+made this award for a risk
+
+of possible future property
+damage or financial loss,
+
+but it decided it on the basis
+
+of immunity damage,
+and it's of course,
+
+a decision that you can
+rely on if you've got
+
+a risk of harm as
+opposed to actual harm.
+
+I give us a brief
+introduction to this one.
+
+We've got a few minutes left
+and then you'll see it.
+
+Jumps across a few slides that
+
+I'm going to let you read
+in your own time as well.
+
+But the second of
+
+the more recent cases in this
+area of private nuisance,
+
+is this one a Fearn
+and Tate Gallery.
+
+You might have seen
+it in the news.
+
+It might be ringing a
+bell with you because it
+
+was on the news quite
+a bit at the time.
+
+The Tate modern for
+those who don't know,
+
+it's an art gallery situated
+in London and part of it,
+
+is the brown building
+that you can
+
+see on the left of your screen.
+
+The Tate gets approximately
+
+5.5 million visitors every year.
+
+In 2016, they opened
+a viewing platform,
+
+which you can see at the top of
+
+the building with the
+pillars running along it.
+
+They said about 5-600,000
+
+visitors per year would
+visit that viewing gallery.
+
+If the 5.5 million visitors,
+
+about 5-600,000 would go
+on to the viewing gallery.
+
+A number of residents in the
+flats that you can see in
+
+the triangulated building
+opposite objected to it.
+
+They objected to the
+viewing gallery.
+
+Why? Because people
+who were visiting
+
+this platform were
+taking photographs.
+
+Photographs that they
+were then posting on
+
+social media and they were
+even waving at residents.
+
+They were that near. They
+could see into the flats.
+
+They had a view directly
+into the flat owners homes.
+
+Four flats in particular
+were in direct view
+
+of that viewing platform
+and Fearn was one of them.
+
+They all brought their claims
+
+together through
+private nuisance.
+
+By virtue of inviting people
+
+onto the viewing
+platform, they said,
+
+this is a private
+nuisance that has been
+
+created by the Tate Gallery,
+
+and they wanted an injunction.
+
+They wanted the
+viewing platform gone.
+
+If the court
+wouldn't grant that,
+
+then they asked for damages
+in lieu of the same.
+
+Initially, the high court
+
+dismissed the claim on
+the basis that they
+
+said the Tate's use of
+
+the viewing platform was a
+common and ordinary use.
+
+As I say, you find that criteria
+
+mentioned in a lot of cases.
+
+You find it mentioned as
+a means of effectively
+
+assessing whether or
+not your defendant
+
+is acting unreasonably or not.
+
+Is their use common
+and ordinary?
+
+If it is, it's maybe
+not unreasonable.
+
+But I'd say common and
+ordinary is maybe a little
+
+bit vaguer than reasonable.
+
+Does it help? I'm not sure.
+
+Because many defendants
+who are found
+
+liable in private
+nuisance are often not
+
+doing anything that's
+beyond the common
+
+and ordinary unless they may
+be behaving maliciously,
+
+but that's not often the case.
+
+Defendant in Sturges
+and Bridgman,
+
+our confectioner, not doing
+anything out of the ordinary,
+
+but it was still a nuisance.
+
+Network Rail and
+Williams not doing
+
+anything out of the ordinary.
+
+Some weed appeared
+on their land,
+
+it was still a nuisance.
+
+They were attending to it.
+
+I was still a nuisance.
+
+But this terminology,
+
+this terminology of common and
+
+ordinary use, as you'll see,
+
+when you read the case and
+I'm going to invite you to
+
+read the Fearn case is
+
+supported by the Supreme Court
+
+and it's caused some
+academic debate,
+
+but you'll find it used in
+other case law as well.
+
+It just seems idea of
+
+common and ordinary
+use seemed to have
+
+a really prominent use in Fearn.
+
+Having had their claims
+dismissed by the high court,
+
+the claimants went off
+to the Court of Appeal,
+
+and that's where
+we're going to leave
+
+it and we'll come back and we'll
+
+consider the Court of
+Appeal judgement next time.
+
+Have a lovely
+weekend, everybody.
+

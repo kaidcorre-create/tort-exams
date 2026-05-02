@@ -1,0 +1,2702 @@
+Dr. Sarah Gilmartin: Hi,
+everyone. We are moving on to
+
+consider Part 2 of our lectures
+on employer's liability.
+
+On Monday, we considered
+non-delegable duties,
+
+and we ended up looking at
+
+that case of arms
+and Nottinghamshire,
+
+which provided quite
+a nice link for
+
+a bridge into
+vicarious liability.
+
+We're going to take
+a little closer look
+
+at the case in today's lecture,
+
+but the focus is on
+
+this vicarious
+liability element under
+
+which we know the counsel were
+found liable in that case.
+
+The council were vicariously
+
+liable for the actions,
+if you remember,
+
+of the abusive foster carers,
+
+but they were not liable under
+the non-delegable duties.
+
+They could delegate that
+responsibility to others.
+
+What is vicarious
+liability then?
+
+It is a defendant's liability,
+
+for the actions or omissions or
+
+the torts of third parties.
+
+There is a relationship between
+
+your third party tortfeasor
+and your defendant,
+
+the person that you are holding
+responsible for the tort.
+
+It does mean that the
+defendant is held
+
+liable for the tortfeasors
+actions or emissions,
+
+even where it's not
+the defendant's fault.
+
+The relationship between them
+
+is what's actually
+key in this instance.
+
+If an employee is negligent,
+
+their employer will be
+held liable on the basis
+
+of vicarious liability for
+the employee's negligence.
+
+Now, that goes against
+the grain of what we
+
+know from all the torts
+that we've studied so far,
+
+where the tortfeasor themselves
+
+is the one that's held liable.
+
+There's these two
+predominant theories
+
+to explain vicarious liability.
+
+One is the master's tort theory,
+
+which says that the
+master stands in place of
+
+the servant and the other is
+the servant's tort theory,
+
+which says that the
+master is liable
+
+for the torts of his servants.
+
+You'll find it's quite
+old terminology,
+
+but you'll find a discussion
+in your textbooks
+
+and in your workshop reading
+on these theories as well.
+
+But arguably, it doesn't
+really matter which one
+
+applies because the
+result is still the same.
+
+They are theories
+which just try to
+
+justify or to explain the
+departure from the normal order
+
+of things whereby the
+tortfeasor themselves might
+
+actually escape being sued
+directly for their torts.
+
+The employee is still
+technically liable for the tort,
+
+but they are jointly liable
+with their employer,
+
+which means you can just
+pursue one of them.
+
+More often than not,
+it's the employer,
+
+not the employee that is
+pursued or that claims are
+
+brought against for torts
+in these situations.
+
+If you've got two
+potential defendants,
+
+how do we decide who's liable in
+
+the sense of how do we decide
+
+whether a defendant is
+
+liable or not for the
+torts of somebody else?
+
+It all rests on this
+relationship between them.
+
+The relationship between
+tortfeasor and defendant.
+
+This turn of phrase in
+
+the course of employment,
+that's what's key.
+
+Usually what you do
+on your own time,
+
+it's a matter for
+your own business.
+
+But if you do it in the
+course of your employment,
+
+then potentially your employee
+
+will be vicariously liable.
+
+It's also strict
+liability as well
+
+because no fault of the
+employer is needed.
+
+The employer doesn't have to
+have done anything wrong.
+
+We've got this quote on screen
+for you from Majrowski,
+
+Lord Nicholls said
+vicarious liability is
+
+a common law principle of
+strict no-fault liability.
+
+Under this principle,
+
+a blameless employer
+is liable for a wrong
+
+committed by his employee while
+
+the latter is about his
+employer's business.
+
+The time-honoured phrase is
+
+while acting in the
+course of employment.
+
+It is thus a form of
+secondary liability.
+
+The primary liability is that
+
+of the employee who
+committed the wrong.
+
+It's a rule effectively
+
+governing responsibility
+okay in tort.
+
+Academics argue about
+whether it's fair to hold
+
+an employer vicariously liable
+
+for their employees actions.
+
+The case of Majrowski itself,
+
+in this instance, the claimant
+said that his employer,
+
+which was the NHS Trust,
+
+were vicariously liable for
+the harassment that he'd been
+
+subjected to by other employees
+within the NHS Trust.
+
+He said the harassment
+
+from another employee
+in particular,
+
+his manager was a breach of
+
+Section 1 of the protection
+from harassment Act 1997,
+
+which you be familiar with.
+
+The Court of Appeal had earlier
+
+determined that
+employers could be
+
+vicariously liable for breaches
+
+by their employees under
+
+the Protection from
+Harassment Act.
+
+The trust appealed to
+
+House of Lords as it then
+was and they actually lost.
+
+The decision of the
+Court of Appeal were
+
+upheld and it was
+right they said that
+
+the trusts were
+vicariously liable for
+
+torts under the Protection
+from Harassment Act.
+
+Arguably, Majrowski
+could also have
+
+proceeded under
+non-delegate duties
+
+as well that we
+looked at last time,
+
+a bit like the case of W and
+
+Commissioner of police
+in the Metropolis,
+
+where the police officer
+
+was subject to bullying
+and harassment,
+
+the court in that case
+looked at that Wilson and
+
+Clyde Coal case to
+
+determine that the police
+didn't provide competent staff,
+
+didn't provide a
+safe system of work,
+
+and thereby had breached
+
+their duty of care and so
+they were personally liable.
+
+Majrowski could
+have been brought
+
+potentially on two grounds.
+
+But generally speaking, you
+
+proceed with vicarious liability
+
+where you've got three parties,
+
+where you've got a tortfeasor,
+
+a defendant, and a claimant.
+
+Majrowski was also a case
+on a point of principle.
+
+About whether the
+Protection from
+
+Harassment Act excluded
+vicarious liability.
+
+Could you hold somebody liable
+
+for harassment
+caused by another?
+
+Lord Nicholls said, employers
+
+are vicariously
+liable for wrongs,
+
+having a statutory source unless
+
+the statutory
+provision expressly or
+
+impliedly excludes
+such liability,
+
+and that it's by no
+means impossible
+
+to conceive of
+circumstances where
+
+an employer could be held to be
+
+secondarily liable for a course
+
+of conduct by an employee
+amounting to harassment.
+
+Incidentally, as I have
+mentioned the police again,
+
+and we're considering
+statutes too,
+
+note that under Section 88
+of the police Act 1996,
+
+the police force or the chief of
+
+police is vicariously liable
+for its police officers.
+
+It's Section 88 of
+
+the Police Act 1996 that says
+that your chief of police,
+
+which we know these claims
+
+are usually brought against him,
+
+some that we've
+already looked at is
+
+vicariously liable for
+its police officers,
+
+even though it's strangely not
+
+an employment situation
+in the traditional sense.
+
+I just want to consider further
+
+then the nature of
+the relationship,
+
+between the tortfeasor
+and defendant
+
+because a lot of
+these cases hinge on
+
+that in terms of who you
+sue employee employer,
+
+if we put it into the context
+
+that we normally
+come across this in.
+
+We should know at
+this stage that
+
+the law of vicarious liability
+has been on the move.
+
+The old view was that
+
+vicarious liability
+was only imposed in
+
+respect of torts that
+were committed by
+
+employees in the course
+
+of acts done in the
+course of employment,
+
+but it has moved with the times.
+
+Because the nature of
+employment has changed so much.
+
+More flexible hours,
+multiple locations,
+
+gig economy, temping,
+part time, freelancers,
+
+we're going to look
+at how this idea of
+
+vicarious liability
+and it's reach
+
+outside of the
+traditional contract
+
+of employment has
+actually developed.
+
+I said in the last lecture that
+
+both non-delegable duties and
+
+vicarious liability have been
+
+developing only over
+the last 20 years or so
+
+I gave a content notice
+
+because another reason why
+it's being on the move,
+
+is because of cases concerning
+
+sexual abuse being
+brought in contexts which
+
+don't traditionally
+fit the mould
+
+or fit what our notions
+of employment are.
+
+The old view is based on
+this, the Salmond test,
+
+which is named after the man who
+
+wrote one of the leading
+textbooks on tort.
+
+He said, an employee's
+tort will have been
+
+committed in the course of
+
+his employment if
+it was either A,
+
+a wrongful act authorised
+by the employee's employer.
+
+Or B, a wrongful and
+unauthorised mode of
+
+doing some act authorised
+by the employee's employer.
+
+Something the
+employer authorised
+
+or an employee doing something
+they shouldn't be doing,
+
+as a result of which a
+
+third party has
+suffered some harm,
+
+but in the course of
+employment is what's key.
+
+We then get a
+development of this.
+
+We get that development
+in this case
+
+of Lister and Hesley Hall in
+
+2001 and it's become
+
+commonly called this
+close connection test.
+
+It's one of those cases as
+well of historic abuse,
+
+which did develop the
+law in this area.
+
+Lister concerned
+a boarding house,
+
+which was attached
+to a school in which
+
+the claimants alleged
+that they'd been
+
+sexually assaulted
+by the warden.
+
+The claimants sued the
+defendant's school
+
+on the basis that
+
+the school were
+vicariously liable for
+
+the torts that had been
+
+committed or carried
+out by the warden.
+
+In Lister, it was said that
+
+an employee is held
+to have committed
+
+a tort in the course
+of his employment if
+
+that tort was so closely
+connected with his employment,
+
+that it would be
+fair and just to
+
+hold the employers
+vicariously liable.
+
+The employer in this instance,
+
+obviously the warden who
+managed the boarding house,
+
+there was no question that he
+was employed by the school.
+
+But of course,
+they didn't employ
+
+him to carry out these torts.
+
+But what they said is
+if the activity was
+
+closely connected to what
+he was employed to do,
+
+then the courts were prepared
+
+to hold him liable or
+hold the school liable.
+
+This was not a case
+where they could
+
+say the wrongful act was
+authorised by the employer.
+
+Obviously, it wasn't
+or that it was
+
+a wrongful mode of doing
+some unauthorised act.
+
+This was an employee
+using bleach
+
+when they should use drain
+cleaner or anything like that.
+
+The wrong he committed,
+
+the crime was completely
+
+outside the scope
+of his employment,
+
+his responsibilities and
+
+any authorization
+of the employer.
+
+This idea of close connection
+
+starts to develop
+and the court said,
+
+having regard to
+the circumstances
+
+of the warden's employment,
+
+including the close contact with
+
+the pupils and the
+inherent risk involved,
+
+the inherent risk
+being a place of
+
+employment where vulnerable
+people were present.
+
+Or were entrusted
+to a person's care,
+
+they said there was a
+sufficient connection
+
+between the work he'd been
+employed to do and the
+
+acts of abuse that
+he'd committed for
+
+those acts to be
+regarded as having been
+
+committed within the scope
+of his employment and
+
+the defendant should be held
+vicariously liable for them.
+
+Where the act carried out is so
+
+closely connected
+to the employment,
+
+vicarious liability
+can apply if it's
+
+fair and just to make
+the employer liable.
+
+Lord Steyn in this case,
+
+made mention of this being
+
+a development from negligence
+
+as well to intentional
+wrongdoing.
+
+Linking intentional wrongdoing
+and vicarious liability.
+
+It was a reflection
+of some events that
+
+were happening at the time
+
+that were in the
+media quite a lot.
+
+At the time of this
+particular case,
+
+there was starting to
+be a lot of sadly,
+
+historic child abuse scandals
+
+coming into the
+public knowledge.
+
+Maybe it was influential in
+
+the way the court
+developed these tests.
+
+But that close connection test,
+
+that idea from Lister and
+
+Hesley Halls been the
+subject of some criticism.
+
+Not least for similar reasons
+
+I mentioned before
+about why don't we just
+
+hold the defendant liable
+
+on the basis of a
+non-delegable duty.
+
+But I come back to the fact that
+
+vicarious liability always
+involves three parties,
+
+whereas non-delegable duty
+ordinarily just involves two.
+
+There are exceptions,
+but that's just one way
+
+sometimes to be able to
+
+identify what's the
+best course of action.
+
+Essentially then, Lister said,
+
+it's a case of employees
+
+tort would count as
+
+having been committed in
+the course of employment,
+
+the Salmond test and
+extends to there being
+
+some special risk
+associated with
+
+the employee's job that the
+employee would commit or
+
+carry out the particular type of
+
+tort that the employee
+did in this instance.
+
+Then seemed all a
+little bit confusing,
+
+but we reach a significant
+turning point,
+
+I would say, with
+
+the next case that we're
+going to have a look at.
+
+We've got this case of Mohamud
+and Morrison supermarkets.
+
+This case stretched that
+idea of close connection,
+
+this close connection test,
+
+stretched it even further
+because of the lack of
+
+inherent or special risk
+associated with the employment.
+
+The claimant in this
+case asked Mr. Kahn,
+
+who was a Morrison's
+petrol station employee
+
+to print off some
+documents for him,
+
+and Mr. Kahn said, no.
+
+All seems quite acceptable.
+
+Printing services
+were not part and
+
+parcel of the services
+of the petrol station,
+
+but Mr. Kahn went further
+than just saying no.
+
+For some reason and we never
+really understand why,
+
+Mr. Kahn the employee,
+
+followed the claimant to his car
+
+and shouted racial
+abuse in the process.
+
+He went so far as to open the
+door of the claimant's car,
+
+then he went even further.
+
+Because he punched the claimant
+in the side of the head,
+
+when the claimant tried to
+escape and get out of the car,
+
+Mr. Kahn then punched
+him again in the head,
+
+knocked him to the floor, and
+
+submitted him to quite
+a serious attack,
+
+which involved punches and
+
+kicks while the
+claimant lying on
+
+the petrol station fore
+curled up in a bowl.
+
+In carrying out the attack,
+
+Mr. Kahn even ignored
+instructions from his supervisor
+
+who came onto the scene at
+
+some stage and tried to
+stop what was happening.
+
+The judge concluded
+that the reasons why
+
+Mr. Kahn behaved in the way he
+
+did were all subject
+to speculation.
+
+He never really gave
+a reason for it.
+
+But what was accepted
+by the court was
+
+that the claimant himself hadn't
+
+said or done anything which
+
+was aggressive or
+abusive in any way.
+
+He'd just come in, say, can you
+
+print these documents for me?
+
+No, and then he'd left.
+
+The claimant claimed against
+
+Morrison's on the basis
+that Morrison's was
+
+vicariously liable for the torts
+
+of Mr. Kahn as one
+of their employees.
+
+The tort here obviously
+
+being trespass
+against the person,
+
+so we're talking here
+about assault and battery.
+
+On the basis of the Salmond
+test on the other side,
+
+just take you back there, the
+case would arguably fail,
+
+because the actions
+were not authorised,
+
+and they weren't
+part of a mode of
+
+doing some act that was
+part of Kahn's employment.
+
+But on the basis of Lister,
+
+was the tort in this case?
+
+Was it so closely connected
+with the employment that it
+
+would be fair and
+
+reasonable to hold Morrison's
+vicariously liable?
+
+Was Kahn's assault so
+
+closely connected
+with his employment?
+
+What do we think with this one?
+
+Morrison's was held vicariously
+
+liable for transactions
+because what they said is,
+
+the attack took place on
+
+the employer's premises and
+
+it took place during work hours.
+
+The case came in for
+a lot of criticism,
+
+as you might imagine.
+
+But what we have to
+take from the case,
+
+I'd say is relatively narrow,
+
+but it's two-stage test
+for close connection.
+
+Number 1, close connection.
+
+Here's what you need
+to ask, What functions
+
+or field of activities have been
+
+entrusted by the employer
+
+to the employee or in
+everyday language,
+
+what was the nature of his job?
+
+The second question, which is
+
+related to furtherance
+of employer's business,
+
+whether there was
+sufficient connection
+
+between the position in
+which he was employed and
+
+his wrongful conduct to make
+it right for the employer
+
+to be held liable under the
+principle of social justice.
+
+I suppose you could say
+
+customer service is
+what he was doing,
+
+sufficiently close connection to
+
+furtherance of
+employer's business.
+
+It was arguably though an
+act that was done outside
+
+the contracts of
+employment and it
+
+wasn't closely connected
+to the employment,
+
+but they stretched it to
+hold the employer liable,
+
+reformulating that idea of
+close connection from Lister.
+
+How does Mohamud actually
+
+change things from
+the Lister test?
+
+We've still got this idea
+of close connection,
+
+but we also have
+this idea of whether
+
+or not it's reasonable to
+
+hold a defendant vicariously
+
+liable for the torts
+of its employees.
+
+If a employer can be
+held liable for this,
+
+if they can be held liable for
+
+a trespass against the person,
+
+what about then
+vicarious liability
+
+for activities outside of
+
+the hours of
+employment or within
+
+social settings as a
+result of employment?
+
+We can also have a look
+at this case of Bellman,
+
+which you can see
+is a later case.
+
+This concerned an altercation at
+
+an after party following the
+employer's Christmas party.
+
+The party had ended put
+on by the employer and
+
+a number of staff went back to
+
+a hotel bar in Bellman
+to carry on drinking,
+
+including the claimant and
+
+including the managing
+director of the company.
+
+During the course of those
+drinks at the hotel bar,
+
+the topic of conversation
+turned to work,
+
+and there was an altercation
+
+between the claimant and
+the managing director.
+
+The managing director ended
+up punching the claimant who
+
+fell and hit his
+head on the ground
+
+and sustained a
+traumatic brain injury.
+
+The court used the test
+set out in Mohamud
+
+to determine
+vicarious liability,
+
+namely close connection and
+
+furtherance of
+employer's business.
+
+Lord Justice Asplin said,
+
+even though the party was
+attended voluntarily,
+
+those who attended were there in
+
+their capacity as staff
+and a managing director.
+
+Just because the
+drinking session
+
+was unscheduled and voluntary,
+
+he did not consider that
+
+their roles changed
+or if they did,
+
+that on the facts of this case,
+
+the role of managing
+director was not re engaged.
+
+What were the facts?
+He said the facts or
+
+the nature of the interchange
+
+was naturally an assertion or
+
+a reassertion of the
+managerial role.
+
+He said, there's no
+suggestion in the judgement,
+
+nor were any submissions made
+to us to the effect that
+
+the managing
+director's behaviour
+
+arose as a result of
+something personal.
+
+He delivered a lecture while
+
+they were enjoying these
+drinks at the bar about
+
+his managerial authority in
+
+relation to the
+company as a whole,
+
+as a result of a challenge
+to that authority,
+
+and that was the
+circumstances in which
+
+this dispute had arisen and
+the punch had been thrown.
+
+What the court said is actually
+there is the wrongdoer
+
+wasn't present merely
+as a fellow reveller.
+
+He was the managing
+director and he
+
+caused injury to the
+claimant employee.
+
+They said there was a
+sufficient connection between
+
+the position in which
+he was employed and
+
+his wrongful conduct
+so as to make
+
+the employer liable under
+
+that principle of
+social justice.
+
+They use the Mohamud test.
+
+We start to see, as I say,
+
+not just fair, just
+and reasonable,
+
+which we saw in Mohamud,
+
+but we start to see in
+Bellman this idea of
+
+social justice taking over
+
+as well with all
+vicarious liability.
+
+There is this question about
+
+whether Mohamud and
+whether Bellman,
+
+did they go too far with
+
+this idea of
+vicarious liability?
+
+They're still good law.
+
+But we are starting to
+see the courts rein
+
+in or limit slightly
+
+the application of the
+close connection test.
+
+We start to see it
+in another case
+
+incidentally
+concerning Morrisons,
+
+which is coincidental only,
+
+but can be confusing.
+
+If you do talk about either of
+
+these cases in your assessment,
+
+make clear which one
+you're talking about.
+
+If you're talking about
+
+Mohamud or you're
+talking about this one,
+
+which is Morrison's
+and various claimants.
+
+In this particular case
+involving Morrisons,
+
+they were initially held
+
+vicariously liable for their
+employees actions and they
+
+appealed against it
+and that's why they're
+
+obviously named first
+in the case title.
+
+In the case, Morrisons
+
+had to perform an audit
+of their payroll,
+
+and they had to do that
+for an external company.
+
+They entrusted the audit of
+
+their payroll to a
+member of staff who was
+
+an internal auditor who
+
+copied the data before
+
+sending it where it
+was supposed to go,
+
+published it on a website,
+
+and also sent the
+information to newspapers,
+
+all of those actions
+shared the details
+
+of different
+Morrison's employees
+
+and obviously breach
+data protection.
+
+Morrison's initially
+held vicariously
+
+liable for the
+tortfeasors actions.
+
+Their employee actions,
+but they appeal it,
+
+they head off to
+the Supreme Court,
+
+and in the Supreme Court,
+
+it was held that Morrison's
+were not vicariously liable.
+
+They were successful
+in their appeal,
+
+even on the close
+connection test.
+
+Lord Reed said in
+the present case,
+
+it's abundantly clear that
+
+the employee was not engaged in
+
+furthering his
+employer's business
+
+when he committed the
+wrongdoing in question.
+
+On the contrary, he was
+pursuing a personal
+
+vendetta seeking vengeance for
+
+disciplinary proceedings
+some months earlier.
+
+That employee had
+been subject to
+
+some disciplinary
+proceedings in the past.
+
+In those circumstances,
+
+the employee's
+wrongful conduct was
+
+not so closely connected with
+
+acts which he was authorised to
+
+do that it can fairly
+and properly be
+
+regarded as done by him while
+
+acting in the ordinary
+course of his employment.
+
+You might think it's
+actually quite difficult to
+
+see the distinction here
+between the Mohamud,
+
+and Bellman case on the one hand
+
+and this case on the other.
+
+But essentially, the court were
+
+actually invoking in
+this particular case,
+
+they were invoking some
+much earlier case law,
+
+really old case law,
+
+which points to the
+tortfeasor employee
+
+being off on a
+frolic of his own.
+
+It comes from an 1834 case,
+
+off on a frolic of his own
+rather than something that
+
+was connected to the business
+with which he was engaged.
+
+Not engaged in an activity
+
+his employer authorised
+like Lister and not closely
+
+connected or acting
+in furtherance
+
+of employers business like
+
+Mohamud and Bellman
+were held to be.
+
+That's the distinction
+they drew.
+
+This employee was on
+a frolic of his own.
+
+The other cases that
+we need to look
+
+at are circumstances where
+
+the tortious action arises
+
+in a situation that's akin
+to employment but not quite.
+
+I've said, obviously, employment
+has changed quite a bit.
+
+Up until this point,
+
+we've at least had
+
+an employment contract between
+
+the defendant and
+the tortfeasor.
+
+But what about where there
+
+isn't a contract of
+employment or what about
+
+if it's a different setup
+or a different arrangement?
+
+Here we've got
+various claimants,
+
+sometimes reported as the
+Catholic Child Welfare Society
+
+and the Institute
+of the Brothers
+
+of the Christian
+schools as well.
+
+Again, a situation of
+historic child sexual abuse,
+
+but unlike the warden in list
+
+there who was employed
+by the school,
+
+you had that contract
+of employment.
+
+The tortfeasors in this instance
+
+were the Christian Brothers.
+
+This was a religious
+organisation
+
+who was supposed
+to be dedicated to
+
+the education of children
+and who didn't actually
+
+take any remuneration.
+They weren't paid.
+
+It was all supposed
+to be part of
+
+their calling to
+educate children.
+
+Could the organisations
+responsible
+
+for these educational
+institutes,
+
+could they be said to be
+
+vicariously liable for the
+torts of the brothers,
+
+the members of
+their organisation?
+
+As I say, it's not an employment
+situation and the courts
+
+came at it slightly
+differently and
+
+the courts developed
+this particular test,
+
+the various claimants test to
+
+determine whether or not
+the situation was similar
+
+to employment in order to
+
+apply the same principles
+that we've just looked at.
+
+Is it a situation akin to
+employment such that we can say
+
+that the defendant is
+
+vicariously liable for
+the torts of another?
+
+Various claimants
+said, yes, they said,
+
+where there's no employment,
+
+look for a situation that might
+
+be akin to employment instead.
+
+How do you decide whether or
+not it's akin to employment?
+
+Other testing to it.
+
+We follow Lord Phillips test.
+
+We follow the steps that
+he set out in this case,
+
+it is another good tick
+box test that we can use.
+
+The first, I'd say
+is a policy reason.
+
+The employer is
+more likely to have
+
+the means to compensate
+the victim than
+
+the employee and can be expected
+
+to have insured against
+that liability.
+
+Then the remaining four steps,
+
+I'd say are more
+like what we look
+
+for in an employment situation.
+
+The tort will have been committed
+as a result of activity
+
+being taken by the employee
+on behalf of the employer.
+
+In this case, the
+Christian Brothers
+
+were in contact with,
+
+they were educating
+the children.
+
+The court looked at this
+idea of common purpose.
+
+They said the institute
+and the brothers were akin
+
+to employer and employee
+
+because they had
+this common purpose.
+
+The employer's activity
+is likely to be part
+
+of the business activity
+of the employer.
+
+That's our third step.
+
+Clearly the torts here were not,
+
+but using Lister,
+
+we can say that there was
+
+an inherent risk in
+
+the work that the
+brothers were doing.
+
+They were working with
+vulnerable individuals.
+
+Liking Lister, the
+tort was closely
+
+connected to the work that
+they were to carry out.
+
+The next one is the employer by
+
+employing the
+employee to carry on
+
+the activity will
+have created the risk
+
+of the tort committed
+by the employee.
+
+Again, vulnerable individuals,
+
+there's a risk here.
+
+The final step, the
+employee will to
+
+a greater or lesser
+degree have been
+
+under the control
+of the employer.
+
+We've got Lord Phillips
+
+at Paragraph 36 said
+the significance of
+
+control today is that
+
+the employer can direct what
+
+the employee does
+not how he does it.
+
+Various claimants has
+been followed many times.
+
+Is the leading case
+akin to employment.
+
+You can see at the bottom that I
+
+say it's been followed by Cox,
+
+which I'll come back
+to in a second,
+
+and Armes, which we've obviously
+
+mentioned in our last lecture.
+
+Again, I suppose,
+you remember Armes
+
+was another case of abuse.
+
+It was foster carriers who were
+
+appointed by the
+local authority.
+
+Like I say, recall that that is
+
+a good case to have a
+look at and a read of to
+
+see the distinction between
+non-delegable duty and
+
+vicarious liability because
+the counsel in that case were
+
+held not liable under
+non-delegable largely for
+
+policy reasons because
+a non-delegable duty
+
+would have rendered
+the counsel strictly
+
+liable for the child's care
+
+even by their own
+parents or relatives.
+
+The court felt it stretched
+non-delegable duty too far.
+
+But they were held
+
+vicariously liable for
+the wrongdoing that was
+
+obviously committed
+by the foster parents
+
+on the basis that
+
+the circumstance was one
+that was akin to employment.
+
+They used this particular test
+in that instance as well.
+
+Because technically,
+
+foster parents or foster
+carers, they're not employees.
+
+They get funding to support
+the child, they get expenses,
+
+but it was a circumstance
+akin to employment,
+
+so they had to use the various
+
+claimants test in that case.
+
+It's good to see
+the bridge between
+
+the two basis on which you could
+
+proceed against a defendant
+rather than a tortfeasor.
+
+It's good to see the
+application of the
+
+akin to employment test as well.
+
+Lord Reed said in
+the Armes case,
+
+"It's important", he said,
+
+"Not to exaggerate the extent
+
+to which control is necessary
+
+in order for the imposition of
+
+vicarious liability
+to be justified".
+
+He emphasised quite strongly
+
+that non-delegable duties and
+
+vicarious liability are
+distinct and that's why we
+
+treat them very separately when
+
+we're teaching them to you.
+
+I'm going to say, have a
+look at his reasoning,
+
+have a look at the arms
+judgement and have a look at
+
+the reasoning from around
+paragraph 50 onwards.
+
+But he was clear that
+the imposition of
+
+vicarious liability he said
+
+he's implicitly premised on
+
+the absence of direct liability.
+
+Direct liability would be
+
+a non-delegable duty like
+we looked at last time.
+
+Can we simplify what was
+said in various claimants?
+
+Yes, we can because Lord
+Phillips very kindly broke it
+
+down into two questions or
+
+condensed it into two
+questions for us.
+
+You can use the five factors on
+
+the earlier slide though to
+help answer these questions.
+
+He said the first question is
+whether the relationship is
+
+one that is capable of giving
+
+rise to vicarious liability,
+
+and that you need to look at
+
+the close relationship between
+
+defendant and tortfeasor and
+
+what was the connection
+between them.
+
+We then have, in the case of
+Cox and Ministry of Justice,
+
+an issue of a circumstance that
+
+is more a case of
+partnership or agency,
+
+but it's treated on the same
+basis as akin to employment.
+
+Cox followed the approach in
+
+various claimants in a
+different type of situation,
+
+again, but it also
+sought to give
+
+some clarity on various
+claimants as well.
+
+In Cox and Ministry of Justice,
+
+the claimant was working
+in a kitchen prison.
+
+She was employed to do that.
+
+In her course of her work,
+
+she was actually assisted
+by prisoners who
+
+could work in the prisons
+for a small allowance.
+
+One of the prisoners dropped
+
+a heavy bag of
+rice, accidentally,
+
+there was no suggestion
+
+that it was intentional
+in any way,
+
+accidentally dropped a bag
+
+of rice on the claimant's back,
+
+which obviously
+caused her injury.
+
+The question for the court was,
+
+was the defendant prison
+vicariously liable for
+
+the negligence of one of
+
+its prisoners that was
+working in this kitchen.
+
+Interestingly, Lloyd Reid
+
+sat in the Cox case as well.
+
+He'd also heard the Arms case
+against Nottinghamshire.
+
+He said the scope of
+
+vicarious liability depends upon
+
+the answers to two questions.
+
+First, what relationship has
+
+to exist between
+an individual and
+
+a defendant before
+the defendant can be
+
+made vicariously liable in
+
+tort for the conduct
+of that individual?
+
+Secondly,
+
+in what manner does the conduct
+
+of that individual have to be
+
+related to that
+relationship in order
+
+for vicarious liability to
+be imposed on the defendant?
+
+Applying the test in
+various claimants,
+
+the court concluded that
+
+the prison or the
+Ministry of Justice,
+
+on behalf of the prison,
+
+was vicariously liable for
+
+the claimant because
+they said there's
+
+a relationship between the
+prison and the prisoners,
+
+that's akin to employment.
+
+The prison and the prisoners who
+
+were working in the kitchen,
+
+that's akin to employment,
+
+and therefore they
+were vicariously
+
+liable for the
+tortfeasor's negligence.
+
+Then we get a more recent case,
+
+and this brings us to the end
+
+of the development so far
+of vicarious liability.
+
+There's been nothing
+particularly
+
+groundbreaking since this case.
+
+But as I say, it's
+constantly on the move,
+
+so we're always looking out for
+
+the next case that the Supreme
+Court get involved in.
+
+But this case of the trustees of
+
+the Barry congregation
+of Jehovah's Witnesses,
+
+and BXB Barry for short.
+
+I've included the short
+facts on the screen,
+
+namely that the defendant was
+
+an elder in this
+particular church.
+
+An image of the church
+concerned is on screen,
+
+and the claimant was a
+member of the congregation.
+
+She became friendly with
+the defendant and his wife,
+
+and their respective families
+
+used to spend quite a
+lot of time together.
+
+In this case, it's established
+that she looked up
+
+to the defendant because
+
+the defendant was an
+elder within the church.
+
+But over time, the defendant
+had become depressed,
+
+started drinking quite heavily,
+
+and he'd made a number of
+
+inappropriate comments and
+passes at the claimant,
+
+who found his behaviour
+so uncomfortable that she
+
+spoke with another
+elder in the church who
+
+also happened to be the
+defendant's father.
+
+He said his son needed
+
+support at this time
+and effectively,
+
+she should see it as her
+good duty in the context,
+
+which she knew him to look after
+
+him and remain a friend
+of the defendant.
+
+The court accepted that
+had it not been for
+
+that conversation with the
+other elder in the church,
+
+the defendant's father,
+the claimant would
+
+probably have cut ties
+with the defendant.
+
+On the day the tort arises,
+
+the claimant has been out
+
+evangelising with the
+family and the defendant,
+
+and they've all gone back
+to the defendant's house.
+
+The defendant and
+his wife have a row,
+
+and his wife actually asked
+
+the claimant to try
+and speak with him.
+
+She goes to do so,
+and he attacks her.
+
+It later transpires that he
+
+sexually assaulted
+other women before,
+
+women that he knows only as
+
+a result of being an elder
+in this particular church.
+
+She sues the organisation.
+
+She sues the church,
+
+and it's quite a
+complicated structure,
+
+but she goes after the trustees,
+
+similar to how
+charities get sued.
+
+The question for the
+court is whether
+
+the Jehovah's Witness organisation
+is vicariously liable.
+
+If we think about
+
+Mohamud and some of
+
+the historic child
+sexual abuse cases,
+
+we know that organisations
+can be liable for
+
+these intentional tortious acts
+
+of their employees or those
+who are akin to the same.
+
+The lower courts held
+the Jehovah's liable and
+
+awarded the claimant
+somewhere in the region about
+
+67,000 pounds in damages.
+
+But it goes to the
+Supreme Court on appeal.
+
+As I said, this is our latest
+Supreme Court judgement
+
+or leading case here.
+
+They actually reaffirmed the
+various claimants' tests
+
+as the correct test in
+cases such as this.
+
+But whilst they said
+the test was right,
+
+they disagreed with the
+approach of the lower courts.
+
+They said the relationship
+between the defendant and
+
+the organisation was one
+
+capable of giving rise
+to vicarious liability.
+
+It was a kin they
+felt to employment,
+
+but here they said the
+act was not so closely
+
+connected with that relationship
+
+in this particular instance,
+
+to hold the organisation,
+
+the Jehovah's Witness Trustees.
+
+The act was not so closely
+
+connected to hold them
+liable for the same.
+
+Lloyd Burroughs gave the
+lead judgement and he
+
+said that the creation
+of the risk of rape
+
+should not have been included
+within the criteria by
+
+the lower courts for
+deciding whether
+
+the relationship was
+akin to employment.
+
+They said this was
+a mistake that they
+
+made in applying
+those five factors
+
+from various claimants to
+
+the two questions that Lord
+Phillips condensed down to.
+
+They said the rate
+was not so closely
+
+connected with acts
+that the tortfeasor was
+
+authorised to do that it could
+
+fairly and properly
+be regarded as
+
+committed by him while
+acting in the course of
+
+his quasi-employment
+as an elder.
+
+Why is it different to
+
+some of the other cases
+that we've looked at?
+
+I will give you a summary
+now, but I'm going to say,
+
+do have a look at the Barry
+
+judgement and do have a look at
+
+Paragraphs 71-81 for yourselves.
+
+Because the judge gives some
+arguments that he rejects,
+
+and he does it with reasoning as
+
+well, very detailed reasoning.
+
+Why did they feel the act was
+not so closely connected?
+
+They said he wasn't acting in
+
+his capacity as an
+elder at the time.
+
+He was in his own home.
+
+They weren't engaged
+in activities
+
+at the time related
+to their work,
+
+so they make a distinction
+
+with the various
+claimants' case.
+
+They said the defendant
+wasn't exercising
+
+any control over the claimant
+at the time of the assault.
+
+They said the driving force
+
+behind them being
+together in the room at
+
+the time was actually their
+close personal relationship,
+
+not because the
+tortfeasor was an elder.
+
+There wasn't an
+analogous situation
+
+where you could hold the
+trustees responsible.
+
+They said, if the
+defendant had been
+
+negligent in taking the claimant
+
+or her children on holiday,
+
+for example, then that would
+be separate and apart.
+
+Could he have done that
+if it was connected in
+
+his work as an elder?
+
+They also looked at our
+factual causation test.
+
+They looked at but
+they said it's
+
+insufficient to establish
+a close connection.
+
+You can't say, but for the
+fact that he was an elder,
+
+she wouldn't have
+been in his house.
+
+She was his friend. She might
+have been there anyway.
+
+They also said there was
+no progression for one.
+
+It was a one-off attack.
+
+In any event, they said
+any progression was
+
+in regard to the
+friendship between them,
+
+not the role of elder.
+
+I've got slight difficulty
+with that particular argument,
+
+but see what you think about it.
+
+They said the background
+as to his behaviour,
+
+such as the fact that
+he'd been kissing
+
+other congregation
+members to welcome them.
+
+He said, they said that
+was just background.
+
+There was no evidence of other
+torts on which they could
+
+effectively hang one's hat
+and say the trustees were,
+
+I suppose, on notice of
+
+his behaviour before
+this incident.
+
+Have you read it?
+See what you think.
+
+I am really interested
+to know your thoughts
+
+about it in workshops.
+
+It is worth noting that
+he was sentenced to
+
+14 years in prison in
+
+the criminal case against
+him for the rape.
+
+She might not have
+been successful in
+
+the civil legal system
+in getting damages,
+
+but he was imprisoned for
+14 years and for some of
+
+the other assaults in regards to
+
+complainants that
+came forward as well.
+
+Have we got time?
+What time are we at?
+
+Yes, we have. Let's have a look.
+
+We have got some
+cases since Barry,
+
+which give us an indication
+
+of how Barry has
+been applied since.
+
+We've got this case of MXX
+
+and A Secondary School in 2023.
+
+As I say, it followed Barry.
+
+I'm going to say, if you read
+the abstract for this case,
+
+it reads as though
+the claimant was,
+
+and you get the case
+summary on Westlaw.
+
+When you read the case summary,
+
+it doesn't read
+particularly well.
+
+It reads like the claimant was
+successful in her claim of
+
+vicarious liability
+in relation to one of
+
+the torts of the tortfeasor,
+but it's not correct.
+
+That's why I say it's
+always important to go
+
+and read the cases
+for yourselves.
+
+It's a little bit
+misleading that one.
+
+It's not as clear
+as it could be.
+
+Don't just rely on that if
+
+you're going to have
+a look at the case.
+
+But the claimant's claim against
+
+the defendant was
+successful in part,
+
+but as I say, principal only.
+
+They said the defendant wasn't
+
+vicariously liable for the
+torts of the test data.
+
+The claimant had
+been a schoolchild
+
+who had come into contact
+
+with the tortfeasor during
+
+the tortfeasor's work
+experience placement.
+
+A claimant's appeal,
+
+the trial judge had
+found that there wasn't
+
+a relationship akin
+to employment between
+
+the tortfeasor and the
+defendant's school
+
+or the local authority.
+
+The Court of Appeal found that
+there was a relationship.
+
+They applied the
+test and said, no,
+
+there is a relationship
+here between
+
+the work experience
+of the student
+
+and the defendant's school,
+
+so that it is akin
+to employment.
+
+That's where the success
+in principle comes from.
+
+I think that's why
+the case summary
+
+is a little bit confusing.
+
+But again, it was an instance
+
+of sexual assault and the
+claimant was sexually
+
+assaulted by the tortfeasor
+
+after his work
+experience had ended.
+
+They said, therefore, that
+
+the defendant's school wasn't
+
+liable for the tort
+because there wasn't
+
+a sufficiently close
+connection between the tort
+
+and the tortfeasor's employment.
+
+But what they looked
+at, they said, well,
+
+the tortfeasor has groomed
+
+the claimant during
+the work experience.
+
+Again, there was further
+success in principle,
+
+but they still said there's not
+
+a sufficiently close
+connection between the tort,
+
+the intentional
+infliction of injury,
+
+and the tortfeasor's
+employment for
+
+the defendant to be
+vicariously liable.
+
+Like, sometimes I think
+
+if they're successful
+on principle,
+
+it reads a little bit
+funny in the summary.
+
+Read the case for yourself.
+
+I do have a short MCQ test,
+
+and we have five minutes.
+
+I'm going to suggest that you
+
+have a go at it while we're
+in here for five minutes,
+
+and I think we'll do
+
+the answers when I
+see you next time.
+
+But if you can make
+a start on that now,
+
+you've got five minutes
+to have a look at that.
+
+Click on the link or scan
+
+the QR code and
+give it a go now.
+
+You might be able
+to do it in five.
+
+Should be able to do it in five.
+
+Again, I should say,
+when I do these things,
+
+I can see that
+you're responding,
+
+but I don't know
+who's responding.
+
+Give it a go. Don't
+worry about it,
+
+I won't know what answers
+you've put individually.
+
+Is it working? Can
+you see it, okay?
+
+Access. Perfect. Thank you.
+
+You can save your responses,
+
+so you might want to do that,
+
+and then you can test
+yourself when we meet again.
+

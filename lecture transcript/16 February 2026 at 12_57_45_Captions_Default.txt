@@ -1,0 +1,2170 @@
+Dr. Sarah Gilmartin: This
+is Lecture 31 part B,
+
+and this is all about the
+rule in Rylands and Fletcher.
+
+Rylands and Fletcher is
+
+a type of claim that
+you'll see alongside
+
+private nuisance and alongside
+negligence quite often as
+
+well because these
+claims can arise
+
+out of the same
+factual scenario.
+
+You'll see it referred to as
+
+a Rylands claim or the rule
+in Rylands and Fletcher.
+
+It means the same thing.
+
+You know when you have a
+rule named after a case,
+
+that these cases
+are quite specific
+
+and it's a very narrow type
+of claim and it's probably
+
+also important to point out at
+
+this stage that the
+Rylands claim has
+
+very limited success often
+
+because private nuisance or
+another tort is successful.
+
+But it is good law in
+
+England and Wales and we
+have chosen to keep it.
+
+Many of the harms though
+
+that Rylands would have
+addressed in the past would
+
+also not be relevant now
+because they'll be addressed by
+
+the environmental
+protection statutes
+
+and similar instead.
+
+Other jurisdictions like
+Australia have said that it's
+
+also become such a
+part of the law of
+
+private nuisance that it's
+
+actually a subspecies
+of nuisance.
+
+What Australia have done
+is they've incorporated
+
+the tort of Rylands within
+the tort of private nuisance.
+
+But we still maintain it
+here in England and Wales as
+
+a distinct and separate tort
+that a person can bring,
+
+and you will see this case
+
+pleaded quite regularly
+in a lot of the case law,
+
+even if ultimately
+the claimant is
+
+successful in private nuisance
+or negligence instead.
+
+We'll start with the
+facts of the case itself.
+
+You can see the date is 1868,
+
+so this case comes up
+
+during the time of the
+Industrial Revolution.
+
+As I've said before,
+we didn't have
+
+environmental regulations
+at the time of
+
+the industrial revolution in
+
+the same way that we
+obviously do now.
+
+They also didn't have
+the technology that
+
+would likely prevent
+something as
+
+happened in this case
+happening today,
+
+so here's what
+happened in Rylands.
+
+The claimant and
+defendant are neighbours.
+
+Their land was adjacent
+to one another.
+
+In 1860, the defendant
+
+hired contractors to create
+a reservoir or actually,
+
+it wasn't to create
+the reservoir.
+
+There was already a reservoir
+on the defendant's land,
+
+but he needed a bigger reservoir
+
+than the one that
+already existed,
+
+and the reason he needed
+a bigger reservoir was he
+
+needed to provide
+water for his mill.
+
+The defendant had no
+further involvement
+
+in the actual construction,
+
+left it to the professionals.
+
+But what neither the defendant
+or the contractors knew
+
+was that underneath
+the defendant's land
+
+ran some mine shafts.
+
+Now, you often find mine
+shafts today on surveys,
+
+so when you're
+purchasing property,
+
+you'll be told if any mining
+
+has taken place
+within the vicinity.
+
+I live in an area with lots
+of terraced houses and
+
+some are exceptionally
+close to former coal mines
+
+because the houses were built
+
+to house the workers
+of the coal mines or
+
+the mills nearby that needed
+
+the coal to fuel their industry.
+
+An on survey is you can
+actually see how far
+
+across some of the
+underground shafts
+
+and chambers actually run.
+
+But in 1860,
+
+this was not knowledge that
+anybody would have had.
+
+Like many mine shafts,
+
+they stretched a very
+long way and they
+
+ran under the defendant's land,
+
+but they extended under the
+claimants land as well.
+
+The contractors
+dug down and built
+
+this bigger reservoir and
+
+the mine shafts were only
+really loosely filled
+
+with soil because
+the contractors
+
+didn't know those mine
+shafts were there.
+
+Had they known that
+they were there,
+
+maybe they would have done
+a better job at filling in
+
+the shafts or rethinking
+
+perhaps the placement
+of the reservoir.
+
+A man made reservoir is
+very common to power mills,
+
+particularly textile
+mills like the one
+
+you can see in the
+picture on screen.
+
+This is not the mill in
+Rylands and Fletcher.
+
+This is actually Queen
+Street Mill in Burnley,
+
+which is the last surviving
+
+steam powered mill in the world,
+
+and it's on top of
+a really big hill.
+
+Many mills were
+actually built down by
+
+the canals where there was
+a ready supply of water.
+
+But for this mill, as well as
+
+the one in Rylands and Fletcher,
+
+they had to build a man made
+
+reservoir and that's
+the water that you can
+
+obviously see in the bottom of
+
+the picture on screen as well.
+
+This is exactly what
+was happening in
+
+Rylands Defendant had a mill.
+
+They had to build a reservoir to
+
+get steam to help
+power the mill.
+
+You can probably guess
+what happened because
+
+after the reservoir in
+Rylands had been filled,
+
+the water then the pressure
+
+of it burst through the
+mine shafts which had been
+
+improperly filled to withstand
+
+the water and that flooded
+the claimant's property.
+
+It caused 937 pounds
+worth of damage,
+
+which doesn't sound a lot,
+
+but the equivalent today is
+
+probably about 140,000 pounds,
+
+so a significant amount
+of damage caused
+
+by the escape of this water
+to the claimant's land.
+
+The claimant noted the flooding
+
+but didn't really know
+where it was coming from,
+
+so the claimant
+installed a pump to
+
+try and remove the
+water from their land,
+
+but the pump burst and then
+that caused more flooding.
+
+The claimant finally
+got somebody to
+
+come out and inspect
+to investigate
+
+where the source
+of this flooding
+
+was coming from and that's
+
+when they discovered that
+
+the source was from
+the defendant's.
+
+Land, that the water
+had come through
+
+these underground
+mine shafts and so
+
+the claimant brought a claim
+against the defendant.
+
+I already noting that this is
+
+something a little bit
+different to private nuisance.
+
+For a start, this is not
+something that is continuous.
+
+It was a one off event,
+
+private so nuisance is
+troublesome as a claim.
+
+Negligence, which
+was the basis on
+
+which the claim was
+actually brought was
+
+also troublesome
+because the defendant
+
+hadn't done anything
+negligently,
+
+they hadn't done anything wrong.
+
+They didn't know about
+the mine shafts and
+
+neither they nor
+their contractor
+
+could have known about
+the mine shafts.
+
+But the court clearly
+thought it was
+
+appropriate to compensate
+the innocent party,
+
+the claimant in this case,
+
+and what we end up
+with in lens is
+
+a tort of ish liability,
+
+and I say ish because it's not
+
+quite strict liability because
+
+there are defences available,
+
+but it is stricter
+than negligence.
+
+Rylands, I would say
+exists somewhere between
+
+negligence and private nuisance
+
+it's somewhere in the middle.
+
+What the court did
+was say, look,
+
+the defendant brought an
+object onto their land,
+
+the escape of which
+was dangerous,
+
+we now call the bringing
+of something onto land,
+
+which would be dangerous
+were it to escape,
+
+we call that a Rylands object.
+
+In order to bring a claim,
+
+we have to look for whether
+there is a Rylands object,
+
+something that could be
+dangerous, would it escape?
+
+If that Rylands object
+escapes and causes damage,
+
+then the ruling Rylands tells us
+
+that the defendant who
+brought that object
+
+onto their land because this is
+
+a land based tort
+will be liable.
+
+The issue in Rylands was,
+
+can a defendant be liable for
+
+indirect damage to a
+neighbour's property
+
+in the absence of
+any negligent act?
+
+The answer was yes. The rule
+
+being that even if
+you're not negligent,
+
+if you brought a dangerous
+thing onto your property,
+
+if you accumulated
+it and it escapes,
+
+and if such an escape
+would be mischievous,
+
+that's the word they use
+in the judgement and
+
+dangerous if the use
+was non-natural,
+
+then the defendant
+will be liable.
+
+Some of those phrases are
+interesting because this is
+
+not water is not
+particularly mischievous,
+
+it's certainly not non-natural.
+
+You need to really
+interrogate these aspects of
+
+Rylands claim more closely to
+
+see what the court
+meant in Rylands
+
+and how it's been
+interpreted since.
+
+On this next slide, you'll find
+
+a useful quote of the
+rule from Rylands.
+
+It was cited in the House
+of Lords judgement,
+
+but the quote was from the
+lower court decision by
+
+Justice Blackburn and
+it's the one that's
+
+used all the time when we
+talk about Rylands claim.
+
+The rule in the
+judgement talks about
+
+a neighbour's property being
+damaged without any fault of
+
+their own and how it seems
+
+reasonable that the
+person who brought
+
+something onto their property
+for their benefit should
+
+be responsible for damage
+caused by its escape,
+
+even if they're not negligent.
+
+It's about loss allocation,
+
+this risk and
+benefit effectively.
+
+This seemed like new law,
+
+but the House of Lords
+in Rylands didn't
+
+necessarily think they
+were making new law.
+
+Were they just as in
+negligence and with Robinson,
+
+were they just incrementally
+perhaps taking
+
+steps to extend existing
+laws in this area?
+
+They certainly didn't think
+they were creating new law.
+
+Some of the previous cases
+around this type of claim
+
+centred around this case
+of born and men love,
+
+so this case concerned
+
+the accumulation of a haystack
+
+near to the claimant's property,
+
+a cottage and boards.
+
+There had been warnings
+and concerns raised about
+
+the haystack and its
+proximity to the properties.
+
+It spontaneously combusted,
+
+and the fire that
+resulted from that
+
+caused damage to the
+claimant's property and
+
+the claim in Vaughan and Menlove
+
+was brought in negligence.
+
+You can see that this
+predates Rylands.
+
+In Rylands itself, we also get
+
+two other cases
+referred to which
+
+themselves refer to the
+Vaughan and Menlove case
+
+as a negligence case.
+
+Where there is some
+fault, I suppose,
+
+but both cases,
+Smith and Kenrick,
+
+and then Baird and
+
+Williamson concerned two
+adjacent mine owners.
+
+The defendants mines
+in both Smith and
+
+Baird were situated on
+
+higher land than the
+claimants mines.
+
+The defendant in Smith
+
+chose to mine as much coal as
+he could from his own mine,
+
+knowing though that the removal
+
+of some structures
+in order to do
+
+so were there to protect
+
+the claimants mine and they
+
+knew that doing so would cause,
+
+um natural release of
+
+water basically that
+would run downhill,
+
+gravitational water into
+the claimant's mine
+
+which would cause flooding
+and he did it anyway.
+
+He was held not
+
+liable because the court
+said he wasn't negligent.
+
+He was just making the
+most of his own mine and
+
+gravitational water that runs
+
+underground and downhill
+was just all natural.
+
+But the defendant mine owner
+in Baird did the same thing,
+
+but also used a pump to push
+more water downhill into
+
+the claimant's mine beyond
+
+what would have flowed by
+the natural laws of gravity,
+
+and so that was non-natural
+and so he was found liable.
+
+These cases pre lands and
+
+relied on as justification
+for a finding of
+
+liability in Rylands all still
+
+considered some aspect of
+
+fault as opposed to
+strict liability,
+
+which is what Rylands seemed to
+
+give us because
+with the reservoir,
+
+there was no fault identifiable.
+
+The defendant hadn't done
+
+something knowing what
+would happen as in Smith,
+
+but their use of
+land in Rylands was
+
+non-natural in
+comparison to Smith.
+
+This unnatural accumulation
+of lots of water that
+
+wouldn't be there had
+
+the defendant not
+built the reservoir.
+
+But in Rylands, they
+hadn't really done
+
+anything that we could attribute
+to negligence as in bad.
+
+They had intentionally used
+
+a pump to push more
+water downhill.
+
+But the court in Rylands in
+finding the defendant liable,
+
+as I say, didn't really think
+they were making new law.
+
+They were drawing on some
+pre existing principles in
+
+these cases as comparatives and
+
+yet the fact that we
+now have a cause of
+
+action that's named after
+this case is indicative,
+
+I would say that there is
+something unusual about it.
+
+It's perhaps more than
+
+incremental and it was
+
+created to address
+something novel,
+
+so we're going to take a
+closer look at what has
+
+to be satisfied in order to
+
+make a successful Rylands claim.
+
+Again, we've got
+another checklist.
+
+In the previous land-based torts
+
+that we've looked at so far,
+
+trespass and private nuisance,
+
+we've been really interested in
+
+the claimant's standing
+to make a claim.
+
+In Rylands, we're
+
+looking much more closely
+at the defendant.
+
+The defendant must own
+or control land in order
+
+for any claimant to
+
+proceed in a claim under
+Rylands against them.
+
+The defendant must bring,
+
+collect or keep
+
+an exceptionally dangerous
+or mischievous thing
+
+on the land as well.
+
+That would be our lands object,
+
+and the defendant must have
+or should have recognised
+
+an exceptionally high
+risk of danger or
+
+mischief in the event of the
+escape of the lands object,
+
+no matter how small or
+unlikely the risk of escape.
+
+That's all judged on
+an objective standard.
+
+What would the
+reasonable defendant
+
+accumulating this Rylands
+object on their land?
+
+What would the reasonable
+defendant have appreciated?
+
+The defendant's use
+of their land has
+
+got to be non
+natural or unusual.
+
+The thing, the Rylands
+object must escape
+
+onto another property
+in order for
+
+a defendant to be
+liable under Ryland.
+
+If it stays within the vicinity
+
+of the defendant's boundaries,
+
+then it's not damaging
+anyone else's property.
+
+The escape must cause
+legally recognised damage,
+
+so that's got to
+be property damage
+
+or ammunity damage because we're
+
+talking again about
+land and we're talking
+
+again about protection
+of interests in land.
+
+Again, unlike trespass to land,
+
+but similar to private nuisance,
+
+this is not a tort that
+is actionable per se.
+
+It's a tort, as I say,
+
+strict liability in the sense
+that no fault is needed,
+
+but limited defences are
+available as we'll see,
+
+so it's not wholly strict.
+
+I've just asked you to note in
+
+addition to this checklist
+that under lands,
+
+there's no recovery for
+death or personal injury,
+
+so that's the same as
+for private nuisance.
+
+As with trespass and
+private nuisance,
+
+which we've already considered,
+
+it's not necessary to establish
+any negligence either.
+
+We're going to take a look
+at each of these elements
+
+in turn so we can understand
+them a little bit better.
+
+Standing of the claimant,
+then Locus Sandi.
+
+As I say, the focus
+in Rylands is more
+
+often about the defendant than
+it is about the claimant,
+
+which perhaps tells you
+that the claimant doesn't
+
+need a proprietary interest in
+
+order to bring a
+claim under Rylands.
+
+Historically, that was
+certainly the case,
+
+so I deviated from that
+narrowness of private nuisance.
+
+We've had some more recent
+case or the case of
+
+Transco that we'll look at
+in more detail shortly.
+
+narrowed it so that
+only claimants with
+
+a proprietary interest or
+
+exclusive possession can
+claim under Rylands now.
+
+It's taken us much nearer
+to private nuisance,
+
+and as Rylands has
+narrowed over the years,
+
+we are looking more
+
+generally at a closer
+relationship to private nuisance,
+
+which maybe explains
+why other jurisdictions
+
+have subsumed it into
+the law of nuisance.
+
+The Transco case
+refocuses a lot back
+
+to land and interest
+in land, as we'll see.
+
+The defendant has got to
+own or control the land on
+
+which the accumulation of the
+Rylands object takes place.
+
+It's a little bit easier
+maybe to identify them.
+
+We're looking for this,
+this accumulation
+
+of lans objects,
+
+something which
+is accumulated on
+
+the defendant's land
+that's likely to
+
+do mischief if it escapes.
+
+The object has got
+to be something that
+
+the defendant has accumulated
+for their own purpose,
+
+so it's not a benefit to
+the claimant in any way.
+
+It also means that a
+lands object is not
+
+a spontaneous accumulation
+of something which happens
+
+naturally like
+rainfall or a flock of
+
+birds that descends
+because of what
+
+the defendant grows
+on their land.
+
+It's tied to this
+idea of non-natural,
+
+but accumulation of
+water like in lands,
+
+is not necessarily non natural,
+
+but a man made reservoir
+
+is non natural because
+it's something that
+
+the defendant has accumulated on
+
+their land and the
+escape of it would
+
+be as proved to be the case in
+
+Rylands would be
+mischievous or dangerous.
+
+I've given you on
+here some examples
+
+of Rylands objects as well.
+
+The objects themselves are
+not intrinsically dangerous.
+
+The accumulation of them is
+not intrinsically dangerous,
+
+a bit like the water in lands.
+
+They're all fairly
+common accumulations.
+
+But if the escape
+
+of them would be dangerous,
+
+particularly if we're talking
+
+about volumes of
+things as opposed
+
+to one or two little things or a
+
+little bit of something,
+
+then the defendant has
+accumulated Ryland's object.
+
+The accumulation of nuclear
+waste at a nuclear plant in
+
+and of itself would be
+something that is unlike water,
+
+intrinsically dangerous, but
+it can be things that are
+
+on their own and in their
+right place may seem
+
+innocuous like some
+of those listed here.
+
+It's important to note that
+
+a nuclear waste plant would
+obviously be subject to
+
+statutory regulations and
+there'd be liability under
+
+statute for escape rather
+
+than under the ruling
+Rylands and Fletcher.
+
+That's another reason again
+why people say, well,
+
+Ryland's isn't a tort on
+
+its own anymore because
+if there's a statute,
+
+then we'll rely
+on that and there
+
+is in relation to
+environmental types of harms,
+
+where they'll say, we've
+been taken so close to
+
+nuisance that it's just a part
+
+of nuisance and we'll
+plead that instead.
+
+Storing a few
+fireworks, for example,
+
+on your property,
+maybe in November,
+
+ready for bonfire night,
+
+that's not inherently dangerous,
+
+but storing multiple boxes for
+
+display could be a
+Ryland's object,
+
+an accumulation of something
+
+dangerous for your own benefit,
+
+and if it escapes,
+
+it would cause damage.
+
+We're going to take
+a closer look now
+
+at this issue of escape.
+
+There are two cases
+which assist us in
+
+identifying escape
+among other things.
+
+We've got this case
+of Read and Lyons.
+
+Read and Lyons concerned
+
+a claimant who worked
+in a munitions factory,
+
+who suffered injury due to
+the explosion of a shell.
+
+Now, the casing of
+
+an explosive shell is an
+inherently dangerous thing.
+
+These incidents happened in
+
+munitions factories,
+not the date.
+
+The case was brought just
+after the Second World War.
+
+The incident happened
+during the war.
+
+The defendant wasn't negligent,
+
+so the claimant couldn't
+succeed under that tort.
+
+We had no Occupiers
+Liability Acts at the time,
+
+and for the purposes
+of Ryland's,
+
+there was no escape
+because the claimant was
+
+injured on the premises
+
+where the shells
+were accumulated.
+
+Although the defendant
+had accumulated
+
+for his benefit on his land,
+
+dangerous shells, the
+lack of escape meant that
+
+an essential element of the tort
+
+in Ryland's was missing.
+
+In the more modern case
+of Gore and Stannard,
+
+the court had caused to consider
+
+Ryland's claim brought
+after tires that
+
+had been accumulated on
+
+the defendant's
+property caught fire
+
+due to an electrical fault.
+
+Again, there's no negligence,
+
+but the fire spread
+and it caused
+
+damage to the
+claimant's property.
+
+The court said there
+was no liability under
+
+Ryland's because
+among other things,
+
+what escaped was not
+the Ryland's object,
+
+the tires, but it was the fire.
+
+You can see how hard it
+is, I would say, here,
+
+to actually bring
+Ryland's claim,
+
+very narrow and
+restrictive in terms of
+
+how we view some of these
+elements like escape.
+
+Foreseeability next.
+
+Another reason why this is not
+
+a strict liability tort is that
+
+foreseeability of
+harm is needed.
+
+The defendant must
+have or should
+
+have recognised on
+
+a reasonable person
+objective standard,
+
+an exceptionally high risk of
+
+danger or mischief in
+the event of an escape,
+
+no matter how small or unlikely,
+
+remember that risk of escape.
+
+It's got to be foreseeability of
+
+harm that's not too remote.
+
+Cambridge Water is the case that
+
+helps us with foreseeability and
+
+we're going to take
+a closer look at
+
+Cambridge in the
+next two slides.
+
+Foreseeability of damage of
+
+the relevant type though
+is what is required.
+
+If you've got a limitation
+around scientific knowledge,
+
+the type of damage may not be
+
+foreseeable and it's the damage
+
+that must be foreseeable,
+
+not the likelihood of escape.
+
+The likelihood of escape
+might be minimal,
+
+but as in Ryland's,
+
+you know if you accumulate
+
+large amounts of
+water on your land,
+
+if it escapes anywhere,
+
+even if you can't anticipate
+
+the mode or the
+likelihood of its escape,
+
+you know it will cause
+property damage flooding
+
+to neighbouring properties.
+
+We're going to take a look at
+
+how foreseeability worked
+in Cambridge water.
+
+Case law like this, I would say,
+
+shows just how
+difficult it is to meet
+
+all the elements to bring
+
+a successful claim
+under Ryland's.
+
+In Cambridge, the claimant
+had purchased a borehole,
+
+which is essentially a hole
+
+underground to extract water,
+
+as you can see in the
+diagram on screen.
+
+They found, however, that
+
+the underground
+drinking water supply
+
+was contaminated with chemicals,
+
+which they traced
+back to a tannery,
+
+a leather factory owned by
+
+the defendant where
+they stored chemicals.
+
+These chemicals from the
+defendant's leather factory
+
+had been seeping for
+
+quite a number of
+years into the ground.
+
+Everyone who accumulates
+chemicals knows if they escape,
+
+they'll cause damage,
+and the accumulation in
+
+the use is non-natural
+in that sense.
+
+I'm just going to move
+on to the next slide.
+
+The defendant's
+tannery was miles
+
+away from this
+particular water supply,
+
+and so the defendant did not and
+
+could not anticipate
+this contamination.
+
+The court found
+that the damage was
+
+too remote because
+there also wasn't
+
+knowledge at the time that
+
+this particular chemical
+would cause this damage.
+
+What they said is the defendant
+
+lacked foreseeability of harm.
+
+They said foreseeability was
+
+an intended part of
+the Ryland's test.
+
+That's the only way that a
+defendant can be liable.
+
+Further to Cambridge Water,
+
+what we end up with is
+this foreseeability test,
+
+which effectively
+narrows even further
+
+the ways in which you could have
+
+a successful claim under Ryland.
+
+We're also going to
+take a closer look
+
+as well at this element
+
+of non-natural use.
+What do we mean by it?
+
+Well, there are some quotes
+from cases on screen,
+
+which you can read
+in your own time and
+
+further to the most
+recent case of Transco,
+
+which is the first quote on
+screen you can read here,
+
+the meaning that we now give
+to non natural use seems
+
+to be extraordinary and unusual,
+
+which is arguably more
+
+restricting than
+non-natural use ever was.
+
+What's extraordinary
+and unusual for
+
+the 1800s might not be
+so today or vice versa.
+
+For instance, motor cars in
+
+the last case you can
+see on screen there
+
+of Musgrove were considered
+non-natural in 1919,
+
+but we wouldn't consider storing
+
+a car at your property today,
+
+parked in your garage,
+or on your driveway.
+
+We wouldn't consider that
+non-natural anymore.
+
+You can see how views of what is
+
+and is not non-natural
+depend on the date,
+
+depend on the circumstances.
+
+When circumstances change,
+
+the court will take that
+into consideration.
+
+Pay attention to the dates,
+
+the year when you're
+looking at these cases.
+
+But we are, as I say, going
+to take a closer look at
+
+the Transco case because as
+your textbook tells you,
+
+you've really got to read
+
+Ryland's today in view
+of Cambridge Water,
+
+which we've obviously
+already considered,
+
+the bore hole with the tannery
+seeping chemicals into
+
+the ground and you've
+also got to read
+
+Rickard's in line with Transco.
+
+Transco deals with this
+non-natural use issue.
+
+Note that it's a case 2003.
+
+The claimants in Transco were
+
+the residents in a
+large block of flats.
+
+Residences in the area
+had increased over time.
+
+Utility pipes, specifically
+gas and water pipes
+
+running these large
+blocks of flats,
+
+were not equipped to
+
+deal with the usage
+that was now being
+
+made of them by this
+influx of large
+
+volume of residents.
+
+A water pipe therefore
+
+burst and it water logged
+an entire embankment,
+
+which threatened
+the integrity of
+
+the gas piping that was
+
+supplying the
+neighbouring properties.
+
+There was no evidence
+of any negligence.
+
+Pipes sometimes burst.
+
+If it's non-negligent and it's
+
+not ongoing or continuance,
+
+negligence and nuisance are
+not going to assist you.
+
+But proceeding under
+the Ryland's route,
+
+the question was whether
+gas and water mains of
+
+a certain size were a
+non-natural use of property.
+
+The court actually
+found in Transco
+
+it was a natural use.
+
+Extraordinary and unusual use
+
+is the Lloyd Bingham
+terminology.
+
+That's what we're looking for,
+
+and water pipes are not
+
+extraordinary and
+they're not unusual.
+
+The claim under Ryland's
+in Transco failed.
+
+What they said in this case,
+
+whilst acknowledging
+how difficult
+
+it is to bring a claim,
+
+indeed, narrowing it somewhat
+
+more by this reference to
+extraordinary or unusual.
+
+What they made clear
+in Transco is that
+
+Ryland's is a separate course
+of action to nuisance.
+
+They actually
+maintained it still in
+
+English law because
+what they said
+
+is they can foresee
+
+circumstances where it
+would still be needed.
+
+The other thing which
+
+Transco appeared to
+make clear is that
+
+personal injury is not
+
+recoverable under
+the Ryland's tort.
+
+I suppose again emphasising
+
+that these cases
+really are about
+
+land and use of land as well.
+
+On this next slide, we've got
+
+a quote from the Transco case,
+
+which acknowledges that
+whilst some historic cases
+
+brought under Ryland's have
+
+permitted recovery
+for personal injury,
+
+Lloyd Bingham felt that
+
+the more recent tranches of
+case law all the way from
+
+Read and Lyons and up to
+
+Cambridge Water had
+excluded personal injury,
+
+drawing on the nuisance case of
+
+Hunter as well,
+that's about land.
+
+This idea that remedies
+should be confined to land.
+
+Put a note at the bottom
+of the screen there that
+
+Christian Witting who
+writes Street on Torts,
+
+feels it's important
+to point out that
+
+these comments that
+can find damages
+
+to property damage as opposed to
+
+personal injury are
+only orbiter comments.
+
+There's still some academic
+commentary out there to
+
+suggest that in the right
+set of circumstances,
+
+personal injury may be
+recoverable under Ryland's.
+
+The case highlighted
+in the quote
+
+for you of Hal and
+Jennings evidenced
+
+as well by the included image
+
+was a Ryland's claim
+that was brought.
+
+It was one of these
+fun fare chairoplanes,
+
+rides that have a seat that
+
+the speed builds and the
+swings go wider and wider.
+
+One of these seats in
+Hale and Jennings swung
+
+off and injured the claimant who
+
+successfully recovered
+from personal injury.
+
+It was brought under
+violence, but of course,
+
+it's arguable that it would
+have been recoverable
+
+instead under negligence on
+
+the basis even
+simply of res ipsa,
+
+the happening of the
+accident spoke for itself,
+
+a chair on a chair on a
+plane ride should not
+
+be able to detach in
+the way that it did.
+
+But despite all
+of that, for now,
+
+further to these
+comments in Transco,
+
+further to this more
+recent case law,
+
+it seems that you cannot
+recover for personal injury
+
+under Ryland's because private
+
+nuisance doesn't allow it,
+
+and if Ryland's is a
+subspecies of the same,
+
+then it should therefore be
+prevented there as well,
+
+is the idea of the
+ports, it seems.
+
+In the last few minutes
+of the lecture,
+
+what I want to do is look at
+
+the defences to a
+Ryland's claim.
+
+There are some
+additional slides after
+
+defences to take you to the
+end of these lecture notes,
+
+which set out in brief some of
+
+the arguments for abolishing
+or keeping Ryland's.
+
+The slides, I would say,
+relatively self explanatory.
+
+They can be enhanced by
+reading your textbook at
+
+Chapter 19 and also
+
+by any further reading
+that you choose to do,
+
+including the reading
+that you'll do for
+
+your workshops in
+week 17 and 18.
+
+I'm not going to go through
+
+the rest of these
+slides with you.
+
+We will end with defences,
+
+but those additional slides
+are there to guide you to
+
+assist you with your workshop
+
+and any additional
+reading you do,
+
+and also give you an idea of
+
+the kind of arguments that
+maybe would come up in
+
+an essay question about lands
+
+as a separate and distinct tort,
+
+or maybe a tort that has been
+
+subsumed under the
+private nuisance heading.
+
+Although there is this
+suggestion that Ryland's is
+
+a strict liability tort
+
+because there's an
+absence of fault,
+
+there are defences available
+
+and some of these
+speak for themselves.
+
+I'd say they're very
+much common sense.
+
+Implied or expressed consent.
+
+If you as the claimant are
+
+authorising the
+defendant's accumulation,
+
+then clearly Ryland's will
+be a challenge for you.
+
+It's the same for
+common benefit,
+
+which might be the
+reason perhaps why
+
+you consent to the
+defendant doing something.
+
+If you're benefiting from the
+defendant's accumulation,
+
+then you'd have a
+challenge obviously in
+
+bringing Ryland's
+claim because it would
+
+suggest if you're consenting
+to something that
+
+in some way you are
+sharing the benefit,
+
+then must you share and
+distribute the risk as well.
+
+Necessity looks like it
+does in private nuisance,
+
+so protecting someone from harm,
+
+life or property, then
+
+the defendant could
+rely on necessity.
+
+Natural disaster or
+act of God similarly.
+
+If you fail though to
+abate a foreseeable risk,
+
+for example, then
+maybe you can't
+
+rely on natural disaster or
+act of God as a defence.
+
+Terrible wildfires obviously in
+
+recent years in
+Australia and the US.
+
+If you keep a lot of
+dry timber stored up
+
+and you live in an area where
+wildfires are commonplace,
+
+then perhaps you
+wouldn't be able to rely
+
+on natural disaster
+because that would
+
+be a foreseeable risk in
+the same way that storing
+
+dry timber in England
+and Wales would not be.
+
+Statutory authority, clearly if
+
+something and accumulation
+is authorised by statute,
+
+then you could rely on statutory
+authority as a defence.
+
+If the claimant themselves
+
+does something or
+fails to do something,
+
+potentially, you might
+be able to shift
+
+liability. Act of a stranger.
+
+This needs a little
+bit more detail
+
+than the other defences,
+
+but it might help you
+escape liability if there
+
+is an unforeseeable
+act of a stranger.
+
+Rickards and Lothian,
+for example,
+
+a sink was intentionally
+blocked by
+
+an unknown third party which
+caused flooding and damage.
+
+Now if you had knowledge
+or this has happened
+
+before where maybe
+people come onto
+
+your property and cause
+damage like this,
+
+then you can't say
+it's unforeseeable.
+
+But if it's something that
+you didn't know would
+
+happen and it hadn't
+happened before,
+
+then you might be able to escape
+
+liability as in Rickard's
+and Lothian by saying,
+
+well, this is the
+act of a stranger.
+
+In this case, if
+the defendant isn't
+
+liable and you don't know
+who the third party is,
+
+hopefully what you'd need is
+
+some buildings and
+contents insurance
+
+instead that would help put
+
+you back in the position
+you would have been in.
+
+In summary, there's been very
+little successful case law
+
+Ryland's because
+it's so narrow and
+
+because there are
+other routes to get
+
+to it, maybe negligence,
+
+maybe private nuisance because
+of the continuous bit,
+
+or maybe statute,
+particularly in
+
+terms of environmental escapes.
+
+If you are reading full cases,
+
+you will often see all of
+these claims bundled together,
+
+but the Ryland's claim is
+often dismissed quite quickly.
+
+We don't have too
+many cases, as I say,
+
+where Ryland's is
+successful and often
+
+claimants succeed under one
+of the other torts instead.
+
+Cambridge and Transco,
+in particular,
+
+I would say have
+narrowed the scope
+
+of the Ryland's tort and we've
+
+got to consider Ryland's
+obviously now in view of those.
+
+Finally, just one thing
+to remind you of,
+
+I said the case of
+Halsey and Eso,
+
+which is in the private
+nuisance case law.
+
+One of the last cases we
+looked at in nuisance
+
+was a good read to see the
+interaction of the torts.
+
+Ryland's is considered in
+
+the Halsey and Eso case as
+well. Do have a look at it.
+
+Because that case
+is well remembered,
+
+also considers public nuisance
+
+and that's what we'll look
+at next time we meet,
+
+hopefully in person on Friday.
+
+Thank you very much for your
+patience with this one.
+
+I know I've thrown a lot of
+case law at you and apologies
+
+again for missing the lecture
+
+this morning as a
+result of traffic.
+
+I appreciate there's
+a lot now to
+
+digest and get through
+for yourselves.
+
+Read on in the lecture
+notes in your own time.
+
+I had not intended incidentally
+
+to go through these with
+you in the lecture.
+
+They're there just
+for your information
+
+and for you to look at
+when you get chance.
+
+I'll see you all in person in
+
+your next lecture
+for public nuisance,
+
+which is the final one
+of our land based torts.
+
+Thank you very much.
+

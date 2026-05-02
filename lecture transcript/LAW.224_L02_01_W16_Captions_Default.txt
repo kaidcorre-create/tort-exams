@@ -1,0 +1,3005 @@
+Dr. Sarah Gilmartin: Hi,
+everyone. Are you all okay?
+
+Apologies to all of you again,
+
+if I haven't already
+said this to
+
+you and certainly not in person.
+
+For those of you who
+made it here for 9:00,
+
+it's too dark, isn't it with
+those lights like that?
+
+Let's put them on and then
+I can see you all as well.
+
+But apologies to those
+of you who were here at
+
+9:00 AM on morning.
+
+I was not so lucky to get here,
+
+and I spent three hours
+and eight minutes in
+
+the traffic trying to get
+around the Six closure.
+
+I did make it eventually,
+
+but I think I could
+have got to Spain
+
+or Italy a bit quicker if I just
+
+headed the opposite way
+
+down the motorways to
+the airport instead.
+
+There are two recordings
+on module for you to
+
+make up for miss lecture
+on Monday morning.
+
+One of the recordings finishes
+
+off our private
+nuisance lectures,
+
+and the other recording
+is the introduction
+
+for you to the tort of
+Rylands and Fletcher as well.
+
+Do have a look at
+those. Not many people
+
+seem to have viewed them yet,
+
+so it's obviously important
+still catch up on those,
+
+but apologies that it's
+probably thrown your schedule
+
+out with me not being here
+first thing on Monday.
+
+Just one other thing
+before we move
+
+on in this session to
+look at public nuisance,
+
+which is the final one of
+our land based torts that
+
+we're going to look at before we
+
+move on to something
+completely different.
+
+I just wanted to draw your
+attention to the screen to
+
+an event that our
+student law society
+
+are organising and running,
+
+which is the annual law summit.
+
+It's an event involving
+some of your lecturers,
+
+alumni, as I understand
+it, legal professionals,
+
+and lots of others
+as well with lots of
+
+different panels on
+the day for careers,
+
+EDI, topical legal
+issues, that thing.
+
+It's Saturday, 7th of
+March in the LCA building.
+
+If you can scan the code,
+
+have a look at the
+additional details there.
+
+School sponsoring the
+event ahead of school,
+
+I think it's
+co-hosting it as well.
+
+If you are interested, scan
+
+the code on screen just
+to get more details.
+
+I'll make sure that's
+available for you on
+
+Monday as well by
+way of reminder.
+
+No seeing any phones
+still scanning,
+
+so we'll make a start.
+
+As I said, we are looking
+at public nuisance today.
+
+It's a self contained lecture,
+
+but you'll notice similarities
+as we go through to
+
+the other torts that we've been
+
+looking at of private nuisance,
+
+Ryland's and Fletcher
+and also perhaps some of
+
+the other land torts that you've
+
+considered previously
+occupiers liability.
+
+But as I say, it's the last
+of the land torts that
+
+we'll look at before we
+move on to a new topic.
+
+Next week and the week after,
+
+we're going to be looking
+at employer's liability.
+
+The reading list for employers
+liability is on module,
+
+as are the slides for next
+week as well for those
+
+of you who like to have a look
+
+ahead and get a sneak peek.
+
+You might have noted
+
+on module when you
+were getting ready for
+
+this session today
+that this lecture is
+
+titled as public nuisance
+and in brackets,
+
+I've put special remedy as well.
+
+There's a reason for that,
+
+which will become apparent as
+
+we go through the session today.
+
+The aim of the session today,
+
+is to introduce you to
+
+this tort of public
+nuisance to help
+
+you identify when you should
+
+consider a claim in
+public nuisance,
+
+what elements are
+actually needed
+
+to make a claim in
+public nuisance,
+
+and to help you be able
+to distinguish it from
+
+these other land based torts
+that we've been considering.
+
+Public nuisance sounds familiar
+
+because we've obviously
+covered private nuisance.
+
+It's the same genre as it were,
+
+a bit like you might put
+
+a romantic drama with
+a romantic comedy.
+
+But as with those, there are
+
+distinctions and it's
+very important that
+
+you'd be able to distinguish
+
+public nuisance from
+private nuisance.
+
+But as we'll see, it's not
+always an easy feat to
+
+actually achieve that sometimes.
+
+Public nuisance, it's
+not private nuisance.
+
+It's also not Ryland's
+and Fletcher.
+
+One of the key distinctions with
+
+public nuisance is that it's
+first and foremost a crime.
+
+It's another area of
+
+tort where you'll
+see some blurring of
+
+the lines and the
+interdisciplinarity
+
+really of tort, I
+would say, as a topic.
+
+We found our tortious claim
+
+on the basis that a
+criminal offence,
+
+a public nuisance has occurred,
+
+but we want a different
+remedy because we're
+
+now in the civil legal system.
+
+Remember that the
+criminal law obviously
+
+provides this broader social
+remedy of punishment,
+
+whereas what you're
+actually looking
+
+for in the civil legal system,
+
+you're looking to either
+place the claimant in
+
+the position that
+they would have been
+
+in but for the wrong,
+
+but for the tort,
+
+or in this case,
+
+but for the nuisance
+which the defendant has
+
+perhaps created by their
+act or by their omission.
+
+That's why the title of
+today's session really
+
+special remedy because that's
+effectively what it is.
+
+If you bring a tortious
+claim for public nuisance,
+
+that is what you're asking for.
+
+You're asking for
+a special remedy.
+
+What's important is that
+
+public nuisance
+affects the rights
+
+of the public as a whole.
+
+Private nuisance and violence
+
+to some extent as
+well, and negligence,
+
+generally, they're all
+about these relations
+
+between individuals.
+
+Whereas public nuisance,
+it's broader than that.
+
+It affects more than one
+individual or it has
+
+the potential to affect
+more than one individual.
+
+Whether it does or it doesn't,
+
+is another matter, but it
+
+affects or it has the
+potential to do so.
+
+It's an infringement of
+
+a public right that
+causes common injury.
+
+We're going to look at what
+public rights might be
+
+infringed to actually cause
+common injury in a second.
+
+One of the key elements of
+establishing a claim in
+
+public nuisance is to show
+
+that although there
+is a common injury,
+
+the claimant has suffered
+special or particular damage.
+
+Damage that is over and above
+
+the public at large,
+you've got common injury,
+
+but the claimant
+has suffered damage
+
+over and above what
+everyone else has suffered.
+
+Their public rights
+have been infringed.
+
+The public has suffered
+common injury,
+
+but the claimants
+or claimant has
+
+suffered something more than
+
+everybody else that's
+been affected.
+
+That's where things
+can get especially
+
+difficult to actually identify.
+
+Other features of public
+nuisance, as I've already said,
+
+it provides a remedy that you
+
+wouldn't get if we only had
+it as a criminal offence,
+
+but you can recover
+for personal injury
+
+and also economic
+losses under this tort.
+
+Perhaps importantly
+to some claimants
+
+who can't bring
+
+a private nuisance claim
+because they lack standing,
+
+they like local
+standby to do so,
+
+they lack that
+exclusive possession
+
+or they lack that
+proprietary interest,
+
+they don't have to
+have an interest in
+
+the land to bring a
+public nuisance claim.
+
+But because all of
+the other criteria
+
+have got to be
+satisfied as well,
+
+it's not possible for
+everybody without
+
+an interest in the land who
+are experiencing a nuisance,
+
+to simply proceed on the basis
+
+of this type of claim instead.
+
+Not the easiest to spot,
+
+but we'll try and find the
+ways of doing that for you.
+
+But as I said,
+
+being aware that public nuisance
+
+is first and foremost a crime,
+
+the language that you'll see
+
+used in some of the case law,
+
+is also criminal often
+rather than it is civil.
+
+You can see here on screen
+what I think is one of
+
+the best descriptions of
+
+public nuisance that comes
+from a case of Remington.
+
+It was Lloyd Bingham,
+
+he done some research and
+
+he highlighted this
+definition in his judgement.
+
+A person is guilty of
+a public nuisance,
+
+also known as common nuisance,
+
+who (a) does an act
+not warranted by law,
+
+or (b) omits to
+discharge a legal duty,
+
+if the effect of the
+act or omission is
+
+to endanger the life,
+health, property,
+
+morals or comfort of
+
+the public or to
+obstruct the public in
+
+the exercise or
+enjoyment of rights
+
+common to all her
+
+or his as it will be
+now Majesty's subject.
+
+Now obviously, it's
+his now, isn't it?
+
+This emphasis though,
+that it's a crime,
+
+the result or the effect
+of which is to cause
+
+common injury to infringe
+a public right on
+
+which to found the
+public claim or
+
+found the claim in
+this public nuisance
+
+as a tort is what
+you're looking for.
+
+It might help to
+give you some of
+
+the facts of Rubinton to
+
+contextualise how this quote
+came to be relied upon.
+
+But the case of Remington
+concerned a defendant.
+
+Who sent in excess of 500
+packages that contained
+
+racially offensive materials to
+
+members of the public who he
+
+selected based on
+their ethnicity
+
+with the intention of causing
+them mental distress.
+
+The questions for the
+court were whether
+
+these racially abusive packages
+
+that had been sent
+to different people,
+
+was that sufficient to
+constitute a public nuisance?
+
+Did they cause common injury?
+
+That's what they're
+looking for a tort.
+
+You might think, yes,
+
+but the court decided no,
+
+because they said it doesn't
+
+affect the public as a whole.
+
+But what's really
+strange is public as
+
+a whole can just include
+one or two people.
+
+I'm going to say compare
+this case to somebody
+
+blocking or causing a
+blockage on a public highway,
+
+let's say that
+there's a blockage
+
+and that means that somebody
+
+can't get into their house
+
+because there's this
+blockage in the way,
+
+they can't get onto
+their driveway
+
+because of a blockage
+on the highway.
+
+That is potentially
+a public nuisance,
+
+even though only a couple of
+
+people might be affected
+by that blockage.
+
+The reason being, it's
+a public highway,
+
+which means that
+it's sufficient to
+
+say that enough people might
+want to use that highway,
+
+it doesn't matter that
+only a couple of people
+
+might cross it at
+a certain point
+
+to get onto their driveway.
+
+In that instance,
+public as a whole,
+
+this definition is given
+
+a broader interpretation
+than what we
+
+found in this case of Remington.
+
+It was a conjoined
+case was Remington.
+
+It was conjoined with Goldstein,
+
+which involved a
+Jewish businessman,
+
+who sent his friend a
+letter in the mail.
+
+As a joke, he included
+
+some salt that was used to
+
+preserve kosher
+food in the letter.
+
+It was a private joke
+between friends,
+
+but the letter never
+actually made it to
+
+the friend because
+at the post office,
+
+whilst the mail
+was being sorted,
+
+some of the salt leaked out of
+
+the package onto the hand
+of the postal worker.
+
+At the time of the incident,
+
+which was in October of 2001,
+
+we were just only a month
+after the 911 terror attacks,
+
+the court described it,
+
+therefore as a heightened
+atmosphere where
+
+anthrax or chemical attacks were
+
+anticipated and so
+they thought that
+
+this salt was Anthrax
+that was in the mail.
+
+Around 100 people who
+were working in that
+
+sorting office were evacuated.
+
+The question for the
+court for Goldstein,
+
+same as the one
+in Remington was,
+
+did this affect the
+public as a whole?
+
+Again, same reasons for
+Remington, the court said no.
+
+The truth is that in Goldstein,
+
+they found that there
+wasn't even a foundation
+
+for the crime of
+public nuisance.
+
+You were missing the
+criminal element
+
+because what they said
+is the defendant,
+
+it was a private joke
+between friends,
+
+the defendant hadn't intended or
+
+hadn't foreseen that all
+
+of that would be the
+result of his actions.
+
+He didn't think that the
+salt would leak out,
+
+his friend wouldn't have been
+
+alarmed because he would
+have got the joke,
+
+he would have known
+what it was about.
+
+If you obviously don't have
+the intention for the crime,
+
+then we don't have a crime.
+
+If you haven't got a crime,
+
+then you haven't
+got a foundation
+
+for the tort of public
+nuisance either.
+
+There's just two examples
+
+there in that con join case
+
+of Remington and Goldstein where
+
+there was no public
+nuisance because
+
+the courts basically couldn't
+
+find the elements
+were satisfied.
+
+In Remington, they
+didn't think it
+
+affected the public as a whole.
+
+In Goldstein, they
+found that it was
+
+actually lacking the
+essential element
+
+of a crime to begin with.
+
+I've said it's a little
+bit broader than
+
+private nuisance because you
+
+don't need the same standing,
+
+you don't need the
+same interest in land,
+
+but who can actually
+take action?
+
+Who can actually bring a
+claim for a public nuisance?
+
+Well, the cases that
+we've just looked
+
+at were criminal cases,
+
+but they provide this
+interesting conversation,
+
+I would say around public
+nuisance generally.
+
+Obviously, the crime
+prosecutes the crime,
+
+but who in tort can
+actually take some action?
+
+One, an individual
+who has suffered
+
+special or particular damage
+
+over and above the
+public at large.
+
+Had the Anthrax scare
+
+in Goldstein been
+a public nuisance,
+
+had it been a criminal offence?
+
+You could say that
+
+the postal worker who
+ended up with the salt on
+
+his hand or her hand
+might have been able to
+
+make a civil claim in
+
+public nuisance because
+they might be able to say,
+
+"Well, I suffered over and
+above the public at large,
+
+over and above the rest of
+
+the postal workers because
+
+I was the one who
+touched the substance,
+
+so I had more anxiety,
+more fear, etc."
+
+An individual, you're looking
+for somebody who suffered
+
+special or particular
+damage above
+
+and beyond what the public
+might have experienced.
+
+The other types of individual
+
+or entities that can bring a
+claim are local authorities.
+
+Local authorities
+can bring a claim in
+
+public nuisance under the powers
+
+that are given to them under
+the Local Government Act.
+
+It's also the fact that
+they have a power to
+
+prosecute or a power to defend
+a public nuisance as well,
+
+where they and the words are,
+
+where they consider it
+expedient for the promotion
+
+or protection of the interests
+
+of the inhabitants
+in their area.
+
+Sometimes you might see
+them bringing a claim.
+
+Highways authorities might also
+
+act on behalf of the public
+because they have a duty.
+
+They have a duty to assert
+
+and protect the rights
+of the public to
+
+the use and enjoyment
+of any highway
+
+for which they are the
+highway authority.
+
+I'm going to say now,
+there is a distinction
+
+between local authorities
+and highways authorities.
+
+Local authorities,
+look at the word in
+
+local authorities have a
+power to do something,
+
+which means it's at the
+authorities discretion
+
+whether or not they
+actually take action,
+
+whereas highways authorities
+have got a duty,
+
+which means that they must act.
+
+It's slightly different.
+Presumably, that's
+
+because infringements of
+public rights on the highway,
+
+are more likely to
+cause common injury.
+
+They're more likely
+to interfere with
+
+the public as well as with
+the functions of society.
+
+For example, getting to work
+when the M6 is blocked.
+
+The infrastructure
+of the country
+
+is likely to be impacted,
+
+whereas local authorities
+obviously cover
+
+much larger areas and could have
+
+much more varied instances
+
+of public nuisance that they can
+
+choose then in
+which circumstances
+
+they think they need to
+exercise their powers,
+
+and in which circumstances
+they think they don't need to.
+
+That's just my
+rationale as to why I
+
+think there's probably
+that distinction
+
+between powers and duties.
+
+Finally, the Attorney General is
+
+an agent of government and
+on behalf of a public body,
+
+can also take action
+to prosecute or
+
+to defend instances
+of public nuisance.
+
+One of the key cases that
+we're going to look at is
+
+the Attorney General and PYA
+Quarries case from 1957.
+
+You can see here
+it was brought by
+
+the Attorney General
+on the relation of
+
+the Glamorgan County Council and
+
+the Pontardawe Rural
+District Council.
+
+Somebody's going to
+correct who's Welsh.
+
+I'm probably pronouncing
+that terribly badly.
+
+My Welsh is not great.
+
+What is public nuisance then?
+
+You're working out who can
+actually bring a claim.
+
+Some individuals, local
+authorities, highways, etc.
+
+What's the actual
+public nuisance?
+
+You've already seen
+some examples where
+
+public nuisance didn't
+exist either because we
+
+didn't have the
+foundation of a crime or
+
+because it didn't actually
+cause a common injury.
+
+As I've also mentioned,
+
+I've said obstruction
+of a highway or
+
+a pavement which may
+be caused by people,
+
+vehicles, debris,
+
+that's an infringement
+of a public right.
+
+You've got a public right of
+
+way across certain roads,
+certain footpaths,
+
+and we're going to
+have a look at one of
+
+the most common examples,
+
+certainly in the case law of
+
+such infringement in one
+of our later slides.
+
+Other examples of
+public nuisance
+
+have been water
+supply contamination.
+
+In AB and Others,
+
+aluminium sulphate got into
+
+the water supply
+and 180 customers,
+
+so members of the public
+were affected by that.
+
+They brought various claims
+
+including in public
+nuisance because they said,
+
+we drink that water,
+it's made us ill
+
+because that's got
+into the supply.
+
+It was accepted that public
+nuisance had arisen which had
+
+infringed a public right
+to clean water supplies.
+
+It was in fact a
+statutory breach as well.
+
+It meant that consumer
+protection legislation had
+
+been breached and
+it was agreed that
+
+some members of the public had
+
+actually suffered special damage
+
+over and above the
+public at large
+
+because it obviously
+made them unwell.
+
+I'm going to come back to
+
+why that case is otherwise
+important to us.
+
+But there's an example.
+
+It's a good example
+I would say of
+
+a successful public
+nuisance claim.
+
+Importantly, and as has been
+pointed out many times,
+
+but perhaps most
+eloquently by Lady Hale,
+
+Baroness Hale as she was then,
+
+and it was in Remington
+is that public nuisance
+
+is not simply a collection of
+
+private nuisances
+bundled together.
+
+Baroness Hale said,
+'It's not permissible to
+
+multiply separate
+instances of harm suffered
+
+by individual members of
+
+the public however
+similar the harm or
+
+the conduct which
+produced it and
+
+just call them a common injury.'
+
+It's more than
+that. It has to be
+
+something that is affecting
+the public as a whole.
+
+Not everyone across the country,
+
+but everyone in a certain area
+
+or something that
+has the potential to
+
+cause widespread interference
+
+rather than individual
+interference.
+
+Deciding whether or not
+something satisfies
+
+the criteria to be a
+public nuisance over
+
+and above that collection of
+
+private nuisance claims by
+individuals, it's a balance.
+
+The questions are, is
+
+the defendant causing the
+nuisance a reasonable user?
+
+We're back to that
+reasonable again,
+
+and is the nuisance temporary?
+
+Just like with private nuisance,
+
+we're in that realm of reasonable
+and unreasonable users.
+
+It's just that we've
+got different tests
+
+for it in regard to
+public nuisance.
+
+Take the case of Trevett and
+Lee in which a householder,
+
+the defendant laid a horse pipe
+
+from a water supply that was
+
+across the road from
+
+his home to actually
+supply water to his house.
+
+Milk delivery driver,
+the claimant,
+
+trips on the hosepipe
+and sustains injury.
+
+She sues in both negligence
+and in public nuisance.
+
+Her negligence claim was
+unsuccessful because
+
+usually the court held it
+was wholly her own fault.
+
+Doesn't happen very often,
+
+and also because the court
+
+balanced the
+reasonableness of use.
+
+They said it's a balance
+between the claims and
+
+the conduct of the
+householder on
+
+the one side and those of
+
+members of the
+public on the other.
+
+We had the master of the rolls
+then Lord Evershed said,
+
+'The interruption was only
+very occasional and temporary.
+
+In so far as able-bodied
+pedestrians are concerned,
+
+the obstruction was
+only of the slightest.
+
+On balance, it seems to me that
+
+carried out with
+proper precautions,
+
+it is impossible to hold
+
+that this operation
+was improper and
+
+beyond the rights
+of an occupier of
+
+premises abutting
+on the highway.'
+
+Here what they found was
+
+the defendant was
+a reasonable user.
+
+You've got to
+wonder, had it been
+
+for something other
+than an essential,
+
+had it been for something
+other than water,
+
+whether the result here
+would have been the same.
+
+But in this instance,
+
+in the absence of
+
+any other water supply to
+
+this particular
+individual's property,
+
+they said he's actually
+a reasonable user.
+
+The nuisance is only
+temporary as well,
+
+and it was only temporary
+until such time as
+
+his water supply was returned.
+
+We get another definition
+from Lord Denning
+
+in Attorney General
+and PYA Quarries.
+
+Lord Denning said, 'A public
+nuisance is a nuisance,
+
+which is so widespread in
+
+its range or so indiscriminate
+in its effect that
+
+it would not be
+reasonable to expect
+
+one person to take
+
+proceedings on his
+own responsibility
+
+to put a stop to it,
+
+but that it should be taken on
+
+the responsibility of
+the community at large.'
+
+Yes, an individual can
+
+bring a successful claim
+in public nuisance,
+
+but you really need to look for
+
+something very widespread in
+
+order to see whether or
+not more than one person
+
+is affected or not.
+
+Common example of a
+potential public nuisance.
+
+Obviously, if something
+which blocks the highway
+
+and thereby infringes
+a public right,
+
+it's that of protests.
+
+We've seen lots of
+protests in recent years.
+
+Extinction rebellion
+was one that
+
+generated a lot of
+media attention.
+
+As you'll see, there's still
+
+an issue in regards
+
+to them as we get
+through these slides.
+
+But protesting
+highlights something
+
+that I'd say we haven't
+considered yet,
+
+which is that the
+underlying activity
+
+doesn't necessarily
+have to be illegal,
+
+certainly not to begin with.
+
+The right to protest
+is accepted.
+
+It's accepted in a free
+and democratic society.
+
+A lawful protest
+provided you've got
+
+all the relevant permissions
+in place, it's not illegal.
+
+But once it begins to
+cause common injury,
+
+the activity is then illegal and
+
+then we enter the realm
+of public nuisance.
+
+Again, it goes back
+to reasonableness.
+
+It's reasonable to
+allow protests.
+
+It's perhaps even reasonable
+for the public right to use
+
+the highway to be infringed for
+
+a certain period of
+time, temporarily.
+
+You might have to go a
+different way to work,
+
+for example, once or
+twice as a result.
+
+But once it becomes
+
+a widespread nuisance
+that infringes
+
+a public right and that
+causes common injury,
+
+once the scales of the balance,
+
+I would say, are tipped,
+
+balancing the right
+to protest with
+
+the right of the public
+to use the highway,
+
+we enter this realm
+of public nuisance.
+
+DPP and Jones was a case where
+
+no public nuisance was found
+because the defendants
+
+were taking part in a lawful,
+
+peaceful,
+non-obstructive protest.
+
+They wanted to free Stonehenge.
+
+For those who don't know
+what Stonehenge is,
+
+it's the circle of big rocks
+some piled on top of others,
+
+built around the Bronze
+Age about 4,000 years ago.
+
+No one really knows why.
+
+Is it mystic? Is it spiritual?
+
+But it's a site down in
+
+the South of England
+in Wiltshire.
+
+English Heritage, you've got
+control of that site and
+
+some fences were put up
+around the monument.
+
+This neolithic monument is
+
+perhaps one way
+of describing it.
+
+The protesters in this
+particular case are defendants,
+
+protested against the
+enclosure of Stonehenge.
+
+They didn't like
+the fencing that
+
+English Heritage had put
+up around it and the court
+
+decided that the
+public highway was
+
+a public place that
+
+the public might enjoy
+for a reasonable purpose,
+
+provided that their activities
+
+didn't amount to a public or
+private nuisance and didn't
+
+obstruct the highway
+by unreasonably
+
+impeding the public's primary
+right to pass and repass.
+
+Within those
+qualifications, they said,
+
+there's a public right of
+
+peaceful assembly
+here on the highway.
+
+Lord Clyde said,
+
+'A peaceful assembly for
+
+a reasonable period
+of time that didn't
+
+unreasonably obstruct
+
+the highway wasn't
+necessarily unlawful.'
+
+He said, 'It's a matter that
+
+you're going to have to judge in
+
+the light of the facts
+of any given case.'
+
+In that particular
+instance of DPP and Jones,
+
+the court has actually
+said, you know what?
+
+The protesters, they're
+a reasonable user
+
+because you'd have to look
+for an actor and a mission
+
+that actually caused
+a common injury or
+
+some unlawful element to
+
+fund your claim in
+public nuisance.
+
+Peaceful demonstrating
+and pickets are allowed,
+
+they're considered
+a reasonable use,
+
+but it might depend
+where your protest
+
+is on whether or not you need
+
+permissions and
+things like that.
+
+The court I would say always
+seem really conscious that
+
+public nuisance should not be
+
+a means of restricting
+other rights.
+
+It shouldn't be used
+militantly, I suppose,
+
+as a means to an
+end to maybe stop
+
+protests that are just a
+little bit annoying as here.
+
+The problem though
+with peaceful protest,
+
+if the problems with it start
+
+to outweigh the right to
+have that right to protest
+
+protected because
+there's an act or in
+
+a mission that's affecting
+the rights of the public as
+
+a whole and some members of
+
+the public have suffered
+special damage,
+
+then the courts might be
+more minded to interfere,
+
+and that's what we see in
+
+the City of London
+and Samede case.
+
+There were lengthy protests in
+
+that case that lasted
+for weeks where
+
+protesters camped outside St.
+Paul's Cathedral in London,
+
+it was on the news
+a lot at the time.
+
+I don't know if you remember it.
+
+But the claim here was brought
+by the local authority.
+
+We've got an instance
+where the local authority
+
+uses its discretion,
+
+its power to intervene.
+
+They bring a claim
+against a representative
+
+for the protesters camped
+outside St. Paul's Cathedral.
+
+This is what Mr. Justice
+Lindblom said in that case,
+
+'What are the limits
+to the right of
+
+lawful assembly and
+protest on the highway?
+
+In a democratic society,
+
+that's a fundamental question.
+
+It arises in this
+case in this way.
+
+Do those limits extend to
+
+the indefinite occupation of
+
+highway land by an encampment of
+
+protesters who say
+this form of protest
+
+is essential to their
+exercise of human rights,
+
+when the land that they've
+actually chosen to
+
+occupy is in a prominent
+place in the heart of
+
+the metropolis
+beside a cathedral
+
+of national and
+international importance,
+
+which is visited every year by
+
+many thousands of people and
+where many thousands more
+
+come to exercise
+their right under
+
+Article 9 of the Convention
+to worship as they choose.'
+
+Before the court, a claims
+
+made by the City of
+London Corporation.
+
+They want possession
+back of the highway.
+
+They want the land back
+near St. Paul's Cathedral,
+
+which has been occupied by
+
+the defendants as
+a protest camp.
+
+The city also seeks
+
+injunctions because they
+want the removal of
+
+tents and other structures
+
+that are comprised in that camp.
+
+The court found that
+during the presence
+
+of the protest camp and as a
+consequence of its presence,
+
+both public and
+private nuisances
+
+were caused, including noise.
+
+There was a nuisance of noise,
+
+the frequent disturbance
+and interruption of
+
+services that were taking
+place in St. Paul's Cathedral.
+
+Then these are the
+words of the court,
+
+'The generation of foul odour,
+
+the inscribing of graffiti on
+
+the surface of the
+highway and on buildings,
+
+the fixing of posters
+to buildings,
+
+urination on the highway
+and on buildings,
+
+and defecation on the highway
+among other matters.'
+
+Furthermore, the court said,
+
+'The obstruction of the
+highway is substantial.'
+
+Another phrase we're
+familiar with from
+
+private nuisance and is
+
+itself a public
+nuisance because it's
+
+infringing the
+common right of way.
+
+Thus clearly they said,
+
+'It's on the wrong
+side of the line that
+
+the court drew in
+DPP and Jones.'
+
+We get a reference in that case
+
+to the earlier case as well.
+
+Using that balance test in
+City of London and Samede,
+
+considering the length of time,
+
+considering the extent
+of the nuisance,
+
+the court found that there was
+
+a public nuisance here
+which was causing
+
+an infringement of
+the public right
+
+and it was causing
+common injury.
+
+The case was obviously
+less about compensation,
+
+and it really was focused on
+
+that counsel's request
+for an injunction to
+
+prevent the continuation of
+
+the protests that was
+taking place there.
+
+Then the final case,
+
+Three Counties Agricultural
+Society and Persons Unknown.
+
+I include it as a
+more recent case
+
+concerning protests
+and public nuisance.
+
+It was about defendants
+who were partaking
+
+in extinction
+rebellion protests.
+
+It related to protest
+by such groups against
+
+an annual event that was held by
+
+weapons and securities
+companies in particular,
+
+including the
+Ministry of Defence.
+
+It was actually a
+preemptive request that was
+
+made based on the claimant's
+past years experience.
+
+What they wanted was an
+injunction in place to prevent
+
+the level of disruption
+that protests
+
+in previous years had caused.
+
+It's just a case to show some of
+
+the administrative
+side of things.
+
+Most lawful protests would
+need relevant permissions.
+
+This was a case where
+those who were affected by
+
+protests were actually
+seeking to preempt matters.
+
+They knew it was coming again.
+
+The court said it was
+
+aware at the previous
+year's event that
+
+most protesters had demonstrated
+
+their rights peacefully
+and lawfully.
+
+But a few, they said,
+
+had resorted to unlawful means,
+
+including trespass and
+what they described as
+
+actionable nuisance in
+order to disrupt the event.
+
+The aim of this application by
+
+the event organisers was to curb
+
+via injunction some activities
+
+to prevent unlawful nuisance.
+
+They got the order
+that they wanted.
+
+I've got some more recent
+examples of this as
+
+well further on in our slides.
+
+But for now, having considered
+
+some common examples of
+
+public nuisance like
+blocking the highway,
+
+protesting, water
+contamination, I just
+
+want to take another look
+at this particular example.
+
+In fact, a few examples kindly
+
+provided by Lord
+Denning's judgement
+
+in this case of Attorney
+General and PYA Quarries,
+
+which I've obviously
+mentioned already.
+
+I'm not going to read the
+whole quote on screen.
+
+You can obviously look
+at it in your own time.
+
+But here, Lord Denning gives us
+
+a number of examples
+of the types of
+
+activities or the
+types of emissions
+
+which might amount to
+a public nuisance.
+
+Some we've already
+mentioned and he
+
+also breaks down when
+action should be
+
+taken collectively
+because something is
+
+a widespread nuisance
+and when action
+
+should be taken by individuals,
+
+both in public
+nuisance potentially,
+
+but just to give you an idea.
+
+The case itself concerned
+
+the activities of the
+quarry in the picture.
+
+Activities of a quarry
+were found to cause
+
+a public nuisance
+in the case because
+
+the stones vibration
+and dust were so
+
+widespread in range and so
+
+indiscriminate in effect that
+
+it was said to be
+a public nuisance.
+
+It wasn't private nuisance
+
+because it wasn't just an
+individual who was affected.
+
+It wasn't just a few
+collective individuals
+
+who were affected.
+
+The activities of
+the quarry were
+
+causing a much wider nuisance.
+
+It was common infringement,
+common interference,
+
+which made it public,
+
+not private in that
+particular case.
+
+I think that's quite
+a nice helpful quote
+
+just to draw some
+distinctions for you.
+
+I just wanted to draw
+some further comparatives
+
+as well between public
+and private nuisance.
+
+I've got the elements
+for you on the slide.
+
+Both require this idea of
+unreasonable behaviour,
+
+but I'd say they're
+judged differently.
+
+They can arise, so
+public and private
+
+can arise from the
+same set of facts.
+
+I gave you the Halsey and Esso
+case in private nuisance.
+
+I said, come back to it
+again when I've done
+
+the Rylands video
+recording for you.
+
+Same here because Halsey
+
+and Esso also talks
+about a public nuisance.
+
+Private nuisance, remember,
+is about protecting
+
+land holding rights whereas
+
+public nuisance doesn't require
+
+an interest in land at all,
+
+it's about public rights,
+
+more of a environmental
+interference.
+
+For public nuisance, you
+are looking for somebody,
+
+you are looking for a member of
+
+the public who's been affected
+
+above and beyond the damage
+
+that has been suffered by
+the public as a whole,
+
+something that's impacted
+them more above and beyond
+
+the common injury that
+
+the rights infringement
+has caused.
+
+Lord Justice Romer actually
+said in the quarry case,
+
+it's not necessary to prove that
+
+every member of the class has
+been injuriously affected.
+
+It's sufficient to show
+that a representative
+
+cross-section of the
+class has been affected.
+
+You're looking for
+a cross-section
+
+that have been affected.
+
+Those who have suffered
+something more,
+
+but it can't just be a group
+
+of collective private nuisances.
+
+Remember, Baroness Hale
+said you can't have that.
+
+You can see that
+sometimes it's not
+
+really easy to distinguish.
+
+Now, I've got a slide
+at the end for you,
+
+which helps make
+this point as well.
+
+Unlike private
+nuisance, where there's
+
+obviously no
+recovery remembering
+
+private nuisance
+for personal harm.
+
+Personal injuries are
+recoverable in public nuisance.
+
+You can also recover
+for damage to property.
+
+You can recover for any
+
+associated economic
+losses as well.
+
+For example, if
+you've had to take
+
+a longer journey home
+
+because there's a
+blockage on the highway,
+
+you might be able to recover
+
+the additional cost of petrol.
+
+Just some examples there of
+some of the distinctions.
+
+Then I'm just going to lead
+
+us to consider remedies as well,
+
+so the middle column here.
+
+But consider as
+well what remedies
+
+you want from a nuisance.
+
+You want the claimant
+they be placed back in
+
+the position they would have
+been but for the nuisance,
+
+so damages perhaps to
+compensate for the injuries,
+
+damages maybe to
+repair property,
+
+damages maybe to help
+out with any out of
+
+pocket expenses like
+
+the petrol example
+I've just given you.
+
+Compensatory damages, basically.
+
+There are different
+types of damage,
+
+which we will look at in more
+detail in the coming weeks.
+
+But the case of the
+contaminated water
+
+confirmed that whilst
+compensatory damages are payable,
+
+exemplary damages are not.
+
+This might be worth coming
+back to make a flag,
+
+come back to this when
+you've done damages.
+
+Exemplary damages, there are
+a particular type of damage.
+
+They're not just intended to put
+
+someone back in
+the position they
+
+would have been in but for the
+harm but for the nuisance.
+
+They are intended to punish and
+
+deter and they're
+rarely awarded,
+
+and that water
+contamination case that I
+
+mentioned earlier of AB
+with the sulphates in
+
+the water actually
+said you can't
+
+get exemplary
+damages in cases of
+
+public nuisance to punish or
+
+deter the water company
+from this happening again.
+
+All you can get is
+compensatory damages here.
+
+The rationale behind it,
+
+is that you'd have to
+compensate everyone affected.
+
+Not just those who
+were suffering
+
+some special damage,
+but everyone.
+
+In that instance,
+they might only get
+
+a smaller amount
+each and it would
+
+potentially bankrupt a company
+like South West Water.
+
+But that view that
+you can't have
+
+exemplary damages to punish
+
+and deter, particularly
+at the minute,
+
+I would say in the press with
+a lot of conversation about
+
+water rates and water not
+being of a suitable quality.
+
+It's had some quite
+negative judicial treatment
+
+in recent years,
+
+for reasons we'll talk about a
+
+little bit more when
+we get to remedies.
+
+But just remember that
+exemplary damages
+
+are as things stand
+at the moment,
+
+not recoverable in
+public nuisance cases.
+
+It's just compensatory,
+put you back as you were.
+
+Finally, often with nuisance,
+
+I'm going to say compensation is
+
+not necessary
+sometimes or it's not
+
+enough because what you
+actually want to happen
+
+still just like in the other
+
+land-based torts
+we've looked at,
+
+you want an injunction, you
+want the nuisance to stop.
+
+You want to prevent the
+nuisance from starting,
+
+the Extinction Rebellion case,
+
+preemptive or you want
+to stop it continuing,
+
+the St. Paul's Cathedral case.
+
+Remoteness is key as well,
+
+and might prevent a successful
+claim in public nuisance.
+
+You can use your common law,
+
+your Wagon Mound case,
+
+which was about public
+nuisance, in fact.
+
+It was the oil spillage.
+
+Remember in the harbour set
+
+alight by work done on a wharf,
+
+which caused fire damage
+then to the wharf.
+
+The court said that creating
+
+a danger to persons
+or properties
+
+in navigable waters
+equivalent to a highway,
+
+fell in the class of nuisance in
+
+which foreseeability is
+an essential element in
+
+determining liability
+and it wasn't
+
+sufficient that the
+injury suffered by
+
+the respondent's vessels was
+
+the direct result
+of the nuisance
+
+if that injury was in the
+relevant sense, unforeseeable.
+
+It's still that thing that the
+
+harm's got to be foreseeable.
+
+If you want to re-read
+that case with a view
+
+to understanding it in
+the context of nuisance,
+
+but harm has got
+to be foreseeable,
+
+can't be too remote from
+
+the defendant's
+acts or omissions.
+
+Obviously, in the
+Wagon Mound case,
+
+foreseeability was established.
+
+An example I'd say you
+can compare that to
+
+is that case of Savage
+and Fairclough,
+
+where a pig farmer took
+
+all the professional
+advice that he possibly
+
+could in regard to the use of
+
+fertilisers on the land
+to prevent contamination,
+
+and yet a nearby spring
+was contaminated.
+
+The farmer had followed all
+good practise at the time.
+
+The court found that on
+the knowledge at the time,
+
+the farmer couldn't have
+reasonably foreseen the result,
+
+the water contamination in
+
+the nearby spring that then
+
+rendered it unfit for
+human consumption.
+
+The court said it's for
+
+the claimants to prove
+the pollution of
+
+their drinking water by
+
+the defendant's activities
+were foreseeable,
+
+and they said the evidence was
+
+regarded by the trial judge as
+
+insufficient to
+demonstrate foreseeability
+
+of harm of the relevant type,
+
+and therefore, the claimants
+there couldn't recover
+
+damages from the
+defendant farmer.
+
+You've also got defences
+
+available again
+and we will cover
+
+defences in more detail
+towards the end of the module.
+
+I've placed a question mark
+
+here next to
+contributory negligence,
+
+which is fault
+sharing effectively,
+
+so fault of the claimant
+and fault of the defendant.
+
+It's not always thought
+of as a defence either,
+
+but it's one way of
+
+negating or at least
+mitigating liability.
+
+Consent of the claimant
+to the nuisance
+
+is another potential defence,
+
+but again, rarely used
+because how often would
+
+somebody actually consent
+to a public nuisance?
+
+Suppose maybe in lieu
+of payment of damages,
+
+perhaps, but again, quite rare.
+
+Again, we will be
+looking at those in
+
+a little bit more
+detail another time.
+
+Slide 12 briefly.
+
+I've offered some more
+recent examples that you're
+
+welcome to consider
+in your own time.
+
+The first five, like
+
+the three counties
+agricultural society case
+
+that I mentioned earlier,
+they're preemptive.
+
+You can see they're
+against persons unknown,
+
+which is often indicative
+that they're preemptive.
+
+The first one on screen Esso,
+
+it's about an extension
+of an injunction in
+
+relation to Extinction
+Rebellion and just stop oil.
+
+I think it was a combined one.
+
+Again, about protesting.
+
+They're obviously still
+quite concerned about
+
+the activities of
+individuals operating there.
+
+The Wolverhampton
+case, it's about
+
+an injunction to prevent
+street racing and
+
+the gathering of motor
+enthusiasts persons
+
+unknown because they don't
+know who the defendant is.
+
+They don't know who
+these street racers are.
+
+It's a range of people as
+
+well who might carry
+out the activities.
+
+For the Wolverhampton case,
+
+think Fast and Furious.
+
+Heathrow Airport case on
+there a bit further down
+
+is about an approval
+of continuance,
+
+so often these are about
+
+continuance of a
+five-year injunction,
+
+an interim precautionary
+injunction to
+
+restrain anticipated protests
+at Heathrow Airport.
+
+Again, about the building of
+
+new terminals and
+all the rest of it,
+
+new runways, aimed at just
+
+stop oil and other similar
+environmental campaigns.
+
+The final case, the
+Birmingham Council and
+
+Afsar case made the
+headlines because there were
+
+protests on religious grounds
+
+about the teaching of sex
+education in schools,
+
+and so they sought to prevent
+
+an ongoing public
+nuisance there.
+
+Have a look at those and
+just have a think, as I say,
+
+what the injunction is aimed at
+
+preventing events
+that might give rise,
+
+I would say to an individual's
+
+tortuous claims from the same.
+
+Then this is the
+example I want you to
+
+consider because I
+really like this one.
+
+It's a Californian case,
+
+so it's US law,
+
+but I think it aptly
+demonstrates how
+
+we work through
+the questions that
+
+I've put on the
+next slide for you.
+
+California law, I'm reliably
+
+informed by Dr. Blakely
+who has practised there,
+
+it's not too dissimilar from
+
+our own here in
+England and Wales.
+
+I include this case
+because, A, I like it,
+
+but also because in Dr.
+Blakely's considered opinion,
+
+Sriracha is the best
+hot source company.
+
+The lawyer in me insisted
+that I couldn't say that.
+
+I'd have to include
+a disclaimer.
+
+You think I work for the
+BBC, but other good,
+
+great, maybe even better hot
+sources might be available.
+
+Let you have the
+great debate with Dr.
+
+Blakely if you want to do so.
+
+But the case was a
+public nuisance claim.
+
+It was a public nuisance claim
+
+brought on behalf of residents
+
+in the area around
+the factory which
+
+produces this
+particular hot source.
+
+I haven't got a case
+report for you,
+
+but we've got a link to some of
+
+the press coverage
+that you can see.
+
+The plants that they use
+that makes the sauce,
+
+5.4 million kilogrammes of
+
+chilli peppers a year are
+processed in the factory.
+
+I can't even begin to imagine
+
+what that many chilies
+look like or smell like,
+
+but 1,400 people can
+give you an idea.
+
+They sued, 1,400 of them sued
+
+in public nuisance on
+the basis that emissions
+
+from the factory that ground
+
+these chilies down to make
+this particular sauce
+
+caused an unreasonable
+interference with
+
+their public rights
+causing common injury.
+
+They were suffering
+with nose bleeds,
+
+coughing fits, stinging
+eyes, headaches,
+
+you name it, they
+had it and they were
+
+successful in getting
+an injunction.
+
+Although by the time they
+got their injunction,
+
+the grinding season was over,
+
+so it didn't do them much good,
+
+but hopefully help them
+out in the future.
+
+But I suppose my question is,
+
+what might be an issue with
+
+the recovering damages
+in public nuisance?
+
+Because you bear in
+mind that all parties
+
+there have suffered
+common injury.
+
+There's no known case
+where an individual or
+
+individuals were successful
+in establishing that
+
+they'd suffered over and
+above the public at large,
+
+but they were still successful.
+
+It didn't matter. They
+were still successful.
+
+They got their injunction,
+
+and I think we'd all
+agree if we were living
+
+nearby and suffering
+that nuisance,
+
+that that's probably the
+right outcome in that case.
+
+But as I say, in
+terms of our law,
+
+we're looking for somebody who
+
+suffered over and above
+the public at large and
+
+it's very hard to identify
+individuals in that situation.
+
+The last few minutes
+then just to remind you,
+
+what we have to consider,
+
+these are the questions
+that you need to ask.
+
+You're asking, has there
+been an act or omission that
+
+affects the public as a whole?
+
+Public as a whole
+think widespread.
+
+Has the claimant suffered
+
+any special or particular
+damage over and
+
+above the common injury that
+
+the public as a whole
+has experienced?
+
+If so, are there any
+defences available?
+
+If not, what are the
+remedies that are available?
+
+I haven't included
+remoteness on there,
+
+but obviously, that's
+another question to ask.
+
+Was the special damage,
+
+was this particular damage
+that the claimant has
+
+suffered over and above
+the public at large,
+
+was it foreseeable, or
+is the loss too remote?
+
+Then I've just included for you
+
+a summary because we've
+
+got through these
+relatively quickly.
+
+We've got a summary of all
+the different land torts
+
+that we've been considering.
+
+I've put on here
+
+what I think is quite
+a helpful tool from
+
+an old textbook that
+
+gives you an idea of what you're
+
+looking for in
+terms of indirect,
+
+direct, what can,
+
+what cannot be recovered.
+
+I'm going to remind you
+to have another look at
+
+the Halsey and Esso case as
+
+well because that shows
+
+the interaction of
+all of them together.
+
+Then these are our elements for
+
+all the different ones
+by way of revision,
+
+hopefully quite helpful for you.
+
+That's Rylands, reminder,
+
+private nuisance
+and Rylands are on
+
+the recordings for you.
+
+Just a reminder there,
+
+hopefully, that
+image says to you,
+
+you have to identify
+this individual,
+
+somebody above and beyond
+who's been injured and
+
+remember that it does
+have to be a crime.
+
+Thank you very much everyone.
+
+I'll see you next week for
+
+employers liability.
+Have a good weekend.
+

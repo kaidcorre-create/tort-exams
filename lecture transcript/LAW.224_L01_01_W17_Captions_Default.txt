@@ -1,0 +1,2626 @@
+FEMALE_1: Morning,
+everybody. I made
+
+it this Monday
+morning for 9:00 A.M.
+
+Just a reminder of
+the annual law summit
+
+taking place on Saturday
+7th March on campus,
+
+which does sound fantastic.
+
+I know your law society have
+put a lot of work into it so
+
+do scan the code and consider
+attending if you can.
+
+We are moving on today.
+
+We are leaving our property
+torts behind and indirectly,
+
+we are returning to
+negligence and some of
+
+the trespass against
+the person torts as
+
+well because this week and next,
+
+we are going to cover what I
+
+collectively term
+employer's liability.
+
+But it's broken
+down into issues of
+
+non delegable duty and
+vicarious liability.
+
+Your textbook actually has
+two separate chapters.
+
+One it terms employer's
+liability and
+
+one it terms
+vicarious liability.
+
+Your reading list is on MOODLE.
+
+It's under this week's lectures
+for this week and next.
+
+What we'll see as we go
+
+through is that
+relationships which
+
+are similar to or
+akin to employment,
+
+if we borrow the
+correct terminology,
+
+can give rise to
+employer's liability
+
+as well under
+vicarious liability.
+
+It's why textbook
+splits them as it does.
+
+One is a direct
+liability and one
+
+is an indirect liability
+of an employer.
+
+Non delegate duty, it's
+a personal liability of
+
+the defendant or an employer
+
+for breach of their
+duties of care.
+
+It might include a
+breach of some of
+
+their statutory duties as well,
+
+as much as it does
+their common law duties
+
+and vicarious liability,
+
+it's a liability that's
+
+imposed on a defendant
+or an employer,
+
+as a result of the actions
+or the emissions of
+
+a third party or rather their
+employees usually as well.
+
+Employees liability will
+also form the basis of
+
+your final workshops
+in weeks 19 and 20,
+
+which are coming round
+relatively quickly,
+
+in week 17 already.
+
+So before we begin, I just offer
+
+a little bit of a
+content notice in
+
+relation to some of the
+case law that we'll discuss
+
+as we work our way through
+these next four lectures.
+
+As is always the case,
+
+the principles of law
+themselves are one thing.
+
+They're the most important thing
+
+that we're going
+to be looking at,
+
+but the facts of the
+cases from which some of
+
+the principles of law
+
+arise in the context of
+employees liability,
+
+often contain quite sensitive
+
+and difficult content as well.
+
+We're going to be looking at
+
+some cases which relate to how
+
+we establish the tests
+
+for liability in these
+types of scenarios.
+
+Some of those might
+include sexual offences,
+
+historic instances of
+
+child sexual abuse, there's
+quite a number of those.
+
+We're also going
+to see some cases
+
+which might involve loss of
+
+life or loss of limb in
+the workplace as well.
+
+Just to say that we
+won't be going into
+
+too much detail in regards
+to those in lectures,
+
+only passing reference
+will be made
+
+really to give it the context.
+
+Whilst I'd say the
+cases themselves
+
+generally deal with the facts
+very much as an overview,
+
+as a means to give you
+
+the background to
+determine liability,
+
+just be aware that we are
+
+dealing here with cases
+that deal with more than
+
+just slips and trips and
+
+falls from height and
+thing in the workplace so
+
+just be mindful of that
+as we go through both in
+
+your lectures and
+when discussing
+
+these cases in your
+final workshop as well.
+
+By the end of our lectures
+on this topic then you will
+
+appreciate that
+non delegable duty
+
+and vicarious liability,
+
+they're not separate torts.
+
+They are a means by which we
+
+try to establish a
+defendant's liability.
+
+It's quite important
+because what
+
+these concepts
+point to is who is
+
+liable for the harm that
+has been suffered by
+
+the claimant as
+opposed to what's
+
+the tort and what are
+the elements of it.
+
+It's looking at
+things a little bit
+
+differently to how we
+have all the way through.
+
+You'll hopefully
+understand by the end that
+
+non delegable duty and
+
+vicarious liability
+interact with
+
+the other torts that
+we've looked at,
+
+torts with which you
+are already familiar.
+
+On the basis that these concepts
+
+are not torts themselves,
+
+you're going to need
+to also look for
+
+the tort on which
+
+the liability of the
+defendant is based.
+
+You might need to consider
+the tort and then
+
+you might need to decide
+who's your defendant,
+
+who's liable on the basis of
+
+either a non
+delegable duty or who
+
+is vicariously
+liable for the harm.
+
+Understand the development
+of the laws in relation
+
+to non delegable duty
+and vicarious liability.
+
+They have been on a
+bit of a journey,
+
+largely developed
+through the common law,
+
+so not unexpected.
+
+But as you'll see,
+both concepts have
+
+developed quite a lot
+in the last 20 years.
+
+We seem to be slowing down a
+little bit in recent years,
+
+but they have been on
+the move and you'll
+
+hopefully understand and
+know when to consider
+
+the laws on non delegable duty
+
+and vicarious liability as well.
+
+It's going to be really
+important to identify,
+
+particularly in problem
+questions in an exam,
+
+for example, when these are
+
+the key issues that
+need to be discussed.
+
+A bit like I
+
+always say to workshop groups
+
+that it's important to identify,
+
+for example, when
+a questions about
+
+occupiers liability as opposed
+to ordinary negligence.
+
+The same is very true in
+these instances as well.
+
+In a question which
+raises issues of
+
+non delegable duty or
+vicarious liability,
+
+the key area for
+discussion is going to be
+
+as much on these as it is on
+
+the torque probably
+that's arisen as well
+
+so there should be analysis of
+
+who's liable and why
+using the tests that
+
+you'll learn as we go through
+the next few lectures.
+
+The tests that we get,
+
+again, we tick
+boxes in tort law.
+
+The tests will help you
+identify, I would say,
+
+when it would be applicable to
+
+speak about these
+particular issues.
+
+They are linked to,
+
+but they are separate and
+apart from the torts.
+
+You'll also need to know
+which elements to apply in
+
+order to determine a
+defendant's liability for
+
+either breach of a non
+delegable duty or to hold
+
+them liable for the acts or
+omissions of a third party,
+
+which is vicarious liability.
+
+So as I say, one
+of these creates
+
+a personal liability
+and the other
+
+creates something that we
+call vicarious liability.
+
+I really like this
+definition that
+
+Winfield and Jolowicz
+on tort offer.
+
+They give a relatively
+thorough description of
+
+the two and their interaction
+
+with each other as well as
+
+with the ordinary duty of care.
+
+I've substituted words to
+
+situate that quote within
+the employment context,
+
+which is obviously how
+we're looking at it.
+
+First, because employment
+concerns the majority of
+
+cases that we're going
+to look at and second,
+
+because I think it really helps
+
+to understand it in
+this particular way.
+
+It is a lengthy quote, but
+we'll just run through it.
+
+The first part there, a non
+delegable duty of care is
+
+often described as a duty
+
+to ensure that reasonable
+care is taken.
+
+The idea is that the employer
+will breach it simply
+
+because a third party or
+
+an employee fails
+to take such care.
+
+This means there doesn't
+
+need to be fault on the
+part of the employer.
+
+If the law says they
+
+cannot delegate their
+duty of care to another,
+
+then it doesn't prevent
+
+them from entrusting
+another person with a task.
+
+The employer can't
+do everything.
+
+That's why they've
+got employees,
+
+but it means that
+the employer remains
+
+liable even if they've exercised
+
+proper care and
+skill in training
+
+that employee to do
+a particular task
+
+that's being entrusted to them.
+
+It is a personal liability
+of the employer.
+
+It's this idea that the
+duty of an employer
+
+is non delegable established
+in the common law,
+
+but also because they hold
+
+many statutory duties
+of care as well.
+
+We're not concerned on this
+course with statutory duties.
+
+We'll take a look at
+some in a second,
+
+just to give you some context,
+
+we do look at it more from
+the common law point of view.
+
+We've got this non
+delegable duty,
+
+personal liability
+of our employer
+
+for things that they
+cannot delegate,
+
+can't delegate liability,
+can delegate the tasks,
+
+can't delegate liability is
+maybe the way to look at it.
+
+The second part of this quote is
+
+a non delegable duty of care is
+
+distinct from an
+ordinary duty of care.
+
+We know that the ordinary
+duty of care is to take
+
+such care as is reasonable
+
+in all circumstances
+of the case,
+
+because an employer
+can breach the
+
+former even if he has
+taken reasonable care,
+
+whereas to breach the latter,
+
+he himself must fail to
+take reasonable care.
+
+One is not fault based and
+the other the common duty
+
+of care that we're
+familiar with from
+
+negligence is fault based.
+
+Finally, the third part of
+
+the quote is that
+liability arising under
+
+a non delegable duty
+is distinct from
+
+vicarious liability because in
+
+relation to the former type,
+
+nothing in particular turns on
+
+the relationship
+between the employer
+
+and a third party or employee.
+
+Whereas that is of
+
+central importance to the
+latter species of liability.
+
+This is because personal
+liability is non delegable,
+
+so remains with your employer
+
+regardless of whether
+they delegate
+
+the task to someone else or not.
+
+Whereas vicarious liability
+is about the liability of
+
+the employer for the
+tortious actions
+
+or omissions of their employees.
+
+Whether that tortious act or
+
+omission was sufficiently
+connected to the work
+
+that's done by the employee
+in order for us to hold
+
+the employer liable or
+
+was the act or omission
+that the employee did,
+
+was that outside of
+the employment and
+
+therefore not able to
+hold the employer liable?
+
+You can be liable
+largely for what
+
+your employees do
+on their own time,
+
+as long as it's
+connected to the work.
+
+Obviously, if it's outside
+of their work, you can't be.
+
+If they're acting on
+their own behalf,
+
+your employer is never
+going to be liable.
+
+We're going to
+take a closer look
+
+at the tests and we're
+going to take a look on
+
+which cases employers or
+
+other defendants have been
+held vicariously liable so,
+
+you'll be able to hopefully
+
+note the distinctions
+between them.
+
+When you know a little bit more,
+
+about these duties
+and responsibilities,
+
+I'm going to say come
+back to this tort
+
+because it should
+make much more sense
+
+to you once we've gone through.
+
+As I say, I like it because I
+
+think it marks that distinction
+
+between non delegable and
+vicarious liability and also
+
+it distinguishes it from
+ordinary negligence and
+
+the usual duty of care
+
+that we're much
+more familiar with.
+
+But Part 1 of our
+employer's liability,
+
+we are focusing on these non
+delegable duties of care.
+
+That is the personal
+liability of a defendant
+
+where liability rests
+solely with them,
+
+sometimes because
+of their own fault,
+
+but sometimes regardless
+of their fault.
+
+As I said, low of
+employees liability
+
+has been on a journey and
+it's been on a journey
+
+because health and safety at
+
+work did not used to be a thing.
+
+Here in the Northwest,
+we had lots of
+
+cotton mills in the 1800s,
+
+industrial revolution and
+in those cotton mills,
+
+you had children as young as
+six that were working there.
+
+Small hands could free jams
+under the cotton looms
+
+and they risked serious injury
+
+or death by working
+in those mills.
+
+Thankfully, times have
+changed and we now
+
+live in a place
+obviously not only
+
+where child labour is
+no longer the norm,
+
+certainly not in the UK, but
+
+we live in a country
+where there is
+
+an expectation of
+health and safety in
+
+the workplace that when you
+go to work, you will be safe.
+
+Other countries obviously
+around the world not so
+
+lucky and these protections
+aren't always in place.
+
+But you can start to see
+this journey on this slide.
+
+We've got Priestley and Fowler,
+
+which is an 1837 case.
+
+Priestley and Fowler appeared to
+
+introduce a concept
+of common employment.
+
+Meaning that an employer
+
+could not be liable for
+
+the acts or omissions
+of its employees.
+
+The reasoning behind Priestley
+
+and Fowler was that
+employees undertook
+
+a contract to work and that
+
+those employees did so on
+the understanding that
+
+they would behave
+responsibly and were
+
+therefore liable
+for their own acts
+
+of negligence so essentially,
+
+liability in the 1800s was
+delegated to the employees.
+
+We then get the Law Reform
+Personal Injuries Act of 1948,
+
+Section 1, Subsection 1.
+
+This makes it clear that
+
+that idea of common employment
+is a thing of the past.
+
+You can start to see that
+things are changing.
+
+The legislation established that
+
+employers were not only
+personally liable,
+
+but that they could also be
+
+vicariously liable for the acts
+
+or omissions of their employees.
+
+We get these two
+forms of liability
+
+coming out of the Law Reform
+Personal Injuries Act.
+
+Why do we have two
+forms of liability?
+
+You can have vicarious liability
+
+and no personal liability,
+
+no non delegable duty,
+
+and you can have
+personal liability
+
+and no vicarious liability.
+
+We'll see as we go
+through that the law
+
+regards these two as
+distinct from one another.
+
+I'm going to say, see the case
+
+of Arms and Nottinghamshire,
+
+which is on the last slide.
+
+Again, some of what
+I'll say will make
+
+a bit more sense
+as we go through.
+
+I'd say even before we
+had the Law Reform Act,
+
+case law had started to
+
+chip away at
+Priestley and Fowler,
+
+had started to chip away at
+
+this idea of common employment.
+
+We've got this case law here,
+
+Wilsons and Clyde
+Coal and English from
+
+1938 and this is still good law.
+
+This said that an employer
+has a duty of care and
+
+that obligation is fulfilled by
+
+the exercise of due
+care and skill.
+
+But it's not fulfilled by
+
+entrusting its
+fulfilment to employees,
+
+even though selected
+with due care and skill.
+
+They said the obligation
+is threefold.
+
+You've got to provide
+competent staff,
+
+you've got to provide
+adequate material,
+
+you've got to provide
+a proper system
+
+and effective supervision.
+
+This case of Wilson effectively
+
+established that employers have
+
+a non-delegable duty of care.
+
+They can't just say, well,
+
+I entrusted that to my
+employee or to somebody else.
+
+The employer takes overall
+responsibility and then we
+
+get that confirmed a number of
+
+years later in the act as well.
+
+Again, it might help to
+understand some of the facts.
+
+Wilson concerned injury to an
+employee of the coal mine.
+
+The manager of this
+particular pit had,
+
+as was within his
+remit as manager,
+
+had designed a system of
+working which proved to
+
+be unsafe and that caused
+injury to the employee.
+
+It didn't matter that
+the manager was probably
+
+perfectly competent and was
+
+entrusted with this
+responsibility.
+
+The court said providing
+safe systems of
+
+work is one of the non-delegable
+duties of the employer,
+
+the owners of the mine,
+
+as opposed to the
+manager of the mine.
+
+The owners of the mine were
+
+held liable in Wilson
+and Clyde Coal.
+
+It has practical and
+
+also theoretical
+ramifications as well.
+
+If you have to sue an employee,
+
+one they'd probably be really
+
+hard to identify individually.
+
+Two, they also wouldn't have
+
+the money to satisfy a claim.
+
+Three, the employer is
+
+the person with overall control
+and there's a suggestion
+
+that they wouldn't learn or they
+
+wouldn't have incentive to
+
+amend their systems of work
+if they weren't held liable.
+
+It's threefold as to why we hold
+
+the employer liable and not
+the individual employee.
+
+Non-delegable duty is this
+
+personal liability
+of the employer
+
+and it includes breaches
+
+of the common duty of
+care and as I say,
+
+also breaches of
+statutory duty as well.
+
+Like I say, we're not overly
+
+concerned with breaches
+of statutory duty,
+
+so you don't need to learn them,
+
+but I just wanted to give you
+
+an idea against which
+
+the common law
+currently sits as well.
+
+If any of you go on to work
+in personal injury law,
+
+it'll be these
+which you probably
+
+become more familiar with.
+
+The Health and Safety
+at Work Act 1974
+
+provides many duties,
+but particularly,
+
+it says it should be the duty of
+
+every employer to ensure,
+
+so far as it is reasonably
+practical, the health,
+
+safety and welfare at
+work of all employees.
+
+That includes providing
+
+safe systems of
+competent employees.
+
+I encapsulates the common
+law duty of care that
+
+we've got in the Wilson
+and Clyde Coal case.
+
+It also includes provision
+of safe plant and machinery,
+
+arrangements for storage and
+
+handling of articles
+and substances,
+
+training and supervision,
+
+as well to ensure.
+
+Again, so far as it is
+reasonably practicable,
+
+the health and
+safety of employees.
+
+It includes things
+like safe access and
+
+egress as well within premises.
+
+Along with that
+generalised duty,
+
+there's lots of regulations
+that employers are
+
+expected to follow in
+order to avoid liability.
+
+The Health and Safety
+Executive in England and
+
+Wales they enforce many
+of these regulations;
+
+you can see all of them,
+
+I would say the
+link on the screen.
+
+Some are very specific to
+certain industries so like
+
+radiation and offshore
+installation, very particular.
+
+But I've just listed
+on the slide some of
+
+the more common ones that are
+
+applicable to most workplaces.
+
+You've got manual handling
+operations, regulations,
+
+provision and use of work
+equipment regulations,
+
+working at height regulations.
+
+They're all designed to
+
+enable an employer to comply
+with its obligations,
+
+conduct appropriate
+risk assessments
+
+and that kind of thing
+of its activities.
+
+Failure to comply with these
+regulations can assist
+
+to establish an
+employer's liability for
+
+breach of their
+non-delegable duty of care.
+
+Health and Safety Exec,
+
+they've got really
+broad powers and
+
+duties and they can take
+
+a wide range of action
+authorised under the 1974 Act.
+
+They can even take
+steps to prosecute
+
+a defendant who fails to comply.
+
+You can see why it's
+important based on
+
+the stats on the opposite
+side of the screen.
+
+I've got them there from 23,
+
+24, then the most up-to-date
+ones at the minute,
+
+but over 600,000 people
+have sustained an injury
+
+at work and 138
+deaths in that year,
+
+for which those stats
+were available.
+
+Even before the introduction
+of the legislation,
+
+we could see the development
+of the non-delegable duty in
+
+cases like general cleaning
+contractors and Christmas,
+
+which was from 1953.
+
+This case concerned
+a window cleaner.
+
+That window cleaner had
+fallen and sustained injury.
+
+The employer had provided
+safety harnesses.
+
+But the problem with these
+safety harnesses was
+
+that they couldn't
+be used on some of
+
+the buildings where the claimant
+
+was working because there were
+
+inadequate fixtures to attach
+the safety harnesses to.
+
+They had grown up a practise of
+
+employees making do without
+the safety harnesses.
+
+The employer alleged that
+
+the claimant had
+therefore consented to
+
+the risk in adopting the
+system of work that he
+
+had and hadn't
+alerted them to it.
+
+But the court said,
+no, as the employer,
+
+you've got a non-delegable
+duty of care.
+
+It was the duty of the employers
+
+to instruct their
+servants, their employees,
+
+what precautions they
+ought to take so as
+
+to ensure that any
+system of work they
+
+had was adopted and was as
+
+reasonably safe as it
+could be made and they
+
+needed to take
+reasonable steps as
+
+the employer to ensure
+
+that those instructions
+were carried out.
+
+Because they failed to do that,
+
+they hadn't discharged
+their duty of care towards
+
+the claimant and so
+they were liable
+
+to him in respect to
+the injury he suffered.
+
+It's this idea of providing
+
+safe systems of work and making
+
+sure that those safe systems of
+
+work are implemented as well.
+
+The case is also
+a foundation for
+
+the fact that employers have to
+
+expect that sometimes employees
+
+will fall into bad habits.
+
+Lord Reid put it like
+this: 'Where a practise of
+
+ignoring an obvious
+danger has grown up,
+
+I do not think that it
+is reasonable to expect
+
+an individual workman to take
+
+the initiative in devising
+and using precautions.
+
+It's the duty of the employer
+to consider the situation,
+
+to devise a suitable system,
+
+to instruct his men
+what they must do and
+
+supply any implements
+that may be required.'
+
+You've got to take
+account of the fact
+
+that sometimes your
+employees don't
+
+listen or they fall into
+bad habits after some time,
+
+regular training would obviously
+
+be the answer to some
+of that as well.
+
+I took a little bit
+of a deviation there,
+
+but I'm coming back to this
+Wilson and Clyde Coal case.
+
+I'm coming back to what Lord
+Reid had to say in regard
+
+to non-delegable duties and
+
+this idea of personal
+liability of the employer,
+
+because he said, what
+is the extent of
+
+the duty attaching
+to the employer?
+
+Such a duty is the
+employer's personal duty,
+
+whether he performs or
+can perform it himself,
+
+or whether he does not perform
+it or cannot perform it,
+
+saved by servants or agents.
+
+A failure to perform
+
+such a duty is the employer's
+personal negligence.
+
+This was held to be the case
+
+where the duty was
+statutory and it is
+
+equally so when the duty is
+one attaching at common law.
+
+Lord Denning also took up
+this point and highlighted
+
+the same principle
+in this case of
+
+Cassidy and Ministry of Health.
+
+He said, I take it to be clear
+law as well as good sense
+
+that where a person is himself
+under a duty to use care,
+
+he cannot get rid of
+
+his responsibility by delegating
+
+the performance of
+it to someone else,
+
+no matter whether
+the delegation be to
+
+a servant under a
+contract of service,
+
+that's an employee or to
+
+an independent contractor
+under a contract for services.
+
+That would obviously be
+an external third party.
+
+This discussion, as well,
+
+about independent
+contractors leads
+
+me on now to consider
+the leading case
+
+on non-delegable duties.
+
+This is Woodland and Swimming
+Teachers Association.
+
+Again, we need to know
+a little bit about
+
+the facts of this case
+to understand it best.
+
+The 10-year-old
+claimant in Woodland,
+
+as part of her
+school curriculum,
+
+was required to learn to swim.
+
+That was outsourced
+by the school to
+
+independent
+contractors who worked
+
+out of the local swimming baths.
+
+It took place during
+the school day.
+
+At some point, during
+
+the course of her
+class swimming lesson,
+
+she was spotted hanging
+upside down in the water.
+
+There were the
+swimming instructors
+
+and the Polson
+lifeguard on duty.
+
+None of them could say how
+long she'd been in difficulty.
+
+But it was long enough.
+
+She'd suffered a head injury.
+
+She was unconscious in
+the water and it was long
+
+enough that she suffered
+
+brain injuries as a result
+of a lack of oxygen.
+
+She had severe hypoxic
+brain injuries.
+
+The claim is brought by
+her litigation friend.
+
+You need a litigation
+friend to bring
+
+proceedings on behalf of
+somebody under the age of 18.
+
+It's usually a parent
+and the claim was
+
+brought on her behalf
+against a number of parties.
+
+It was brought
+against the school,
+
+the local authority,
+
+the swimming baths and
+the swim instructors.
+
+Really, the question was,
+
+who was the defendant here?
+
+Who should the claimant
+actually proceed
+
+in a claim for damages against?
+
+The case focused on the school
+
+that's run by the local
+education authority,
+
+which was incidentally
+a different
+
+local education authority
+
+or a different local authority,
+
+should I say, to where the
+swimming bats were situated.
+
+Lord Sumption gave
+this lead judgement.
+
+He said, "Where
+delegable duty arises,
+
+the defendant is liable not
+because he has control,
+
+but in spite of the fact
+that he may have none.
+
+The essential
+element, in my view,
+
+is not control of
+the environment
+
+in which the
+claimant is injured,
+
+but control over the claimant
+
+for the purposes of performing
+
+a function for which
+
+the defendant had
+assumed responsibility."
+
+In other words, the local
+education authority
+
+did not have control
+over the swimming baths.
+
+They didn't have control over
+
+the independent contractor,
+the swimming instructors,
+
+but they had assumed
+responsibility
+
+for the safety of that
+child during school hours.
+
+Lord Sumption goes
+further and he gives
+
+us a test about how you were to
+
+determine whether or not a
+non-delegable duty exists.
+
+I'd say the statement
+that we've just
+
+looked at on the
+previous slide is
+
+perhaps the test in
+its simplest format,
+
+but this is the lengthy test
+
+to work through and
+we do like testing.
+
+We do like this
+tick box exercise
+
+to help in the
+establishment of liability.
+
+Makes our lives easier, I'd say,
+
+in terms of problem questions.
+
+The defining features of
+
+a non-delegable duty
+are as follows.
+
+He said, the claimant is
+a patient or a child or,
+
+for some other reason,
+
+is especially vulnerable or
+
+dependent on the protection of
+
+the defendant against
+the risk of injury.
+
+We can say, yes,
+
+the claimant in this
+particular case is a child
+
+was dependent on the school
+
+to guard them against
+the risk of injury.
+
+He then said, there is
+
+an antecedent or a prior
+relationship between
+
+the claimant and the defendant
+
+independent of the negligent
+act or omission itself.
+
+We can say that exists in
+
+the case of all schools
+and their pupils,
+
+they have a relationship
+between them,
+
+which places the claimant
+in the actual custody,
+
+charge, or care
+of the defendant.
+
+Again, yes, this is
+during school time,
+
+this is during school hours.
+
+From which he says
+it is possible to
+
+impute to the defendant
+the assumption of
+
+a positive duty to protect
+the claimant from harm
+
+and not just a duty
+to refrain from
+
+conduct which will foreseeably
+damage the claimant.
+
+This is different from
+our common duty of care,
+
+which is framed in
+more negative terms.
+
+In caring for a child,
+
+a school have assumed
+a positive duty.
+
+He says it's a characteristic of
+
+such relationships that they
+
+involve an element of
+control over the claimant,
+
+which varies in intensity from
+one situation to another,
+
+but is clearly very
+
+substantial in the case
+of school children.
+
+The third stage of the test
+is that the claimant has
+
+no control over
+how the defendant
+
+chooses to perform
+its obligations.
+
+They say whether personally
+
+or whether through employees,
+
+or whether through
+third parties.
+
+This is the case because
+
+what child at school
+
+can decide where they
+take their swim lessons.
+
+It's left to the school,
+the school's paying for it,
+
+local education
+authorities funding it.
+
+They have no control over
+
+the local education authority
+
+choose to perform
+its obligations.
+
+Fourthly, the defendant has
+delegated to a third party
+
+some function which is
+an integral part of
+
+the positive duty which he has
+
+assumed towards the
+claimant and that
+
+third party is exercising for
+
+the purposes of the function
+thus delegated to him,
+
+the defendant's
+custody or care of
+
+the claimant and the element
+
+of control that goes with it.
+
+The school aren't acting here,
+
+but they have delegated
+
+part of that positive
+duty to another.
+
+They've delegated it
+to the swimming bats.
+
+Finally, the third party
+has been negligent,
+
+not in some collateral respect,
+
+but in the performance
+of the very function
+
+assumed by the defendant and
+
+delegated by the
+defendant to him.
+
+This was clearly the case here.
+
+We could run through how
+the swimming instructor or
+
+the baths whom the lifeguard
+
+was employed by were negligent.
+
+Duty breach.
+
+But arguably res
+ipsa applies here,
+
+facts speak for themselves.
+
+There was clearly
+some negligence
+
+for the claimant to have
+been under the water for
+
+a sufficiently long
+enough time to sustain
+
+the injuries which
+she had suffered.
+
+On this basis of working
+through this test,
+
+the court held the local
+education authority
+
+liable for the injuries
+that the claimant
+
+sustained on the basis that
+
+the local education
+authority had
+
+a non-delegable duty of care.
+
+It's not an
+employment situation,
+
+but it raised questions about
+caregivers and schools.
+
+It's accepted incidentally that
+
+hospitals also have
+
+non-delegable duties
+to their patients.
+
+Whether or not
+they perform, say,
+
+an operation themselves
+or whether they
+
+outsource it perhaps
+to a private provider,
+
+which is obviously becoming
+more and more common to try
+
+and cut down an HS
+waiting list these days.
+
+They also have non-delegable
+duties to their patients,
+
+whether they perform
+the surgery or whether
+
+a third-party private
+provider does.
+
+In this case of Woodland,
+
+we've got this modern
+statement, I would say,
+
+of how to determine
+whether or not
+
+a non-delegable duty exists.
+
+There's a test for that
+and we could go through
+
+a problem question
+and we can apply
+
+this test to the facts
+as I've just done,
+
+obviously, there with the
+case itself of Woodland.
+
+Other cases where
+non-delegable duties of care
+
+have been found to exist
+to give it some context.
+
+Some of these you'll
+be familiar with.
+
+Latimer and AEC Limited.
+
+You'll be familiar with this
+one from your lectures and
+
+workshops on breach of
+duty and negligence.
+
+If you recall, it was a
+relevant cost of precautions,
+
+but it was a workplace accident.
+
+It was also a question
+of employer's liability.
+
+The question in Latimer was,
+
+had the defendant discharged
+the defendant employer,
+
+had they discharged
+their duty of care?
+
+In determining that,
+you could take
+
+into account the cost
+of precautions of
+
+doing so to determine what
+
+the standard was and
+then whether or not
+
+the defendant employer had
+fallen below that standard of
+
+care and then was the
+defendant employer in breach?
+
+But the case also confirmed that
+
+whilst the duty is
+one to take care,
+
+they didn't have to take
+
+unreasonable steps even against
+
+those risks that
+were foreseeable.
+
+There are limits on
+what steps an employer
+
+takes or needs to take in order
+
+to fulfil their duty
+and in order to
+
+ensure they don't breach
+their duty of care.
+
+I'd say this case is a
+good example of the fact
+
+that even non-delegate duties
+
+have their limits to ensure that
+
+employee is safe
+in the workplace.
+
+Paris and Stepney again,
+
+another one you'll be
+familiar with from
+
+our breach lectures
+and I'm looking
+
+at it here in the context
+of employer's liability.
+
+But the case highlighted that
+
+each individual's employees'
+circumstances are obviously
+
+important to
+determining whether or
+
+not our employer has
+fulfilled their duty of care.
+
+They've got to take into
+
+account their employees'
+circumstances.
+
+Here, obviously,
+it's the fact that
+
+the risk of the
+employer's work to
+
+the one-eyed employee
+in Paris was
+
+greater than to other
+employees with perfect vision.
+
+The duty of care might be
+
+greater to one employee
+than another based
+
+on what your employer knew
+or ought to have known.
+
+Non-delegable duties
+can also have
+
+individual application as well.
+
+That's part of the
+risk assessment
+
+that employers have got to do.
+
+James-Bowen, again,
+you might have
+
+come across this
+one in negligence,
+
+but it's a tricky
+one in terms of
+
+its facts, but specifically,
+
+it was a case which
+advocated for
+
+the incremental approach
+that we find in Robinson.
+
+The case of James-Bowen
+spoke about
+
+this duty of care between
+
+police chiefs and
+their officers,
+
+which is not an
+employment situation,
+
+incidentally, chief of
+police and police officers.
+
+It's not an employment situation
+
+in the usual sense of the word,
+
+but it's analogous to employment
+
+between a police officer
+and a chief constable.
+
+The court found that the duty of
+
+care of a force to its officers
+
+didn't extend to
+the way in which
+
+the police chief decided
+to conduct litigation.
+
+It was a case about
+employer's liability.
+
+The police officers in
+the case were really
+
+unhappy about the way
+their bosses conducted
+
+litigation because
+their bosses settled
+
+a claim against a
+party who had been
+
+arrested and who had
+then claimed that
+
+four officers had assaulted
+
+him during the course
+of his arrest.
+
+The officers didn't
+face any charges,
+
+but the force paid compensation
+to the complainant.
+
+Whilst it was recognised that
+there is this duty of care
+
+on the basis of an
+employment-type relationship,
+
+it found that if
+you enforce that,
+
+it would impede litigation.
+
+I would impede the way
+in which the chief of
+
+police was able to
+manage matters,
+
+so they said the duty of care
+doesn't extend that far,
+
+it doesn't extend to the way
+
+in which the employer conducts
+
+litigation effectively on
+behalf of its employees.
+
+Effectively in
+settling the case,
+
+the officers were mad about
+it because they were of
+
+the opinion that basically
+
+their bosses had thrown
+them under the bus,
+
+effectively as the sacrificial
+lamb type arguments
+
+and they felt that
+they'd admitted
+
+liability where there was none.
+
+But the force felt
+that it had to
+
+take those steps because
+it made economic sense to
+
+do so rather than running it
+ahead to a full civil trial.
+
+The court looked at
+whether an employer's duty
+
+to keep its employees safe to
+
+that extend to litigation
+in a manner which
+
+protects them from economic
+or reputational harm.
+
+The Supreme Court basically,
+on grounds of policy,
+
+said it's neither fair,
+
+just or reasonable
+for four reasons.
+
+Again, it was basically
+
+just that they didn't
+feel that they
+
+could control how an
+employer managed litigation.
+
+It would be too much of an
+extension of that duty.
+
+Hudson and Ridge, an employee
+
+known to engage in
+practical jokes,
+
+caused injury to a
+fellow employee.
+
+On the basis of the Wilson
+and Clyde coal obligations,
+
+provision of competent staff,
+
+provision of safe place of work,
+
+it was considered that
+the employer owed
+
+the injured claimant a non
+
+delegable duty and it was partly
+
+because the defendant knew
+
+about these practical
+jokes and had
+
+warned the employee causing
+
+the injury about their
+behaviour before and they said,
+
+you've not provided
+a safe system of
+
+work here or
+competent employees.
+
+Non-delegable duty,
+
+employer liable for injuries
+their employee suffered.
+
+Similar vein is the
+last case on screen of
+
+W v. Commissioner of
+Police from Metropolis,
+
+found a non-delegable
+duty resort.
+
+Again, by the police force
+to its police officers,
+
+where the complainant
+or the claimant,
+
+should I say, complained of
+
+bullying and harassment
+in the workplace.
+
+She alleged that she
+had been sexually
+
+assaulted by another
+officer and that she
+
+said was the root cause of
+
+the bullying and harassment that
+
+then ensued from
+other colleagues
+
+who knew about her complaint.
+
+Again, the court looked at
+
+those Wilson and Clyde
+Cole obligations,
+
+provision of competent staff,
+
+provision of a safe
+place of work and it
+
+found that the employer
+
+personally had not
+provided that here,
+
+so they were under
+a non-delegate duty
+
+to their employee and
+
+therefore were liable for
+
+the bullying and
+harassment taking place.
+
+How do we move from
+
+non-delegable duty to
+vicarious liability?
+
+I really think that
+this Armes and
+
+Nottinghamshire
+County Council case
+
+provides the link
+between the two.
+
+I would say that you can compare
+
+this case with the Woodland
+swimming case quite easily.
+
+The claimant in Armes was
+a foster child and she was
+
+a foster child who
+was sexually and
+
+physically abused by
+her foster carers.
+
+Foster carers are, of course,
+
+appointed by local authority,
+
+which is why the claims
+are brought against
+
+the council and not the
+individual foster carers.
+
+Breach of non-delegable duty
+and vicarious liability for
+
+actions of the
+foster carers were
+
+alleged against the
+local authority.
+
+The court found that
+the local authority did
+
+not have a non-delegable
+duty of care.
+
+In other words, they
+said they could
+
+delegate that duty
+to foster carers.
+
+It's not a non-delegable duty in
+
+the same way as between
+employer and employees.
+
+However, they found
+the local authority
+
+vicariously liable for the
+torts of the foster carers.
+
+They didn't find the local
+authority personally liable.
+
+They said this was
+a delegate duty.
+
+They could delegate it
+out to foster carers,
+
+but the local authority
+would instead be
+
+vicariously liable for the
+torts of the foster carers.
+
+I'd say that's key in
+vicarious liability.
+
+A third party has,
+
+by action or a mission,
+wronged the claimant.
+
+A third party has
+committed a tort,
+
+although committed in tort
+is obviously the wrong word.
+
+But the person liable for it,
+
+the defendant who you sue,
+
+is not the tortfeasor,
+
+but a tortfeasor's employer.
+
+Or in this case, you see
+
+the local authority
+on the basis of
+
+the relationship that exists
+
+between them and
+the foster carers.
+
+How you establish when
+a relationship exists,
+
+so it does not exist in order to
+
+hold a defendant vicariously
+
+liable for the
+actions of another.
+
+I will be the topic of
+the next lecture and we
+
+look more closely at
+our Armes case then.
+
+But I'd say do look at
+Woodlands within because we've
+
+got this test for when is
+it a personal liability?
+
+You've assumed a duty,
+
+your claimants are vulnerable,
+
+got to think about all of
+those tests on that side.
+
+Why here was it delegable?
+
+It's a delegable duty.
+
+They didn't feel that
+they could say it was
+
+a personal liability of
+
+the council of the
+local authority,
+
+but they still held them
+vicariously liable.
+
+The other thing to look out for,
+
+for non-delegable and
+vicarious liability,
+
+sometimes is whether you've
+got two parties or three.
+
+That's sometimes
+indicative as well.
+
+Non-delegable is often
+between two individuals.
+
+It's employer and employee,
+
+not always, but often it is.
+
+You think about Wilson
+and Clyde Cole,
+
+you've got your employee
+on site, injured,
+
+managers obviously
+organise a system of work,
+
+but the employee is
+injured and they bring
+
+the claim against the
+defendant employer.
+
+Then you've got
+vicarious liability
+
+and you usually got
+three different parties,
+
+as here in this example.
+
+You've got the claimant
+who brings the claim,
+
+you've got the tortfeasors,
+
+who are obviously the foster
+carers in this instance
+
+and then you've got
+Nottinghamshire County Council,
+
+who are held vicariously liable.
+
+You've got three interactions
+
+there as opposed
+to just the two.
+
+As I said, that's sometimes
+
+helpful in identifying
+whether you need to
+
+talk about non-delegable duty as
+
+a personal liability
+of the employer,
+
+regardless of any fault.
+
+Remember, in Wilson
+and Clyde Cole,
+
+there wasn't any fault.
+
+They'd organise the safe system
+
+of work, they entrusted it.
+
+I just didn't work out
+to be particularly safe.
+
+They were entitled to
+delegate in that sense.
+
+Nottinghamshire
+County Council also
+
+perfectly entitled to
+delegate to foster carers.
+
+But the court drew
+a line and said,
+
+that's a very different thing
+they can delegate here.
+
+It's not their
+personal liability.
+
+It is vicarious
+liability instead.
+
+I got some additional reading
+
+and it's meant to apply
+
+to all of your lectures
+on this topic,
+
+but I'm going to say
+that this additional
+
+reading might help with some of
+
+your workshop prep
+for Weeks 19 and 20.
+
+As always, I'd say
+additional reading
+
+is for those of you who want
+
+to know more about the topic.
+
+It's not compulsory, but
+I offer it to you now,
+
+should it be of some
+assistance to you.
+
+I think it is quite
+helpful because
+
+it has been on the
+move quite a bit.
+
+There's been lots of changes
+as we've gone through;
+
+rather than carry on,
+
+I think we'll leave
+it there for today.
+
+Thank you all for your time.
+
+I'll see you for vicarious
+liability next time.
+
+[BACKGROUND]
+

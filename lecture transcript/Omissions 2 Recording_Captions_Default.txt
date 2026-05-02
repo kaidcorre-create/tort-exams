@@ -1,0 +1,2495 @@
+MALE_1: Hi. This is recording
+
+in lieu of the missed lectures.
+
+I'm sorry that I missed
+the two lectures.
+
+I was very ill.
+
+I wouldn't have missed them
+
+unless I was really
+seriously ill.
+
+Here is your catch up.
+
+I just want to remind you where
+
+we are in the tort law course
+
+closing in at the end
+of the first term.
+
+We are in special duty
+problems at the moment.
+
+What do I mean by
+special duty problems?
+
+Well, as a recap,
+
+it's always easy to
+establish a duty
+
+of care in cases where there is
+
+an act which
+reasonably foreseeably
+
+causes physical injury
+or property damage.
+
+In these special duty problems,
+
+we're stepping outside of
+
+that normal simple Robinson case
+
+which recently for
+simply because
+
+of physical injury
+or property damage.
+
+In the first two weeks of
+special duty problems,
+
+we did so by altering
+the type of damage,
+
+not physical injury
+or property damage,
+
+but psychiatric injury crucially
+or pure economic loss.
+
+Now we're moving on to
+the first part, not acts,
+
+but here, omissions.
+That's the first point.
+
+It's a duty of care thing
+we're dealing with.
+
+Second point,
+overarching framework
+
+for thinking about omissions is
+
+given to you by the case of
+N and Poole Borough Council.
+
+That's N and Poole
+Borough Council.
+
+Now, that case said, basically,
+
+there is no liability
+for omissions
+
+unless one of four
+specific things applies,
+
+one of four specific exceptions.
+
+Go back to last lecture
+to have a look at those.
+
+We'll be covering N
+and Poole Borough
+
+Council a little bit again,
+
+but we'll be in today's lecture,
+
+but we'll be looking more
+
+at the close reading
+of the facts,
+
+not that general test.
+
+But the point I want to stress
+
+is if you're looking
+at omissions,
+
+the general test, the
+most important case
+
+is N and Poole Borough Council.
+
+That sets out the modern test.
+
+That's the scene setting.
+
+Now, today, we'll mostly be
+
+talking about the liability
+of public authorities.
+
+Why are we talking
+about the liability of
+
+public authorities in
+relation to omissions?
+
+Why is this a subtopic of
+
+omissions rather
+than its own topic?
+
+Well, Horsey and
+Rackley has it as
+
+a separate chapter of the
+book, you may notice.
+
+Why am I talking about
+as part of omissions?
+
+Well, it's because in
+my view, at least,
+
+and I think a lot of
+scholars in the modern law,
+
+public authorities don't have
+
+any special rules governing
+them to speak of.
+
+They are treated the
+same as private persons.
+
+But there are a lot of reasons
+to think they might be
+
+treated differently or have
+
+been treated differently
+historically,
+
+and we're going to
+look at that today.
+
+What we're going to
+look at really is
+
+this the divide between
+
+the uniform and the
+policy approach
+
+to public authority liability.
+
+This uniform approach
+is the idea that
+
+public bodies are treated
+the same as private persons.
+
+They do not owe any
+special duty of
+
+care and they don't know
+
+any less duties of care
+than private persons.
+
+They are liable in
+
+the same circumstances as
+a private person would be.
+
+The courts have
+reaffirmed this at
+
+the highest level again
+and again and again.
+
+This is a recent major
+shift in the law that has
+
+essentially been taking place
+over the last 20 odd years,
+
+but has really come
+to be firmed up,
+
+its foundations have been
+
+shored up in the last
+five years or so.
+
+Now that might seem obvious
+to you, private persons,
+
+public authorities, why would
+
+we think that there's any
+difference between them?
+
+Surely, it's right that they're
+treated in the same way.
+
+Here are the reasons
+
+for thinking that they might
+be treated differently.
+
+The policy reasons under
+the policy approach.
+
+Under this policy approach,
+
+the idea is that there's
+a different rule for
+
+public bodies than
+private persons
+
+because there's special
+policy factors in play.
+
+What policy factors
+do I have in mind?
+
+Well, some people and
+historically this was the case.
+
+Some people have argued that
+public authorities ought to
+
+be less liable than
+
+private persons. Why
+would we think that?
+
+Well, think about it.
+
+Let's say you go to the NHS
+and you get medical care.
+
+That's a public service, which
+
+is paid for by the taxpayer.
+
+Let's say that doctor mistreats
+
+you negligently and
+you lose your leg.
+
+You sue the doctor. There's
+two things going on here.
+
+A, where's the money
+
+that you're going
+to win coming from?
+
+It's not coming from this
+doctor who screwed up,
+
+it's not coming from insurance.
+
+It's coming from the taxpayer.
+
+You may have lost your leg,
+
+but by suing this doctor,
+
+you're not depriving
+someone of profit,
+
+you are depriving some other
+citizen of the nation of
+
+their ability to get better
+medical treatment because
+
+you're essentially
+taking away from the
+
+budget of the NHS.
+
+Not only is it the case that
+
+you only receive the
+treatment from the NHS in
+
+the first place because it's
+
+paid for by taxpayers money,
+so it's a public good.
+
+But when you sue and you win,
+
+you're getting a windfall
+and you're taking away
+
+medical treatment from a lot of
+
+other individuals from
+the public purse,
+
+you're taking taxpayers'
+money essentially.
+
+It might be thought, therefore,
+
+that bodies like the NHS or
+
+indeed other public
+services should be
+
+immune from lawsuits or
+
+there should be some
+much higher threshold,
+
+i.e., they should not owe
+the same duties of care as
+
+private persons because of
+
+these taxpayer money
+policy reasons.
+
+Then conversely,
+
+there's a set of policy reasons
+
+which pull in the
+opposite direction.
+
+They pull in the direction of
+thinking that public bodies
+
+should be more liable
+than private individuals.
+
+Why might we think that? Well,
+
+take the following example.
+
+You're walking along the street
+
+and you see someone
+getting mugged.
+
+Do you have a moral obligation
+to step in and help them?
+
+People diverge on this.
+
+Some people would say, yes.
+
+Some people would
+say no, some people
+
+would say it depends
+on the circumstances.
+
+Is this someone
+you can overpower?
+
+But it's hazy, it's tricky.
+
+It's not straightforwardly
+obvious that you have
+
+an obligation to step in
+and stop the criminal.
+
+Now, contrast that with a
+
+policeman walking
+along the street.
+
+Does the policeman walking
+along the street have
+
+an obligation to step in
+and stop the criminal?
+
+Morally speaking,
+very clearly they do.
+
+They have a much greater
+moral obligation to step in
+
+and stop that mugging than
+you do as a private person.
+
+That's how we get the
+argument for thinking
+
+that public bodies
+owe more duties than
+
+private persons do
+because they have
+
+greater moral duties to
+
+the world at large in virtue of
+
+their specific position as
+
+public authorities because
+he's a police officer,
+
+he should step in in
+
+a way that private
+persons shouldn't.
+
+You might think
+there's therefore
+
+a greater tortious duty as well.
+
+Let's see how the laws,
+
+I'm going to show you how
+the law has developed
+
+to park all those
+policy questions
+
+and adopt instead a
+uniform approach,
+
+which is very
+simple and nice and
+
+easy and the law
+
+is now much simpler than it
+used to be historically,
+
+that's of great benefit to
+tort students everywhere.
+
+Historically, the crown
+
+and thus public bodies
+could not be sued.
+
+There was something
+called crown immunity.
+
+You just couldn't sue them.
+
+Now, that changed
+in the late 1800s,
+
+but this same basic
+idea continued to
+
+exert some influence on the
+law for some time after,
+
+and it was much harder to sue
+
+public authorities than
+private individuals.
+
+This idea has its roots in
+
+the two stage test in
+Anns and Merton's LBC.
+
+Remember that historical test,
+
+which is no longer a good law.
+
+The idea there was,
+
+is damage to the claimant
+reasonably foreseeable?
+
+That's part one of
+the test. Does damage
+
+to the claimant
+reasonably foreseeable?
+
+Part 2 of the test is, is
+there any policy reason
+
+not to hold the
+defendant liable?
+
+Public body policy reasoning
+
+started to play a role there.
+
+This was reinforced in X and
+Bedfordshire County Council,
+
+where the court thought
+that public bodies
+
+ought generally to be left
+to their own devices without
+
+threat of being sued
+
+and they're worried
+about a bunch of things.
+
+One of the things the
+courts worry about is
+
+the point I mentioned
+earlier, taxpayers money.
+
+They didn't want to divert
+funds from public services.
+
+Instead of you getting the money
+
+because of your NHS
+
+doctor's negligence and
+you've lost your leg,
+
+instead of you getting a
+massive windfall from that,
+
+that large chunk of money
+
+could be used to
+treat 10 more people.
+
+Why should you get the massive
+windfall when it's not
+
+a windfall you're getting out
+of private industry profit,
+
+but out of taxpayer money.
+
+There were two
+more worries which
+
+led to this policy
+approach as well.
+
+The first was worry about
+defensive practises.
+
+This is the idea
+that the NHS or the
+
+police or whoever might change
+
+the way in which they operated
+
+public services in order
+to avoid getting sued.
+
+That might have a
+negative impact.
+
+It might mean that police
+
+don't fight crime
+as effectively.
+
+It might mean that the NHS
+
+don't treat people
+as effectively
+
+because they're worried
+about getting sued
+
+and so they try to
+
+do all sorts of things
+to avoid getting sued,
+
+which makes the
+treatment less good.
+
+Third, the courts are worried
+
+about taking up the
+time of public bodies.
+
+They're worried that it's just
+
+going to be very cumbersome and
+
+so it was harder
+
+to sue public bodies
+in all sorts of ways.
+
+Now, in N and Poole
+Borough Council,
+
+it was declared that
+
+this old school policy approach
+was no longer the law.
+
+This has now been declared
+in a chain of cases since N
+
+and reinforced HXA is
+
+one case and Tindall
+is another case,
+
+a case I wrote about in
+the Cambridge Law Journal.
+
+In these cases, the
+courts simplify
+
+things a lot and they say
+that public authorities
+
+are generally subject to
+
+the same general
+principles of law
+
+of negligence as
+private individuals.
+
+The only exception
+being this here,
+
+which is the except to
+
+the extent that legislation
+
+requires departure
+from those principles.
+
+If legislation
+changes the liability
+
+of public bodies
+in some way, i.e.,
+
+if it specifically
+sets out a rule that
+
+public bodies will be liable in
+
+tort or will not
+be liable in tort,
+
+then of course, the judges
+have to listen to that.
+
+But the idea is that now in law,
+
+public authorities are
+treated exactly the
+
+same as private individuals
+for all intents and purposes.
+
+Let's see how that
+rule developed.
+
+That's what I'm going
+to show you today.
+
+I'm going to show how that rule
+
+developed historically
+over time,
+
+and I'm going to
+discuss whether it's
+
+any good and think about
+
+whether this rule can be
+
+criticised in any
+either direction.
+
+How did it develop?
+That's a nice broker
+
+for you while you're thinking
+
+about how it developed.
+How did it develop?
+
+Stovin and Wise was one of
+
+the first cases where
+the uniform approach,
+
+as opposed to the
+policy approach
+
+really began to develop.
+
+You can see how
+
+some people might think
+this would be unjust.
+
+Let's go through the
+facts of Stovin and Wise.
+
+Here, the claimant
+was a motorcyclist
+
+and was at a junction
+
+and collided with the defendant
+who was driving a car.
+
+Now, it was undisputed that
+this junction was hazardous
+
+because a bank of earth
+
+obstructed the view of
+
+both the defendant
+and the claimant.
+
+They couldn't see one another,
+
+so it wasn't really
+either of their fault.
+
+It was the fault of
+the bank of earth.
+
+How did the bank of
+earth get there?
+
+Well, the local
+authority had actually
+
+asked the landowner,
+British Rail already.
+
+They'd already asked them to
+
+get rid of the bank of earth.
+
+However, the land owner
+didn't do anything about it,
+
+didn't get rid of
+the bank of earth
+
+and the local authority knew
+that it had not been moved,
+
+but negligently
+failed to follow up.
+
+They didn't keep demanding that
+
+British Rail moved the bank
+
+of earth and that
+
+was clearly negligent. There's
+no question about that.
+
+No clearer case of negligence.
+
+The local authority, they've
+
+got responsibility
+for this junction.
+
+They've got responsibility
+for the roads.
+
+They know that there's
+
+this dangerous bank
+of earth there.
+
+They asked the
+landowner to move it,
+
+the landowner doesn't
+move it and they just
+
+fail to follow up and they
+know it might cause a crash.
+
+It's their fault,
+morally speaking,
+
+no question about it.
+
+Now, having set it up that way,
+
+you might think that
+
+the local authority would
+be under a duty of care.
+
+But the answer is that they
+are not under a duty of care.
+
+Why are they not
+under a duty of care?
+
+Because although
+morally speaking,
+
+it's clearly their
+responsibility,
+
+this is an omission, not an act.
+
+It's just like in
+the last lecture,
+
+the example of
+someone walking past
+
+the child drowning
+in the shallow pond.
+
+There is no Good Samaritan
+duty in British law and
+
+the local authority failed to do
+
+something rather than
+doing something here,
+
+and so there's no duty of care.
+
+You can see Lord Hoffmann
+begins to develop
+
+this uniform approach to
+
+public authority liability in
+
+his judgement in
+Stovin and Wise.
+
+He says that it's one thing
+for the Lord to say that
+
+a person who undertake some
+activity shall be reasonable,
+
+shall take reasonable care not
+to cause damage to others.
+
+It's another thing for
+the law to require
+
+a person who's doing
+nothing to take steps,
+
+and this is something
+
+I've already mentioned
+last lecture.
+
+This is the distinction made
+by Lord Hoffmann between
+
+making matters worse and
+failing to do something.
+
+Here, there was a
+failure to do something.
+
+Mr. Stovin's injuries weren't
+
+caused by the
+negotiations between
+
+the council or anything
+else which the council did.
+
+They were caused by what
+the council failed to
+
+do because it had done nothing
+
+to improve the visibility
+of the junction.
+
+The council was not liable.
+
+Now, Lord Hoffmann
+goes on to say,
+
+it's certainly true that some of
+
+the arguments against
+liability for emissions
+
+do not apply to public bodies
+like a highway authority,
+
+as in there's all remember
+general exclusionary rule.
+
+A lot of those general
+exclusionary reasons
+
+for no emissions liability,
+
+no Good Samaritan duty and
+English law don't apply to
+
+public authorities because they
+
+are the ones in the
+position to help.
+
+This argument, why pick on me?
+
+Remember that, for example.
+
+Pick me argument
+says person walks
+
+past baby drowning in shallow
+pond. He doesn't help.
+
+The wipe on me
+argument says, well,
+
+it wasn't his responsibility
+to help because
+
+another 100 people also
+
+walk past and they
+didn't help either.
+
+Why are we going to
+pick on this one bloke
+
+for failing to help when all
+
+the other people didn't help?
+
+If we're going to
+sue all of them,
+
+things are getting silly
+because we're going to
+
+sue hundreds and
+hundreds and hundreds,
+
+potentially thousands,
+potentially millions,
+
+depending on the
+circumstances of
+
+people for failing to help.
+
+Public authorities are in
+
+a very different
+situation, of course.
+
+They are the ones who can help.
+
+They are the ones who are
+entrusted with road safety.
+
+But says, Lord Hoffmann,
+
+that does not make them liable.
+
+This doesn't mean the distinction
+between x emissions is
+
+irrelevant because English
+law lays down a general rule,
+
+that there is no liability for
+
+emissions except in
+specific circumstances.
+
+Lord Hoffmann says
+that the fact that
+
+a public body may have
+a statutory power or
+
+a statutory duty to
+
+change something
+doesn't mean that
+
+they are specially liable.
+
+Here it is clear
+that the council
+
+has a statutory power
+to force the landowner,
+
+British rail to move
+
+this lump of Earth and to
+make the junction safer.
+
+But that does not actually
+create liability,
+
+Lord Hoffmann lays out a
+test in Stovin and Wise.
+
+I'm not sure this would
+necessarily be the modern test,
+
+but it was back in the day.
+
+In 1996, the law was that to get
+
+a tortious duty from
+a public law duty,
+
+you have to have
+two conditions met.
+
+First, that it would in
+the circumstances have
+
+been irrational not to
+have exercised the power,
+
+there was an effective
+public law duty to act.
+
+Irrational according to
+the Winsbury standard,
+
+so irrational
+
+that no reasonable person
+could have taken the view.
+
+Secondly, not only would
+it have to be irrational
+
+for the public authority
+not to exercise that power.
+
+But secondly, there are
+exceptional grounds
+
+for holding that the
+policy of the statute
+
+requires compensation
+to be paid to persons
+
+who suffer loss because the
+power is not exercised.
+
+What does that mean?
+It means just because
+
+there is a statutory obligation
+
+on a public authority
+to do something,
+
+that doesn't mean there is
+
+a tort law duty unless it's very
+
+clear from the statute
+
+that it tries to create
+a tort law duty.
+
+If the statute clearly tries
+to create such duties,
+
+that's a different matter.
+
+But you cannot infer from
+
+a statutory obligation
+a tortious obligation.
+
+A classic example of this
+would be icing the roads.
+
+Public authorities have a
+legal responsibility under
+
+all statutes to ice
+
+the roads when the
+weather gets too cold.
+
+Let's say they failed to do
+that and someone crashes.
+
+Is it the public
+authorities fault?
+
+Well, morally
+speaking, obviously.
+
+In public law terms?
+
+Yes. Obviously, it's their
+fault finalising the road.
+
+But in tort law terms,
+
+you cannot sue in negligence.
+
+That is not an action available
+
+for a failure of a
+public authority to
+
+ice the roads even
+though they may have
+
+a statutory obligation to do so.
+
+The same was true
+in Stovin and Wise.
+
+These two conditions
+which Lord Hoffmann
+
+set out were not met.
+
+He says first that
+
+the question of whether
+anything should be
+
+done about the junction was at
+
+all times within the areas
+of council discretion.
+
+There was, in fact,
+no public law duty
+
+so the first condition was not
+
+satisfied and in any event,
+
+even if it had been satisfied,
+
+there were no special grounds
+upon which it could be said
+
+the public rural
+duty should give
+
+rise to an obligation
+to compensate.
+
+There's no question here
+
+of reliance on the
+council having
+
+improved junction, no liability.
+
+Gorringe and Calderdale is
+
+another good example of
+the same basic concepts,
+
+little bit later,
+2004 this time.
+
+Here you've got a hill and at
+
+the crest of the hill
+there was a slow sign.
+
+It had faded away and the
+council failed to repaint it.
+
+Again, very clearly negligently,
+
+they ought to have repainted it.
+
+It was a breach.
+
+If they did have a duty,
+
+it would have been a
+breach of that duty.
+
+No questions there and think
+about why that would be,
+
+taking into account
+the gravity of harm,
+
+the probability of harm,
+
+cost of precautions, dative
+conduct in the context,
+
+it is very clear that
+a council should
+
+be morally speaking,
+repainting slow signs.
+
+If they had a duty to do that,
+
+it would be a breach
+of the duty not to,
+
+but they did not have a duty
+to repaint the slow sign,
+
+not a tort law duty, at least,
+
+even if they had a statutory
+duty and a moral duty.
+
+In this case, their failure
+to repaint the tort sign,
+
+it led to two cars colliding.
+
+It was very clear
+under Section 39
+
+of the Road Traffic Act, 1988,
+
+that they had a duty
+
+to prepare and carry
+out programme measures
+
+designed to promote
+improve road safety that
+
+included repainting
+the slow sign.
+
+They should have repainted
+it, they didn't,
+
+and yet the court held there was
+
+no duty in to on them
+to repaint the sign.
+
+Why? Well,
+
+the court goes even further
+here and starts to really
+
+disconnect this idea of
+
+a statutory obligation to act
+
+and the idea of a
+tort duty to act.
+
+You just cannot
+infer a tort duty to
+
+act from statutory
+obligation to act
+
+unless the statute says
+
+this statute creates a tort
+law obligation to act.
+
+Lord Hoffmann says,
+
+I find it difficult
+to imagine a case in
+
+which a common law duty can be
+
+founded simply upon the failure,
+
+however, irrational to
+provide some benefit which
+
+a poplic authority has a
+power or duty to provide.
+
+In my opinion, if a stands
+
+Lord Scott speaking
+now, in my opinion,
+
+if a statutory duty does not
+
+give rise to a private
+right to sue for breach,
+
+the duty cannot create
+a duty of care that
+
+would not have been owed at
+
+common law if the
+statute were not there.
+
+That's where we start to
+see the uniform approach.
+
+Sorry going back, the duty
+cannot create a duty of care,
+
+that would not have been owed at
+
+common law if the
+statute were not there.
+
+I, we're looking to see would
+
+a private person have owed
+
+a duty of care in
+these circumstances?
+
+Again, Lord Scott goes
+on, makes very clear,
+
+common law liability could not
+
+ever arise from a
+breach of Section 39,
+
+except in circumstances
+where liability would
+
+have arisen independently
+of Section 39.
+
+The fact that a statute imposes
+
+an obligation on a council to do
+
+something and the council is in
+
+flagrant breach of
+that statutory duty.
+
+This whole situation does
+not create a tort law
+
+duty.Statutory duty is
+entirely general on,
+
+I imposes a target duty.
+
+It can't be read as
+intending to create
+
+specific duties owed to
+
+specific individuals
+and the tort law.
+
+That becomes the
+position in law.
+
+We get the beginnings of
+this uniform approach,
+
+and here is the big case
+
+which really makes
+the difference.
+
+I should just say that the
+facts of this case are
+
+rather shocking and quite
+
+upsetting and involve
+domestic violence.
+
+For that reason, it's
+quite a poignant case,
+
+and one in which there's
+two dissenting judges who
+
+argue the result in
+
+this case is the public
+authority is not liable,
+
+and there's two
+dissenting judges who
+
+argue that they
+ought to have been.
+
+You'll see why when I present
+the facts of the case.
+
+In this case, Michael and Chief
+Constable of South Wales.
+
+Harrowing facts are
+that Miss Michael
+
+called the police at 2:29 AM.
+
+She said that her ex
+boyfriend had turned up at
+
+her house in the middle of
+the night and he'd hit her.
+
+He'd found her with another man.
+
+He'd gone to the drive to drive
+
+the other man home and said
+that when he came back,
+
+he was going to hurt her.
+
+That's why she
+called the police.
+
+The police then
+catastrophically failed.
+
+They graded the priority
+of the callers, "G2."
+
+This meant that officers
+assigned to the case
+
+should respond
+within 60 minutes.
+
+At 2:43, she called again,
+
+she screamed and
+the line went dead,
+
+and the police then
+arrived at 2:51.
+
+Miss Michael had
+been stabbed many
+
+times and had been
+killed by her partner.
+
+Now, it was held that despite
+
+the catastrophic failings
+of the police here,
+
+they owed no tort
+law duty of care.
+
+Why not? Well,
+
+this again was a case of
+emissions, the majority said.
+
+The majority said the common law
+
+does not impose
+liability for emissions.
+
+Yes, the police may owe
+special moral duties.
+
+Yes, the police may have
+
+failed to meet
+their moral duties,
+
+but it does not follow from
+
+that failure that
+they owe a tort duty.
+
+As Lord Toulson said
+at paragraph 114,
+
+does not follow from
+the setting up of
+
+a protective system for
+
+public resources
+that if it fails to
+
+achieve its purpose through
+
+organisational defects or faults
+
+of a part of an individual,
+
+the public at large should bear
+
+the additional burden of
+compensating a victim for harm
+
+caused by the actions
+of a third party for
+
+whose behaviour the state
+is not responsible.
+
+We need to make a careful
+distinction here,
+
+because remember that
+under Ren and Pool,
+
+there are a number
+of reasons why
+
+or a number of exceptions to
+
+the general rule that there's
+no liability for emissions.
+
+One of the questions in
+Michael was essentially,
+
+was one of those exceptions
+applicable here?
+
+The claimants council in
+
+Michael argued that
+what was said by
+
+the call handler who
+received the 999 call
+
+would give rise to
+
+an assumption of responsibility
+in the Hedley Byrne.
+
+The argument being here
+that the call handler,
+
+by saying, yes, the
+police are going to come,
+
+essentially assumed
+responsibility to Miss Michael to
+
+protect her from her partner
+
+or from her ex partner
+who is going to stab her.
+
+The court said, that argument
+is not tenable because
+
+no specific assurance was
+given by the call handler.
+
+The only assurance which the
+call handler gave was that
+
+she'd pass on the phone call
+to the South Wales police.
+
+She gave no promise about
+
+how quickly they would respond.
+
+Now, that case is Michael
+
+is to be distinguished
+from the similar,
+
+but slightly different case
+of Kent and Griffiths.
+
+Now, recall that Kent and
+Griffiths is the case
+
+where an ambulance was called,
+
+and the call handler said,
+
+yes, we're going to be there in,
+
+and gave a specific
+short amount of time,
+
+and then the ambulance
+was there much later.
+
+This actually
+prevented the claimant
+
+in Kent and Griffiths from
+being driven to the hospital.
+
+That's not what
+happened in Michael.
+
+The call handler in
+Michael did not say, yes,
+
+the police are coming in
+10 minutes, hold tight.
+
+Don't worry, they're
+going to protect you
+
+from this domestic abuse.
+
+The call handler
+instead just said that
+
+the police are going
+to come at some point
+
+in the sense that we're going to
+
+pass the call on to the police.
+
+There's no promise about how
+quickly they'll respond,
+
+and so there is no assumption
+of responsibility.
+
+Unlike in Kent and Griffiths,
+
+where there was an assumption
+of responsibility because
+
+specific assurances
+were made about
+
+how long it would take the
+ambulance to get there.
+
+Now, Lord Kerr,
+
+one of the great
+jurists of our time,
+
+thinks that this
+distinction is ridiculous.
+
+His judgement is quite powerful,
+
+and I'll read some
+sections of it in full.
+
+"Should someone in
+a vulnerable state
+
+fearing imminent attack,
+
+who believes that
+an assurance of
+
+timeliness assistance
+has been made when,
+
+through negligence on
+the part of the police,
+
+that impression has
+been wrongly created,
+
+be treated differently
+from another who has in
+
+fact received an explicit
+assurance of immediate help,
+
+if both have relied on
+what they believed to
+
+be a clear promise
+that the police
+
+would attend and avert
+the apprehended danger?"
+
+"The notion that the
+necessary proximity
+
+can arise only where
+there has been
+
+an express assumption of
+
+responsibility by
+
+unambiguous undertakings
+on the part of the police,
+
+and explicit
+reliance on those by
+
+the claimant or victim
+is not only arbitrary,
+
+it fails to reflect the
+practical realities of life."
+
+What he's saying is this,
+
+should we really be
+saying that the police
+
+are not liable just because
+
+they didn't expressly say, yes,
+
+we're going to be there
+in this amount of time,
+
+when in reality, both in Michael
+
+on Chief Counsel of Wales
+and in Kent and Griffiths,
+
+the person on the
+other end of the phone
+
+was reasonably left with
+
+the impression that the police
+
+or the ambulance were
+going to sort it?
+
+Does it really matter
+whether or not
+
+express undertakings are given?
+
+How does that make a
+difference, morally speaking?
+
+But it does,
+
+whether or not Lord Kerr
+is right in his dissent,
+
+we have the law as
+we have it today,
+
+and the fact is that
+
+express undertakings are
+what is required for
+
+assumption of responsibility
+in these circumstances.
+
+We get this same idea
+being followed up in
+
+Robinson and a number of
+other cases after Michael,
+
+and Michael is really the
+first one to lay it in stone,
+
+and then Robinson starts
+to really put it in
+
+terms of the modern
+uniform approach.
+
+Public authorities
+are subject to
+
+the same liabilities and
+tort as private individuals.
+
+If conduct would be tortious
+
+when committed by
+a private person,
+
+it's generally tortious
+when committed
+
+by a public authority.
+
+On the other hand,
+public authorities
+
+like private individuals are
+
+generally under no duty of
+
+care to prevent the
+occurrence of harm.
+
+They're under no duty
+of care in relation to
+
+omissions unless a private
+person would be too.
+
+They reinforce that this
+comes from Gorringe,
+
+a public authority's
+non-liability
+
+for consequences of an
+omission can generally
+
+be justified on the basis
+of omissions principle
+
+is the general principle
+of the law of negligence,
+
+and the law of negligence
+
+applies to public authorities in
+
+the same way that applies to
+
+private individuals and bodies.
+
+We now have a much
+simpler approach.
+
+In N and Poole Borough Council,
+
+I mentioned it last
+lecture for the test,
+
+but I'll now get into the
+facts of that case in detail.
+
+Here, the claimants
+are children,
+
+and they're placed in
+housing by the council,
+
+next to a neighbour known
+to be very antisocial.
+
+They're then harassed
+by that neighbour,
+
+and the council did
+do various things.
+
+They took various measures,
+
+but they didn't rehouse them,
+
+and the abuse continued.
+
+One of the children developed
+psychiatric issues,
+
+and the claimants claim the
+council should either have
+
+rehoused the family or
+
+should have at least
+moved the children.
+
+The court held ultimately
+that the council
+
+owed the claimants
+no duty of care,
+
+and the way in which they
+held that is quite revealing,
+
+and the arguments
+in the case are
+
+quite revealing and
+help us understand how
+
+this emissions principle applies
+
+in relation to public authority.
+
+Let's have at that.
+
+First, Lord Reed
+
+set out the uniform approach,
+
+made it very clear that
+this is now the law,
+
+public authorities owe a duty of
+
+care only where private
+individuals do.
+
+They don't owe any
+special duty of care
+
+in virtue of their exercising
+statutory functions,
+
+they come under a duty only
+
+where private individuals do,
+
+as for example, where
+
+the authorities created
+the source of danger,
+
+or it's assumed responsibility
+
+to protect the
+claimant from harm.
+
+That's part of the question
+at issue in Poole.
+
+One question, one route,
+
+which the barrister for
+
+the claimant tried to argue that
+
+the Borough Council had
+
+assumed responsibility for
+the safety of the children,
+
+but the court did not agree.
+
+The court said that the
+
+council's investigating
+and monitoring of
+
+the claimant's position didn't
+
+involve the provision
+of a service
+
+on which their mother
+could be expected to
+
+rely, and this is the test.
+
+Remember, it's going
+to be a provision of
+
+service in relation to
+
+which is an expectation
+of reliance.
+
+Nor could it be said that
+
+claimants and their
+mother entrusted
+
+their safety to the council or
+
+the council accepted
+that responsibility.
+
+That would be another route to
+
+assumption of responsibility,
+
+but that didn't
+apply here either,
+
+nor finally had the council
+taken the claimants into
+
+its care and thereby assumed
+
+responsibility to their welfare.
+
+What the council did
+in this case was to
+
+put the claimants
+in a certain house.
+
+That was not an assumption
+of responsibility.
+
+The fact that they were
+monitoring the situation,
+
+the fact that the
+council was worried
+
+about the antisocial neighbour,
+
+none of that constitutes an
+assumption of responsibility.
+
+It would have to
+go much further to
+
+constitute an assumption
+of responsibility.
+
+We get the same ideas
+in the next case, HXA,
+
+in the series of string
+of Supreme Court
+
+cases HXA and YXA in
+Surrey County Council.
+
+Here, the court held that
+the courts must decide
+
+whether there is a
+duty of common law
+
+by applying public authority,
+
+the same principles
+that will be applied
+
+if public authority had
+been a private individual.
+
+The courts have to
+keep repeating this.
+
+The Supreme Court has to
+keep repeating this because
+
+the lower courts keep getting
+it wrong in recent years.
+
+This should remove any
+conceivable doubt that
+
+lawyers may have had
+in understanding
+
+the full impact of N and Poole,
+
+and then we get the
+same point reinforced
+
+again in this 2024 case,
+
+Tindall and the Chief Constable
+of Thames Valley Police.
+
+It's now firmly established,
+
+or reestablished, they say,
+
+that the liability of public
+authorities is governed by
+
+the same principles that
+apply to public individuals.
+
+There is no difference,
+
+public authorities are
+liable for emissions
+
+only where one of
+
+the exceptions in N and Poole
+Borough Council applies,
+
+one of those four exceptions
+
+listed on the slide
+in the last lecture.
+
+That is the general rule
+for public authorities.
+
+Now, I just want to look
+at a very small number of
+
+case studies just to show
+
+you how this actually
+works in practice.
+
+I want to say something
+which is to give you
+
+a little health
+warning regarding
+
+Horsey and Rackley's
+view on this.
+
+Horsey and Rackley have this
+rather old-fashioned view,
+
+in my opinion, that
+
+there's a different position
+
+for different
+public authorities.
+
+They argue that it's
+easier to establish
+
+a duty of care in relation
+to ambulance services,
+
+child welfare services,
+and educational services,
+
+and harder to establish
+a duty of care for
+
+other types of public
+bodies, like police.
+
+Why do they argue that?
+
+Now, I think it is quite right
+
+that there are some differences
+
+between public authorities
+in the following sense,
+
+and the following sense only.
+
+Different public authorities
+are more or less likely
+
+to assume responsibility
+to claimants.
+
+Care services, child welfare
+services, for example,
+
+will very often be
+in the business of
+
+assuming responsibility
+to children.
+
+Same with educational services.
+
+A school assumes
+responsibility when it takes
+
+a child into the school to
+
+protect that child
+from all things.
+
+But the point is this,
+
+the reason that
+
+educational services,
+child welfare services,
+
+and ambulance services are more
+
+likely to be held to
+have a duty of care in
+
+relation to omissions has
+
+nothing to do with
+the fact that there
+
+isn't any inherent
+difference between
+
+them and other types
+of public services.
+
+The courts are not
+treating them differently.
+
+They're treating them the same
+under the same principle,
+
+that there's only liability
+for omissions where
+
+there is an assumption of
+
+responsibility or
+creation of a danger,
+
+one of the other exceptions
+under N and Poole.
+
+The point is this, yes,
+
+different public authorities
+may be more or less
+
+likely to be seen by the courts
+as having a duty of care,
+
+but that has nothing to do with
+
+any inherent difference in
+the way they're treated.
+
+They're all treated
+the same way,
+
+and the test which
+applies to all of
+
+them is the test under N
+and Poole Borough Council,
+
+that there is no liability
+for omissions unless
+
+one of those four exceptions in
+
+N and Poole Borough
+Council applies.
+
+What explains the differences
+
+is not the different
+types of public bodies,
+
+but rather the basic principle,
+
+there's no liability
+for omissions
+
+apart from exceptional
+circumstances.
+
+It just so happens that
+
+those exceptional
+circumstances might apply
+
+more often in relation to
+
+public bodies than in
+
+relation to others. That's
+the only difference.
+
+You can see how this
+would work in the case of
+
+really useful case of
+
+Capital and Counties and
+Hampshire County Council.
+
+Here we have three
+conjoined cases.
+
+In one of them,
+
+the fire service arrived and
+
+negligently shut down
+a sprinkler system.
+
+In the second, the fire
+service failed to notice
+
+a smouldering fire which
+resulted from explosion.
+
+The third, the fire service
+failed to maintain hydrants,
+
+and they couldn't find others.
+
+All of these led to
+property damage.
+
+The point is that the
+fire service is only
+
+liable in negligence in
+
+the first one because in the
+first one of these cases,
+
+they rocked up and they
+made matters worse.
+
+They shut down the
+sprinkler system.
+
+They made matters
+worse than it would
+
+have been if they'd never
+rocked up in the first place.
+
+It's an act, not an omission.
+
+In the other two, however,
+it's pure omissions.
+
+In the second one,
+they failed to
+
+notice a smouldering fire.
+
+Now, that's negligent,
+
+but there's no duty of care
+because it's an omission.
+
+In the third one, they
+failed to maintain hydrants.
+
+Again, it may well be their
+responsibility morally,
+
+in statute, in public law
+to maintain those hydrants.
+
+It's negligent in the extreme
+
+for the fire service to
+fail to maintain hydrants,
+
+but it is not something in
+
+relation to which they owe a
+duty of care because it's,
+
+again, an omission.
+
+"Fire brigade are not under
+
+a common law duty to
+answer the call for help.
+
+If they just don't turn up or
+
+they failed to turn up in time,
+
+or they carelessly
+misunderstood the message,
+
+or they got lost on the way,
+
+or they run into a tree,
+
+or they're out on the piss,
+
+anything, it's not their fault."
+
+Unless they fall under
+
+one of the exceptions
+in N and Poole,
+
+public authorities owe
+no special duties.
+
+They owe no duty of care
+merely by attending the fire.
+
+They only begin to owe duties
+of care where they make
+
+matters worse or assume
+
+responsibility, or
+something like that.
+
+We can do a nice
+little comparison
+
+with Kent and Capital,
+and Counties.
+
+H&R, I think they
+get this wrong.
+
+I think they say
+that these cases
+
+show the ambulance is different
+from the fire service,
+
+but I don't think
+that's what's going on.
+
+I think all public authorities
+are treated the same,
+
+and the better explanation
+is that there are
+
+important factual differences
+between the cases.
+
+In Kent, the call handler
+gave specific assurances,
+
+and so they made things worse.
+
+In Capital and Counties,
+
+the fire service gave no
+such specific assurances
+
+in Cases 2 and 3.
+
+They did not make matters worse,
+
+they are not liable because
+
+it was an omission.
+Thank you very much.
+

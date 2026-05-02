@@ -1,0 +1,2456 @@
+MALE_1: Thought factual
+causation was tricky.
+
+This bit of legal
+causation is even worse.
+
+It's so bad that I've taken
+most of it off the syllabus,
+
+and you don't actually have to
+
+know most of it for the exam.
+
+That's not to say that
+you should just nod off,
+
+although you may
+nod off, of course.
+
+I accept that as a possibility.
+
+Some of it is actually
+very interesting
+
+just purely from an
+academic perspective.
+
+It's not quite as tricky at
+
+some deep philosophical level
+
+as the factual causation stuff.
+
+The factual causation stuff is
+
+really deeply tricky at
+a philosophical level,
+
+and that's what
+causes the problems.
+
+This weird legal causation
+stuff that's so difficult,
+
+I've taken it off the syllabus.
+
+It's mainly tricky, not
+
+because it's fundamentally
+deeply tricky,
+
+but because the judges have
+fucked it up so badly.
+
+That's part of the
+reason I've taken
+
+quite a lot of it
+off the syllabus.
+
+But it's pretty helpful to
+
+understand the broad
+picture of things,
+
+even though I won't be
+examining on any of
+
+the specific bits of legal
+causation past the first ten,
+
+15 minutes of today,
+
+because if you do understand
+the broad picture of things,
+
+you may know what to
+look out for to avoid.
+
+B, I do think it helps you
+
+understand legal causation
+and factual causation
+
+as a whole and how the
+entire intellectual picture
+
+melds together a bit better.
+
+You can derive some
+benefit from that beyond
+
+your pure enlightenment about
+
+legal causation as a
+matter of interest.
+
+You can derive some pragmatic
+benefit for the exam,
+
+too, even though
+it's not examined.
+
+Recall that last time
+we did remoteness of
+
+damage in what feels like
+an age ago now on Monday.
+
+All the way back on Monday,
+
+we did remoteness of damage
+and new intervening acts.
+
+Novus acts intervening ends,
+
+breaking the chain of causation.
+
+Those two remind yourself
+were really quite simple.
+
+Remoteness of damage,
+you just ask,
+
+was the type of harm
+reasonably foreseeable.
+
+There are some cases
+which help you
+
+specify how generally you
+look at the type of harm,
+
+cases like Tremaine and Pike.
+
+That's the one about the
+rat urine and the guy
+
+drinking the rat
+urine or ingesting
+
+the rat urine versus
+being bitten by a rat.
+
+That distinction, it was
+
+foreseeable that he'd
+be bitten by the rat,
+
+it was not foreseeable that
+he'd drink the rat urine.
+
+That helps you to
+understand what the type of
+
+damage that needs to be
+
+reasonably foreseeable in order
+
+for it not to be too remote.
+
+Pretty simple stuff
+for remoteness.
+
+New intervening acts.
+
+There's a whole bunch of
+slightly tricky cases.
+
+There's a slight
+distinction between
+
+acts of the claimant and
+acts of the third party.
+
+But basically, it's
+pretty simple.
+
+You're mainly
+asking, how dumb was
+
+it what the claimant or
+what the third party did?
+
+If it was super dumb,
+
+it will normally break
+the chain of causation.
+
+If it weren't that dumb,
+
+it won't normally break
+the chain of causation.
+
+A more precise way
+of putting that is,
+
+was the intervening
+act deliberate,
+
+informed, voluntary,
+and unreasonable?
+
+Now we move on to this third
+topic, supervening events.
+
+This is a pretty
+narrow doctrine,
+
+a doctrine of a very
+narrow application.
+
+Background. Let's say some stuff
+
+you need to know to
+understand this,
+
+which you don't
+yet, and which you
+
+will understand better right at
+
+the end of the course
+when you do damages.
+
+This is a foreshadowing of
+
+some stuff right at
+the end in damages.
+
+Let's say your leg gets blown
+
+off because of
+someone's negligence.
+
+It's always the leg. I don't
+know why, but it always is.
+
+In my mind, at
+least, it's simple.
+
+It's a nice easy
+negligence case.
+
+You rock up at court,
+
+the judge goes, yeah,
+negligence found.
+
+Then he gets out a big
+fat loose leaf book.
+
+This book is called Kemp
+and Kemp on damages.
+
+I don't know whether the
+physical books still exists.
+
+I think you can find it.
+
+I have seen it in Middle
+Temple Library at one point.
+
+It's about that big
+and they keep putting
+
+new bits of paper in it for
+new bits that they find.
+
+What it is is it is
+a list which goes,
+
+arm, leg, ankle, foot,
+
+and it lists what the damages
+are for each of those,
+
+what you get for a lost toe,
+
+what you get for a lost foot,
+
+what you get for going
+completely crazy,
+
+all various different
+kinds of damages.
+
+Then the judge says, yeah,
+
+you've lost your leg, so we're
+
+giving you, I don't
+know, whatever it is,
+
+50 grand, let's say,
+
+and then they'll
+adjust that for,
+
+well, were you a star
+football player?
+
+If you were a star
+football player,
+
+Cristiano Ronaldo,
+losing his leg,
+
+you're going to
+get a few million.
+
+If you actually never
+use your leg at all,
+
+you're not going
+to get very much.
+
+If all you did was
+sit at home and
+
+you're a computer
+programmer or something,
+
+you're still going to get a
+fair whack for losing a leg
+
+because maybe you like to go on
+
+an afternoon stroll and
+you can't do that anymore.
+
+But you're not going
+to get what Cristiano
+
+Ronaldo would get
+for losing his leg.
+
+The point is this. You
+get a big old lump sum.
+
+Let's say you then walk out of
+
+court and you get
+hit by another car.
+
+You're in really bad
+luck at this point,
+
+but let's say that is what
+happens to you and you
+
+get paralysed from the waist
+downwards by that other car.
+
+It turns out that you
+having lost your leg,
+
+very shortly wasn't
+going to matter at all.
+
+The defendant, who's
+just been sitting
+
+next to you in court,
+he's walked out as well,
+
+and he's seen you get run
+over by this new car,
+
+and he finds out that you've
+
+been paralysed from leg down.
+
+Question, can he go off
+to the judge and say,
+
+hey, Judge, look, he
+
+walked out of court with
+this big lump sum of money.
+
+It turns out, he
+
+wasn't going to
+make any difference
+
+whether he'd lost his
+leg in the first place.
+
+Can he go back to
+the judge and say,
+
+give me back my money?
+
+The answer is no,
+
+because the claimant
+has already got
+
+that lump sum and the
+game is up. It's over.
+
+There is no going back to the
+judge and getting it back.
+
+Now, there are
+some circumstances
+
+in which it doesn't
+quite work like that.
+
+You'll learn about the nuances
+
+of this when it
+comes to damages.
+
+Very occasionally you get
+
+things like periodic
+payments where it's
+
+very tricky to work
+out how much someone
+
+needs to be awarded in
+certain circumstances.
+
+Then actually there are
+
+a series of returns to
+court and they look
+
+at what's been going on and then
+
+they award a bit more
+money on that basis.
+
+But most of the time,
+
+the general rule is,
+you lose your leg,
+
+you get a big lump
+sum, you all get
+
+a court and no one can
+question it anymore.
+
+Supervening events is about
+
+what happens if some
+stuff happens in
+
+between you losing a leg or
+the negligence and the trial.
+
+Stuff that happens
+after the trial
+
+can't touch it most of the time.
+
+Stuff that happens before
+
+the trial might make a difference
+in some circumstances.
+
+There's some slightly
+tricky case law on this.
+
+Baker and Willoughby is the
+first and earlier case.
+
+Here, the defendant negligently
+
+injured the claimant's leg,
+
+forcing the claimant to
+take up another job.
+
+He was working in
+the new job, but
+
+before the case came to trial,
+
+burglars shot the claimant in
+
+the same leg and then
+
+the claimant's leg
+had to be amputated.
+
+You can understand why
+this might be the case,
+
+turns out that in
+Baker and Willoughby,
+
+the defendant was
+still held liable.
+
+You can understand why
+that might be the case
+
+because it seems
+really bad luck for
+
+the claimant to have got
+shot in the leg and have
+
+their leg ammutated just
+days before the trial,
+
+and they would have walked
+away with the full lump sum.
+
+If this had happened a couple
+of days after the trial,
+
+they wouldn't have
+lost anything.
+
+Or they wouldn't have lost
+
+their payment from
+the defendant.
+
+But that was the result
+in Baker and Willoughby.
+
+It's different though
+in this later case.
+
+You see Baker and
+Willoughby is a 1970 case.
+
+Jobling is a 1982 case.
+
+In Jobling the claimant
+injured his back at work,
+
+reducing his earning capacity.
+
+Before the trial, the
+claimant contracted
+
+an unrelated back disease which
+
+rendered him completely
+incapable of any work,
+
+and it was held the
+defendant was not
+
+liable after the new
+disease had hit.
+
+Not liable for the reduction
+
+in earning capacity at least.
+
+How do you square these two
+results with one another?
+
+They seem inconsistent,
+
+and they are
+inconsistent, I think.
+
+There is a way of
+reconciling them.
+
+The way of reconciling
+them is to say
+
+that Baker was a later tort,
+
+whereas Jobling was a
+later natural event.
+
+The rule you get if you are
+
+trying to reconcile
+these two cases,
+
+or the rule you get
+from just listening to
+
+the precedents here
+is that later torts,
+
+which negate an
+earlier torts damage,
+
+do not negate the
+defendant's liability.
+
+I probably should have
+written by the way, later,
+
+which negate an
+earlier torts damage
+
+occurring before trial.
+
+Because again, this is all just
+
+about stuff occurring
+before trial.
+
+Do not negate
+defendant's liability,
+
+whereas later natural events
+occurring before trial,
+
+which negate an
+earlier torts damage,
+
+do negate the
+defendant's liability.
+
+Now one way of
+approaching this is just
+
+to learn that simple
+rule and apply it.
+
+However, I think in reality,
+
+probably Baker is wrong.
+
+That's what's generally thought
+
+to be the case amongst
+tort scholars.
+
+Lord Edmund Davies in
+
+Jobling said that at
+the bottom there,
+
+I can formulate no convincing
+
+juristic or logical principles
+
+supportive of the
+decision of this House
+
+in Baker and none were
+
+the propounded, pretty
+scathing stuff.
+
+What do you do if a theoretical
+client comes to you,
+
+and they're in a
+Baker situation.
+
+There's a later tort.
+
+Does that negate the
+liability or not?
+
+I think the answer is,
+
+you would advise
+them that there's
+
+massive litigation risk.
+
+That they could have a go,
+but they'd have to take it
+
+all the way up to the
+Supreme Court and hope
+
+that the Supreme Court overruled
+
+the previous decision
+in Baker because,
+
+of course, it would have
+to go all the way up to
+
+the Supreme Court because
+Baker is still good law.
+
+We have a rather
+awkward scenario.
+
+That means it would most
+likely end in settlement,
+
+and you'd probably
+get less than you'd
+
+get if you went all the way
+up to the Supreme Court,
+
+and they actually did overrule.
+
+But of course, you
+can't be certain
+
+the Supreme Court's going
+to overrule themselves,
+
+even though they reach
+this later result in
+
+Jobling and Baker is
+probably wrong. There we go.
+
+For those of you who are
+
+incredibly pragmatic
+and literally
+
+don't give a shit about the law
+
+and have no interest in it
+
+and are just doing this degree
+
+in hope of making lots of money,
+
+you can probably switch
+off now and hop on TikTok.
+
+Although if you're really
+ambitious and pragmatic,
+
+then I suggest you keep
+listening because this
+
+may help you in the
+rest of your degree.
+
+But I do want to stress
+that this is not
+
+examined and you shouldn't worry
+
+if you're not understanding it,
+
+although it is
+quite interesting.
+
+We now have something called
+the scope of duty principle.
+
+The scope of duty principle
+is in the textbook,
+
+it appears as part
+of duty of care.
+
+So it's covered in Chapter 2
+
+or wherever it is that
+
+Horsey and Rackley deal
+with duty of care.
+
+I cover it in legal
+causation because I think
+
+it's better understood as
+a rule of legal causation.
+
+It's very confusing
+and very difficult.
+
+Some of the cases,
+in particular,
+
+this case, SAAMCO,
+
+the South Australia Asset
+Management Corporation in York,
+
+Montague, is really, really
+painful case to try and read.
+
+It's incredibly long.
+
+It involves incredibly difficult
+financial arrangements
+
+and instruments and the set of
+
+facts is incredibly tricky.
+
+But actually, the principle
+ultimately is quite simple,
+
+and I'm going to
+try and break it
+
+down in a fairly simple way.
+
+The principle is that
+normally the law
+
+limits liability to
+those consequences of
+
+wrongful conduct which
+are attributable
+
+to that which made
+the act wrongful.
+
+That which made
+the act wrongful.
+
+Here's a nice example.
+
+It should be obvious
+to you by now
+
+why I like this example
+because I'm a climber here.
+
+Here's me on a route in
+Chamonix called the Frendo Spa.
+
+It's the only other opportunity
+
+apart from Woodruff and Headley,
+
+which I get to show you some of
+
+my climbing photos today ago.
+
+It's a nice example.
+
+I think it illustrates
+how this rule in
+
+SAAMCO the scope of
+duty principle works.
+
+We've got this mountaineer.
+
+Mountaineers are
+about to undertake
+
+a difficult climb and they're
+
+concerned about the
+fitness of their knee.
+
+They go to the doctor,
+
+negligently makes a
+superficial examination,
+
+pronounced the knee fit.
+
+Climber then goes
+on the expedition,
+
+which he would not have
+undertaken if the doctor
+
+had told him the true
+state of his knee.
+
+Pause there for a second.
+
+He wouldn't have undertaken
+
+the expedition if he'd
+known he had a dodgy knee.
+
+Now, that matters
+because we have
+
+there automatically
+but for causation.
+
+But for the doctor's
+negligence is
+
+the but for cause of the injury.
+
+The damage is not too
+remote either, probably.
+
+Because it's clear that
+
+some damage might accrue
+in these circumstances.
+
+He's going off
+into the mountains
+
+in a dangerous environment.
+
+Probably the damage
+isn't too remote
+
+either. Just note that.
+
+Now, next step,
+
+he suffers an injury,
+
+it's an entirely
+foreseeable consequence
+
+of mountaineering. There you go.
+
+He wouldn't have
+gone on the trip,
+
+damage isn't too remote, but
+
+it's got nothing to
+do with his knee.
+
+Let's say it's an avalanche or
+
+something or let's say
+it's a rock falling.
+
+The doctor says,
+Lord Hoffmann, here,
+
+the implication of
+the SAAMCO rule,
+
+the scope of duty principle,
+
+is that the doctor
+is not liable.
+
+The injury has not
+been caused by
+
+the doctor's bad advice or
+
+rather maybe another
+way of expressing that,
+
+perhaps a clearer way
+of expressing that,
+
+is that the injury is not
+
+the responsibility of
+the doctor's bad advice.
+
+The doctor's bad advice was not
+
+responsible for the injury.
+
+Because it would
+have occurred even
+
+if the advice had been correct.
+
+Well, is that quite right?
+
+Probably not because he
+wouldn't have been on the trip,
+
+but the point is,
+
+what was wrong about what
+
+the doctor did is that
+he negligently diagnosed
+
+the knee and that
+
+wrong does not relate to the
+injury in the right way.
+
+It doesn't have the right
+relationship with the injury.
+
+The doctor would be liable if
+the mountaineer falls while
+
+climbing because his
+knee buckled, let's say,
+
+but he wouldn't be liable if
+
+the mountaineer just
+randomly gets hit
+
+by a falling rock and that's
+
+not affected by his
+knee in any way.
+
+Even though there's but for
+causation and even though
+
+there is or the type of
+damage is not too remote.
+
+We seem to have this
+extra restriction
+
+in terms of legal causation.
+
+This extra limit.
+
+How do we understand
+or how can we
+
+understand the idea
+that the doctor is
+
+not liable for the damage
+
+which isn't related in the
+right way to the knee?
+
+What is that relationship?
+
+This is answered in
+these later cases,
+
+Manchester Building sorting
+and Grant Thornton,
+
+which is the focus should be on
+
+identifying the purpose to
+
+be served by the duty of care
+assumed by the defendant.
+
+The point here is that
+the reason we impose
+
+these duties of
+care on doctors to
+
+correctly diagnose people is
+not to make them liable for
+
+anything at all which
+might follow as
+
+a result of their
+negligent diagnosis.
+
+Rather, it's because
+we want them
+
+to get diagnosis right for
+
+the purpose of getting
+diagnoses right.
+
+We want that damage
+not to accrue.
+
+That's what they're meant to
+be responsible for correctly
+
+diagnosing people's knees and
+
+things which are closely
+related to that.
+
+In the mountaineer example,
+
+the purpose of the
+doctor's advice was to
+
+certify that the claimant's
+knee was fit for purpose.
+
+The defendant's liable
+for any losses which
+
+result from the claimant's knee
+
+not being fit for purpose,
+
+that's inside the
+scope of the duty,
+
+but not liable for other losses.
+
+Which are not the result of
+
+the claimant's knee not
+being fit for purpose.
+
+Even though those
+other losses might
+
+be factually caused by
+
+the negligence and not too
+remote from the negligence.
+
+They're not the kinds
+of losses that we care
+
+about because the whole
+purpose of imposing
+
+the duty on the first
+place is to ensure that
+
+the knee is fit for purpose
+or whatever it might be.
+
+We've got to look at the
+purpose served by the duty of
+
+care assumed by defendants.
+
+Khan and Meadows is a
+recent Supreme Court case,
+
+which put this to the test,
+
+although I realise I'm
+
+showing my age here by
+saying that 2021 is recent.
+
+It feels like just
+yesterday for me,
+
+but that was a long
+time ago for you guys.
+
+In this case, the claimant asked
+
+the defendant if she
+carried the gene for
+
+haemophilia so that she
+
+could avoid having a
+haemophilia child.
+
+Haemophilia is a certain
+blood condition, by the way.
+
+It's bad. Defendant's
+negligence left her
+
+with the impression that she did
+
+not and in due course,
+her son was born.
+
+What actually happened
+there is that
+
+the claimant asked
+the defendant to give
+
+her a test for whether or
+
+not she was a carrier
+of haemophilia,
+
+instead, this idiot doctor
+
+just tested to see whether
+she had haemophilia,
+
+not to see whether
+she was a carrier
+
+of haemophilia, very
+different text.
+
+The defendant left her with
+
+the impression that
+she wasn't a carrier,
+
+and so she had a
+baby. Son was born.
+
+The son turn out to suffer
+from haemophilia and autism.
+
+Now, very severe
+debilitating autism.
+
+The question was,
+well, obviously,
+
+the doctor is liable for the
+haemophilia. No question.
+
+Negligent diagnosis or
+negligent treatment
+
+results in haemophilia,
+it's a damage.
+
+Interestingly, this is the
+second case we've looked
+
+at where doctors are liable for
+
+babies being born with
+
+particular conditions
+which wouldn't
+
+have been born otherwise.
+
+Remember ABC all the
+way back in Week 2.
+
+That's the case about
+the family therapy
+
+and Huntington's disease,
+
+and the therapist not
+telling the daughter,
+
+but the dad had
+Huntington's disease,
+
+and so the daughter had a baby
+
+which ended up having
+Huntington's disease.
+
+It's a weirdly
+common situation in
+
+tort law when you might think
+it'd be very rare, indeed.
+
+Guess it is very rare, but
+
+tort law deals with
+it quite often.
+
+Here, the son suffers
+haemophilia and autism.
+
+The question is, is the
+doctor liable for the autism?
+
+Given that, the
+doctor's negligence
+
+is the but for cause
+of the autism.
+
+No question about that
+
+because the claimant
+would not have had
+
+the baby if she knew she
+carried the hemophiligen.
+
+The answer is applying the scope
+
+of duty principle from SAAMCO,
+
+from Manchester
+Building Society,
+
+that other case as well,
+
+that the defendant
+is only liable for
+
+the haemophilia, not the autism.
+
+The idea here is that you look
+
+at the purpose for
+which the claimant
+
+is obtaining the service
+or the purpose for
+
+which we are imposing a
+duty on the defendant.
+
+The point is she's approaching
+
+the practise for a
+specific purpose.
+
+She wished to know if she
+
+was a carrier of the
+haemophilia gene.
+
+Doctor Khan duty to take
+
+reasonable care to give
+accurate information or advice.
+
+About that,
+
+the service was concerned
+with one specific risk,
+
+the risk of giving birth to
+a child with haemophilia,
+
+not with another random risk,
+
+which was coincidentally
+associated with it,
+
+which was the risk of having
+a baby with autism as well.
+
+No duty here.
+
+Lord Burrows puts it a
+slightly different way.
+
+But again, I think
+the key point is
+
+the purpose of the
+advice or information.
+
+One of the reasons I don't
+actually put this on
+
+the syllabus is because
+there's a really tricky issue
+
+about the extent to which
+this doctrine applies outside
+
+of advice or information
+cases and whether it does,
+
+I don't really want to get
+sidetracked into that.
+
+But in these kinds of cases,
+
+you look at the purpose of
+the advice or information.
+
+Claimant approached the general
+
+practise surgery
+as the defendant
+
+knew or ought to have known
+for this specific purpose,
+
+purpose of advice meant
+or information was
+
+to ascertain the general
+risks of pregnancy,
+
+including the risk of autism.
+
+That's what was not to ascertain
+
+the general risk of pregnancy,
+
+including the risk of autism.
+
+Had she gone to the
+doctor and said,
+
+"Can you do a whole battery
+of tests and tell me
+
+about the various things my
+child might be at risk for?"
+
+Then the doctor had just done
+
+all of the tests
+on her and said,
+
+"No, you're not autistic",
+
+and given her the impression
+
+that he'd done the
+right test for
+
+all of these things,
+but he hadn't.
+
+Then the doctor might have been
+
+liable for all this stuff.
+
+Of course, you can't actually
+do that test, I should add,
+
+but if the doctor had
+wrongly given her
+
+the impression that there was
+
+no chance of any of these
+things, is what I mean.
+
+It is about allocation of risks
+or allocation of burdens,
+
+haemophilia allocated
+to the doctor.
+
+The risk of the child
+being born with autism
+
+is allocated essentially
+to the mother.
+
+We've got this way
+of checking this.
+
+It's the counterfactual.
+
+We use the
+counterfactual to check.
+
+Lord Burrows says, if
+we asked the question,
+
+would the claimant have
+suffered the same loss
+
+if the information
+advice had been true?
+
+The answer is yes as
+regards the autism,
+
+no as regards the
+haemophiliac losses.
+
+Had the information,
+
+Sash advice that the
+claimant was not
+
+a carrier of haemophilia
+been correct,
+
+the claimant would
+still have given
+
+birth to an autistic
+child but would not
+
+have given birth to a child
+with haemophilia is the idea.
+
+The point here really is
+
+also that the two
+are not related.
+
+It's not like having
+haemophilia has
+
+any relationship or causal
+relationship to the autism.
+
+The fact that you have a
+misdiagnosis for one makes it
+
+no more or less
+
+likely that the other
+condition will occur.
+
+If that's not true,
+
+if the two do go together,
+
+if you get a misdiagnosed
+with one thing and that
+
+one thing has a
+causal relationship
+
+with another thing
+which happens as well,
+
+then obviously the
+one is the cause
+
+of the other and
+they are related.
+
+But here, it was a case
+of coincidental harms.
+
+Nolan and Plunkett
+actually argue,
+
+and this is why I say that this
+
+is important for understanding
+
+legal causation as
+a whole and why it
+
+might be worth paying
+some attention to this,
+
+even though I'm not
+examining on this.
+
+It's because it allows you
+to look at and understand
+
+remoteness better and you
+are examined on remoteness.
+
+This Nolan and Plunkett article
+is quite useful on that.
+
+They argue that this is really
+just about foreseeability.
+
+If a particular harm
+is not foreseeable,
+
+then the risk of
+the harm occurring
+
+cannot be one of the risks that
+
+made the defendant's
+conduct negligent.
+
+They say, really, these cases
+are actually very simple.
+
+The simplicity gets
+obscured because of
+
+this weird tendency to
+
+associate the principle
+with this particular case,
+
+SAMMCO which had these really
+complicated set of facts.
+
+Because we've got
+this weird framing
+
+not as an issue of remoteness,
+
+but about the scope of
+the defendant's duty
+
+of care as if that's somehow
+something different.
+
+Really, they say,
+
+these cases are just about
+straight remoteness.
+
+The relationship between the
+scope of duty question and
+
+traditional remoteness
+is obscure.
+
+It's not at all obvious why
+
+both concepts are
+thought to be necessary.
+
+Another way of
+understanding all of
+
+these cases like
+Khan and Meadows is
+
+just that it wasn't foreseeable
+
+that the type of
+harm would result.
+
+It' not foreseeable
+that if you misdiagnose
+
+someone and say that
+
+their child is at no
+risk of haemophilia,
+
+that they are going to
+have a child with autism.
+
+That's not a foreseeable
+consequence. That's the idea.
+
+I find that analysis very
+appealing because I personally
+
+find this whole scope of
+
+duty principle
+incredibly mysterious.
+
+I've never really understood
+
+what the hell is going on here.
+
+I'm not convinced anyone
+
+quite understands
+what's going on here,
+
+which is exactly why I've
+taken it off the syllabus.
+
+Because I'm not sure
+there is anything here.
+
+I think it might just
+be the law lords
+
+running themselves
+in circles and
+
+a series of cases
+which go down at
+
+dead end and don't
+really mean anything.
+
+Of course, not
+everyone thinks that.
+
+That's my own personal view.
+
+Now we come to
+something which is
+
+actually more
+important, I think.
+
+More important to
+your understanding
+
+of overall tort law as a
+whole, coincidental harms,
+
+and a case which does
+get talked about a lot,
+
+which is Chester and Afshar.
+
+Chester and Afshar
+is a weird old case.
+
+The judgments written
+in Chester and Afshar
+
+are the worst judgments
+I've ever read.
+
+Lord Bingham's judgement in
+
+particular is
+peculiarly appalling.
+
+It is literally
+riddled with errors.
+
+Why am I, random old lecturer at
+
+Lancaster University saying
+that the great Lord Bingham,
+
+head of the Supreme Court's
+
+judgments riddled with errors?
+
+Well, I think there's an
+interesting point here,
+
+which is judges just
+don't have that
+
+long to decide cases.
+
+They're presented with a case.
+
+They chat in a room,
+
+they've got a few barristers,
+
+and then they come up with
+something and write it.
+
+Whereas I as an academic,
+
+have the leisure of years and
+
+years and years of
+reading loads of things,
+
+of thinking about this over
+multiple years and coming to
+
+my conclusions in a
+very relaxed manner.
+
+I'm not saying that I'm
+smarter than Lord Bingham.
+
+I'm just saying I've got more
+time to think about it and
+
+I've had the benefit
+of hindsight as well.
+
+My criticism isn't meant to
+
+be saying Lord
+Bingham's an idiot.
+
+He's definitely not,
+but the judgments
+
+in this are very bad and
+they are very wrong,
+
+it's quite interesting that
+
+the House of Lords should
+get something so wrong.
+
+But there is an
+interesting point here.
+
+The claimant had a
+history of back pain,
+
+her surgeon D advised her
+to have spinal surgery.
+
+Defendant failed to
+disclose a 1% risk
+
+of serious nerve damage
+involved in the operation.
+
+The risk did actually occur.
+
+It happened and it
+harmed the claimant.
+
+Obviously, they got this
+serious nerve damage.
+
+Now, here's the key
+piece of information.
+
+The claimant, and
+
+why the claimant admitted
+this, I don't know.
+
+Being too honest,
+I think, probably.
+
+Very unfortunate
+that the claimant
+
+was such an honest person,
+
+really, ended up winning.
+
+I should add, maybe
+that's part of
+
+why this judgement
+goes the way it
+
+does because they don't want to
+
+penalise the claimant
+for being too honest.
+
+Because you'll see in a
+moment if the claimant had
+
+lied and the claimant had said,
+
+"I would not have had
+
+this operation if I had
+known about the risk."
+
+Then everything is nice
+and neat and simple.
+
+If they wouldn't have
+had the operation,
+
+if they've known about the
+risk, you've got a clear,
+
+simple counterfactual,
+there's simple causation,
+
+it's all done and
+dusted game over.
+
+But claimant admitted that
+
+had she been informed
+about the risk,
+
+she would still have
+had the operation,
+
+but she would have delayed it.
+
+Now, that's what
+
+provides the difficulty.
+It's the delay.
+
+It's the combination
+of the delay on
+
+the one hand and the
+fact that it was
+
+a 1% chance on the other.
+
+It's these two combined facts
+that cause the difficulty.
+
+I'll explain why in a moment.
+
+But first, I'll just
+say split judgement,
+
+so it's a 32 decision.
+
+The defendant was
+held fully liable,
+
+and the basic logic is that
+
+doctors should inform
+patients about
+
+the risks so they
+can exercise choice.
+
+That's obviously very appealing.
+
+We've seen a change.
+
+Now I'm going back
+to a case which you
+
+very much do need to learn
+
+and will probably be pretty
+important for the exam.
+
+Another case called
+Montgomery and Lanarkshire,
+
+which I taught you about
+in breach of duty.
+
+That's a very important
+case about a change in
+
+medical attitudes or a change in
+
+legal attitudes
+towards medicine.
+
+We used to take this
+view that doctors
+
+could just tell patients
+whatever they wanted,
+
+as long as there was
+
+a responsible body
+of medical opinion.
+
+As long as a bunch
+of doctors agreed,
+
+"No, we shouldn't
+share this information
+
+with patients in general."
+
+Doctors didn't have to tell
+patients anything much.
+
+They could just do
+whatever they liked,
+
+as long as there was
+a responsible body
+
+of medical opinion backing it.
+
+The law has changed.
+
+There's a change in emphasis,
+
+and we now put focus
+on patient autonomy.
+
+This is a key principle
+in healthcare law,
+
+which is a module
+you may take with
+
+my colleague Dr.
+Tom Peck next year.
+
+This result essentially reflects
+
+that the importance the law
+places on patient autonomy.
+
+But just regardless of
+
+that particular result
+and the reasoning for it,
+
+let's see why there's
+a problem here.
+
+Let's zoom in on that because
+it's quite interesting.
+
+There's a problem here
+because of the delay.
+
+On the one hand,
+
+if the patient had said,
+
+"I was going to
+have the operation
+
+anyway and I was going to
+have it at the same time."
+
+Then the same result
+would have occurred.
+
+We know that if exactly
+the same facts occurred,
+
+then the negligence would
+have made no difference.
+
+The negligence would
+not have been a but for
+
+cause because the damage
+would have happened anyway.
+
+On the one hand, we have,
+
+if the patient had said,
+
+"I would have had the same
+operation in the same
+
+way," then obviously
+D is liable.
+
+If the patient had said,
+
+"I wouldn't have had the
+operation at all," sorry,
+
+I'm getting this the
+wrong way around.
+
+If the patient would have said,
+
+"I would have had
+the operation in the
+
+same way," then obviously
+
+D is not liable because
+there's no causation.
+
+Sorry, I missed out a
+not. Very confusing.
+
+If on the other hand,
+the patient said,
+
+"I would not have
+had the operation at
+
+all," then obviously the damage
+would not have occurred,
+
+and so D would be liable.
+
+But the in between situation
+is that there's a delay,
+
+the delay is the problem
+
+because it looks like on the
+balance of probabilities,
+
+if the operation
+had been delayed,
+
+the damage would not have
+occurred because recall that
+
+there's only a 1% chance
+of the damage occurring.
+
+Because there's only a 1%
+chance of the damage occurring,
+
+each time you have
+the operation,
+
+there is a significantly
+less than 50% chance
+
+that the damage will occur.
+
+It looks like you're in
+the same scenario as
+
+if the patient had said
+
+she wouldn't have had
+the operation at all.
+
+I hope that makes sense.
+
+The point here is
+that you've got
+
+this tricky scenario
+and it looks
+
+like on all normal
+causation principles,
+
+the defendant should
+not be liable.
+
+That would be the
+normal understanding.
+
+Because the defendant's
+negligence made
+
+no difference to
+the risks for her,
+
+no difference at all.
+
+If you apply this SAAMCO rule,
+
+the idea is that the
+law limits liability to
+
+those consequences which are
+
+attributable to that which
+made the act wrongful.
+
+The duty is to protect
+the patient from
+
+the risk they were
+unwilling to accept,
+
+that this patient was
+willing to accept
+
+the risk because she
+would have had it anyway,
+
+she would have delayed it
+and thought about it a bit,
+
+but she would have
+had it anyway,
+
+so it's a risk she was
+willing to accept.
+
+So it didn't make any difference
+
+whether or not she
+was told about
+
+the risk and D should
+not be liable.
+
+That would be the
+traditional understanding.
+
+But that's not what
+the majority held.
+
+The majority held
+that because of
+
+the importance of
+the patient's right
+
+to autonomy and dignity,
+
+that ought to be vindicated by
+
+a modest departure from
+traditional causation principles.
+
+That's what they said. But
+this really does not make
+
+any sense on normal
+causation principles at all.
+
+But basically, what they want to
+
+do is they're so disturbed,
+
+A, by the fact that
+this patient's autonomy
+
+has been violated
+because they've
+
+not been told something when
+they ought to have been.
+
+B, by the fact that this
+patient is being unfairly
+
+penalised in a way for giving
+
+an honest assessment of
+what she would have done,
+
+that they want to give
+some money anyway,
+
+so they go ahead and do that.
+
+This would discriminate
+against those who can honestly
+
+say that they would have
+declined the operation.
+
+Find an unacceptable result.
+
+This is naked policy reasoning.
+
+It does not make any sense
+
+on ordinary causation
+principles,
+
+but it's the result they
+reached in any event.
+
+I'm going to have
+to take this off.
+
+Boiling it. As the dissents
+
+are pretty annoyed about this.
+
+Lord Hoffmann is quite
+annoyed about this.
+
+He said it's completely
+irrational, essentially.
+
+"In my opinion, this
+arguments about as logical as
+
+saying that if one had been
+told on entering casino,
+
+the odds of the
+number 7 coming up at
+
+roulette were only 1 in 37,
+
+one would have gone
+away and come back
+
+next week or gone to
+a different casino.
+
+The question is
+whether one would have
+
+taken the opportunity to
+avoid or reduce the risk,
+
+not whether one
+would have changed
+
+the scenario in some
+irrelevant detail."
+
+The idea here being
+that her being informed
+
+of this risk or not was
+completely irrelevant detail.
+
+It just didn't make
+any difference at
+
+all to whether or not the
+damage would have occurred.
+
+I think that's probably right.
+
+In its rush to embrace this
+idea of informed consent,
+
+the House of Lords undermined
+basic principles of
+
+causation and they use
+policy reasoning to say,
+
+"We want to give us
+some money anyway,
+
+even though it's not
+
+really just on ordinary
+causation principles."
+
+I find Clark and
+
+Nolan's argument in their
+article very appealing indeed.
+
+What they argue is that
+if the judges were
+
+so upset understandably about
+
+the violation of
+patient autonomy,
+
+we should have invented
+
+a new tort of violating
+patient autonomy,
+
+and she should have got
+some damages for that
+
+alone for failing to
+disclose properly,
+
+and I find that very appealing
+
+because I see no reason why
+
+patient violations of
+
+patient autonomy
+shouldn't be tortious.
+
+It's a psychiatric
+injury in a way to
+
+put yourself through an
+operation when you've not
+
+been properly informed
+about the consent of it,
+
+or sorry, not been properly
+
+informed about the risks of it.
+
+I think Chester and Afshar
+is right to be overruled,
+
+but it's interesting to
+see how in this case,
+
+and you see this in
+quite a lot of cases,
+
+you've got judges with a
+victim in front of them.
+
+They want to give that
+victim some money
+
+because some bad stuff has
+happened to the victim,
+
+but they don't have a clear,
+
+simple legal way to do it.
+
+Well, personally, I
+wish they just did
+
+what judges 100 years
+ago would have done,
+
+which is invent a new tort.
+
+They don't really
+do that anymore.
+
+We're not really
+in the business of
+
+inventing new torts in
+the way we used to.
+
+It was less than 100 years ago
+
+when negligence was invented.
+
+Why they can't just invent
+
+a nice new tort of patient
+autonomy, who knows?
+
+But they haven't done that,
+
+so they squeezed it
+into another tort.
+
+But by doing that, by squeezing
+this into another tort,
+
+they really distort ordinary
+tort law principles,
+
+and you do see this.
+
+When you get naked policy
+reasoning and victims
+
+who seem like they should
+be awarded something,
+
+you get a distortion of
+the basic principles of
+
+tort law through
+a desire to give
+
+some money to people who seem
+deserving of some money.
+
+You'll see this again
+next week in a case
+
+called White and Jones
+in pure economic loss,
+
+which is also very, very
+complicated annoyingly.
+
+Don't do that, don't
+do what the judges do.
+
+It's very tempting for
+students to do this,
+
+I think in problem questions.
+
+They will see victims in
+
+problem questions who
+have been done wrong,
+
+and they will find liability
+because they feel like
+
+the victim is owed some money as
+
+a result of something wrong.
+
+They have this
+sense of injustice.
+
+Very occasionally, judges in the
+
+House of Lords can do this.
+
+But generally, it's only the
+House of Lords that does this,
+
+and where solid tort law
+principles say there is
+
+no liability despite the desire
+
+to give some money
+to the victim,
+
+there should be no liability
+in a problem question.
+
+This is just a cheat
+sheet for legal causation
+
+to help you understand it and
+something to refer back to.
+
+It's a very simple
+analysis. Thanks very much.
+

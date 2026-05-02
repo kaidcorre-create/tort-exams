@@ -1,0 +1,2704 @@
+Dr. Megan Rae Blakely: Let's
+see. Is this thing on?
+
+Looks like it. We are
+going to get started.
+
+Welcome back. Nice
+to see everyone.
+
+I understand you may
+have been through
+
+a rough coursework-ey
+kind of week,
+
+so well done. You've made it.
+
+Those of you who have submitted
+
+formative responses for
+marking, we've received them.
+
+We will get your individual
+feedback to you shortly,
+
+and after the individual
+feedback has been sent,
+
+we'll post a broader
+answer guide for those
+
+of you who wish to just compare
+
+what we would be
+looking for generally.
+
+If you didn't get a
+chance to submit it in
+
+time due to other obligations,
+
+it might be worth
+still at least bullet
+
+pointing out what you think
+your response would be,
+
+and then you can
+compare yourself with
+
+the general answer guide
+and see how that goes.
+
+We talked a little bit on
+
+Monday about how to approach
+a problem question in tort.
+
+The reason we do
+this, although it
+
+may have been something
+that you're already
+
+quite familiar with from
+
+first year because
+it's not exclusive to
+
+tort is because you're
+
+now in a more advanced
+stage of your education.
+
+Second and third year is
+
+taught at a more advanced
+level than first,
+
+and also tort has
+
+particular ways in which
+to engage with that.
+
+The reason I bring this up
+is because there have been
+
+some questions about will
+
+we do something
+similar for essays?
+
+The answer is no because we
+
+don't expect anything special
+
+or different with
+tort with essays.
+
+One way you can
+work on this is to
+
+structure your response to
+the second workshop question.
+
+Usually, you'll get
+a problem question
+
+and an essay question.
+
+Write out a little outline of
+
+how you might answer that
+as an essay question.
+
+I do try to make reference to
+
+what I would look for
+in an essay question,
+
+and I believe the rest of
+the teaching team does too.
+
+But if you have a
+question, if you're not
+
+clear and we don't
+address it in workshop,
+
+you're always more
+than welcome to ask,
+
+if this were an essay question,
+
+how would you approach it?
+
+My other advice that I always
+
+give to students
+at this stage of
+
+their education is to go
+
+back to your Law 101
+materials on essay writing.
+
+When you first start
+law school, obviously,
+
+you've got a lot going on, and
+
+you probably thought, well,
+I can write an essay.
+
+I know how to write an essay,
+
+and put it back
+
+in a folder somewhere and
+
+maybe have not
+looked at it again.
+
+But Lancaster has an
+educational programme for law.
+
+We do quite a lot
+of skills support
+
+first year for
+coursework for essays
+
+and if you hadn't been through
+a legal assessment course,
+
+you hadn't been through
+your assessment period
+
+yet when you were given
+that information,
+
+you may look back at it now
+
+differently and pick out
+different things that
+
+you think are important now
+
+that you know more what
+you're looking for,
+
+now that you've written
+more legal essays,
+
+now that you've
+got more feedback.
+
+So my advice would
+
+be go straight back to
+your 101 materials,
+
+pull out the advice
+on the essay writing.
+
+If you have more
+questions about this,
+
+this is a great thing to go
+to your academic advisor for.
+
+You all have an
+academic advisor.
+
+If you have questions, go
+to your academic advisor.
+
+You can ask your workshop tutor.
+
+If you feel like you really need
+
+some more personal
+guidance on that,
+
+we do have the laws
+legal writing workshop.
+
+I believe it's Monday
+early afternoon.
+
+We also have dedicated
+people that can
+
+work with you on your
+legal writing skills.
+
+Although we would love to
+also do that with you here,
+
+we also have to get in all of
+
+your substantive
+material as well.
+
+But there's lots of resources
+for you to work with.
+
+Please do ask in workshop if
+
+something isn't clear
+for the essay prompt
+
+because we design the
+workshop material
+
+in order to prepare you
+properly for assessment,
+
+so we're happy to
+answer those questions.
+
+All good? We're going to
+move away from the OLAs.
+
+We're going to talk
+about privacy now.
+
+Next week we'll get
+into defamation.
+
+These claims often go together.
+
+If you have even a
+basic lay understanding
+
+of what privacy and
+defamation are,
+
+you probably can understand
+why these often go together.
+
+However, the UK is
+
+interesting in that there
+is no privacy in tort law.
+
+There is no claim,
+there is no spoon here.
+
+There is no claim
+to privacy law,
+
+invasion of privacy
+in UK tort law.
+
+We have slightly
+different sorts of
+
+claims that will allow
+
+you to recover if you
+suffer that type of harm,
+
+and we'll talk about why
+the law operates this way.
+
+Even if you read a decision,
+
+even if you read
+commentary from a law firm
+
+on one of these cases and they
+
+talk about invasion of privacy,
+
+there's two things going on.
+
+One is that it is
+
+a more general way of
+discussing what an issue is,
+
+what incident occurred, and
+
+they're going to say
+invasion of privacy,
+
+even if the underlying
+
+legal claim is
+something different.
+
+You need to really be
+able to identify what
+
+the actual claim is versus
+
+the language that is being used.
+
+The second thing is that
+they're trying to convince
+
+the court that there should be
+
+a claim for invasion to privacy.
+
+Two things going on
+if you see this in
+
+the language of a
+case or a decision,
+
+but just be aware that the
+
+actual legal claim that will be
+
+considered is called
+something slightly
+
+different than it is in
+many other jurisdictions.
+
+As far as what we actually
+award in privacy for tort,
+
+it has to do with two
+causes of action,
+
+which you don't have to
+worry about right now.
+
+We'll get into a
+lot of detail in
+
+the next hour. Breach
+of confidence.
+
+This required more of a
+relationship between parties,
+
+and then there was a breach
+of that information,
+
+and the other is the
+more common and more
+
+recent that has to do with
+the misuse of information.
+
+I'll just preface everything
+
+we're talking about now
+that you should know
+
+that both of these
+have to do with
+
+information and not
+bodily privacy.
+
+Bodily privacy is handled
+differently in tort than it
+
+is with the particular
+related privacy torts.
+
+It all has a lot to
+do with information.
+
+Common law basis, we
+
+don't have any active
+statutes around this.
+
+Human rights come into
+this quite a lot.
+
+If it's something that
+you're interested in,
+
+this is something
+to think about.
+
+We'll talk really
+briefly about it.
+
+You don't have to have a
+really strong understanding of
+
+the Human Rights Act to be
+
+able to actively
+engage with this.
+
+As I said, there's no
+overarching privacy tort
+
+as a cause of action.
+
+I think the reasoning is really
+interesting around this.
+
+There's a lot of,
+
+in my opinion, the legal
+juggling going on.
+
+If you think about the way that
+
+tort operates, it's a stopgap.
+
+It fits in all these places
+
+where there's no other remedy,
+
+and we always look
+back to legislation.
+
+We look back to, are
+we doing it correctly?
+
+Does parliament
+want to intervene?
+
+They've repeatedly refused.
+
+If you have parliament
+
+repeatedly refusing to
+legislate in an area,
+
+then as on the common law side,
+
+they're very reluctant to
+be active in that area.
+
+They're not meant
+to be activists,
+
+they're not meant
+to be making law.
+
+If parliament has actively
+refused to do this,
+
+then the courts are really
+conscientious about why.
+
+There was a push from one of
+
+the committees to draft
+
+a law on privacy
+saying we need this.
+
+They went through
+this whole exercise
+
+of trying to draft it and
+
+they come back and they were
+
+persuaded after this report,
+for whatever reason,
+
+that it would be something
+
+they wouldn't want to
+create and they've been
+
+persuaded that there isn't
+
+any public support for
+
+a general invasion
+of privacy claim.
+
+They talk about it would
+
+be costly and high risk
+
+if you wanted to make an
+invasion of privacy claim.
+
+This is an active type of
+
+a claim in many
+other jurisdictions,
+
+but this is the position
+of the law here.
+
+You may or may not recognise
+this man from 'Allo 'Allo!.
+
+He is famous actor, well known.
+
+He was parking his vehicle
+one day under a billboard and
+
+the billboard just fell into his
+
+convertible and he suffered
+serious brain injuries.
+
+Again, like I said, it's
+very difficult to make
+
+a weirder facts in
+
+tort exam problems than
+things that actually happen.
+
+He goes to the hospital and
+
+some intrepid journalist
+recognises him,
+
+realises he's in the hospital,
+
+and tries to interview him so he
+
+can get this exclusive
+interview, this scoop, 1991.
+
+Not as much Internet uptake.
+
+You had to have a front
+page newspaper story.
+
+This will be a big deal if
+
+this famous actor
+were hospitalised.
+
+They publish photos of him in
+
+the hospital and the things
+he says in this interview,
+
+and they state that he
+agreed to be interviewed.
+
+He says he's no memory of this.
+
+He's in the hospital
+for head injuries.
+
+His lawyer does try to bring
+a raft of claims here.
+
+You see the different types of
+
+claims they tried
+to bring forward.
+
+A lot of these go together.
+
+The reason you see this is
+
+because there's many
+different things
+
+you want the court to consider,
+
+even if you think one
+is stronger or weaker.
+
+But if one of them fails,
+
+you can't appeal on a
+new basis of a claim.
+
+Just basic legal approach.
+
+The reason you see all of
+
+these different types of claims
+
+is not necessarily because they
+
+don't know which
+will be the most
+
+successful or which one
+they think is appropriate.
+
+It's actually because
+if one of them fails,
+
+but a few others survive,
+there's different ways.
+
+You can't bring a
+new claim on appeal.
+
+They want to reserve
+those rights
+
+if the court decides one
+of them isn't successful.
+
+We don't talk about malicious
+falsehood this year,
+
+but be aware that it's
+a claim that exists.
+
+They bring all these
+different claims and
+
+they also try to convince
+the court that there
+
+should be an invasion
+of privacy tort
+
+in this type of
+situation where clearly,
+
+if you are in a hospital
+bed with a serious injury,
+
+you have an
+expectation of privacy
+
+and a reasonable adult should
+
+understand that this is
+
+a situation where a person
+should have privacy,
+
+and so they say in this way,
+
+we think there
+should be a claim.
+
+Almost everything fails except
+for malicious falsehood,
+
+and they reinforce that there
+is no right to privacy.
+
+They say, look, we have all of
+
+these different types of claims,
+
+none of them are going
+to be successful.
+
+They've not trespassed to
+
+the person, you're
+familiar with that one.
+
+They didn't make any
+physical contact.
+
+They weren't passing
+off anything,
+
+and we'll talk about
+this next week,
+
+that he said that he didn't say,
+
+and none of it was
+defamatory, again, next week.
+
+But they did say malicious
+falsehood applied.
+
+The thing that's important
+about the K case that you
+
+want to write down in your
+notes in big bold letters
+
+is that the court says
+that these types of claims
+
+have to fit in the existing
+boxes of liability.
+
+They're not going to
+continue to create
+
+more types of claims to fit
+new factual situations,
+
+and they do pick one that
+we don't talk about.
+
+But they do pick one
+claim where they say,
+
+yes, malicious falsehood
+here is successful.
+
+We understand there has
+
+been something that is
+a compensable injury.
+
+They do find in his favour,
+
+but they say, no,
+
+we're not going to do
+a right to privacy,
+
+must fit in the
+boxes of liability.
+
+Parliament has said
+we don't have this,
+
+and so we can't make
+new laws questionable.
+
+Courts do this quite a lot.
+
+Courts will create
+common law remedies in
+
+the absence of a
+legislative intervention.
+
+You see it a lot.
+
+We have things that don't have
+a statute where the courts
+
+have made a common law rule
+
+and a precedent and
+we rely on that.
+
+There's choices being made here,
+
+and we just have to
+accept that that
+
+is the way that the law goes.
+
+They're very specific,
+if you read through it.
+
+Further on, couple
+decades later,
+
+we realise this is
+happening a lot.
+
+We're in the
+celebrity era now of
+
+tort until next Friday
+because the press is always
+
+going to be pushing
+for sales, money.
+
+They're always going
+to be pushing these
+
+boundaries of things
+that they think
+
+will be salacious enough for
+
+people to pay more attention,
+
+either pay money, subscriptions,
+
+and now more clicks,
+
+who's going to share this?
+
+Depending on the reputableness,
+
+reputation, how good
+is the news source?
+
+We all know what a tabloid is
+
+versus a reputable news source.
+
+These are really
+banking on a bit of
+
+sensationalism versus
+actual news reporting,
+
+and a lot of these sorts of
+
+media practise is the
+subject of discussion.
+
+They used to be self-regulated
+
+and if you've had
+any experience with
+
+a self regulated industry or
+
+a self-run arbitration board,
+
+can I just recommend that if
+
+you ever have to go into
+anything with trade,
+
+and they say, you can go through
+
+our voluntary trade arbitration
+process, don't do that.
+
+Just go to small claims court.
+
+If you have a legitimate claim,
+
+this is personal
+advice, not official,
+
+don't go through
+trade arbitration.
+
+If you have a organisation
+running things for themselves,
+
+their interests are going to
+be perpetuated themselves.
+
+This is what we saw with
+the Leveson Inquiry.
+
+They create a new independent
+
+press standards organisation,
+
+not entirely different here,
+
+and looking into this in
+
+different ways has been set
+
+aside by successive governments.
+
+It's not something that they
+seem to be interested in
+
+engaging with, for
+whatever reason.
+
+Because of this, we have a
+lot of ongoing litigation,
+
+not legislation,
+ongoing litigation,
+
+particularly with
+royal family members,
+
+perpetual engagement
+with the courts with
+
+suits that deal with defamation
+and privacy in the media.
+
+As I said,
+
+these are the different types
+of actual claims you have.
+
+We don't have an official
+invasion of privacy tort.
+
+We have human rights,
+which we'll look at.
+
+We have breach of confidence,
+
+which is the older tort remedy,
+
+but there's restrictions around
+
+that that we'll talk
+about that didn't really
+
+make it very practical for a lot
+
+of claimants that should
+
+have that type of
+claim available.
+
+Following Campbell and MGN,
+
+we have this tort of misuse of
+
+private information.
+This is 2014.
+
+Even though the courts
+are expressly saying
+
+we're not going to
+
+stand up to the parliament
+who has said that we're
+
+not going to make this
+invasion of privacy tort,
+
+we're going to go ahead
+and honour our position.
+
+We're not going to engage
+in this judicial activism.
+
+However, we realise
+this is a big problem,
+
+so we're going to call it
+misuse of private information.
+
+We're getting a bit closer.
+
+But when you're talking about
+
+a tort claim in a
+modern sense in the UK,
+
+even if they talk a lot
+about invasion of privacy,
+
+what the underpinning
+action is going
+
+to be is going to be misuse
+of private information.
+
+What do I mean by this is all
+
+underpinned by the
+Human Rights Act?
+
+Keep in mind, this would
+have been implemented to
+
+harmonise with the EU when
+we were so obligated.
+
+We've not had a lot
+of changes for it,
+
+but you want to
+refer to the HRA,
+
+which is our
+domestic instrument.
+
+You have these underlying rights
+
+that even if you're
+not familiar with HRA,
+
+you probably expect to have
+in a democratic society.
+
+You probably expect to have
+a private family life.
+
+You probably expect privacy
+in your home to some degree,
+
+freedom of expression, all
+mitigated by certain things.
+
+But you can see how these will
+
+impact something like misuse
+of private information.
+
+All of this is implemented
+through Section 12
+
+because if we don't have
+
+a right or a cause of action
+for invasion of privacy,
+
+then theoretically
+we could have a case
+
+that we aren't providing
+
+appropriate relief
+as a court system.
+
+But with our misuse of
+private information,
+
+it should according to
+
+scholarly and court authorities
+
+be compatible with
+the Human Rights Act.
+
+The remedies you're provided
+
+in the legal system
+either through
+
+statutory intervention or
+through the common law,
+
+you should be able to
+have a remedy through
+
+a public body if one
+
+of these rights are
+not available to you.
+
+If you don't have private
+and family life respected,
+
+you should have a
+domestic remedy
+
+that would allow
+you to remedy that.
+
+Lots of places that would look
+like invasion of privacy.
+
+Here, it's going to look like
+
+a combination of different
+things like you have
+
+seen in the K case and now
+in a more modern sense,
+
+misuse of private information.
+
+You don't need to
+read all of this now.
+
+I just want to pull this
+up for you because we are
+
+not in a human rights module.
+
+I just want to highlight
+the things that are
+
+going to be the
+most important for
+
+you to understand or argue that,
+
+these remedies are not
+
+fulfilling our human rights
+obligations or they are.
+
+We're expecting a limited
+engagement with this.
+
+You can't have interference
+with a public authority.
+
+This goes two ways.
+
+If we were to overly
+
+interfere with the press'
+ability to report,
+
+you would have the
+argument that maybe we
+
+are affecting freedom
+of expression,
+
+freedom of speech, ability of
+the public to access news.
+
+If there's too much
+privacy available,
+
+then that might be a problem
+or individuals are not
+
+receiving the rights to
+protect their own privacy
+
+where it's not really relevant
+
+to news and things like that.
+
+The argument here
+is that this is
+
+a really tight
+balancing act and that
+
+is what you see through the
+Human Rights Act application.
+
+This is the compatibility
+section that talks
+
+about especially journalistic,
+
+literary, artistic material.
+
+Public interest. We'll talk
+about public interest.
+
+The line is an interested
+public is not public interest,
+
+just because everyone
+wants to know
+
+what Kim Kardashian
+had for breakfast.
+
+This is not in the
+public interest.
+
+She'll tell you herself.
+
+But public interest is more
+
+like the prime minister
+is taking bribes.
+
+You don't get right
+to privacy for that.
+
+It's not celebrity news.
+
+This is the historical claim
+
+and you'll see some
+reference to this.
+
+If you see a claim for misuse
+of private information,
+
+you might also see something
+around breach of confidence.
+
+Coco is your main case
+
+here to discuss and
+these are the elements.
+
+The reason I want
+to highlight that
+
+this particular claim
+is not going to
+
+be useful for a lot
+of modern cases,
+
+because it has a
+necessary element
+
+of confidence about it,
+
+and this was also
+further interpreted
+
+to be more specific.
+
+Where breach of confidence
+is really useful is if,
+
+let's say you go into a business
+
+dealing with somebody
+and you have
+
+a preliminary meeting
+and they disclose
+
+to you this great business
+idea and you say,
+
+well, don't tell
+anyone about this.
+
+However, I'd like you to
+consider sponsoring my business.
+
+Then that person goes and
+
+discloses whatever this
+brand new fantastic idea is.
+
+You have some
+relationship between
+
+the parties where often
+
+in employment context, some
+explicit relationship.
+
+In a lot of modern situations,
+
+you don't have that
+explicit relationship.
+
+Breach of confidence
+is there and is
+
+useful in a lot of
+particular situations.
+
+But for the more press
+and media situations,
+
+you don't end up having
+
+as much of relevance
+because you don't
+
+have that preexisting
+relationship
+
+where there was something
+that was explicit.
+
+Useful, keep it in mind,
+
+it's what people had
+to rely on before.
+
+You have two main cases you
+want to know about with
+
+the more modern tort
+fact scenario here.
+
+Douglas, Catherine Zeta
+Jones, presumably,
+
+we all know these people, 2005.
+
+If we talk about what
+do we mean by private?
+
+We say private information.
+
+What is private information?
+
+They're trying to wrestle
+around with this concept
+
+we don't have an invasion
+of privacy tort,
+
+but we do have something
+
+where we recognise that
+
+these rights are not
+being fulfilled.
+
+There's something where
+there is not an ability to
+
+actually recover that's missing
+
+and Parliament has explicitly
+
+refused repeatedly to create
+
+this invasion of privacy tort.
+
+What do we mean by private?
+
+You have a celebrity wedding.
+
+You have an unpublished
+location, unpublished date,
+
+and you have an exclusive
+£1 million contract
+
+for a magazine to
+publish photos.
+
+Food for thought? Is
+this about privacy?
+
+Is this about making
+
+money off your own
+celebrity wedding?
+
+Law doesn't care. What
+does privacy mean here?
+
+They give this
+exclusive contract
+
+to one particular entity,
+
+photographer sneaks
+in, took photos,
+
+sells them to a competitor.
+
+Does it matter that
+you are very famous?
+
+Does it matter that there
+
+are a lot of people
+at your wedding?
+
+Does it matter that
+
+people know that it's
+happening? It's not a secret.
+
+The court said, you
+should have already
+
+known that there was a
+breach of confidence here.
+
+You should have
+realised there was
+
+some obligation that
+this was private.
+
+It was pretty clear you
+weren't allowed in.
+
+There was security,
+it was undisclosed.
+
+If you're one of
+these photographers,
+
+paparazzi, that you're
+not invited explicitly.
+
+If you're sneaking in somewhere,
+
+you are aware that this is
+
+private and not
+open to the public.
+
+But they say there's
+
+nothing here that creates
+a new privacy law.
+
+They say there is
+nothing that is new,
+
+but they try to rely on
+
+an extended version
+of Coco and say,
+
+you should have known
+there was this obligation.
+
+Rather than this really
+
+closely tied together
+relationship
+
+between this freelance
+photographer and the claimants,
+
+what they said was that
+
+there's this obligation
+of confidence.
+
+They start trying to
+
+spread out because the
+court is recognising that
+
+there's an issue here with
+
+the privacy being protected
+in a way that it should be.
+
+As a lay person,
+
+you would know that this
+is probably not correct.
+
+The arguments that a lot of
+
+people are there
+doesn't negate privacy.
+
+You can invite as many people
+
+as you want to your wedding,
+
+tell them not to tell anyone,
+
+and you're still entitled to
+
+your privacy with the people
+you choose to attend.
+
+They specifically say, we
+have got no new privacy law.
+
+We're not defying parliament.
+
+We're not doing what
+we're not supposed to do,
+
+but we can extend
+Coco a little bit,
+
+and they do award the
+claimants for this.
+
+Here's our friends. Now 2022,
+
+they're now publishing all of
+
+their own wedding
+photos on Instagram.
+
+The first you're looking at
+2005 and they were like,
+
+our privacy, we wanted this
+to be a special moment.
+
+We didn't want
+anyone to come in.
+
+But they also would have
+been short a million pounds,
+
+dollars if the exclusivity
+
+of that photo had
+been interfered with.
+
+Here, they're publishing
+all of their photos
+
+and presumably a monetized
+Instagram account.
+
+What I want to
+highlight here is just
+
+recognising in a
+more societal sense,
+
+what does this look like in
+
+a contemporary fashion
+versus what it
+
+looked like versus a wider
+social media uptake?
+
+Because this is still
+getting monetized,
+
+but it's getting
+monetized differently
+
+than it would have done in 2005,
+
+selling exclusive rights too.
+
+I'd suggest they're not
+
+particularly concerned about
+their personal privacy,
+
+but there is a
+monetization aspect here.
+
+Doesn't matter you're
+still entitled to it.
+
+You can have whatever
+motivation you want.
+
+This was ongoing at the
+same time, slightly before.
+
+Naomi Campbell, still know
+Naomi Campbell, hopefully.
+
+Thank you. Get a little this.
+
+Misuse of private information.
+
+Even if we are talking
+about Naomi Campbell,
+
+I tried to find this
+photo on Google.
+
+What happens is they take
+
+a picture of her leaving
+a drug treatment clinic,
+
+and the argument was that she
+
+had been open about the fact
+
+that she had struggled
+with drug addiction.
+
+She's a public
+figure. She talked
+
+about having some of these.
+
+But taking a photo
+of somebody in
+
+their private medical
+appointments and
+
+publishing this is not
+what she released herself.
+
+Even celebrities get to
+
+choose in things that
+
+are not a matter of
+public interest,
+
+how much you disclose,
+
+and everyone should be
+
+entitled to private
+medical treatment.
+
+This goes back to K. If
+
+you are in a hospital
+with a head injury,
+
+no matter what you do for a job,
+
+you should be afforded
+privacy in some way.
+
+They quote her and they put this
+
+really unflattering
+picture of her up and I
+
+tried to find the picture
+online and I couldn't,
+
+which is so weird now.
+
+Everything is online.
+
+But I'd suggest we're at
+
+a point where we're
+suffering a little bit
+
+of deterioration of
+everything's on the Internet.
+
+You also have actions on Google
+
+that they will take
+things down at request.
+
+Again, if it is something
+that is private information,
+
+I think that's exactly correct.
+
+These things don't have to
+
+live forever and they shouldn't.
+
+Very nominal damages here as
+
+compared to the Douglas case,
+
+£3,500 cost to Campbell.
+
+This is where we
+first get the term.
+
+This creates the tort of
+misuse of private information.
+
+Campbell is really important to
+
+understand and know
+where they say,
+
+a reasonable person would
+
+have known that these
+are confidential,
+
+even though she talked about it,
+
+the actual images of
+her coming and going,
+
+a reasonable human being would
+
+understand this is not what you
+
+smack on the front
+of a newspaper.
+
+This is important
+because this is
+
+where we first get
+this tort and we
+
+rarely see the creation
+of a new tort here.
+
+These are the
+elements of the tort
+
+of misuse of private
+information.
+
+You want to be
+familiar with these.
+
+Do you have a reasonable
+expectation of
+
+privacy regarding
+the information?
+
+We go back to our
+favourite word in tort.
+
+Is it reasonable?
+
+For a lot of these,
+
+I think it's much
+more straightforward
+
+than general negligence claims,
+
+what is reasonable in a
+general negligence claim.
+
+There's so many
+factors involved.
+
+As far as private information,
+
+what you think is reasonable,
+
+there seems to be a
+lot more agreement,
+
+a lot more consensus
+
+around what we should
+expect to be private.
+
+This is different from what
+we want to be private.
+
+What you would like to
+be private is different.
+
+But do you have a reasonable
+expectation here?
+
+This is why I bring up
+the HRA because they do
+
+talk about is the
+claimants interest
+
+in maintaining their
+right to privacy outweigh
+
+the defendant's interest
+in freedom of expression?
+
+Ultimately, it looks like
+
+the court is recognising
+that we have
+
+a human rights problem here with
+
+the ability to have
+a compatible remedy.
+
+As a public authority,
+
+the court is a public authority,
+
+are we providing a
+remedy for people in
+
+relation to those human rights?
+
+They repeatedly say, we're
+doing what parliament says,
+
+but we're going to
+actually create a tort
+
+here where it has to do
+
+with misuse of
+private information.
+
+It is, as it says on the label,
+
+it is about information.
+
+We'll look at a case
+in a moment that has
+
+to do with bodily
+invasion of privacy.
+
+Essentially, the court says,
+
+you need to look to
+a different remedy,
+
+so you might have a trespass to
+
+the person or a different
+type of a claim.
+
+They always go back
+to K and they say,
+
+does this fit in the
+existing boxes of liability?
+
+How can you make this fit
+in an existing claim?
+
+As law students, you
+would probably be
+
+grateful for that because there
+
+are some limits on
+how many new torts
+
+we can continually create.
+
+They want you to use what you
+
+already have in order to have
+
+that compatible recovery.
+What do we mean?
+
+Reasonable expectation
+of privacy, they do say,
+
+as I mentioned before,
+it should be obvious to
+
+a person of ordinary
+sensibilities.
+
+If you were to try to determine,
+
+is this obvious as offensive to
+
+somebody with ordinary
+sensibilities.
+
+I talk about this a lot in
+other areas of the law,
+
+such as offensive trademarks
+and things like that.
+
+It's highly societally
+subjective.
+
+What's offensive in the UK to
+
+your ordinary person with
+ordinary sensibilities,
+
+that is specific to
+our jurisdiction.
+
+It's going to be
+very different in
+
+other areas of the world.
+
+Ordinary sensibility in China,
+
+ordinary sensibility in Brazil.
+
+These might all be
+very different.
+
+Keep in mind what's offensive it
+
+is very culturally and
+societally dependent.
+
+A lot of types of law.
+
+Information about
+sexual activities,
+
+pretty much across the board,
+
+there's really no reason
+why a person shouldn't
+
+have an expectation of
+privacy for that information.
+
+If you take measures to protect
+
+your information like password
+protected photo storage,
+
+I would encourage you here to
+
+read your terms and conditions
+
+because it's quite
+likely that all of
+
+that information is
+being scraped anyway.
+
+That's a different
+topic. You might have
+
+a reasonable expectation
+to that in court,
+
+in practise, you might not have
+
+actual privacy for
+that information
+
+based on the platform you use.
+
+Things like evictions.
+
+If somebody knows you've been
+evicted from a property,
+
+this is the thing that
+
+an ordinary person would
+know should be kept private,
+
+that it's not
+something to share.
+
+It's private information.
+
+You can think of
+this with Campbell,
+
+the argument they were making
+
+in Campbell, where they say,
+
+you might lose this
+reasonable expectation
+
+because she did discuss
+
+her struggles with
+addiction publicly,
+
+but a lot of celebrities do
+this, for positive reasons.
+
+They want to make people
+feel like they're not alone,
+
+people be supported and
+
+actively seeking support
+because you don't
+
+want to societally
+create a situation where
+
+people are afraid to seek
+the support that they need.
+
+That's why privacy around
+
+medical information
+is so important.
+
+That is not the same
+public knowledge.
+
+Acknowledging that it
+happens is different than
+
+these types of things where
+you still retain privacy.
+
+I just always not every year,
+
+at your job, when you go
+into your traineeships,
+
+whatever you're doing
+on your work computers,
+
+anything you do on that,
+
+whether it's through
+your personal email,
+
+if you're using your
+work network or work
+
+computers or university network,
+
+you can not have the same
+expectation of privacy that you
+
+would on your private network
+
+and particularly not at work.
+
+If there's anything you don't
+want your employer to know,
+
+don't use your laptop,
+Internet for it.
+
+You've probably
+signed something that
+
+acknowledges that you know this.
+
+There's tech people scrolling
+
+through things,
+running training,
+
+that thing, so
+
+don't send private things
+at your traineeship.
+
+Step 1, reasonable expectations.
+
+Step 2, are we balancing
+
+these individual interests with
+
+the freedom of expression?
+
+This goes back to, again,
+
+the things that are
+really important for
+
+public accountability for
+officials or leaders,
+
+things around law enforcement,
+
+things around public safety,
+
+things around informing
+voters, informing the public.
+
+Without going into every
+potential scenario,
+
+you can probably imagine where
+
+an overly enforced misuse
+of private information tort
+
+could chill and prevent
+
+important information
+from reaching
+
+out and whether it's
+justified or not,
+
+having that standalone
+invasion of
+
+privacy tort maybe would
+present more chilling at first.
+
+I think there's
+concerns around that.
+
+It's really about keeping
+a balance between
+
+these two forces where we
+have the information we need,
+
+we have news, we
+have expression,
+
+but that people are
+entitled to their privacy.
+
+You'll see a lot of this.
+
+If you've had a
+look at Workshop 7,
+
+this is just a bit of
+a preview for you.
+
+I'm going to just provide
+
+a little bit of
+context as to what I'm
+
+asking you to look at because
+we don't have a case,
+
+we always want to
+look at a case.
+
+However, the reality is with
+a lot of these situations,
+
+they will go to
+litigation and they will
+
+settle. They'll
+settle out of court.
+
+We have no litigation,
+
+and this is for the benefit
+
+of all parties because
+then you have precedent,
+
+and then you may have to
+change your behaviour.
+
+There's already more litigation
+
+going on with Associated
+Press right now.
+
+You may have seen
+this in the news.
+
+We're not going to go
+into every single case
+
+that has to do with royal
+family members in the press,
+
+but it is a running them.
+
+However, what I would say is,
+
+and we'll talk about in
+workshop, think about this,
+
+one of the ways to
+defend this or to
+
+derail this type
+of a claim is to
+
+make a sincere public apology.
+
+Are you just really sorry
+that you leaked all of
+
+that private information
+and then they
+
+will go ahead and count
+that as a defence.
+
+If you have a very
+prominent claimant,
+
+you're probably
+profusely apologising
+
+and paying a lot of money,.
+
+Just something to think about
+
+whenever you meet with your
+workshop tutor coming up,
+
+is this really the best outcome?
+
+The courts will always
+want people to settle.
+
+You always want people to settle
+
+because presumably
+you can come to
+
+an agreement without taking
+
+the court's time
+and administration,
+
+and then hopefully that
+agreement between the parties
+
+means the law is working and
+
+everyone understands what
+they're supposed to do.
+
+However, so the legal team
+for Prince Harry says,
+
+this is a monumental victory,
+
+we're not disclosing, so they
+
+meet and they don't
+disclose how much money.
+
+Why don't they disclose
+the amount of money?
+
+They don't do this
+because the next person
+
+who comes along says, well,
+
+you paid them four
+million pounds,
+
+I want five million pounds,
+
+or I want at least
+four million pounds.
+
+This is at least as bad as this.
+
+Part of the agreement
+when they go
+
+through their arbitration
+with their attorneys
+
+is they don't disclose
+the amount of money
+
+and because we
+don't have a case,
+
+we don't have case law on
+this, it's not public.
+
+This is how a lot of these go.
+
+But the difference for
+this particular case
+
+is that they did apologise.
+
+A lot of the time they don't.
+
+We'll discuss more,
+but just keep in mind,
+
+this is a way a lot
+of these occur.
+
+Is it the best? Is it
+not? We don't know.
+
+Maybe you're thinking
+about children.
+
+How do we deal with
+children and privacy?
+
+We know that they're not
+legally competent parties.
+
+This comes up a lot again,
+
+back to, celebrity
+week and a half,
+
+comes up a lot with
+children of celebrities
+
+because adults have made
+
+a career choice or are born
+
+into certain situations and
+have continued that activity.
+
+Children don't have free will in
+
+this way and are dragged along.
+
+How do we protect the privacy of
+
+children who aren't
+able to consent?
+
+Of course, we rely
+on the consent of
+
+the parent for minors.
+
+If you have that, great.
+
+If you don't have the consent
+of the celebrity parent,
+
+how are children
+meant to be treated?
+
+So Murray is the actual
+surname of JK Rowling.
+
+She has an 18 month old son
+in this case and they seek
+
+an injunction because there are
+
+members of the press sitting
+
+around with long range lenses,
+
+taking pictures of
+an 18 month old baby
+
+while she's walking down
+the street to get a coffee.
+
+The high court says,
+well, you're in public.
+
+There's no press free zones.
+
+We cannot guarantee that.
+
+Nobody has a right to privacy,
+
+a guarantee in a public place.
+
+This is a default position.
+
+When you're in a public place,
+
+you don't have a default
+expectation of privacy.
+
+But for children,
+
+particularly of celebrities,
+
+this is a little bit different.
+
+If you have a baby,
+
+it's unlikely you'll be in
+
+a situation where anyone
+is going to want to
+
+use a long range lens
+to take a picture of
+
+your baby and put it on the
+front page of a newspaper.
+
+Maybe it will happen,
+probably not.
+
+If you don't want a picture
+of your baby on a newspaper,
+
+the courts say, you should
+be able to have that.
+
+If it's solely based on
+the celebrity status
+
+of the parents,
+there's no interest,
+
+any other reason in this child
+that they should already
+
+be subject to this exposure.
+
+You have to as a
+reasonable person,
+
+understand that's not
+the right thing to do.
+
+So best interests of the child,
+
+this is the approach
+now and they take
+
+special care around children
+of celebrity parents.
+
+If the celebrities tort
+
+the kids out, then
+they're the parent.
+
+That's their choice. If they
+
+decide to keep them out
+of the eye of the press,
+
+then they're meant
+to respect that
+
+because that's the best
+interests of the child.
+
+You cannot override
+the rights of
+
+the parents even if
+they're celebrities.
+
+As you imagine, there's
+going to be a lot of
+
+sensational things going on in
+
+these types of privacy
+and defamation cases.
+
+We have in Mosley,
+
+we had somebody who had a
+father who was involved in
+
+Nazi regimes and was a
+prominent figure and was
+
+apparently attending orgies
+where they re-enacted Nazi.
+
+This is where we get to the
+fun part, nobody told you.
+
+This is where they re-enact
+these things and somebody
+
+took a picture and video of
+these activities going on,
+
+viewed by 3.5 million people.
+
+They say, is this a big deal?
+
+How damaging is this?
+
+Ultimately, the court says,
+
+There's no public
+interest in this,
+
+whether the public is
+interested or not.
+
+This goes back to, is
+it sexual behaviour?
+
+Do you have justification
+to have privacy on this?
+
+It might be distasteful,
+
+I might be morally very bad.
+
+But that doesn't mean
+it's in light of
+
+the public interest unless
+there's some reason.
+
+Is this guy in
+
+some position of public trust,
+that might be different.
+
+But at the same time, is
+there a public interest
+
+in a video of this going on.
+
+Keep in mind, there
+are some limits.
+
+Are you identifiable?
+
+How damaging is this?
+
+Is this something that
+a reasonable person
+
+would expect privacy around?
+
+We don't have to like it.
+
+But if there's no reason
+that this should be public,
+
+then we should not do this.
+
+This is the bodily
+autonomy limit.
+
+We look around Wainwright
+in home office,
+
+a sloppily performed
+strip search.
+
+I think we're all
+subject to these
+
+every time you go
+through the airport.
+
+I've not experienced
+a non sloppy search.
+
+But of course, I'm making light,
+
+but this was more serious.
+
+But they draw a limit here.
+
+They say there's other causes of
+
+action where you
+should go to not tort.
+
+You should not be looking
+at invasion of privacy.
+
+This was right around the time.
+
+So 2003, this was right around
+
+the time that Campbell was
+coming up through the courts,
+
+that we were hearing
+about Douglas,
+
+where they were trying
+to decide where
+
+the limits of this
+actually existed.
+
+They say, no bodily
+invasion of privacy,
+
+and we get after Wainwright to
+
+this expression of misuse
+of private information.
+
+There was already some move,
+
+there was already
+precedent of the way
+
+the shape of this
+new tort would look.
+
+Just something to
+provoke thought,
+
+not anything that you
+need to engage with,
+
+and please don't write
+your whole essay about
+
+these particular things because
+
+that's not what we've
+talked about in law.
+
+But think about expectations
+of privacy now.
+
+If you want to do
+a dissertation,
+
+these are all things that
+are really interesting.
+
+We have data protection,
+
+but if you look at things
+
+around smartphones or
+voice recognition,
+
+there's this real expansion
+of our private information
+
+being more and more
+accessible and used.
+
+If you are thinking about
+where is your expectation?
+
+You think about the
+Murray/Rowling case where we say,
+
+you're in a public place,
+
+so you don't have an
+expectation of privacy.
+
+Does seem like this
+public place is maybe
+
+expanding in a way with
+the devices that we use.
+
+How much expectation of
+privacy do you have now?
+
+That's just something
+to think about.
+
+This is your quick summary here.
+
+There's a strong
+reluctance to create
+
+any explicit remedy for
+invasion of privacy.
+
+You want to know about Kaye
+
+relying on the existing
+boxes of liability.
+
+You still have Coco
+with breach of
+
+confidence and
+that obligation to
+
+know obligation for a
+reasonable of privacy here.
+
+But you probably are going to be
+
+relying more on Campbell.
+
+It's really interesting in
+Campbell because when we
+
+talk about misuse of
+information here,
+
+with Lady Hale, is this correct?
+
+Even if we wanted to,
+
+we can't develop a general
+invasion of privacy for tort.
+
+There's a lot of discussion
+as to whether that is true.
+
+I think it probably is more
+accurate that we won't?
+
+But it is acknowledging
+
+the express decline from the
+parliament to create that.
+
+But misuse of private
+information covers quite
+
+a lot more of that
+and creates something
+
+that's a bit of a
+balancing test.
+
+Here's your little cheap
+sheet for your privacy.
+
+No overarching
+invasion of privacy.
+
+That'll be us for the day.
+
+Have a lovely weekend.
+
+I will see you
+Monday. Thank you.
+

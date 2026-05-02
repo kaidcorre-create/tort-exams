@@ -1,0 +1,2424 @@
+MALE_1: Hi. This is
+
+the second catch up lecture
+which is a replacement
+
+for these two lectures
+and it's a big shift.
+
+Today, we are finally
+moving on from negligence.
+
+Before I get on to
+intentional torts which is
+
+the new set of torts
+we're going to study,
+
+I just want to say something
+
+about the structure of
+the course as a whole.
+
+Everything we've done up
+until now is just negligence.
+
+Nothing else. We haven't
+touched a single other tort.
+
+What I should say and
+this is very important,
+
+is that if you want to do
+negligence and I recommend
+
+that all of you do do some
+negligence for the exam,
+
+you should not just
+
+do the stuff we've
+covered up until now.
+
+There is three really
+key other pieces
+
+of the puzzle which are coming
+at the end of next term.
+
+Those three key pieces of
+the puzzle are: remedies,
+
+defences, and
+vicarious liability.
+
+You cannot answer a negligence
+question without knowing
+
+something about remedies and
+
+without knowing something
+about defences.
+
+I should also add
+that many of them may
+
+involve some small element
+of vicarious liability;
+
+i.e., that is
+employer's liability.
+
+I just say this
+
+to remind you that when
+you come to your revision,
+
+don't just think about
+
+negligence as in the first
+eight weeks of term,
+
+think about negligence and
+
+remedies and defences and
+possibly vicarious liability.
+
+Negligence is one big tort.
+
+It's the beating
+heart of tort law.
+
+It has many different elements.
+
+We're not just
+dealing with acts,
+
+we're sometimes dealing
+with omissions.
+
+That's what we looked at.
+
+In the last few lectures,
+
+we're not just dealing
+with acts which
+
+foreseeably cause physical
+injury and property damage,
+
+we're also dealing trickly
+
+with psychiatric injury
+and pure economic loss.
+
+Those were lectures in the
+last few weeks as well.
+
+Then we've got all sorts of
+
+tricky issues to do
+with duty in general,
+
+breach in general, and
+causation in general.
+
+I'll just take this moment to
+remind you as well that in
+
+the exam we're only
+covering stuff that's
+
+in the workshops and there
+is no workshop on omissions,
+
+and there is no workshop
+on pure economic loss.
+
+It's not to say that those
+things can't come up at all,
+
+but that they will
+not be the focus of
+
+problem questions or essay
+questions for that matter.
+
+That is negligence.
+
+Moving on from negligence,
+
+we now get to a series of
+
+very discrete bits of
+
+tort law which are much
+smaller than negligence.
+
+The biggest of these is what
+we're going to do today,
+
+next lecture, and the
+lecture after that
+
+which is intentional torts.
+
+These are the first
+different thing
+
+you're going to learn
+about from negligence.
+
+You're going to learn
+about a bunch of
+
+other miscellaneous torts too
+
+including the other really
+big one which is nuisance,
+
+but then privacy and defamation
+
+too are a huge area of
+law in their own right.
+
+Intentional torts
+are the oldest and
+
+probably most important bit
+
+of tort law apart
+from negligence.
+
+They're older than
+negligence in fact.
+
+Let's see how they
+compare to negligence.
+
+This is just a quick outline.
+
+We'll be doing
+these three today.
+
+I'll be introducing you to these
+
+intentional torts in general.
+
+Battery and assault
+in particular,
+
+I will cover in some detail.
+
+Then in the next two lectures,
+
+we're going to go over false
+imprisonment, defences,
+
+this tort in Wilkinson and
+
+Downton intentionally causing
+psychiatric distress,
+
+and this protection
+from harassment act.
+
+We'll be accompanied
+for the lectures on
+
+intentional torts by the
+very beautiful paintings
+
+of L. S. Lowry,
+
+one of the greatest Northern
+artists to have lived.
+
+His paintings are incredibly
+
+valuable and fairly recent
+and very interesting.
+
+You will have come across
+intentional torts somewhat
+
+already in the sense
+that you will have come
+
+across the basic ideas
+in criminal law.
+
+Do not get confused
+with criminal law.
+
+The test for battery
+and assault in
+
+criminal law are a bit different
+
+from the tests for battery
+and assault in tort law.
+
+Don't think you already know
+what this is all about.
+
+You know the basic idea
+from criminal law,
+
+but you do not know the detail.
+
+Very broadly, what's involved in
+
+these torts; these
+intentional interferences?
+
+Well, we've got
+these five: battery,
+
+which is unlawful touching.
+
+Obviously that's any
+kind of touching at all.
+
+It doesn't have to be damaging.
+
+There's no damage needed.
+
+Assault, that's not
+
+about the touching
+but about the fear.
+
+You should already know
+that from criminal law.
+
+False imprisonment; unlawful
+restriction of liberty.
+
+Tort in Wilkinson and Downton is
+
+intentionally inflicting
+psychological distress.
+
+It's quite a complicated
+and interesting tort which
+
+complements liability
+
+for psychiatric injury
+and negligence.
+
+We'll get into its
+details more next
+
+time or in fact in the last
+lecture on intentional torts.
+
+Harassment, which is
+
+a very nebulous and tricky tort
+
+which is also another
+crime as well.
+
+The broad differences between
+
+negligence and
+intentional torts are
+
+illustrated by this historic
+case of Letang and Cooper.
+
+In Letang, the claimant was run
+
+over in a car park
+while sunbathing;
+
+he's a bit of an idiot, sun
+bathing in the car park.
+
+The claimant would have
+sued in negligence,
+
+but the limitation
+period had expired.
+
+He tried to sue in battery
+
+instead and that's got a
+longer limitation period.
+
+It's a very different
+kind of tort.
+
+Law Justice Denning famously,
+
+he said that if one man
+
+intentionally applies
+force directly to another,
+
+he's got a cause of
+action in battery
+
+or so if you please
+to describe it,
+
+trespass to the person.
+
+If he doesn't not inflict injury
+
+intentionally but
+only unintentionally,
+
+the plaintiff has no cause
+of action in trespass,
+
+his only cause of action
+is in negligence.
+
+The key difference
+between negligence
+
+and intentional torts
+is of course intent.
+
+You need intent for
+intentional torts.
+
+You cannot sue intentional tort
+
+just for unlawful touching.
+
+It needs to be intentional
+unlawful touching.
+
+You cannot sue intentional torts
+
+for causing someone to
+be in fear negligently.
+
+It has to be intentionally.
+
+That's the second distinction
+on the side right now.
+
+Intentional torts
+require intention.
+
+As we'll see, generally,
+
+this means that
+the defendant must
+
+do the conduct voluntarily.
+
+In negligence, most of
+
+the time it's mistakes
+which are involuntary.
+
+People don't purposefully crash
+
+their cars into others in
+road traffic accidents,
+
+they do it by mistake
+because they lost attention.
+
+Doctors don't normally screw up
+
+your treatment on purpose
+because they want to hurt you,
+
+they screw up your treatment
+
+because they weren't
+paying attention properly,
+
+because they made a mistake
+
+which they didn't mean to make.
+
+That's not the case
+for intentional torts.
+
+However as we'll see,
+
+intentional torts
+don't generally
+
+involve the intention to
+cause harm to the claimant.
+
+There's no requirement
+for malice.
+
+There's no requirement for
+
+harming or
+intentionally harming.
+
+The point is that the
+defendant must intend
+
+the conduct rather than the
+conduct being mistaken.
+
+You'll see that fleshes out is
+
+substantiated in different ways
+
+in the different
+intentional torts.
+
+The intention requirement
+for each is quite different.
+
+That takes me back to
+
+the first key difference
+
+between intentional
+torts and negligence.
+
+Our first key difference
+is that intentional torts
+
+don't require any damage.
+
+Damage is the gist
+
+of negligence it was
+once famously said.
+
+What that means is that
+you just don't have
+
+a negligence case without
+actionable damage at all.
+
+You can't even begin
+to have a duty of
+
+care unless there
+is some damage.
+
+There is no negligence
+without damage.
+
+Damage is not required
+for intentional torts.
+
+Intentional torts are
+actionable in and of themselves
+
+per se even without
+any proof of damage.
+
+You can sue someone for
+unlawfully touching you,
+
+battery whether or not
+
+that actually harmed
+you in any way.
+
+This reflects I
+think the idea that
+
+bodily integrity is the
+most important value
+
+in the law of tort.
+
+We value our bodily
+integrity or tort of
+
+values body integrity
+above everything else.
+
+The person's body is inviolate.
+
+That means that you can sue
+
+for intentional torts
+without any damage.
+
+You can sue for someone
+touching you without causing
+
+any damage because we believe
+that you have the right;
+
+a fundamental and
+absolute right almost not
+
+to be touched unjustifiably
+if you don't want to be.
+
+It doesn't matter whether
+
+or not that touching
+damages you,
+
+you've got a right not to be
+
+touched and that is inviolable.
+
+This reflects the
+fundamental nature
+
+of the interest protected.
+
+Remind yourself
+that the hierarchy
+
+of interest here is reflected
+not just in the fact
+
+that bodily integrity
+is protected by
+
+intentional torts in a way
+that other things aren't,
+
+but also by the fact that it's
+
+much easier to sue
+in negligence for
+
+damage to a physical
+person than it
+
+is for damage to your
+mind or your money.
+
+Tort law in general prioritises
+
+the body and the
+inviolability of the body.
+
+That takes us to our first
+intentional tort, battery.
+
+Nice painting by L. S.
+Lowry here to accompany us.
+
+What is battery?
+
+Well, it's an intentional
+unlawful touching.
+
+So more Lowry, A Fight there.
+
+That's definitely intentional
+unlawful touching here.
+
+Now, there are essentially
+four elements to this.
+
+You can break it down
+into four elements
+
+and distinguish each of them: A,
+
+touching, B, intention, C,
+
+this concept of directness
+and directness is
+
+a requirement in
+intentional torts in
+
+general and D, no lawful excuse.
+
+Let's see what's involved
+in each of these.
+
+What counts as touching?
+
+Well, it's anything.
+
+It's any kind of touching.
+
+The law doesn't draw a line
+
+between different
+degrees of violence or
+
+touching and it therefore
+
+prohibits the first and
+lowest stage of it.
+
+The least touching of
+another is a battery
+
+as Chief Justice Holt said
+in 1704 in Cole and Turner.
+
+Nothing has changed in
+the last 320 odd years.
+
+The least touching of
+another is still a battery.
+
+That again reflects
+the fact that
+
+the right to bodily integrity
+is the first and most
+
+important of the interests
+
+protected by the law of tort as
+
+Lady Justice Hale as
+she then was later
+
+Baroness Hale said in Parkinson
+and St. James NHS Trust.
+
+It's any touching.
+Now, second point
+
+is that the touching
+must be intentional.
+
+What's key here is that
+
+it's the touching that
+must be intentional,
+
+not any kind of injury.
+
+It's no defence to battery
+to say, "Oh, yeah.
+
+Sure I meant to touch them,
+
+but I didn't mean to
+do them any harm.
+
+I meant to touch them in
+a way which is helping
+
+them or being nice to them."
+That is not a defence.
+
+The point is that
+
+as long as you intend
+to do the touching,
+
+then it's a battery.
+
+Various other kinds of
+close intention can
+
+suffice to make up the
+necessary intention
+
+even if they are not
+strictly intention to touch.
+
+One thing which will
+suffice is recklessness
+
+as to whether or not
+you touched them.
+
+Just before we go
+on to recklessness,
+
+notice that negligence will
+
+not suffice as the
+relevant intention.
+
+For example, if I'm walking
+
+on the street and
+my shoelaces are
+
+untied and I trip over
+
+my untied shoelaces and I
+
+trip into someone else
+knocking them over,
+
+can they sue me in battery?
+
+No, because although it
+may have been negligent
+
+to fail to tie my shoes
+
+properly and fall
+over and hurt them,
+
+they might be able to sue
+me in negligence for that.
+
+They can't sue me in battery
+
+because the relevant intention
+there was negligence.
+
+I did not intend to touch them.
+
+Recklessness however,
+
+actual outright
+recklessness will
+
+suffice for the
+relevant intention.
+
+This is the case in
+Breslin and McKevitt.
+
+Here the defendant planted a
+bomb exploded hours later.
+
+The defendant did not intend to
+
+harm the claimants specifically.
+
+They did intend that someone
+might be hurt by this bomb;
+
+they did intend that
+someone was going to be
+
+affected physically touched
+essentially by this bomb,
+
+but they didn't intend to
+
+harm the claimants specifically.
+
+However, the lack of
+
+that specific intention
+was not relevant.
+
+They were still liable
+in battery because
+
+they intended for the bomb to
+
+explode and touch someone or
+affect someone physically.
+
+The second point is
+
+that transferred
+intent will suffice.
+
+Livingstone and Ministry
+of Defence is one of
+
+the classic cases here,
+the defendant, soldier,
+
+fired into a crowd of
+rioters aiming at X,
+
+the third party, the bullet
+
+hit another rioter,
+the claimant.
+
+The defendant was still
+liable in battery.
+
+Again, the point is this
+doctrine of transferred intent,
+
+the defendant meant
+to hit one person, X.
+
+It ended up hitting
+another person,
+
+but that didn't matter
+because they did have
+
+the intention to hit someone.
+
+It doesn't really matter.
+
+It's basically who
+they intended to hit.
+
+It's basically the same
+point as the first one,
+
+the idea that recklessness will
+
+suffice, transferred
+intent recklessness.
+
+They are very similar idea.
+
+Finally, we have this idea from
+
+Fagan and Metropolitan
+Police Commissioner
+
+that emissions can suffice.
+
+What do I mean by that?
+
+Well, I don't really
+mean the same idea
+
+as emissions in negligence.
+
+What I mean is that as
+the case illustrates,
+
+if you get going on a course of
+
+action and then fail to
+remedy that course of action,
+
+that counts as the
+relevant claim of intent.
+
+Here, this is easier to
+see through the specifics.
+
+Here the defendant
+accidentally drove onto
+
+the claimant's foot and
+that was an accident.
+
+That was not intentional,
+it was negligent.
+
+The only way you could sue
+there is not in battery,
+
+but in negligence because
+it was an accident.
+
+Then the claimant
+refused to move
+
+the car intentionally
+and at that point,
+
+it moved from being
+
+negligent to being
+unintentional battery.
+
+Now, this is a criminal case,
+
+but the same rules
+apply in civil
+
+and that's not always
+going to be true.
+
+Not all criminal cases are
+authoritative in tort law,
+
+but sometimes they are fake and
+
+Metropolitan Police
+Commissioner is
+
+a good example of
+a case which is.
+
+Then we have this further
+requirement of directness.
+
+Now, this is a more nebulous
+and tricky requirement.
+
+It was said by Justice Blackstone
+in Scott and Shepherd.
+
+He put the idea of
+directness this way.
+
+He said, if I throw
+a log of timber
+
+onto the highway and
+another man tumbles
+
+over it and an
+action on the case
+
+only lies it being a
+consequential damage.
+
+An action on the case is
+
+the historical name
+for negligence.
+
+Point is, that if you
+throw a log of timber
+
+into the highway and another
+
+man tumbles over it and hurt,
+
+that would be negligence,
+not intentional torts.
+
+But if in throwing
+it, you hit someone,
+
+they may bring trespass to
+
+the person, a intentional torts.
+
+This is a distinction I should
+have mentioned earlier,
+
+trespass on the case,
+
+trespass to the person.
+
+That's an old way of putting
+
+the difference between negligence
+and intentional torts.
+
+Trespass to the person
+being intentional torts.
+
+They're often called trespass to
+
+the person in the case
+law and the books.
+
+They're a very old name
+
+for essentially what
+is now negligence,
+
+which is trespass on the case.
+
+You don't really need to
+know that, it's history.
+
+Blackstone J distinguish
+directness in that way,
+
+but some of the textbooks
+and some of the modern law
+
+maybe doubt whether that's
+a very useful distinction.
+
+I for one, think
+it's quite tricky.
+
+I'm not sure that is
+really the right way
+
+of fleshing out
+directness in modernity,
+
+but it's still a way
+which is sometimes used.
+
+Some rules to help you with
+this idea of directness.
+
+The first is a gap in
+
+time does not make
+something indirect.
+
+In DPP and K,
+
+the defendant put acid in
+a hair dryer and later,
+
+the claimant came along
+and used the hair dryer,
+
+it was held that
+the defendant was
+
+still liable in battery
+to the claimant.
+
+The fact that there was this
+gap in time didn't matter.
+
+Second rule, nor
+does the involvement
+
+of others necessarily
+make something indirect.
+
+In Scotland Shepherd itself,
+
+this was the case where
+a firework was thrown by
+
+the defendant and then
+
+the third party threw it
+on to protect themselves,
+
+and it ended up
+hitting the claimant
+
+and the defendant
+was still liable.
+
+There is still this
+rule of directness,
+
+but its exact operation is
+
+really quite tricky and
+really quite nebulous.
+
+Finally, not only
+must the battery
+
+be intentional and
+direct and touching,
+
+it must also be done
+with no lawful excuse.
+
+Now, there's been some debate
+in the courts about what
+
+this means and
+
+the authoritative modern
+statement of it, I think,
+
+begins with Lord
+Justice Goff's view
+
+in Collins and Wilcock,
+
+a court of appeal case.
+
+There, Lord Justice
+Goff said this.
+
+"Most of the physical contacts
+
+of ordinary life are
+not actionable because
+
+they're impliedly
+consented to by
+
+all those who move in society.
+
+No one complain of the
+jostling, which is inevitable,
+
+for example, in a supermarket or
+
+an underground station
+or a busy street."
+
+That's why I have this
+picture of a Japanese train.
+
+Now, all of these people are
+being shoved onto the train,
+
+crammed in like sardines.
+
+All of these further
+people may be
+
+about to be shoved
+on potentially.
+
+Now, are they
+battering one another?
+
+Is this a battery that
+they're committing?
+
+They're touching one another
+
+and is there a lawful excuse?
+
+Well, the answer is no.
+
+Obviously, there
+is a lawful excuse
+
+because they can't
+complain about
+
+it because there's
+a general exception
+
+embracing all physical contact,
+
+which is generally acceptable
+
+in the ordinary
+conduct of daily life.
+
+It's accepted that
+we're going to have
+
+potentially unwanted
+physical contact
+
+with people in
+places like trains.
+
+Although going a step
+further than that,
+
+when I was in Japan,
+
+you notice that there are
+
+female only cars on
+some trains in Japan.
+
+Why is that? It's because
+
+sexual assault is a serious
+problem on trains in
+
+Japan because this close
+proximity and the touching,
+
+which is generally acceptable
+
+ordinary conduct in day life
+
+gives opportunity for unlawful,
+
+unacceptable conduct,
+physical touching,
+
+which is completely
+unconsented to,
+
+which is not impliedly
+consented to.
+
+Sometimes the lines
+could get quite blurry
+
+here and especially in
+
+this context in the
+one I'm giving here,
+
+the Japanese context, it
+can cause some issues.
+
+But what is clear is that where
+
+it's just normal accidental,
+
+where people are
+cramming like sardines,
+
+that's generally acceptable in
+
+the ordinary conduct
+of day life.
+
+We all accept that is just
+an unavoidable part of life.
+
+Sometimes you're going to
+have unwanted contact with
+
+others. That's the law.
+
+However, there have been
+some cases where this was
+
+doubted and a more
+demanding test was set out.
+
+This is the case
+in the slightly,
+
+you'll notice the Collins
+and Wilcock is a 1984 case.
+
+Then we get two years later,
+
+this case of Wilson and Pringle.
+
+Wilson and Pringle was a
+case about horseplay and
+
+you've got two schoolboys and
+
+they were rough housing with one
+
+another and the
+claimant got hurt.
+
+The question was,
+was this battery?
+
+It was held that battery
+
+required the application
+of force to be
+
+hostile and this
+was not hostile.
+
+Hostility might be shown by
+
+the evidence of ill
+will or malevolence,
+
+but cannot be equated with such.
+
+The idea here was
+
+that you see this test
+
+in Collins and Wilcock
+is a lower bar,
+
+general exception embracing
+all physical conduct which
+
+is generally acceptable in
+
+the ordinary conduct
+of daily life.
+
+That would include all things
+
+which hostility
+would not include.
+
+If you have to be
+hostile in order to
+
+be held liable for a battery,
+
+that means that people
+are going to be
+
+held liable for
+batteries less often.
+
+But this essentially
+contradicted
+
+Lord Justice Goff in
+Collins and Wilcock.
+
+Then Lord Justice Goff came
+back a few years later.
+
+You see this is 1986,
+
+and then four years later,
+
+we get Lord Goff now he's been
+
+elevated to the Supreme Court
+
+or the House of Lords
+as it then was.
+
+In this Re F Mental
+Patient Sterilisation,
+
+he says, I got it right back
+in Collins and Wilcock.
+
+I was correct, the
+Court of Appeal
+
+and Wilson and Pringle,
+they got it wrong.
+
+Hostility is not a requirement.
+
+He said, "It's recently
+
+been said that touching
+must be hostile.
+
+I doubt whether that's correct.
+
+A prank that gets out of a hand,
+
+an over-friendly
+slap on the back,
+
+surgical treatment
+by a surgeon who
+
+mistakenly thinks that the
+patient has consented to it.
+
+All these things may
+transcend the bounds of
+
+lawfulness without being
+characterised as hostile."
+
+Those are all
+unlawful batteries.
+
+Potentially, none of
+them are hostile,
+
+but they are all beyond
+physical contact,
+
+which is generally acceptable
+
+in the ordinary
+conduct of daily life.
+
+That is the test. That takes
+us to the end of battery.
+
+Now we come to the slightly
+trickier tort of assault.
+
+An assault happens
+where the defendant
+
+intentionally creates a
+reasonable apprehension
+
+in the claimant of the
+claimant suffering
+
+an imminent battery
+without lawful excuse.
+
+There's more to deal with
+and more to remember.
+
+Assault is actually really
+quite tricky in some ways.
+
+It's got very similar
+elements to battery.
+
+Certain things work in
+the same way as battery.
+
+Essentially directness
+and lawful excuse work
+
+in the same way as battery,
+
+but intention works
+quite differently.
+
+Let's see how that works out.
+
+What is it to have a
+reasonable apprehension
+
+in the claimant of
+
+the claimant suffering
+imminent battery?
+
+What is involved in that
+reasonable apprehension
+
+of this imminent battery?
+
+Stephens and Myers is one of
+
+those classic ancient
+cases at 1830,
+
+which tells us what is a
+reasonable apprehension.
+
+Here, the claimant
+and the defendant,
+
+they're at a meeting
+discussing some matters and
+
+the defendant advanced towards
+
+the claimant
+threatening violence.
+
+The defendant was stopped
+
+by other members of the meeting,
+
+he never got that
+close to the claimant.
+
+However, in this case,
+
+the defendant is
+still held liable for
+
+assault because even
+though he was stopped,
+
+at the point before he was
+
+stopped by other
+members of the meeting,
+
+the claimant
+reasonably anticipated
+
+that there was an imminent
+battery coming for him.
+
+That he was going to be hit,
+
+he was going to be
+unlawfully touched.
+
+It doesn't matter if you get
+
+stopped and it doesn't matter
+
+if the battery doesn't go ahead.
+
+The point is, if you apprehend,
+
+if you come to think that a
+battery might occur to you,
+
+then that's enough for assault.
+
+The other side of this
+coin is the case of
+
+Thomas and National
+Union of Mineworkers.
+
+This is a case during
+
+the miners strikes,
+Margaret Thatcher, etc.
+
+You'll roughly know
+what that was about.
+
+There were some miners
+being busted into
+
+a plant to break a strike.
+
+They were being transported
+on a reinforced bus.
+
+They were going
+through crowds of
+
+angry miners who were on
+
+strike and they were
+making threats.
+
+They were saying, we're
+going to hurt you
+
+because obviously the miners in
+
+the crowd were angry
+
+these strike
+breakers were coming
+
+in and ruining their strike.
+
+Because obviously strikes
+don't work if there's
+
+still some of the workers
+who are willing to work.
+
+They're much less effective
+because then the capitalist,
+
+the owner, their business
+can continue to thrive.
+
+They're not held
+ransom by the strike.
+
+These miners are angry about
+
+that and they're making threats.
+
+Now, it was held in this case
+that because they were on
+
+a reinforced bus and there were
+
+no actual means of
+getting to the claimants,
+
+the claimants were never
+really at risk at all.
+
+It was not reasonable for
+
+the claimants to
+apprehend violence.
+
+That was just not on the cards,
+
+it was not a real option.
+
+If it's not realistic,
+
+then apprehension of
+
+an imminent battery
+is not reasonable.
+
+It was unreasonable.
+
+They may have apprehended
+an imminent battery,
+
+but it was not a reasonable
+
+apprehension, that's the point.
+
+A really nice illustration of
+
+this is Mbasogo
+and Logo Limited.
+
+Fascinating case,
+
+Court of Appeal 2006,
+Equatorial Guinea.
+
+It's basically about
+a really shitty,
+
+crappy group of mercenaries.
+
+You just do a really
+failed coup, essentially.
+
+The claimant was
+the president of
+
+Equatorial Guinea and he
+alleged that this group of
+
+defendants that they
+assaulted him by trying
+
+and failing terribly
+to carry out a coup.
+
+Now, you've got to see how
+bad this coup actually was,
+
+how much of a failure it was.
+
+The defendants
+were this group of
+
+quite incompetent
+mercenaries and
+
+they didn't get very
+far in their coup.
+
+All they managed to do was land
+
+an advance group of
+
+20 mercenaries in Malabo
+
+which is the capital
+of Equatorial Guinea.
+
+That advanced group
+of 20 mercenaries,
+
+well, what did they do?
+
+They gained some
+intelligence and
+
+they prepared to
+participate in the attack.
+
+But they didn't really
+do anything serious.
+
+No attack was mounted,
+
+no serious effort was made.
+
+Before they had time
+to really do much,
+
+get weapons together and
+seriously plan the attack,
+
+the attack was thwarted
+and they were arrested.
+
+There's no suggestion that
+they were even armed,
+
+that they ever had the capacity
+to carry out the attack,
+
+and so they just didn't
+
+actually have the means
+to carry out the attack,
+
+and so it was not reasonable for
+
+the claimant to fear
+an imminent battery.
+
+There's no suggestion
+that the advanced group
+
+had the means to carry
+out the alleged threats.
+
+This is just like Thomason
+National Union of mineworkers,
+
+but a rather modern
+and vivid illustration
+
+of it with some quite
+interesting facts.
+
+There was a further problem.
+
+It wasn't just that
+they didn't have
+
+the means to carry
+out the attack.
+
+The further problem was that
+there was no overt act.
+
+This adds an extra Mbasogo and
+
+Logo adds this extra
+requirement for assault.
+
+You don't just have to have
+
+the means to carry
+out the attack.
+
+It requires some overt act
+
+causing another to apprehend
+
+the infliction of
+immediate violence.
+
+You can't be found
+liable for assault by
+
+just being somewhere and
+
+being in a particular place
+at a particular time.
+
+You have to do an overt act.
+
+All that is all that
+was alleged in Mbasogo,
+
+is that there was an
+advanced group on Bioko,
+
+this island where
+Malabo situated,
+
+a large number of
+mercenaries in Zimbabwe
+
+preparing to load arms
+enroute to Malabo,
+
+but neither of these constitute
+
+an advert causing apprehension
+of immediate violence.
+
+Basically, these
+mercenaries were just in
+
+a particular place in
+a particular zone.
+
+Now, at some future point,
+
+once the arms arrived,
+
+then there would clearly have
+been enough for assault.
+
+But their mere presence on
+
+the island was not
+enough for assault.
+
+That is not a reasonable
+
+apprehension of
+enemy and battery.
+
+Another interesting case about
+
+this is the criminal case
+of Crown and Ireland.
+
+You've probably
+remember this from
+
+criminal law last
+year, but basically,
+
+this was where a defendant was
+
+criminally prosecuted for making
+
+a bunch of silent phone calls to
+
+a number of young women who then
+
+suffered psychiatric
+distress as a result.
+
+It was held that mere
+words or indeed silence,
+
+crucially, silence could
+amount to an assault.
+
+Whether or not the
+words or silence amount
+
+to reasonable apprehension
+of claimants suffering
+
+imminent battery depends on
+the precise circumstances.
+
+Clearly, if you receive a
+single silent phone call,
+
+that is not going to be
+enough to reasonably
+
+apprehend an imminent battery.
+
+That's not reasonable.
+But if you start
+
+receiving quite a number
+of silent phone calls,
+
+especially if they're
+late at night,
+
+especially repeated over a
+course of conduct over time,
+
+that clearly is going
+to start getting really
+
+quite frightening and you're
+going to start worrying,
+
+why am I receiving
+these phone calls?
+
+Why is someone someone going to
+
+come around, someone
+going to hurt me?
+
+It's perfectly
+reasonable circumstances
+
+in which to worry.
+
+It's very circumstance dependent
+
+and it's a reasonable test,
+
+much like the reasonable person
+
+when it comes to
+breach in negligence.
+
+It's a broad
+reasonableness test.
+
+Lord Hope has a rather
+interesting quote
+
+in the Crown and
+Ireland where he says,
+
+whereas for him merely to
+remain silent with them in
+
+the same room where
+
+they could see him and
+assess his demeanour,
+
+would have been
+unlikely to give rise
+
+to feelings of apprehension
+on their part.
+
+I silence on using the telephone
+made to them repeatedly,
+
+telephone calls made to them
+
+repeatedly was an act of an
+entirely different character.
+
+The silence was a means of
+
+conveying a message
+to the victims.
+
+This was that he knew they
+
+were and where they
+were and his purpose
+
+in making contact with them was
+
+as malicious as it
+was deliberate.
+
+Now, a very tricky
+specific issue,
+
+which I recommend properly
+understanding when it comes
+
+to assault is this idea
+of conditional threats.
+
+When is a conditional
+that an assault?
+
+Basically the general rule is
+
+that conditional
+threats are not assault
+
+if the conditions relate to
+the defendant's own conduct,
+
+but they are assault
+if they relate
+
+to another conduct,
+including the claimant.
+
+The best way to understand this
+
+is the distinction
+between the cases of
+
+Tuberville and Savage and
+the case of Read and Coker.
+
+Again, very ancient
+cases 1669 and 1853.
+
+Tuberville and
+Savage is classic.
+
+The defendant put his hand on
+
+his sword and said
+to the claimant,
+
+if it were not assize time,
+
+I would not take such
+language from you.
+
+Now, assize time was basically
+
+the period of the year
+when judges came around.
+
+The idea here was that
+
+back in 1669, the defendant
+was saying, well,
+
+if there weren't judges in town,
+
+I'd slash you down
+with my sword,
+
+but I won't because there
+are judges in town.
+
+That was not assault
+in the same way,
+
+I'm recording this on a Thursday
+
+if I say to you on this video,
+
+if it weren't a Thursday,
+
+I'd come round hunt you
+all down and kill you.
+
+That wouldn't be
+an assault because
+
+I've just told you that
+I am recording this on
+
+Thursday and so you can rest
+
+easy on the fact that I'm not
+
+going to hunt you
+down and kill you.
+
+That's very different from
+the case of Read and Coker.
+
+In Read and Coker,
+
+it's the defendant telling
+the claimant that he would
+
+break their back if the
+claimant didn't leave.
+
+Now, the claimant did leave.
+
+Despite the threat
+being conditional,
+
+this was an assault.
+Now, that's obvious.
+
+If you say to someone,
+
+give me your wallet or
+I'll break your legs,
+
+you can't say, I didn't
+assault them because
+
+they gave me the wallet and
+
+they knew they were going
+to give me the wallet.
+
+They never apprehended
+any danger,
+
+any battery because it
+
+was always on the cards
+
+that they were going
+to give me the wallet.
+
+This distinction, I think,
+
+can be understood between
+
+the defendant as
+being a distinction
+
+between whether or not
+
+the condition relates to the
+defendant's own conduct,
+
+is it a seize time?
+
+Is that a Thursday,
+in which case,
+
+it's the defendant's
+own conduct,
+
+and the condition therefore,
+
+makes it clear that assault
+
+is actually not going to happen.
+
+There is not sorry,
+
+a battery is not
+going to happen.
+
+There is going to be no battery
+
+versus Read and Coker
+and cases like it,
+
+where there well
+could be a battery,
+
+but it just so happens
+that either the claimant
+
+gives the defendant
+what they want
+
+or some third party
+does something,
+
+and therefore it doesn't
+end up being a battery.
+
+But it's still reasonable to
+fear a battery in this case.
+
+That's what counts as
+reasonable apprehension.
+
+Now we move on from
+
+reasonable apprehension
+to the idea of intention.
+
+What needs to be intentional?
+
+Again, just like with battery,
+
+it's the act and
+
+not the injury which
+must be intentional.
+
+You don't have to intend to
+
+make someone actively
+terrified to scare them.
+
+But you have to intend that
+
+they will think that they
+
+are going to suffer a
+battery of some sort.
+
+But the differences
+in intention,
+
+there are differences
+intention and
+
+one difference is
+that recklessness
+
+normally will not suffice
+
+and nor will transferred intent.
+
+We have this very complicated,
+
+really tricky case, I think,
+
+which sets out called Bici
+and the Ministry of Defence.
+
+This is a case about
+
+the Iraq war and the claimant
+had been travelling in
+
+a car when the defendants
+who were soldiers shot and
+
+killed two of the
+cars other occupants.
+
+Now, the defendants weren't
+aiming at the claimant.
+
+They were aiming at the
+other people in the car.
+
+Nothing happened to the
+claimants themselves.
+
+They were never at the target.
+
+They were never at risk.
+
+It was held quite surprisingly
+in some ways, I think,
+
+the defendants
+were not liable to
+
+the claimant because they
+weren't aiming at the claim.
+
+Now, if someone gets shot in
+
+the car next to you and you have
+
+no bloody idea what's going on,
+
+you're sitting in a
+car and let's driving
+
+and your passenger gets a
+bullet through their head.
+
+Are you going to be very scared,
+
+is that going to be reasonable?
+
+The answer is yes, obviously,
+
+you're going to be very scared
+
+and obviously it's
+very reasonable.
+
+But the point is here
+that the defendants
+
+never intended to do anything
+to the claimants at all.
+
+The claimants simply were not
+
+the subject of their intentions.
+
+The subject of their
+intentions were
+
+purely the person who
+
+was killed, the
+person who was shot.
+
+I think it's amazing
+that the court did
+
+hold that the claim for
+assault could not succeed.
+
+There's no basis, the
+court said for finding
+
+that the soldiers intended
+
+personally to put the claimant
+
+in fear of imminent violence.
+
+Indeed, there's no
+evidence they intended to
+
+put anyone at all in fear.
+
+The fact that it
+
+may have been the consequence
+of their actions,
+
+even foreseeable
+consequence is not
+
+enough to fix them with
+liability and trespass.
+
+The court here says that
+it would not be enough
+
+to show their conduct
+had been reckless,
+
+rather, now this
+sets out the test.
+
+The soldiers must have
+
+subjectively appreciated
+that by their conduct,
+
+the claimants would have
+been put in fear of
+
+the immediate application of
+
+a battery and they
+must have been
+
+indifferent to as to
+this possibility.
+
+There's no evidence that it
+crossed their minds at all.
+
+I think that's the key
+point here for intention.
+
+Something, someone being in fear
+
+of a battery has
+to cross the mind
+
+of the defendant or
+at least have to
+
+be reckless or very
+reckless in relation to it.
+
+Now, I know that Bici says it
+
+would not be enough
+to show their conduct
+
+had been reckless,
+
+but we've got to be quite
+careful with that, I think.
+
+What does that really mean?
+
+Just look at it on the
+facts. The point is this.
+
+The soldiers weren't even
+
+thinking about putting
+anyone in fear.
+
+What the soldiers are
+doing is doing their job.
+
+They were thinking, we need to
+
+eliminate the target in the car.
+
+There's someone else in the car.
+
+That's as far as it got.
+
+They never thought about
+putting anyone in fear.
+
+They never thought about
+doing anything to anyone
+
+apart from hurting a
+very specific person.
+
+This can, I think,
+
+be distinguished from
+those cases like the
+
+one about the bomb
+
+planted and recklessness in
+relation to intention there,
+
+where the point
+was the defendants
+
+didn't care who got
+touched by the bomb.
+
+That recklessness, I
+think would suffice.
+
+But the point in Bici
+is that there was
+
+no intention to make anyone
+fearful of anything.
+
+It was just an intention
+to eliminate the target.
+
+Now, further interesting point
+
+in Bici is that the court
+held that they thought
+
+the doctrine of
+transferred malice
+
+would probably not apply to
+
+assault in the same
+way as it applies to
+
+battery although
+that's a tricky issue.
+
+They say that the extension
+
+of the principle would
+considerably widen the scope of
+
+what's essentially
+a tort of intention
+
+and nudge it close
+to the tort of
+
+negligence without any obvious
+purpose or justification.
+
+You can think for yourself
+
+about whether you
+believe that to be true.
+
+Thank you very much.
+

@@ -1,0 +1,2342 @@
+Allan Beever: Last week,
+we did duty of care.
+
+That's the first stage in
+the negligence inquiry.
+
+Now we're doing breach of duty.
+
+Just a reminder, these
+things proceed sequentially.
+
+You got to start
+
+by determining whether or not
+there's actionable damage.
+
+Only if there's
+actionable damage
+
+does any of the rest of
+negligence get going.
+
+There is no negligence
+without damage.
+
+Negligence is the
+gist of damage.
+
+If there's damage, then you
+
+look into whether
+or not there is
+
+a duty of care owed by the
+defendant to the claimant.
+
+If there is a duty of care,
+
+then you need to
+inquire into whether
+
+the defendant has
+breached their duty.
+
+One major confusion which it's
+
+worth mentioning now is that
+
+a lot of people take
+
+breach as if it's the
+whole of negligence.
+
+By that I mean,
+
+they see in a problem question
+
+that someone has done
+something obviously negligent.
+
+They've fallen below
+
+the standard of the
+reasonable person,
+
+which as you'll
+discover in a moment,
+
+that's what constitutes
+a breach of duty.
+
+Someone has obviously been
+
+negligent in the ordinary
+sense of the word.
+
+Then they see that person
+
+having been negligent
+and they think,
+
+well, that's a wrong.
+
+Some wrong has been committed
+
+there and compensation
+is somehow
+
+required for this person falling
+
+below the standard of the
+reasonable individual.
+
+But they forget that
+
+liability only attaches
+to negligent action,
+
+to action which falls below
+
+the standard of the
+reasonable person.
+
+If there is damage
+and if there is duty,
+
+and if there is
+causation as well.
+
+At various points,
+various people treat
+
+each of these stages as if
+they're the whole thing.
+
+People are particularly
+liable to do this with
+
+breach and particularly
+liable to do this with duty.
+
+They see that DOC,
+
+a duty of care,
+
+and they treat that as if
+it constitutes the whole
+
+of negligence or they'll
+do it with breach.
+
+Like I just said,
+they'll see a person has
+
+failed to act as the
+reasonable person and
+
+they'll treat it as
+if the person has
+
+therefore been negligent
+in total and is liable.
+
+Avoid that confusion. That's
+just the three elements,
+
+and it's the second one
+that we're doing today.
+
+That's a nice painting
+by Pieter Bruegel,
+
+the Elder that's up there.
+
+That's Icarus.
+
+He's flying too
+close to the sun,
+
+something which is negligent.
+
+Who is this reasonable person?
+
+Negligence is an
+act or an omission,
+
+failing to do something which
+
+the reasonable person would do,
+
+or doing something which the
+reasonable person would not.
+
+That's what constitutes
+a breach of duty.
+
+Falling below the threshold,
+
+the standard of the
+reasonable person,
+
+who is the reasonable person?
+
+The man on the Clapham omnibus.
+
+Clapham is an area
+in South London.
+
+That just means the
+ordinary person.
+
+An ordinary bloke.
+
+I think it was
+
+the 2020 election that
+
+the press was speaking very
+often of the Workington man.
+
+Anyone heard that?
+Workington is a place not
+
+far from where I live up in
+the Northwest of Cumbria,
+
+which is not very prosperous,
+
+but the Workington man
+was taken to represent
+
+the average voter or
+
+the most important swing
+voter in that election.
+
+In the same way, the man in
+
+the Clapham omnibus is just
+
+meant to be the ordinary person.
+
+It's important to know that
+
+this is not a standard
+of perfection.
+
+The reasonable person is
+not a perfect person.
+
+The reasonable person is
+capable of making mistakes,
+
+errors of judgement of being
+selfish, of being afraid.
+
+The law generally
+allows for this.
+
+But it's important to know that
+
+it doesn't always
+allow for this.
+
+What counts as reasonable in
+
+different contexts is really
+
+quite specific to that context.
+
+The reasonable
+person is capable of
+
+making mistakes and
+errors of judgement,
+
+of being selfish,
+of being afraid.
+
+That applies in most
+areas of ordinary life,
+
+but one area in which
+it doesn't apply is
+
+road traffic accidents,
+for example.
+
+I think I discussed this
+
+in the first and
+second lectures.
+
+We are all familiar,
+
+those of us who drive or have
+spent any time in a car,
+
+with the fact that mistakes
+are made while driving,
+
+even when one is
+paying due attention.
+
+Roads are dangerous,
+mistakes happen.
+
+Most of us have been in that
+
+scenario where things could have
+
+gone much worse if luck
+hadn't been on our side.
+
+The law does not
+allow for that thing.
+
+It's very context-dependent what
+
+counts as reasonable in
+different circumstances,
+
+by which I mean,
+
+in road traffic, it's
+approaching strict liability.
+
+In road traffic accidents,
+
+someone is always judged
+to have fallen below
+
+the standard of the
+reasonable person
+
+if there is an accident,
+
+or sometimes it's
+50, 50, to be fair,
+
+because both people
+are judged to
+
+have fallen below the standard
+of the reasonable person.
+
+But there are no
+fault-free accidents.
+
+There are no
+accidents on the road
+
+where no one has
+breached their duty of
+
+care in so far as the road
+accident involves two parties.
+
+It's always either
+one of the drivers
+
+or the local authority
+
+for failing to
+organise the roads
+
+properly or the highways agency.
+
+Someone's always at fault
+
+if there's an
+accident on the road.
+
+That's what the law
+says. Even if no one
+
+actually on our ordinary
+language understanding
+
+of what a reasonable
+person ought to do,
+
+even if no one has actually
+fallen below that standard.
+
+Whereas in other areas,
+
+it's a much more
+realistic standard.
+
+Take that last bullet point
+with a pinch of salt.
+
+It's context-dependent.
+
+What is this concept of
+the reasonable person?
+
+Why does the law rely on it?
+
+Why not set out some
+clear legal tests?
+
+Well, we do have a
+series of tests which
+
+structure how we determine
+
+whether or not someone has acted
+
+as the reasonable person or not.
+
+We'll get into them in a moment.
+
+But they're really
+just heuristics.
+
+That means, rules of thumb,
+
+which help us to
+understand whether or not
+
+someone has been reasonable
+in a particular circumstance.
+
+The point really made
+by John Gardner,
+
+the greatest legal philosopher
+of the 21st century,
+
+sadly, very recently
+died very prematurely.
+
+In this article, The Many
+
+Faces of the Reasonable Person,
+
+he argued that the
+reasonable person
+
+was a legally deregulated zone.
+
+Because basically,
+
+there's too many and
+too complex a set of
+
+circumstances which arise
+in the real world as it is,
+
+to have any clear fixed rules.
+
+If you have any
+clear fixed rules,
+
+they're going to work injustice
+in one case or another.
+
+You basically need
+to leave it up
+
+to the judge most of the time,
+
+so that they can be
+sensitive to the context.
+
+It embodies no particular
+standard of justification.
+
+It's just the many and
+varied underlying reasons
+
+to be confronted by
+the decision-maker in
+
+their ordinary form
+and apply direct,
+
+unmediated by law,
+because it's too complex.
+
+There's too many
+different circumstances.
+
+That's why we have this idea
+of the reasonable person.
+
+Who is this reasonable
+person then?
+
+We've said the man on
+the Clapham omnibus.
+
+It's very important to note that
+
+the reasonable person
+is most of the time,
+
+in most circumstances,
+an objective standard,
+
+not a subjective standard.
+
+What does that mean? I hope you
+
+roughly know what the difference
+
+between objective standard and
+
+a subjective standard
+is by the second year,
+
+but if not, let me
+try and help you.
+
+It means that the test
+does not take into account
+
+the subjective
+characteristics of
+
+the defendant most of the time.
+
+Next lecture, we're going to
+
+learn some exceptions to this.
+
+On Friday, we'll learn
+some very specific,
+
+very narrow examples where
+
+the subjective
+characteristics of
+
+the defendant are
+taken into account.
+
+But the general rule
+is that they are not,
+
+apart from those very
+specific exceptions
+
+which we talk about
+next lecture.
+
+A Nettleship and Weston
+is the classic case here.
+
+The defendant was
+a learner driver.
+
+They crashed the car, injuring
+the driving instructor.
+
+Lord Justice Denning said,
+
+"The standard of care
+is to be measured
+
+objectively by the skill to
+
+be expected of an experienced,
+
+skilled and careful driver.
+
+Learner driver may
+be doing their best,
+
+but their incompetent
+best is not good enough."
+
+Now, you might think
+this is very unfair.
+
+Why should the
+learner driver's lack
+
+of skill not be
+taken into account?
+
+We'll have a think about that.
+
+We'll come back to
+that in a moment,
+
+but why not take
+
+their subjective
+characteristics into account?
+
+Just try and think about that.
+
+The same is true in a
+range of other cases,
+
+Wilsher and Essex
+Health Authority
+
+gives another example
+of the very same point.
+
+Standard for care
+for a junior doctor
+
+is the same as for
+any other doctor.
+
+We get part of the answer from
+
+Wilsher here as to
+why it's not unfair.
+
+It's not unfair because
+other people on
+
+the road can't tell that
+
+the learner driver
+is a learner driver.
+
+Well, they have a
+little learner sticker,
+
+of course, but the point
+is they're still driving.
+
+They're still on the road.
+
+They're still posing the
+same risks to other drivers.
+
+We get the same idea here.
+
+The junior doctor,
+
+and they might tell you
+they're a junior doctor,
+
+but they're still holding
+
+themselves out to the
+world as a doctor.
+
+They're still exposing
+other people to
+
+the same risks regardless of
+their level of experience.
+
+Here is the justification again.
+
+I say again because we've
+
+already looked at this
+Oliver Wendell Holmes quote.
+
+The point is that tort law,
+
+negligence is about
+corrective justice.
+
+This is one of
+
+the reasons to think it's
+about corrective justice.
+
+Corrective justice
+tries not to achieve
+
+fairness for the defendant
+
+or the claimant
+taken in isolation,
+
+but rather tries to
+achieve a standard
+
+which is fair
+between the parties.
+
+Yes, you might think it's
+
+unfair to the learner driver to
+
+hold them to the same standard
+
+as the experienced driver,
+
+but the idea of tort law
+here is that it would
+
+be unfair to the victim not to
+
+hold the learner driver
+to the same standard
+
+because the victim is exposed
+to the very same risk,
+
+regardless of whether the driver
+
+is a learner or an
+experienced driver.
+
+That's the point the great
+
+jurist Oliver Wendell
+Holmes was making here.
+
+If a man is born
+hasty or awkward,
+
+always having accidents and
+
+hurting himself or
+his neighbours,
+
+no doubt his congenital defects,
+
+that means the defects
+with which he was born,
+
+will be allowed for in
+the courts of heaven, ie,
+
+we don't morally blame
+
+the learner driver for
+
+being worse than an
+experienced driver,
+
+but the point is,
+
+from the point of
+view of the victim,
+
+it doesn't matter whether the
+car crash happens because
+
+the learner driver was
+
+a learner or because it's
+
+an experienced driver
+not paying attention.
+
+The reasons are immaterial.
+
+It tries to achieve
+a standard that's
+
+fair between the parties.
+
+That's what the modern day
+tort theorist Allan Beever
+
+tells us as well.
+
+Now we get into
+
+the factors affecting
+the standard of care.
+
+Quickly, before we get
+into these factors,
+
+let's just focus
+on the left here.
+
+The left here is next lecture,
+
+and they are the
+specific attributes of
+
+the defendant that sometimes
+are taken into account.
+
+I've just told you
+that the standard
+
+of the reasonable person
+is an objective one.
+
+It does not take into account
+
+the subjective characteristics
+of the defendant.
+
+That is not true in
+relation to children,
+
+incapacity, profession
+and common practice.
+
+Again, we're going to go through
+
+that in detail next lecture.
+
+It's the other way around
+on your board, isn't it?
+
+Outside of those
+specific circumstances,
+
+just focus on that column
+over there highlighted,
+
+the external factors
+being balanced.
+
+What's the structure
+of the logic here?
+
+The overarching test is
+
+whether or not the
+person acted reasonably.
+
+Did they fall below
+the standard of
+
+the reasonable person
+in these circumstances?
+
+If you're asking whether
+I was negligent, you ask,
+
+did I fall below the standard
+of the reasonable lecturer.
+
+If you're asking whether
+the driver was negligent,
+
+you ask, did the
+driver fall below
+
+the standard of the
+reasonable driver?
+
+Et cetera. It's the
+reasonable person,
+
+but specific to the context,
+
+but not specific to the
+subjective characteristics,
+
+specific to the context.
+
+You don't ask, was Jeremy
+
+the reasonable
+lecturer for someone
+
+who'd been lecturing
+for three years,
+
+all my personal
+characteristics added.
+
+It's neutral. You have
+this overarching test,
+
+the reasonable person
+in the context,
+
+and then you look at these
+
+these five factors
+which help you
+
+determine whether or not
+the person was acting
+
+reasonably or what would
+
+be reasonable in
+the circumstances.
+
+What remains is to go
+through these five factors.
+
+This is a beautiful Damian Hurst
+
+of bullfight, matador balancing.
+
+Without focusing on this
+in too great detail,
+
+the point here is that you
+look at all these factors.
+
+These are just the five factors.
+
+This is just a summary
+of what I've just said.
+
+These are the five factors,
+let's get into them.
+
+The first is
+probability of harm.
+
+Actually, sorry,
+before we do that,
+
+let's just one way I
+
+want to help you understand
+this a little more
+
+viscerally is by
+reminding you of
+
+what happened to me
+on the mountain,
+
+on the Turn the [inaudible]
+when I knocked that rock off.
+
+Remember, I was climbing up
+
+and I knocked that rock off
+and it just missed that guy.
+
+I'm asking you to imagine
+what would happen and what
+
+my liability might be if
+
+the rock had hit the
+person below me.
+
+I'll give you the
+examples from the cases,
+
+and then we'll try and apply
+it to that problem scenario,
+
+which was roughly the
+exam question last year.
+
+Probability of harm
+is the first one.
+
+The obvious point is the greater
+the probability of harm,
+
+the greater the likelihood
+
+that someone's going
+to get hurt as
+
+a result of the action
+
+taken by the defendant
+or the omission.
+
+The higher the likelihood
+
+that the defendant fell below
+
+the standard of the
+reasonable person.
+
+Bolton and Stone is a
+classic example here.
+
+Cricket green, that is
+actually the very cricket
+
+green from Bolton and
+Stone, by the way.
+
+That's it. I found it.
+
+You can see that the houses
+
+are very close to the edge here,
+
+so they're playing cricket.
+
+Someone hits a six and it
+
+hits the poor claimant
+on the edge in a garden.
+
+Is there negligence? Is
+there a breach of duty?
+
+Well, part of the evidence
+said that balls had only
+
+been hit out of the ground
+six times in 30 years.
+
+That's a pretty low probability
+
+of a ball being hit out
+of the ground at all,
+
+six times in 30 years.
+
+Then you've got
+to add on to that
+
+the likelihood that even
+
+when it comes out of
+the cricket grounds,
+
+it's probably not
+going to go right
+
+into someone's back garden
+
+while they are sitting out
+there and land on them.
+
+The claimant here was
+really, very unlucky.
+
+There's a very low probability
+
+that this cricket ball
+was going to hit her.
+
+The House of Lords said
+an ordinary careful man
+
+doesn't take precautions
+against every foreseeable risk.
+
+He only takes precautions
+against risks which
+
+are reasonably likely to happen.
+
+Remind yourself of my situation.
+
+As I'm climbing up, how
+
+likely is it that I was
+going to knock a rock down?
+
+Well, pretty unlikely,
+although it does happen,
+
+definitely it's happened
+to me before when
+
+I'm climbing that I've
+knocked rocks down.
+
+How likely is it that there was
+
+going to be someone
+directly below me?
+
+Well, I did know that there
+were people below me.
+
+How likely was it was
+going to hit them?
+
+Pretty unlikely given that it
+
+did actually avoid
+them in the end.
+
+Probably a much
+higher probability of
+
+harm in that
+circumstance than here,
+
+but not that high.
+
+You've got to compare.
+
+Bolton and Stone is
+a good comparison.
+
+If you're given a
+problem question about
+
+this and probability
+of harm comes into it,
+
+my recommendation is to
+start with this analysis,
+
+something happening six
+times in 30 years and
+
+seeing that that is a
+low enough probability,
+
+that there was no
+liability, no breach.
+
+Take that as your numerical
+point of comparison.
+
+I'm not suggesting
+that any of you do
+
+the probability maths
+in a very precise way.
+
+That's not the exercise
+being done here, of course,
+
+anyone who did statistics
+or whatever for A level,
+
+don't start running the
+numbers. That's not the point.
+
+It's a rough comparison,
+qualitative.
+
+It's different, of course,
+
+where there is a very
+low probability,
+
+but there is
+absolutely no reason
+
+to take the risk in any event.
+
+If there is a very low
+probability of harm,
+
+but no reason for taking
+the risk in any event,
+
+then even taking
+that very small risk
+
+will be a breach of duty.
+
+That's what the wagon
+mound number 2 found.
+
+You've got to look at
+reasons for taking the risk.
+
+We'll come back to
+that in more detail.
+
+It's one of the other factors.
+
+See, look at the factors here,
+
+cost of precautions and social
+utility of these conduct.
+
+What were the reasons the
+person was taking the risk?
+
+That's what's partially
+involved there.
+
+We'll come back to that
+when we see Bolton
+
+and look at Bolton
+and Stone again.
+
+But the point is that
+these different factors
+
+have to be balanced against one
+
+another and just because
+it's a very small risk,
+
+that can't be taken in isolation
+as negating liability.
+
+It's just a factor.
+
+The second factor
+is gravity of harm.
+
+How severe is the harm?
+
+Paris and Stepney is
+the classic case here.
+
+This was in 1950, bear in mind.
+
+In Paris and Stepney, the
+defendant had one eye.
+
+He's not given goggles for
+work and he lost the good eye.
+
+The court said
+rather hilariously,
+
+goggles were obviously necessary
+
+when a one eyed man was
+put to this kind of work.
+
+Why rather hilariously?
+
+Well, because back in 1950,
+
+the court obviously
+thought that you
+
+didn't need goggles for
+this kind of work or
+
+rather the employer didn't
+
+need to insist on
+goggles for this kind of
+
+work for people with two
+eyes because back in 1950,
+
+that was the attitude
+to health and safety.
+
+You can afford to lose one eye.
+
+But if you've only got one eye,
+
+then you really should be
+provided with goggles.
+
+The details of the case are
+not terribly important.
+
+What's important is that
+
+the reasonable man considers
+
+all foreseeable consequences,
+
+including the known
+characteristics
+
+of the claimant and
+the gravity of harm.
+
+Two key things from this.
+
+One, gravity of harm matters.
+
+The higher the level of harm,
+
+the higher the chance that
+
+the defendant has breached
+their duty of care.
+
+A second feature of this is
+
+that you do take into account
+
+the subjective characteristics
+of the claimant.
+
+Not the defendant, remember,
+
+but you do take into account
+
+the claimant's subjective
+characteristics
+
+in assessing probability
+and gravity of harm.
+
+Cost of precautions.
+Oh, sorry, yeah.
+
+Just applying this very
+obviously to my scenario.
+
+What's the likelihood of
+
+a fridge size boulder hitting
+him at 100 miles an hour,
+
+doing serious harm well,
+it's going to kill him.
+
+There's absolutely no
+question about that.
+
+He was 100% goner if
+the rock had hit him.
+
+The nice Slavic bloke below
+me, who was, by the way,
+
+totally unbothered by this,
+
+the rock missed him
+by about a metre,
+
+and then he climbed up
+next to me and I was like,
+
+I'm so sorry about that rock.
+
+He was like, no, it's
+absolutely fine, mate.
+
+These things happen
+in the mountains,
+
+which I thought was
+rather interesting.
+
+Then they overtook us.
+
+Eastern European
+machines, they were.
+
+Cost of precautions.
+
+Back to Bolton and Stone,
+the cricket ground,
+
+you might think, what's the
+cost of precautions here?
+
+Oh, it's very low. They
+could just not play cricket.
+
+Who cares about cricket
+when it compares
+
+to the poor claimant
+getting bonked on the head?
+
+Or you might think, there's
+
+an easy solution just
+put up big fences.
+
+The House of Lords was
+very insistent that those
+
+were actually very
+serious costs.
+
+Stopping all village cricket,
+
+on nice greens like this is
+a massive cost, actually,
+
+just because no
+specific individual is
+
+harmed very severely by this
+action stopping cricket,
+
+doesn't mean the cost
+isn't huge because
+
+loads of people stop
+playing cricket.
+
+That's really not a good way
+to run a society to impose
+
+massive diffuse costs
+on a huge number of
+
+people for some very
+concentrated benefit.
+
+From a utilitarian perspective,
+
+from the perspective
+of trying to
+
+achieve the greatest happiness
+for the greatest number.
+
+Nor should we put massive
+fences up because look,
+
+this place would look much less
+
+nice if you put massive
+50 foot fences up.
+
+You'd have to put massive
+50 foot fences up around
+
+every village green in
+
+England on which
+cricket is played.
+
+Neither of those are cost
+free options by any means.
+
+You might think, again,
+
+what's a fence being put up in
+
+comparison to this poor woman
+
+getting hit on the head
+with a cricket ball?
+
+Well, this is a serious cost.
+
+It's not just literally
+
+the financial cost of
+putting up the fences.
+
+It's what that does to the life
+
+and aesthetic appeal
+of English villagers.
+
+Go back to my example,
+
+a lot of people got this wrong
+in the exam interestingly.
+
+They said they took
+
+a very safetiest attitude
+
+towards my climbing in the exam.
+
+It wasn't me obviously
+in the exam.
+
+It was two imaginary people.
+
+But a lot of people
+in the exam suggested
+
+that the cost was very low,
+
+that I could have just
+been more careful,
+
+been much slower and
+checked all the rocks.
+
+Well, in my view, that's
+completely wrong.
+
+I couldn't have done
+that because that
+
+would have just meant I
+couldn't have done the climb.
+
+The people below
+me could have not
+
+climbed below me as well.
+
+Basically, if you want to create
+
+a safe environment
+completely in the world,
+
+you need to get rid of all risk,
+
+and that means no one can
+do anything remotely risky.
+
+I'm not allowed to
+go climbing and
+
+people aren't allowed to play
+
+cricket on the village greens,
+
+or we've got to have massive
+fences up everywhere,
+
+and that creates a very
+different society.
+
+These are real costs that
+
+people didn't really anticipate.
+
+Also, a lot of people made
+another mistake, I should add,
+
+which I put in the problem
+
+question that part of the
+reason we're moving fast,
+
+and this is true is
+because there are
+
+afternoon storms in
+the Alps very often.
+
+People suggested that I
+
+could have just got
+caught in the storm.
+
+I think a lot of people
+
+didn't think through
+the fact that getting
+
+caught in the storm
+at 4,000 metres
+
+is very dangerous
+in its own right.
+
+That would have been a
+very dangerous endeavour,
+
+and doing something very
+
+dangerous for
+yourself is obviously
+
+a high cost of taking
+extra precautions.
+
+A slightly different way of
+
+looking at cost
+of precautions or
+
+a slightly different
+analysis is Latimer and AEC,
+
+or it's a different cost.
+
+This was about a
+factory flooding,
+
+making the floor sit slippery.
+
+Basically, the defendants took
+
+every precaution they could.
+
+They spread saw dust
+over most of the floor,
+
+but they didn't have enough
+to cover one tiny gap.
+
+They would have had to
+close the factory until
+
+extra sawdust arrived or they
+
+could take the risk that someone
+
+might slip and be injured on
+
+that tiny little bit of
+
+the floor which
+wasn't saw dusted.
+
+What do they do?
+Well, obviously,
+
+they did what the
+reasonable person would
+
+do and they kept the factory
+
+open and someone did ultimately
+slip and was injured.
+
+It was seen that they
+weren't negligent here.
+
+They didn't breach
+their duty of care
+
+because the cost of precautions
+would have been massive.
+
+They would have just had to
+close the entire factory
+
+down in order to
+avoid this tiny patch
+
+of ground or being slippery.
+
+It's just the same point.
+
+No breach of duty of care.
+
+Then we get into
+utility of conduct.
+
+Now, this really applies to
+
+any occasion where someone
+
+is actually doing
+something useful.
+
+This does not apply in
+my climbing scenario.
+
+I was not doing
+something useful.
+
+I was just having a
+lark, having fun.
+
+But in Watt v Hertfordshire
+County Council,
+
+the situation was
+very different.
+
+Not all of these factors
+
+apply in every
+single circumstance.
+
+Often, utility of conduct
+for one won't apply.
+
+You just won't need
+to mention it in
+
+a breach of duty case.
+
+In what there was
+a lifting jack,
+
+piece of machinery needed
+
+in an emergency
+for firefighting.
+
+The only vehicle available
+was an ordinary lorry,
+
+which the jack could
+not be properly
+
+secured and this piece
+
+of machinery ultimately slipped
+and injured the claimant.
+
+They needed to get this
+piece of machinery to
+
+the fire and they
+wouldn't have been
+
+able to get it to
+the fire without
+
+trying to put it on this vehicle
+
+which wasn't really
+equipped to hold
+
+it and it slipped and
+injured the claimant.
+
+The point here is that what
+
+the defendants were doing
+was really very useful.
+
+In ordinary circumstances,
+if the purpose had just been
+
+to make money off
+this for some reason,
+
+that's not a good reason
+
+to attach it to
+the wrong vehicle,
+
+but they were acting
+in an emergency.
+
+For one thing, there was
+a fire to be fought,
+
+a time pressure and
+they were doing it for
+
+a public good to fight
+fire, charitable purpose.
+
+I rather like this
+Denning quote.
+
+The commercial end
+to make profit is
+
+very different from the human
+end to save life or limb.
+
+The saving of life
+or limb justifies
+
+taking considerable risk,
+
+which commercial
+profit would not
+
+and so there was no breach of
+duty in Watt Hertfordshire.
+
+Tomlinson and Congleton
+Borough Council
+
+is in even perhaps an even
+more vivid example of this.
+
+This is a nice George
+Seurat painting
+
+of people taking their leisure
+by the seine in Paris.
+
+I think it's called an afternoon
+
+on the island of
+La Grande Jatte.
+
+This is not about
+the Seine in Paris,
+
+but about a little lake in
+
+Congleton Borough Council,
+
+rather different circumstances.
+
+The lake was owned by the
+defendant Borough Council
+
+and people used to
+swim in it lots.
+
+They put up notices saying
+dangerous water, no swimming,
+
+but swimming continued anyway
+
+and it was known to
+continue anyway.
+
+Notices were ignored.
+
+The claimant, who
+was by all accounts,
+
+a total moron, dove
+
+into shallow water
+and broke his neck.
+
+Now, it was
+
+seen by the law lords
+that allowing people to
+
+swim rather than closing
+down the whole thing,
+
+putting up barriers, making
+sure people shouldn't swim,
+
+couldn't swim at all was
+vastly preferable, or sorry,
+
+was much worse than
+
+one person having an accident
+
+that was really their own fault.
+
+There are lots of Tomlinson
+is a very complicated case.
+
+There are lots of
+different reasons
+
+given by the different judges in
+
+this case for holding as they
+
+did that there was
+no breach of duty,
+
+but the basic point is that
+
+tort law should not create
+a culture of safetism,
+
+a culture where people
+
+are not allowed to do
+slightly risky things where
+
+all the village greens in
+England are concreted over
+
+or cricket stopped or there's
+
+massive fences put
+up everywhere or
+
+where reservoirs which
+people want to swim in.
+
+You don't just have a notice
+saying danger, no swimming,
+
+but they're completely
+concreted over
+
+or they put up
+
+massive barriers so no
+one can go there at all.
+
+It's a nice quote
+from Lord Hoffmann
+
+here," if people want
+to climb mountains,
+
+go hang gliding or swim or
+dive in ponds and lakes,
+
+that is their affair".
+
+The council should not have
+
+destroyed the beach and ruined
+
+people's good time
+in order to prevent
+
+this one person stupidly
+hurting themselves.
+
+It was not a breach of their.
+
+The council did not breach
+their duty by failing
+
+to prevent people from swimming.
+
+Lord Hoffman really has a go
+
+at a safetist culture
+
+which was developing at the
+time in the early 2000s.
+
+People like the Royal Society
+for the prevention of
+
+accidents favour policies which
+
+require people to be prevented
+from taking all risks.
+
+Here's a nice point,
+but they don't have to
+
+consider the cost
+not only in money,
+
+but also in
+deprivation of liberty
+
+which such restrictions entail.
+
+I think this is a point
+which was missed by
+
+quite a lot of people
+in their analysis
+
+of the exam question last year.
+
+Yes, I could have
+just gone really
+
+slowly and not done my
+climb at all and yes,
+
+climbing is really dangerous
+and I don't need to do it,
+
+but it's my liberty to do it and
+
+it is a cost to be
+
+deprived of the liberty
+to do it and enjoy it.
+
+You got to balance the risk
+on the one hand between
+
+individual autonomy
+and deprivation
+
+of liberty on the
+other and that's
+
+not a matter of expert opinion.
+
+It's a judgement which
+the court must make.
+
+The individualist values
+of the common law,
+
+the liberal values of the
+common law to ensure freedom.
+
+These ideas have been
+
+reinforced through two
+pieces of statute,
+
+which I'll cover briefly
+Compensation Act 2006.
+
+In Section 1, it says
+that courts must
+
+consider they must have
+
+regard to in
+determining whether or
+
+not someone has breached
+their duty of care,
+
+whether they're going to prevent
+
+a desirable activity from
+being undertaken at all,
+
+or to discourage persons
+from undertaking
+
+functions in connection with
+the desirable activity.
+
+Basically just
+reinforcing this idea of
+
+utility of conduct and
+just to return to what.
+
+Utility of conduct
+is broader than just
+
+doing something useful
+like fighting fires.
+
+Utility of conduct also
+refers to liberty.
+
+I said it wasn't really
+relevant to my situation,
+
+but you could have
+analysed my situation,
+
+the climbing situation
+by reference to utility
+
+of conduct a little
+if you wanted.
+
+Another way of putting
+that same thing
+
+is cost of precautions,
+
+because the cost of
+precautions would
+
+have been to prevent
+
+me doing something
+at all climbing,
+
+call it utility, call
+it cost of precautions.
+
+Again, these
+different factors are
+
+not watertight rules of law.
+
+They're just ways of
+understanding what
+
+constitutes a reasonable
+action in the circumstances.
+
+Then we've got a more
+specific utility of conduct,
+
+which is Social Action
+Responsibility and Heroism Act.
+
+Without going
+through the sections
+
+of this in any great detail,
+
+the point basically is,
+
+when people are doing
+something good,
+
+when they're trying
+to help someone,
+
+they shouldn't be held to
+quite as high a standard of
+
+care and that's obvious from
+
+Watt v Hertfordshire
+County Council.
+
+Social Action responsibility
+and Heroism just puts on
+
+a statutory footing Watt v
+Hertfordshire County Council
+
+had already decided.
+
+It doesn't really add
+terribly much to it.
+
+Just reinforces the same point,
+
+where people are
+doing good stuff for
+
+the public good rather
+than trying to make bank,
+
+they should be held to a
+lower standard of care.
+
+Then finally, we have context.
+
+This is actually a massive
+and complex topic context,
+
+but the classic case here
+is Woolridge v Sumner.
+
+During a horse race,
+
+the defendant jockey rode
+his horse very fast around
+
+a corner while trying
+
+to rescue someone from
+the horse's path,
+
+the claimant was
+hit by the horse
+
+and suffered serious injury.
+
+Claimant claimed
+that the defendant
+
+had ridden negligently fast.
+
+Now, if they hadn't
+been at a horse race,
+
+if the claimant had not been at
+
+a horse race in
+spectating a horse race,
+
+if they had just been on the
+street and the defendant
+
+had been riding as fast as they
+
+were and banged
+into the claimant,
+
+then the defendant would
+definitely have been liable,
+
+but the context here is that
+
+the claimant is at a horse race.
+
+They have decided of
+
+their own free will to
+go to a horse race,
+
+so you can guess
+what the result is,
+
+I hope from that,
+
+that the defendant and not
+breached their duty of care.
+
+Person attending a game or
+
+a competition takes the risk of
+
+any damage caused him by
+
+any act of any participant
+
+done in the course of the game,
+
+not withstanding that such an
+act may involve an error of
+
+judgement unless the participant's
+conduct is reckless.
+
+If you've rocked up at an
+event like a horse race,
+
+you know that everyone's going
+to be riding really fast.
+
+The standard which the
+defendants are held
+
+to is a much lower standard.
+
+It's recklessness,
+not reasonableness.
+
+They'd have to do
+something reckless,
+
+because the context
+is so different.
+
+About 1% of people
+were able to see
+
+the very clear parallels
+between this and my case.
+
+The Czech bloke, or
+
+the Slovenian bloke, I can't
+remember where he was from.
+
+The Eastern European
+bloke beneath
+
+me, I think he was Czech.
+
+The Eastern European
+bloke beneath me.
+
+He had decided to rock up at
+
+the base of the Rebafat
+Cir on the Tur Rand.
+
+He was a climber, he
+
+knows he has climbed
+many things before.
+
+He was a better
+climber than I was.
+
+He knows that when
+you're climbing,
+
+sometimes massive rocks get
+
+dislodged and that's
+a risk you take.
+
+He knew what he was
+getting himself in for.
+
+That's why when he rocked up
+
+next to me at the
+Bley station, I said,
+
+I was so sorry, he said,
+
+"Don't worry about it.
+These things happened".
+
+He knew it wasn't my fault.
+
+He willingly accepted the risk.
+
+Now, there is a defence
+which you'll learn
+
+about much later next time.
+
+At the end of next time,
+it's called Volenti.
+
+It means voluntarily accepting
+
+the risk and some people
+tried to go with that,
+
+which there was an
+interesting argument for,
+
+but it wasn't actually Volenti,
+
+because in order to be
+Volenti or voluntarily
+
+accept the risk for that to be
+
+a complete defence in tort law,
+
+you have to know
+exactly what the risk
+
+is and sign up for it
+in a very specific way.
+
+That didn't work, but
+
+the point I want to
+stress to you here
+
+is that in general,
+
+the reasonable person and what
+
+constitutes the
+reasonable person
+
+is very context sensitive.
+
+Just like the horse rider
+in Woolridge v Sumner,
+
+in order to be
+
+liable in tort for
+knocking that rock down.
+
+I would probably have had
+to have been reckless or
+
+something close to
+it because yes,
+
+this was not strictly
+a game or competition,
+
+but it was essentially
+
+the game of alpinism
+in which I was
+
+participating and in which
+the Eastern European
+
+bloke standing below me
+was participating also.
+
+He knew what he was
+getting himself in for.
+
+There's this good quote
+surrounding this.
+
+In my opinion, too fast
+
+in these circumstances
+would only be
+
+an error of judgement of
+highly competent rider
+
+all out succeed.
+
+It's no doubt a misfortune.
+
+The point is that you're
+playing the game, it's tricky.
+
+You're doing your best
+and different standards
+
+apply in those circumstances.
+
+This takes me straight
+back to my poll.
+
+Let's see now who
+
+thinks I was liable and who
+doesn't think I was liable.
+
+I've tried to work hard to
+
+convince you of
+my point of view,
+
+of course
+
+[BACKGROUND].
+
+Well, I'm doing substantially
+better this time,
+
+but there's still some
+outliers who think I
+
+was negligent. Thank
+you very much.
+

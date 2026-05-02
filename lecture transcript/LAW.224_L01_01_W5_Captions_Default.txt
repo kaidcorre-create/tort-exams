@@ -1,0 +1,2407 @@
+MALE_1: Something called
+legal causation it's
+
+much simpler or at least today's
+lecture is much simpler.
+
+It doesn't mean it's super easy,
+
+but there's a fairly
+straightforward series
+
+of legal rules that
+you can just learn,
+
+and there's no fundamental,
+
+really deep underlying
+complexity in
+
+the same way that there was
+with factual causation.
+
+What is legal causation?
+
+Well, the first thing
+to say is that it's
+
+not really about
+causation at all.
+
+It's called legal causation,
+
+but it's really about
+
+moral responsibility and whether
+
+or not an individual should be
+
+held morally responsible for
+
+some consequence which they
+undoubtedly did cause.
+
+What I'm getting at here is
+
+that once you've established
+factual causation,
+
+you have established really
+causation properly so
+
+called because
+you've established
+
+that as a matter of fact,
+
+what the defendant did did
+cause the claimant's damage.
+
+Now we're asking a question
+about amongst the things
+
+that count as factual causes
+of the claimant's damage,
+
+which one of those
+things is the one we
+
+think should be legally
+held responsible?
+
+Don't get distracted by
+
+the fact they're both
+called causation.
+
+They're really quite
+different things.
+
+Also, another point.
+
+I think a lot of people because
+
+they're both called causation,
+
+muddle them together
+and mash them
+
+together as if they somehow
+only need to establish one.
+
+Again, negligence
+moves sequentially.
+
+You've got to have
+actionable damage,
+
+you've got to have duty,
+
+you've got to have breach,
+you've got to have
+
+factual causation and you've
+got to have legal causation.
+
+Legal causation and
+factual causation are
+
+not alternatives
+you can rely on.
+
+You've got to prove all of
+
+these stages in order
+to prove negligence.
+
+It's just an overview
+of what we'll be doing.
+
+Today we'll be doing these
+
+nice two fairly
+simple doctrines,
+
+remoteness of damage and
+new intervening acts.
+
+Most of the time, that's what
+
+legal causation will involve.
+
+Occasionally, you will have
+
+very tricky issues concerning
+Supervening events,
+
+the scope of duty principle,
+and coincidental harms.
+
+Although I'm going to tell
+you now four and five,
+
+the scope of duty principle
+and five coincidental harms,
+
+which we will learn
+next lecture.
+
+They're very interesting,
+they're very tricky.
+
+They will not be examined
+in the end of year exam.
+
+That doesn't mean
+you can just switch
+
+off and shut off
+because they are
+
+actually very helpful
+for understanding what
+
+the hell is going on in
+negligence as a whole.
+
+But when we come to them, if you
+
+find you're thinking, what
+the fuck is going on here?
+
+I have no idea, just don't
+worry about it too much.
+
+But if you do delve deeper
+and understand them properly,
+
+it will be rewarding
+for your understanding
+
+of negligence as a whole.
+
+But what we are doing today
+very much is examined.
+
+Remoteness of damage.
+That's the first thing.
+
+You have to prove as
+
+a claimant that the damage
+that happened to you,
+
+was not too remote from the
+defendant's negligence.
+
+Now, in the old
+days, historically,
+
+there used to be this test of
+
+directness under Re Polemis.
+
+You don't really need
+to worry about this.
+
+I just bring it up to mention
+that there was an old test,
+
+and that was replaced
+by the new test
+
+in the Wagon Mound (No 1).
+
+We've learned about
+another Wagon Mound case.
+
+It's actually the same
+Wagon Mound case in
+
+different circumstances
+earlier in the year,
+
+just don't worry
+about the fact that
+
+they're both called the
+Wagon Mound and don't
+
+worry about the fact that they
+
+relate to one another
+in a rather tricky way.
+
+Just treat them as
+two separate cases
+
+standing for two
+separate principles.
+
+Here we have this
+the Wagon Mound.
+
+The facts are that the
+defendant allowed oil to
+
+spill into Sydney Harbour
+
+while they were
+refuelling a ship.
+
+Wagon Mound is the ship.
+
+That oil caused a light
+
+and the question was whether
+the damage caused was
+
+reasonably foreseeable
+and it was held on
+
+the facts that it
+was not reasonably
+
+foreseeable because it was
+very difficult to ignite
+
+a thin film of oil on water
+or at least at the time,
+
+it was thought that it was.
+
+Under the old rule,
+
+even though the type of damage
+
+was not reasonably foreseeable,
+
+the defendant was still
+liable under the new rule,
+
+which is the rule, now,
+
+because the damage was not a
+reasonably foreseeable kind,
+
+then the defendant
+was not liable.
+
+You don't need to worry too
+
+much about the
+legal history here.
+
+Simple point is this.
+
+The question is the damage
+to the claimant too
+
+remote is answered by
+
+looking at another
+question which is,
+
+is the type of damage
+reasonably foreseeable?
+
+That's what remoteness is all
+
+about.Is the type of damage
+reasonably foreseeable?
+
+Now, you may be
+wondering if you're
+
+astute haven't we
+already dealt with
+
+reasonable foreseeability in
+Week 2 at the level of duty?
+
+Recall, when is there a
+duty of care in negligence?
+
+There's a duty of care
+
+in all sorts of circumstances
+and established categories.
+
+Remember the most easy and
+
+simple established
+category is an act
+
+which reasonably
+foreseeably creates
+
+physical injury or
+property damage,
+
+and I'll repeat one
+more time, things
+
+get more tricky when
+you have not an act,
+
+but an emission or when
+the type of damage is
+
+psychiatric injury
+or economic loss
+
+rather than property
+damage or physical injury.
+
+I hope that's becoming
+internalised by now.
+
+Notice that a necessary
+condition there,
+
+a necessary condition for
+the imposition of duty of
+
+care is reasonable
+foreseeability.
+
+Why are we repeating reasonable
+
+foreseeability here
+you might wonder.
+
+The answer is that they are
+
+at different levels
+of specificity.
+
+Recall the case I taught you
+
+in duty of care for
+reasonable foreseeability.
+
+It's Haley and London
+Electricity Board.
+
+Haley in London
+Electricity Board was
+
+the case about the blind man
+
+walking along the
+street in London
+
+and some workers left
+a manhole cover open,
+
+and they put some cones or
+was it a hammer, I think,
+
+they put a hammer in front of
+the manhole to warn people,
+
+and obviously the blind man
+
+couldn't see the hammer
+fell in the hole.
+
+The question was, was it
+reasonably foreseeable that
+
+a blind man would
+be walking down
+
+the street in London unassisted,
+
+and the answer very obviously
+
+is yes, it's reasonably
+foreseeable.
+
+But recall the counterfactual
+
+given is that it wouldn't be
+
+reasonably foreseeable for
+a blind man to be walking
+
+unassisted in the middle of
+
+a field in the
+middle of nowhere.
+
+A farmer in the middle of
+nowhere is perfectly welcome to
+
+leave a big hole open in
+
+the ground guarded
+only by a hammer,
+
+but not in Central London.
+
+What you're asking about
+there is whether or
+
+not this claimant is
+reasonably foreseeable.
+
+You've established
+that the claimant
+
+is reasonably foreseeable.
+
+That some damage of
+a very general kind,
+
+physical injury,
+property damage,
+
+whatever might happen
+to that claimant.
+
+That's what you're establishing
+
+at the level of duty of care.
+
+Just recall, if you
+don't establish that,
+
+there is no duty of care.
+
+That's a necessary
+condition for duty of care,
+
+that the claimant and
+
+some general damage
+
+happening to them is
+reasonably foreseeable.
+
+What you're asking
+about at this level is
+
+a more specific reasonable
+foreseeability.
+
+It's not that the claimant
+was reasonably foreseeable,
+
+but that the specific
+type of damage that
+
+happened to the claimant
+was reasonably foreseeable.
+
+That's the rule you get
+from the Wagon Mound.
+
+Now, to understand more
+clearly what we mean by
+
+the specific type of damage
+being reasonably foreseeable,
+
+let's look at some interesting
+test cases which show
+
+what type of damage
+is seen as reasonably
+
+foreseeable and what's
+not to put another way,
+
+how widely we understand
+this idea of type of damage.
+
+That's the key
+question. These are
+
+just repeating broadly what
+
+I've said in the judge's words.
+
+Let's go on and look at some
+more specific examples.
+
+Hughes and Lord Advocate.
+
+Now, funnily enough, you're
+going to get confused
+
+about this because we've got
+another open manhole cover.
+
+Just like the case I've
+just been talking about
+
+Haley and London
+Electricity Board.
+
+It's also unhelpful that
+they are both H Hughes
+
+and Haley versus L Lord Advocate
+
+and London Electricity Board.
+
+There's various ways
+in which people may
+
+get confused between
+these cases do not.
+
+Haley and London
+electricity board,
+
+remember blind man,
+manhole cover, London,
+
+Hughes Lord Advocate,
+
+that's about a paraffin lamp.
+
+That's what's really
+at stake here.
+
+In Hughson L advocate,
+
+the defendant left a manhole
+open during roadworks,
+
+and at night, they put
+
+paraffin lamps around
+it to warn passers by,
+
+not hammers, but paraffin lamps.
+
+We ain't dealing
+with a blind man,
+
+we're dealing instead
+with an eight-year-old
+
+and the eight-year-old
+accidentally kicks
+
+the lamp into the
+hole and that causes
+
+an explosion and it injures
+this eight-year-old.
+
+I'm getting confused.
+
+Can I ask people to
+come in the back
+
+when you're coming
+in late, please?
+
+Sorry, it puts me
+off my flow a bit.
+
+It's my own fault for
+getting put off my flow,
+
+but I do get put off my flow.
+
+So back to Hughes
+and Lord Advocate.
+
+So he accidentally kicks
+the lamp into the hole,
+
+caused an explosion. That
+injures the claimant.
+
+It was established
+as a matter of
+
+fact that it was
+reasonably foreseeable
+
+that someone would get
+burned by this lamp.
+
+It was reasonably foreseeable
+that damage would happen.
+
+Someone would get
+burned by the lamp.
+
+It was not reasonably
+foreseeable
+
+that someone would kick
+
+the lamp into the hole
+and it would explode.
+
+However, here's a
+nuance on that.
+
+Ultimately, the damage which
+
+happened to the claimant
+was still burns.
+
+It didn't matter, ultimately
+that the burns didn't
+
+happen through some
+paraffin oil spilling
+
+on them and their skin
+getting burned that way,
+
+but instead through an explosion
+
+because we don't
+go that specific.
+
+We only go as specific
+
+as the general type
+of damage and here,
+
+it's burns, not burns caused by
+
+paraffin oil sitting on
+
+the skin rather than burns
+caused by explosion.
+
+In the words of Hughes in
+the words of Lord Reid,
+
+not the president of
+the Supreme Court,
+
+by the way, an older,
+different Lord Reid,
+
+notice his name is
+spelled differently,
+
+R-E-I-D, not R-E-E-D.
+
+He says, No doubt
+it was not to be
+
+expected that the injuries
+would be as serious
+
+as those which the appellant
+in fact sustained because
+
+it was an explosion rather
+
+than some paraffinal
+spilling on him.
+
+But although the damage
+
+may be a good deal greater
+
+in extent than was foreseeable,
+
+you can only escape liability
+if the damage can be
+
+regarded as differing in kind
+from what was foreseeable.
+
+It doesn't differ in kind
+because it still burns,
+
+even though it's burns
+caused by an explosion.
+
+Another useful way of putting
+
+this is how Lord Jenkins does.
+
+To my mind, the distinction
+drawn between burning and
+
+explosion is too fine
+to warrant acceptance.
+
+So that tells you this.
+
+We look at type of
+damage much more
+
+specifically than we do
+at the level of duty.
+
+At the level of duty, we
+just look at physical injury
+
+or property damage to
+this particular claimant,
+
+blind man walking along
+the street in London.
+
+Here, we look at type of
+
+damage at a much
+more specific level.
+
+We look at did the damage
+happen through burns,
+
+but we don't go super
+super specific and say,
+
+burns through oil sitting on
+
+the skin rather than
+burns through explosion.
+
+Burns is the level of
+generality at which
+
+we assess whether the type of
+
+damage was reasonably
+foreseeable.
+
+That's a case on one side of
+the line where the damage
+
+was seen or the type
+of damage was seen to
+
+be reasonably foreseeable
+and therefore,
+
+it was not too remote.
+
+Same thing in another
+case Jolley and Sutton.
+
+14-year-old boy gets injured
+
+while playing with
+a disused boat,
+
+crawls under the boat,
+
+propped up just like in
+this image, roughly.
+
+Some danger meddling with
+
+the boat was reasonably
+foreseeable,
+
+even if the specific danger of
+
+the boat falling was not
+reasonably foreseeable.
+
+Again, we have this idea that
+
+the type of damage is not to
+
+be construed overly
+specifically.
+
+Some mischief from the boat,
+
+the boat damaging someone in
+
+some way or another
+was foreseeable,
+
+even though it falling in
+
+this specific way was not
+necessarily foreseeable.
+
+That didn't matter. Even if
+
+you can't reasonably foresee
+the very precise details,
+
+if you can reasonably foresee
+
+the type of damage to the whole,
+
+the boat hurting,
+that's good enough.
+
+Again, not too remote
+
+because reasonably
+foreseeable type of damage.
+
+Now, here we have a case on
+
+the other side of the
+line, Tremain and Pike,
+
+a case where the damage
+
+was seen as too remote because
+
+the specific type of damage
+
+was not reasonably foreseeable.
+
+I don't know if you
+remember I gave you
+
+a horrible little
+illustration of a man
+
+coming out of a snail for
+Donahue and Stevenson.
+
+This is by the same artist.
+
+He's called Hieronymus Bosch.
+
+My wife told me that
+Hieronymus is actually
+
+Jeremy in Dutch or it's the
+same derivation. They go.
+
+This is a horrible little
+illustration of a nasty rat
+
+crawling into this
+man's little tubes,
+
+detail from a massive
+Hieronymus Bosch,
+
+where he has lots of very
+horrible things going on.
+
+Perfect for tort law.
+Tremain and Pike about rats.
+
+Defendant negligently
+allows his farm
+
+to become infested with rats.
+
+Farm worker contracts
+Weil's disease as a result.
+
+Weil's disease is something
+you get from ingestion of
+
+rat pee To be clear,
+
+the bloke wasn't going
+
+around drinking rat
+pee on purpose.
+
+It's just if you fall in
+
+water or whatever and
+some droplet gets in
+
+your mouth and the water
+
+has some quantity
+of rat pee in it,
+
+you can contract Weil's
+disease like that.
+
+It was held that
+
+as a result of this farm
+becoming infested with rats,
+
+it was reasonably foreseeable
+
+that someone might get
+bitten by the rats.
+
+It was not reasonably
+
+foreseeable that
+someone might end up
+
+ingesting the rat urine and
+contracting Weil's disease.
+
+If you were taking
+a very broad view,
+
+you might be tempted to say,
+
+well, how does that sit with
+Hughes and Lord Advocate?
+
+Isn't this the same distinction
+
+between explosion and burns?
+
+Isn't the bloke still getting
+
+damaged by rats, ultimately?
+
+Well, I think we can
+see the distinction
+
+between being bitten by a
+rat and ingesting rat urine.
+
+Yes, you are in some way getting
+
+physically damaged by
+rats in both of those.
+
+But it's a very different
+type of damage.
+
+Ingesting the rat urine is,
+
+you're not being left with
+some marks on the skin.
+
+It's not a physical infliction.
+
+It's internal.
+
+It's internal, not external.
+
+They really are quite
+different types of damage,
+
+even though they're both
+as a result of the rats,
+
+and one is reasonably
+foreseeable.
+
+Because that one is
+reasonably foreseeable,
+
+it does not mean
+that the other is
+
+reasonably foreseeable,
+
+so this type of
+damage is too remote.
+
+So that helps you to understand
+
+how broadly the notion of type
+
+is to be understood in
+the idea that the type of
+
+damage must be reasonably
+
+foreseeable for it
+not to be too remote.
+
+If you face this in
+a problem question,
+
+you should just use these
+two cases which are on
+
+one side of the line and this
+case on the other side of
+
+the line and compare
+your case with
+
+these sets of cases and
+say, which one is closer?
+
+How broad is the type
+of damage in your case?
+
+So that is broadly
+speaking, remoteness.
+
+Now, I want to teach you about
+
+a rule which goes
+along with remoteness,
+
+which is often misunderstood,
+
+but has been hinted
+at already actually.
+
+What needs to be reasonably
+
+foreseeable is the
+type of damage.
+
+What does not need
+to be reasonably
+
+foreseeable is the
+quantity of damage.
+
+Notice in Hughes
+and Lord Advocate,
+
+Lord Reid here says,
+
+no doubt it was not to be
+
+expected that the injuries would
+
+be as serious as those the
+appellant in fact sustained.
+
+But D is liable, although
+the damage may be
+
+a good deal greater in
+extent than was foreseeable.
+
+So how bad the damage
+was was not foreseeable.
+
+The type of damage
+was foreseeable,
+
+but how bad or the quantity of
+
+damage was not foreseeable,
+that doesn't matter.
+
+The quantity of damage does
+not need to be foreseeable,
+
+only the type does.
+
+Now, this is sometimes
+encapsulated as the idea
+
+that you take the victim
+
+as you find them or
+something like that.
+
+I understand why it's
+encapsulated in that way.
+
+You take the victim as you
+find them in the sense
+
+that just because someone has
+a pre existing condition,
+
+which makes the
+injury worse than it
+
+would have been for
+someone who didn't
+
+have a pre-existing condition,
+
+the defendant can't
+get off in that way.
+
+But the way I would learn
+this rule is that what needs
+
+the simple rule which you
+should apply and which
+
+will not lead to erroneous
+results is this.
+
+The type of damage needs to
+be reasonably foreseeable,
+
+the quantity of damage does
+not need to be foreseeable.
+
+Smith and Leech Brain,
+
+rather wonderful
+name for a case,
+
+is a good example of this.
+
+Claimant was burnt on
+
+the lip because of the
+defendant's negligence,
+
+the claimant had precancerous
+skin conditions,
+
+came cancerous as
+a result of burn,
+
+and the claimant
+eventually died.
+
+Now, you might think,
+
+I'm sorry, I should
+just say the defendant
+
+was held liable for
+the four consequences.
+
+You might say, how's that fair?
+
+What was foreseeable
+was just that he would
+
+get burn on the lip,
+not that he would die.
+
+Surely, that's a
+difference in type.
+
+Well, no, because
+everything that
+
+followed thereafter was
+
+just a direct
+consequence of the burn.
+
+The burn happened and the
+burn directly led to death.
+
+Now, just because one
+person might just suffer
+
+a small burn and
+another person dies
+
+as a result of it,
+doesn't matter.
+
+The point is the
+burn was reasonably
+
+foreseeable and all
+that followed from it,
+
+was not too remote as a result.
+
+Because what's at
+issue is not type
+
+of damage but quantity here.
+
+This can be a slightly
+tricky rule to
+
+apply in edge cases.
+
+But I think if you just
+stick to that idea of type
+
+versus quantity,
+you can't go wrong.
+
+Type and quantity, once
+it's established that
+
+the kind or type of damage
+is reasonably foreseeable,
+
+D is liable for the full extent,
+
+whatever it may be,
+
+however disproportionate
+holding the defendant
+
+liable for the full extent
+of the damage may seem.
+
+Even some tiny bit of
+
+negligence which
+results in a piece of
+
+damage what's
+reasonably foreseeable
+
+is some tiny quantity of damage.
+
+If it ends up killing
+
+the claimant, maiming
+them, whatever,
+
+millions of pounds later,
+
+the defendant is still
+
+liable if the type of damage
+was reasonably foreseeable.
+
+That's the eggshell skull rule.
+
+There's nothing terribly
+confusing about it.
+
+Now, we come to a
+separate doctrine which
+
+is new intervening acts.
+
+This is just the other part or
+
+other essential part
+of legal causation.
+
+First rule in legal
+causation is that
+
+the damage must
+not be too remote.
+
+The second rule in
+
+legal causation is
+that there has to be
+
+no new intervening act from
+
+a third party or from
+the claimant themselves.
+
+These new intervening acts,
+
+what are referred to in Latin,
+
+which you'll see in
+the judgments a lot,
+
+Novus actus interveniens,
+
+they break the
+chain of causation.
+
+I think this is
+maybe a Caravaggio.
+
+That's Isaac.
+
+It's a biblical tale,
+
+and I think Abraham is
+about to kill him and
+
+then God intervenes and
+stops him killing him.
+
+That's meant to be
+an intervening act
+
+of God on this occasion,
+
+we'll not be dealing with
+divine intervening acts,
+
+but rather with
+intervening acts of
+
+the claimant and intervening
+acts of the third parties.
+
+The idea being, of course,
+
+that even if what
+
+the defendant did is a but for
+
+cause of the claimant's damage,
+
+if someone else or the claimant
+
+themselves does something and
+does something really done,
+
+which takes over, that's
+the more obvious,
+
+the more proximate cause.
+
+That's the thing
+we should blame.
+
+That's the thing we should
+hold morally responsible.
+
+In some way, just about
+everything is a cause of another.
+
+Everything which happens
+prior to something
+
+later can be seen as a cause
+of that thing in some way.
+
+We've got to be rational
+about this and we ask
+
+what's the thing which should
+
+be held morally responsible?
+
+Really, the rule
+can be summed up
+
+quite simply or a
+good litmus test is,
+
+is what the claimant did,
+
+or is what the third
+party did really dumb?
+
+Was it very stupid?
+
+Was it unforeseeable?
+
+Or more precisely in law,
+
+is it deliberate, informed,
+
+voluntary, and
+unreasonable? Really dumb.
+
+You'll see, if you
+just apply the test,
+
+was it really dumb?
+
+That pretty much answers
+most of these cases.
+
+There's some where it
+doesn't quite do the job,
+
+but broadly, that'll tell you.
+
+This is just a summary of it in
+
+a Hamlin LJs words
+in Clay and TUI.
+
+You take into account
+how deliberate,
+
+how unreasonable, how voluntary
+
+and how independent
+the conduct is.
+
+There's a little bit
+of a disagreement
+
+about whether or not it is,
+
+whether or not you take into
+
+account foreseeability,
+and we'll see that.
+
+You don't need to
+worry too much about
+
+the details of that, but
+that's why that's great.
+
+Maybe this is seeming a bit
+
+abstract and a bit
+obscure at the moment.
+
+Let me make it more concrete.
+
+Here's an example,
+McHugh and Holland.
+
+You don't need to
+know all the tricky
+
+details of this case.
+
+The basic facts are very simple.
+
+Claimant suffered an injury
+
+caused by the
+defendant's negligence.
+
+As a result, his leg
+occasionally gave way under him.
+
+He had some medical
+condition which meant
+
+his leg occasionally
+gave way under him.
+
+He descended a steep
+staircase with no handrail.
+
+His leg gave way predictably.
+
+He threw himself forwards
+fracturing his ankle.
+
+Was it foreseeable?
+
+Was it deliberate?
+
+Was it informed?
+
+Was it voluntary and
+was it unreasonable?
+
+These are the questions
+the court asks,
+
+that he would throw himself
+
+forward and that he would
+
+descend this steep
+staircase with no handrail.
+
+The answer is, in
+this case it was not,
+
+or rather, it was not foreseeable
+and more importantly,
+
+him throwing himself down
+
+this staircase to avoid falling,
+
+him descending this
+steep staircase
+
+with no handrail in this way
+
+and then throwing himself
+forward was deliberate,
+
+informed, voluntary
+and unreasonable.
+
+It was really dumb,
+
+and so it constituted
+a new intervening act.
+
+The chain of causation
+was broken by it.
+
+What follows must be
+regarded as caused by
+
+his own dumb conduct
+
+and not by the defendant's fault
+
+or the disability caused by it.
+
+That's a case on one
+side of the line where
+
+the intervening conduct
+was so dumb or deliberate,
+
+informed, voluntary and
+unreasonable that it constituted
+
+a novus actus interveniens
+
+new intervening act and broke
+the chain of causation.
+
+Now, you see
+
+reasonable foreseeability is at
+
+issue here because it
+was held actually here.
+
+It was reasonably foreseeable
+that someone might do this,
+
+but that's not determinative.
+
+If I were you, I would
+ignore the question of
+
+reasonable foreseeability most
+of the time and just ask,
+
+was it deliberate, informed,
+voluntary, and unreasonable?
+
+It's often easy to foresee
+unreasonable conduct or
+
+some other novus actus
+
+interveniens as being quite
+likely, says Lord Reid.
+
+But just because it's reasonably
+
+foreseeable that people
+might do dumb shit,
+
+it doesn't mean that
+
+the dumb shit shouldn't break
+the chain of causation.
+
+The question is not
+whether it's reasonably
+
+foreseeable that people
+might do dumb stuff,
+
+but whether or not it's
+
+fair to hold the
+defendant responsible.
+
+This is essentially a
+question of fairness.
+
+Should the defendant
+be responsible for
+
+the claimant doing some
+really stupid shit,
+
+which we really ought to hold
+
+them responsible for themselves?
+
+Next term at the
+end of the term,
+
+you're going to encounter
+
+another doctrine called
+contributory negligence.
+
+It's worth just briefly
+understanding what that is now.
+
+Where the claimant
+does something,
+
+which is a little stupid,
+
+sometimes the damages paid
+
+by the defendant are reduced in
+
+light of the claimant's
+own stupidity essentially,
+
+or their own negligence.
+
+This is an extreme form of that.
+
+It's not that the damages are
+
+reduced for the claimant's
+stupidity here or negligence.
+
+It's what the claimant
+did was so unreasonable,
+
+so stupid, so dumb,
+
+that it's really
+all their fault,
+
+not the defendant's
+fault at all.
+
+What they did broke the
+chain of causation and
+
+they were responsible
+for their own damage.
+
+They just had an
+accident on their own.
+
+That's what basically happened
+in McKew and Holland.
+
+This bloke threw himself down
+
+the stairs. Well,
+that's his own fault.
+
+The fact that the occasion
+
+for him throwing himself
+down the stairs was
+
+provided by him slipping
+
+because he had a
+preexisting injury,
+
+or most rational people will
+
+not throw themselves
+down the stairs in
+
+that circumstance, but he did.
+
+An example of a case
+where it's not so
+
+dumb as to be novus
+actus interveniens,
+
+but it is a little bit dumb
+is Spencer and Wincanton.
+
+Here, the defendant negligently
+
+injured the claimant's leg,
+
+Claimant required
+a prosthetic leg
+
+and claimant was being
+a bit lazy basically,
+
+didn't want to put on
+
+the prosthetic leg to get out
+of the car and fill it up.
+
+They didn't want to
+use their crutches.
+
+They just wanted
+to understandably,
+
+I think, they just thought,
+
+can I just get out of the car,
+
+and just fill up quickly,
+
+everything will be fine.
+
+Just hop around and lean on
+
+the car, probably be all right.
+
+The answer is
+rationally, I think,
+
+that's not so unreasonable
+that what they
+
+did was a novus
+actus interveniens
+
+a new intervening at breaking
+the chain of causation.
+
+What it is is slightly
+unreasonable, slightly negligent.
+
+We should reduce what
+
+the defendant pays
+as a result of this,
+
+but we should still hold them
+
+liable because it's
+perfectly understandable.
+
+It's not wholly unreasonable
+that someone with
+
+a prosthetic leg might not
+want to go through the FAF of
+
+putting on the prosthetic leg
+
+and getting out the crutches,
+
+etc, just to fill up the car.
+
+Now we come to a nice fun case,
+
+which illustrates the
+same basic points.
+
+Clay and TUI.
+
+You'll see this is actually
+
+the second case involving TUI,
+
+TUI is a travel company
+
+favoured by Brits going to
+the south of Spain, etc,
+
+and predictably doing a lot of
+
+really dumb stuff in
+the South of Spain,
+
+I'm sure, with lots
+of drink involved,
+
+because that's what Brits
+like to do in Vendorm etc.
+
+Here's a good case
+about that Samblo doing
+
+something really
+dumb on a balcony,
+
+on his package holiday.
+
+He gets trapped on this
+balcony for 30 minutes.
+
+As a result of being locked
+out of the hotel room,
+
+the defendant hotel had
+
+not kept their doors
+properly maintained.
+
+This bloat gets locked
+out on the balcony,
+
+and he thinks it's all over.
+
+Sunny Spain.
+
+Who knows what might happen?
+
+He's going to be locked
+out there forever.
+
+What's going to happen to him?
+
+Is he going to freeze to
+death in Sunny Spain?
+
+He thinks it's all over, so he
+
+said, got to get out of here.
+
+30 minutes is too much.
+
+I can't wait any longer.
+
+No one's coming to save me,
+
+so he climbs over to
+
+another balcony and ends
+
+up fracturing his skull as
+a result because he falls.
+
+Wholly unsurprisingly,
+
+this counts as
+deliberate, informed,
+
+voluntary, and unreasonable,
+
+AKA really dumb conduct.
+
+It wasn't even reasonably
+
+foreseeable that
+someone would do this.
+
+I think reasonable
+foreseeability is
+
+a necessary but not
+sufficient condition here.
+
+Don't worry too much about that.
+
+The point is, it's
+
+really done for him
+to cross balconies.
+
+Defendant was not liable for
+the damage which resulted.
+
+Corr and IBC Vehicles is a
+difficult, troubling case.
+
+Here we have something
+quite different.
+
+This isn't about people
+doing dumb things at all,
+
+and my dumbness test
+
+does not work in this
+instance at all.
+
+One instead needs
+to think deeper.
+
+In the rather
+disturbing case here,
+
+the claimant's ear
+ended up being
+
+severed by the
+defendant's negligence,
+
+not by himself, I should add,
+
+as in Van Gogh's case,
+
+but because of the
+defendant's negligence.
+
+This led ultimately through
+a sequence of events very
+
+foreseeably to the
+claimant becoming
+
+depressed and ultimately
+taking his own life.
+
+The question was, was
+
+the taking of his own life
+a deliberate,informed,
+
+voluntary and unreasonable act
+
+breaking the chain of causation,
+
+or was the defendant liable
+for him taking his own life?
+
+The answer is that he was
+
+liable because it
+was not deliberate,
+
+informed, voluntary
+and unreasonable.
+
+If you read the judgement,
+it's rather interesting.
+
+Sometimes it is the case that
+
+certain or such suicide
+might count as a deliberate,
+
+informed, voluntary
+and unreasonable act.
+
+I think we see
+that, for example,
+
+in the recent potentially
+
+in the in the discussion
+over the recent bill,
+
+terminally ill or
+sister suicide bill,
+
+the people can choose completely
+
+deliberately to
+earn their own life
+
+if something bad happens
+to them as a result.
+
+We need to separate out different
+kinds of suicides here,
+
+if you like but I'm not
+going to examine on this,
+
+but it's a rather interesting
+application of this rule.
+
+It also displays a
+interesting approach or
+
+interesting analysis of the laws
+
+approach to mental
+health and to suicide.
+
+We've seen a bunch of
+suicide cases now.
+
+We saw a case last
+week or not last week,
+
+the week before about the idea
+
+that someone being held
+
+liable for setting
+themselves on fire,
+
+if you recall, and committing
+suicide in that way,
+
+but that being a
+breach of duty was
+
+the price they paid for
+being in society as such.
+
+Here we have for being
+free in society,
+
+and here we have a slightly
+different approach
+
+to mental illness and we'll
+
+come not next week
+but the week after
+
+to see how Law approaches
+psychiatric injury in general.
+
+I'm now moving on from acts of
+
+the claimants to acts
+of third parties.
+
+They are not that different.
+
+The fundamental same
+idea still applies.
+
+In order to break the
+chain of causation,
+
+the act of a third party
+
+needs to be deliberate,
+informed, voluntary,
+
+unreasonable in a
+very similar way to
+
+the way the claimant's own act
+
+would break the chain
+of causation but
+
+there are a different string
+of cases here and you would
+
+apply them if you're dealing
+
+with a third party
+rather than a claimant.
+
+Lamb and Camden is
+a classic example.
+
+Defendant's negligence
+caused building damage.
+
+The claimant who was
+the owner had to
+
+move out all the furniture,
+
+squatters ended up moving in,
+
+and it was held
+
+that the defendant was
+not liable for the damage
+
+caused by the
+squatters because the
+
+squatting itself was a
+new intervening act.
+
+This is basically grounded
+
+in policy reasoning at the time.
+
+Why was it a new
+intervening act?
+
+Well, it was obviously
+
+foreseeable that
+the squatters might
+
+move in but that didn't
+matter it was said.
+
+As a matter of policy, said,
+
+Lord Justice Denning, it
+
+was the job of the claimant
+to keep the squatters out.
+
+Its focused on that
+policy factor.
+
+Defendant shouldn't be liable
+
+because it should be the job
+
+of claimants or the job of
+
+homeowners to keep
+squatters out themselves.
+
+They should take
+sufficient precautions.
+
+Watkins LJ takes a very
+different approach.
+
+He says no liability,
+
+the squatters moving in
+is a deliberate informed,
+
+voluntary and unreasonable act.
+
+It breaks the chain
+of causation.
+
+That third party broke the
+chain of causation and
+
+that should be the decision
+because we're dealing here
+
+with unreasonable conduct
+of an outrageous kind.
+
+Anti-social and criminal
+behaviour provides
+
+a glaring example of an
+act which is too remote,
+
+an act which breaks the chain of
+
+causation. That's the idea.
+
+Interesting that you
+should use the language of
+
+remoteness because you
+can see remoteness,
+
+type of damage being reasonably
+foreseeable bleeds into
+
+whether or not what
+
+the claimant or third party
+
+did was a new intervening act.
+
+I probably think
+of them just for
+
+your own sanity as
+separate tests and
+
+remoteness is decided
+by whether or
+
+not the type of damage was
+reasonably foreseeable,
+
+whereas whether or not an
+intervening act breaks
+
+the chain of causation is
+
+decided by whether or
+not it is deliberate,
+
+informed, voluntary,
+and unreasonable.
+
+Knightley and Johns,
+another good example here.
+
+The facts of this case are
+actually very complicated.
+
+If you try and read it or read
+about it in the textbook,
+
+you'll see that it's a
+bit more complicated
+
+than I have represented here.
+
+I've given you a slightly
+simplified version,
+
+but that doesn't
+really matter because
+
+the simplified version
+illustrates the same exact point.
+
+Defendant 1 is a driver
+
+who caused an
+accident in a tunnel.
+
+D2 is a police chief
+
+who ordered the
+claimant to drive back
+
+through the tunnel against
+
+traffic to seal it
+off at the other end.
+
+D3, another driver hit
+and injured the claimant.
+
+All of these defendants
+were negligent.
+
+There was no
+question about that.
+
+They all had duties of care
+
+and they all breached
+their duties of care,
+
+and that breach was
+
+the factual cause of
+
+the claimant's injury
+in each instance.
+
+No question about that.
+
+We've got duty,
+we've got breach,
+
+we've got factual
+causation in D1,
+
+D2 and D3 case.
+
+Who's legally responsible?
+That's the question.
+
+D1, of course,
+
+is responsible for
+the initial accident.
+
+No doubt about that,
+
+obviously but who's responsible
+
+for the claimant's injury?
+
+Is it D1 who caused the
+accident in the first place?
+
+Was the police chief's response
+
+of ordering the claimant
+
+to drive back
+through the tunnel,
+
+just something he
+did in an emergency,
+
+something which
+maybe was negligent,
+
+which is understandable,
+
+which is not wholly
+unreasonable.
+
+Acting in an emergency,
+
+people do do strange things.
+
+Was it D3's fault who hit
+and injured the claimant?
+
+Well, the answer is
+it was D2's fault.
+
+What D2 did was not
+
+ordinary negligence
+but gross negligence.
+
+Now, you might think this is
+
+just one more case illustrating
+
+the general point we've been
+getting at the whole time.
+
+But I want to put one more
+emphasis on this case,
+
+which is that what counts
+as deliberate, informed,
+
+voluntary and
+unreasonable conducts is
+
+dependent on the context
+and the circumstances.
+
+In an emergency,
+
+you're going to need to
+be grossly negligent
+
+or a claimant or a third
+party is going to need to
+
+be grossly negligent in
+
+order for their conduct to
+break the chain of causation,
+
+so the law always
+allows for context.
+
+In breach of duty,
+
+I described to you how
+in my climbing scenario,
+
+me knocking the rock down,
+
+the law allows for
+the context of
+
+that game the game of
+alpinism I was playing.
+
+It allows for context in
+the horse riding scenario.
+
+In another case in
+breach of duty,
+
+Watt in Hertfordshire
+County Council.
+
+That's the one about
+the lifting jack
+
+on a truck and they don't
+secure it properly,
+
+and then the guy gets
+hurt but they're off
+
+to fight a fire.
+It's an emergency.
+
+They're doing it
+for a good reason,
+
+so there's no breach of duty.
+
+The law allows for
+context there.
+
+Here, the law allows
+for context too.
+
+It's an emergency and
+so many things would
+
+be allowable in emergencies
+
+which would not in
+other contexts,
+
+many things in emergencies
+would not break the chain of
+
+causation because people do
+act weirdly in emergencies.
+
+Here, he acted so
+grossly negligently,
+
+D2, the police chief,
+
+that it did break the
+chain of causation still.
+
+Despite the emergency context,
+
+the D2's act broke the
+chain of causation.
+
+It was D2 who was
+liable, not D1,
+
+not D3. Thank you very much.
+

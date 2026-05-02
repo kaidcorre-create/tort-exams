@@ -1,0 +1,2407 @@
+MALE_1: Thus far in the
+course, we've covered duty,
+
+breach, factual causation
+and legal causation.
+
+All of those four are the
+basic elements of negligence.
+
+We've now done the most
+basic bit of negligence and
+
+you'll need all of
+those four bits for
+
+any negligence problem
+question necessarily.
+
+You will always need to
+check each of those off,
+
+make sure you've got
+them for liability.
+
+This week, the following
+week and the week after,
+
+we'll be doing what's called
+special duty problems.
+
+These are cases where duty
+of care is more complicated.
+
+I'll say a bit more
+about what that means
+
+in a moment but before that,
+
+I want to say
+something practical
+
+pragmatic about the exam.
+
+This week is the
+first week we've
+
+done where it's not a topic
+
+that is going to be examined in
+
+the written take home exam.
+
+It will be examined in
+
+the multiple choice
+questions but it will
+
+not be examined in
+the longer exam,
+
+which makes up 70%
+of your grade.
+
+It's important to clarify a
+few things about what I mean.
+
+If you go to the
+workshops section
+
+on the Moodle, you'll see there,
+
+I explain that the
+exam that 70% of
+
+your grade will focus on the
+topics in the workshops.
+
+What do I mean by that?
+
+What I mean is not that
+we're going to ask you
+
+the same questions we asked
+
+in the workshops or
+anything like that.
+
+What I mean is that when we
+set the problem questions,
+
+I'm not going to set
+a problem question
+
+that is all about
+pure economic loss.
+
+We do have a workshop though
+on psychiatric injury.
+
+We do have a workshop on breach.
+
+Problem questions may
+be focused on breach
+
+or psychiatric injury or
+
+whatever else the
+workshops are about.
+
+They will not be focused solely,
+
+wholly on the topics that
+you don't have workshops on.
+
+That's what I mean. I don't
+mean anything more than that.
+
+There's no deep hint here,
+
+don't take from that that you
+
+only have to read
+the stuff that's on
+
+the workshop sheets
+or that you only
+
+have to revise the materials
+from the workshops.
+
+What you've learned in
+the workshops themselves,
+
+it's meant to give you
+
+a bit of a way to
+guide your revision,
+
+to slightly narrow what you
+have to learn in more detail.
+
+I know I said
+
+last year did badly and I'm
+
+trying to make it easier for
+you guys than last year.
+
+That's not really
+what's going on.
+
+What's really going on is I'm
+
+trying to allow you
+to go deeper on
+
+some slightly narrower set of
+
+topics so that you can gain
+
+a heightened level
+of understanding.
+
+Hopefully, it's
+less tedious for me
+
+to mark loads of wrong
+answers and I can mark
+
+answers which go a
+bit more in detail
+
+and show some real understanding
+because obviously,
+
+as a whole is bloody
+
+massive and it's quite
+difficult to learn everything.
+
+I'm trying to help
+you narrow down
+
+your revision to certain
+topics, basically.
+
+That's the idea.
+Pure economic loss.
+
+Let's turn to this and think,
+
+what's the value in this then?
+
+One, pragmatic value.
+
+Obviously, it's going
+to be very important
+
+for the multiple
+choice questions.
+
+Two, separately,
+
+there is a doctrine which
+
+comes out of pure economic loss,
+
+the doctrine of assumption
+of responsibility.
+
+This is a key doctrine
+in tort law as a whole.
+
+You really can't understand
+tort law unless you
+
+understand roughly
+what's going on
+
+with the doctrine of
+assumption of responsibility.
+
+It crops up in Week one.
+
+We've already talked about
+the doctrine of assumption of
+
+responsibility in relation
+to the case of ABC.
+
+You definitely do need to know
+
+about the broad outlines
+of this doctrine.
+
+Again, I'm not going to be
+setting an exam question,
+
+which is solely focused on
+
+pure economic loss and
+the details of that.
+
+That doesn't mean
+you don't need to
+
+have a general working knowledge
+
+of assumption of responsibility
+even in the exam.
+
+That's what I mean by focused
+on the workshop topics.
+
+I hope that clarifies
+things a little bit.
+
+Pure economic loss.
+
+Sorry. Before I get
+
+into the details of
+pure economic loss,
+
+let's briefly talk about
+special duty problems
+
+and clarify what that means.
+
+Remember, back to Week one,
+
+there is always a duty of care,
+
+a simple established
+category of duty of
+
+care from the case of
+
+Robinson v Chief Constable
+of West Yorkshire.
+
+Where you have three things,
+
+an act which reasonably
+
+foreseeably causes
+
+either physical injury
+or property damage.
+
+Whenever you
+encounter a question,
+
+whether you have any doubt as to
+
+whether or not DoC,
+a duty of care.
+
+In fact, any negligence
+question whatsoever,
+
+you should always ask yourself,
+
+is what D did an
+act or an omission?
+
+Question one, question two,
+
+was damage to the claimant
+reasonably foreseeable?
+
+Then question three, what
+was the type of damage?
+
+Was it physical injury or
+property damage or not?
+
+Here's one of the more
+complicated cases,
+
+pure economic loss.
+
+That's a different kind of
+
+damage and duty
+of care is not so
+
+straightforward where the type
+
+of damage is pure economic loss.
+
+Some of that's restated
+here, of course.
+
+Basically, the rule
+here is that defendants
+
+do not owe claimants duties
+
+of care in relation to
+pure economic loss.
+
+I do not owe you a duty
+
+to avoid causing
+pure economic loss.
+
+Unless I have assumed
+responsibility to you.
+
+What is assumption
+of responsibility?
+
+Obviously, we will be dealing
+with details of that over
+
+the course of today
+and the course of
+
+tomorrow very broadly.
+
+It's quasi contractual where
+
+I know a lot more than
+you about something and I
+
+give you some
+advice or I provide
+
+a service to you and
+we don't quite have
+
+a contract but it's
+quasi contractual and it
+
+seems like I've promised
+to give you good advice.
+
+Something like that, that's
+
+a general notion
+we're dealing with.
+
+I assume responsibility to
+
+you for your loss, essentially.
+
+Before we get on
+to justifications,
+
+I'll say this again
+in a moment but
+
+what is pure economic loss?
+
+That really needs
+to be understood.
+
+Let's say you're
+in a car accident
+
+and it takes your leg off.
+
+Your legs gone, the
+classic tort scenario.
+
+This obviously causes pain,
+
+suffering, loss of immunity,
+
+you get damages for that.
+
+You'll learn about
+that in damages.
+
+Something you'll also
+learn about in damages is
+
+if you can't go to
+work or you have to
+
+change job and get paid
+
+less because you
+haven't got a leg,
+
+you will get damages
+for that economic loss.
+
+That's not pure economic loss.
+
+That is economic loss that
+
+is consequent upon
+physical injury.
+
+Or indeed, of course,
+
+if your property gets damaged,
+in one of the workshops,
+
+there's an example of,
+
+I can't remember which
+sopranos character it
+
+was in the workshop
+who dropped her phone.
+
+Oh, it was meadow. That was it.
+
+She drops her phone,
+the phone gets damaged.
+
+Obviously, she's going
+to get the money
+
+back for that phone.
+
+In some sense, there's
+
+economic loss at stake
+there but it's not
+
+pure economic loss
+because it's a piece
+
+of her property
+that got damaged.
+
+There is absolutely
+no problem with
+
+recovery of money when
+
+the money is consequent
+
+or the loss of
+money is consequent
+
+upon physical injury
+or property damage.
+
+The only problem is where
+it is pure economic loss,
+
+economic loss on its own,
+
+not consequent upon physical
+injury or property damage.
+
+Before we get into
+the details of
+
+assumption of
+responsibility and what
+
+counts as pure economic
+loss and what doesn't,
+
+I want to reflect broadly
+on why we might want to
+
+exclude generally liability
+for pure economic loss.
+
+First of all, we seem
+to care about it less
+
+than our body or property.
+
+Physical injury or
+property damage or
+
+higher in the hierarchy
+of human interests.
+
+Second, floodgates.
+
+Once you're dealing
+with economic loss,
+
+there's not a
+natural limitation.
+
+It's liable to create
+
+this nice quote
+from, that's a typo,
+
+that's meant to be Cardozo CJ,
+
+in Ultramares an American case,
+
+it would create liability
+in an indeterminate amount
+
+for an indeterminate time
+to an indeterminate class.
+
+Then also liability would often
+
+be disproportionate
+to the wrong,
+
+so often some tiny
+piece of negligence
+
+might cause massive
+economic loss to someone.
+
+Then crucially,
+it's important to
+
+protect freedom of
+economic activity.
+
+What does that mean? This goes
+
+back to something I've
+been saying again.
+
+If I set up a shop
+next to yours,
+
+my shop is better than yours.
+
+Your shop goes out of business.
+
+I have done an act
+which reasonably
+
+foreseeably creates
+economic loss for you.
+
+No question about
+that but obviously,
+
+we don't want me
+to be liable and
+
+negligence to you for
+that because that would
+
+stifle freedom of economic
+activity, free business.
+
+We do live in a capitalist
+society, of course.
+
+Then finally, it's a
+matter of simplicity,
+
+certainty and predictability,
+
+which is often the case
+with rules like this.
+
+Those are the broad
+justifications
+
+for the exclusionary
+rule as a whole.
+
+Worth pausing on this again
+
+because people very
+often get this wrong.
+
+Always look at the
+type of damage.
+
+Lord Bridge said this in Caparo.
+
+Remember, Caparo bad,
+Robinson good in general,
+
+doesn't mean some quotes
+from Caparo aren't
+
+useful and Lord Bridge
+
+here makes clear that
+
+the type of damage
+is really important.
+
+Do not overlook this.
+
+If you look at the past papers,
+
+which I've now put
+on the Moodle,
+
+by the way at the bottom,
+there's a section now.
+
+I introduced past papers.
+
+We can see last year's
+past papers, resets,
+
+previous year's pass papers and
+
+resets because I noticed
+they weren't being
+
+uploaded properly by
+the university to
+
+the central pass paper
+system, so they go.
+
+There's all past papers for
+
+the last two years at the
+bottom of the Moodle.
+
+You'll notice one of the
+questions there, again,
+
+this question I've been
+talking about a lot,
+
+my negligence question
+last year in the exam.
+
+There was a scenario at the end,
+
+which was all about a
+therapist or a doctor and
+
+a patient and a
+therapist causing
+
+psychiatric injury
+to the patient.
+
+The vast majority of
+people assumed without
+
+thinking that a duty of care was
+
+owed in relation to that
+psychiatric injury.
+
+We'll be covering
+psychiatric injury
+
+in much more detail next week,
+
+so I'll teach you about
+the details of it
+
+then but the thing people were
+
+failing to do is to tick
+off those three boxes.
+
+What the defendant did
+an act or omission?
+
+Two, was the type of
+
+damage reasonably
+foreseeable and three,
+
+crucially, that's what
+this quote deals with.
+
+What was the type of damage?
+
+If it is not physical injury or
+
+property damage but
+psychiatric injury
+
+or pure economic loss,
+you've got an issue.
+
+You're going to have to
+go through a completely
+
+different and much
+tougher set of tests.
+
+You're going to
+have to turn to a
+
+different bit of
+case law entirely.
+
+You cannot assume duty
+of care in a simple way.
+
+You can't use Robinson as you
+
+would for acts which
+
+reasonably foreseeably cause
+
+physical injury or
+property damage.
+
+That's a more general point
+
+about the next few
+weeks: this week,
+
+the following week
+and the week after.
+
+Let's get into the details
+of pure economic loss
+
+itself and this doctrine of
+assumption of responsibility.
+
+What counts as pure
+economic loss?
+
+What is pure? Spartan
+Steel v Martin
+
+illustrates the point nicely.
+
+It's about power
+lines, essentially.
+
+The negligently damaged
+power cable owned by T,
+
+a third party that
+
+was critical to the
+claimant's factory.
+
+Leaving the claimant
+without power for 14 hours
+
+and this case usefully
+distinguishes
+
+between three different
+kinds of damage.
+
+First, there was
+damage to a steel in
+
+the furnace in this factory
+
+at the time of the power cup
+
+and that had to be poured away.
+
+Second, there was the loss of
+
+profit from the
+sale of that steel,
+
+the steel that was in
+
+the furnace at the
+time of the power cup.
+
+Then third, there was loss
+of profit from all the steel
+
+that could
+theoretically have been
+
+made in the remaining 14 hours.
+
+What is D liable for?
+
+Basically, D was liable
+
+for one and two,
+but not for three.
+
+One was clear
+damage to property.
+
+That steel in the furnace at
+
+the time of the power cut,
+that had to be poured away.
+
+That's just property and
+you've lost that property.
+
+Two, you've not just
+lost that property.
+
+Obviously, there's
+the cost price of
+
+literally the raw
+materials in the furnace.
+
+They've got to pay
+for that, of course,
+
+but they would have
+made money off
+
+selling that steel as well.
+
+That is economic loss
+consequent on property damage.
+
+That's just like
+me losing a leg.
+
+Well, actually, me losing a
+leg wouldn't affect my work,
+
+so it's not a good
+example, but, you know,
+
+if you're a
+professional footballer
+
+and you lose your leg,
+
+obviously, you're
+going to make a lot
+
+less money as a result,
+
+probably, unless
+you happen to be
+
+a professional footballer
+who has skills,
+
+which mean that you can go in
+
+some equally high paying
+job outside of football.
+
+That's not very likely, I think,
+
+for most professional
+footballers,
+
+not to malign the intelligence
+
+of most professional
+footballers.
+
+But you get the point.
+
+This is no different from that.
+
+This is economic loss,
+consequent on property damage.
+
+Simple, easy recovery.
+
+Again, you will learn
+more about that in
+
+the last few weeks of next term.
+
+I would really pay attention in
+
+those last few weeks of next
+term because damages and
+
+remedies are going
+to come into pretty
+
+much every single
+question you do.
+
+We'll deal with it at the end,
+
+but that doesn't mean
+it's not important.
+
+This will make more sense.
+
+How you quantify
+
+economic loss consequent
+on property damage or
+
+physical injury will make
+
+more sense at the
+end of next term.
+
+But then Class 3 was
+
+the profit which
+could have been made.
+
+That was pure economic loss.
+
+The point is that there
+was no assumption
+
+of responsibility here.
+
+There's some nice reasoning
+from Lord Justice Selling,
+
+who's always got
+good judgements.
+
+Most people don't
+run around seeking
+
+compensation when such things
+
+like the electricity
+going off happens.
+
+They just put up with it.
+
+They try to make
+the economic loss
+
+up the economic loss by doing
+more work the next day.
+
+That's the healthy attitude that
+
+the law should encourage.
+
+Then we've got this
+concern about floodgates.
+
+There would be no end of claims.
+
+You can't really be making
+power stations liable to
+
+every single person
+whose business
+
+might possibly be affected in
+
+some minuscule way by
+power being cut off.
+
+Otherwise, you would
+create massive classes of
+
+liability potentially
+for huge amounts.
+
+The idea is here,
+
+this is a burden that should be
+
+suffered by the whole community,
+
+not by the contractor
+on their own.
+
+That's part of the logic.
+
+That's a easy case,
+
+which allows you
+to distinguish in
+
+normal circumstances
+between property damage,
+
+economic loss consequent upon
+
+property damage and
+pure economic loss.
+
+Here in Murphy and Brentwood,
+
+it is applied to a
+slightly trickier case.
+
+The facts are simple, really.
+
+The defendant approved building
+
+plans for a house purchased by
+
+the claimant and
+the foundations of
+
+the house cracked causing
+
+damage to the walls and
+pipes of the house.
+
+It was held the
+defendant was not
+
+liable because that was
+pure economic loss.
+
+This is a key point
+that might seem simple,
+
+but there's a slightly
+complex point
+
+lurking under the surface here.
+
+If I sell you a defective item,
+
+you cannot come
+after me and tort.
+
+You can only come after me for
+
+the cost of the defective
+item in contract.
+
+You can get a refund
+basically for
+
+me having sold you a dud.
+
+That's just not the
+domain of tort.
+
+That is the domain of contract.
+
+If I build you a house
+
+and a house goes
+wrong in some way,
+
+in the same way, you have to
+come after me in contract.
+
+If you don't have a
+contract with me for
+
+some reason, you're screwed.
+
+Or you have to go and find
+
+whoever you have a contract
+
+with the sue them and then
+they have to sue me, etc.
+
+It all has to be done
+through contract.
+
+Now, there is
+
+a subtle and
+important distinction
+
+here and Murphy was actually
+much more complicated,
+
+because there is
+another scenario
+
+where people would be liable.
+
+If you buy a defective
+item from me,
+
+and then that defective
+
+item damages some other
+item that you own,
+
+then I have caused
+you property damage.
+
+You can't sue me for
+
+the cost of the defective
+item I sold you,
+
+but you can sue me for
+the other defective item.
+
+Sorry, I misspoke.
+
+For the other item,
+
+the defective item
+I sold you damaged.
+
+There was a debate about
+whether the foundations of
+
+the house were one
+item and the walls
+
+and pipes of the house
+were another item or
+
+whether this was all
+one defective item.
+
+It was held that it was
+a later in this case.
+
+I'm going to try and help you
+understand this distinction
+
+through some car scenarios
+which I find useful.
+
+They lead to what
+might be thought to be
+
+irrational results
+or results which
+
+don't have any clear logic
+behind them morally speaking.
+
+But this seems to be the
+state of the law to me.
+
+So car scenario one,
+
+claimant buys a car from
+
+the defendant with
+a faulty wheel.
+
+The faulty wheel causes
+
+the claimant to crash
+and break his leg,
+
+Claimant's self
+employed, can't work.
+
+This is simple. This is
+consequent economic loss.
+
+Claimant can recover, not
+
+pure economic loss, consequent
+upon personal injury.
+
+Hope we've dealt with
+that. Simple case.
+
+Car scenario Number 2,
+
+the claimant buys a car
+from D with a faulty wheel.
+
+The faulty wheel damages
+
+the drive train and
+the engine of the car.
+
+It's the same as
+Murphy and Brentwood,
+
+no liability for D in
+tort, only in contract.
+
+You can go and claim
+for the cost of
+
+the faulty wheel and
+the drive train and
+
+the engine against
+D in contract law,
+
+nothing in tort because
+it's pure economic loss.
+
+You might say, but my
+property has been damaged.
+
+But when you bought
+it as one thing,
+
+you've bought an item of
+property which was defective.
+
+Your property was never really
+
+damaged because you just bought
+
+damaged property in
+the first place.
+
+That's the idea we're working
+
+with here because you bought it
+
+from one person and it is
+pure economic loss therefore.
+
+However, the
+situation is weirdly
+
+different if you buy a
+car from one person,
+
+and then you purchase
+a new wheel from
+
+another person and
+that wheels faulty.
+
+Then that wheel
+damages the property
+
+you already had, the car,
+
+then you can go after D and say,
+
+I want money for the damage that
+
+your faulty item
+caused to my property.
+
+You can't go after them for
+
+the cost of the
+faulty item itself.
+
+Let's say there's a
+very expensive wheel,
+
+it's bloody Ferrari,
+so it probably will
+
+be 50 grand for a
+wheel or whatever.
+
+You've got to go after D in
+
+contract to get the
+cost of the wheel back.
+
+But because the wheel
+which D has sold you has
+
+damaged the rest of your
+preexisting property,
+
+you can go after them in tort to
+
+recover damage for
+your damaged property.
+
+There's a weird difference
+
+between buying property
+from one person,
+
+and if you bought it
+from one person only,
+
+your remedy is only in contract,
+
+whereas if you bought
+two different bits of
+
+property and one
+damages the other,
+
+you can sue the
+manufacturer of the one
+
+in tort for the damage
+to the other property.
+
+Doesn't make
+terribly much sense,
+
+but it is what it is.
+
+With those quite subtle
+and tricky distinctions
+
+about what counts as pure
+economic loss in mind,
+
+we now move on to this doctrine
+
+of assumption of responsibility.
+
+Very broadly, why is this
+doctrine so fundamental?
+
+Scholars in this area
+say the assumption of
+
+responsibility is not
+really tort law at all.
+
+It is thought to be an entire
+body of law unto itself.
+
+It sits somewhere between
+contract law and tort law.
+
+It is very, very
+important indeed.
+
+It is probably the
+biggest single doctrine
+
+hanging around in tort law,
+
+single little self
+contained doctrine.
+
+It started out in a case to do
+
+with negligent financial
+advice, basically.
+
+But it has since expanded
+massively beyond there.
+
+I mean, not next week,
+but the week after,
+
+we'll learn about cases to do
+with local authorities and
+
+local authorities
+assuming responsibility
+
+towards children they take
+into their care, for example.
+
+So assumptions of responsibility
+
+might happen all over the place,
+
+even though the doctrine
+had humble origins.
+
+And so, yes, I teach
+you about it in
+
+the context of pure
+economic loss.
+
+But it has a much
+broader application.
+
+If you cast your
+mind back to Week 1,
+
+we saw that assumption
+of responsibility was
+
+relevant to the case of ABC
+in St. George's healthcare.
+
+That's the one about the
+therapist, having two clients,
+
+both of whom were
+in family therapy
+
+together and the communication
+
+of Huntington's disease the dad
+
+had and whether or not the
+therapist should disclose
+
+the existence of
+
+the father's Huntington's
+disease to the daughter.
+
+One of the ways in which counsel
+
+in that case tried to argue
+
+that the therapist had a duty to
+
+disclose was on the basis of
+
+an assumption of responsibility
+to the daughter.
+
+Now, as a matter of fact,
+it failed on the facts,
+
+but as in that didn't work,
+
+there was no assumption
+of responsibility.
+
+But I'm just making
+
+this point to show you how
+broad the doctrine is,
+
+how relevant it is
+to a bunch of cases,
+
+and how important
+it is outside of
+
+its humble origins in
+pure economic loss.
+
+This week, yes, it's
+called pure economic loss,
+
+but assumption of responsibility
+
+should be your key focus here.
+
+What the hell is this doctrine?
+
+What is this doctrine? Now,
+
+do not take what is on the
+slide at the moment as
+
+a definitive test for
+assumption of responsibility.
+
+It is an amorphous doctrine
+
+that is quite difficult
+to understand.
+
+It has lots of different
+slightly varying tests
+
+depending on the specific domain
+
+in which it is being applied.
+
+But at a very broad
+level, normally,
+
+you need to show that
+there's a relationship of
+
+trust and confidence
+between the defendant.
+
+Normally that means some
+inequality of arms, if you like,
+
+or intellectual arms in
+the sense that normally,
+
+D knows a lot more than
+C about the topic.
+
+D's an expert,
+
+C's a lay person.
+
+Then D voluntarily assumes
+
+responsibility for the
+risk to the claimant.
+
+Then in negligent
+misstatement cases,
+
+C reasonably relied on D's
+advice or information.
+
+Now, we'll get into
+that more in a moment.
+
+But briefly, assumption
+of responsibility
+
+arises in two kinds of cases,
+
+negligent misstatement cases
+where D makes a statement to
+
+C on which C
+
+relies to normally make
+some financial decision.
+
+That's a negligent
+misstatement case.
+
+Then you've got provision of
+
+services cases like
+a local authority
+
+taking someone into their care,
+
+for example, a child.
+
+That's a provision
+of service case.
+
+In those provision
+of services cases,
+
+you don't need
+reasonable reliance.
+
+We're getting into the
+weeds straightaway here.
+
+But what I'm immediately
+trying to show is that this is
+
+a general summary of
+
+the general features of
+assumption of responsibility.
+
+It should not be taken
+as a final test.
+
+What is assumption
+of responsibility
+
+and how do we get into it?
+
+How did it get created?
+
+In 1964, the House
+of Lords declared
+
+themselves masters of the law
+
+and invented a new
+doctrine out of thin air.
+
+No doctrine like this
+had ever existed before.
+
+But, the 1960s was
+a crazy time, man.
+
+Everyone was on LSD.
+
+Hippies abound, etc and
+
+the House of Lords got in
+
+the mood and it was
+a time of expansion.
+
+This is before, if
+anyone remembers
+
+my slides from Week 2 Lecture 1,
+
+I had a picture of Gandalf from
+
+that old weird movie none
+
+of you know about
+because you're Gen Z.
+
+He's saying, you
+shall not pass, stop.
+
+Hedley Byrne was
+before that and it was
+
+this era of massive
+expansion of tort law.
+
+We had cases like
+Ann's and Merton,
+
+LBC and Junior Books and
+
+Vecchi where tort law was
+expanding and it was the era
+
+of principle after Donahue
+and Hedley Byrne was part of
+
+this wave of
+expansion and there's
+
+this massive new
+doctrine created.
+
+Which has been the foundation
+of a whole area of law.
+
+There are people who
+basically specialise
+
+just in assumption
+of responsibility.
+
+But the facts of Hedley Byrne
+are quite narrow, actually,
+
+the claimant wanted
+to know if the
+
+third party was credit worthy.
+
+The third party's bank
+negligently provided
+
+a reference saying that
+
+the third party
+was credit worthy.
+
+Defendant clarified
+the references were
+
+being given without
+responsibility.
+
+Third party went bankrupt and
+
+the claimant made a
+loss as a result.
+
+Basically, long and short of it
+
+is the defendant would have been
+
+liable had they not said that
+
+the references were being
+given without responsibility.
+
+People often forget this.
+
+Hedley Byrne is the creation
+of an entire doctrine,
+
+but as it so happened,
+
+the doctrine didn't
+apply in Hedley Byrne.
+
+Because there was a caveat,
+
+there was a qualification.
+
+D said the references are
+given without responsibility.
+
+There was no liability.
+
+But the whole
+doctrine was created.
+
+The owed C a duty of
+care in relation to
+
+the pure economic loss
+
+because they assumed
+responsibility.
+
+I've tried to draw
+out the key elements
+
+from this passage of
+Lord Reid, again,
+
+not the current Lord Reid
+but the older one R. E. I.
+
+D. The point is the defendant
+had a bunch of options.
+
+He could keep silent.
+
+He could answer with
+
+a clear qualification that he
+accepts no responsibility.
+
+That's what he did do
+
+or he could answer without
+any qualification.
+
+If you do that, if you give
+someone financial advice,
+
+knowing that you know
+way better than them,
+
+and they've come to you for
+
+that advice and it's a
+professional setting.
+
+You don't say without
+responsibility,
+
+well, you should be liable.
+
+You've basically promised them
+
+that you know what
+you're talking
+
+about. That's the idea.
+
+Quick note on Lord Devlin.
+
+He's a really gruesome bloke.
+
+There was a news article
+I saw last year by
+
+his daughter who he
+
+had sexually assaulted,
+it turned out.
+
+Also, he was on the wrong side
+
+of the debate about the
+legalisation of homosexuality.
+
+There's a famous debate called
+
+the Devlin Hart
+debate where HA Hart,
+
+the great legal philosopher
+and utilitarian,
+
+argued in favour of
+legalising homosexuality,
+
+and Lord Devlin
+argued against it.
+
+An all round really shit guy but
+
+here in tort law are
+firmly in the camp that
+
+the artist must be
+separated from their art,
+
+and Lord Devlin's
+quote here is quite
+
+useful despite him being
+a really ship Blok,
+
+I'm using it because
+it's quite helpful
+
+to understand what's going on.
+
+The idea he put forward is
+that we've got a relationship
+
+which is nearly
+equivalent to contract.
+
+It's an assumption of
+responsibility and circumstances,
+
+but for the absence
+of consideration.
+
+You probably know more about
+consideration than I do.
+
+I've not done
+contract in 10 years.
+
+You did it last year,
+I hope, and indeed,
+
+you learned it from the great
+Professor Dave Campbell
+
+of all people.
+
+But for the absence
+of consideration,
+
+there would be a contract.
+
+That's the thing we're
+
+dealing with in assumption
+of responsibility.
+
+Then this doctrine gets
+
+extended and extended,
+and extended.
+
+This is my favourite
+painting in the world.
+
+I actually got the chance
+to see it recently.
+
+I bought some socks with
+this painting on and
+
+this morning I looked in my
+sock drawer and saw them,
+
+and I thought, shall
+I wear those today?
+
+I thought, no, I shouldn't.
+
+Then on the way to work,
+
+I realised that I
+was going to be
+
+showing you this painting,
+
+and I wish I'd worn the socks
+
+because I could say I
+was wearing the socks.
+
+There you go, that's hunters in
+
+the snow by the Great Brugal.
+
+This has nothing to
+do with Hedley Byrne.
+
+I just love this painting.
+
+The extensions of Hedley Byrne.
+
+First off, it gets extended,
+
+so it's not just between
+
+the defendant and the person
+to whom they gave advice,
+
+but the defendant can
+assume responsibility in
+
+some circumstances
+to third parties.
+
+But only in particular
+circumstances
+
+like Smith and Eric Bush.
+
+Here, the claimants were the
+purchasers of properties,
+
+they paid their mortgagees
+
+for valuation of the properties,
+
+the mortgagees valuers
+
+negligently overvalued
+the properties.
+
+Claimants didn't get
+their own further survey,
+
+suffered a loss when
+
+the valuations turn
+out to be negligent,
+
+and D and C have no
+relationship themselves.
+
+However, we have something
+very close to contract here,
+
+even though they don't
+actually have a relationship.
+
+Because, as Lord Templeman said,
+
+it's akin to contract.
+
+The valuant knew that the
+consideration which he
+
+received originally came
+from the claimants,
+
+just passing through
+an intermediary.
+
+The value also knew
+that the valuation
+
+would determine whether or
+
+not the claimant
+bought the house.
+
+You've got no contract,
+
+but it would obviously be unjust
+
+not to allow the claimant
+to see the defendant here.
+
+Given that the defendant
+was the expert,
+
+they provided a valuation
+professionally, and ultimately,
+
+it was the claimant's
+money that was given to
+
+them and they knew
+
+that and they knew it
+was for the claimant.
+
+Imposition of a duty
+
+through the rules of
+assumption of responsibility.
+
+Have four critical facts,
+
+the report be shown to the
+claimant, they knew that.
+
+They knew that the valuation
+would be relied on.
+
+They knew that if it was wrong,
+
+the claimant would suffer loss,
+
+and they knew that
+the claimant had
+
+given them the
+money, essentially.
+
+The money originated
+from the claimant.
+
+Then you get a much
+bigger extension.
+
+I think this is a
+very minor extension,
+
+third parties, sure,
+
+but only under these very
+specific circumstances
+
+where it's very
+close to contract.
+
+Then you get a much
+bigger extension.
+
+You get an extension to
+the provision of services.
+
+This is huge because
+
+negligent misstatement
+basically arises in
+
+financial services cases where
+
+D provides financial advice to
+
+C. But provision of
+services is massive.
+
+This means doctors owe all
+sorts of special duties.
+
+They might not have
+owed outside of that.
+
+This means I might assume
+
+responsibility for
+certain pieces of advice.
+
+Anyone who's providing
+any service could in
+
+the right circumstances be
+
+taken to have assumed
+responsibility.
+
+This pushes the doctrine.
+
+There is a doctrine of
+general application.
+
+It's not just about particular
+financial services cases,
+
+but applies to loads of
+different possible options.
+
+Here it was
+professional services
+
+rendered by a solicitor
+to his client.
+
+Then Henderson and
+Merritt sums this up.
+
+Don't try and read
+Henderson and Merritt.
+
+It's one of the most painful
+cases to read in the world.
+
+The facts are so complicated.
+
+Basically, very simply, the
+claimant invested some money,
+
+lost it all as a result of
+
+these alleged
+negligence in managing
+
+their affairs and [inaudible]
+
+a duty of care on the basis
+
+of that assumption
+of responsibility.
+
+Interestingly, not only does
+
+the doctrine get extended
+to provision of services,
+
+but the requirement for
+reliance gets removed.
+
+That shouldn't be a question
+mark anymore because
+
+a recent case last year,
+
+and I've forgotten
+to update this slide
+
+has actually settled.
+
+It's called HXA and
+
+you'll learn about it
+in a couple of weeks,
+
+but it is settled that
+subjective reliance is
+
+definitely not necessary in
+provision of services cases.
+
+Where the claimant
+entrusts the defendant
+
+with conduct of affairs,
+
+the defendant may be
+held to have assumed
+
+responsibility and the claimant
+
+to have relied on the defendant
+
+in respect of such conduct.
+
+This isn't about actual
+subjective reliance.
+
+The point is that
+the claimant does
+
+not need to actually rely
+
+on the defendant's provision
+
+of service or negligent
+provision of service.
+
+It's just a matter of imposing
+
+reliance as a matter of law.
+
+It doesn't matter whether they
+
+actually think that
+they're relying on it.
+
+Reliance is objectively imposed.
+
+Where C entrusts
+the Defendant with
+
+the conduct of his affairs in
+general and in particular,
+
+he may be held to have
+relied on the defendant to
+
+exercise due skill and
+care in such conduct.
+
+But this idea entrusting
+the defendant with
+
+the conduct of his
+affairs is now massive.
+
+As I say, you get it in
+
+these local authority
+cases as well.
+
+Then finally, before we finish,
+
+we deal with a rather niche and
+
+interesting special
+extension of this doctrine.
+
+This is a case which I
+mentioned on Friday,
+
+I think, it's a little bit
+like Chester and Afshar.
+
+Chester and Afshar was
+
+that weird case
+about coincidences,
+
+where you get an injustice
+which the law lords want to
+
+remedy because it seems
+
+like someone's been hurt and
+someone else has done wrong.
+
+Even though it's outside
+of the bounds of
+
+the normal principles of
+causation there and here,
+
+assumption of responsibility,
+
+you still get a duty of care,
+
+and that's what
+White Jones is like.
+
+But it's a rather
+interesting case.
+
+It's also important for you
+
+as many of you
+future solicitors.
+
+Because like Chester and Afshar,
+
+focused on the responsibility
+of doctors to give
+
+proper advice to their patients
+
+and inform their patients
+and the value of autonomy.
+
+Here, the judgement reflects
+
+not the boundaries of
+
+the doctrine of assumption
+of responsibility,
+
+which is really outside,
+
+but rather the law
+lords concern for
+
+the importance of solicitors
+and their role in society.
+
+D is instructed by A
+to put the claimants,
+
+his daughters in his will,
+
+the defendant
+solicitors that is.
+
+The defendant solicitors
+then negligently failed to
+
+include the claimants
+in the will and A died.
+
+The claimants, the daughters
+
+then discovered that
+the will hadn't
+
+been changed and they went
+after the solicitors,
+
+the defendants for
+money they would have
+
+had if the will
+had been changed.
+
+The problem is that there
+is no relationship at
+
+all whatsoever between the
+defendant and the claimant.
+
+The defendant never assumed
+
+any responsibility
+to the claimant.
+
+The claimant didn't
+rely on anything
+
+the defendant did or didn't do.
+
+In any event, the
+defendant's negligence
+
+was a mission, not an act.
+
+It's got all sorts of
+problems in White and Jones,
+
+which seems to
+suggest that there
+
+shouldn't be a duty of care.
+
+Yet, 3-2, just like Chester
+and Afshar last week,
+
+defendant's liable for
+the claimant's loss.
+
+Why? Because it's a
+really awkward claim
+
+in the sense that this
+quote from Lord Goff,
+
+if such a duty is
+not recognised,
+
+the only persons who might have
+
+a valid claim suffered no loss
+
+and the only person who has
+suffered a loss has no claim.
+
+Because it's the dead guy
+who's got the valid claim,
+
+but A, he's dead and B
+hasn't suffered any loss.
+
+The judgement here or
+the decision here is
+
+justified by the
+importance of legacies,
+
+by the importance of
+solicitors and their role in
+
+society and the fact that they
+
+were very obviously
+negligent and there's
+
+no floodgates issue
+here because it's
+
+such a narrow exception in
+
+such specific
+circumstances where it
+
+does seem so unjust not
+
+to furnish the claimants
+with a remedy.
+
+But it helps us to see what
+
+the boundaries of assumption
+of responsibility are
+
+in the sense that
+this is definitely
+
+no question outside of
+assumption of responsibility.
+
+This is not an assumption
+of responsibility case.
+
+This is a new separate
+special doctrine,
+
+the doctrine in White and Jones,
+
+because the essential ingredient
+
+of mutuality was missing.
+
+There was no relationship
+
+between the claimant
+and the defendant.
+
+There should not be liability on
+
+traditional assumption of
+responsibility principles.
+
+Thank you very much.
+

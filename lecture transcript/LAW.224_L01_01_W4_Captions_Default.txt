@@ -1,0 +1,2397 @@
+MALE_1: [BACKGROUND] Can you
+hear me right at the back?
+
+How's that? It needs
+to go up a bit.
+
+[BACKGROUND] Can you
+hear me at the back?
+
+Good. Good morning.
+
+Factual causation today.
+
+One of the things to say about
+factual causation is that
+
+it's incredibly
+painfully complicated.
+
+Is that too loud?
+No. It's all right.
+
+There's no echo or anything.
+
+It's incredibly,
+painfully complicated.
+
+If you feel like you
+aren't quite getting it,
+
+some of the more difficult bits,
+
+probably stop trying to get it.
+
+Just learn the rules.
+
+Why do I say this?
+
+Normally, I wouldn't
+advise people to do this.
+
+Normally, I'd advise people to
+
+bottom things out and try and
+
+understand stuff rather
+than just learning rules.
+
+That's not the case here because
+
+factual and the nature
+of it is something that
+
+all the great philosophers
+
+of the world have been grappling
+
+with for many hundreds of
+years since Aristotle,
+
+but Hume really kicked
+
+off complex discussions
+about causation.
+
+Now, the Supreme Court
+judges in general are smart,
+
+but they're not as smart as
+
+the greatest philosophers,
+by any means.
+
+They're pretty
+dumb in comparison
+
+to the greatest philosophers,
+
+and they also don't have
+
+that much time to
+decide judgements.
+
+A lot of this is
+incredibly confused.
+
+That's because causation is
+
+deeply confusing and
+very complicated.
+
+If you're feeling like
+there's some barrier,
+
+stop hitting your head against
+
+that barrier, stop
+trying to get it,
+
+just learn the rules and apply
+
+them, because most of the time,
+
+this is actually relatively
+simple in practise.
+
+Good. Recall, quickly,
+
+negligence has a series
+of sequential steps.
+
+When you're dealing with
+a problem question,
+
+you first establish whether
+or not there's damage.
+
+If there is damage, then you'll
+
+ask whether or not
+there's a duty of care.
+
+Only if there's a duty of care,
+
+do you go on to ask
+whether there's a breach.
+
+If there's a breach,
+then it needs to
+
+be the case that
+that breach caused
+
+the damage to this first section
+
+that we are dealing with today,
+
+whether or not the breach
+caused the damage,
+
+and then next week
+we'll be dealing
+
+with whether or not that
+damage is too remote,
+
+which is what legal
+causation is really about.
+
+The vast majority of
+
+cases will be determined
+
+on the basis of simple,
+but-for liability.
+
+The but-for test is the
+test you will apply.
+
+What is the but-for test?
+
+Well, it's illustrated
+in the classic case of
+
+Barnett and Chelsea &
+Kensington Hospital.
+
+The facts of that case
+are pretty simple.
+
+During the night,
+an emergency doctor
+
+sent patients away without
+examining or treating them.
+
+There was negligence,
+in other words.
+
+There was a duty. There
+was a breach of that duty.
+
+That's what we would call
+negligence, duty and breach.
+
+there was negligence,
+
+but there was no liability.
+
+The defendant was not liable for
+
+their negligence. Why not?
+
+Because the guy would
+have died anyway.
+
+Even if the doctor
+hadn't been negligent,
+
+the guy would have died anyway.
+
+This is another mistake people
+tend to make quite often.
+
+Very often, if there is
+negligence in a problem question,
+
+if someone has done
+something which looks bad,
+
+looks negligent, they'll jump
+
+to thinking there
+must be liability.
+
+There could be no liability
+because there could be
+
+no damage or there could be
+no duty in the first place,
+
+or indeed, there could
+be no factual causation.
+
+I hope that's not
+too complicated.
+
+The reason I've got
+the butterflies
+
+here is this idea of the
+butterfly flaps its wings
+
+in one place and changes
+the course of history
+
+because everything is a
+cause of everything else.
+
+But the fundamental question
+you're asking yourself is,
+
+if you're looking at
+the counterfactual.
+
+If the defendant hadn't
+done what was negligent,
+
+would the bad thing
+have occurred anyway?
+
+Would the damage have
+occurred anyway?
+
+If the answer to that is yes,
+
+then obviously
+there's no causation.
+
+The negligent act or
+
+the negligent thing did
+not cause the damage.
+
+Now we have a very slight
+complication on that rule.
+
+Robbins and Bexley,
+London Borough of Bexley.
+
+Robbins helps you to understand
+
+what is the counterfactual
+you're looking at.
+
+I said, if the defendant
+hadn't been negligent,
+
+what does it mean to say if
+
+the defendant hadn't
+been negligent?
+
+Because if the defendant
+hadn't been negligent,
+
+there's a million different
+things they might have done.
+
+Which one of those
+do you look at?
+
+Which one of those
+things they might have
+
+done is the relevant comparison?
+
+That's what this case is about.
+
+The question being asked,
+
+really, in Robbins is,
+
+is the relevant comparison
+
+what they actually
+would have done,
+
+or is it what
+
+they actually would have done,
+
+or in reality that is,
+
+or is it the minimal thing
+
+that they must have done in
+order not to be negligent?
+
+Now, that second one
+is a bit confusing.
+
+But what I mean there is
+
+the bare minimum
+non-negligent conduct.
+
+This reflects the
+reality, of course,
+
+that if people are
+not negligent,
+
+if there's two possible
+scenarios, one,
+
+someone doing something
+negligent, and two,
+
+someone doing something
+not negligent, normally,
+
+people actually tend
+to do more than
+
+the bare minimum of
+
+non-negligence if they're
+not being negligent anyway.
+
+The facts of this case
+illustrate this point.
+
+Here, the council negligently
+failed to top down trees,
+
+and then the trees fell
+
+and damaged the
+claimant's property.
+
+What would they have to
+have done in order not
+
+to breach their duty of
+
+care in order not
+to be negligent?
+
+That's last week.
+Remember, breach of duty.
+
+How do you determine what
+
+the reasonable council
+would have done here?
+
+Well, you'll look at
+the five factors.
+
+The probability of
+harm, gravity of harm,
+
+cost of precautions, utility
+of conduct and context.
+
+You'll ask, what should
+
+the reasonable council have
+
+done in relation to these trees?
+
+These are not
+actually the trees,
+
+but this is illustrative
+of the situation.
+
+What the reasonable
+council ought to have
+
+done is to chop down
+25% of the trees.
+
+If they'd done that, the damage
+
+would have still occurred.
+
+You might conclude, well, sure,
+
+they were negligent, but if
+they hadn't been negligent,
+
+the damage would
+have still occurred.
+
+Therefore, just like Barnett,
+
+no causation. That
+would be wrong.
+
+Because what the law
+says is what you've got
+
+to do is not compare
+
+the minimum
+non-negligent conduct
+
+with the negligent
+conduct that occurred.
+
+That's not the relevant
+counterfactual.
+
+The relevant counterfactual is
+
+what they would have
+done in reality.
+
+In reality, the evidence
+
+was that if they'd
+done any chopping,
+
+if they chopped down any
+of the trees at all,
+
+they would have actually
+chopped down a lot more than
+
+that for obvious reasons.
+
+Because if you go around
+chopping down 25% of the trees,
+
+each time you do the chopping,
+
+you're going to be cutting down
+
+the trees a lot more often.
+
+Just for practical reasons,
+
+nothing to do
+necessarily with safety,
+
+they would have
+chopped down 70%.
+
+As it happens, that would
+have prevented the damage.
+
+Now, they knew this because this
+
+was the normal practise
+of the council.
+
+When they went around
+chopping down the trees,
+
+they didn't just chop down 25%,
+
+they chopped down 70%.
+
+That would have
+prevented the damage,
+
+and that is the relevant
+counterfactual.
+
+The council was liable.
+
+The question for the court is
+
+not if the defendant had
+done what was required,
+
+not to be negligent, would
+the damage have occurred,
+
+or the minimum required not to
+
+be negligent. I probably
+should have written there.
+
+The minimum required
+not to be negligent.
+
+The question for the
+court is instead,
+
+if the defendant had done
+what they were likely to
+
+do if they had not been
+negligent in reality,
+
+then would the damage
+have occurred?
+
+Here, the damage would
+not have occurred,
+
+and therefore, factual
+causation was made out.
+
+The negligence did cause
+
+the damage in this
+case, it was said.
+
+This is quite a tricky rule.
+
+It's about what the
+relevant comparison is.
+
+Those cases are quite simple.
+
+But-for is really simple.
+
+That's the normal case.
+
+Robbins and Bexley is a
+slight complication on that,
+
+but quite often it doesn't
+
+arise because most
+of the time there is
+
+just one other possible thing
+
+that the defendant would have
+
+done if I'm driving
+along and I'm
+
+negligent because let's say
+I'm looking at my phone,
+
+or what's the counterfactual?
+
+I wasn't looking at my phone.
+
+There's only one
+possible counterfactual
+
+to the non-negligence.
+
+This scenario where there are
+
+different possible causes of
+
+action which are non-negligent,
+
+and which one of
+those is the ones you
+
+compare is actually
+quite a rare scenario.
+
+Most of the time, you
+don't have to worry about
+
+Robbins in reality,
+just sometimes.
+
+Most of the time, factual
+causation is very simple.
+
+You just apply the but-for
+test and that's it.
+
+There's no particular
+difficulty.
+
+Now we get into a series of
+
+incredibly complex,
+incredibly difficult cases,
+
+which is, in my view,
+
+by far the most
+complicated thing
+
+that you will learn all year.
+
+I have no shame in
+
+admitting I don't
+really understand it.
+
+I don't really understand
+what's going on here.
+
+I've spent many hours
+of my life trying
+
+to work out what exactly
+is going on here,
+
+and it is completely
+impenetrable.
+
+Some of it, I understand.
+
+I'll try and teach
+you what I do.
+
+I want to start out with
+
+two really quite
+abstract distinctions
+
+that may not make very
+much sense initially,
+
+but I want to try and get
+them clear, first of all,
+
+because I think they'll
+be helpful in the rest
+
+of the lecture trying to
+understand the cases.
+
+These distinctions are
+between contribution to
+
+injury and contribution
+to risk of injury first.
+
+We've got two doctrines,
+
+material contribution to injury
+and material contribution
+
+to the risk of injury,
+
+and they are very
+different things.
+
+What you've got to
+keep in mind is
+
+that the first doctrine,
+contribution to injury,
+
+it's about cases where it's
+possible to know whether or
+
+not the defendant's
+negligence was
+
+one of the causes of
+the claimant's injury.
+
+Contribution to risk of injury
+
+are cases where
+it's impossible to
+
+know whether the
+defendant's negligence
+
+was one of the causes of
+the claimant's injury.
+
+We'll come back to what
+that means more later.
+
+But what I want to do first
+is just to stress this point.
+
+These doctrines both have
+
+the words material
+contribution in them,
+
+and they're two
+different doctrines,
+
+but they're really very,
+very different things.
+
+One is about injuries
+
+and how you divide up
+causes of an injury,
+
+and the other is about risk
+and is completely different.
+
+Come back to that later. Get in
+
+your mind a pretty
+concrete distinction
+
+between material contribution to
+
+injury and material
+contribution to risk.
+
+Those are two very
+different doctrines
+
+with very different sets
+of rules attached to them.
+
+That's one important
+distinction, risk versus injury.
+
+The second important
+distinction is between
+
+divisible and
+indivisible injuries.
+
+Divisible injuries are ones
+in relation to which there's
+
+a rational basis for
+the apportionment
+
+of causal responsibility,
+
+and indivisible injuries,
+there's no rational basis for
+
+the apportionment of
+causal responsibility.
+
+Now, those are quite
+complicated terms.
+
+What does this mean?
+
+Well, a divisible injury
+is something like burns.
+
+You get first, second
+and third degree burns.
+
+The longer you're exposed to
+something which is too hot,
+
+the worse the burn gets.
+
+You can say pretty clearly,
+
+and that's a divisible injury.
+
+You can say pretty
+clearly one minute
+
+of putting iron on
+
+someone's skin causes
+a first-degree burn,
+
+two minutes causes a
+second-degree burn,
+
+three minutes causes
+a third-degree burn.
+
+Each minute of the iron being on
+
+someone's skin is responsible
+for first-degree,
+
+second-degree, and
+third-degree burns.
+
+You can divide up
+how much the iron
+
+being on their skin caused
+which bit of the injury.
+
+It's accumulative.
+
+You can say each minute caused
+
+the injury to get worse
+by this precise amount.
+
+You can divide it up.
+
+You can't do that
+with, say, death.
+
+Death is binary.
+
+They're either dead or alive.
+
+I hope that's obvious.
+
+It has a very different quality
+in that way from burns.
+
+With those two
+distinctions in mind,
+
+let's get into the cases.
+
+This is a very
+beautiful Caravaggio.
+
+Again, has absolutely nothing
+to do with the topic,
+
+although lots of people
+are getting injured in it.
+
+All of the cases in
+
+this category share
+some common feature.
+
+The common feature is that we
+
+know that the
+defendant's negligence
+
+was one of the material causes
+of the claimant's injury,
+
+i.e material as in
+more than de minimis,
+
+we know that did contribute
+in some way to their injury.
+
+But these cases are made
+
+complicated by the
+fact there are
+
+some other causes of the
+claimant's injury too.
+
+First, I'm going to teach you
+
+about another very
+simple doctrine,
+
+which is basically just
+another application
+
+of the but-for test.
+
+This is King Solomon
+dividing up the baby.
+
+This is from a parable.
+
+I think it's in the Bible.
+It is in the Bible.
+
+Two putative mothers couldn't
+decide whose the baby was,
+
+so they went to King
+Solomon to try and get him
+
+to determine who was the
+rightful mother of this baby,
+
+and his solution was to just
+divide up the baby in half.
+
+It's a rather horrible parable.
+
+You can see how it's relevant.
+
+Material contribution
+to a divisible injury.
+
+This is where you have
+something like a burn.
+
+You know how much
+worse the injury
+
+gets as a result of
+its different causes.
+
+In these cases, there's
+a very simple rule,
+
+which is that the
+defendant is only
+
+liable to the extent that they
+
+contributed to the
+injury. That's obvious.
+
+You got an injury, you
+can clearly divide
+
+up the injury into
+different bits,
+
+which were caused by
+different causes,
+
+or the one the defendant's
+negligence caused,
+
+or the bit of the injury
+the defendant's negligence
+
+caused is the bit of
+
+the injury the defendant
+is liable for.
+
+This is actually really
+genuinely very simple.
+
+A defendant is only
+liable for that bit
+
+of the injury which
+their negligence caused.
+
+Obvious, almost.
+
+Bonnington Castings and
+Wardlaw is an example of this.
+
+It's an old case.
+
+It got this doctrine going.
+
+In Bonnington the claimant
+was exposed to some dust,
+
+led to lung disease.
+
+Some of the dust was
+
+non-negligently created,
+innocently created,
+
+some of the dust was
+negligently created
+
+and lung disease
+of the sort that
+
+the claimant had was
+a divisible injury.
+
+It got worse and worse
+
+the more dust the
+claimant was exposed to.
+
+Now, as it so happens,
+
+Bonnington would be
+decided slightly
+
+differently now because
+if I recall correctly,
+
+in Bonnington itself,
+
+the defendant was
+held fully liable,
+
+that would no longer
+be the result.
+
+The result now would
+
+be based on this case,
+Holtby and Brigham.
+
+This is the modern law.
+
+The point is very simple.
+
+It's just like Bonnington
+in the sense that
+
+the claimant was negligently
+
+exposed to asbestos
+by several employers.
+
+Developing asbestosis is
+a divisible condition,
+
+like the lung disease
+in Bonnington.
+
+Like the burns, asbestosis gets
+
+worse the more asbestos
+you're exposed to.
+
+Obviously, the defendant is
+only liable for that bit
+
+of the injury which
+their negligence caused,
+
+not the whole thing.
+
+The rule here is where
+the defendant materially
+
+contributes to the
+claimant's injury
+
+and the injury is divisible,
+
+then the defendant's
+only liable to
+
+the extent they
+contributed to the injury.
+
+This is genuinely very simple
+
+as Sandy Steel and
+Jane Stapleton argue,
+
+this is really just a
+standard application
+
+of the but-for test.
+
+You've got this
+confusing language
+
+of material
+contribution to injury.
+
+But forget about that.
+
+This is just an application
+of the but-for test.
+
+Simple. Injury
+divided up into bits,
+
+different causes cause
+those different bits.
+
+One of those causes was the
+defendant's negligent action.
+
+The defendant is only
+
+liable for that bit
+which they caused.
+
+They go nice and simple.
+
+Everything up until now, I hope,
+
+has been pretty straightforward
+and not that confusing.
+
+Stuff now starts to get
+
+really horrible and complicated
+
+and nasty and brain scratchy.
+
+Now we get into
+some real bullshit,
+
+material contribution
+to indivisible injury.
+
+What do you do where you've
+got an injury like death,
+
+which you can't
+divide up into bits.
+
+Where it's binary, and
+where it seems like
+
+the defendant has been
+negligent and they did
+
+something which
+contributed to this,
+
+but which you cannot for
+one reason or another,
+
+say was the but-for cause of
+
+the injury on the balance
+of probabilities.
+
+If you look at it on the
+balance of probabilities,
+
+there's either some other cause
+
+which would have
+caused it anyway,
+
+or it's just not
+
+possible to say whether or
+
+not the other things
+would have caused it.
+
+How do you deal with this?
+
+Well, in this very
+specific class of cases,
+
+the defendant is liable in full.
+
+Bailey and MOD is
+an example of this.
+
+In this case, you've got
+
+a whole bunch of different
+factors which come together,
+
+one of which is the
+defendant's negligence.
+
+But the defendant's negligence
+is not a but-for cause of
+
+the claimant's injury because
+
+it seems like the other
+factors might have led to
+
+the claimant's injury
+or on the balance of
+
+probabilities would have led
+
+to the claimant's injury anyway.
+
+But the defendant
+did do something
+
+negligent and it did contribute.
+
+It did play a part in reality.
+
+For some strange reason,
+
+the judges hold in
+
+these cases that the
+defendant is liable in full.
+
+Even though what the defendant
+
+did is not a but-for cause
+of the claimant's injury.
+
+Now, how the hell
+does this work?
+
+Well, what's important
+to note is that
+
+you do have a material
+contribution to
+
+the injury in a way you don't
+
+in cases which normally fail
+the but-for causation test.
+
+Let me just explain
+that in more detail.
+
+Go back here, Barnett.
+
+The emergency department
+doctor's negligent diagnosis,
+
+sending this bloke away without
+examining or treating him
+
+made genuinely no
+difference to anything.
+
+It did not contribute.
+
+I didn't make the
+situation worse.
+
+The guy was a dead man.
+
+He walked in the door,
+
+someone did something negligent.
+
+It didn't make a blind bit
+of difference to anything.
+
+The guy was going to die anyway.
+
+That is not the case in Bailey.
+
+In Bailey yes,
+
+the guy maybe was going to have
+
+a heart attack anyway and
+suffer the brain damage anyway.
+
+But it's not a case that what
+
+the defendant did didn't
+make any difference at all.
+
+It did contribute
+to the situation.
+
+In a way, the doctor's
+negligent action
+
+in Barnett did not.
+
+There is a material contribution
+to the injury here.
+
+You can see some logic in
+making the defendant liable.
+
+They have done something wrong.
+
+In fact, I think what's going on
+
+here is a little bit like
+
+the bad tort law student
+
+who finds an exam paper in which
+
+the defendant seems to have
+done something negligent,
+
+and they're desperate to say,
+
+someone's done something bad,
+
+someone's got to pay for this.
+
+It's got to be their fault.
+
+Technically speaking, it
+fails causation tests.
+
+Technically speaking, there
+is no causation here,
+
+and this is aberrant.
+
+It's wrong. But it
+
+seems like someone's done
+something negligent,
+
+someone's got hurt and
+
+they're not just
+coincidentally related.
+
+What the defendant did that was
+
+negligent did actually
+hurt the claimant,
+
+even though maybe the
+claimant would have been
+
+hurt in exactly the
+same way anyway,
+
+it still seems like
+this negligence did
+
+actually act on the claimant,
+
+and so surely we hold the
+defendant liable is the idea.
+
+Williams and Bermuda is
+
+the same thing.
+Bermuda Hospitals.
+
+That's why I put the
+Beach Boys there.
+
+It's because this
+Bermuda Bahama,
+
+etc, that's how the song goes.
+
+Oh, my God, what's going on
+there? This is touch screen.
+
+[LAUGHTER] That's news to me.
+
+Williams and Bermuda,
+
+same set of facts essentially
+
+as Bailey but just
+slightly different.
+
+UKPC means Privy
+Council, by the way,
+
+and you should know this by now,
+
+but that's just a
+different formulation of
+
+the Supreme Court because it's
+
+for Bermuda and not the UK.
+
+Here, the claimant suffered
+injury to their heart and
+
+lungs as a result of
+complications in surgery.
+
+The complications
+were caused by again,
+
+a bunch of different factors,
+
+which have been worsened by
+
+the defendant's negligence
+in delaying treatment.
+
+Again, we have the same thing,
+
+which is that it doesn't
+seem like what the defendant
+
+did on the balance
+of probabilities was
+
+a but-for cause of the
+claimant's injury,
+
+but it was a material
+contribution.
+
+To the indivisible injury,
+
+and so again, we get the
+defendant being liable in full.
+
+Why? In a theoretically
+perfect world,
+
+we'd like to make them liable
+
+only for their
+material contribution.
+
+That is what we do in
+
+divisible injury cases,
+remember, Holtby,
+
+if you could divide the
+injury up and you can
+
+say the defendant's only
+
+liable for the bit
+they caused, bingo.
+
+Great. Wonderful, simple.
+
+You can't do that with
+indivisible injuries like
+
+death or similar
+because they're binary,
+
+they either are or they aren't.
+
+But there's this
+sense of justice.
+
+The defendant's done
+something wrong,
+
+and it's not just randomly
+
+related to the
+claimant's injury.
+
+It did seem to materially
+contribute to it,
+
+so let's make the
+defendant liable in full.
+
+Of course, part of the
+background to this
+
+is the Ministry of Defence.
+
+This is Bermuda hospitals.
+
+These are not just individuals
+being held liable.
+
+These are massive organisations
+with a lot of money,
+
+and they have been negligent and
+
+that negligence has materially
+
+contributed to the
+claimant's injury,
+
+even if it's not a
+but-for cause of it.
+
+This is a toss-up between making
+
+a massive organisation
+liable for their negligence,
+
+which did materially contribute
+
+versus leaving the claimant
+penniless essentially.
+
+You've got to take
+that into account
+
+as part of the background here.
+
+This is a very complicated
+string of cases.
+
+There's Court of Appeal cases
+
+going through on
+the moment at this.
+
+Last year, I thought
+that this was
+
+no longer going to be
+the law by this point.
+
+It now turns out
+that it is the law.
+
+This really whole books have
+been written on this topic.
+
+I've just given you a
+tiny snapshot into it.
+
+Just try and learn those rules.
+
+When you've got an
+indivisible injury
+
+and the defendant's negligence
+
+materially contributed to it,
+
+the defendant is liable in full.
+
+Just learn that rule,
+
+stop thinking about it too much.
+
+But do notice that this is
+
+not just a standard
+application of
+
+the but-for test
+because the court's not
+
+holding that negligence
+was but-for cause of
+
+the damage because it's not.
+
+I'm going to come now to
+
+some really oversimplified
+silly scenarios
+
+that I've invented
+just to try and make
+
+this all a little bit simpler,
+
+using my favourite brand of tea.
+
+To Scenario number 1.
+
+D1, D2 and D3,
+
+each add a drop of salmonella
+to the claimant's tea.
+
+Now, just imagine,
+
+suppose stipulate for
+each drop of salmonella,
+
+the claimant has another
+week of food poisoning.
+
+Claimant drinks the tea and gets
+
+food poisoning for three weeks.
+
+This is just a simple case
+
+of material contribution
+to divisible injury.
+
+It's called material
+contribution, but actually,
+
+remember, there's just
+a standard application
+
+of the but-for test.
+
+It's just like the iron being
+
+kept on the arm for one minute,
+
+two minutes, three minutes,
+
+first degree, second
+degree, third degree burns.
+
+Let's say you've got a
+masochist or is it says this?
+
+No, it's masochist and I'm
+holding an iron to his arm,
+
+and I do it for a minute,
+it gets first degree burns.
+
+The masochist decides he's
+quite enjoying it and keeps
+
+holding the iron to his arm
+for another whole minute,
+
+it gets second degree burns.
+
+I'm only liable for
+first degree burns,
+
+not the whole thing.
+
+Same thing here. Each
+defendant is liable only for
+
+one week of food poisoning
+
+as that's what they each caused.
+
+Standard application
+of the but-for test.
+
+Yes, it's called
+
+material contribution
+to divisible injury,
+
+but it is just a standard
+but-for causation.
+
+So I hope that is quite simple.
+
+Now we come on to the much
+more complicated scenario,
+
+which is material contribution
+to indivisible injury.
+
+This may confuse you,
+
+and if it does, just ignore
+it and apply the simple rule,
+
+but this is another
+way of understanding
+
+material contribution
+to divisible injury
+
+or it's a bit of a
+head scratcher case.
+
+D1, D2 and D3,
+
+each add a drop of deadly
+poison to the claimant's tea.
+
+Suppose that each drop of
+
+poison would alone
+kill the claimant.
+
+Claimant drinks
+the tea and dies.
+
+The result, almost naturally,
+
+it's obvious that each defendant
+
+is liable entirely for
+the claimant's death,
+
+as in joint and severally,
+
+the claimant can go after
+
+or the claimant state can
+go after any of them.
+
+But do notice that
+in this instance,
+
+there's no but for causation.
+
+Why is there no
+but-for causation?
+
+Because let's take D2.
+
+They put the drop of
+
+deadly poison into
+the claimant's tea.
+
+Well it turns out, had
+they not done that,
+
+he would have died anyway.
+
+What about D3? Had they
+
+not done that, he would
+have died anyway.
+
+Now, I suppose there's
+an argument to be
+
+made that it was D1
+that really did it.
+
+But actually, it
+turns out that D2
+
+did it anyway and was
+going to do it later.
+
+Had D1not done it, he
+would have died anyway.
+
+None of them individually
+is the but for cause.
+
+Now, this is obviously a
+slightly different scenario
+
+from the Williams and Bermuda,
+
+Bailey and MOD case,
+
+but it's just meant
+to prompt thought on
+
+your part that you get into
+
+all very tricky cases
+
+with the standard application
+of the but-for test,
+
+where it seems like that
+
+it cannot be said for
+one reason or another,
+
+the defendant was
+the but-for cause
+
+of the claimant's injury,
+
+but we have this
+deep intuitive sense
+
+that the defendant should
+nonetheless be held liable.
+
+That's what's going on
+in Bailey and Williams.
+
+That's what's going on in
+
+my stupid tea Scenario
+number 2 as well,
+
+in a slightly different way.
+
+Now, Woodfield and Jolowicz
+
+criticise Bailey and Williams.
+
+They say it's all very
+confusing. It is.
+
+But for the moment,
+
+at least, it's good law.
+
+It's here to stay. Now we
+
+come on to a completely
+different doctrine,
+
+material contribution
+to the risk of injury.
+
+This is about risk,
+
+what makes this
+doctrine special and
+
+different is this impossibility.
+
+It's a very special case.
+
+People want to apply this all
+the time for some reason.
+
+They get very
+confused about this.
+
+There's only one circumstance
+in which you apply this.
+
+It's a circumstance in which
+
+we've reached the limits
+of scientific knowledge,
+
+we've reached the limits
+of human knowledge.
+
+This doctrine is not
+applied in cases
+
+where the evidence does
+
+not clearly disclose
+one thing or another.
+
+This isn't about
+evidentiary uncertainty.
+
+Just because you've
+not managed to gather
+
+enough scientific evidence to
+prove one thing or another,
+
+that just means if the claimant
+
+hasn't managed to gather
+enough scientific evidence to
+
+prove one thing or
+another on the balance of
+
+probabilities, that's
+their problem.
+
+That's a failure to
+prove something on
+
+the balance of probabilities.
+
+This is and there's just
+no liability as a result.
+
+This is a special
+circumstance where it
+
+would be impossible
+for a claimant
+
+to be able to prove anything
+
+because we've reached the
+limits of scientific knowledge.
+
+Forget about this for a minute.
+
+Here's an example
+of this McGhee.
+
+Claimant was exposed
+to brick dust
+
+that can cause dermatitis.
+
+Some of the exposure
+was non negligent,
+
+some of the exposure
+was negligent,
+
+just like you might
+
+think Bonington all
+the way back here,
+
+we've got dust, it
+leads to an illness.
+
+Some of it was non negligent,
+
+some of it was negligent.
+
+The difference in
+Bonington though,
+
+is that you have well,
+there's multiple differences.
+
+You've got a divisible
+injury to start with.
+
+But also, more importantly,
+
+coming back here, in McGhee,
+
+it's impossible to know
+
+which bit of brick dust
+causes dermatitis.
+
+Dermatitis is on or off.
+
+You could be exposed to loads of
+
+brick dust and never
+get dermatitis,
+
+and then one day, a tiny bit
+
+of brick dust could cause it.
+
+That's the idea at least.
+
+It's random or it's
+thought to be random.
+
+We don't know how
+it gets caused.
+
+It's not accumulative
+is the point.
+
+Now, the result here is
+
+that D is held
+liable and in full,
+
+but almost don't write
+
+that down because that's
+not good law anymore.
+
+Another example of the same case
+
+and the results in these cases,
+
+they're important to know,
+
+but neither of them
+are good law anymore.
+
+These are old cases and they
+
+don't currently
+stand as good law.
+
+Because I'll teach you in a
+minute what good law is now,
+
+but just know that
+
+you're dealing with these
+special difficult cases.
+
+Claimants are exposed to
+
+things and there's
+multiple exposures,
+
+and it's impossible
+to know which bit of
+
+the exposure causes
+causes the injury.
+
+Same thing in
+Fairchild, basically.
+
+Claimants work for
+various defendants,
+
+all of whom negligently
+
+exposed the claimants
+to asbestos.
+
+Claimants contracted
+mesothelioma,
+
+fatal disease with
+long latency period
+
+caused by asbestos.
+
+Here's the key detail again.
+
+Mesothelioma might have been
+
+caused by an accumulation of
+
+fibres or just a single fibre,
+
+and we just don't know.
+
+It's mesothelioma is
+a type of cancer.
+
+You can be exposed to asbestos
+for years and years and
+
+years and not suffer from
+mesothelioma at all.
+
+Then one day, you get a
+bit of asbestos, bang,
+
+mesothelioma, you've
+got the cancer
+
+for no apparent reason.
+
+Random. Because of
+that impossibility,
+
+special rules are created.
+
+The special rule that is
+actually created now,
+
+as we'll learn in a
+moment from Barker,
+
+is now that defendants are only
+
+liable for the bit of the
+risk that they caused.
+
+But before we come on to
+that special rule in full,
+
+let's just understand in
+
+more detail what's
+actually going on here.
+
+These are very special cases,
+
+very rare and special cases.
+
+There are cases where there
+is no way of identifying,
+
+even on the balance
+of probabilities,
+
+the source of the fibral
+fibres which initiated
+
+the genetic process which
+culminated in malignant tumour.
+
+This is a very helpful
+idea from Lord Bingham.
+
+We have this rock
+of uncertainty.
+
+It is not just
+that we don't have
+
+evidence in this
+particular case,
+
+it's that it would be impossible
+
+for human beings to know.
+
+There's some
+scientific lack here.
+
+We've reached the limits of
+present human knowledge.
+
+All that we do know
+essentially is
+
+how much risk the
+claimant was exposed to.
+
+That is what we do
+know because we
+
+know that the
+longer and the more
+
+you're exposed to asbestos,
+
+the more likely it is you
+will develop mesothelioma.
+
+That is what we know. It's
+still the case, of course,
+
+that you could be exposed to
+massive amounts of asbestos
+
+every day for 50 years and
+not develop mesothelioma.
+
+But we do know that the
+
+longer and the more
+you're exposed to it,
+
+the more risk there
+is of you developing
+
+it. But that's all we know.
+
+What makes sense here is
+instead of talking about
+
+the injury and liability
+for the injury,
+
+we start talking about
+liability for the risk.
+
+Barker and Corus makes you
+
+essentially in cases where
+
+there is this rock
+of uncertainty,
+
+this impossibility of knowing,
+
+it makes the defendants
+
+liable for the amount
+of risk they caused.
+
+Here claimants were
+exposed to asbestos by D1
+
+and D2 and while self employed,
+
+claimant contract
+and mesothelioma
+
+and the defendants are only
+
+liable in proportion to
+
+the extent that they
+increase the risk.
+
+What you do in cases like
+
+this is you look
+at the amount of
+
+time that the defendant
+
+exposed the claimant
+to the risk for,
+
+and that's what
+they're liable for,
+
+the amount of risk
+they expose them to.
+
+But this special
+approach only gets
+
+applied where there is
+this rock of uncertainty,
+
+this impossibility of knowing.
+
+Now, as it happens,
+
+this is actually even more
+
+complicated than
+I am showing you.
+
+I just want to make you
+aware of this in case
+
+any of you happen to go
+into tort law practise.
+
+Actually, if you get
+
+a mesothelioma claim and
+
+that mesothelioma is
+caused by asbestos,
+
+Parliament has intervened
+with a special act,
+
+which means that the
+results in Fairchild are
+
+actually now good law
+because of the act,
+
+but Barker applies outside
+
+of mesothelioma
+caused by asbestos.
+
+You've got amazing mesothelioma
+caused by asbestos,
+
+then you apply the
+rule in Fairchild.
+
+Even though Barker itself was
+
+about asbestos
+causing mesothelioma,
+
+this is good law for everything
+
+but mesothelioma
+caused by asbestos.
+
+But don't get into that
+because I'm not going to set
+
+a problem question about
+mesothelioma caused by asbestos.
+
+I may set a problem
+question about some injury,
+
+which it's impossible
+to know how
+
+much the defendant's act
+
+contributed to it and
+all you can know is how
+
+much the defendant
+contributed to risk.
+
+In that case, the rule
+is again, really simple.
+
+The defendant is
+liable for the amount
+
+of risk they expose
+the claimant to.
+
+That's what you need to learn.
+
+Just want to make you aware of
+
+the immense complexities here
+
+just in case any of you actually
+
+end up in tort law practise,
+
+which you may be being put off
+
+doing by this
+lecture, of course.
+
+The point, again, actually,
+
+the rule I'm wanting you to
+
+learn is really not
+that complicated.
+
+You basically have to
+remember two things.
+
+The first is that
+this only applies in
+
+these very special cases
+
+where you have this
+rock of uncertainty,
+
+this lack of human knowledge,
+
+the limits of human
+knowledge being reached,
+
+all you can do is assess risk,
+
+you cannot assess
+contribution to injury.
+
+Lord Hoffman's quotes
+quite nice here.
+
+It's like buying raffle tickets.
+
+The more raffle tickets you buy,
+
+the more likely you
+are to win the longer
+
+you're exposed to asbestos,
+
+the more likely you are
+to get mesothelioma.
+
+You may not be able to divide up
+
+the injury because it's
+mesothelioma or not,
+
+binary, but you can
+divide up the risk,
+
+and that's what we do,
+
+although funnily enough not
+in relation to mesothelioma
+
+caused by asbestos because
+an act has intervened,
+
+but don't worry
+about that detail.
+
+Again, this is represented
+by my silly tea scenario.
+
+D1, D2, D3,
+
+each add a drop of kryptonite
+
+to the claimant's I'm making it
+
+kryptonite because mysterious
+magical substance,
+
+we don't know how Kryptonite
+works. That's the idea.
+
+It's impossible to know
+
+exactly how much
+Kryptonite creates
+
+what or when the Kryptonite
+causes the injury.
+
+But what we do know about
+Kryptonite in my silly example,
+
+is that each time you drink
+a drop of Kryptonite,
+
+you have a 1% chance
+of being poisoned.
+
+Sometimes you're fine, but
+1% of the time you die.
+
+Claimant drinks tea and dies,
+
+D1, D2, D3,
+
+each liable for one
+third of the damages
+
+because they each expose them
+to one third of the risk.
+
+Each exposed the claimant
+to one third of the risk.
+
+That's the idea. It's really
+
+actually at base, quite simple.
+
+Just before you go,
+what you've got to
+
+learn is a simple
+rule about risk,
+
+a simple rule about contribution
+to divisible injuries,
+
+but for causation and
+
+then some really weird rule
+
+about material contribution
+to indivisible injury,
+
+that is more complicated.
+
+Thank you. [NOISE]
+

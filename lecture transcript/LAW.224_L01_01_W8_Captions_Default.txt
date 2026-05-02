@@ -1,0 +1,2737 @@
+MALE_1: How's the
+sound of the back?
+
+Good. Too quiet? It's okay.
+
+Good. Excellent. Broad recap.
+
+There's always a duty
+of care in cases where
+
+the defendant doesn't
+act which reasonably
+
+foreseeably causes physical
+injury or property damage.
+
+That is one large
+established category
+
+of duty of care under
+the case of Robinson.
+
+Probably, I hope you're really
+
+bored of me repeating
+that by this point.
+
+You should be. It
+should be internalised.
+
+When is duty of care
+more complicated?
+
+Duty of care is more complicated
+
+if the type of damage changes.
+
+We've just in the
+last two weeks been
+
+looking at two more
+complicated kind of damage,
+
+pure economic loss and
+psychiatric injury.
+
+We've seen basically
+that defendants are only
+
+liable for pure
+economic loss where
+
+they assume responsibility
+to the claimants.
+
+We've seen that defendants
+are only liable for
+
+psychiatric injury,
+broadly speaking,
+
+where that psychiatric injury
+
+either results from
+the physical injury of
+
+someone who is in
+
+the same zone of danger as you
+
+or you're outside
+of zone of danger,
+
+but they're close to you,
+
+they're a family member and
+
+it's reasonably foreseeable and
+
+all the other things and
+you see it directly, etc.
+
+Or where essentially
+the defendant
+
+assumes responsibility to you,
+
+like if the defendant is
+your employer, for example.
+
+Now we move off the troublesome
+other kinds of damage,
+
+which make duty of
+care more complicated
+
+to something else which makes
+
+duty of care more complicated.
+
+It's not a variation
+in the damage.
+
+It's a variation in the first
+part, acts or omissions.
+
+These are all cases where
+
+there is an issue about
+whether or not it
+
+is an act that reasonably
+
+foreseeably causes physical
+injury or property damage.
+
+Because if it's not an
+act and it's omission
+
+, things are trickier.
+
+There's only a duty of
+care in relation to
+
+omissions in a quite limited
+number of circumstances.
+
+Today we're going
+essentially to look
+
+at acts versus omissions,
+
+what makes something
+count as an act
+
+and what makes it
+count as an omission.
+
+That is quite a
+philosophically vexed topic.
+
+Then we're going to look
+at the exceptions to
+
+the general rule that there is
+
+no liability for omissions.
+
+Acts and omissions,
+
+there's another brugal for you.
+
+That's actually my
+least favourite brugal.
+
+There are a bunch of ways
+
+of distinguishing
+acts and omissions.
+
+The trap you do not want
+to fall into is this.
+
+The fact that you can describe
+
+almost any act as a omission,
+
+does not make it an omission.
+
+The obvious case is driving.
+
+I'm driving along
+and I fail to brake.
+
+Just because you've
+got the word fail in
+
+there and what I've
+done is not brake,
+
+that doesn't mean
+it's an omission.
+
+What I have done crashed into
+the other car is an act.
+
+Why is it an act?
+
+Even though what I've actually
+
+done is failed to
+press the brake.
+
+Why do we classify it as
+an act legally speaking?
+
+It's because you
+were in the business
+
+of driving in the first place.
+
+Because you were in the business
+
+of driving in the first place,
+
+you were doing an activity.
+
+And so you took on
+responsibilities to do
+
+certain other acts like press
+
+the brake at the
+appropriate time.
+
+One way of expressing this
+is the way Lord Hoffman
+
+expresses it in Stovin and Wise.
+
+"One must have regard to the
+purpose of the distinction,
+
+which is to distinguish between
+
+regulating the way in
+which an activity may be
+
+conducted and imposing a duty to
+
+act upon a person who is
+
+not carrying on a
+relevant activity."
+
+The law does not impose in
+general, duties to act.
+
+It does regulate activities.
+
+Now, you might find
+that a complex way of
+
+distinguishing between
+acts and omissions.
+
+Here's maybe a simpler
+way of thinking about it,
+
+which crops up in the case law,
+
+particularly in the recent
+case law of Tindall,
+
+which as you'll see,
+
+if you've paid careful
+attention to the reading list,
+
+I just wrote a case note in
+the Cambridge Law Journal.
+
+Acts and omissions.
+The other way
+
+of distinguishing between them
+
+is did the defendant
+make matters worse?
+
+Did the defendant
+do something which
+
+made the situation
+worse as a whole?
+
+This is a useful test.
+Someone's driving along.
+
+Yes, maybe they failed
+to press the brake,
+
+but if they hadn't been driving
+along in the first place,
+
+the claimant wouldn't
+have been crashed into.
+
+It might seem tricky
+on the surface,
+
+but if you just ask yourself,
+
+always did the defendant
+make matters worse,
+
+that's a nice easy way of
+thinking about it in general.
+
+So let's take some examples
+
+and see how this
+works in practise.
+
+Rushbond is an example.
+
+Defendant here is an architect,
+
+visited the claimant's
+building and left
+
+the door unlocked and
+the alarm deactivated,
+
+burglar got in and
+started a fire.
+
+Now, the high court
+said that this was
+
+an omissions case
+because they said,
+
+it was the architect's failure
+
+to lock up the door
+and his failure to
+
+deactivate the alarm that
+caused the damage here.
+
+Those are omissions, not acts.
+
+But I think we can see, I hope,
+
+or the Court of Appeal
+thought that was wrong.
+
+I think we can see why
+it might be wrong.
+
+It's because the
+defendant's actions
+
+as a whole did make
+matters worse.
+
+If the defendant hadn't
+started the chain of
+
+act entering the house in
+
+the first place and visiting
+the claimant's building,
+
+then the door would never
+have been unlocked and
+
+the alarm would have
+remained activated.
+
+Yes, in some sense,
+it's a failure,
+
+but it's quite like
+
+driving along and failing
+to press the brake.
+
+Because overall, the set
+
+of actions set in motion by
+the initial act visiting
+
+the building resulted in
+
+making the situation worse
+than if they'd done nothing,
+
+it was an act, not an omission.
+
+And a case on
+
+the other side of the line
+in theory, by contrast,
+
+which I'll come back to again
+
+and again throughout
+this lecture,
+
+is walking past a baby
+drowning in a shallow pond.
+
+If you walk past the
+baby drowning in
+
+a shallow pond and you
+fail to help that baby,
+
+you do not make matters worse.
+
+Now, let's take another example.
+
+Let's say you got involved
+in trying to help the baby.
+
+But actually, upon
+beginning to help,
+
+you decided that actually
+
+it wasn't worth helping
+because you're worried
+
+about your shoes
+getting dirty because
+
+the water was dirty and
+you getting involved
+
+had stopped some other
+passersby from helping
+
+this drowning baby and
+the baby therefore died,
+
+you would have made
+matters worse.
+
+Your involvement, your
+getting involved,
+
+and then doing a really
+shitty job of it because you
+
+actually decided got involved,
+try to help the baby,
+
+then decided your shoes
+were too precious to
+
+save this life, and
+so you bug it off,
+
+and other people
+didn't help the baby
+
+from drowning because
+you intervened,
+
+you made matters worse.
+
+You can see, I hope the
+distinction between
+
+making matters worse and
+failing to do something.
+
+The point is that under our law,
+
+there is no duty
+to rescue at all.
+
+There is only a duty to
+not make matters worse.
+
+If you don't know what the
+
+parable of the good
+Samaritan is, look it up.
+
+Not because I'm a Bible
+basher just because
+
+it's useful for this
+particular example.
+
+This parable is about
+
+someone going out of
+their way to help others.
+
+There is no duty in English
+law for people to do that.
+
+Why is there no such duty?
+
+You might think we could have
+
+no clearer case of
+
+moral duty than helping
+this drowning baby.
+
+Why would the law not impose
+
+a duty when the moral
+circumstances are so
+
+clear cut when you
+obviously have
+
+an absolute duty to save
+this drowning baby,
+
+and any of you who
+failed to save
+
+this drowning baby could
+
+rightly be declared
+evil, I would say.
+
+A failure to do that
+is actively evil.
+
+Why does the law not
+
+impose such a duty
+to stop people doing
+
+this evil thing or to stop
+people from failing to do it?
+
+The justifications
+are threefold.
+
+Lord Hoffman in Stovin and Wise
+
+has this quite useful quote.
+
+There's this political
+justification,
+
+moral justification and
+economic justification.
+
+Not going to read
+that out too long.
+
+What I am going to do is
+try and break it down for
+
+you into the various
+different rationales.
+
+The first rationale
+is why pick on me?
+
+The idea here is that
+if you are walking past
+
+this drowning baby and
+
+it's in the middle of
+Piccadilly Circus,
+
+that it's drowning, why is it
+
+your fault that you
+
+didn't help when no
+one else was helping?
+
+How is the law to decide who is
+
+the relevant person to help
+
+if you had no particular
+relationship with this baby?
+
+Now, obviously, the law
+will easily single out
+
+and I'll teach you later
+
+about exceptions to
+the general rule,
+
+the law will single out
+the baby's parents.
+
+They had a special
+responsibility towards the baby,
+
+but you didn't even
+
+though it was evil of you
+to have walked past it,
+
+why should the law pick on you?
+
+Sorry. I'll just clarify
+
+that why pick on
+me justification.
+
+That's very strong
+if the baby is
+
+drowning in the
+middle of London.
+
+It's a very weak justification
+
+if you are the only possible
+person who could help.
+
+If you're in a fell
+in the middle of
+
+the Lake District at
+
+a mountain tarn and
+
+you see a baby drowning
+in this mountain tarn,
+
+who knows what happens
+to its parents
+
+and you're the
+only person there.
+
+There's a pretty clear reason
+for the law to pick on you.
+
+This why pick on me
+justification can explain
+
+some reasons for not
+
+imposing a duty in
+relation to missions,
+
+but it cannot
+explain all of them.
+
+We need to rely on these
+other justifications, too.
+
+The second is freedom
+more personal autonomy.
+
+This is the idea that forcing
+people to act is more
+
+intrusive than forcing
+them not to act.
+
+Third, legal certainty.
+
+If there were duties to rescue,
+
+we'd get into very
+serious difficult
+
+questions about how serious and
+
+imminent that danger needs to
+
+be in order for the
+duty to be imposed.
+
+How proximate would
+you have to be to
+
+this drowning child in
+
+order for you to be the
+one who had the duty.
+
+Let's just pause on
+that for a moment.
+
+I want to tell you about
+
+a interesting
+article which I have
+
+put it's not on
+the reading list,
+
+but I put it on Moodle because
+
+it's one of my favourite
+articles ever written.
+
+It's by the great utilitarian
+
+philosopher called Peter Singer.
+
+It's relevant to this
+topic because it raises
+
+the moral dilemma in
+quite a powerful way.
+
+The moral dilemma is this.
+
+You all accept, I
+
+hope that you should
+save that drowning baby.
+
+None of you have any question
+in your minds about this.
+
+If you do, there's something
+deeply wrong with you.
+
+I hope none of you have
+
+any question in your
+mind about that,
+
+that you ought to
+save the drowning
+
+baby when you walk past it.
+
+The reality is, you
+
+are failing right now to
+save people from dying.
+
+Most of you, all of you,
+
+in fact, are
+relatively affluent.
+
+What do I mean by that?
+
+I don't mean that you're
+rich necessarily,
+
+but compared to the
+world at large,
+
+you are extremely affluent.
+
+Just by virtue of
+sitting here in
+
+a higher education institution
+in a western country,
+
+you have vastly greater resources
+than most of the world.
+
+There are people dying right now
+
+from very easily
+preventable causes.
+
+For example, malaria.
+
+Malaria nets are in
+
+short supply in some
+places in the world.
+
+They are very cheap, £10,
+
+£20, £30, that
+order of magnitude.
+
+Your failure right
+now to go online
+
+and donate your money to
+malaria nets is killing people.
+
+People are dying right
+
+now because you are all failing,
+
+we are all failing currently to
+
+go online and donate
+our money to save them.
+
+That is the reality
+of the situation.
+
+Now people will feel differently
+about this, of course.
+
+Some of you may immediately
+
+feel an immense sense of guilt.
+
+Maybe some of you will go
+
+online after the lecture and buy
+
+some Marionette many others
+of you will probably think,
+
+it's not really my problem.
+
+I'm raising this question
+because it or raising
+
+this moral issue
+because it goes to
+
+the justification for
+the exclusionary rule.
+
+Even if we all feel
+a strong sense to do
+
+something when the baby is
+drowning right in front of us,
+
+when the baby is dying of
+malaria 2,000 miles away,
+
+we don't feel such a strong
+compulsion and we definitely
+
+don't think we should
+have a legal duty
+
+in such circumstances.
+
+What I'm trying to
+illustrate is that
+
+most people in terms of
+common sense morality,
+
+think that omissions are
+different from acts.
+
+They have a different
+moral quality.
+
+Now, I don't really
+happen to think
+
+that and I do
+actually think that
+
+I and all of us are to
+some extent failing in
+
+our moral obligations by
+
+failing to donate more
+of our money to charity.
+
+But I do donate some
+money to charity,
+
+but not as much as I would like,
+
+but that's because I'm
+not a perfect person.
+
+That's my view on the matter.
+
+Other people want
+to draw the line
+
+differently and say they
+actually do not have
+
+any kind of obligation to go and
+
+save these children
+through Marionette.
+
+One way to think of
+this is the following.
+
+There's different
+sets of moral duties.
+
+There are absolute moral duties.
+
+You have an absolute
+moral duty not
+
+to torture children for fun.
+
+There are no
+circumstances in which
+
+torturing children for fun
+
+would be the right thing to do.
+
+Then there are near
+absolute duties.
+
+Those near absolute duties
+include things like killing.
+
+You have a near absolute
+duty not to kill because you
+
+are allowed to kill in
+circumstances of self-defence,
+
+for example, or to prevent
+someone else from dying.
+
+Then there are weighty duties.
+
+But they are qualified and
+fairly easily defeasible.
+
+You promise your mate
+to go to the pub with
+
+you that you're going to
+go to the pub with them.
+
+Under normal circumstances, you
+
+have a duty to go to
+the pub with them.
+
+But if you get delayed
+because you're
+
+in the business of
+saving a drowning baby,
+
+that's a good excuse.
+
+That overrides the
+duty you have.
+
+Then there are things
+
+which morality calls
+supererogatory.
+
+A supererogatory thing is
+
+a super nice thing being really,
+
+really nice to someone,
+extra special,
+
+it's not a matter of duty,
+
+but obviously the person,
+
+we all agree, I hope,
+
+I think that the
+person who does donate
+
+their money to these Marionette
+
+to save these people
+is doing a good thing,
+
+that this is in some way
+
+better than the person
+who fails to do that.
+
+But it is not a matter
+of absolute duty.
+
+You can't point to your
+neighbour and say, hey,
+
+you right now failed
+
+to give your money
+to save that person.
+
+Instead, you spend it on
+drinking a couple of beers
+
+and you failed to do your
+duty because of that.
+
+That's not how we
+speak about that.
+
+But if you know that the
+person sitting next to you
+
+did give 20 pounds to these
+Marionette you would say,
+
+well done, you praise them.
+
+It would be the right attitude.
+
+That's roughly the attitude
+the law takes to omissions.
+
+Omissions are not
+a matter of duty.
+
+They're outside the law
+
+because they're seen as
+supererogatory actions.
+
+Or saving people is
+seen as supererogatory,
+
+rather than a matter of
+duty. That's the point.
+
+That leads me on to the
+next few justifications
+
+for the exclusionary rule,
+
+the value of altruism.
+
+We've got this idea that
+it might not be good
+
+to tell people to save
+
+the drowning child
+because we don't
+
+want the law bossing everyone
+
+around in every
+single circumstance.
+
+It's valuable for people to
+do things for themselves.
+
+If the law forces them
+to help other people,
+
+we lose this ability for them
+to make the moral choice.
+
+Then fifth, this issue of
+the absence of a right.
+
+This is what I was talking
+about there in some detail.
+
+There's no moral
+obligation to help others.
+
+Helping others is
+supererogatory, not obligatory.
+
+Again, I'm not sure I
+necessarily agree with that.
+
+Because I'm a utilitarian,
+
+I think helping others
+in some circumstances
+
+might be a matter of duty,
+
+but that's not how
+we talk about it
+
+in an ordinary language,
+
+and that's not how common sense
+morality thinks about it.
+
+Then finally, it's a matter
+of individual responsibility.
+
+In a case where a third
+party or the claimant is
+
+themselves responsible
+for their bad situation,
+
+it would erode the
+individual responsibility
+
+to make a bystander liable.
+
+So in the case of
+the drowning baby,
+
+is it not the parents duty
+to do something about it?
+
+If we make all third
+parties pick up the slack,
+
+we take the responsibility off
+
+the parents who really
+ought to be the ones
+
+preventing their child
+from getting into
+
+a shallow pond in
+the first place.
+
+If any of you were interested in
+
+what I was talking about with
+Marionette and all that,
+
+do go and read that
+Peter Singer article,
+
+famine affluence and morality.
+
+It kicked off a huge number
+
+of later philosophical
+discussions.
+
+In fact, there's a book
+
+which has just been published
+
+to talk all about this topic.
+
+I think it's called
+
+Drowning Babies or
+something like that,
+
+Nigel Simmons, or
+is it Warburton?
+
+I can't remember. If
+anyone's interested,
+
+remind me I'll tell you.
+
+Now let's get away from
+
+all this morality nonsense and
+
+down some brass tacks, some law.
+
+You will see in some of
+
+the older cases and
+to some degree,
+
+leftover in the textbook,
+
+if you read the previous
+edition of the textbook,
+
+you'll see a lot
+of mistakes in it.
+
+These have now been
+corrected because well,
+
+who knows what the effect was.
+
+But I told the authors
+
+of the textbook that they
+were getting this wrong,
+
+whether or not they
+actually listened to me or
+
+were going to change
+it anyway, who knows?
+
+But they have now changed it,
+
+and you now see
+
+the omissions and third
+parties and public bodies,
+
+they're treated as being one
+and the same to some degree.
+
+What am I getting at?
+This topic, as a whole,
+
+it's about omissions,
+but it's also
+
+about third parties
+and public bodies.
+
+As in actions of other people
+
+and whether or not
+
+public bodies have a
+duty to help people.
+
+My thinking is that
+this is all best
+
+treated as just being
+about omissions.
+
+If you do the reading,
+you'll understand
+
+why that's a relevant
+consideration.
+
+But the point is just think
+of this about emissions
+
+and questions about
+third parties or
+
+public bodies are
+not separate topics.
+
+They're really
+particular applications
+
+of this general set of
+rules about omissions.
+
+That's something I want to
+stress before we crack in.
+
+Now let us crack in to
+
+the brass tax and
+the hard law here.
+
+What are the exceptions to
+
+this general exclusionary
+rule that there is
+
+no liability for omissions?
+
+This is one of the most beautiful
+paintings in the world.
+
+Just take a moment
+to enjoy that.
+
+Isn't that lovely?
+The exceptions.
+
+Sandy Steel, my old
+taught lecturer
+
+at King's, very clever chat,
+
+now got a very good
+job at Oxford,
+
+just published a
+book on omissions,
+
+in fact, last year.
+
+He wrote an article in
+
+the law quarterly review called
+
+negligence liability for
+omissions to the police.
+
+Good for Sandy Steel,
+
+that article was quoted
+by the Supreme Court in
+
+Robinson and then later
+by the Supreme Court
+
+in N and Poole Borough Council.
+
+N and Poole Borough Council is
+
+the leading case
+now on omissions.
+
+In the old days,
+
+it used to be that
+there were all
+
+very complicated rules
+about omissions,
+
+and it was a bit different for
+
+public bodies and
+private bodies.
+
+Now we have a really
+simple set of rules.
+
+Well, I say they're simple,
+
+they belie some complexity,
+
+but superficially
+they are simple.
+
+Basically, they're this.
+
+There is no liability
+for omissions
+
+unless one of these four
+categories applies.
+
+Now, let's just pause
+
+quickly just to think
+about this intro.
+
+This intro is in the
+tort of negligence,
+
+a person A is not
+under a duty to
+
+take care to prevent
+harm occurring to
+
+person B through a source of
+
+danger not created
+by A and less.
+
+Why do I pause on that?
+
+I pause on that because
+here you need to
+
+know that these
+introductory words
+
+make clear that they only
+apply to proper emissions.
+
+I, a source of danger created
+
+by A would be a kind of act,
+
+not a kind of omission.
+
+Again, we're back to the
+driving along point here.
+
+I'm driving along, I failed
+to put my foot on the brake,
+
+cannot claim that as an
+omission because I have
+
+created the source of danger in
+
+the first place
+by driving along.
+
+I have made matters worse.
+
+Before you get to
+thinking about whether or
+
+not one of the
+exceptions applies,
+
+you first need to properly
+make sure whether what you're
+
+dealing with is an act or
+omission. That's Step 1.
+
+If it is properly an omission,
+
+if it is not a source of danger
+created by the defendant,
+
+then you move on to see whether
+
+one of these four
+exceptions applies.
+
+What are these four exceptions?
+
+Let's get into them now.
+
+Some other ways of categorising
+
+the exceptions which you'll
+see in the literature,
+
+these are all
+historical in my view.
+
+They're no longer
+really good law.
+
+None of them have
+strictly been superseded,
+
+none of them strictly been said,
+
+these are bad law and not
+to be listened to anymore.
+
+But N and Poole
+Borough Council is
+
+a 2019 UK Supreme Court case.
+
+It has been reaffirmed now
+
+in multiple Supreme Court cases,
+
+HXA, Tindall and a
+bunch of others,
+
+an N and Poole Borough Council
+
+is what you should start with.
+
+That is always the starting
+point for any case omissions.
+
+But yeah, let's just quickly
+
+before we get into
+the exceptions,
+
+again, make sure we understand
+this creation of risk.
+
+It's that if you've
+created the risk,
+
+if you're the motorist,
+
+if you're a motorist who
+has to leave their vehicle,
+
+you must warn others.
+
+You create the danger
+
+by parking your vehicle
+on the side of the road.
+
+If you're a driver
+who fails to brake,
+
+you create the danger by
+
+driving along and
+failing to brake.
+
+We get back to this distinction
+in Stovin and Wise,
+
+regulating activity
+versus imposing
+
+a duty to act or another
+way of understanding
+
+the distinction
+is making matters
+
+worse versus not
+making matters worse.
+
+That's maybe an easier way.
+
+So Dorset Yacht was
+an example of this.
+
+On Dorset Yacht prison
+officers brought
+
+young offenders to an island and
+
+then left them unsupervised.
+
+It was reasonably
+foreseeable that they'd
+
+attempt to escape
+and damage property,
+
+and the House of Lords,
+
+they gave various
+different justifications
+
+in the judgement as it was,
+
+but Lord Hoffmann reasons
+
+that the defendants
+created the danger here.
+
+It was a kind of act,
+
+not a kind of omission.
+
+The negligence was caused by
+something which they did,
+
+namely to use their
+statute powers
+
+to bring trainees
+onto the island.
+
+They made matters worse.
+
+So it was an act,
+not an omission.
+
+Even though what they did was
+
+fail these young
+offenders, Bastil boys,
+
+the young offenders, they
+
+failed to stop them
+from damaging property,
+
+but by bringing them onto the
+island in the first place,
+
+they made matters worse
+and so the whole thing was
+
+a sequence of acts,
+not an omission.
+
+Same thing in
+Haynes and Harwood.
+
+They left horses untethered
+on a busy street.
+
+They bolted when kids
+threw stones at them,
+
+claim it was injured,
+
+held the defendant was liable
+as he created the risk,
+
+he put the horse there in
+
+the first place,
+made matters worse.
+
+Topp and London Country Bus
+
+is a case we've
+already come across,
+
+and it's a case of the opposite.
+
+D left bus with
+keys and ignition,
+
+third party stole the bus,
+
+killed the claimant, held
+that D was not liable,
+
+there's no duty of care
+because this was an omission.
+
+I hope you have a fairly
+clear idea of what
+
+constitutes the dividing line
+between acts and omissions.
+
+It can really be answered
+by asking whether
+
+or not the defendant
+made matters worse.
+
+Now let's get into the
+exceptions properly so called.
+
+We've already looked in
+quite a lot of detail
+
+at this idea of assumption
+of responsibility.
+
+We did so in the week
+about pure economic loss.
+
+You've already seen, and
+I hope you recall that
+
+Lord Joff expanded assumption of
+
+responsibility from
+negligent misstatement cases
+
+to provision of services cases.
+
+Provision of services cases
+
+crop up a lot in relation
+to public authorities.
+
+Assumption of responsibility
+is one way in which
+
+defendants get liable for or
+become liable for omissions.
+
+Lord Reed in N and
+
+Poole said that assumption
+or responsibility is
+
+undertaking that
+reasonable care will be
+
+taken usually
+
+from the reasonable
+foreseeability of reliance.
+
+For example, a
+hospital undertakes to
+
+exercise reasonable care in
+
+the medical treatment
+of its patients.
+
+The same is true of
+
+an educational
+authority accepting
+
+pupils into its schools.
+
+In both of those circumstances,
+
+they're liable for emissions.
+
+It's important to pause
+on this for a moment.
+
+Remember what I said in Week 2.
+
+When you think about
+normal duties of care,
+
+when you think about acts which
+
+reasonably foreseeably cause
+
+physical injury or
+property damage,
+
+you do not need to think about
+
+the special
+relationships involved.
+
+Let's say a doctor is
+doing a surgery and
+
+he's negligent and he nicks
+
+someone's main artery and that
+causes them to bleed out.
+
+That's an act, not an omission.
+
+You do not need to refer when
+establishing a duty of care
+
+there to the fact that it's
+
+a doctor patient relationship,
+
+that adds Nada,
+
+that adds nothing because
+
+the doctor has done an act
+nicking the patient's artery.
+
+But when it comes to emissions,
+
+you do need to refer to
+
+the special relationship
+between doctors and patients or
+
+hospitals and patients
+because it is
+
+that special relationship that
+
+grounds an assumption
+of responsibility,
+
+which makes those
+doctors liable not just
+
+for acts because everyone
+would be liable for acts.
+
+It makes them liable
+also for emissions,
+
+for failing to do
+certain things.
+
+When the hospital checks the
+patient in to the hospital,
+
+they can't just leave that
+patient as long as they don't
+
+mistreat them and let
+
+them die of bed sores
+
+or incontinence or
+whatever it might be,
+
+whatever issue the patient
+might be suffering from.
+
+The hospital then takes
+on responsibility to save
+
+them or to try their best
+to save them at least.
+
+Because of this
+special relationship,
+
+because they assume
+responsibility.
+
+The same thing applies
+in relation to
+
+educational authorities
+
+accepting pupils
+into their schools.
+
+Of course, the teacher
+has a duty not to
+
+hit their student or
+mistreat their student,
+
+not to do acts,
+
+but we all have that duty.
+
+What they have in virtue
+of being a teacher is
+
+a special heightened
+responsibility
+
+to protect the
+children from dangers,
+
+they have a positive
+obligation to do
+
+certain acts in a way that
+ordinary people do not.
+
+Let's take some
+examples of this.
+
+Barrett and MOD is
+a good example.
+
+That's Gin Lane, a nice
+painting by Hogarth.
+
+Barrett and MOD because this
+
+is a case about
+people getting drunk.
+
+Barrett and MOD, the claimant
+
+was an officer on a naval case.
+
+He became very drunk,
+collapsed and was put to bed.
+
+Not one of the claimants mates.
+
+The other officers, no one
+
+stayed to watch
+over the claimant,
+
+and the claimant choked on
+
+his own vomit and died.
+Very unfortunate.
+
+What did the Court
+of Appeal hold here?
+
+They held that there was an
+assumption of responsibility.
+
+Duty to take reasonable care.
+
+Until he collapsed, I
+would hold the deceased
+
+was in law alone responsible
+for his condition.
+
+Thereafter,
+
+when the defendant assumed
+responsibility for him,
+
+it accepts that
+the measures taken
+
+fell short of the standards.
+
+Because he was in
+this special setting,
+
+they'd all gone out and
+got drunk together.
+
+I was in this military setting,
+
+they owed him a special duty
+
+to watch over him and
+they failed in that duty.
+
+Another way of understanding
+this case is as
+
+a Category B case as in
+just to go back to here,
+
+A has done something
+which prevents
+
+another from protecting
+B from that danger.
+
+I'll just pause on
+that for a moment.
+
+It's important to
+understand that
+
+these different four exceptions
+
+are not necessarily
+watertight from one another.
+
+They are distinct, but
+they're patterns of
+
+liability not rigid
+logical categories.
+
+Another way of
+understanding this case,
+
+Barrett and MOD is that
+
+the defendants took
+the claimant to
+
+bed and they thereby cut him
+off from sources of support,
+
+which could have ensured he
+did not die during the night.
+
+Imagine a similar scenario.
+
+You're out with a mate and
+getting absolutely plastered,
+
+really, really fucked up,
+
+and you go home together and
+
+you're all in a big bunch
+and your mates say to you,
+
+someone should really
+look after Gary.
+
+He's really fucked up.
+
+He needs help and you
+say, don't worry.
+
+I've got it. I'll
+look after Gary.
+
+You look after Gary by taking
+
+Gary to bed on your own
+and then being like,
+
+I'm sure Gary will be all right.
+
+Then you bugger off to your
+room and just go to sleep.
+
+Gary does not wake
+
+up in the morning Gary
+has died overnight.
+
+You wake up in the
+morning and find Gary
+
+dead. It's your fault.
+
+You assumed responsibility
+to Gary to save Gary
+
+because you prevented
+all Gary's other mates
+
+from looking after
+him because you said,
+
+I've got this, I'll look after
+
+Gary and then you failed
+to look after Gary.
+
+The law will there impose
+on you a special duty.
+
+You owed Gary a special
+duty to look after
+
+him because you assumed
+
+responsibility and you took
+
+away other sources of support.
+
+You're the one who convinced
+all the other friends that
+
+you were the one who had
+this, and then you didn't.
+
+You left Gary on his
+own and Gary died.
+
+I hope that makes more
+vivid what's involved in
+
+the idea of an assumption
+of responsibility here.
+
+Costello is another example.
+
+Here, the claimant
+was a police officer
+
+and was attacked in
+a cell by an inmate.
+
+Fellow officers failed
+to come to our aid,
+
+and it was held that
+
+police officers do assume
+responsibility to one
+
+another to watch each
+other's backs in a way
+
+that you don't ordinarily assume
+
+such responsibility
+to fellow students.
+
+It's because of the way police
+officers are associated.
+
+Another way of understanding
+this case, again,
+
+just to show you that
+they're not watertight,
+
+is there a Category D case.
+
+Category D, remember being
+
+A's status creates an obligation
+
+to protect B from the danger.
+
+It's because of their status.
+
+It's because they
+are police officers,
+
+and so they have a
+special responsibility
+
+towards one another in virtue
+of being police officers.
+
+Swinney and the
+Chief Constable of
+
+Northumbria is
+another good example.
+
+Big Pussy Bonpensiero
+on the screen here.
+
+If any of you know what the
+hell I'm talking about,
+
+if you've seen the show,
+
+then you'll know why that
+photo is on the board.
+
+You haven't seen it, then
+don't ruin it for yourself.
+
+The facts in this case were
+
+the claimant was a
+police informant.
+
+There were documents including
+
+the claimant's name
+stolen from a police car,
+
+and the claimant
+was then threatened
+
+by the person who they'd
+
+snitched on because their
+identity was revealed.
+
+It was held that a defendant
+
+had assumed responsibility to
+
+the claimant to ensure that
+
+their identity was not
+revealed unnecessarily.
+
+The police assume
+
+this special responsibility
+to the informant
+
+to take special precautions
+
+to prevent their identity
+from being stolen.
+
+Of course, it was the
+third party who done it.
+
+You could say, well, this
+is an omission and it is.
+
+But the police have
+special duties to
+
+prevent the identity of
+
+their informants
+from being stolen.
+
+That was a failure
+on their part.
+
+Then there are a bunch of cases
+
+that we're going to look at on
+
+Friday where there was no
+assumption of responsibility.
+
+That'll give you the
+other side of the coin,
+
+what it looks like to be close
+
+to but not have an assumption
+of responsibility.
+
+Those will help you to
+draw the dividing line
+
+between when there is
+and when there isn't.
+
+These case like
+Stovin, Gorringe,
+
+Michael and N itself,
+
+and Pool Borough Council itself,
+
+the leading case here.
+
+Let's look at some of these.
+
+I should just say, some people
+argue that this category,
+
+assumption of responsibility is
+
+the only true exception
+and the others, B,
+
+C and D are all forms of
+assumption of responsibility,
+
+loosely so called,
+
+but it's all just
+different forms of it.
+
+I hope you remember from
+
+the second pure economic loss
+lecture at the end of it,
+
+that assumption of
+responsibility is a
+
+very amorphous tricky,
+
+weird doctrine, which
+is sui generous.
+
+But I think
+analytically speaking,
+
+it's easier to think of these
+
+as other separate categories.
+
+Another of the
+separate categories is
+
+preventing another person
+from protecting the claimant.
+
+The iconic case of Kent
+
+and Griffiths can be understood
+in exactly this way.
+
+In Kent and Griffiths,
+
+the claimant suffered
+an asthma attack.
+
+When the claimant's husband
+called an ambulance,
+
+he was told that
+an ambulance was
+
+well on the way and
+should arrive in
+
+a few minutes and didn't
+arrive for 40 minutes.
+
+Now, if the claimant had been
+
+told that it would take
+
+the ambulance service
+40 minutes to come,
+
+she would have
+driven to hospital.
+
+What was the problem here?
+
+The problem here, it's not that
+
+the ambulance service has
+
+some special obligation to
+people to pick them up.
+
+The ambulance service does
+not assume responsibility
+
+to you just by being
+the ambulance service.
+
+If you call the ambulance
+service and say,
+
+can you come help me and they
+say sorry, we're too busy.
+
+We cannot come help you.
+
+You can't sue them for that.
+
+They have no responsibility
+towards you,
+
+none at all in law.
+
+They may have a
+moral responsibility
+
+to come help you but in law,
+
+the ambulance service owes
+no greater responsibility to
+
+any of you than any private
+person owes to you.
+
+What they do have a duty to
+
+do is not to make things worse.
+
+Essentially, what
+they did here is
+
+in some way to
+make things worse.
+
+Because they said we're going to
+
+be there in seven
+or eight minutes.
+
+They interfered.
+
+They made it worse by
+
+interfering by saying
+we're going to be
+
+there in seven or
+eight minutes and
+
+then not rocking up at all.
+
+That should say in part.
+
+Defendant owed a duty to the
+claimant in part because
+
+the defendant's act prevented
+
+the claimant's husband from
+driving out of the hospital.
+
+Now, this is tricky, of course,
+
+because I've already told
+
+you that the distinction
+between acts and
+
+emissions can be understood as
+
+a distinction between
+making matters
+
+worse and not making
+matters worse.
+
+I've just told you that
+this is a case where
+
+the defendant made
+matters worse.
+
+Another way of
+understanding this case is
+
+that the defendant did an act,
+
+and this is not an exception
+to the emissions rule.
+
+It's actually a case of the
+defendant doing an act,
+
+which made things worse.
+
+That's a perfectly coherent way
+
+of understanding this
+case in my view.
+
+That chimes with the
+case of Tindall,
+
+case I've just
+written a case note
+
+on in the Cambridge Law Journal.
+
+Because Tindall was
+a case where really
+
+the Supreme Court said that
+preventing someone else from
+
+protecting the claimant
+is a way of doing an act.
+
+If you prevent someone else
+from protecting the claimant,
+
+you're doing an act.
+
+You're making matters
+worse in a way.
+
+In Tindall, this guy
+
+crashed on because of
+some ice on the road.
+
+He was fine. His car was right.
+
+He stood at the side of the road
+
+waving his arms to try and
+
+stop passers by from
+slipping on the ice.
+
+The police rocked up
+and they took him away,
+
+and later someone else
+
+crashed and died
+because of the ice.
+
+It was held that the police did
+
+actually make
+matters worse here.
+
+By taking him away
+and stopping him
+
+from warning passers
+by of the ice,
+
+they made things worse
+than it had been before.
+
+They interfered.
+
+They prevented this third party
+
+from warning other motorists.
+
+In a way, that's
+a act, isn't it?
+
+This is not really
+an exception at all.
+
+This idea of preventing
+another from protecting
+
+the claim is not really
+an exception to the rule.
+
+There's no liability
+for emission.
+
+It is rather another way of
+
+saying the defendant did an act,
+
+they made matters worse.
+
+Now, as it so happens
+in Tindall itself,
+
+there was no liability
+
+or there was no duty
+of care because
+
+although the defendant did make
+
+matters worse as it happens,
+
+the police didn't know that they
+
+were making matters worse.
+
+Ie, there was an act and it
+did cause physical injury,
+
+but the damage was not
+reasonably foreseeable.
+
+This is actually a
+remarkable instance
+
+where the High Court and
+
+the Court of Appeal
+had they listened to
+
+the honourable Dr.
+Letwin's taught lectures,
+
+would not have fucked
+up and would not have
+
+had to be reversed
+by the Supreme Court
+
+because the High Court and
+
+the Court of Appeal
+failed to ask
+
+themselves the
+clear precise test.
+
+They did not ask themselves,
+
+was this a case of an act which
+
+reasonably foreseeably
+caused physical injury.
+
+They did not ask all
+three of those questions.
+
+They got caught up on the
+fact that this was a case of
+
+an act not an omission
+because D made matters worse.
+
+They literally forgot
+to ask themselves,
+
+was the damage
+reasonably foreseeable?
+
+The Supreme Court
+asked themselves,
+
+was the damage
+reasonably foreseeable?
+
+They said, no. You've always
+
+got to ask yourself,
+is it an act?
+
+Is the damage reasonably
+foreseeable to the claimant?
+
+What's the injury? Is
+it physical injury,
+
+psychiatric injury,
+property damage?
+
+What is it? Because if you
+
+ask those three questions,
+you can't go wrong.
+
+This is really a remarkable
+instance of the High Court
+
+and the Court of
+Appeal just missing
+
+the fact that damage to
+
+the claimant was not
+reasonably foreseeable.
+
+Then we have cases which involve
+
+control over the
+source of a danger.
+
+Again, you might think
+of this as a act,
+
+Yetkin and Mahmoud
+is a good example.
+
+Here, a highway authority,
+
+they plant various shrubs and
+
+bushes on the
+central reservation.
+
+That's a central reservation
+and they didn't keep them
+
+trimmed and the
+claimant stepped out
+
+from the central
+reservation without
+
+waiting for lights to change.
+
+Her view of the
+traffic was obscured.
+
+She was hit by the car.
+
+It's held that the
+highway authority did owe
+
+a duty because they
+made things worse.
+
+They had planted the various
+shrubs in the first place.
+
+They created the source
+of the danger and
+
+it was their duty
+to keep it trimmed.
+
+That can be contrasted
+with Sumner and Colborne.
+
+Here, the claimant was
+a cyclist hit by a car,
+
+visibility at the junction
+
+was severely
+restricted because of
+
+the presence of vegetation
+on land next to the highway.
+
+Now, they got
+responsibility for that,
+
+but they didn't actually plant
+
+the plants next to the highway.
+
+It was just their statutory
+duty to keep it trim.
+
+Notice the important difference.
+
+In Yetkin they planted the
+plants in the highway.
+
+They made the danger
+happen in the first place.
+
+They were under a duty.
+
+In Sumner, they did not
+plant these plants.
+
+They had a statutory
+responsibility
+
+to keep the highways trim,
+
+the verges trim, but
+
+they weren't the ones
+who created the danger.
+
+They just had a public
+law duty to do it,
+
+and public law duty does
+not equal tort law duty.
+
+A private person would
+not be liable for this.
+
+Private persons
+are not liable for
+
+emissions nor was the
+defendant in this case.
+
+In no sense could
+the obstruction
+
+to visibility at the time of
+
+the accident be
+said to have been
+
+the result of a positive
+act by the council?
+
+You might think it's ridiculous.
+
+Surely, it's council's fault.
+
+Well, it is their fault, but
+
+it was an omission, not an act.
+
+Similar considerations apply in
+
+Reeves just another
+example of the same point,
+
+Claimant's partner
+died in custody.
+
+Dr. Aldus sound mind,
+
+police had a duty of care
+to take reasonable steps
+
+to assess whether prisoners
+pose a suicide risk.
+
+There was a duty in this case.
+
+Then finally, you have
+
+these weird cases about
+status and this is
+
+a weird exception where the law
+
+imposes special duties in
+very specific circumstances.
+
+Head teachers, they have a
+duty to take positive steps
+
+to protect the well
+being of children.
+
+That might be understood
+as a assumption of
+
+responsibility case
+or as a status case.
+
+Occupier liability is another
+good example of this.
+
+You'll learn about
+this next term.
+
+But the point is
+occupiers of houses.
+
+If you own a house,
+
+you have very heightened
+duties to people who come into
+
+your house because of
+
+a set of statutes which
+impose those duties.
+
+You become liable for
+
+all omissions in relation
+to your house because
+
+the law imposes
+those by virtue of
+
+your status as the
+occupant of the house.
+
+Thank you very
+much. [BACKGROUND]
+

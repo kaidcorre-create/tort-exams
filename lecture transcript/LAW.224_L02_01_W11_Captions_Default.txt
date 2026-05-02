@@ -1,0 +1,2540 @@
+FEMALE_1: Hello. This
+one works, I think.
+
+Dr. Megan Rae Blakely: Let's
+go ahead and get started.
+
+I have a two announcements.
+
+One boring and administrative,
+
+one hopefully a little
+more interesting.
+
+Boring administrative is
+just an extra reminder
+
+that we never hope
+to have to give,
+
+but please do not check into
+
+workshops when you
+do not attend.
+
+This is extra administration
+for us. We don't like it.
+
+The other issue is that we are
+
+meant to pass this
+back to the office.
+
+It is an academic
+integrity issue.
+
+It's also a safety issue.
+
+In the very rare situation where
+
+we are going to have to
+actually leave the building,
+
+we expect that people who
+have checked in are in
+
+the room and we're
+responsible for those people.
+
+This did happen last
+year to me once
+
+because we do have a chemistry
+department on campus.
+
+Nothing happened,
+but we did have to
+
+leave and we did have
+to check our roster.
+
+But I think most important
+for you is I'm in a season
+
+where I'm getting a lot of
+
+references and recommendations,
+
+and we have to go to the
+office and we have to say,
+
+has there been any issues
+with honesty or trust?
+
+Is there anything on the record
+
+that's disciplinary in nature?
+
+You really don't
+want to jeopardise
+
+your future job by checking
+
+into a workshop
+that you're not at.
+
+It's not my job to
+parent and please.
+
+I don't want to be a
+parent in any situation.
+
+I wouldn't be teaching adults,
+
+so please just don't do it.
+
+If you're having difficulties,
+
+there's a plethora of links
+and things to help you.
+
+Don't get yourself into
+trouble over something
+
+stupid and just don't check
+in if you're not there.
+
+The better announcement,
+we're going to move
+
+forward because this doesn't
+apply to most of you anyway,
+
+and most of you are
+completely fine with that.
+
+What are we going to be doing
+the next few bits of class?
+
+I usually take requests
+
+because we have a
+bit of flex time.
+
+If there is something that you
+
+are interested in
+hearing more about,
+
+I can dedicate a little
+bit of time to things
+
+like how to best use AI in
+
+your preparation or technology
+
+or how to do
+
+more problem questions in
+a more efficient manner.
+
+If there's something that you
+
+would like to spend
+more time on,
+
+if we have more
+time in the module,
+
+I'm really happy to do that.
+
+If you don't care and
+you're happy to continue to
+
+do tort and whatever I
+think is most appropriate,
+
+then nothing and we
+will proceed that way.
+
+But I like to open
+
+the door to if there is
+something that would really
+
+help you in the next
+few weeks that we
+
+can do together,
+then that's great.
+
+Monday, you will have
+noticed that I've put up
+
+a little list that is a way
+
+that you may wish to
+approach problem questions,
+
+and I'm going to try to do this
+
+in a mostly interactive way.
+
+What's worked in my workshops,
+
+obviously in a smaller room
+
+is using your phone
+with a QR code,
+
+and doing a bit
+of a sense check.
+
+Something interactive you can do
+
+during lecture and
+see how it goes.
+
+I'll also probably put
+
+just a link on Moodle
+when we're ready to
+
+do it so that you don't
+have to fish your phone
+
+out or you can't get
+the QR code to work.
+
+On Monday, you can expect
+that at some point,
+
+I'll pop a link up
+during lecture.
+
+You can click on it
+and we'll do something
+
+that's a little bit more
+interactive with how
+
+to approach things like
+
+problem questions in
+a methodological way
+
+and we'll do that
+using the OLAs.
+
+We're just going to go
+a little bit through
+
+the occupiers liability that
+we didn't get to at the end,
+
+a little bit on defences
+and warnings and then
+
+go into the 1984 Act today,
+
+which is for non-visitors.
+
+We talked a little bit about
+how an occupier might still
+
+incur liability for a
+
+non-visitor if they're
+injured on the property,
+
+and Monday will
+consolidate all this.
+
+Don't worry too
+much if we again,
+
+don't get through everything.
+
+Looking at them holistically
+tends to be really helpful.
+
+Microphone is not
+working today very well.
+
+Tends to be very helpful
+
+because there's a
+lot of overlap.
+
+I said as well on Monday
+that there's always
+
+a potential to move from being
+
+a visitor to a non-visitor
+depending on your behaviour,
+
+depending on where
+you go on a property.
+
+I hope that this
+helps because you are
+
+now at a place where you have
+
+a better grasp on the way
+negligence works in this area,
+
+and how this partially codified
+bit of negligence works.
+
+Summary, email me if you have
+
+something specific you want
+to do in the next few weeks.
+
+Monday, we're going to
+do something a little
+
+interactive once we
+wrap up the rest of
+
+the OLAs and talk about how
+to approach this as a whole.
+
+I think it was just telling
+
+me should not be
+in protected view.
+
+There. Like I said, we're
+going to start by doing
+
+a quick little review just
+to contextualise 1957,
+
+where you have a visitor
+on your property.
+
+You'll see these
+warnings all the time.
+
+You slip on the ice and someone
+
+be careful, it's slippery.
+
+Is this a sufficient warning?
+
+Not really. But you need
+
+to make sure that
+
+your visitors in particular
+
+are safe while they
+are on your property.
+
+This is just a reminder
+
+of what we're talking
+about with warnings.
+
+It is a type of
+negligent liability.
+
+You have your physical injury or
+
+your property injury for
+
+your visitors and it's
+a partial codification.
+
+We should all be
+clear on that bit.
+
+When you see a
+question like this,
+
+you want to figure out
+who the occupier is.
+
+Do you have your
+proper defendant
+
+and make sure that you have
+the relevant premises.
+
+You remember with wheat
+and Laken we talked about,
+
+where you want to find
+the person who is
+
+exercising control
+over the danger.
+
+It doesn't have to be the
+owner every single time.
+
+An occupier can simply
+be the one who has
+
+control over the space
+where the injury occurs.
+
+It has to be a static danger,
+
+so anything that isn't
+related to the property,
+
+if their injury occurs
+from another person,
+
+this is not something that then
+
+goes back to the occupier.
+
+This is between the two people.
+
+It has to be related
+to the property.
+
+Your really quick review
+here if you want to
+
+get your brain
+back in this space
+
+from what we did on Monday,
+
+you want to think about all of
+
+these things and the warnings
+are really important.
+
+I actually think
+it makes a lot of
+
+sense to talk about
+them today in relation
+
+to the 1984 Act
+because this is one of
+
+the really
+distinguishable things
+
+between these two
+types of liability,
+
+and it all depends on who the
+visitor is or non-visitors.
+
+The case may be with 1984.
+
+You have your special
+classes of children
+
+and your special classes of
+independent contractors.
+
+If you think about
+your requirements
+
+of standard of care
+as an occupier.
+
+If you establish that
+you have a duty because
+
+you have a degree of
+control over the premises,
+
+your standard of care varies
+based on these visitors.
+
+This is the same as negligence.
+
+It's not entirely different.
+
+But because this is codified,
+
+we use these standards in
+
+these sections because the
+courts wanted to ensure
+
+that we have a certainty
+
+for how these different types
+of visitors are treated,
+
+protection in particular
+for children,
+
+and also protection for
+the occupiers.Because if
+
+you have someone who is a
+specialist, for instance,
+
+a chimney sweep or someone
+who maintains boilers,
+
+particularly people dealing with
+
+things that are dangerous
+on your premises.
+
+The occupier shouldn't
+be liable for
+
+that person's professional
+carelessness or negligence.
+
+They have codified this.
+
+Before we go on, I'm just
+going to pop back to
+
+our last slide from Monday,
+potentially, I will.
+
+We talked about special
+class as a visitor.
+
+You should remember this
+from last time, Monday.
+
+You want to be familiar
+with these cases
+
+for establishing
+liability for children,
+
+and also persons
+exercising a calling.
+
+Those are your contractors
+and we'll have a chance to
+
+talk about this in a lot
+more detail in workshop.
+
+But this is the section.
+
+If you've not found it yet on
+
+the 1957 Act for
+
+the variations of standards of
+
+care for an independent
+contractor.
+
+This is really important
+
+because it could make
+the difference between
+
+the actual occupier
+incurring liability for
+
+an injury or the injured party
+
+being able to go
+after the contractor.
+
+This is part of the
+reason Section 24b,
+
+you want to highlight
+this in your notes from
+
+the 1957 Act because
+it is a way for
+
+the occupier to ensure
+
+that they're protected if
+somebody does shoddy work.
+
+If you are an occupier
+
+and you hire someone to
+build a deck, for instance,
+
+and the deck looks
+like it's well done,
+
+but realistically,
+the contractor
+
+didn't put all the support
+beams underneath it.
+
+The deck falls, your
+visitor is injured.
+
+At first glance,
+it probably seems
+
+like something that should
+go to the occupier.
+
+The occupier has that
+degree of control
+
+over their living space
+and if something is wrong,
+
+if there's a static danger,
+
+then the occupier needs to
+warn their visitor and say,
+
+don't go on the deck, it's not
+
+fully finished or
+don't go on the deck.
+
+The board isn't fully secure.
+
+But this sets out
+
+that occupier acted
+reasonably in entrusting to
+
+a contractor that the
+contractor is competent and you
+
+look at it in your
+basic deck expertise
+
+and it looks okay.
+
+You can actually not be
+liable for that injury.
+
+This can be a really
+important way
+
+for an occupier to
+address any claim
+
+that comes up and we'll look at
+
+case law to talk about
+what competent means.
+
+How do you ensure that your
+contractor is competent?
+
+Maybe you look at
+reviews online,
+
+maybe those are trustworthy,
+maybe they're not.
+
+Hopefully, you ask
+for insurance.
+
+If it's work that's risky,
+
+hopefully you ask to see
+
+any professional
+certifications that they have.
+
+That's probably
+reasonable because
+
+you're not expected
+to be an expert.
+
+24b is really important
+in being able
+
+to correctly allocate
+the liability
+
+to the party that
+created the danger.
+
+24 A is interesting
+as far as warning.
+
+I feel like the
+warning language here
+
+is not the most straightforward
+it could possibly be.
+
+If you're looking for
+legislative clarity, it says,
+
+where damage is caused
+by a visitor by
+
+a danger of which he had
+been warned by the occupier,
+
+the warning is not to be treated
+
+without more as absolving
+
+the occupier from
+liability unless in
+
+all the circumstances
+it was enough for
+
+the visitor to be safe.
+
+If I got an essay
+that said this,
+
+this will probably have a lot of
+
+red pin on it for clarity.
+
+What they're trying
+to say is you
+
+have to give a warning that
+
+will make your
+visitor reasonably
+
+safe in all the circumstances,
+
+unless you need more
+for them to be safe.
+
+So if you say don't go
+
+on the deck because
+the board is loose,
+
+your visitors should
+not go on the deck.
+
+That's enough for them as a
+responsible adult to be safe.
+
+If you think I have work
+going on in the bathroom,
+
+I'll just close the
+door at a party and you
+
+don't tell anyone
+that the basin isn't
+
+fully attached to
+the wall and you
+
+just close the door
+in the back and
+
+assume no one will go
+there and you just say,
+
+hey, stay in the living room.
+
+This probably is not enough for
+
+your visitor to be
+reasonably safe because you
+
+should understand that at
+some point they might go
+
+looking for toilet or
+water or something.
+
+Just say here is not enough for
+
+a visitor to be reasonably safe.
+
+The standard you're looking
+for is do you need to do more
+
+to make sure that this
+person is safe in your home?
+
+You have this very convoluted
+language to state that.
+
+If it's really obvious,
+
+and we'll talk a lot
+about obviousness,
+
+particularly with the 1984
+Act with non-visitors.
+
+If it's really
+obvious, you don't
+
+need to baby your adult visitor.
+
+You don't need to follow them
+around and make sure that
+
+they're avoiding sharp
+corners on your countertop.
+
+This jurisdiction is
+really quite good
+
+about balancing liability,
+I would suggest.
+
+There are some jurisdictions
+
+that don't have as much
+personal responsibility
+
+on a potential claimant.
+
+We have a lot of case law that
+
+specifically says
+you cannot increase
+
+the sphere of the occupiers
+
+liability by being negligent
+of your own safety.
+
+They do try to strike
+a balance here,
+
+but they do try to make
+
+sure that you're
+adequately warned.
+
+I mentioned last time as well,
+
+open nature, obvious risks,
+
+if you're wild swimming,
+
+if you're rock climbing,
+
+we're not trying
+to prevent people
+
+from doing things that
+they accept the risk for.
+
+You have really common
+
+similar types of defences
+
+and we'll also talk
+about this in 1984.
+
+Common duty of care,
+
+if you willingly accept,
+
+this is just a partial
+codification of Volenti.
+
+Partial codification
+of something
+
+like contributory negligence.
+
+You'll get to defences
+in a few weeks,
+
+but just keep in mind,
+
+there's some certain common
+types of defences that
+
+you probably logically
+would expect to exist.
+
+You probably think if
+
+this person willingly
+accepted the risk,
+
+if they wanted to go wild
+swimming in a pond as
+
+an adult who has
+experience with this,
+
+it would be absurd to
+
+expect a trust to
+mitigate wildlife.
+
+You have to have
+some responsibility
+
+and you accept the risk.
+
+Let's go back to '84
+with that in mind.
+
+We have this distinction
+very clear by now,
+
+persons other than visitors.
+
+I really want to emphasise
+this. It's in red.
+
+Do not fall into the trap of
+constantly calling everyone
+
+a trespasser because the scope
+
+of the act is wider than that.
+
+You don't have to be legally
+trespassing in order to
+
+fall into the 1984 Act
+
+and that is distinguishable
+and important.
+
+It can affect the depth
+
+of analysis if you
+start to try to
+
+classify the entrant
+as a trespasser,
+
+so keep in mind the
+scope is a bit wider.
+
+Now the duty on the occupier,
+
+as you would probably
+hope is going to
+
+be not as broad because
+this is not an invitee,
+
+someone other than
+an invited visitor.
+
+The duty arises
+only if they have
+
+reasonable grounds
+to believe that
+
+the danger exists or
+they know of the danger,
+
+and they can be reasonably
+expected to offer protection.
+
+There's so much
+reasonably in this,
+
+and the circumstances that
+the courts will consider
+
+are also much more expanded
+
+than other areas of
+
+the law that we've
+talked about because
+
+let's say you own a
+large field and you
+
+know there's hidden dangers,
+
+there's rocks,
+there's something,
+
+but the cost to fence
+the entire acre,
+
+whatever huge plot of land you
+have would be prohibitive.
+
+Even if you know there's
+a danger there and you
+
+know people might come
+onto the property,
+
+the measures you
+would be required
+
+to take are not going to
+
+be implemented outside of
+
+considerations of
+things like costs.
+
+Again, this is a balance.
+
+Particularly, if you
+invite people on,
+
+your duty is broader.
+
+You have more scope
+
+because you intentionally
+invited people,
+
+but if you have
+people who are not
+
+visitors who have
+not been invited,
+
+you know people are coming
+onto your property,
+
+sometimes what I'm
+distinguishing
+
+from is a lot of
+the times children.
+
+Doctrine of allurement,
+
+if you have something
+where children
+
+come onto your property,
+
+but it has to be
+reasonable and you
+
+don't have to go seek
+these things out either.
+
+It doesn't mean
+you ought to know.
+
+The '84 Act, even
+though it sounds quite
+
+onerous for
+
+trespasser liability or
+non-invitee liability,
+
+it's not quite as bad.
+
+If you're trying to
+establish a non-visitor,
+
+this is what you
+want to go through.
+
+Like I said, this statute
+is really useful if you
+
+like things to be more
+clear than negligence.
+
+There's a lot of clarity in
+
+these acts and the
+acts aren't too long.
+
+If you're trying to
+establish duty here,
+
+1984, you have to meet the
+criteria in Section 1(3).
+
+This is what I'm talking
+about reasonably
+
+expected in all the
+circumstances and
+
+all the circumstances here
+
+mean things that are subjective
+to the defendant as well.
+
+Where in a lot of other cases,
+
+if you were to look
+at just a more
+
+general negligence
+type of claim,
+
+you would be more held to
+
+more objective negligence
+types of criteria.
+
+While here they'll look
+at the financial state,
+
+whether the person
+actually knew,
+
+whether they
+reasonably should have
+
+known, offer some protection.
+
+There's a lot of legal
+caveats on here.
+
+If for somebody, all of
+you in the room who are
+
+legally educated and you're
+reading statutory language,
+
+there's a lot of
+caveats, loopholes,
+
+legal checks here
+that you want to
+
+emphasise because there are
+definitely ways out here.
+
+Again, that the non-visitor
+is not injured,
+
+property is excluded from this.
+
+It only pertains to personal
+injury of the non-visitor.
+
+If somebody comes onto
+your land uninvited,
+
+there's a danger you
+ought to have known
+
+about and they trip and
+break their iPhone.
+
+This is not a recoverable type
+
+of harm if you are not invited.
+
+Whereas if it were a visitor,
+
+then you might incur
+some liability there.
+
+Non-visitors, I think
+I've said children can
+
+sometimes may not
+be considered to
+
+be trespassing based on
+the way you go about this.
+
+Using a private right of way,
+
+sometimes you will
+be a non-visitor,
+
+but you still might have some
+liability for that person.
+
+If you think about those
+big fields, for instance,
+
+where they have to allow
+
+different types
+of rights of way,
+
+you might come across that.
+
+Highways all separately,
+and no duty to ramblers.
+
+Natural hazards tend to
+a couple of years ago
+
+member of some ramblers
+society of Wales or something.
+
+There's active
+organisations that
+
+go out and do this to make sure
+
+and probably you'll come across
+
+this more land and property
+law than you do in tort.
+
+But ultimately anything that's
+
+a natural hazard
+for tort purposes,
+
+if a reasonable adult will be
+
+aware that they should
+be careful around it,
+
+then it ends up being excluded.
+
+One of the really
+important things you'll be
+
+looking at here is
+defining the danger.
+
+Again, all of these cases
+are mildly very horrible.
+
+A really important case
+in this area had to do
+
+with figuring out what
+the danger is when
+
+you're surfing on train cars.
+
+This was a case where there were
+
+teenage boys that
+were skipping school,
+
+had left class and
+had come across
+
+to a nearby train yard.
+
+The train yard was aware that
+teenagers would come onto
+
+the property and had
+tried to replace
+
+the fence multiple
+times and that thing.
+
+But it was an active
+train yard with
+
+moving trains and they
+would leave class and they
+
+would get up on top
+of the trains and run
+
+across the train cars
+because of teenagers.
+
+Sadly, at one point,
+one of the boys fell
+
+or got leg caught and
+ended up losing a leg,
+
+when they tried to determine
+what is the danger,
+
+because it can only be a
+sad danger of the property.
+
+If the court determined that
+
+the danger was train surfing,
+
+this is an activity.
+
+This is something that someone
+is doing on the property.
+
+This is not what the
+property is for.
+
+If the danger would have
+been moving trains,
+
+then they may have had
+a better chance going
+
+forward because that is a
+danger on the property.
+
+But the court said,
+just on its own,
+
+having something that can
+
+potentially present
+a hazard doesn't
+
+mean that it's a static
+danger of the property.
+
+The actual danger
+wasn't the train.
+
+The danger was climbing
+on top of the train
+
+and trains are [inaudible].
+
+Because of this reason,
+
+they were not able to recover
+
+injuries because it's not
+
+static danger of
+the property and
+
+they had taken great efforts.
+
+Defining the danger is really
+important and what are you
+
+actually talking about
+as far as liability?
+
+Obvious and non-obvious
+is a really fun cardio.
+
+Something with a danger
+obvious and not obvious,
+
+and these are all
+actually from cases.
+
+I didn't want to put
+
+[inaudible] because I
+don't want you to get too
+
+worried about knowing every
+single one of these cases
+
+unless you're specifically
+looking at this area.
+
+From an overview
+introductory perspective,
+
+you don't need to get
+too worried about this.
+
+But as far as analysis goes,
+
+where you have an eruption
+danger, what's obvious.
+
+Shallow water is
+considered to be
+
+obvious danger, spikes fences.
+
+My favourite sprung
+off a bouncy house.
+
+This is an obvious danger.
+
+Maybe for young children,
+
+you might have a
+different outcome.
+
+What if you're an
+adult and you jump on
+
+a bouncy house and you
+fall onto a hard surface,
+
+then you're probably
+not going to be able
+
+to recover your night
+swimming a thing.
+
+Now you might be concerned
+
+about non-obvious dangers
+with wheat and lichen,
+
+no railings, unstable railings.
+
+But if you remember the danger
+
+they actually determined here
+
+had more to do with the
+light, the unlit hallway,
+
+and there was a
+partial railing and
+
+the claimant or the
+
+deceased claimant and
+claimant's estate
+
+had to do with
+
+the lack of the
+railing at the end,
+
+and they were a lazar.
+
+They've seen the railing before,
+
+they've gone up
+and down the hall.
+
+There's even room there.
+
+Hopefully that makes a
+little bit of sense.
+
+But if you can come
+up with a danger and
+
+you decide that it's
+obvious for an adult,
+
+then you're not going to
+incur liability here.
+
+I mentioned Tomlinson
+Monday as well,
+
+it's really important to
+know this case around
+
+the agenda diving shallow
+water case where there
+
+were ample warnings
+that they should not
+
+trespass out of the
+public area in the park
+
+into the lake, that
+it was dangerous.
+
+It has to emanate from
+
+the state of the premises or
+
+things done or admitted to them.
+
+Again, a man-made lake
+on its own was not
+
+determined to be a
+danger on its own.
+
+You have to look at these
+instances as a whole,
+
+and a lot of it does hinge on
+
+your common sense
+and what should
+
+you be doing to take
+care of yourself,
+
+as well as what are
+
+the reasonable actions that
+an occupier has taken in
+
+order to ensure that people
+
+around those premises are safe.
+
+Well, it seems like a lot of
+the time the swimming and
+
+the diving might
+always be obvious.
+
+Donoghue was a little bit
+
+different in that they
+did know that there was
+
+a danger and it was a place
+where people were swimming.
+
+Again, you have to be really
+immersed in the facts.
+
+There was a boat
+
+or rocks or there was a danger
+under the water that would
+
+not have been obvious to
+people swimming on a lake
+
+that the occupiers
+here knew about,
+
+and the argument was
+that they should have
+
+provided some warning
+or protection
+
+that the water was shallow
+where it shouldn't have been
+
+shallow and then the injury
+
+to the claimant would
+not have occurred.
+
+But the diving
+occurred in winter,
+
+and they were able to
+successfully argue that they had
+
+no reason to know
+or suspect that
+
+anyone would be swimming
+in the lake in winter.
+
+They did not offer any
+
+additional protections
+or warnings,
+
+even though it was a place where
+
+people would normally swim.
+
+If it were summer,
+
+the outcome would
+have been different.
+
+This is an example of
+
+looking at all of
+the circumstances.
+
+Swimming at night or
+swimming in winter,
+
+all of these things can change
+
+the approach to whether or
+not a danger is obvious,
+
+or whether or not
+someone should expect or
+
+know that there will be
+non-visitors on a property.
+
+This is why things like
+
+from Monday where I
+mentioned a beach,
+
+whether something occurs
+on a beach or whether it
+
+occurs on a grassy
+field outside of
+
+counsel is always
+going to influence
+
+the outcome of an analysis
+in this area of law.
+
+It's really dependent
+on property and land.
+
+A little more on the facts here.
+
+Again, I said teenager,
+
+but 18-year-old, barely
+teenagers, still adult.
+
+We just found out,
+
+I think that your frontal cortex
+
+develops until you're
+in your early 30s.
+
+I don't know what that means for
+
+requiring 18-year-olds
+to have good judgement.
+
+But as I said,
+
+there were ongoing warnings.
+
+The owners of the property
+
+that counsel made
+concerted efforts.
+
+They hired a security guard.
+
+They put in leaflets
+
+to the nearby places because
+
+they were really
+worried about this.
+
+They knew that this
+was happening with
+
+the teenage boys jumping into
+
+the lake and that
+it was shallow.
+
+But then the question
+here becomes,
+
+if it's a public area,
+
+we invite the public onto
+
+this space and they
+have made warnings.
+
+Should the question be,
+
+are they making the space
+safe for their visitors?
+
+Should they have put up a fence?
+
+Should they have done more in
+
+all the circumstances to
+
+ensure that their visitors
+are reasonably safe?
+
+Or is this a circumstance
+where we actually pop over to
+
+the 1984 Act and they're
+
+trespassing because they've
+exceeded their permissions.
+
+We'll do a little bit
+more of this next Monday
+
+together to try to see
+how these two work.
+
+Because of course, if
+you are a claimant,
+
+which act do you
+want to be under?
+
+Do you want to be a
+visitor or non-visitor?
+
+Visitor. You want
+to be a visitor.
+
+You have more protections.
+
+Your claimant or your defendant
+has more obligations,
+
+and they don't have very
+much leeway to get out of-
+
+Whereas the 1984 Act
+
+for non-visitors is written with
+
+quite a lot of ways that
+the occupier is not liable,
+
+there's just more
+emphasis on taking
+
+care of your own self
+
+if you are not invited
+and you go into a space.
+
+They do all of these
+things for warnings.
+
+The question; they
+said, were these
+
+sufficient and
+reasonable precautions?
+
+Especially because they're
+exceeding their permissions.
+
+They were clearly
+told not to go.
+
+Eventually, you get
+to the 1984 Act.
+
+Because if you only have 1957
+
+where you're invited,
+that's very different.
+
+Ultimately they say this
+
+was sufficient and
+reasonable and we do
+
+end up with a lack
+of liability here.
+
+Because they say again,
+
+if you're trying to locate
+what the danger is,
+
+they're saying this is not
+
+a thing that has to do with
+the state of the premises.
+
+There's quite a few different
+ways in which you can flag
+
+up things not coming together
+in this kind of a claim.
+
+They said, this was an activity.
+
+This is not a state
+of the premises.
+
+We do not have
+
+a problem with having a
+shallow lake. All clear?
+
+Breach here is going to be
+much like regular negligence,
+
+but you always want to
+refer back to the statute.
+
+Have you done what you
+needed to do to provide
+
+precautionary information
+to your non-visitor?
+
+You can always go
+back to Tomlinson.
+
+If you're having
+trouble with this,
+
+I would just go read
+the whole case.
+
+Crazy suggestion.
+
+Go read Tomlinson, see
+what they have to say.
+
+It's like reading Wheat.
+
+Because they talk through
+these arguments in
+
+a really ordered way,
+it's really helpful.
+
+If it's an obvious danger,
+
+is it a static danger?
+
+There's lots of
+different points.
+
+If you're doing
+your own analysis
+
+of a similar type of a problem,
+
+each one of these stopping
+points you can go through
+
+and analyse whether the court
+should accept this or not.
+
+There's a lot to work
+within these situations.
+
+I've touched on
+this a little bit.
+
+Public right of way, we
+don't go into the OLAs.
+
+Anyone passing by, it really
+has to be on the property.
+
+It's quite narrow in that
+and we don't want to
+
+expand liability
+unjustifiably here.
+
+Non-humans; if you're
+interested in animal law,
+
+Dr. Rachel Hay is
+doing that as well.
+
+But ultimately, if
+you think about,
+
+are you injured by an insect,
+
+these sort of things,
+
+this is not a static danger.
+
+Again, like I said, the
+most interesting part
+
+of this is going to be defences.
+
+I wanted to start with the
+1957 defences but ultimately,
+
+you have a thing referred to
+as a statutory escape hatch.
+
+You don't have to prove that
+you have a duty or that
+
+you breached or
+you didn't breach.
+
+If you can fulfil this
+with your warning to a
+
+non-visitor/trespassers/whomever
+
+is exceeding their
+permissions as a visitor,
+
+you want to look
+at Section 1(5).
+
+If they look in all
+the circumstances of
+
+the case to give warning
+of the danger concerned;
+
+and this is where it gets
+a little bit tricky,
+
+how do you qualify
+danger concerned?
+
+It has to be specific.
+
+Danger of injury
+isn't going to work.
+
+Unsafe railing, maybe.
+
+The railings unsafe.
+
+Is that enough in
+
+all the circumstances to
+
+discourage persons from
+incurring the risk?
+
+If you start looking around,
+
+I'd recommend that over
+the next week or so,
+
+weekend even when you go out,
+
+have a look and see if you
+can see any of these signs.
+
+Are they sufficient to
+
+discourage people from
+incurring the risk?
+
+Warning stay out,
+is that enough?
+
+Probably not. You shouldn't
+not listen to the sign.
+
+You should stay out. But that
+
+doesn't tell you
+what the risk is.
+
+It comes back to,
+
+what are you consenting to?
+
+Is this a Volenti situation
+or not a Volenti situation?
+
+Are you just ignoring
+a sign or are you
+
+assuming a risk that you
+might get electrocuted?
+
+You might make a
+different decision.
+
+If the occupier
+knows or ought to
+
+know; not ought to know,
+
+knows or should know
+that this risk exists,
+
+then you have to in all the
+circumstances give warning.
+
+For most of the time, we
+won't be asking you to cite
+
+any specific types of numbers
+of a statute in this thing.
+
+But because we go over
+in so much depth,
+
+I would suggest that
+it would behove you to
+
+note the sections
+of the statute.
+
+Like I said, it's a
+very short statute.
+
+You can really rely
+on the text here.
+
+So danger concerned rather
+
+than danger generally
+and you almost
+
+never come across in
+this area something that
+
+would be considered
+an absolute defence.
+
+But this is an absolute defence.
+
+If you can as
+
+an occupier give
+specific warning
+
+of the danger concerned,
+
+then you will be in good shape.
+Does that all make sense?
+
+Volenti specifically
+written into the area.
+
+Like I said, a lot
+of these come back
+
+to a lot of swimming
+waters situations.
+
+This is another variation here
+
+where we have something where
+
+instead of a determination that
+
+the danger was not static
+
+and that the danger
+was the activity,
+
+that there just was
+
+a contribution to
+their own injury here.
+
+This is going to end up
+
+reducing the liability
+that the occupier has.
+
+This would have been at night
+if I recall university.
+
+Broke into a swimming pool,
+
+dove into the shallow
+water and is paralysed.
+
+But what is your
+warning for the danger?
+
+You have to pick what the
+danger is that you are
+
+trying to warn of for an adult?
+
+Why do we have this discrepancy?
+
+If you're looking at these
+different cases like
+
+Tomlinson where they
+eventually come
+
+to the conclusion that
+
+ultimately this is an
+activity on the premises,
+
+this is not a static danger.
+
+Shallow lake is not a
+danger in and of itself,
+
+but the issue is that it
+was an activity and they
+
+chose to do this activity
+and then were injured.
+
+Where here we have a
+slightly different outcome.
+
+It's really coming back to
+the way that these judges are
+
+treating the statutory
+language itself and
+
+some of it particularly
+
+in cases like born
+where you're dealing
+
+with children
+
+and child drownings and
+this sort of stuff,
+
+there is a lot of pressure,
+
+I would suggest
+on judges to make
+
+some policy underlying decision.
+
+Even though judges aren't
+
+supposed to be making
+decisions on this,
+
+you're supposed to be looking at
+
+the statutes and the
+facts and the law.
+
+You can imagine that you have
+
+some very sympathetic
+claimants here.
+
+For a lot of these,
+these cases go on
+
+for a really long time and
+
+the claimants who
+come in then are
+
+sometimes 10 years
+older than they were.
+
+Specifically with the
+train surfing case,
+
+this took around 10
+years to actually get
+
+back fully to a decision
+with appeals and everything.
+
+You have these now
+grown adults with
+
+leg amputation or life
+changing injuries
+
+or wheelchair bound bringing
+
+these cases in get appealed up.
+
+Sometimes if they
+seem inconsistent,
+
+I think they do try to take
+
+into consideration
+all the factors.
+
+Even though they say, "I'm
+going to consider in all the
+
+circumstances," they really will
+
+be doing this because you can
+
+imagine actually
+you're in court.
+
+It's one thing to be sitting in
+
+a lecture hall and reading about
+
+it or reading about
+it in your casebook,
+
+but if you were in court and
+
+these people come
+in, you think, well,
+
+obviously you
+shouldn't be diving in
+
+a swimming pool or you were
+told or you were warned.
+
+I think there can be a bit of
+a more sympathetic approach
+
+sometimes because everybody
+makes bad decisions.
+
+It's part of growing
+up and getting
+
+older and taking risks
+and that sort of a thing.
+
+Many people just skate by for
+some reason, you get lucky.
+
+On the one hand you want
+to think about, yes,
+
+we want to make sure
+that we don't overly
+
+hold the occupier liable because
+
+not every bad
+decision that ends up
+
+with the worst consequence
+means that you
+
+should get a financial reward
+
+or you should be
+financially compensated.
+
+But the question then becomes,
+
+if we're dealing with a
+statute that talks about
+
+what's reasonable in
+all the circumstances,
+
+do they want to then send
+
+the message that the
+standard should be higher,
+
+that it should be more?
+
+How much accountability
+are you going to have?
+
+Even though we have justices
+
+saying you can't expand
+your own sphere of
+
+negligent liability or someone
+
+else's by taking less
+care of yourself,
+
+we don't want younger people
+who are just being typically
+
+careless to end up with life
+
+changing injuries
+or consequences.
+
+You have to think about if
+
+you're actually in
+that situation,
+
+it's going to look
+very different than
+
+a list of cases
+where we're like,
+
+"Well, stop jumping in swimming
+
+pools," which is still
+my advice to you.
+
+But ultimately, when
+these people come
+
+in years and years
+later and their goal
+
+becomes and I'd
+imagine is to provoke
+
+some change in the way that
+swimming pools are looked.
+
+With Ratcliffe, they
+eventually did say, well,
+
+you should have had
+more signage or
+
+more lighting and things
+like that where I
+
+think they could have
+just as easily decided
+
+Ratcliffe more
+along the lines of
+
+Tomlinson where they say,
+
+"Well, this is an activity.
+
+A swimming pool
+is not inherently
+
+dangerous and you broke in after
+
+hours where you're clearly
+
+not going to be able to see the
+
+bottom of the water at night."
+
+But they've not done
+that here entirely.
+
+When you're reading through
+this and when you're
+
+considering the case law and
+you're thinking about it,
+
+they do want to make
+
+sure that there is some
+level of protection.
+
+That's also why you get
+these codified standards in
+
+the 1957 Act of
+visitors having to
+
+deal with a higher standard
+of care for children
+
+because we know that we
+should be more careful,
+
+but then once you turn 18,
+
+then you're no longer a
+child and then you no
+
+longer have extra care taken.
+
+One day you're 17 and
+
+the next day you're
+18 and now you're no
+
+longer a child and you no
+
+longer get that
+additional protection.
+
+You see a lot of these
+injuries occur late teens,
+
+early 20s, mid-teens,
+
+late teens, early 20s.
+
+It's a balancing act that
+
+the court is trying to go
+through while still not
+
+being activists on
+the judicial side
+
+because all we can really
+
+do is look at the facts
+in front of us and
+
+apply the statute once
+the statute is there.
+
+But they do say all
+the circumstances,
+
+so there's a lot of leeway.
+
+You'll see that these decisions
+
+depart in different
+ways based on
+
+all the circumstances
+and whether or not they
+
+determine that the
+danger is static;
+
+a static property danger or
+whether it's an activity.
+
+Those are the main defences
+you're going to get.
+
+Volenti I think is really
+
+difficult to reach here and
+Volenti just means consent.
+
+You agree to the specific risk.
+
+That's why we have that
+statutory escape hatch
+
+in the 1984 Act which
+is an absolute defence.
+
+Because if you tell somebody
+
+the specific risk and
+
+you consent to it and
+you're still injured,
+
+we're not going to take away
+that free will of consent.
+
+I think that is a fundamental
+underlying principle
+
+that we want to
+maintain for people.
+
+If you want to skydive,
+
+you can go ahead and skydive,
+
+but you get reasonable
+safety precautions and
+
+advising of this specific risk
+
+and you can still
+consent to that.
+
+But all we're doing in
+that is saying that
+
+then doesn't generate
+liability for an occupier.
+
+As I said before,
+
+extra bonus Gold Star.
+
+If you get Section
+1(8) in there,
+
+you specifically do not
+
+get any loss and
+damage of property.
+
+Again, efforts to
+make a balance here.
+
+I would presume from the
+main cases that we look at,
+
+the main thing you're losing
+is not going to be property.
+
+But you could
+definitely come up with
+
+a situation where
+if you're trying
+
+to steal a cash machine with
+
+your hired van and you get
+it on there and you attach
+
+your cash machine and
+you are a non-visitor
+
+obviously to this
+property and you
+
+lose the axle off your van
+
+and for whatever reason this was
+
+a static danger of the property;
+
+dangerous, highly
+attached cash machine.
+
+This is one of the great
+things about Tort.
+
+You get to make up all
+kinds of fact patterns.
+
+But if you look hard enough,
+
+you'll find these cases.
+
+You can see somebody bringing
+
+a case in for
+damaging their van.
+
+You cannot require this for
+non-visitors; no property.
+
+Here's your summary. When you
+
+think about how
+to go about this,
+
+if you just have
+this in your notes,
+
+it's a really great start.
+
+You might want to put down
+some of the actual text.
+
+Because like I said,
+if you are much more
+
+into the clear
+methodological approach,
+
+you get more statutory
+guidance here,
+
+a lot less theory,
+
+and case law analogising
+and distinguishing.
+
+You still have it but we have
+
+an accessible short
+statute where you
+
+can see what the actual
+legal requirement is.
+
+Remember to do your
+causation and remoteness.
+
+It's still at the common law.
+
+It still has to
+cause the injury.
+

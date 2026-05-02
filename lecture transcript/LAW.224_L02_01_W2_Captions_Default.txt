@@ -1,0 +1,2665 @@
+MALE_1: Duty of care continued.
+
+The first thing to
+say is remember
+
+where we are in general.
+
+We're in negligence and we're
+
+at the first stage
+of negligence.
+
+In order for a defendant to
+be liable for negligence,
+
+they need to owe the
+claimant a duty of care.
+
+That's the first step.
+
+It's a necessary but not
+sufficient condition.
+
+The defendant owes the
+claimant a duty of care.
+
+They breached that duty of care.
+
+Breach is what we're
+doing next week,
+
+and the following week,
+we're doing causation.
+
+Also, remember briefly
+
+what I talked at you
+about on Monday, rather,
+
+which is that duty of care
+
+works at a general level
+
+through this thing called
+
+established categories,
+these days.
+
+Caparo bad, Robinson good,
+
+and what Robinson did,
+
+that's a reminder of Robinson,
+
+made it the case that you just
+
+work off what previous
+cases have said.
+
+Where cases have said
+there is a duty of care,
+
+then there is a duty of care.
+
+Where they said there's
+no duty of care,
+
+there's no duty of care,
+and that's the end of it.
+
+There is no policy test,
+
+there's no special
+tricky reasoning needed.
+
+It's just established
+categories.
+
+What are these
+established categories?
+
+The biggest and simplest one is
+
+an act which reasonably
+
+foreseeably causes
+a physical injury.
+
+Anytime anyone does an act
+
+which reasonably foreseeably
+causes a physical injury,
+
+there's a duty of care there.
+
+That doesn't mean they
+always breached the duty,
+
+it doesn't mean the breach
+always caused the damage,
+
+but it always means there's
+a duty of care there,
+
+and the same goes
+for property damage.
+
+Acts which reasonably
+foreseeably cause
+
+property damage create
+a duty of care.
+
+It is always useful to remember
+
+those three elements every
+
+time you're thinking
+about duty of care.
+
+First question you should
+be asking yourself is,
+
+is what the defendant did
+an act or an omission?
+
+We'll come in a few weeks
+
+time to exactly what defines
+acts versus omissions.
+
+Is what they did an
+act or an omission?
+
+That's the first question.
+
+Second question is, was
+
+the damage to the claimant
+reasonably foreseeable?
+
+The third question is, what
+is the type of damage?
+
+If it's an act which
+reasonably foreseeably
+
+causes physical injury
+or property damage,
+
+so if you find that it's an act,
+
+not an omission,
+
+and the damage is reasonably
+
+foreseeable to the claimant,
+
+and the type of damage is
+physical injury or property,
+
+then you have a duty of care.
+
+Game over, simple,
+nice and easy.
+
+Things only get more
+complicated if the type of
+
+damage is not physical
+injury or property damage,
+
+but rather psychiatric injury or
+
+economic loss or if
+
+it's not an act but
+an omission instead.
+
+Here is a tricky case.
+
+It's not just a
+slightly trickier case.
+
+Before I get onto
+that, in a few weeks,
+
+we'll be going
+through a bunch of
+
+trickier cases
+involving omissions,
+
+psychiatric injury,
+economic loss.
+
+Those are slightly
+trickier cases than
+
+the really simple
+one act reasonably
+
+foreseeably causing physical
+injury or property damage.
+
+First, I'm going
+to teach you about
+
+a really tricky case.
+
+It's a case which is in no
+established category at all.
+
+It's outside the
+established categories.
+
+It is a novel case.
+
+The first thing you
+do is just try and
+
+understand the facts of
+this case and try and
+
+understand why it's
+a novel duty of
+
+care case rather than
+
+falling into an
+established category.
+
+In this case, the
+defendants were doctors,
+
+clinicians, psychiatrists,
+
+actually, treating
+both the claimant
+
+and the claimant's father.
+
+The defendants learned that
+
+the claimant carried the gene
+for Huntington's disease.
+
+Huntington's disease
+is a lethal disease.
+
+Once you find out you get it,
+
+there's no hope for
+you. It's game over.
+
+You're going to die, I think,
+
+in your 40s or 50s.
+
+Interestingly, just
+the other day,
+
+I read in the news, a
+couple of weeks ago,
+
+they found the first
+potential signs
+
+that there might
+be a cure for it.
+
+It was before that,
+
+thought to be completely
+
+incurable. There is
+no way of doing it.
+
+Once you know you
+have Huntington's,
+
+it's a death sentence.
+
+That might not be the case
+anymore, interestingly.
+
+Anyway, the defendants
+
+learned through the
+claimant that the claimants
+
+carried the gene for
+
+Huntington's through treating
+the claimant's father.
+
+The claimant's father didn't
+
+want that information being
+passed to the claimant,
+
+and the defendants took the
+view that they shouldn't
+
+override their patient's
+confidentiality.
+
+They were the therapists
+
+of both the claimant
+and the claimant's dad.
+
+Claimant's dad tells
+
+the therapists, I've
+got Huntington's.
+
+The daughter is going
+to have a baby.
+
+She finds out later
+that the defendants
+
+knew that the dad
+had Huntington's,
+
+that she therefore
+had Huntington's,
+
+that her baby would
+therefore had Huntington's,
+
+and that the therapist
+hadn't told her about this.
+
+She was really pissed off.
+
+She thought they
+should have told her.
+
+Obviously, she was pissed
+off at her dad as well,
+
+by the way, for not telling her.
+
+But she couldn't sue
+her dad for this.
+
+There's no possibility
+of suing her dad
+
+for this because there's
+no grounds for a duty of
+
+care there. No hope for it.
+
+Instead, she thought, try
+suing these therapists.
+
+Get some money off them, because
+
+she argued that they
+should have told her about
+
+it before it was too late
+for her to terminate
+
+her pregnancy because
+she didn't want
+
+to have a baby with
+
+Huntington's because
+it's a death sentence
+
+or it was until two
+weeks ago, at least.
+
+Now remember, this is
+
+just a summary of
+what's come before,
+
+what came in the last lecture.
+
+There's no general principle
+
+capable of providing
+a practical test.
+
+Rather, what you do is apply
+
+established principles
+and only in novel cases.
+
+It's only in cases where
+established principles
+
+don't result in a clear
+answer that you ask,
+
+should the law develop?
+
+What would be fair,
+just and reasonable?
+
+These words at the end now.
+
+What would be fair,
+just and reasonable?
+
+What would policy
+considerations say?
+
+You only take that into
+account in novel cases.
+
+The barrister of the claimant
+was obviously very keen
+
+to try and prove that this
+was not a novel case,
+
+that this was an
+established category case,
+
+but there was an established
+duty of care here.
+
+The claimant's counsel
+tried to do that by
+
+arguing that there was a
+doctor-patient relationship,
+
+and so the case fell within
+the established scope of
+
+the doctor-patient relationship
+
+because there was a therapist,
+
+the therapist was a therapist to
+
+both the NHS trust generally.
+
+St. George's
+Healthcare Trust was
+
+the therapists to
+both the claimant
+
+and the claimant's dad.
+
+They say, "You owe me a duty
+of care through that means."
+
+That's an established category.
+
+Now, that didn't work for
+
+reasons we'll
+explore in a moment.
+
+But it's important to note
+that that didn't work because
+
+doctors don't just owe
+
+patients a duty to save
+them from every harm.
+
+This teaches you something
+more general about duties,
+
+which I mentioned last time, but
+
+which I hope it is clearer now,
+
+which is that duties of care
+
+don't work in terms of
+categories of relationship.
+
+Doctors do not owe
+patients duties of care.
+
+To say a doctor owes
+
+a patient a duty of care is
+a nonsensical statement.
+
+Doctors owe patients
+duties of care not
+
+to cause them physical injury
+
+through giving negligent advice.
+
+Doctors do not owe
+
+patients duties of care to
+
+give them prudent
+financial advice.
+
+If you go and ask your doctor,
+
+here, doc, thanks
+for treating my leg,
+
+but what do you reckon about
+Tesla shares? Should I buy?
+
+The doctor says, go
+on then, why not?
+
+Tesla seems like a good company.
+
+That Elon must blow. He's right.
+
+Then it all crashes out
+because Elon turns out
+
+to be a prop and artsy,
+something like that.
+
+Tesla falls, you
+lose all your money.
+
+Can you go and sue
+your doctor for that?
+
+No, obviously not. There is not
+
+a doctor-patient duty of
+care. That doesn't exist.
+
+Doctors owe patients
+duties of care,
+
+not to do acts which foreseeably
+cause physical injury.
+
+Then as it happens, because
+
+of the doctor-patient
+relationship,
+
+there are certain
+heightened duties.
+
+There's duties not to fail to
+
+give good medical
+advice as well.
+
+There's special duties
+in relations to
+
+omissions that arise as
+
+a result of the
+doctor-patient relationship.
+
+Doctor-patient
+relationships are special,
+
+but it doesn't follow from that,
+
+that there is just a simple
+doctor-patient relationship.
+
+What I'm trying to get at here,
+
+you don't need to write down
+
+the details of what
+I've been telling you.
+
+I'm trying to teach you
+something important,
+
+which is that when
+you're thinking of
+
+whether or not a
+duty of care exists,
+
+you need to just go through
+
+the three questions I've
+told you to go through.
+
+Is it an act or an omission?
+
+Is it reasonably foreseeable
+and what's the damage?
+
+If you start thinking
+in terms of,
+
+I've got a doctor and a patient,
+
+so I've got a duty of care or
+
+any other relationship-based
+understanding
+
+of duty, you're
+going to be misled.
+
+It's going to go wrong. Think of
+
+it in terms of the
+questions I've asked you,
+
+because that will direct
+you in the right direction.
+
+You need to think, is there
+an act or an omission?
+
+Is it reasonably foreseeable?
+
+What's the damage?
+
+The second method that the
+claimant's counsel tried to
+
+establish that
+there was a duty of
+
+care was by arguing
+
+for something called an
+assumption of responsibility.
+
+This is going to be
+completely meaningless to
+
+you for the next
+three or four weeks.
+
+You do not need to know
+the details of what
+
+an assumption of
+responsibility means now.
+
+Basically, it's another way of
+
+getting a duty of care in
+specific circumstances.
+
+Very briefly, again, you're
+
+going to learn about
+this in more detail,
+
+but I told you that
+duties are simple in
+
+relation to physical
+injury or property damage,
+
+acts which reasonably
+foreseeably
+
+cause physical injury
+or property damage,
+
+there's always a duty of care.
+
+I hope I've repeated
+that enough times now.
+
+Things are more complicated
+
+when the type of
+damage is different.
+
+When the type of damage is
+
+psychiatric injury or
+
+economic loss, it's
+more complicated.
+
+One way that defendants can owe
+
+claimants duties of care
+
+in those more
+complicated scenarios,
+
+psychiatric injury
+or economic loss,
+
+is when they assume
+responsibility to them.
+
+It's just a particular doctor
+and it's like when you
+
+promise someone that you'll
+do a good job of something,
+
+that's a assumption
+of responsibility.
+
+You don't need to know
+the details of it now.
+
+He tried that as well,
+the claimant's counsel.
+
+Then the third route
+he argued for was,
+
+if we're not in an established
+category of duty here,
+
+then novel principles imply
+
+that there should
+be a duty here.
+
+Just looking at the
+policy factors,
+
+looking at the range
+of considerations,
+
+the moral reasons, what
+would be good in the world,
+
+there should be a duty here
+
+because we're outside of
+established categories.
+
+Let's go through each of those
+
+to see how it works in practice.
+
+First, did the doctors,
+
+the psychiatrists owe a
+duty to their patient?
+
+The claimant was a patient
+of the family therapy team,
+
+and there is an
+established category
+
+owed by hospital trusts to
+
+patients to deliver the services
+
+competently applied to all
+
+those undertaking
+family therapy.
+
+But this was a special case.
+
+This was a different case
+from the normal one.
+
+This wasn't the same as
+
+a doctor treating
+their patient badly.
+
+That's the normal case.
+
+This was about the doctors,
+
+the psychiatrists, not giving
+
+information to another patient.
+
+What it actually is,
+it's a omission.
+
+It's a failure to act.
+
+It's not that they
+did something wrong,
+
+it's that they
+didn't do something.
+
+Remember, if you
+look at it through
+
+this simple framework I've
+been trying to teach you,
+
+is it an act or an omission?
+
+Is it reasonably foreseeable?
+
+Is it physical injury,
+
+property damage or
+what's the damage?
+
+We've got physical injury here.
+
+If you look at the damage, we've
+
+got physical,
+Huntington's disease.
+
+Obviously, physical injury, the
+
+baby's getting
+Huntington's disease.
+
+Is it reasonably foreseeable?
+
+By failing to tell
+
+the daughter that she
+
+has Huntington's because
+the dad has Huntington's,
+
+it's reasonably foreseeable that
+
+the baby might get
+Huntington's, obviously.
+
+We've got physical injury,
+reasonable foreseeability,
+
+but paying attention
+to the first thing,
+
+it's not an act,
+it's an omission.
+
+That makes things
+more complicated.
+
+The court held that because
+it was an omission,
+
+there's no duty or no
+established category of
+
+duty for these doctors
+to go out of their way,
+
+breach confidentiality,
+
+and give information
+to the other patients.
+
+That is not an established
+category of duty.
+
+The only established
+category of duty there is
+
+to conduct family therapy
+
+with reasonable professional
+skill and care.
+
+That doesn't work. Route 1,
+
+this first route,
+
+that the barrister argued
+for, did not work.
+
+No established category
+of duty there.
+
+What about Route 2,
+assumption of responsibility?
+
+I'm not going to go
+into any detail on this
+
+because you don't really know
+
+what assumption of
+responsibility is,
+
+so I'm just talking at you
+
+without it really
+making any sense.
+
+All you need to know
+is it didn't work.
+
+There was no assumption
+of responsibility.
+
+It's a novel claim so I
+have to go for Route 3.
+
+There's no established
+category here.
+
+There is no established
+category of duty
+
+and there's no established
+category either way.
+
+You can have established
+duty categories and you can
+
+also have established
+no duty categories.
+
+Cases where we know
+there is no duty.
+
+I'll give you an example of
+
+an established no duty category.
+
+Causing other people
+economic loss by
+
+setting up businesses which
+
+are more successful
+than their business.
+
+We know that is an
+established no duty category.
+
+There is no duty of care,
+
+not to cause other
+people economic loss
+
+by setting up a business
+which outcompetes them.
+
+Neither was the case here.
+
+It was not an established
+duty category,
+
+nor was it an established
+no duty category.
+
+Nor did the analogous cases
+point in a clear direction,
+
+and so we are in a
+novel duty scenario
+
+and the court has to
+decide for itself,
+
+are we going to impose
+a duty of care here?
+
+Are we going to create
+a duty of care here?
+
+What you do, what the
+court does in order to
+
+decide whether or not to
+create a duty of care,
+
+is it looks at the balance of
+
+moral and political reasons.
+
+It asks, would it
+be a good thing?
+
+Would it be fair, just and
+reasonable? Would it be right?
+
+What does that look like?
+
+What does it asking
+whether it be
+
+right look like in practise?
+
+How do we know whether
+it'd be right?
+
+Well, it's the following
+considerations.
+
+First, you look at analogies.
+
+You look at the existing cases
+
+on either side of the line,
+
+some which are close
+analogies which say no duty,
+
+some which are close analogies
+
+which say that there is duty,
+
+and you try and see what's
+this one more similar to?
+
+Ultimately, the
+answer in this case
+
+was it's not more
+similar to either.
+
+There's no obvious answer here.
+
+This has gone through in great
+detail in the case itself.
+
+But you see on one side of
+
+the line you've got cases where
+
+it's very clear that doctors
+
+only owe duties to
+their own patients,
+
+not to other people
+outside of that.
+
+Then you've got these rather
+
+interesting wrongful
+birth claims
+
+involving failed vasectomies,
+
+where doctors do owe
+duties to other people,
+
+the child that's created as
+
+a result of the
+failed vasectomy.
+
+They pull in
+different directions,
+
+but the analogous case law does
+
+not disclose a clear
+single answer.
+
+You can't get the answer from
+
+analogy and so you have to
+
+go next to foreseeability
+and proximity.
+
+This doesn't tell you
+that much either.
+
+But it was relevant that
+
+the defendant and
+the claimant were in
+
+close proximity that the
+whole family therapy team
+
+was happening in one unit.
+
+It was one team.
+
+The daughter and the
+father were both in
+
+therapy with the same
+set of psychiatrists,
+
+with the same NHS trust.
+
+That was a relevant factor.
+
+Things might have been different
+
+if the daughter was
+not also in therapy,
+
+there would have been
+less proximity there.
+
+The proximity was relevant.
+
+Because there was
+this clear route to
+
+disclose the existence of
+the disease Huntington's.
+
+There was a close
+proximal relationship.
+
+We're beginning to get
+into policy factors here.
+
+How proximal the relationship
+
+between the defendant
+and the claimant is,
+
+is a relevant policy factor.
+
+Then foreseeability is relevant,
+
+that the claimant was at risk of
+
+suffering harm was actually
+foreseen by the defendant.
+
+Can you still hear me at the
+back there? Is all right?
+
+Good. Now we get
+
+into some even more
+obvious policy factors.
+
+Would it be a good thing to
+impose a duty in this case?
+
+Now, the first policy factor
+
+considered was this
+duty of confidence,
+
+this duty of confidentiality
+
+between the psychiatrist or
+the therapist and the dad.
+
+Duties of
+confidentiality are not
+
+absolute in general, in life.
+
+You should probably know this.
+
+If you tell your therapist
+
+that you're about to
+go and murder someone,
+
+they can disclose
+that information.
+
+If you tell your therapist
+something which could not harm
+
+anyone that you've committed
+
+some crime in the past
+or something like that,
+
+normally they can't
+disclose that.
+
+There is a duty of
+confidentiality,
+
+but there's a limit to that
+duty of confidentiality.
+
+That's clear. That was
+one policy factor.
+
+Another policy factor was
+how disclosure would affect
+
+this general relationship of
+
+trust and confidence
+between doctors
+
+and patients and how that
+
+would impact on the
+public interest.
+
+A further policy factor
+
+was a policy factor we
+
+see often appearing
+in cases like this,
+
+which is the floodgates.
+
+What are the floodgates?
+
+You often hear about
+the floodgates opening.
+
+What that means is,
+
+if we find there's a duty
+of care in this case,
+
+will it create a
+flood of litigation?
+
+Will it create a huge amount
+of new litigation which is
+
+going to bog down
+the courts and make
+
+culture more
+litigious in general?
+
+The court said that this would
+not open the floodgates.
+
+Recognising duty here,
+that's meant to say here,
+
+not her is nowhere near the
+giant leap that might be
+
+required to recognise a duty to
+
+multiple relatives
+around the world.
+
+The court was worried about if
+
+a doctor has a duty to tell
+
+anyone of something which
+might be harmful to them,
+
+which they learn in the
+context of their treatment,
+
+would that create a really
+burdensome duty on doctors in
+
+general to go and contact
+relatives all over the world?
+
+The answer is no. Because as
+we saw in the last slide,
+
+there was a particular
+relationship of proximity here.
+
+Because there was this close
+proximal relationship,
+
+it wouldn't open
+the floodgates to
+
+this more general claim
+
+to multiple relatives
+around the world.
+
+More policy factors.
+
+This is classic policy
+reasoning here.
+
+Would this stretch the NHS?
+
+Would this screw over the
+NHS, taxpayers money?
+
+We'll see this
+consideration come
+
+in quite a lot later
+on in the year.
+
+This is a classic
+policy consideration.
+
+What will this do
+to public funds?
+
+Will it mean that the taxpayer
+has to spend more money?
+
+Will it be a burden on
+public resources which
+
+should be better spent
+on saving lives,
+
+treating cancer patients,
+whatever it might be?
+
+The court held that that
+was a relevant factor.
+
+The court held that it would
+
+distract medical
+professionals from
+
+their primary care and
+
+potentially would
+place demands on them.
+
+Finding the existence of
+a duty on the facts of
+
+this specific case would
+
+not have that effect
+more broadly because,
+
+again, of this very close
+proximal relationship
+
+and the peculiar circumstances
+of this particular case.
+
+It would not be very
+costly to impose a duty.
+
+Then recognising a duty here
+
+will just be a little
+incremental step.
+
+That's the next
+consideration, this one here.
+
+It'll just be a slight step
+
+beyond all of duties
+which do exist,
+
+like for example, this
+failed vasectomy case.
+
+It's not that far away from
+the failed vasectomy case.
+
+It's just an incremental
+
+step further than
+that is the idea.
+
+Another policy factor which
+gets taken into account is
+
+Article 8 of the European
+Convention on Human Rights,
+
+which is the right to a
+private and family life.
+
+The point here is not that
+you need to remember all
+
+of these very specific
+policy reasons.
+
+You're not going to get in
+
+a problem question
+which I set you,
+
+an ABC replica where
+
+you're going to need to
+go through all of these.
+
+Anyway, here's the key thing.
+
+If you've got an ABC replica
+in a problem question,
+
+it's not a novel case anymore.
+
+It's now an established category
+
+because this case has
+told you the answer.
+
+The answer is that
+it would be fair,
+
+just and reasonable to impose
+
+a duty on the claimant
+to balance her interests
+
+in being informed virgen
+ethic risk against
+
+the father's interest in
+preserving confidentiality,
+
+so there is a duty of care here.
+
+That's the answer. If
+another ABC case comes up,
+
+exactly these facts or
+very similar to it,
+
+you don't need to go through
+this whole analysis again.
+
+You don't need to weigh up the
+cost to the NHS versus how
+
+much is this is going
+to burden doctors
+
+because it's no longer
+a novel scenario.
+
+There is an established
+duty of care here.
+
+The number of cases in
+which this free roaming
+
+moral political analysis takes
+
+place is gradually
+diminishing over time.
+
+There are less and less of
+
+these cases and more and
+more established categories.
+
+This makes your job
+harder than it was when
+
+I was in your position
+10 odd years ago.
+
+Ten odd years ago,
+
+there were less
+established categories,
+
+in fact, we didn't even do
+established categories.
+
+We thought we were doing
+something completely different.
+
+I'll tell you about
+what we thought we were
+
+doing the back in the day.
+
+It was a hell of
+a lot easier and
+
+duty was a lot less complicated.
+
+But the longer tort law goes on,
+
+when I'll be teaching
+this in 10 years,
+
+assuming that the AI apocalypsis
+
+has not occurred
+and that it's not
+
+just a computer teaching you
+
+or who knows what's going to
+happen in the next 10 years?
+
+World seems to be
+coming to an end.
+
+But assuming all still happening
+and it's all still good,
+
+I probably won't
+even be teaching
+
+this novel duty case anymore
+
+because we won't really
+have any novel cases left.
+
+There will come a point
+at which there is just
+
+established duty categories and
+
+established no duty
+categories for
+
+pretty much every single
+factual scenario that we can
+
+imagine and courts
+do not need to do
+
+policy reasoning about what
+the best answer is anymore.
+
+All they need to do is apply
+the existing case law.
+
+The vast majority of the time,
+
+that's all you need to do.
+
+You will not need to do
+
+this complicated
+novel duty analysis,
+
+taking into account
+policy factors
+
+because the vast
+majority of the time,
+
+it's going to be really
+fucking simple for you.
+
+It's going to be an act
+which reasonably foreseeably
+
+causes physical injury or
+
+property damage, in which case,
+
+all you need to say in your
+problem question answer,
+
+is the defendant did an act
+which reasonably foreseeably
+
+caused and then insert
+
+either physical injury or
+property damage (Robinson).
+
+There's a duty of care because
+
+Robinson says there's
+a duty of care.
+
+Now on occasion, I may give
+you a psychiatric injury
+
+or a emissions case
+
+or an economic loss case
+and things are going to,
+
+actually, sorry,
+just to clarify,
+
+I'm not going to give you
+an economic loss case
+
+because we don't do a tutorial
+
+on economic loss and
+
+so economic loss is not
+going to be examined.
+
+It might be in the
+multiple choice questions,
+
+but it's not going
+to be examined.
+
+Forget about that, you
+won't even have to do that.
+
+But psychiatric injury,
+
+there will be a
+tutorial on that,
+
+and so I may give you a tricky
+psychiatric injury case.
+
+In which case, you
+will have to go beyond
+
+this analysis and potentially
+do some trickier stuff.
+
+But most of the time
+it's going to be really
+
+simple and all you'll have
+to learn is Robinson.
+
+But you just need to know
+roughly how it works outside of
+
+the Easy Robinson case in
+
+case one of those
+things does come up.
+
+Now, as it turns out,
+
+you'll notice that we're
+on paragraph 230 here.
+
+This is a really long judgement.
+
+I should just say on that note,
+
+you don't need to
+read all of ABC.
+
+I have not read all of ABC
+
+and if you try and
+read all of ABC,
+
+you're wasting your time
+and you're an idiot.
+
+Just read the relevant
+bits of the law.
+
+Do not read all of the
+really complicated facts.
+
+It's a long very
+complicated judgement.
+
+It's much longer and much more
+
+complicated than it
+needed to be because
+
+after about 200 odd paragraphs
+
+of going through all of
+these body policy reasons,
+
+they actually held that
+
+even though there
+was a duty of care,
+
+there was no breach of duty,
+
+and there was no
+causation either.
+
+They didn't even
+need to do any of
+
+that because no breach,
+
+no causation in the first place.
+
+Now you'll understand why
+there was no breach and
+
+no causation in more detail
+
+next week and the week after,
+
+because we're getting
+on to breach next week.
+
+But just as a little precursor,
+
+it's because the decision not to
+
+disclose was supported by
+
+a responsible body
+of medical opinion.
+
+If breach is quite complicated,
+
+I don't want to
+prejudge anything here,
+
+but just to tell you a rule,
+
+that if a doctor does something
+
+which is backed up by
+
+a responsible body
+of medical opinion,
+
+then they have not breached
+any duty of care they
+
+might have because of
+a case called bolam,
+
+which you'll learn
+about next week,
+
+nor was there any causation.
+
+That's how novel duty works.
+
+Now, how do we get
+to this situation?
+
+This is what the textbooks
+always start with.
+
+They always start
+with the history.
+
+I think Horsey and
+Rackley start with
+
+this and all the other
+textbooks do too.
+
+But instead of starting
+with the history,
+
+I wanted to first
+teach you what the law
+
+is today because I think people
+
+start reading the
+textbooks and they
+
+start reading about Donoghue and
+
+Caparo and Anns and they get
+
+really confused about what
+the law actually is today.
+
+Nothing from now onwards is
+
+really relevant at all
+to a problem question.
+
+It may well be relevant in
+
+an essay question because
+in an essay question,
+
+you're going to need
+to know some history.
+
+But in a problem question,
+
+you don't need to know what
+the law was 50 years ago.
+
+Who gives a shit?
+It doesn't matter.
+
+All this legal history,
+it's interesting,
+
+but it's not relevant
+to you advising
+
+your theoretical client on
+
+what the law is as
+it stands today.
+
+What's relevant to that is
+
+Robinson and Chief Constable
+of West Yorkshire,
+
+and that most of the
+time will be it.
+
+Sometimes it's going to
+be some other cases,
+
+but not the ones I'm
+about to teach you.
+
+That's a nice Salvador Dali.
+
+It's meant to represent the
+passage of time history.
+
+You saw something like
+this slide the other day.
+
+When things began,
+negligence was fragmented.
+
+There were just a series of
+
+very specific duties in
+very specific cases,
+
+specific duties owed by
+doctors to patients,
+
+specific duties owed by
+employers to employees.
+
+Just one more time.
+
+Remember, even back then,
+
+it's never been the case that
+
+duties were owed by
+doctors to patients,
+
+just duty of care in relation
+
+to everything because again,
+
+if your doctor tells you
+something really mean,
+
+and he caused you psychiatric
+injury through doing that.
+
+Your doctor owes you no duty
+of care not to do that.
+
+That's not a duty
+of care scenario.
+
+A doctor owes you a
+duty of care not to do
+
+acts or indeed certain
+kinds of emissions,
+
+which cause you physical injury.
+
+Your doctor is responsible
+for your physical health.
+
+Your doctor is not
+responsible for
+
+your economic well being or
+
+your psychiatric well being
+or any of that stuff.
+
+Don't think of duties.
+
+I'll just repeat
+this one more time.
+
+Don't think of
+duties in terms of
+
+relationships between
+types of parties.
+
+Think of duties in terms
+of acts or omissions,
+
+reasonable foreseeability,
+and type of damage.
+
+That's how you determine
+whether or not there's a duty,
+
+not the nature of the parties.
+
+Even judges get confused about
+that. It's not just you.
+
+But historically,
+there were a series
+
+of specific duties in
+specific scenarios.
+
+There was no general principle,
+
+and Lord Atkins summarised
+
+it that way and Donoghue said,
+
+it's remarkable to find there's
+
+no statement of
+general application.
+
+They were concerned with
+particular relations
+
+in actual litigation,
+
+and they just determine
+whether a duty
+
+existed in the specific
+circumstances before them.
+
+Then along came the old
+snail in the bottle,
+
+Donoghue, there was this
+grand statement of principle.
+
+The fundamental breakthrough.
+
+You must take reasonable care
+to avoid acts or omissions
+
+which you can reasonably
+foresee would
+
+be likely to injure
+your neighbour,
+
+who then in law is my neighbour,
+
+persons who are so
+closely and directly
+
+affected by my act that I
+
+ought reasonably to have
+them in contemplation.
+
+This is a rather nice quote.
+
+It sums up the vibe
+of negligence.
+
+It is not to be used
+in problem questions.
+
+Do not quote Donoghue at me.
+
+I'll take you back
+to the poll I did at
+
+the end of the last lecture.
+
+Just use Robinson, do not use
+these old historical cases.
+
+It doesn't add anything.
+
+It just takes away,
+it's just wasting
+
+words in general in
+a problem question.
+
+It gives you a
+broader understanding
+
+of what's going on here,
+but it doesn't help.
+
+Before negligence fragmented,
+
+Donoghue grand
+statement of principle,
+
+don't do things which
+
+foreseeably cause other
+people physical injury.
+
+That's what Donoghue
+said. There's always
+
+a duty of care in
+relation to that.
+
+Some people weren't very happy
+
+with this grand statement of
+
+principle though,
+like Lord Buckmaster.
+
+He said that we should just
+
+develop incrementally
+little by little.
+
+We shouldn't have these grand
+statements of principle.
+
+They're dangerous.
+
+To this day, Donoghue and
+
+the cases immediately
+after it still stand as
+
+good authority for
+these two propositions
+
+and I've now repeated
+these to death,
+
+so I won't repeat them again.
+
+But the point here is
+that since Donoghue,
+
+it's been the case that there is
+
+these two clear
+established categories.
+
+Don't do acts, which
+will reasonably
+
+foreseeably cause physical
+injury to others.
+
+Don't do acts which will
+reasonably foreseeably
+
+cause property damage to others.
+
+Those are two
+established categories
+
+of duty following Donoghue.
+
+Then after Donoghue,
+
+we went from this
+incremental development,
+
+lots of cases decided on
+
+their specific facts to
+
+this grand statement
+of principle,
+
+and then we got a bunch more
+
+grand statements of principle.
+
+That's a painting
+called American Gothic.
+
+It's meant to represent
+the Americans
+
+going West from
+the Eastern states
+
+in the era of expansion,
+
+grapes of wrath and
+all that stuff.
+
+The law started expanding
+and the House of Lords
+
+in Dorset Yacht basically
+reverse things.
+
+Before that, it had
+been there is no duty
+
+unless there is a
+specific duty in
+
+the specific circumstances
+of one of the decided cases.
+
+Now, after Dorset
+Yacht, at least,
+
+what was said was that one
+
+shouldn't ask whether it's
+covered by authority,
+
+but whether Donoghue applies.
+
+There's a presumptive duty of
+care in most circumstances.
+
+This gets expanded even
+more in Anns and Merton.
+
+In Anns and Merton,
+
+the only question was
+
+could the defendant
+reasonably foresee
+
+that their negligence would
+cause damage to the claimant?
+
+If the answer is yes,
+
+then there is a
+prima facie duty,
+
+and it's only if there's
+
+some consideration which negates
+
+reduce or limits the
+scope of the duty,
+
+there should be no duty.
+
+I just want to pause to note
+how remarkable this is.
+
+This is a very expansive test.
+
+Could the defendant
+reasonably foresee that
+
+their negligence would cause
+damage to the claimant?
+
+That's got nothing to do
+with acts and omissions,
+
+so it doesn't need to be an
+act, it could be an emission.
+
+It's got nothing to do with
+the type of damage either.
+
+In theory, just you would get
+a prima facie duty from me.
+
+For example, let's say
+I fail to help you
+
+out financially
+when your business
+
+is having a tough time.
+
+Your business is
+having a tough time,
+
+I fail to help you
+out financially.
+
+You've therefore
+suffered economic loss,
+
+and it's reasonably
+foreseeable that
+
+me failing to give you a big sum
+
+of money will cause you
+economic loss because I know,
+
+let's say, I've been
+
+informed that your
+business isn't doing
+
+well and if I don't
+give you 50 grand,
+
+your business is
+going to go down
+
+the drain and you're going
+to suffer economic loss.
+
+According to Anns,
+
+there's a prima facie duty of
+
+care in those circumstances.
+
+Now, of course, in reality,
+
+there was not actually a duty of
+
+care because any
+judges would say,
+
+well, there's
+considerations which negate
+
+reduce or limit the
+scope of duty there.
+
+Because why the hell is it on
+
+me to give you money
+to save your business?
+
+What's that got to do with me?
+
+But you can see how this
+test warped things.
+
+You didn't ask, is there
+an actor on a mission?
+
+Is it reasonably foreseeable?
+
+What's the damage?
+
+You just asked,
+
+is it reasonably foreseeable
+that what I have done or
+
+not done is going to cause
+this person any damage?
+
+If the answer is yes,
+
+there's at first sight duty,
+
+a prima facie duty,
+
+and it's only if it's negated by
+
+some special factors,
+there's no duty.
+
+This is very much not
+how things work today.
+
+They didn't work like that
+for very long at all.
+
+They went even further in
+Junior Books and Veitchi.
+
+I won't bore you with
+the details of why
+
+there's an exclamation
+mark after that.
+
+If once you've understood
+the whole of negligence,
+
+you can come back to that and
+
+see how remarkable it is to have
+
+a duty of care in relation to
+
+pure economic loss arising
+from defective property,
+
+but that doesn't make any
+sense to you at the moment.
+
+But the point is, at this point,
+
+everyone agreed that things
+had really gone too far.
+
+I hope you can understand
+why that's too far
+
+because there should
+obviously be no duty,
+
+not even prima facie duty on
+
+me to be giving
+
+someone else money to
+save their business.
+
+Because that's just logically
+not the structure of this.
+
+It doesn't make sense to even
+
+suppose there might be a
+duty in those circumstances.
+
+There should be no duty
+in the first place.
+
+If you're imposing duties in
+
+the first place on people
+in those circumstances,
+
+you seem to have gone
+wrong and it seems to
+
+be a misleading
+logic is the point.
+
+Even if it doesn't result in
+
+a duty in the final analysis,
+
+it seems to be the wrong way
+of thinking about things.
+
+Everyone basically agreed
+that things have gone wrong,
+
+and then we get Caparo.
+
+That's Gandalf, who's
+
+from a movie which people in
+my generation quite like,
+
+which is called the
+Lord of the Rings.
+
+I hear that it's regarded
+as a millennial movie
+
+these days and a bit
+naff. But so it is.
+
+In this famous scene, Gandalf,
+
+who is a wizard, I
+
+hope some of you know what
+the hell I'm talking about.
+
+Hope I'm not just
+talking to myself.
+
+But that's him saying,
+you shall not pass.
+
+Look it up on YouTube
+
+if you don't know what
+I'm talking about.
+
+The idea is the judges said,
+
+at this point in time,
+
+we all recognise things
+have gone too far and
+
+we're going to
+introduce some limits.
+
+You don't just have to have
+
+foreseeability of damage
+from Caparo onwards.
+
+You have to have proximity,
+
+you have to have fairness,
+justice, and reasonableness.
+
+There's some further
+requirements.
+
+Back in my day,
+
+that used to be how
+we did duty of care.
+
+We used to ask,
+
+is the damage foreseeable?
+
+Is there proximity?
+Is there fairness,
+
+justice, and reasonableness?
+
+This was what was known
+as the Caparo test.
+
+Remember, though, Caparo bad,
+
+Robinson, good, Caparo bad.
+
+Do not use Caparo in
+a problem question.
+
+Instant third class if you
+
+use Caparo to answer
+a problem question.
+
+That's not actually
+accurate, by the way.
+
+But in all seriousness,
+
+if someone starts by saying,
+
+duty of care works by
+using the Caparo test,
+
+it is instantly a 2/2.
+
+Because it's in Lecture 1,
+
+it's so obvious, it's so simple,
+
+it's a very easy way for us to
+
+tell who's not been
+paying attention at all,
+
+who's literally
+not been engaging.
+
+It probably happens in a
+good quarter of papers,
+
+which is why I'm
+banging on about
+
+Robinson good, Caparo bad.
+
+The external examiner
+last year described it as
+
+the flight to Caparo by
+the weaker students.
+
+The idiots, they all start with
+
+Caparo and that's how you know
+
+you've got a real
+shitter on your hands.
+
+When someone says, Caparo is
+the way you do duty of care,
+
+I'm like, this person
+is not getting a 2/1.
+
+Let's see how shit it is.
+
+Let's see how crap this
+answer is going to be.
+
+It's a really useful
+way of us to,
+
+so please mark yourself,
+
+we have to do less work if
+
+you do use Caparo to start with.
+
+Caparo does come into
+it in novel cases.
+
+It does not come into it
+in the run of the mill.
+
+In any event, Caparo was never
+
+actually meant to
+create a general test.
+
+If you read Caparo
+you get that sense.
+
+But funnily enough,
+no one read Caparo.
+
+I didn't read Caparo when
+I was at law school.
+
+I didn't read too many
+tort cases, in fact.
+
+You should be reading many
+more tort cases than I did.
+
+But it turns out none
+of the judges were
+
+actually reading it
+either because if you
+
+do read Caparo
+which I have since
+
+read it very clearly
+and very carefully,
+
+you find that they never meant
+to create a general test,
+
+and yet you found in the law
+
+before Robinson over 100 uses.
+
+I did some research on my own
+
+of the phrase, the Caparo test.
+
+In fact, even the
+Court of Appeal in
+
+the Robinson case used this
+phrase, the Caparo test.
+
+There was never any Caparo test,
+
+there should have never
+been any Caparo test.
+
+In Robinson, they said there
+never was the Caparo test,
+
+and there now absolutely
+definitely isn't.
+
+You do still use these
+criteria and the Caparo test,
+
+foreseeability, proximity,
+
+fairness, justice,
+and reasonableness,
+
+in novel cases and
+only in novel cases.
+
+If they are outside an
+established category of duty,
+
+you do go back to
+Caparo, you do ask,
+
+is there foreseeability,
+is there
+
+proximity, and is it fair, just,
+
+and reasonable to
+impose a duty of
+
+care like they did in ABC.
+
+The judges have kept
+re-emphasising this and
+
+re-emphasising this
+in a string of cases.
+
+Michael, then in Robinson,
+
+there is no Caparo test,
+
+and this is the flow
+chart which I showed you,
+
+I think is in the last lecture
+and hopefully it makes
+
+more sense to you now and will
+be useful to some of you.
+
+Again, Robinson affirmed
+again and Poole.
+
+Darnley shows you how it works
+for established category.
+
+ABC shows you how it works
+
+outside of established
+categories.
+
+I just want to conclude
+by making this point.
+
+We are now essentially
+back to the early days.
+
+In the beginning, there were
+
+specific duties of care in
+specific circumstances.
+
+Then there was very
+general free roaming
+
+let's have duties
+of care everywhere,
+
+let's create loads
+of new duties.
+
+Loads of new duties were then
+
+created over those 30, 40 years.
+
+Then the court said, hold on,
+
+let's stop now and go
+back to the start.
+
+Except compared to the start,
+
+we've now got loads
+more specific duties,
+
+and we're getting more all
+the time, and soon enough,
+
+there'll be no novel
+duty questions
+
+left to answer at all,
+
+and we will just have
+established categories
+
+for every category of
+
+human action that could
+
+possibly exist.
+See you on Monday.
+
