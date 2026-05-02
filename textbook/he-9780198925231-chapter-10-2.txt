@@ -1,0 +1,1397 @@
+10. Defences to negligence
+Page 1 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Tort Law (9th edn)
+Kirsty Horsey and Erika Rackley
+10. Defences to negligence
+Kirsty Horsey and Erika Rackley
+https://doi.org/10.1093/he/9780198925231.003.0010
+Published in print: 15 August 2025
+Published online: August 2025
+Abstract
+This chapter discusses three key defences in the tort of negligence: voluntary assumption of risk (consent or volenti non fit 
+injuria), contributory negligence and illegality. The defence of voluntary assumption of risk is based on the common-sense 
+notion that ‘one who has invited or assented to an act being done towards him cannot, when he suffers it, complain of it as a 
+wrong’. The defence of illegality denies recovery to certain claimants injured while committing unlawful activities. 
+Contributory negligence is a defence that operates not to defeat the claimant’s claim entirely but rather to reduce the amount 
+of damages the defendant must pay.
+Keywords: 
+defences, tort law, consent, illegality, contributory negligence
+Problem question
+Read this problem question carefully and keep it in mind while you are working through the 
+chapter that follows. At the end of the chapter you will be able to apply what you have learnt to the 
+problem question and advise the relevant parties.
+Ben, Viê’t and Orik are old school friends. Every year they go camping together in Snowdonia National 
+Park. After they arrive on the Friday night, they decide to go to the pub, where Ben and Viê’t spend 
+several hours reminiscing, and by the time they leave they are both over the legal driving limit. Orik 
+has not been drinking. On their way back to the campsite they pass a farm and notice a tractor with its 
+keys in the ignition. Viê’t gets in and starts the engine. Ben and Orik quickly jump in beside her. None 
+of them wear a seat belt. At first, Viê’t drives slowly around the farmyard but when Ben says ‘Is that 
+the best you can do?’ she decides to go ‘off-road’ and drives it into a field. Unfortunately, on the rough 
+p. 287
+10. Defences to negligence
+Page 2 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+→
+→
+→
+ground Viê’t loses control of the tractor and it overturns. Ben and Orik are thrown out onto the field. 
+Ben is seriously injured. Though Orik escapes with only minor physical injuries, he later develops 
+post-traumatic stress disorder (PTSD) as a result of the incident. One day while walking home from 
+work Orik ‘snaps’, lashing out at an innocent passer-by and causing them serious injury. Though it is 
+recognised that his actions were as a result of his PTSD, he is jailed for six months and loses his job.
+Advise the parties (you should assume that, in the absence of applicable defences, Ben and Orik would 
+have a good claim in negligence).
+10.1  Introduction
+Consider the following examples:
+A cycle-courier is knocked down and seriously injured as she swerves to avoid a pedestrian crossing the 
+road. She is not wearing a cycle helmet.
+A footballer is seriously injured by a late, high tackle in the closing minutes of a crucial cup tie.
+A driving instructor suffers a serious knee injury when the student to whom she is giving driving 
+lessons crashes into a lamp post.
+↵
+In all these scenarios, even if all the other elements of a claim in negligence—that is, duty, breach and 
+causation—have been met, the defendant may be able to raise a defence. In so doing, what the defendant is 
+effectively saying is ‘though I did carelessly injure the claimant, there is nonetheless a good reason why the 
+law should not hold me responsible’. The defendant might, for example, argue that the claimant was (at least 
+in part) to blame for their injuries or that they had accepted the risk of them occurring. Alternatively, they 
+may suggest that an award of damages would be inappropriate on the basis that the claimant was injured 
+while they were engaged in an illegal, or inherently risky, activity. Where a defendant is able to successfully 
+raise a defence, it may work to defeat the claim entirely or merely reduce the amount of damages payable.
+This chapter considers three key defences in the tort of negligence:1 voluntarily assuming the risk (volenti non 
+fit injuria),2 contributory negligence and illegality. While contributory negligence is (as the name suggests) 
+confined to claims in negligence,3 volenti and illegality are general defences and, as such, are applicable 
+throughout tort law.4
+p. 288
+1
+2
+3
+4
+10. Defences to negligence
+Page 3 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+10.2  Voluntarily assuming the risk (volenti )
+The defence of volenti is based on the common-sense notion that ‘one who has invited or assented to an act 
+being done towards him cannot, when he suffers it, complain of it as a wrong’ (Lord Herschell, Smith v Baker 
+[1891] at 360).5 This idea is encapsulated in, and often referred to using, the Latin maxim volenti non fit injuria 
+(literally: ‘no wrong will be done to the willing’), sometimes abbreviated to volenti. It is a complete defence. 
+This means that where it is made out it will defeat the claim and no damages will be payable. However, the 
+defence is not without controversy. As DM Gordon notes: ‘Few branches of English case law are as confused 
+and inconsistent as the decisions on a man’s right to complain of physical injury after he has knowingly 
+incurred danger’.6 In 1996 Stephen Sugarman suggested that volenti is ‘both redundant and confusing’.7 More 
+recently Jodi Gardner has called for its abolition, arguing it is ‘not fit for modern tort law’—not least because 
+it is rarely raised, and even more rarely raised successfully.8 She concludes:
+↵
+In Lane v Holloway [in 1968] Salmon LJ commented that whilst volenti could be justified 
+academically, on a practical level it was ‘quite absurd’. The limitations of the defence have now gone 
+beyond Salmon’s LJ’s biting comments; it is both intellectually unjustified and practically absurd. 
+Our living common law can (and should) move with ‘modern societal expectations’. It should do so 
+here and put an end to this defence once and for all.9
+The defence of volenti can arise in two different ways. First, the defence applies where the claimant consents 
+to the specific harm caused by the defendant and (sometimes) where they have consented to the risk of that 
+harm. For instance, if I agree to you hurting me or damaging my property—say I invite you to punch me in 
+the stomach or to tear up my textbook—you will have a defence to any tort claim I may bring against you. 
+Similarly, if I willingly put myself into a dangerous situation—for instance, I agree to stand with an apple on 
+my head while you attempt to knock it off by firing arrows at it—my claim for any injuries I then suffer may 
+well be defeated on the basis that I voluntarily undertook the risk of such injuries. In the context of 
+negligence claims, this involves consenting to not simply the risk of harm but the risk of being harmed by 
+the defendant’s negligence.10
+Secondly, the defence will apply where the claimant consents (or, at least, is to be treated as consenting) to the 
+defendant excluding their liability for any injuries they may cause (though here the defence may be restricted 
+by the provisions of the Unfair Contract Terms Act 1977). This version of the defence is best exemplified in 
+cases of occupiers’ liability. As we shall see, in Chapter 11, occupiers owe a duty of care to those they allow 
+onto their premises. However, an occupier who is keen to avoid liability may put up a notice saying that 
+visitors ‘enter at their own risk’ or, more straightforwardly, that they ‘exclude liability for any injuries 
+visitors may suffer on the premises’. If a visitor sees such a notice and enters the premises nonetheless—or 
+indeed even if they do not see it but the occupier is held to have taken ‘reasonable steps’ to bring it to the 
+visitor’s attention—their claim for any injuries they then suffer will be defeated (see Occupiers’ Liability Act 
+1957, s 2(1)).11
+5
+6
+7
+8
+p. 289
+9
+10
+11
+10. Defences to negligence
+Page 4 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Although both forms of the defence are based on the consent of the claimant, the difference between them is 
+that in each case the claimant is consenting to something different. In the first case, the claimant is 
+consenting to the specific factual harms which they suffer and/or the risks to which they are exposed—for 
+example, a punch in the stomach or being hit by an arrow. By contrast, in the second case, the claimant’s 
+consent is not to any particular factual harm or danger but rather to the defendant’s exclusion or waiver of 
+liability. Here the claimant is saying not ‘I accept that what I am doing is dangerous’ but rather ‘I accept that I 
+cannot sue you if I end up injured’.
+This difference between the two versions of the defence is reflected in how the defence is proved. You can 
+only (meaningfully) consent to something if you know about it (though, as we shall see, the defence of volenti 
+requires something more than just knowledge). However, 
+↵
+because the two versions of the defence 
+involve consent to different things, each requires a different type of knowledge. With the first version (where 
+the claimant consents to the specific factual harm caused or the risk run) the defendant must show that the 
+claimant did indeed consent to the harm which in turn requires that they were aware of the risk of that 
+injury. By contrast, the second version of the defence can be made out even where the claimant has no idea 
+that they are in a dangerous situation and has not given any thought at all to the possibility of their being 
+injured. Rather, since the defence is based on their consent to the defendant excluding liability, the question 
+is whether they knew (or should have known) that the defendant was indeed intending to exclude liability for 
+injuries the claimant may suffer.
+Because of this, although the two versions of the defences were described by Buckley LJ in White v Blackmore 
+[1972] as ‘somewhat analogous’ (at 668), they do not always run together. In this case, the claimant’s 
+husband was fatally injured while watching a motor race. At the time of his injury, he was standing with his 
+family behind the spectators’ ropes some way from the track. A car’s wheel became tangled up in the safety 
+rope which set in motion a chain of events which culminated in the claimant being thrown into the air. The 
+Court of Appeal held that, because the victim did not have full knowledge of the factual risks he was running, 
+the first version of the defence could not succeed:
+It might not have been at all obvious to the deceased that he was standing in a particularly 
+dangerous place when the accident occurred. Accepting this I do not think it can be said … that the 
+deceased had full knowledge of the risk he was running. (at 668)
+However, the court held that the second version of the defence was available, since the defendants had taken 
+reasonable steps to inform the victim that they were seeking to exclude liability. The various warnings were 
+‘sufficient to exclude any duty of care on the part of the organisers … towards the deceased, the defendants 
+were not guilty of negligence and consequently they do not need the shield of the doctrine of volenti’ (at 668).
+We shall look at the second version of the defence in greater detail in Chapter 11, when we deal with 
+occupiers’ liability. For now we shall focus on the first version of the defence.
+p. 290
+10. Defences to negligence
+Page 5 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(1)
+(2)
+10.2.1  Establishing the defence
+In order for the defence to be established the defendant must show that the claimant either agreed to, or 
+voluntarily took the risk of, the harm that materialised. While cases where the claimant has consented to the 
+harm or tortious action—for example, a battery by agreeing to surgery or to give blood—are (usually) 
+relatively straightforward,12 those where the agreement is to the risk of such harm are more tricky. In such 
+cases, it is necessary to show that the claimant at the material time:
+knew the nature and extent of the risk of harm; and
+voluntarily agreed to it (Morris v Murray [1991] at 18).
+The test is a subjective one; it is not enough that a reasonable person might have been aware of the risk—the 
+claimant must know and, importantly, agree to it. It is well established that awareness or knowledge of the 
+risk is not enough: ‘A complete knowledge of the danger is in any event necessary, but such knowledge does 
+not necessarily import consent’ (Dann v Hamilton [1939] at 515).
+Dann v Hamilton [1939] 1 KBD 509 (KBD)
+The claimant, Dann, was injured in a car accident. It was clear that the accident was the result of the 
+negligent driving of the defendant, Hamilton, who had been drinking. Dann brought a claim for 
+damages against Hamilton’s estate (he had been killed outright at the scene). The question for the 
+court was whether the claimant had voluntarily assumed the risk of the defendant’s negligence.
+The court found that the following exchange had taken place when another passenger was leaving the 
+car the claimant was travelling in: ‘You two [referring to the claimant and her mother, who was also 
+in the car] have more pluck than I have’, to which the claimant answered ‘You should be like me. If 
+anything is going to happen, it will happen’ (at 514). Nevertheless Asquith J held that, though the 
+claimant was aware that the defendant had been drinking and that this would materially reduce his 
+ability to drive safely, she had not consented to, or absolved him from liability for, any negligence on 
+his part that might cause her harm. Simply knowing the risk is not enough; the claimant must accept 
+it.
+IMPORTANT NOTE: the application of volenti in relation to passengers in road traffic accidents is now 
+excluded by section 149 of the Road Traffic Act 1988.13
+While it is clear that the claimant must be shown to have consented to (rather than simply having been aware 
+of) the risk of injury, what is less clear is what exactly this requires. Lord Denning MR in Nettleship v Weston 
+[1971] took a very formalistic approach: ‘knowledge of the risk of injury is not enough. Nor is a willingness to 
+take the risk of injury. Nothing will suffice short of an agreement to waive a claim for negligence’ (at 701). 
+This view was approved by the House of Lords in Reeves v Commissioner of Police for the Metropolis [2000].14 
+However, other cases appear to be less demanding.
+12
+p. 291
+13
+14 
+10. Defences to negligence
+Page 6 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Morris v Murray [1991] 2 QB 6 (CA)
+After spending an afternoon drinking, during which the defendant had consumed the equivalent of 
+over half a bottle of whisky, he and the claimant decided to take the defendant’s light airplane for a 
+spin. The claimant drove to the airfield and helped to prepare the plane for take-off. Shortly after 
+take-off the plane crashed, killing the defendant and seriously injuring the claimant. The defendant’s 
+estate met the claimant’s claim for compensation with the defence that he had either voluntarily 
+assumed the risk of injury or was contributorily negligent.
+The Court of Appeal held that Morris had voluntarily assumed the risk of injury. He was not so drunk 
+as to be unable to appreciate the extent and the nature of the risks involved and had willingly 
+embarked upon the flight knowing that Murray was so drunk that he was very likely to be negligent.15
+↵
+The claimant must have consented to the risk of the injury caused in the way it occurred, which in the 
+context of negligence includes the defendant causing that injury by failing to take reasonable care. So, while 
+Morris may have consented to the risk of injury that was likely to follow from embarking on a flight with a 
+drunken (and therefore likely to be negligent) pilot, if the defendant had instead been harbouring a long- 
+term grudge against the claimant and decided to use the opportunity to teach him a lesson, it seems clear that 
+Morris’s consent to the negligent consequences of the drunken adventure would not have provided a defence 
+(Slater v Clay Cross Ltd [1956]).
+Morris shares a number of parallels with Dann. In both cases, the claimant agreed to take a ride in a vehicle 
+being driven by a defendant who had been drinking heavily, with full knowledge of the risks this involved. In 
+both cases, the vehicle crashed, the driver was killed and the claimant was badly injured. Yet in Dann the 
+claim succeeded, while in Morris the defence of volenti was made out. Though the Court of Appeal in Morris 
+sought to distinguish Dann on the basis that there the claimant was a reluctant passenger who felt unable to 
+extricate herself from the drunken drive, this does not seem to have been the basis for the court’s rejection of 
+the defence in that case.
+More fundamentally, Morris brings out the difficulty in identifying what is meant by consent. It is clear that 
+the claimant knew that he was taking a great risk but, as cases such as Dann and Nettleship16 stress, 
+knowledge of—or willingness to take—a risk is not the same as consent. But if something more is needed, 
+what is it? Certainly the claimant in Morris did not want to be injured, though he did willingly engage in a 
+course of conduct which might lead to that result. It is hard to resist the conclusion that, sometimes—where 
+the risk run is particularly great or the activities of the claimant particularly irresponsible—the courts do 
+treat knowledge as tantamount to consent.
+15
+p. 292
+16
+10. Defences to negligence
+Page 7 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Counterpoint
+Voluntarily accepting the risk only goes so far. Take people voluntarily engaging in dangerous sports 
+activities, for example. Here, though the potential claimant is not courting injury—in fact they wish 
+to avoid it—they know it might happen. The courts have held that, by willingly engaging in such 
+activities, the claimant voluntarily assumes the risks inherent in the relevant sport (dependent on the 
+level at which the sport is being played). That said, it is unlikely that their consent would be seen as 
+extending to injuries or risks which are not part and parcel of the game. So, while a footballer would 
+be regarded as consenting to being tackled, even fouled, and any injuries so caused, their consent 
+would not extend to serious foul play, such as a dangerously high and/or late tackle (Condon v Basi 
+[1985]).17
+In order to establish a defence based on the claimant’s voluntary assumption of the risk, the claimant 
+needs to have done more than simply put themselves in a dangerous situation. As Lord Halsbury LC 
+pointed out in Smith v Baker & Sons [1891], anyone crossing a London street knows that a substantial 
+percentage of drivers are negligent. If a man crosses deliberately, with that knowledge, and is 
+negligently run down, he is certainly not consenting to the risk of injury, and so 
+↵
+without a 
+remedy (at 337).18 Similarly, it might be argued that a young man walking home alone late at night 
+knows that they run a greater risk of being attacked than if they take an Uber.19 However, no one 
+would argue that they have voluntarily assumed the risk of any injury they may suffer.
+This seems straightforward enough. But things become less clear if we compare these examples with 
+Morris. As we have seen, there the claimant knowingly and willingly engaged in an inherently 
+dangerous activity. When he was then injured, the court held that he had voluntarily assumed that 
+risk. Yet the same appears also to be true in the earlier examples. The man who crosses the road 
+knows there is the risk of being run over but crosses the road anyway. The man knows there is a 
+danger of being attacked but walks home late at night nonetheless. Of course, neither wants to be 
+injured, but nor did the claimant in Morris.
+One possible distinction between these cases lies in the likelihood of the risk eventuating. So, the 
+chances of the plane crashing in Morris were greater than the likelihood of being run over crossing 
+the road or of being attacked late at night. But should this be enough? It is unlikely that the man’s 
+claim would be defeated by his voluntary decision to walk home however great the likelihood of him 
+being attacked. And rightly so. Perhaps what distinguishes them is an element of culpability. The 
+claimant in Morris was factually and morally responsible for his injury, whereas few would argue that 
+a man crossing a road or walking home alone late at night is (wholly) responsible for his injuries.
+17
+p. 293
+18
+19
+10. Defences to negligence
+Page 8 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Pause for reflection
+In Morris Fox LJ described the facts of the case as ‘a drunken escapade, heavily fraught with 
+danger’ (at 12) and said that ‘the wild irresponsibility of the venture is such that the law should not 
+intervene to award damages and should leave the loss where it falls’ (at 17). In a similar vein, more 
+recently, May LJ noted that ‘[a]dults who chose to engage in physical activities which obviously give 
+rise to a degree of unavoidable risk may find that they have no means of recompense if the risk 
+materialises so that they are injured’ (Poppleton v Trustees of the Portsmouth Youth Activities Committee 
+[2008] at [1]).20
+This reflects what Peter Cane and James Goudkamp describe as an increasing emphasis on self- 
+reliance and ‘personal responsibility’ by the courts.21 Even if we accept that the courts are right to 
+stress that individuals must take responsibility for their own actions, and that the law of torts should 
+limit the protection it offers to those who have little regard for their own safety, should the law leave 
+those who are injured when acting irresponsibly without any legal claim?
+A better response would be to use the partial defence of contributory negligence, discussed in section 
+10.4, since it is designed to deal with just this problem and allows the court to reduce a claimant’s 
+damages in line with their own fault while not depriving them of all compensation.
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-10-2>.
+10.3  Illegality
+The defence of illegality denies recovery to certain claimants injured while committing unlawful activities. 
+Like volenti, it is a complete defence. It is typically seen to invoke a special rule of public policy. Lord 
+Hoffmann in Gray v Thames Trains [2009] identified two formulations of the illegality defence. At its most 
+narrow, the defence ensures that a claimant cannot recover in civil law for the consequences of a criminal 
+sanction imposed as a result of one’s own unlawful act (at [29]). If the law imposes a harm or loss (e.g. 
+imprisonment or a fine) on someone as punishment for their wrongdoing, they cannot seek compensation 
+for that loss by bringing an action in tort against a defendant they claim caused them to commit the wrong. 
+After all, as Lord Hoffmann commented in Gray, ‘Tort law has enough on its plate without having to play the 
+criminal law’s conscience’ (at [41]).22 Its wider formulation holds that a claimant ought not to be able to 
+recover damages for losses they suffer while engaged in criminal activity: ex turpi causa non oritur actio 
+(literally: no action may be founded on an illegal act). While the former is justified on the grounds of 
+consistency, the latter is typically thought to rest on the broader idea that ‘it is offensive to public notions of 
+20
+21
+p. 294
+22
+10. Defences to negligence
+Page 9 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(1)
+(2)
+(3)
+the fair distribution of resources that a claimant should be compensated (usually out of public funds) for the 
+consequences of his own criminal conduct’ (at [51]).23 However, as we shall see, the public notions of fairness 
+can be a tricky thing to predict—especially when it comes to ‘compensating criminals’.
+In order to establish the defence of illegality, the defendant must show that:
+the claimant has engaged in illegal or immoral behaviour;
+there was a sufficient link between the illegal behaviour and the tort; and
+when considering the range of factors, the claim should be defeated.
+Gray v Thames Trains [2009] UKHL 33 (HL)
+The claimant developed PTSD after being involved in the Ladbroke Grove rail crash, which killed 31 
+people and injured over 500 others.24 The crash was caused by the defendants’ negligence. Two years 
+later, under the effects of this condition, Gray stabbed and killed a pedestrian in a ‘road-rage’ incident 
+and was convicted of manslaughter on the grounds of diminished responsibility and sentenced to be 
+indefinitely detained in hospital under the Mental Health Act 1983. Gray sued the defendants for, 
+amongst other things, loss of earnings both before and during his detention as well as general 
+damages for his detention, conviction and feelings of guilt and remorse and for the damage to his 
+reputation. He also sought an indemnity against any claims that might be brought by the relatives of 
+the pedestrian.
+↵
+The House of Lords rejected his claim. An award of damages would set the civil law against the 
+criminal law. Lord Rodger cited with approval the Law Commission’s view in 2001 that ‘it would be 
+quite inconsistent to imprison or detain someone on the grounds that he was responsible for a serious 
+offence and then to compensate him for the detention’ (at [66]).25 Gray’s counter-argument that his 
+earning potential had already been diminished by the defendants’ negligence before his criminal act 
+and that they remained responsible for this continuing partial loss also fell foul of the consistency 
+principle, as well as being rejected by analogy with Jobling v Associated Diaries Ltd [1982].26
+Counterpoint
+As Lord Brown notes, the facts of Gray and Jobling are not directly analogous. While the harm suffered 
+by the claimant in the latter was superseded by a wholly unconnected disabling illness (the so-called 
+‘vicissitudes principle’), there was no doubt in Gray that the manslaughter and detention were 
+factually caused by the defendant’s negligence: ‘But for [the claimant’s] negligence there would have 
+been no manslaughter and no detention. That here is a given’ (at [96]). Though Baker v Willoughby 
+23
+24
+p. 295
+25
+26
+10. Defences to negligence
+Page 10 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+[1970]27 allows for some modification of the ‘vicissitudes principle’ in order to occasion justice, 
+despite his sympathy for the ‘tragedy’ suffered by the claimant (at [89]) Lord Brown ultimately 
+rejects this argument:
+Whilst recognising that … the tortfeasor benefits from criminality which in one sense he 
+himself has contributed to bringing about, the opposite conclusion would result in the 
+claimant being able to ignore a vicissitude for which he for his part has been held responsible 
+(if only for a diminished extent). (at [101])
+Do you agree? Gray leaves open what the position would be if the claimant had been found to be 
+legally irresponsible by reason of insanity but is still indefinitely detained.28 It is not clear whether ex 
+turpi causa would apply in such circumstances (see Lord Phillips at [15] and Lord Rodger at [83]). 
+What do you think a court would—and should—decide?
+The existence of the defence of illegality does not, however, mean that one can never recover in tort for 
+injuries suffered against a backdrop of criminality. As Bingham LJ noted in Saunders v Edwards [1987], it is 
+not for the court to ‘draw up its skirts and refuse all assistance to the [claimant], no matter how serious his 
+loss’ (at 1134). If the illegal act of the claimant is trivial or simply forms the background to the defendant’s 
+tort, then it will not bar the claim. So, for example, if someone negligently damages your car while it is parked 
+on double yellow lines, a court will not hold that your claim for damages is defeated on the basis that you were 
+parked illegally. Your illegality is both trifling and in no meaningful way contributes to the damage you 
+suffered.29 Nor are participants in criminal activity necessarily 
+↵
+prevented from recovering from each 
+other. To use Lord Asquith’s example in National Coal Board v England [1954]:
+A and B are proceeding to the premises which they intend burglariously to enter, and before they 
+enter them, B picks A’s pocket and steals his watch, I cannot prevail on myself to believe that A could 
+not sue in tort … The theft is totally unconnected with the burglary. (at 429)
+How, then, do the courts determine when a claimant’s unlawful conduct is sufficient to bar his claim in tort? 
+One approach can be seen in the Court of Appeal’s decision in Delaney v Pickett [2011]. The claimant and 
+defendant were transporting a large quantity of cannabis (one package was about the size of a small football) 
+when the defendant negligently lost control of the car he was driving. The claimant was very seriously 
+injured. The trial judge rejected his negligence claim against the driver on the basis that the parties were 
+engaged in an unlawful enterprise. The Court of Appeal, applying the wider interpretation of Lord 
+Hoffmann’s reasoning in Gray, allowed his appeal:
+27
+28
+29
+p. 296
+10. Defences to negligence
+Page 11 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+[T]he crucial question is whether … the criminal activity merely gave occasion for the tortious act of 
+the defendant to be committed or whether, even though the accident would never have happened 
+had they not made the journey which at some point involved their obtaining and/or transporting 
+drugs with the intention to supply, … the immediate cause of the claimant’s damage was the 
+negligent driving. The answer to that question is in my judgment quite clear. Viewed as a matter of 
+causation, the damage suffered by the claimant was not caused by his or their criminal activity. It 
+was caused by the tortious act of the defendant in the negligent way in which he drove his motor car. 
+In those circumstances the illegal acts are incidental and the claimant is entitled to recover his loss. 
+(Ward LJ at [37])
+Another approach to determining when a claimant’s illegality will provide a defence can be seen in the 
+Supreme Court’s decision in Hounga v Allen [2014]. The claimant, Miss Hounga, had entered the UK illegally 
+from Nigeria to work as a ‘sort of au pair’ (at [12]) for Mrs Allen, the defendant. She was 14 years old. During 
+this time she was regularly subjected to serious physical abuse, culminating in an incident in which the 
+defendant evicted her, causing her to sleep outside in wet clothes. The claimant was taken to social services 
+and later brought a number of claims in contract and tort, including for harassment and discrimination. The 
+Supreme Court unanimously held that the illegality defence did not defeat Hounga’s claim in relation to the 
+statutory tort of discrimination as there was not a ‘sufficiently close connection between the illegality and the 
+tort to bar the claim’ (Lord Hughes at [59]).30 The illegality ‘was no more than the context in which Mrs Allen 
+then perpetrated the acts of physical, verbal and emotional abuse’ (Lord Wilson at [40]). Lord Wilson 
+continued:
+to uphold Mrs Allen’s defence of illegality to her complaint runs strikingly counter to the prominent 
+strain of current public policy against trafficking and in favour of the protection of its victims. The 
+public policy in support of the application of that defence, to the extent that it exists at all, should 
+give way to the public policy to which its application is an affront. (at [52])
+The approach adopted here involves weighing up all the relevant policy arguments and, in light of these, 
+determining whether allowing the claim would run counter to public policy. So, the illegality defence is 
+supported by a policy to avoid inconsistency in the law and to 
+↵
+ensure that wrongdoers aren’t unfairly 
+rewarded for their wrongdoing. But these policies are stronger, or apply more strongly, in some cases than 
+others. Moreover, there will often be policies which count against applying the illegality defence. For 
+example, in Hounga, though the claimant acted unlawfully, since she knew she had entered the country 
+illegally, laws against people trafficking are designed to protect people like the claimant and denying her 
+claim would run counter to the important policy behind such laws. How these policy considerations weigh 
+out will, of course, vary from case to case.
+30
+p. 297
+10. Defences to negligence
+Page 12 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Pause for reflection
+The benefit of the ‘range of factors’ approach adopted in Hounga, whereby the courts weigh up the 
+various policy arguments for and against applying the defence, is that it enables the court to address 
+these arguments directly and explicitly, such that the illegality defence will be made out only in those 
+cases where the court considers that it really would be against public policy for the claim to succeed. 
+The downside of this approach, however, is that it makes the application of the defence significantly 
+uncertain. It will typically be unclear how a court will, or indeed how it should, weigh up the 
+competing policies, and different judges are likely to differ on how these policies balance out. 
+However, is this uncertainty a problem? Certainty is something the law rightly strives for. We cannot 
+obey the law unless and until we know what the law expects of us. Nonetheless, certainty is not the 
+only—or even an overriding—value for the law to promote and there are times when the law can do 
+justice only at the cost of some uncertainty. Moreover, the people who are primarily affected by 
+uncertainty in the application of the illegality defence are those engaged in illegal conduct. One way to 
+avoid the uncertainty of the illegality defence is therefore not to break the law in the first place. Is this 
+a good response to concerns about the uncertainty of the defence? What about, for example, other 
+parties, who are not themselves engaged in unlawful conduct, who might need to know where the 
+defence operates?31
+For some judges, the uncertainty entailed by the sort of range of factors approach adopted in Hounga is 
+simply too great. Their preference is for a less flexible and hence more predictable rule that the illegality 
+defence will operate to defeat claims where, but only where, the claimant has to rely on their unlawful 
+conduct to make out their claim. This division of opinion has been laid bare over recent years in the Supreme 
+Court: while Hounga supported the range of factors approach, a majority favoured the narrower reliance rule 
+only a year later in Les Laboratoires Servier v Apotex Inc [2014]. When the court considered the illegality 
+defence once more in Bilta (UK) Ltd v Nazir (No 2) [2015] this split was evident once again, prompting Lord 
+Neuberger to say that the court needed to settle the correct approach to the illegality defence ‘as soon as 
+appropriately possible’ (at [15]). It got the chance in Patel v Mirza.
+Patel v Mirza [2016] UKSC 42 (SC)
+The claimant and defendant entered into a contract under which the claimant was to pay money to 
+the defendant, which the defendant would then use to bet on the price of shares on the basis of inside 
+information. Investing on the back of such information is criminal and the contract was 
+↵
+accordingly unlawful too. In the end, the defendant did not obtain the information he needed to 
+put the plan into action and the claimant sought the return of the money he had paid him. The 
+question was whether the defendant could raise the claimant’s illegality as a defence to this claim.
+31
+p. 298
+10. Defences to negligence
+Page 13 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+A panel of nine Supreme Court Justices was convened to hear the appeal. All nine agreed that the 
+illegality defence should not defeat the claim. The importance of the case, however, comes not in the 
+result but in what the court had to say about the approach to be adopted in such cases. Once more the 
+court was split but, by a 6:3 majority, it rejected the narrow reliance rule and endorsed a variant of the 
+range of factors approach employed in Hounga v Allen. Lord Toulson, giving the lead judgment, stated:
+The essential rationale of the illegality doctrine is that it would be contrary to the public 
+interest to enforce a claim if to do so would be harmful to the integrity of the legal system. … 
+In assessing whether the public interest would be harmed in that way, it is necessary (a) to 
+consider the underlying purpose of the prohibition which has been transgressed and 
+whether that purpose will be enhanced by denial of the claim, (b) to consider any other 
+relevant public policy on which the denial of the claim may have an impact and (c) to 
+consider whether the denial of the claim would be proportionate response to the illegality, 
+bearing in mind that punishment is a matter for the criminal courts. (at [120])
+Lord Toulson acknowledged the concerns that this sort of approach could create uncertainty, but 
+made the point that the need for the law to be certain is less pressing when it comes to those 
+contemplating unlawful activity and that the alternative rule-based approach, adopted in cases like 
+Les Laboratoires Servier v Apotex Inc and favoured by the minority, did not in fact provide significantly 
+greater certainty, as the courts have tended to bend, or to create exceptions to, these rules in a bid to 
+reach satisfactory results:
+The public interest is best served by a principled and transparent assessment of the 
+considerations identified, rather than by the application of a formal approach capable of 
+producing results which may appear arbitrary, unjust or disproportionate. (at [120])
+Pause for reflection
+As you will have spotted, Patel was not itself a tort case. The claimant’s allegation was not that the 
+defendant had wronged him; rather, he simply claimed that the defendant should not be entitled to 
+retain the money that the claimant had paid him, since the contract under which that money was paid 
+was void and the purpose of the payment (to bet on share price movements) had failed. As such, the 
+claim did not fall within the domain of tort law but instead belongs to the law of unjust enrichment. 
+Nonetheless, the court made clear that the approach courts should take to the illegality defence should 
+be, in broad terms, the same whether the claimant is looking to enforce a contract, recover 
+compensation for a tort, claim an item of property or seeking restitution of an unjust enrichment.32
+32
+10. Defences to negligence
+Page 14 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+↵
+The approach set out by Lord Toulson may well end up operating rather differently in various 
+types of case: there is, for instance, less danger of a claimant being seen to gain from his unlawful 
+conduct where he is seeking compensation for an injury than where he is looking to have a contract 
+enforced. Nonetheless, in the first instance decision in McHugh v Okai-Koi [2017] it appeared to be 
+common ground that Patel should apply in a personal injury tort claim. The judge, working through 
+Lord Toulson’s criteria, considered that ‘the grounds of public interest’ would not be ‘enhanced’ by 
+denying the claim of the family of a woman killed following a particularly nasty incident of ‘road 
+rage’. (The defendant had been convicted of causing death by careless driving after Mrs McHugh, who 
+had climbed onto the car’s bonnet in order to prevent the defendant from driving away, had slipped 
+off the bonnet, hitting her head on a Belisha beacon.33)
+As we have noted, a minority in Patel dissented from the majority’s ‘range of factors’ approach, preferring 
+instead a narrower and (so they considered) more certain rule-based approach. Nonetheless, we might have 
+expected Patel to mark a decisive commitment to the range of factors approach, putting an end to the back 
+and forth the courts have been engaged in over the correct approach to adopt in these cases. The very point of 
+convening the nine-judge panel was, after all, to settle this question, at least for the time being.
+Though Patel marks, in this way, a clean break from the disagreements which have plagued the illegality 
+defence in recent years, the majority did not, with very few exceptions, think that the courts had been coming 
+to the wrong decisions in illegality cases. The point of clarifying the approach the courts should adopt in 
+relation to the illegality defence was to see that courts could come to the right decisions more directly and 
+transparently and that the same approach should be adopted whatever the nature of the claim.34 As such, 
+much of the older case law remains a useful guide as to the sorts of situation in which the defence will be 
+made out, even if some of the reasoning in these cases would now be rejected.35
+However, in 2020, the illegality defence was considered yet again by the Supreme Court in Henderson v Dorset 
+Healthcare University NHS Trust Foundation [2020]. The claimant, who was under the care of the defendant’s 
+community mental health team, had killed her mother while experiencing a serious psychotic episode. She 
+was later convicted of manslaughter by reason of diminished responsibility. The NHS Trust admitted it had 
+negligently failed to return the claimant to hospital following a deterioration of her condition and that, had it 
+done so, the tragic events would not have taken place. However, they argued that the claimant’s claim for 
+damages for the losses she had suffered as a result of her actions was barred on 
+↵
+the basis of illegality 
+because the damages she claimed resulted from: (a) the sentence imposed on her by the criminal court; and/ 
+or (b) her own criminal act of manslaughter. A key question for the court was whether, following Patel, they 
+were still bound by the House of Lords’ opinion in Gray.36 Rejecting the claimant’s claim, the court 
+unanimously agreed that Gray remained good law and compatible with the approach set out in Patel. The 
+application of the illegality defence was justified on two public policy considerations: consistency between 
+the criminal law and tort law and the need to maintain public confidence in the legal system:
+p. 299
+33
+34
+35
+p. 300
+36
+10. Defences to negligence
+Page 15 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+For one branch of the law to enable a person to profit from behaviour which another branch of the 
+law treats as being criminal or otherwise unlawful would tend to produce inconsistency and 
+disharmony in the law, and so cause damage to the integrity of the legal system … the decision in 
+Gray should be affirmed as being ‘Patel compliant’—it is how Patel ‘plays out in that particular type 
+of case’. The clearly stated public policy based rules set out in Gray should be applied and followed in 
+comparable cases. (Lord Hamblen at [119], [145])37
+Lord Hamblen in Henderson left open the possibility, raised by Lords Phillips and Roger in Gray and more 
+recently by Lord Sumption, that there may be some exceptional cases in a criminal act where the illegality 
+defence will not succeed:
+In Les Laboratoires Servier v Apotex Inc [2015] Lord Sumption stated at para 23 that: ‘The paradigm 
+case of an illegal act engaging the defence is a criminal offence.’ … [T]here may be some exceptional 
+cases where a criminal act will not constitute turpitude. The reservation made in Gray in relation to 
+trivial offences may be an example of such a case, as may be strict liability offences where the 
+claimant is not privy to the facts making his act unlawful. (at [112])
+While Lord Hamblen was clear that ‘the serious criminal offence of manslaughter by reason of diminished 
+responsibility does not come close to falling within such an exception and clearly engages the defence’ (at 
+[112]), the possibility of the existence of such a category—and the fact that the Supreme Court has granted 
+permission to appeal in Lewis-Ranwell v G4S Health Services (UK) Ltd and others [2024] (the sixth time the 
+court has considered the defence since 2014)—means the limits of the illegality are likely to be tested again at 
+some point in the not too distant future.
+Lewis-Ranwell v G4S Health Services (UK) Ltd and others [2024] EWCA 
+Civ 138 (CA)
+Lewis-Ranwell killed three men while suffering a serious psychotic episode. He had been held in 
+police custody in the 48 hours prior to the killings, during which he had exhibited concerning 
+behaviour. He was later found not guilty of murder and manslaughter by reason of insanity, and 
+detained in hospital under the Mental Health Act 1983. He subsequently commenced 
+↵
+proceedings against G4S Health Services (UK) Ltd, the police, the NHS and Devon County 
+Council for negligence on the basis that it should have been obvious that he was a risk to others and 
+ought to have been detained. The defendant sought to have the case struck out on the basis that his 
+claim was founded on the claimant’s illegal act.
+The majority of the Court of Appeal refused to strike out the case, holding that where a person has 
+committed a crime, but has been found not guilty by reason of insanity, the defence of illegality does 
+not prohibit them from claiming damages from those who were responsible for assessing their 
+mental wellbeing at the relevant time. Sharp P continued:
+37
+p. 301
+10. Defences to negligence
+Page 16 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+[Clunis, Gray and Henderson draw] a coherent and bright line distinction for the purposes of 
+the ex turpi causa doctrine, between those who are criminally responsible for their acts 
+whether fully or partially, and those who are not responsible for their acts because they do 
+not know what they are doing is morally and legally wrong. In my judgment, this common 
+thread running through the criminal and civil law, is consistent with principle, a proper 
+understanding of the true implications of acute mental illness and is one that would not 
+offend the sensibilities of ordinary right-thinking members of the public or undermine 
+public confidence in the law. (at [161])38
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-10-3>.
+10.4  Contributory negligence
+Contributory negligence is a partial defence. It operates not to defeat the claimant’s claim entirely but rather 
+to reduce the amount of damages the defendant must pay. It will be raised by a defendant where the claimant 
+has failed to take reasonable steps for their own safety and this failure has contributed to the injury the 
+claimant has then suffered. Where the defence is raised successfully, it will mean that both the claimant and 
+the defendant are responsible, at least in part, for the claimant’s losses and accordingly those losses are split 
+between them.
+In a typical accident case, where there are faults on the part of the victim (C) and the defendant (D) 
+both of which then and there directly contribute to the accident, … there is no difficulty in finding 
+that C suffers damage partly as a result of his own fault and partly as a result of the fault of D. Such 
+cases are the regular diet of judges in the courts day in and day out. (Dyson LJ, St George v Home 
+Office [2008] at [54])
+Section 1(1) of the Law Reform (Contributory Negligence) Act 1945 states that a court can reduce the 
+claimant’s damages by whatever amount seems just according to their share in responsibility for the damage.
+38
+10. Defences to negligence
+Page 17 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(1)
+(1)
+(2)
+(3)
+Law Reform (Contributory Negligence) Act 1945
+Where any person suffers damage as the result partly of his own fault and partly of 
+the fault of any other person or persons, a claim in respect of that damage shall not be 
+defeated by reasons of the fault of the person suffering the damage, but the damages 
+recoverable in respect thereof shall be reduced to such an extent as the court thinks it 
+is just and equitable having regard to the claimant’s share in the responsibility for the 
+damage …
+↵
+‘Fault’ is defined in section 4 of the Act as ‘negligence, breach of statutory duty or other act or 
+omission which gives rise to a liability in tort’.39 The same section also establishes that damage 
+includes loss of life and personal injury.
+In order for the defence to be raised, three questions need to be addressed:
+Did the claimant fail to exercise reasonable care for their own safety?
+Did this failure contribute to the claimant’s damage? and
+By what extent should the claimant’s damages be reduced?
+10.4.1  Did the claimant fail to exercise reasonable care for their own safety?
+When determining whether the claimant has taken reasonable care for their own safety an objective standard 
+is applied. The question is ‘what would a reasonable person in the claimant’s position have done to avoid 
+being hurt?’
+Jones v Livox Quarries Ltd [1952] 2 QB 608 (CA)
+The claimant was riding on the back of a slow-moving tracked vehicle at work, contrary to company 
+regulations, when a dumper truck crashed into the back of it, seriously injuring the claimant. He sued 
+his employer, claiming that the driver of the dumper truck was negligent in failing to keep a proper 
+look-out. In response, the defendants argued that the claimant had caused or contributed to his own 
+injuries by his own carelessness in riding on the back of the truck.
+The Court of Appeal agreed: ‘A person is guilty of contributory negligence if he ought reasonably to 
+have foreseen that, if he did not act as a reasonable prudent man, he might be hurt himself; and in his 
+reckonings he must take into account the possibility of others being careless’ (Denning LJ at 615). The 
+claimant’s award of damages was reduced by 20 per cent.
+p. 302
+39
+10. Defences to negligence
+Page 18 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+While at first sight contributory negligence appears to be a useful mirror image of negligence, which allows 
+for the reduction of damages where the claimant is also ‘at fault’, the practical effects of a finding of 
+contributory negligence are, Peter Cane and James Goudkamp argue, somewhat less satisfying:
+A finding that the defendant is guilty of negligence shifts a loss away from the claimant and 
+typically spreads it throughout a wide population by means of insurance … A finding of contributory 
+negligence usually has precisely the opposite effect, which is to leave part or all of the loss on the 
+claimant, who will typically be without insurance. Thus, reduction of damages for contributory 
+negligence falls much more heavily on the claimant than liability for negligence bears on the 
+defendant.40
+↵
+This may be behind the courts’ willingness to make allowances for the personal characteristics and 
+qualities of the claimant when making findings of contributory negligence. As with setting the standard of 
+care for the defendant, the law allows for some modification of this objective standard to take into account at 
+least some characteristics of the claimant.
+Illness is one example. In Spearman v Royal United Bath Hospitals NHS Foundation Trust [2017], for example, 
+the judge rejected an argument that a claimant, who was being treated in a hospital’s emergency department, 
+was contributorily negligent in relation to the serious injures he had sustained after climbing onto, and 
+subsequently falling from, a flat roof on the hospital’s premises:
+Whether as a result of the ongoing effects of the hypoglycaemic attack or the effects of the pre- 
+existing brain injury [caused by an accident some 30 years early] or a combination of the two, the 
+claimant did not appreciate the danger he was in, in climbing the fence … where a person’s state of 
+mind is such that, whether temporarily or permanently, they do not appreciate that they are putting 
+themselves in danger and it cannot be said that they should have so appreciated. Otherwise, that 
+would be to penalise a person for being ill or of unsound mind, and the law does not do that.41 (at 
+[74])
+Age is another example.
+A very young child cannot be guilty of contributory negligence. An older child maybe. But it depends 
+on the circumstances. A judge should only find a child guilty of contributory negligence if he or she 
+is of such an age to be expected to take precautions for his or her safety: and then he or she is only to 
+be found guilty if blame should be attached to him or her. A child has not the road sense or 
+experience of his or her elders. He or she is not to be found guilty unless he or she is blameworthy. 
+(Lord Denning in Gough v Thorne [1966] at 1390)
+There are no hard-and-fast rules as to the age at which a child will be found contributorily negligent. In Gul v 
+McDonagh [2021], counsel noted that there were no reported cases of a child under the age of 8 being found 
+contributorily negligent (at [11]), though it is certainly the case that young teenagers can have findings 
+against them (see e.g. Jackson v Murray [2015]). In Young v Kent County Council [2005], for example, a 12- 
+40
+p. 303
+41
+10. Defences to negligence
+Page 19 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+year-old boy who was seriously injured after falling through a roof while attempting to retrieve his football 
+was considered by the court to be ‘as much to blame as the defendants’ (at [34]). His damages were reduced 
+by 50 per cent to reflect this. More recently in Gul the claimant—a 13-year-old boy—who suffered 
+‘catastrophic injuries’ when he was hit by a car which was being driven at over twice the 20 mph speed limit 
+was found to be 10 per cent contributorily negligent on the basis that he had failed to recognise that a car was 
+being driven much faster than usual and adjust his actions accordingly. (The defendant was later convicted of 
+dangerous driving.)
+In my judgment that should have been apparent to a reasonable adult who had made an appropriate 
+assessment of the dangers he faced in crossing the road. I then have to consider whether a 
+reasonable 13-year-old with the claimant’s experience should be expected to have made the same 
+judgment. I accept that many children cannot judge how fast vehicles are going or how far away 
+they are. However, at 13, I consider it likely that the claimant would have experience of crossing 
+roads on his own, even roads where traffic might be going at 40mph. It would be wholly wrong to 
+expect the claimant to have been able to estimate the precise speed of the Focus. However, … a 
+reasonable 13-year-old making a careful assessment would have realised 
+↵
+that the Focus was 
+being driven much faster than usual. Further, although the claimant did not have far to go, I 
+consider that a reasonable 13-year-old would have considered that the Focus represented a source of 
+potential danger and would have waited for the Focus to pass. Further, even if a reasonable 13-year- 
+old had set off, I consider that they would have kept the Ford Focus under observation so that, if 
+necessary, they could hurry across the very short distance. (Gargan J at [89])
+It is also clear is that where the claimant’s failure to take reasonable care for their own safety is a result of 
+them being intoxicated, they cannot rely on this to avoid a finding of contributory negligence against them 
+(unless they are unconscious):
+If an intoxicated pedestrian falls down a manhole that a sober person would have seen and avoided, 
+it seems impossible to hold that the pedestrian was not guilty of contributory negligence because the 
+pedestrian’s condition prevented him or her from seeing the danger. (Underhill LJ, Campbell v 
+Advantage Insurance Co Ltd [2021] at [50] quoting McHugh J in the Australian case of Joslyn v 
+Berryman [2003])
+In Campbell v Advantage Insurance Co Ltd [2021], the claimant suffered catastrophic brain damage when the 
+car in which he was a passenger collided with a lorry. Both the driver and claimant had been drinking heavily 
+before getting into the car. The claimant was found to be 20 per cent contributorily negligent:
+p. 304
+10. Defences to negligence
+Page 20 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+… the issue is … whether an ordinary reasonable person—a sober person—would have foreseen that 
+accepting a lift from the intoxicated driver was exposing him or her to a risk of injury by reason of 
+the driver’s intoxication. If a reasonable person would know that he or she was exposed to a risk of 
+injury in accepting a lift from an intoxicated driver, an intoxicated passenger who is sober enough to 
+enter the car voluntarily is guilty of contributory negligence. The relevant conduct is accepting a lift 
+from a person whose driving capacity is known, or could reasonably be found, to be impaired by 
+reason of intoxication’ … It is important, however, to note [the] reference to the passenger being, 
+although intoxicated, ‘sober enough to enter the car voluntarily’. A person who while unconscious 
+through drink is put by friends or others into a car which is then driven by an (evidently) drunken 
+driver will not be guilty of contributory negligence, because they have done no voluntary act: to put 
+it another way, they will not have consented to being driven at all. However foolish it may be to 
+drink yourself into a stupor, you cannot be treated as having consented to things that are then done 
+to you while in that state. (Underhill LJ at [52]–[53] quoting McHugh J, Joslyn v Berryman at [38])
+Other examples of situations in which the claimant has been found to have failed to exercise reasonable care 
+for their own safety include pulling out from a side road in front of a police car travelling at speed and with its 
+blue light flashing (Armsden v Kent Police [2009]), attempting to cross the road when the red man at a 
+pedestrian crossing was against the pedestrian (Rehill v Rider Holdings Ltd [2012]),42 jumping off (rather than 
+climbing down) an indoor climbing wall (Pinchbeck v Craggy Island Ltd [2012]), jumping from a moving taxi 
+(Hicks v Young [2015]), standing in the middle of the road in order to ‘moon’ (show one’s bare bottom) at 
+passing cars while in an intoxicated state (Ayres v Odedra [2012]) and climbing onto the bonnet of a car to 
+prevent it from driving away (McHugh v Okai-Koi [2017]).
+10.4.2  Did this failure contribute to the claimant’s damage?
+The claimant’s own carelessness will only provide a defence to the defendant’s negligence when it makes 
+some contribution to the injuries they suffered; for example, if the claimant has contributed in some way to the 
+accident that has caused their injury or where their failure to wear a seat belt has contributed to their injury. 
+If the claimant is careless but that carelessness did not have any bearing on their injury then the defence of 
+contributory negligence will not arise: their negligence is not contributory. In Campbell v Advantage Insurance 
+Co Ltd, for example, the trial judge found that the claimant would have suffered the same injuries whether or 
+not he was wearing a seat belt and so his failure to wear one did not amount to contributory negligence (the 
+finding of contributory negligence against him was grounded in his failure to exercise reasonable care for his 
+own safety in allowing himself to be driven by the defendant who had been drinking) (at [7]).
+In all successful cases of contributory negligence, there will be more than one cause of the claimant’s injuries 
+—that is, both the claimant and defendant will have contributed to the accident (if the defendant’s breach of 
+duty was not a ‘but for’ cause of the injury then any claim would fail even before we get to the question of 
+defences).43 However, even where the claimant’s carelessness was a ‘but for’ cause of their own injuries the 
+defence will not be available if the injuries they suffered arose from some risk or danger of which they were 
+not aware and against which they could not have been expected to take precautions. In Jones v Livox Quarries 
+Ltd, for example, Denning LJ considered what the position of the claimant would have been had he been 
+42
+p. 305
+43
+10. Defences to negligence
+Page 21 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+negligently shot while riding on the back of the truck. In this case, he suggested, the claimant would not be 
+contributorily negligent even though he was partly to blame—after all, had he not been acting unreasonably 
+by riding on the back of the truck he would have been elsewhere when the shot was fired. In this example, we 
+might say that the claimant’s actions merely provide the setting or the circumstances in which the injuries 
+were suffered, rather than being a cause of them; his loss—being shot—would have had nothing to do with 
+why it was unreasonable to travel on the back of the truck (at 616).
+Thus in St George v Home Office [2008] the claimant, a prisoner who suffered severe brain damage after 
+falling from a top bunk as a result of an epileptic seizure brought on by drug and alcohol withdrawal, was not 
+found to be contributorily negligent. Though ‘but for’ his addiction he would not have fallen from the bunk, 
+his addiction was too remote in time and place to allow his injury to be properly regarded as a potent cause of 
+the injury as required by the Act: ‘The fault is not sufficiently closely connected with the defendant’s 
+negligence. Rather, the fault is part of the claimant’s history which has led to his being a man who is 
+suffering from a particular medical condition’ (Dyson LJ at [58]).44 As such this can be distinguished, Dyson 
+LJ suggested, from a situation where the claimant is intoxicated and walks into the path of a negligently 
+driven car:
+[t]he fault of such a person (negligently walking into the path of a car) is a potent cause of the injury 
+which he sustains in the accident. The fault (walking in the road in a drug-induced state of 
+intoxication) is closely connected in time and place with the accident which is caused then and there 
+by a combination of the negligence of the claimant and the defendant. (at [57])
+10.4.3  By what extent should the claimant’s damages be reduced?
+Section 1(1) of the 1945 Act offers no guidance as to how the award of damages is to be reduced, or 
+responsibility is to be apportioned, save for requiring that the damages be reduced to such extent as the court 
+thinks ‘just and equitable having regard to the claimant’s share in the responsibility for the damage’ (as 
+opposed to responsibility for the accident). When deciding by how much to reduce the award of damages to 
+the claimant, the courts look to the comparative blameworthiness of the parties and to the ‘relative importance 
+of [the claimant’s] acts in causing the damage’ (Stapley v Gypsum Mines Ltd [1953] at 682; Davies v Swan Motor 
+Co [1949]). If the parties are equally to blame the damages will be reduced by 50 per cent; if the defendant is 
+twice as blameworthy as the claimant they will be reduced by 33 per cent, and so on.45
+Pause for reflection
+In their empirical study of 368 first instance decisions in contributory negligence in England and 
+Wales between 2000 and 2014, James Goudkamp and Donal Nolan found the following:
+44
+p. 306
+45
+10. Defences to negligence
+Page 22 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+1.
+2.
+3.
+7.
+8.
+9.
+Contributory negligence is successful in 60 per cent of the claims in which it is raised.
+The average discount was 40.5 per cent.
+Claims were most likely to be reduced by one-half, one-third and one-quarter, with 
+discounts at the higher end of the spectrum occurring ‘relatively infrequently’ …
+Children aged over 10 are treated more harshly than adult claimants, both when 
+deciding whether to make a finding of contributory negligence and when 
+determining the discount where contributory negligence has been found.
+There is no ‘compelling evidence’ of gender difference in the finding of contributory 
+negligence, or the awards made.
+Findings of contributory negligence and the discount awarded in cases of personal 
+injury had remained ‘fairly constant’ over the 14 year period.46
+As Goudkamp and Nolan note, these findings are important as the vast majority of cases where 
+contributory negligence is raised are heard in the County Court, where the decision is often 
+unreported. This means that judges, lawyers and the parties are likely to have little awareness of these 
+earlier decisions. Goudkamp and Nolan hope the ‘greater clarity’ provided by their study ‘may aid 
+claimants, whom it has been suggested may be induced by the uncertainty surrounding the doctrine 
+to accept low settlement offers’ and provide transparency and guidance to judges, ‘mak[ing] the task 
+of apportioning damages a little easier’.47
+Froom v Butcher [1976] QB 286 (CA)
+The claimant suffered head and chest injuries and a broken finger when his car was negligently hit by 
+the defendant. The claimant was not wearing a seat belt. At the time there was no statute requiring 
+people to wear seat belts and the claimant preferred not to wear one because he had at one time seen 
+an accident where the driver would have been trapped if he had been wearing one.
+The Court of Appeal held that the claimant was contributorily negligent in respect of the injuries he 
+would have avoided if he had worn a seat belt. His damages were reduced by 20 per cent (as had been 
+previously agreed by the parties). The court went on to lay down guidelines in relation to the 
+appropriate reduction in damages for failing to wear a seat belt (see Table 10.1).
+46
+47
+p. 307
+10. Defences to negligence
+Page 23 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Table 10.1 Reduction in damages payable for failure to wear a seat belt or appropriate crash helmet on a motor­
+bike
+Level of injury
+Reduction
+Prevented completely
+25%
+Less severe
+15%
+No difference
+0%
+In Stanton v Collinson [2010], the Court of Appeal found that a teenager who suffered serious head injuries in a 
+car accident in which he was not wearing a seat belt was not contributorily negligent on the grounds that it 
+had not been shown that a belt, if worn, would sufficiently have reduced the injuries suffered. Hughes LJ 
+continued:
+[The Law Reform (Contributory Negligence) Act 1945] … permits an approach such as adopted in 
+Froom v Butcher … and the general proposition that, absent something exceptional, there should be 
+no reduction in a case where the injury would not have been reduced ‘to a considerable extent’ by the 
+seat belt … Both parties in this appeal urged upon us, in different contexts, the undesirability of a 
+prolonged or intensive enquiry in these cases. They were right to do so; there is a powerful public 
+interest in there being no such enquiry into fine degrees of contributory negligence, so that the vast 
+majority of cases can be settled according to a well-understood formula and those few which entail 
+trial do not mushroom out of control. Froom v Butcher so states, and is binding. (at [26])
+The Froom v Butcher guidelines have subsequently been applied in relation to a claimant’s failure to wear a 
+motorbike helmet in Capps v Miller [1989] and in relation to cycle helmets in Smith v Finch [2009] and 
+Reynolds v Strutt and Parker [2011].48
+Pause for reflection
+It is clear from the judgment in Froom v Butcher that the claimant was reluctant to wear a seat belt 
+and dubious of the safety benefits in so doing. At the time, wearing seat belts was not compulsory and, 
+in the face of considerable parliamentary opposition, the government had to fall back on its Highway 
+Code to ‘strongly advise’ motorists to fit and wear seat belts. This meant that although wearing seat 
+belts remained, in principle, optional, the failure to wear one could be brought as evidence in civil 
+proceedings. By finding the claimant in Froom v Butcher contributorily negligent, the Court of Appeal 
+relied on the deterrent effects of tort law to fill this ‘legislative gap’.49 Motorists who may be willing to 
+risk more serious injury by not wearing a seat belt were not, it seemed, as willing to risk a proportion 
+48
+p. 308
+49
+10. Defences to negligence
+Page 24 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+of their award of compensation should the worst happen and began to buckle up.50 It remains to be 
+seen whether the possibility of a finding of contributory negligence will have a similar effect in 
+relation to the wearing of cycle helmets.51
+The question of apportionment was considered by the Supreme Court in Jackson v Murray [2015].
+Jackson v Murray [2015] UKSC 5 (SC)
+The claimant, a 13-year-old child, suffered severe, life-changing injuries after being hit by a car when 
+she ran into the road after alighting from her school bus.52 The driver of the car was liable in 
+negligence. However, the Lord Ordinary (the trial judge) found the ‘principal cause’ of the accident 
+was the ‘reckless folly’ of the claimant: either she did not look before crossing the road or, having 
+looked, she failed to identify and react sensibly to the presence of the car in close proximity. In light of 
+this, she was contributorily negligent and her damages were reduced by 90 per cent, reduced to 70 per 
+cent on appeal.
+Allowing her appeal, by majority, the Supreme Court found the parties to be ‘at least equally as 
+blameworthy’ (at [43]), increasing the claimant’s award to 50 per cent of the agreed damages 
+(amounting to a reported £1.1 million). Lord Reed, for the majority, continued: ‘It is not possible for a 
+court to arrive at an apportionment which is demonstrably correct. The problem is not merely that 
+the factors which the court is required to consider are incapable of precise measurement. More 
+fundamentally, the blameworthiness of the pursuer and the defender are incommensurable’ (at [27]). 
+The decision is ‘inevitably a somewhat rough and ready exercise … different judges may legitimately 
+take different views of what would be just and equitable in particular circumstances, [and] it follows 
+that those differing views should be respected, within the limits of reasonable disagreement’ (at [28]). 
+However, in this case, the views of both the Lord Ordinary and Extra Division judges fell beyond these 
+limits, hence the majority’s increase of the claimant’s award.
+↵
+There were two central questions in Jackson. How should responsibility be apportioned? And what 
+principles should govern the review of an apportionment by an appellate court? There was agreement among 
+the Justices that the first was to be answered by reference to the respective causative potency of the parties’ 
+acts and their respective blameworthiness and that, in respect of the second, an appellate court should only 
+alter the assessment of the court below where the court ‘has manifestly and to a substantial degree gone 
+wrong’ (at [46]). However, as the split decision demonstrates, despite agreeing on the approach to be 
+adopted, there remained room for considerable differences of opinion on its application.
+50
+51
+52
+p. 309
+10. Defences to negligence
+Page 25 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Without doubt, the claimant had also failed to take reasonable care for her own safety. As the Lord Ordinary 
+noted: ‘either she did not look to her left within a reasonable time before stepping out, or she failed to make a 
+reasonable judgment as to the risk posed by the defender’s car’ (cited at [41]). But what of the defendant’s 
+negligence—it was agreed by the parties that ‘if he had been driving at a reasonable speed, and had been 
+keeping a proper look-out, he would not have hit her’ (at [1]).
+It was then about 40 minutes after sunset, and the light was fading. Vehicles had their lights on. The 
+bus stopped, with its headlights on, and signs to the front and rear indicating that it was a school 
+bus. The driver put on the bus’s hazard lights. A number of vehicles following the bus stopped 
+behind it. The [defendant] was driving home in the opposite direction. His lights were switched on. 
+As he approached the scene, he saw the stationary bus on the other carriageway. He had a view of the 
+stationary bus for at least 200 metres. He had seen the school bus on this road before. He was 
+travelling at about 50 mph. He did not slow down. His position in evidence was that he could not 
+remember whether he had thought at the time that the bus might have stopped to drop children off. 
+He regarded the risk of children running out unexpectedly as irrelevant: such a risk was ‘not his 
+fault’, as he put it … The defender was unaware of her presence until the moment of impact. Since 
+she must have been within his line of vision for approximately 1.5 seconds between emerging from 
+behind the bus and the moment of impact, the Lord Ordinary inferred that he was not keeping a 
+look-out for the possibility of such an event occurring. If he had had in mind the possibility that 
+someone might emerge, he would have seen her earlier than he did. (Lord Reed at [7], [9])
+Pause for reflection
+The courts have consistently imposed a high burden on car drivers, to reflect the potentially 
+dangerous nature of driving:
+A pedestrian has to look to both sides as well as forwards. He is going at perhaps three miles 
+an hour and at that speed he is rarely a danger to anyone else. The motorist has not got to 
+look sideways though he may have to observe over a wide angle ahead: and if he is going at a 
+considerable speed he must not relax his observation, for the consequences may be 
+disastrous … In my opinion it is quite possible that the motorist may be very much more to 
+blame than the pedestrian. (Lord Reid, Baker v Willoughby [1970] at 490)53
+With this in mind the trial judge’s decision to find the claimant in Jackson 90 per cent responsible for 
+her injuries seems particularly harsh. In fact, the case is a good example of the difficulty 
+↵
+courts have in relation to how to apportion responsibility between two negligent parties. The 
+claimant was variously found to be between 90 per cent and 50 per cent responsible for her injuries. 
+Do you think the Supreme Court reached the right decision in this case? Compare, for example, the 
+finding in Gul in which Gargan J held:
+53
+p. 310
+10. Defences to negligence
+Page 26 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+In determining what reduction it is just and equitable to make on account of the claimant’s 
+contributory negligence, it is necessary to evaluate the relative degree of blameworthiness 
+and causative effect of the acts and omissions which constitute negligence on the part of the 
+claimant and the first defendant respectively. It is generally expected that a court will impose 
+a high burden on drivers of cars to reflect the fact that a car is potentially a dangerous 
+weapon. The first defendant’s driving in this case was particularly egregious. His speed 
+excessive, the risk of injury obvious and his motivation the desire to avoid arrest. Insofar as 
+the claimant could see the defendant so too the defendant could see the claimant and could 
+and should have slowed down. It would not have taken much adjustment on the part of the 
+defendant to allow the claimant to complete that final 30cm across the road. The causative 
+potency of all these factors is extremely high and must weigh heavily against the first 
+defendant. … Whilst deeply sympathetic to the claimant, I do not think his culpable 
+misjudgment can be wholly ignored. However, when balanced against the conduct of the 
+first defendant it falls very much at the lowest end of the scale … I consider that the just and 
+equitable reduction in all the circumstances of this case is 10 per cent (at [97]–[98], [100])
+Peter Cane and James Goudkamp have suggested that ‘negligent people do not pay for the 
+consequences of their negligence; but contributorily negligent people do pay for the consequences of 
+their contributory negligence’.54
+In our video ‘Paying the price for an act of “reckless folly”’ we argue that the decision in Jackson is a 
+clear example of where this appears to be the case.
+Video playback is not supported in this format.
+Video 10: Paying the price for an act of ‘reckless folly’
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-10-4>.
+10.5  Conclusion
+When the other elements of a claim in negligence have been met, the defendant may still be able to limit their 
+liability in whole or in part by raising a defence. This chapter has considered the application of three defences 
+—voluntary assumption of risk, illegality and contributory negligence. Although the latter is confined to 
+54
+10. Defences to negligence
+Page 27 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+1
+2
+→
+→
+negligence, the others apply more widely. In order to establish voluntary assumption of risk, the defendant 
+must show that the claimant consented to (rather than was simply aware of) the full extent and nature of the 
+risk. As such it works to encourage the claimant to take personal responsibility for their actions, particularly 
+when they are involved in inherently risky activities while illegality operates to defeat a claim where the 
+action arises out of an illegal activity. While Patel appears to have gone some way to quelling debates as to the 
+application of illegality, at least for the time being, it, remains—to paraphrase Sedley LJ—a somewhat ‘blunt 
+instrument’ with which to do justice (Vellino at [55]). Contributory negligence is the most common and 
+successful defence in negligence. Unlike the other defences considered in this chapter, which exonerate the 
+defendant from having to pay anything, contributory negligence reduces the damages of a claimant whose 
+failure to exercise reasonable care for their own safety has contributed to their injury.
+End-of-chapter questions
+After reading the chapter carefully, try answering the questions which follow.
+Outline each of the three defences discussed in this chapter. What do you think are their strengths and 
+weaknesses?
+The defence of illegality ‘expresses not so much a principle as a policy. Furthermore, that policy is not based 
+upon a single justification but on a group of reasons, which vary in different situations’ (Lord Hoffmann, Gray v 
+Thames Trains [2009] at [30]). Discuss with reference to recent case law.
+If you would like to know what we think, check the answer guidance <https://iws.oupsupport.com/ebook/  
+access/content/horsey9e-student-resources/horsey9e-chapter-10-answers-to-end-of-chapter-questions? 
+options=showName>.
+Answering the problem question
+Consider again the problem question at the start of this chapter. Now having read about defences, what 
+would be your advice to Ben and Orik? Do you think they are likely to recover compensation in respect of their 
+injuries from Viê’t? (You should assume that, in the absence of applicable defences, they would have a good 
+claim in negligence.)
+Here are some pointers to get you started:
+Will Orik’s claim against Viê’t be defeated by the defence of illegality?
+Has Ben been contributorily negligent—both in relation to jumping in beside Viê’t and failing to wear a 
+seat belt?
+p. 311
+10. Defences to negligence
+Page 28 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+→
+→
+If you need some more guidance:
+See the annotated version of the problem with issues and cases to consider <https://  
+iws.oupsupport.com/embed/access/content/horsey9e-student-resources/horsey9e-chapter-10-annotated- 
+problem-question-interactive>.
+Check your answer against the suggested outline answer <https://iws.oupsupport.com/embed/access/  
+content/horsey9e-student-resources/horsey9e-chapter-10-answers-to-problem-question>.
+Further reading
+The references below are a good place to start your further reading; however, you should bear in mind that— 
+particularly, but not only, in relation to illegality—there has been a lot of recent case law and so some of the 
+discussions of the law may be a little out of date.
+Burrows, Lord The Illegality Defence after Patel v Mirza, The Professor Jill Poole Memorial Lecture 2022, Aston 
+University, 24 October 2022.
+Cane Peter and James Goudkamp Atiyah’s Accidents: Compensation and the Law (9th edn CUP 2018) 44–58
+Field, Ian D ‘Contributory Negligence and the Rule of Avoidable Losses’ (2018) 38 Oxford Journal of Legal Studies 475
+Gardner, Jodi ‘Rethinking Risk-Taking: The Death of Volenti’ [2023] Cambridge Law Journal 110
+Goudkamp, James ‘Rethinking Contributory Negligence’ in Erika Chamberlain, Jason Neyers and Stephen Pitel (eds) 
+Challenging Orthodoxy in Tort Law (Hart 2013)
+Goudkamp, James Tort Law Defences (Hart 2013)
+↵
+Goudkamp, James and Donal Nolan ‘Contributory Negligence in the Court of Appeal: An Empirical Study’ (2017) 37 
+Legal Studies 437
+Green, Sarah and Alan Bogg (eds) Illegality after Patel v Mirza (Hart 2018)
+Jaffey, AJE ‘Volenti Non Fit Injuria’ [1985] Cambridge Law Journal 87
+Law Commission The Illegality Defence (Law Com No 320, 2010)
+Lord Mance ‘Ex Turpi Causa: When Latin Avoids Liability’ (2014) 18 Edinburgh Law Review 175
+Lord Sumption ‘Reflections on the Law of Illegality’ (2012) 20 Restitution Law Review 1
+Webb, Charlie ‘Illegality’ in William Day and Sarah Worthington (eds) Challenging Private Law: Lord Sumption on the 
+Supreme Court (Hart 2020)
+p. 312
+10. Defences to negligence
+Page 29 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Additional suggestions for further reading can be found in this chapter’s web links <https://iws.oupsupport.com/  
+ebook/access/content/horsey9e-student-resources/horsey9e-chapter-10-web-links?options=showName>.
+Notes
+ 
+1. There are many more defences in tort law than can be covered in this chapter, or indeed this book. See further 
+James Goudkamp Tort Law Defences (Hart 2013) in which he discusses 38 defences including insanity, mistake and 
+bankruptcy.
+ 
+2. A note on terminology: typically the case law refers to ‘consent’ in the context of intentional torts and to ‘volenti’ or 
+‘voluntary assumption of risk’ in relation to negligence. However, as Jodi Gardner argues, while consent and volenti 
+are invariably treated as synonymous, there are important differences between them—most notably the fact that ‘the 
+presence of consent always operates to defeat a claim in tort’ (‘Rethinking Risk-Taking: The Death of Volenti’ [2023] 
+Cambridge Law Journal 110, 112).
+ 
+3. This includes the statutory negligence regimes considered in Chapters 11 to 14.
+ 
+4. Consent is also discussed in section 15.5.1. There are other defences that are peculiar to specific torts—most 
+obviously in relation to defamation and nuisance. These are discussed in the appropriate chapters.
+ 
+5. In this case, the House of Lords rejected the application of volenti in relation to injuries suffered by an employee at 
+work as a result of his employers not warning him of the moment of a reoccurring danger (even though he was aware 
+of the general risk of the danger occurring). See further Chapter 13.
+ 
+6. DM Gordon ‘Wrong Turns in the Volens Cases’ (1945) 60 Law Quarterly Review 140, 140.
+ 
+7. Stephen Sugarman ‘Assumption of Risk: The Monsanto Lecture’ (1996) 31 Valparaiso University Law Review 833, 834.
+ 
+8. Between 1814 and 2022, only 68 cases considered volenti in detail, and the defence was successful in just 16 cases 
+(Gardner n2 131).
+ 
+9. Gardner, ibid 114, 137.
+ 
+10. This doesn’t happen very often. It is not the same as ‘consenting’ to the risk of being injured, e.g. by a kick in a 
+football match or sustaining injury in any other ‘risky’ activity. See further Lord Diplock in Wooldridge v Sumner [1963] 
+at 69–70. Morris v Murray [1991] (discussed in this chapter) is a very good example of just how far someone has to go 
+for the courts to consider that the claimant consented to the risk of being harmed by another’s negligence.
+ 
+11. Unless the premises are business premises, in which case the occupier cannot exclude liability for negligently 
+caused personal injury or death (Unfair Contract Terms Act 1977, s 2(1)). See further section 11.2.2.4. For a discussion 
+of the operation of volenti in the context of an occupier’s liability claim, see White Lion Hotel v James [2021].
+ 
+12. Discussed further in section 15.5.1.
+ 
+13. As a result, defendants in similar cases today seek to rely on illegality and/or contributory negligence in order to 
+prevent or reduce their liability. See further Clark v Farley [2018]; Campbell v Advantage Insurance Co Ltd [2021].
+ 
+14. In which the House of Lords rejected the argument that the claimant, who had committed suicide while in police 
+custody, had voluntarily assumed the risk of their own suicidal actions.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+10. Defences to negligence
+Page 30 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+15. The latter requirement may mean that a claimant who is completely drunk is better protected than someone who is 
+sober or only slightly tipsy. However, providing the claimant is still able to be aware of risk, it makes no difference if 
+the alcohol makes them more likely to take the risk or, indeed, to give the risk no thought at all.
+ 
+16. Where the claimant, who had been injured while teaching the defendant to drive, was found to be contributorily 
+negligent as he was jointly controlling the car at the time of the accident. See section 8.3.
+ 
+17. The same applies to spectators, as we saw in Wooldridge v Sumner [1963] discussed in section 8.4. Though in such 
+cases it is more likely that the claim will fail on the grounds that the conduct was not, in the circumstances of the case, 
+negligent.
+ 
+18. See also Craven v Davies [2018].
+ 
+19. Let us assume that, like the claimant in Morris, they could easily have avoided the risk by returning home earlier or 
+taking an Uber.
+ 
+20. Although this case was decided on the grounds of duty of care rather than volenti, the issues it raises are on point. 
+The claimant was badly injured after falling awkwardly from a climbing wall. Allowing the appeal, the Court of Appeal 
+held that in light of the inherent and obvious risks in the activity which the claimant had voluntarily undertaken, the 
+climbing centre was not under a duty to prevent the claimant from undertaking said risks, or to train and/or supervise 
+him while he did so.
+ 
+21. Peter Cane and James Goudkamp Atiyah’s Accidents: Compensation and the Law (9th edn CUP 2018) 72.
+ 
+22. Citing EK Banakas ‘Tort Damages and the Decline of Fault Liability: Plato Overruled but Full Marks to 
+Aristotle!’ [1985] Cambridge Law Journal 185, 197.
+ 
+23. For further discussion of the rationales of the illegality defence, see Patel v Mirza [2016].
+ 
+24. This BBC News report on the Ladbroke Grove train crash <http://news.bbc.co.uk/1/hi/uk/8285588.stm> gives you 
+some interesting background to the facts of Gray. It includes interviews with a survivor, a firefighter who attended the 
+crash and with the family of one of those who died. If you would rather not read the details about the crash, then that 
+is fine, simply move on to the next section.
+ 
+25. In The Illegality Defence in Tort (2001) [4.100].
+ 
+26. Jobling is discussed in section 9.2.3.
+ 
+27. Baker is discussed in section 9.2.3.
+ 
+28. See the discussion of Lewis-Ranwell v G4S Health Services (UK) Ltd and others [2024].
+ 
+29. Though, depending on the facts, your actions may be contributorily negligent.
+ 
+30. The court was divided on the position in relation to the contract claim (see Lord Hughes’s partial dissenting 
+judgment beginning at [53]).
+ 
+31. See Patel v Mirza [2016] at [158].
+ 
+32. This was confirmed in Henderson v Dorset Healthcare University NHS Trust Foundation [2020] in which Lord Hamblen 
+noted ‘there can be little doubt that it was intended to provide guidance as to the proper approach to the common 
+law illegality defence across civil law more generally’ (at [76]).
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+10. Defences to negligence
+Page 31 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+33. The judge did, however, find Mrs McHugh to be contributorily negligent. Moreover, he considered that her share of 
+the responsibility was ‘considerably greater’ than that of the defendant and that a ‘just and equitable division of 
+responsibility’ (which would be reflected in the damages awarded) was 75/25 in favour of the defendant.
+ 
+34. See further Sarah Green and Alan Bogg (eds) Illegality after Patel v Mirza (Hart 2018).
+ 
+35. As Lord Hamblen explicitly notes: ‘Patel v Mirza does not represent “year zero” and that in all future illegality cases 
+it is Patel and only Patel that is to be considered and applied. That would be to disregard the value of precedent built 
+up in various areas of the law to address particular factual situations giving rise to the illegality defence. Those 
+decisions remain of precedential value unless it can be shown that they are not compatible with the approach set out 
+in Patel in the sense that they cannot stand with the reasoning in Patel or were wrongly decided in the light of that 
+reasoning. Lord Toulson made it clear in Patel that the principles he identified were to be found in the existing case 
+law’ (Henderson v Dorset Healthcare University NHS Trust Foundation [2020] at [77]).
+ 
+36. The Supreme Court also declined to overrule Clunis v Camden & Islington Health Authority [1998] in which the 
+claimant had killed a man at Finsbury Park Underground station, for which he was later convicted of manslaughter on 
+the grounds of diminished responsibility. The claimant had a long history of mental illness and seriously violent 
+behaviour but had been discharged from hospital to be cared for within the community. He argued that the health 
+authority had been negligent in their assessment of his condition and that, as a result, he had not been prevented 
+from committing the attack. His claim was rejected by the Court of Appeal on the ground of illegality—his claim arose 
+directly out of a criminal offence he himself had committed.
+ 
+37. On the developments post-Patel, see Lord Burrows ‘The Illegality Defence after Patel v Mirza’, The Professor Jill 
+Poole Memorial Lecture 2022, Aston University, 24 October 2022.
+ 
+38. See further Findlay Stark and Stelios Tofaris ‘Illegality and Insantity in Tort Law’ [2024] Cambridge Law Journal 429.
+ 
+39. Despite suggestions that the defence of contributory negligence might apply in cases involving intentional harm 
+(see e.g. Murphy v Culhane [1977]; Lord Hope in Reeves v Commissioner of Police for the Metropolis [2000]), this was 
+rejected by Lord Rodger in Standard Chartered Bank v Pakistan National Shipping Corp (No 2) [2002] (at [43]–[45]) and 
+more recently by Atkins LJ in Co-operative Group (CWS) v Pritchard [2011] (at [62]).
+ 
+40. Cane and Goudkamp n21 47.
+ 
+41. The occupier’s liability aspects of Spearman are discussed in sections 11.2.1.2 and 11.4.
+ 
+42. Failure to use a designated crossing (or to do so safely) will not always be negligent. See e.g. Craven v Davies [2018] 
+in which a man hit by a car doing 86 mph in a 40 mph limit late at night was not found to be contributorily negligent 
+for failing to use a nearby crossing: ‘Much will depend upon the construction of the carriageway, the volume of traffic, 
+the time of day, lighting and visibility’ (at [10]).
+ 
+43. See section 9.2.
+ 
+44. Compare Badger v Ministry of Defence [2005] in which the claimant’s damages were reduced by 20 per cent to 
+reflect the extent to which his failure to give up smoking had made a material contribution to his lung cancer (which 
+was also caused by the defendants negligently exposing him to asbestos). Though this should now be read in light of 
+more recent case law including Re P (Deceased) [2011] in which allegations of contributory negligence were rejected 
+(the deceased had failed to attend follow-up appointments after finding a lump in her breast. Unbeknown to anyone, 
+the letters had been sent to the wrong address).
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+10. Defences to negligence
+Page 32 of 32
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+45. The wording of the Act may be thought to suggest that the claimant can never be 100 per cent contributorily 
+negligent. This was certainly the view of the Court of Appeal in Pitts v Hunt [1991] (although cf Lord Hoffmann in 
+Reeves).
+ 
+46. ‘Contributory Negligence in the Twenty-First Century: An Empirical Study of First Instance Decisions’ (2016) 79 
+Modern Law Review 575, 613–14.
+ 
+47. ibid 578–9.
+ 
+48. Though cf Sinclair v Joyner [2015].
+ 
+49. It is now compulsory to wear a seat belt (Road Traffic Act 1988, ss 14 and 15).
+ 
+50. Carol Harlow Understanding Tort Law (3rd edn Sweet & Maxwell 2005) 38.
+ 
+51. The Cyclists’ Defence Fund suggests that deductions for contributory negligence for not wearing a helmet in head 
+injury claims are now commonplace in out-of-court settlements (see further: 
+www.cyclistsdefencefund.org.uk <http://www.cyclistsdefencefund.org.uk>).
+ 
+52. By the time the case was heard by the Supreme Court the claimant was 25 years old.
+ 
+53. See also discussion in Sabir v Osei-Kwabena [2015] at [13]–[18].
+ 
+54. Cane and Goudkamp n21 47.
+© Kirsty Horsey & Erika Rackley 2025
+Related Books
+View the Essential Cases in tort law
+Related Links
+Test yourself: Multiple choice questions with instant feedback <https://learninglink.oup.com/access/content/brennan-  
+concentrate6e-student-resources/brennan-concentrate6e-diagnostic-test>
+Find This Title
+In the OUP print catalogue <https://global.oup.com/academic/product/9780198925231>
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+54.

@@ -1,0 +1,1302 @@
+4. Special duty problems: Omissions and acts of third parties
+Page 1 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Tort Law (9th edn)
+Kirsty Horsey and Erika Rackley
+4. Special duty problems: Omissions and acts of third parties
+Kirsty Horsey and Erika Rackley
+https://doi.org/10.1093/he/9780198925231.003.0004
+Published in print: 15 August 2025
+Published online: August 2025
+Abstract
+This chapter examines the two separate but closely linked concepts of liability for omissions and for the actions of third 
+parties. The first section considers when and why the courts have established that a duty of care should be owed by 
+defendants when the harm was the result of their omission, and the second explores the situations when a defendant may owe 
+a duty in relation to the action(s) of a third party. Ordinarily you can be liable only for things that you do, but when someone 
+does not do something that they ought to have done a duty might be found. Similarly, while it appears odd that someone may 
+be liable for harms that someone else caused, the courts have nonetheless found that in limited circumstances people who 
+have responsibility for, or control over, others may incur a duty in respect of the harms caused by these third parties.
+Keywords: 
+tort law, duty of care, liability for omissions, third party, assumption of responsibility, reliance
+Problem question
+Read this problem question carefully and keep it in mind while you are working through the 
+chapter that follows. At the end of the chapter you will be able to apply what you have learnt to the 
+problem question and advise the relevant parties.
+Margaret, who is 75, is in the supermarket on a busy Saturday afternoon when she feels pains in her 
+chest. It transpires she is having a heart attack and she collapses to the floor. Although the 
+supermarket is crowded, no one comes to help her.
+p. 76
+4. Special duty problems: Omissions and acts of third parties
+Page 2 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+→
+→
+→
+→
+→
+→
+Amir, the store manager, puts a call out over the PA system asking if there is a doctor present, but 
+otherwise offers no assistance. Hearing the announcement, Kasim, a nurse, comes forward and tries 
+to help Margaret, but he fails to put her in the recovery position. Margaret later dies.
+Meanwhile, some youths see Margaret’s car, which was left unlocked and with the key still in the 
+ignition in the supermarket car park as she did not want to spend time looking for a parking space. 
+The youths drive off in the car, failing to stop at a pedestrian crossing, hitting Jill and her daughter 
+Heather who were crossing the road. Both are injured, Heather seriously. One of the youths, Levi, who 
+was not wearing a seat belt, suffers a serious head injury.
+Advise the parties.
+4.1  Introduction
+Consider the following situations:
+A small child falls into a pond and is struggling to get out. A passing adult offers no assistance.
+A couple hire a motorboat at the seaside and are clearly in difficulties when the boat begins to sink. The 
+hire shop owner sits on the beach and does nothing to help them.
+A doctor is driving along a road on which there has been a bad accident, but does not stop to help the 
+victims.
+A man sees another man about to walk off the edge of a cliff, but does nothing to try and stop him.
+The door to a pub is left open one night by the cleaner. Some teenagers enter, consume a large amount 
+of alcohol and cause lots of damage.
+The same teenagers, upon leaving the pub, vandalise a car belonging to a neighbour of the pub.
+In each scenario above the harm suffered by the various individuals is attributable to a ‘third party’ or 
+occurred because the potential defendant did not do anything (as opposed to doing something that causes 
+harm). It might seem logical that the defendant should incur no liability in any of these situations. As in all 
+negligence claims liability here depends, first, on whether a duty of care was owed to the person injured. For 
+example, we ask ‘Does an adult walking past a drowning child owe that child a duty of care?’ Whether a duty 
+is owed by one party to another to whom they cause harm often depends on the manner in which that harm 
+was inflicted. Generally, there is little problem establishing a duty to avoid the direct infliction of physical 
+harm. However, when harm is inflicted indirectly, such as through a failure to act (what the law calls an 
+omission, or nonfeasance), or where the immediate cause of the harm was the act of a third party (someone 
+other than the claimant or defendant), it becomes more difficult to establish that a duty would—or should— 
+be owed.
+p. 77
+4. Special duty problems: Omissions and acts of third parties
+Page 3 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+This chapter considers two problematic duty areas. The first section considers when and why the courts have 
+established that a duty of care should be owed by defendants when the harm was the result of their omission, 
+while the second explores the situations when a defendant may owe a duty in relation to the act(s) of a third 
+party. It might be thought strange that someone would ever compensate someone else for a harm that was 
+not the result of their own actions. This is the stance the courts have generally taken: ordinarily you can be 
+liable only for things that you do, not things you do not do. However, when someone does not do something 
+that they ought to have done—perhaps because of the relationship between the parties concerned—a duty 
+might be found. Similarly, while it appears odd that someone may be liable for harms that someone else 
+caused, the courts have nonetheless found that in limited circumstances people who have responsibility for, 
+or control over, others may incur a duty in respect of the harms caused by these ‘third parties’.
+4.2  Acts and omissions
+Although Lord Atkin in Donoghue v Stevenson [1932] spoke of a duty of care arising in respect of ‘acts or 
+omissions’,1 later interpretations suggest that he only meant omissions in situations where a pre-tort 
+relationship gives rise to a positive obligation to act (and, therefore, where inaction would be a breach of that 
+duty). This, broadly, is the law’s position today. A pre-existing relationship between the parties—for 
+example, between parent and child, or school teacher and pupil, and contractual relationships or those 
+created by statute—may create a positive duty to act.2 Outside specific pre-tort relationships, positive duties 
+are not generally present in the tort of negligence and the courts seem unwilling to create them—most likely 
+because negligence law developed against a social and political landscape that favoured individualism over 
+collective responsibility.
+In short, the exclusionary rule operates to prevent a duty being owed in respect of omissions. Lord Goff stated 
+in Smith v Littlewoods [1987] that ‘the common law does not impose liability for what are called pure 
+omissions’ (at 271). If no duty exists, there can be no liability, so no compensation for harm(s) caused by the 
+failure of someone to do something. Generally speaking, the duties of care that arise in negligence are duties 
+not to cause harm to others by our actions. These do not extend to positive duties to act to help others (or 
+even to try), even when to do so would be easy. An example commonly cited in this respect (including in our 
+chapter-opening scenarios) is that of a child lying face down in a puddle of water and potentially drowning. A 
+passing stranger has no duty to take any steps to save that child, even if all it would take would be for them to 
+grab the child’s arm and pull them out of the water to safety. The principle is starkly illustrated by the US case 
+Osterlind v Hill [1928]. In that case, the claimant rented a canoe from the defendant and took it out into the 
+water. The canoe overturned and the defendant, who was a strong swimmer, did nothing: he sat on the shore 
+and watched the claimant drown. When sued in negligence it was found that he owed no duty of care, despite 
+the fact he had rented out the canoe.3
+p. 78
+1
+2
+3
+4. Special duty problems: Omissions and acts of third parties
+Page 4 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Pause for reflection
+Many people are shocked that the adult in the scenario described earlier would have no duty of care 
+towards the child. Should this be the case, in your opinion? Do you think that the way the law operates 
+might actually discourage people from going to the assistance of others? Allen Linden, a Canadian 
+scholar, points out that this rule is ‘particularly incomprehensible in an age when everyone carries a 
+cell phone and can call for help without any risk whatsoever to him- or herself’.4 Do you agree?
+↵
+It is the ‘pure’ notion of omissions that concerns us here; that is, not those omissions which happen in 
+the context of a relationship in which an obligation to act arises. In some circumstances, there would be a 
+duty to go to the rescue of the child in a puddle—if there was a pre-tort relationship that meant a duty to take 
+positive action existed, such as if the parent or carer of the child was the person walking by,5 or if the 
+defendant had in some way ‘assumed responsibility’ for the claimant.6 This general exclusion of liability for 
+‘pure’ omissions has been restated many times in case law—most notably by Lord Hoffmann in Stovin v Wise 
+[1996]:
+There are sound reasons why omissions require different treatment from positive conduct. It is one 
+thing for the law to say that a person who undertakes some activity shall take reasonable care not to 
+cause damage to others. It is another thing for the law to require that a person who is doing nothing 
+in particular shall take steps to prevent another from suffering harm from the acts of third parties … 
+or from natural causes. (at 943)
+He goes on to identify political, moral and economic reasons why no duty should be owed in such 
+circumstances:
+In political terms it is less of an invasion of an individual’s freedom for the law to require him to 
+consider the safety of others in his actions than to impose upon him a duty to rescue or protect. A 
+moral version of this point may be called the ‘Why pick on me?’ argument. A duty to prevent harm to 
+others or to render assistance to a person in danger or distress may apply to a large and 
+indeterminate class of people who happen to be able to do something. Why should one be held liable 
+rather than another? In economic terms, the efficient allocation of resources usually requires an 
+activity should bear its own costs. If it benefits from being able to impose some of its costs on other 
+people (what economists call ‘externalities’), the market is distorted because the activity appears 
+cheaper than it really is. So liability to pay compensation for loss caused by negligent conduct acts as 
+a deterrent against increasing the cost of the activity to the community and reduces externalities. 
+But there is no similar justification for requiring a person who is not doing anything to spend money 
+on behalf of someone else. Except in special cases (such as marine salvage) English law does not 
+reward someone who voluntarily confers a benefit on another. So there must be some special reason 
+why he should have to put his hand in his pocket. (at 943–4)
+4
+p. 79
+5
+6
+4. Special duty problems: Omissions and acts of third parties
+Page 5 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+↵
+Lord Hoffmann suggests that the rule against liability in the context of pure omissions is an application 
+of the ‘Why pick on me?’ aspect of modern life. After all, why should the burden to go to the assistance of 
+anyone else be placed on one particular person purely because they were in that particular place at that 
+particular time?
+Pause for reflection
+If several people are in a situation where they could prevent someone else from coming to harm, but 
+no one actually does anything, should all of them be potentially liable for failing to help? Or does the 
+fact that so many people could have done something indicate that we should not impose a positive 
+obligation on any one of them?
+In Stovin v Wise, Lord Nicholls refers to these people (who do not help) as ‘callous bystander[s]’ (at 
+931). However, he continues: ‘something more is required than being a bystander. There must be an 
+additional reason why it is fair and reasonable that one person should be regarded as his brother’s 
+keeper7 and have legal obligations in that regard’—do you agree?
+While there may be arguments made against a general exclusionary principle in respect of pure omissions, 
+the rule was reiterated by the House of Lords in Sutradhar v National Environmental Research Council [2006]. 
+The claimant suffered arsenic poisoning after drinking water from an irrigation well, which had been tested 
+for toxins (but not arsenic) on behalf of the British Government by the British Geological Survey (BGS). The 
+claimant asserted that BGS had a duty to test for arsenic (particularly as arsenic-contaminated water was a 
+major environmental problem, affecting 35–77 million of Bangladesh’s inhabitants). The law lords held that 
+no duty was owed in respect of BGS’s omission to test for arsenic. Indeed, Lord Hoffmann found that ‘BGS 
+owed no positive duties to the government or people of Bangladesh to do anything. They can only be liable for 
+the things they did … not for what they did not do’ (at [27]).
+Wrongly not doing something that you should have done (an omission or nonfeasance), is to be contrasted 
+with wrongly doing something (an act or misfeasance). Whether a case is one or the other depends either on 
+the nature of the relationship between the claimant and defendant or the activity being undertaken and is 
+closely linked to the notion of proximity (or closeness of relationship) that threads through all aspects of the 
+duty question and in particular the so-called ‘problematic’ duty areas.
+The courts have even found that there is no duty to go to the rescue of another who is about to injure 
+themself accidentally, or even to shout to warn them: as Lord Keith said in Yuen Kun Yeu v Attorney General of 
+Hong Kong [1988], there will be no liability ‘on the part of one who sees another about to walk over a cliff with 
+his head in the air and forbears to 
+↵
+shout a warning’ (at 192).8 This stands in direct contrast to most civil 
+law jurisdictions, in which such a duty is workably imposed upon citizens, even in relation to strangers. 
+Article 223-6 of the French Code Penal, for example, makes it a criminal offence not to try to assist someone in 
+danger (as long as doing so would not mean taking undue risks to your own safety), which also translates 
+p. 80
+7
+p. 81
+8
+4. Special duty problems: Omissions and acts of third parties
+Page 6 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+into a civil obligation (and therefore potentially liability) when this does not occur.9 In the UK, only when 
+someone does act (i.e. they begin to attempt a rescue) does a duty become attached to them—they become 
+obliged not to make the (claimant’s) situation worse than it already was.10
+Pause for reflection
+Consider how a duty to rescue could work in practice in relation to the example of the drowning child. 
+What would such a duty actually consist of? Would it be a duty to save the child or a duty to try to save 
+the child by taking reasonable (but not dangerous) steps? Do you think there is a good reason why we 
+should not owe this kind of duty? In any case, could we protect people from liability if they did try to 
+help—by statute, for example? A number of US, Canadian and Australian states and territories have 
+passed what are called ‘Good Samaritan’ statutes which provide those who try to help with an 
+‘immunity from suit’ (i.e. they cannot be sued for any consequences of trying to help).11 Do you think 
+the same should happen here?
+The UK’s Social Action, Responsibility and Heroism Act 2015 perhaps goes a little way towards this. 
+While it does not create a duty to go to another’s assistance where no duty previously existed, it impels 
+the court, when considering whether any person who does so was in breach (i.e. fell below the 
+expected standard of care), to consider that person’s ‘social action’ (s 2) and/or ‘heroism’ (s 4). 
+Though not providing ‘immunity from suit’, the Act may protect some of those who offer assistance. 
+Whether what the Act contains is any different from existing common law principles that courts have 
+always considered, is another question (see further section 8.5).
+The rule that says that you are not obliged to go to someone’s aid, even when it would be easy to do so, 
+surprises many law students. It also lies behind what we may term ‘rescuer anxiety’. Many people faced with 
+a situation in which they could intervene to help someone are often scared to, fearing that if they help, they 
+may end up becoming liable for not being able to 
+↵
+protect/save the person. In fact, this fear reflects an 
+inaccurate understanding of the law. One can only be liable, once stepping in to help, for positive actions that 
+make the situation worse than it was before the intervention. Liability, however, is different from owing a 
+duty of care. Liability simply means having legal responsibility for one’s actions and only attaches once all the 
+elements of a tort are made out by the claimant. So, for example, while someone who intervenes may owe a 
+duty not to make the situation worse, their actions would still be judged against those of a ‘reasonable person’ 
+in the circumstances (and so if a reasonable person would have tried to save the child in the same way, there 
+will be no breach of duty and therefore no liability to pay compensation).
+9
+10
+11
+p. 82
+4. Special duty problems: Omissions and acts of third parties
+Page 7 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(1)
+(2)
+(3)
+Pause for reflection
+If there was a duty to try and help, what would someone have to do to breach that duty? Failing to do 
+anything at all might be a breach but this will depend on the circumstances. For example, say you 
+walk down the high street late at night and happen to witness a mugging. If a general duty to rescue 
+existed, your duty would be to try and do something to help, if you can—the least you could do is try to 
+call the police or alert other people to what’s happening—you would not have to take steps to stop the 
+mugging yourself, as this may put you in danger. Why shouldn’t this kind of duty be imposed on 
+people? What does it say about our society and its values that such a duty is not imposed?
+All this said, there are—as ever—some limited exceptions to the general exclusionary rule. These fall under 
+three general headings:
+control;
+assumption of responsibility;
+creation (or adoption) of risks.12
+In one way or another, these exceptions increase the degree of proximity between the claimant and 
+defendant, creating a relationship between them in which the foreseeability of harm becomes greater, 
+therefore justifying the defendant’s potential liability to that specific claimant for not doing something that 
+they could or should have done.
+4.2.1  Control
+When we speak of control in this sense, we mean those situations where it is arguable that the defendant 
+should owe a duty to the claimant because they exercise a high degree of control over them, or have express 
+responsibility for them. A parent or carer of a small child, for example, has a sufficient degree of control over/ 
+responsibility for their child such that they 
+↵
+ought to step in to try and help them if they were drowning 
+in a pool of water.13 However, this exception also extends to situations where it can be said that the 
+defendants, because they exercise control over the person harmed, owe them a positive duty to take steps to 
+ensure they are not harmed by themselves or by anyone else. In so doing, it clearly overlaps in part with the 
+‘assumption of responsibility’ category, discussed in the next section.
+An example can be seen in Reeves v Commissioner of Police for the Metropolis [2000].14
+12
+p. 83
+13
+14
+4. Special duty problems: Omissions and acts of third parties
+Page 8 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Reeves v Commissioner of Police for the Metropolis [2000] 1 AC 360 (HL)
+A man called Martin Lynch committed suicide while in police custody. His partner claimed that the 
+police had owed him a duty to prevent this from happening. Previous case law (see Kirkham v Chief 
+Constable of Greater Manchester [1990]) had established that a duty of care was owed in respect of 
+suicide attempts of prisoners known to be mentally ill, but a doctor had found Mr Lynch to be of 
+sound mind. The police, who clearly owed him a duty of care not to physically harm him by their 
+actions, argued that they owed him no duty of care in respect of his suicide because he was not 
+mentally ill, and had deliberately taken his own life, even though the opportunity for him to do so had 
+only arisen from their own carelessness.
+A majority of the House of Lords disagreed, holding that the police’s duty to prisoners in custody did 
+extend to a positive duty to take reasonable steps to assess the suicide risk of all prisoners. This was 
+justified by the degree of control exercised over prisoners in custody and the known (high) risk of 
+suicide, even among those without a known mental illness. However, the court also considered the 
+deliberate nature of the prisoner’s actions, finding him partially responsible for his own death. The 
+damages awarded were consequently reduced by 50 per cent.15
+In a later case also involving a suicide in police custody, it was held that Reeves did not mean that the police 
+have a duty of care requiring them to treat all prisoners as a suicide risk. In Orange v Chief Constable of West 
+Yorkshire Police [2001], a man committed suicide by hanging himself with his belt from a grille on the door in 
+a police cell after being arrested and detained for being drunk and disorderly. His widow claimed that the 
+police had owed a duty to take away any means of suicide from him, such as his belt, and that they should 
+have watched him more carefully. The Court of Appeal held that the duty from Reeves was only to take 
+reasonable steps to assess whether a prisoner posed a suicide risk, and to act accordingly. As the police had no 
+real reason to think that this particular prisoner would attempt suicide, the duty did not arise in this case. 
+This distinction was later approved by the European Court of Human Rights in Keenan v UK [2001].16 In 
+Savage v South Essex Partnership NHS Trust [2008], the House of Lords found that a similar positive duty, based 
+↵
+on Article 2 ECHR, was owed to a patient detained in a mental hospital who had negligently been 
+allowed to abscond, later committing suicide.17
+Pause for reflection
+Despite their differing outcomes, the facts of Reeves and Orange are very similar. Considering what we 
+have said about the concept of duty being used as a ‘control device’, could it be argued that the Court 
+of Appeal in Orange was seeking to ‘put the brakes on’ what could potentially be an expanding 
+15
+16
+p. 84
+17
+4. Special duty problems: Omissions and acts of third parties
+Page 9 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+category of liability? Is it realistic to expect the police to owe a duty to all prisoners in their custody 
+(and therefore under their control) to prevent them from attempting suicide? If not, why not? What 
+positive obligations would this impose on the police, and are they unreasonable?18
+Arguably, because the risk of suicide in custody is known to be high, the police should monitor all 
+prisoners, even those without a history of mental illness (especially when they are first admitted), 
+should design cells to minimise the risk of suicide and should remove items from prisoners (e.g. 
+belts) that they could use to harm themselves. However, this must be balanced against the resources 
+and time available to the police and a respect for the judgements they make in relation to who is at 
+risk and who is not. Imposing an undue burden on the police to constantly monitor every prisoner 
+might detract from their other functions. Again, however, it is important to note that imposing a duty 
+of care is not enough to establish liability in the tort of negligence. We might again ask what such a 
+duty would consist of—would it be a duty to prevent all suicides in custody or merely a duty to take 
+reasonable steps to try to ensure that prisoners do not commit suicide? Consider Nyang v G4S Care & 
+Justice Services Ltd and others [2013], where, despite there being a duty in respect of the many 
+omissions in relation to the care and assessment of the detainee claimant, his case failed because 
+those omissions were deemed not to have caused his suicide.
+4.2.2  Assumption of responsibility
+As already stated, this category has obvious links with ‘control’. When the defendant can be said to have 
+‘assumed responsibility’ for the claimant’s wellbeing or safety, it seems obvious that positive obligations (in 
+the form of a duty of care) should arise. The most common types of assumed responsibility (as opposed to 
+more naturally arising relationships of responsibility, such as parent/child, which are better thought of as 
+falling into the ‘control’ category) are those that arise out of a contract or from employment relationships.
+Costello v Chief Constable of Northumbria Police [1999] 1 All ER 550 (CA)
+A female police constable was attacked by a prisoner in a cell. Despite her calls for help, a police 
+inspector in the vicinity did not come to her aid. Costello alleged that the police inspector owed a duty 
+to assist a fellow officer when in trouble.
+The Court of Appeal agreed. Police officers assume a responsibility to one another to ‘watch each 
+other’s back’. Where a police officer’s omission might lead to avoidable harm being suffered by a 
+fellow officer, a positive duty to act would be imposed. Thus, in failing to act, the police inspector had 
+breached that duty and the Chief Constable was vicariously liable.19
+18
+p. 85
+19
+4. Special duty problems: Omissions and acts of third parties
+Page 10 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Another way that someone can assume responsibility for the wellbeing of someone else is by their actions. 
+Put another way, what someone does in relation to someone else can indicate, by conduct, an assumption of 
+responsibility. A clear example of this is seen in Barrett v Ministry of Defence [1995].
+Barrett v Ministry of Defence [1995] 1 WLR 1217 (CA)
+A naval pilot stationed on a remote Norwegian base where extreme drunkenness had become 
+commonplace had been celebrating his 30th birthday and a promotion when he became so drunk that 
+he collapsed. The officer on duty ordered that he be taken to his bed—however, no one stayed to 
+watch over him and he later choked to death on his own vomit.
+At first instance, it was ruled that the senior officers had breached their duty to prevent irresponsible 
+drinking on the base, but the damages to be awarded would be reduced by 25 per cent to account for 
+Barrett’s own contributory negligence.
+The Court of Appeal agreed. However, to them, the senior officers’ duty (and, through the doctrine of 
+vicarious liability, that of the Ministry of Defence) was not owed in relation to the failure to prevent or 
+discourage excessive drinking, as the court believed that adults should take responsibility for 
+themselves in this respect. Rather, the duty was owed in relation to the duty officer’s failure to have 
+someone stationed to watch Barrett while he slept (a different omission) because, by that point, 
+responsibility for his safety had been assumed:
+[i]n the present case I would reverse the judge’s finding that the defendant was under a duty 
+to take reasonable care to prevent the deceased from abusing alcohol to the extent he did. 
+Until he collapsed, I would hold that the deceased was in law alone responsible for his 
+condition. Thereafter, when the defendant assumed responsibility for him, it accepts that the 
+measures taken fell short of the standard reasonably to be expected. It did not summon 
+medical assistance and its supervision of him was inadequate. (Beldam LJ at 1225)
+The Court of Appeal also considered that more responsibility for his death lay with the deceased than 
+with the officers, and reduced his damages by two-thirds.
+Counterpoint
+On closer inspection, the ratio of Barrett suggests that had no one found the naval officer when he was 
+drunk or—more specifically, as this is what the case turns on—taken him back to his room, no one 
+would have assumed responsibility and therefore no duty of care would or could have arisen. Can this 
+be right? What this means is that had he fallen unconscious outside and been left to freeze to death, 
+either because he had not been found or because whoever did see him chose to ignore his plight and 
+p. 86
+4. Special duty problems: Omissions and acts of third parties
+Page 11 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+walk past (a ‘pure’ omission), no duty of care would have been owed. Would it be better to say that this 
+was a situation in which the superior officers had ‘control’, and therefore should have done what they 
+could to prevent excessive drinking? Or is it right that individual responsibility is taken into account 
+only until the point when someone else intervenes?
+4.2.3  Creating or adopting risks
+The final exception in relation to omissions is based on the creation or adoption of a risk. When a defendant— 
+even accidentally—creates a dangerous situation, a positive duty to try and deal with that danger may be 
+imposed. In Capital & Counties plc v Hampshire County Council [1997], it was found that a fire service will only 
+owe a duty to a property owner when it creates the danger in the first place or where its positive actions upon 
+responding to an emergency make the situation worse. In this case, the county council was vicariously liable 
+for the fire chief’s decision to turn off a sprinkler system on the claimant’s property, thereby allowing the fire 
+to spread more rapidly than it would have had the sprinkler system still been operational. This general point 
+flows through the law on omissions.20
+More recently, in Tindall v Chief Constable of Thames Valley Police [2024], the Supreme Court refused to find a 
+duty after police officers who had responded to a traffic accident in which a car had skidded on a patch of 
+black ice, crashing and injuring the driver, removed a warning sign upon leaving the scene, resulting in a 
+further traffic accident on the ice which killed the claimant. Though the officers’ ‘ineffectual’ intervention 
+was considered by the court to be a ‘serious dereliction of their public duty owed to society at large’ (at [20]), 
+this did not translate into an individual duty of care owed to the claimant, as the police had not made ‘matters 
+worse by acting in a way that creates an unreasonable and reasonably foreseeable risk of physical injury’ to 
+him (at [56]). Their failure to leave the warning sign was an omission to which no duty could attach.
+Watch our video ‘But they’re meant to protect us!’ where we discuss the different approaches the courts have 
+taken to claims against the police, and whether these can be justified.
+Video playback is not supported in this format.
+Video 4: But they’re meant to protect us!
+In terms of ‘adopting’ risks, Goldman v Hargrave [1967]21 illustrates a similar idea. Here, a tree caught fire 
+after being struck by lightning. The landowner ensured that the tree was cut down, but decided to let it burn 
+itself out and took no further precautions to prevent the fire spreading. Therefore, although he did not cause 
+the fire, in taking no 
+↵
+further steps to completely extinguish it he adopted the risk of it spreading (in a 
+similar way to assuming responsibility for someone else he had, in a sense, assumed responsibility for the 
+20
+21
+p. 87
+4. Special duty problems: Omissions and acts of third parties
+Page 12 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+risk). Extensive damage was caused to a neighbouring property after the fire was revived by the wind. The 
+Privy Council found that a duty of care was owed in relation to adopted dangers on one’s land when that 
+danger could spread to a neighbour’s land.
+4.2.4  Summary of when a duty of care may be found in respect of omissions
+This is summarised in Table 4.1.
+Table 4.1 When a duty of care may be found in respect of omissions
+Duty of care
+General rule: no duty of care
+Exceptions:
+Smith v Littlewoods [1987]
+Stovin v Wise [1996]
+Sutradhar v National Environmental Research Council 
+[2006]
+Control exercised over claimant by defendant
+Reeves v Commissioner of Police for the Metropolis [2000]
+Assumption of responsibility for claimant’s welfare by 
+defendant
+Costello v Chief Constable of Northumbria Police [1999]
+Barrett v Ministry of Defence [1995]
+Creation or adoption of a risk
+Capital & Counties plc v Hampshire County Council [1997]
+Goldman v Hargrave [1967]
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-4-2>.
+4.3  Liability for acts of third parties
+4.3.1  The general rule
+There is no general duty to prevent other people causing damage. After all, why should someone owe a duty of 
+care in respect of harm inflicted on another by a third party? Again, however, there are exceptions to this 
+general rule, many of which relate to and overlap with those already discussed in the context of omissions, 
+and stem from either a special or pre-tort relationship. For example, it is often because someone has not done 
+something (an omission) that allows a third party the chance or opportunity to do something that they 
+4. Special duty problems: Omissions and acts of third parties
+Page 13 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(1)
+(2)
+(3)
+(4)
+otherwise might not have done, this being what leads to the harm suffered.22 The question for the courts is 
+similar—in what circumstances should we depart from the general rule that people should not be liable for 
+the actions of third parties?
+4.3.2  When is there liability for the acts of third parties?
+The law imposes liability for the acts of third parties in exceptional circumstances. In such circumstances, 
+one of the logistical problems that might have been encountered—in relation to when or whether a defendant 
+should be liable for the actions of someone else—is broadly met by the content of the duty being a ‘duty to 
+control the third party’ or a ‘duty to safeguard a dangerous thing’. However, this does not prevent there being 
+causation problems—as we will see, a later act of a third party may actually operate to break the chain of 
+causation back to the defendant (or may affect what damages can be paid if thought to be a supervening, 
+rather than intervening event).23 There is a very fine line between the consideration of a third party’s actions 
+as a duty issue or a causation issue and often the questions we ask are part and parcel of the same thing.24 
+Some guidance can be gleaned from Lord Reid in Home Office v Dorset Yacht Co Ltd [1970] where he said that 
+an act of a third party:
+must have been something very likely to happen if it is not to be regarded as a novus actus 
+interveniens breaking the chain of causation. I do not think that a mere foreseeable possibility is or 
+should be sufficient, for then the intervening human action can more properly be regarded as a new 
+cause than as a consequence of the original wrongdoing. (at 1030)25
+Lord Goff (in Smith v Littlewoods [1987]) suggested that a duty in respect of a third party’s actions can arise in 
+four circumstances:
+where there is a special relationship between the defendant and the claimant;
+where there is a special relationship between the defendant and the third party, such as a relationship 
+of control or supervision;
+where someone creates a ‘source of danger’ that may be ‘sparked’ by a third party;
+where there is a failure to take steps to abate a known danger created by a third party.26
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-4-3>.
+4.4  Exceptional circumstances
+We will look in turn at examples from each of the categories Lord Goff suggested.
+22
+p. 88
+23
+24 
+25
+26
+4. Special duty problems: Omissions and acts of third parties
+Page 14 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+4.4.1  A special relationship between defendant and claimant
+Where the defendant and the claimant have a special (pre-tort) relationship, that is a relationship in which a 
+sufficient degree of proximity, or an assumption of responsibility, can be found to justify the imposition of a 
+duty of care from one to the other, a duty may arise in 
+↵
+relation to the activities of a third party. Such a 
+relationship may be defined by a contract between the parties. For example, in Stansbie v Troman [1948], the 
+claimant employed the defendant to decorate her premises. When she went out, she specifically requested 
+that the decorator lock up after himself when he left. He failed to do so and she was subsequently burgled. The 
+court found that the contractual relationship between them was enough to create the necessary proximity for 
+the imposition of a duty on the defendant. Put simply, because of the relationship between them, he had a 
+duty to lock the premises when he left to prevent a burglary by a third party.27 In a more recent case, the 
+owners of a London hotel were found to have assumed responsibility for their guests’ safety—even in the 
+context of a violent overnight robbery committed by a third party who had entered the hotel for that 
+purpose.28
+Compare, however, P Perl (Exporters) Ltd v Camden London Borough Council [1984]. Here, two adjoining 
+buildings were owned by Camden Council, one of which was leased by the claimant—the other was empty 
+and unlockable. Thieves entered the unlocked premises, made a hole in the wall separating the two buildings 
+and burgled the claimant’s property. The Court of Appeal found that the council owed no duty in respect of 
+the third parties’ (the burglars’) actions. Despite it being foreseeable that some harm might be caused by 
+leaving their property unlocked, this was not enough to establish the necessary proximity between the 
+defendant and the claimant.
+Notably, however, this case falls into a clear group of cases in which property owners were not found—for 
+various reasons—liable for the actions of third parties. This suggests that there may be underlying policy 
+reasons for such decisions, not least the fact that property-owning claimants might be expected to have 
+insurance.29 However, presumably, all property owners might be expected to be insured, meaning that there 
+are equally valid competing policy reasons in these cases.
+The requisite proximity may also stem from an express or implied undertaking made by the defendant to the 
+claimant. In such circumstances—for example, where the defendant promised not to do something that may 
+endanger the claimant in some way—it seems appropriate that a duty should arise. In Swinney v Chief 
+Constable of Northumbria Police [1997], the Court of Appeal found that the police owed a duty of care not to 
+leak confidential information about the claimant, a police informant, because she may be harmed by those 
+about whom she had given information. Such undertakings can also be implied, as in Costello where it was 
+found that one police officer has a duty to assist another if they come under attack from a third party in police 
+custody.
+However, it is also evident that there must be a direct undertaking by the defendant for a duty to arise in these 
+circumstances. In a string of police cases including Hill v Chief Constable of West Yorkshire [1989], Osman v 
+Ferguson [1993] and Michael v Chief Constable of South Wales Police [2015], for example, no duty was owed by 
+police to claimants who were victims of crimes committed by third parties. In these cases, there was a general 
+duty to 
+↵
+the public at large, but no duty existed to protect specific claimants, as no promise—express or 
+implied—had been made.30
+p. 89
+27
+28
+29
+p. 90
+30
+4. Special duty problems: Omissions and acts of third parties
+Page 15 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+The idea that there must indeed be a specific undertaking is clearly seen in Palmer v Tees Health Authority 
+[1999].
+Palmer v Tees Health Authority [1999] Lloyd’s Rep Med 351 (CA)
+Mrs Palmer alleged that the defendant health authority had been negligent in its assessment of a 
+mentally ill patient—Armstrong—who kidnapped, sexually assaulted, killed and mutilated her 4- 
+year-old daughter Rosie upon his release from a secure unit. While under treatment for his illness, 
+Armstrong stated that he had sexual feelings towards children and threatened to abduct and murder a 
+child. Post-release, he failed to attend an outpatient’s appointment.
+The Court of Appeal, relying on Hill, found that the health authority owed neither Mrs Palmer nor 
+Rosie a duty of care, as the necessary proximity between the parties did not exist. The child was not 
+identifiable as a potential victim (like in Hill), meaning the health authority could have done nothing 
+to prevent her murder, other than keep the patient detained. There was no special relationship that 
+could give rise to a duty of care.
+In his judgment in Palmer, Stuart-Smith LJ said that ‘once rules are established, it is not open to the courts to 
+extend the accepted principles of proximity simply because the facts of a given case are particularly 
+horrifying or heart-rending’ (at 7). Nevertheless, it appears strange to us that the requisite proximity could 
+not be found—or was not even argued on appeal—from the fact that Rosie lived in the same street as 
+Armstrong.31
+Following Palmer, it was argued in K v Secretary of State for the Home Department [2002] that in situations 
+where ‘exceptionally serious’ risks are posed by a known third party, sufficient proximity could exist between 
+an injured claimant and a defendant whose negligence fails to prevent the harm occurring. Here a Kenyan 
+man, who had been imprisoned for several violent crimes and was due to be deported, was released early by 
+the Secretary of State. The claimant, who was subsequently raped by the man, sued the Secretary of State 
+alleging that the decision to release him early was negligent, as he posed a known risk of committing a 
+violent crime. The Court of Appeal found that because the victim was unidentifiable to the defendant, there 
+was no relationship of proximity between them, following Hill and Palmer, and this was not changed by the 
+seriousness of the risk, even where it was clearly known by the defendant that such a risk existed.
+Pause for reflection
+Do you think it is right that the claimants in cases like Palmer and K have no cause of action? Where a 
+psychiatric patient makes known his wish to harm a child, should he be released? Why was the 
+criminal in K released before deportation? Surely both men did ‘the very thing that was 
+↵
+likely to 
+31
+p. 91
+4. Special duty problems: Omissions and acts of third parties
+Page 16 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+happen’ upon their release? As we have seen from Lord Reid in Dorset Yacht, this is, in different 
+circumstances, enough to create a duty.32 We would argue that simply because there was no 
+undertaking between the defendant and the claimant, this should not mean that the claimants in 
+cases like Palmer and K must fail. The crimes committed were just as severe, and the defendant’s 
+negligence just as intense, as they would have been if the criminal had told the defendant who he was 
+intending to attack. Arguably, also, preventative measures would have been easy to take in each of the 
+cases.
+In any case, as we see from Osman v Ferguson,33 even where the victim is clearly identifiable (thus 
+creating the requisite proximity), a positive duty to act may not arise for policy reasons. What policy 
+reasons exist in relation to these cases?
+The principle that a duty of care will not exist even where a potential victim is known to the defendant unless 
+a specific undertaking has been given was underlined by the House of Lords in Mitchell v Glasgow City Council 
+[2009]. Mitchell, a 72-year-old man, was beaten and killed with a stick or iron bar by his 60-year-old 
+neighbour, Drummond. Both were tenants of the defendant, which had long been aware of Drummond’s 
+anti-social and hostile behaviour, including death threats made to Mitchell. Having issued many previous 
+warnings, a further serious incident made the defendants summon Drummond to a meeting, where he was 
+threatened with eviction if his anti-social behaviour continued. Leaving the meeting angry, Drummond 
+returned home and attacked Mitchell. Acting on his behalf, Mitchell’s widow contended that the council owed 
+a duty of care to inform him the meeting had taken place and warn both him and the police of the potential 
+danger. The law lords found that the council owed Mitchell no duty of care:
+[a] duty to warn another person that he is at risk of loss, injury or damage as the result of the 
+criminal act of a third party will only arise where the person who is said to be under that duty has by 
+his words or conduct assumed responsibility for the safety of the person who is at risk. (Lord Hope at 
+[29])
+Given the high degree of foreseeability of harm, coupled with the council’s proximate relationship (to both 
+the claimant and the third party), as well as what looks like assumption of responsibility, it is not apparent to 
+us that this is a clear-cut case where no duty should be owed.34 More recently, in Poole Borough Council v GN 
+[2019],35 the Supreme Court found that, despite knowledge of serious anti-social behaviour and violence 
+from a neighbouring family towards the (child) claimants in council-arranged housing, this did not amount 
+to an 
+↵
+assumption of responsibility. Therefore, the council had no duty to protect the claimants from 
+foreseeable harm. In contrast is the Court of Appeal decision in Selwood v Durham County Council and others 
+[2012]. Here, a psychiatric patient threatened to kill the claimant social worker if he came into contact with 
+her, though she was not informed of this threat. When she attended a case conference dealing with one of the 
+patient’s children, he stabbed her repeatedly. At first her claim was struck out, the decision relying in part on 
+Mitchell. However, the Court of Appeal unanimously allowed her appeal, finding that assumption of 
+32
+33
+34
+35
+p. 92
+4. Special duty problems: Omissions and acts of third parties
+Page 17 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+responsibility need not be express or implied from conduct, it could also be inferred from the circumstances, 
+and that the judge failed to consider whether the defendants’ policy document36 and/or working 
+arrangements inferred such an assumption.
+Michael v Chief Constable of South Wales Police [2015] (discussed in detail at section 6.3.1) demonstrates the 
+clear overlap between the problematic notions of imposing liability for omissions and for the action of third 
+parties. Counsel for the claimant had raised an exception to the general rule on omissions as one ground of 
+appeal, arguing that the police could be said to have assumed responsibility for Ms Michael’s safety after the 
+first 999 call, in respect of the third party, thus owing her a duty of care.
+Lord Toulson, giving the leading judgment, retreats into the long line of established authorities in this area 
+and notes the exceptions of ‘control’ and ‘assumption of responsibility’ (at [98]–[100]), eventually finding 
+that an assumption of responsibility could not (and should not) be established:
+It does not follow from the setting up of a protective system from public resources that if it fails to 
+achieve its purpose, through organisational defects or fault on the part of an individual, the public at 
+large should bear the additional burden of compensating a victim for harm caused by the actions of a 
+third party for whose behaviour the state is not responsible. To impose such a burden would be 
+contrary to the ordinary principles of the common law. (at [114])
+Counterpoint
+Arguably, collapsing the two areas of law into each other in that way led Lord Toulson to forget that 
+additional exceptions, such as those discussed here, exist in relation to the actions of third parties. It 
+is at least arguable that, as in the cases outlined earlier, a ‘special relationship’ existed between the 
+defendant and claimant due to the nature of her call and the fact she would obviously rely on the 
+police coming to her aid,37 even if that was not quite enough to amount to a ‘true’ assumption of 
+responsibility. Being asked by a call handler (having dialled 999 while fearing an imminent violent 
+attack) if she was able to lock the doors, and being told that the call would be passed on to the correct 
+police force is, to us, clear indication that it was reasonable for Joanne Michael to rely on the police. 
+Thus, they should have owed her a duty, despite the 
+↵
+fact the harm was eventually caused by a 
+third party. Had her call been handled properly, it is unlikely that she would have been killed.38
+Lord Kerr (dissenting) said that the logic of the idea—that unless there was an explicit promise by the 
+police coupled with express reliance by Joanne Michael, assumed responsibility cannot arise—must 
+be questioned:
+36
+37
+p. 93
+38
+4. Special duty problems: Omissions and acts of third parties
+Page 18 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Should someone in a vulnerable state, fearing imminent attack, who believes that the 
+assurance of timeous assistance has been made when, through negligence on the part of the 
+police, that impression has been wrongly created, be treated differently from another who 
+has in fact received an explicit assurance of immediate help, if both have relied on what they 
+believed to be a clear promise that police would attend and avert the apprehended danger? (at 
+[165], emphasis added)
+It would truly be an invidious distinction if—had the call handler said ‘help is on its way, don’t 
+worry’—a duty of care could be found.39
+4.4.2  A special relationship between defendant and third party
+Again, when we speak of a ‘special relationship’ in this respect, we are talking about proximity. The more 
+proximate (or close) the relationship between the defendant and the third party who caused the damage or 
+harm, the more likely it is that a duty will be imposed on the defendant in respect of the third party’s actions. 
+As with liability for omissions, proximate relationships in this context include those where there is a degree 
+of control exercised over the third party by the defendant, or where it can be said that the defendant has 
+‘assumed responsibility’ for the third party’s actions. Dorset Yacht illustrates this principle well.40
+Home Office v Dorset Yacht Co Ltd [1970] AC 1004 (HL)
+In this case the court had to consider whether the acts of third parties (young offenders detained on 
+Brownsea Island just off the Dorset coast) broke the chain of causation between the defendants’ 
+carelessness and the damage suffered by the claimants. The defendants, the boys’ supervisors (for 
+whom the Home Office would be vicariously liable), negligently allowed a group of boys to escape and 
+damage the claimants’ yachts moored in the harbour. The supervisory nature of the relationship 
+created the requisite degree of proximity between the defendants and the third parties. Moreover, the 
+damage suffered by the claimants was the direct consequence of this relationship ‘failing’: upon their 
+escape, the boys did the exact thing that 
+↵
+might be expected of them—they attempted to steal a 
+boat to get off the island. The chain of causation was therefore intact and, correspondingly, a duty of 
+care was owed in respect of the boys’ actions. The duty arose because the actions of the boys following 
+their negligent supervision were the thing ‘very likely to happen’ (Lord Reid at 1030).
+39
+40
+p. 94
+4. Special duty problems: Omissions and acts of third parties
+Page 19 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Counterpoint
+In the previous section we considered the cases of Palmer and K, where no duty was found on the basis 
+that the defendant–claimant relationship lacked proximity. In our view, however, it is equally 
+arguable that those cases fit into the category of a special relationship (based on control or 
+assumption of responsibility) existing between the defendant and the third party.
+Did the claimants fail to establish a duty only because the cases were looked at the wrong way? We can 
+see no real differences between these cases; if anything, the case in Palmer is stronger than that in 
+Dorset Yacht. In the former, not only was the psychiatric patient still under the care of the health 
+authority as an outpatient but he had expressed a specific wish to harm a child.
+In Palmer, no proximity was found between the defendant and the claimant as there had been no 
+assumption of responsibility towards the victim, who was merely one member of a class of people 
+who might be at risk. Was this the right question to ask, given Lord Goff’s four exceptions to the 
+general exclusionary rule for third party liability? Is it better to ask whether the defendant assumed 
+responsibility for the conduct of (or the danger posed by) the third party?
+Consider the Canadian case Doe v Metropolitan Toronto (Municipality) Commissioners of Police [1998], 
+where the court found that a woman was owed a duty of care by the police in respect of her rape. She 
+was one of many women in the potential target group of a serial rapist, who operated in a particular 
+area of Toronto and was known as the ‘Balcony Rapist’ because he preferred to break into women’s 
+flats via balconies. Potential victims were neither warned nor adequately protected owing to several 
+significant failings on the part of the police. Was this case decided differently from Palmer and K 
+because the woman was in a smaller and more readily identifiable group of potential victims? If so, 
+how few potential victims need there be before it can be said a duty would be owed to each of them? In 
+Palmer, it should be remembered, the victim lived on the same street as the man who killed her. How 
+difficult would it have been to warn parents of children in the area? Or, if this is not the appropriate 
+response, what else could the health authority have done? In our opinion, the fact that the claimant in 
+Palmer could have been classified in a smaller group of potential victims should, like in Doe, have 
+weighed more heavily with the court, as it is this feature that marks this case out from a law where 
+the police would owe a duty in respect of all crimes committed by released prisoners and health 
+authorities for psychiatric patients.41
+4.4.3  Creating a source of danger
+If a third party’s actions exacerbate a dangerous situation originally created by the defendant, subsequently 
+causing the claimant harm, the defendant may owe the claimant a duty of care. For example, in Haynes v 
+Harwood [1935], the defendant left his horses untethered on a busy street; they bolted when some children 
+threw stones at them. A police officer was injured trying to control the horses; it was found that the defendant 
+owed him a duty of care, as he had created a source of danger that was ‘sparked’ by the third parties.
+41
+p. 95
+4. Special duty problems: Omissions and acts of third parties
+Page 20 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+For a duty to arise in these circumstances, a special risk must be created. In Topp v London Country Bus [1993], 
+the defendant’s employee left an unlocked minibus unattended outside a pub, with keys in the ignition. When 
+the pub closed, a patron entered the minibus and drove it away carelessly, killing a pedestrian. However, the 
+Court of Appeal found that the minibus was no more a source of danger than any other vehicle parked on the 
+road at that time, therefore leaving the minibus did not create the type of risk that would create a duty of care 
+as in Haynes.42
+Pause for reflection
+Is an unlocked bus with the keys in the ignition, left outside a pub at closing time, really less 
+dangerous than an untethered horse? Is the outcome of this case surprising, particularly as the driver/ 
+owners of the bus would be insured?
+4.4.4  A failure to abate a known danger
+In a sense, this is the reverse of the situation outlined earlier. There, we looked at instances where the 
+defendant created a danger that could be ‘sparked’ by a third party. Here, we consider the situation where the 
+danger is in fact created by a third party, but the defendant does nothing to abate it. The key word here is 
+‘known’; unknown (or unknowable) dangers do not fall into this category. It can be explained as follows: if a 
+defendant knows—or ought to have known—that a third party has created a danger that he should do 
+something about (e.g. because it is on his property), then they will owe a duty of care to anyone injured as a 
+result of that danger.43 Put simply, the defendant has a duty to do something about the danger in order to 
+prevent injury (to person or property) to others.
+In Smith v Littlewoods [1987], the claimant’s property was damaged by fire spreading from a derelict cinema 
+owned by Littlewoods after vandals entered it at night and started a fire. The law lords—in particular Lord 
+Goff—found that only where the danger was known, or 
+↵
+foreseeable, would a duty be owed.44 On the 
+facts, no such duty was owed as Littlewoods had no reason to suspect the vandals’ entry and the only thing 
+they could have done to prevent it would be to hire round-the-clock security, which would be 
+disproportionate to the level of risk. As they had some security and had taken some precautions against 
+trespassers, they had done all they reasonably should be expected to do.45 In this sense Smith v Littlewoods 
+went a long way towards clarifying the law in this area in which liability had previously been judicially 
+controlled using various other aspects of the law of negligence.46
+In Clark Fixing Ltd v Dudley Metropolitan Borough Council [2001], the reasoning from Smith v Littlewoods was 
+used to find a duty in exactly the extended circumstances envisaged by Lord Goff. In Clark, Dudley Council 
+owned property which shared a roof with an adjoining property owned by the claimant. As in Smith, 
+trespassers entered the council’s property and started a fire, which spread to the claimant’s property, causing 
+substantial damage. The council, unlike the cinema owners in Smith, was aware that trespassers had entered 
+the premises—and had started fires—on several previous occasions, and in fact had received complaints 
+42
+43
+p. 96
+44
+45
+46
+4. Special duty problems: Omissions and acts of third parties
+Page 21 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+about this from the claimants. The Court of Appeal therefore found that a duty was owed by the council, 
+despite the harm being caused by third parties. Similarly, but without actual knowledge of the risk, a duty of 
+care was found in Sandhu Menswear Co Ltd v Woolworths plc [2006], where the defendants had left piles of 
+flammable material by storage units on an industrial estate, which when set alight had caused damage to the 
+claimant’s property. Even though in Sandhu, unlike Clark, there was no evidence that fires had previously 
+been lit by third parties, the court held that it was foreseeable that fires could be lit by people trespassing in 
+the area and therefore a duty could be found.
+Pause for reflection
+As outlined in Chapter 2, a claimant has to prove not only that a duty was owed to them but that this 
+was breached and that the breach caused the harm suffered by them. How is it possible, however, 
+when the harm is the result of a third party’s actions, to establish that the defendant was the cause of 
+the claimant’s harm?
+Generally, this causation difficulty is overcome by the content of the duty—for example, it will be a 
+‘duty to control a third party’ or a ‘duty to safeguard a dangerous thing’. When looked at this way, 
+failure to control a third party or a dangerous thing (the breach) is what causes the claimant’s harm. 
+Do you agree with this statement? And if so, how do we explain cases like Palmer or K?
+Counterpoint
+Claire McIvor calls ‘third party liability’ a ‘novel category of tortious liability’ that ‘evolved from a 
+collection of disparate and isolated judicial decisions setting out ad hoc exceptions to the entrenched 
+common law rules against liability for omissions and liability for the acts of others’.47 We agree, 
+adding that the law defining if and when defendants owe a duty of care in respect of either an 
+omission or for the actions of another seems to be based on judicial perceptions rooted 
+wholeheartedly in the concept of individualism. While it may be admirable to suggest that people 
+should only take responsibility for their own actions, this approach does not adequately encompass 
+the fact that in many of the cases we have seen it may be more morally justifiable to adopt a broader 
+conception of duty and allow breach to be used as a control on liability. Put simply, we would prefer 
+the approach in these situations to be based on the level of fault or moral blameworthiness that could 
+be attached to the defendant. McIvor is right to contend that due to ‘the improvised nature of its 
+development, the current law on third party liability is unstructured, unprincipled and incoherent’.48
+p. 97
+47
+48
+4. Special duty problems: Omissions and acts of third parties
+Page 22 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-4-4>.
+4.5  Summary of when a duty of care may be found for the actions of 
+third parties
+This is summarised in Table 4.2.
+Table 4.2 When a duty of care may be found for the actions of third parties
+General rule: no duty 
+of care
+Exceptions (see Smith v Littlewoods [1987])
+Proximity between defendant and claimant
+Duty found in
+Stansbie v Troman [1948]
+Swinney v Chief Constable of Northumbria 
+Police [1997]
+Selwood v Durham County Council and others 
+[2012]
+But not in
+P Perl (Exporters) v Camden London Borough 
+Council [1984]
+Palmer v Tees Health Authority [1999]
+K v Secretary of State for the Home Department 
+[2002]
+Mitchell v Glasgow City Council [2009]
+Michael v Chief Constable of South Wales 
+Police [2015]
+Proximity between defendant and third party
+Duty found in
+Home Office v Dorset Yacht [1970]
+But not in
+Palmer v Tees Health Authority [1999]
+K v Secretary of State for the Home Department 
+[2002]
+Mitchell v Glasgow City Council [2009]
+Creation of a source of danger
+Duty found in
+Haynes v Harwood [1935]
+But not in
+Topp v London Country Bus [1993]
+Failure to abate a known danger
+Duty found in
+But not in
+4. Special duty problems: Omissions and acts of third parties
+Page 23 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+1
+2
+General rule: no duty 
+of care
+Exceptions (see Smith v Littlewoods [1987])
+Clark Fixing Ltd v Dudley Metropolitan 
+Borough Council [2001]
+Sandhu Menswear Co Ltd v Woolworths plc 
+[2006]
+Everett v Comojo (UK) Ltd (t/a The 
+Metropolitan) [2011]
+Smith v Littlewoods [1987]
+4.6  Conclusion
+In this chapter we have looked at the separate—but closely linked—concepts of liability for omissions and for 
+the actions of third parties. A general exclusionary rule operates in respect of both. However, as usual, there are 
+exceptions to these rules.
+In relation to omissions, a duty of care can be established where the defendant and claimant have a 
+relationship making it appropriate to depart from the general rule. As we saw, such relationships include 
+those where a degree of control is exercised over the claimant by the defendant, that is, where the 
+responsibility for them is explicit, such as parent–child relationships or with people held in custody and who 
+constitute a known suicide risk. They may also be defined by an assumption of responsibility. If the 
+defendant actively assumes responsibility for the claimant’s wellbeing, this will usually be enough to 
+establish a positive duty to act. Finally, we saw that positive obligations may arise in respect of omissions 
+where a risk is created or adopted by a defendant.
+Third party liability is controlled by similar concepts. Relationships between claimants and defendants are 
+also important—the courts require a high degree of proximity before a duty will be imposed. This works in 
+two ways: either there is sufficient proximity between the defendant and the claimant (e.g. as in many 
+contractual relationships) that makes it appropriate for the defendant to be liable when a third party causes 
+harm to the 
+↵
+claimant, or there is sufficient proximity between the defendant and the third party. As 
+with omissions, this may come from there being a relationship of control and/or responsibility between the 
+defendant and the third party. Again, in a similar way to liability for omissions, a defendant may be liable for 
+the actions of a third party when they either have created a danger that a third party’s actions might cause 
+harm or have failed to abate a known danger created by a third party.
+End-of-chapter questions
+After reading the chapter carefully, try answering the questions which follow.
+Should a ‘Good Samaritan’ statute be passed in this country? What are the benefits of not having one?
+p. 98
+p. 99
+4. Special duty problems: Omissions and acts of third parties
+Page 24 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(i)
+(ii)
+(iii)
+3
+4
+→
+→
+→
+→
+→
+In each of the following situations consider both whether there is a legal duty of care and whether there should 
+be:
+Iris, a 2-year-old child, falls into two feet of water. Pablo, an adult, walks by and offers no assistance. Iris 
+drowns. What if Pablo is Iris’s father?
+While out shopping, Indika’s 7-year-old daughter slips out of her hand and runs into the road causing a serious 
+accident.
+Chiumbo negligently leaves the door of his fireworks factory unlocked one night. Some children enter the 
+factory and steal a large quantity of fireworks, which they light in the nearby park. This causes an explosion 
+that seriously injures Ben who is walking his dog in the park.
+Do the concepts of liberal individualism and personal autonomy carry more weight than collective or social 
+responsibility? Should they?
+In Smith v Littlewoods [1987], Lord Goff indicated that the legal treatment of omissions may one day need to 
+be reconsidered. Was he correct?
+If you would like to know what we think, check the answer guidance <https://iws.oupsupport.com/ebook/  
+access/content/horsey9e-student-resources/horsey9e-chapter-4-answers-to-end-of-chapter-questions? 
+options=showName>.
+Answering the problem question
+Consider again the problem question at the start of this chapter. Now having read about the topic, what 
+would be your advice to the various parties?
+Here are some pointers to get you started:
+There are various claimants in this problem and various defendants. You should start by outlining who 
+would claim against whom, and why.
+Margaret (her estate) will claim against Amir (and the supermarket vicariously, see Chapter 20). Though 
+there is no general duty to assist someone in trouble, had Amir ‘assumed responsibility’ towards Margaret?
+Margaret will also claim against Kasim. The issues are similar to those against Amir, initially.
+↵
+ Jill and Heather will claim against Margaret. However, the harm they suffered was the result of a 
+third party’s actions so it may be difficult to establish a duty.
+Levi will also claim against Margaret. Even if a duty can be established here there may be tricky causation 
+points (see Chapter 9) and a potential defence to the claim (see Chapter 10).
+p. 100
+4. Special duty problems: Omissions and acts of third parties
+Page 25 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+→
+→
+If you need some more guidance:
+See the annotated version of the problem with issues and cases to consider <https://  
+iws.oupsupport.com/embed/access/content/horsey9e-student-resources/horsey9e-chapter-4-annotated- 
+problem-question-interactive>.
+Check your answer against the suggested outline answer <https://iws.oupsupport.com/embed/access/  
+content/horsey9e-student-resources/horsey9e-chapter-4-answers-to-problem-question>.
+Further reading
+Literature on this area of law tends to focus on reform, highlighting inconsistencies and inadequacies in the existing 
+law. Claire McIvor’s book is a great starting point from which to critique the law on third party liability, while Jeroen 
+Kortmann provides excellent analysis of the principles of altruism and rescue in the context of English law. Chapter 3 
+of the book contains a particularly good and persuasive critique of Lord Hoffmann’s reasoning/justifications in Stovin 
+v Wise.
+Carr, Nanci ‘Am I My Brother’s Keeper? How Technology Necessitates Reform of the Lack of Duty to Rescue or Duty to 
+Report Laws in the United States’ (2019) 2 Boston University Public Interest Law Journal 117
+Conaghan, Joanne ‘Challenging and Redressing Police Failures in the Context of Rape Investigations: The Civil Liability 
+Route’ (2015) 5(1) feminists@law
+Kortmann, Jeroen Altruism in Private Law: Liability for Nonfeasance and Negotiorum Gestio (OUP 2005)
+Linden, Allen ‘Toward Tort Liability for Bad Samaritans’ (2016) 53 Alberta Law Review 837
+McIvor, Claire Third Party Liability in Tort (Hart 2006)
+Morgan, Jonathan, ‘Maintaining the Elegant Façade of the Acts–Omissions Distinction’ [2022] Cambridge Law Journal 
+245
+Randell, Melanie ‘Sex Discrimination, Accountability of Public Authorities and the Public/Private Divide in Tort Law: An 
+Analysis of Doe v Metropolitan Toronto (Municipality) Commissioners of Police’ (2000–01) 26 Queen’s Law Journal 451
+Reid, Elspeth ‘Smith v Littlewoods Organisation Ltd (1985)’ in Charles Mitchell and Paul Mitchell (eds) Landmark Cases 
+in the Law of Tort (Hart 2010)
+Additional suggestions for further reading can be found in this chapter’s web links <https://iws.oupsupport.com/  
+ebook/access/content/horsey9e-student-resources/horsey9e-chapter-4-web-links?options=showName>.
+4. Special duty problems: Omissions and acts of third parties
+Page 26 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Notes
+ 
+1. Donoghue is outlined in section 2.2—see in particular the discussion of Lord Atkin’s ‘neighbour principle’.
+ 
+2. e.g. the Occupiers’ Liability Act 1957 fixes a positive duty on occupiers to ensure their premises are safe for lawful 
+visitors (see section 11.2.1) and various statutory health and safety provisions impose positive duties on employers.
+ 
+3. So, in our example scenario, no duty of care would be owed by the owner of the hire shop to do anything to assist 
+the person in trouble. However, in light of later cases (e.g. the Canadian case The Ogopogo [1970]), a contractual 
+relationship might now be enough to create a positive duty to act. See also Stansbie v Troman [1948] and Bailey and 
+another v HSS Alarms [2000].
+ 
+4. Allen Linden ‘Toward Tort Liability for Bad Samaritans’ (2016) 53 Alberta Law Review 837, 843. See also Nanci Carr 
+‘Am I My Brother’s Keeper? How Technology Necessitates Reform of the Law of Duty to Rescue or Duty to Report Laws 
+in the United States’ (2019) 2 Boston Uni Public Interest Law Journal 117.
+ 
+5. See e.g. Carmarthenshire County Council v Lewis [1955], where the duty of parents was confirmed in the context of a 
+claim against a school. From Carmarthenshire it can be seen that a similar duty arises in respect of schools when 
+children are in their care: see also Barnes v Hampshire County Council [1969] and Phelps v Hillingdon London Borough 
+Council [2001]. This positive obligation also extends to ensuring children’s educational and psychological needs and 
+interests are met (Bradford-Smart v West Sussex County Council [2002]).
+ 
+6. Most recently confirmed at the highest level in Robinson v Chief Constable of West Yorkshire [2018]. See especially 
+Lord Reed at [34].
+ 
+7. The reference to being one’s brother’s keeper is biblical: God, after Cain had killed Abel, asked Cain where his 
+brother was and Cain replied ‘Am I my brother’s keeper?’ (Genesis 4:9). The answer to Cain’s question differs according 
+to one’s political and ethical standpoint. While some might answer ‘Yes, you are. WE are’—that is, we are all (and 
+should be) responsible, at least to some extent, for the welfare of our fellow humans—others will respond differently, 
+relying on conceptions of individual rather than collective responsibility to support the view that one should not have 
+to expend time, energy or money on those who are not directly related (or proximate) to us in some way.
+ 
+8. We can therefore infer that there would be no obligation in our example scenario for a bystander to take any 
+measures to stop the man walking off the edge of the cliff, unless a pre-tort relationship existed between the parties. 
+Nor must a doctor or nurse stop at the scene of an accident to help a stranger who might be injured or even dying 
+(though see the Australian case Lowns v Woods [1996]). If they did stop and intervene, however, they may owe a duty 
+not to make the situation worse. Simon Deakin, Angus Johnson and Basil Markesinis call this a ‘rather extreme 
+position’, highlighting that the law fails to take into account either the magnitude of the harm that could be caused or 
+the ease of preventing it (Tort Law (7th edn OUP 2012) 180).
+ 
+9. The penalties apply to anyone who wilfully fails to offer assistance to a person in danger which he could himself 
+provide without risk to himself or to third parties, or by initiating rescue operations. An example of this law in practice 
+is where some press photographers at the scene of Princess Diana’s fatal car accident in Paris were investigated for 
+deliberately avoiding providing assistance to endangered persons.
+ 
+10. This is also the position that applies to the duty of care that the fire service or coastguard owe to individuals. See 
+sections 6.5.1 and 6.5.5, respectively.
+ 
+11. See Linden n4.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+4. Special duty problems: Omissions and acts of third parties
+Page 27 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+12. Note that in Robinson v Chief Constable of West Yorkshire Police [2018] Lord Reed lists four exceptions to the rule 
+in modern understanding—though this aligns with the three we list here, by splitting the third into two (at [34]).
+ 
+13. Carmarthenshire County Council v Lewis [1955], though note that this appears not to stretch beyond situations 
+where an express or implied undertaking to care for the child exists and is not based merely on e.g. blood 
+relationships. See also Surtees v Kingston upon Thames Borough Council [1992].
+ 
+14. Notably, this case is also an exception to the general absence of duty owed by the police as a public body, discussed 
+in section 6.5.3.
+ 
+15. For an explanation of the principles of contributory negligence, see section 10.4.
+ 
+16. The duty of state authorities to protect prisoners with mental health problems was confirmed in Renolde v France 
+[2009].
+ 
+17. The daughter of the woman who killed herself was later awarded £10,000 from the NHS in a Human Rights Act 
+claim: Anna Savage v South Essex Partnership NHS Trust [2010]. In Rabone v Pennine Care NHS Trust [2010], the Court of 
+Appeal denied such a claim where the patient was voluntarily receiving inpatient treatment for her mental health but, 
+due to the hospital’s negligence, was allowed on home leave, where she committed suicide. However, the Supreme 
+Court overturned this, finding that the state has a positive obligation under Art 2 to prevent the suicide of voluntary 
+mental patients and, though in Rabone the health trust admitted negligence and settled with the appellants (the 
+patient’s parents), this did not prevent them being recognised as ‘victims’ for the purposes of s 7 of the Human Rights 
+Act 1998 (Rabone and another v Pennine Care NHS Trust [2012]).
+ 
+18. Consider, e.g., the findings of the Office for National Statistics that male prisoners in England and Wales are 3.7 
+times more likely to die from suicide than the general population (‘Drug related deaths and suicides in prison custody 
+in England and Wales: 2008 to 2016’ 25 July 2019). See also the Home Office report by Giles Lindon and Stephen Roe 
+‘Deaths in police custody: A review of the international evidence’ October 2017.
+ 
+19. See also Mullaney v Chief Constable of West Midlands [2001]. These cases are examples of an exception to the 
+general rule that the police owe no duty of care, as discussed in Chapter 6. See further on vicarious liability Chapter 
+20.
+ 
+20. See further section 6.5.1. A good summary of the rule from Capital & Counties plc was given by Lady Paton in a 
+Scottish appeal case on liability of the fire service: AJ Allan (Blairnyle) Ltd and another v Strathclyde Fire Board [2016].
+ 
+21. Discussed in more detail in section 19.6.
+ 
+22. See e.g. Home Office v Dorset Yacht Co Ltd [1970].
+ 
+23. Section 9.2.3.
+ 
+24. See Smith v Littlewoods [1987], as one example of a case that clearly highlights the difficulty courts have in 
+categorising third party actions as either a duty or causation issue.
+ 
+25. Note there has been some criticism of Lord Reid’s formulation—see e.g. Denning, Oliver and Watkins LJJ in Lamb v 
+Camden London Borough Council [1981].
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+4. Special duty problems: Omissions and acts of third parties
+Page 28 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+26. It should be clear from these categories where there is overlap between what is discussed here and in the earlier 
+section on omissions. The first category, here, clearly has parallels with the idea of ‘assumption of responsibility’ in 
+relation to omissions—and the others are even more obvious—so much so that you may find that other texts have 
+some of the cases used to illustrate these ideas in the omissions section rather than in relation to third party liability 
+and vice versa.
+ 
+27. The principle was confirmed in Bailey and another v HSS Alarms [2000] and more recently in a claim worth £6.5 
+million in Rushbond Plc v JS Design Partnership LLP [2021].
+ 
+28. Al-Najar v The Cumberland Hotel (London) Ltd [2019]. Interestingly, in giving judgment, Dingemans J said ‘I have 
+found the duty to exist by reason of the assumption of responsibility test set out in Robinson rather than by the use of 
+the Caparo test’ (at [187]), suggesting that the move away from seeing Caparo as ‘the’ test for duty of care is well 
+underway (see discussion at section 3.2).
+ 
+29. Indeed, this point was explicitly acknowledged by Lord Denning MR in Lamb v Camden London Borough Council 
+[1981], a case with similar facts to P Perl (Exporters) Ltd.
+ 
+30. It should be noted here that there was a far higher degree of proximity in Osman and Michael than in Hill, though 
+still not enough for the court to impose a duty on the police (see further section 6.5.3).
+ 
+31. Compare Buck v Norfolk and Waveney Mental Health NHS Foundation Trust [2012], where it was held that a custody 
+authority responsible for the negligent release of a psychiatric patient will not owe a duty to a victim unless that victim 
+was identifiable.
+ 
+32. Also see Lord Morris in Dorset Yacht, who said: ‘If a person who in lawful custody has made a threat, accepted as 
+seriously intended that, if he can escape, he will injure X … a duty [will be owed] to X to take reasonable care to 
+prevent escape’ (at 1039). Can parallels be drawn with those detained on mental health grounds? Compare the US 
+case Tarasoff v Regents of the University of California [1976].
+ 
+33. Also see Smith v Chief Constable of Sussex Police [2008] and Michael v Chief Constable of South Wales Police 
+[2015].
+ 
+34. Also see Hussain and another v Lancaster City Council [1999] and X & Y v London Borough of Hounslow [2009]. The 
+latter case is discussed in sections 2.6 and 6.7.2. The Court of Appeal decision relied heavily on the findings in 
+Mitchell.
+ 
+35. Discussed in section 6.3.
+ 
+36. Which specifically stated that there might be circumstances in which confidential information might need to be 
+disclosed without a patient’s consent if the health or safety of a professional was at risk.
+ 
+37. See Joanne Conaghan ‘Civil liability: addressing failures in the context of rape, domestic and sexual abuse’ 
+Inaugural Lecture given at the University of Bristol on 19 February 2015. The full lecture can be viewed at 
+www.youtube.com/watch?v=y1bawCpPr30 <http://www.youtube.com/watch?v=y1bawCpPr30>.
+ 
+38. Also see Martin Evans ‘Woman was murdered by stalker ex-boyfriend after police blunders, report finds’ The 
+Telegraph 12 September 2018. There, the Independent Office for Police Conduct (IOPC) found multiple failures in the 
+police response to the victim’s reporting of worrying stalking behaviour by her ex-boyfriend. Contrast the response of 
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+4. Special duty problems: Omissions and acts of third parties
+Page 29 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Warwickshire police to the death of Julia Mendes, also following a miscategorised 999 call, where it could be argued 
+that no such assumption of responsibility occurred, yet the victim’s family were paid £21,687. See Diane Taylor ‘Police 
+apologise to dead woman’s kin after failure to respond to 999 call’ The Guardian 5 January 2017.
+ 
+39. See also Griffiths and others v Suffolk Police and another [2018].
+ 
+40. Also see Vowles v Evans and another [2003] and Watson v British Boxing Board of Control Ltd [2001] in the context of 
+sports officials.
+ 
+41. Consider also the High Court’s decision (later upheld by the Supreme Court) in DSD v The Commissioner of Police for 
+the Metropolis [2014], discussed at section 6.3.1 as well as in the lecture by Joanne Conaghan, referred to in n37.
+ 
+42. Would the same be true where a cleaner left the door to a pub open one night (as in the scenario at the beginning of 
+the chapter)? The legal question is whether she should be held responsible for the damage to the pub and, also, for 
+the damage to the car parked on the same street. By analogy with Stansbie it might be fairly easy to establish the duty 
+in relation to the stolen alcohol and damaged pub—but might Topp stand in the way of the car owner claiming 
+successfully?
+ 
+43. See, in the context of land torts, Sedleigh-Denfield v O’Callaghan [1940], Goldman v Hargrave [1967] and Leakey v 
+National Trust [1980], section 19.6.1. Also compare the position of occupiers of premises under the Occupiers’ 
+Liability statutes (Chapter 11).
+ 
+44. Notably, although Smith v Littlewoods was a unanimous decision, each of the law lords reached their decision by 
+different means.
+ 
+45. Compare also Smith LJ’s judgment in the context of a knife attack in a nightclub in Everett v Comojo (UK) Ltd (t/a 
+The Metropolitan) [2011], particularly [31]–[33].
+ 
+46. Compare e.g. Lamb v Camden London Borough Council [1981] (third party’s acts too remote a consequence of the 
+defendant’s breach (causation in law)), P Perl (Exporters) Ltd (no duty because the defendant could not be expected to 
+control the actions of third parties) and King v Liverpool City Council [1986] (duty found but defendant not in breach as 
+there was nothing they could reasonably have done to prevent the third parties’ actions).
+ 
+47. Claire McIvor Third Party Liability in Tort (Hart 2006) 1.
+ 
+48. ibid.
+© Kirsty Horsey & Erika Rackley 2025
+Related Books
+View the Essential Cases in tort law
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+4. Special duty problems: Omissions and acts of third parties
+Page 30 of 30
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Related Links
+Test yourself: Multiple choice questions with instant feedback <https://learninglink.oup.com/access/content/brennan-  
+concentrate6e-student-resources/brennan-concentrate6e-diagnostic-test>
+Find This Title
+In the OUP print catalogue <https://global.oup.com/academic/product/9780198925231>

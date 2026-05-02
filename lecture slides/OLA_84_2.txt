@@ -1,0 +1,219 @@
+OCCUPIERS’ 
+LIABILITY ACT 1984
+Dr. Megan Rae Blakely
+m.blakely@lancaster.ac.uk
+Tort Law, Lancaster University
+Signposts
+■OLA 1957 Review
+■OLA 1984 Scope
+■OLA 1984 text and 
+cases
+■* Remember to check 
+in
+Occupiers’ Liability
+
+ Liability of occupiers for people injured or property where loss/injury results from 
+danger related to state of occupier’s premises
+
+ Such liability developed under the common law (Now primarily governed by 
+statute)
+
+Partial codification of negligence liability (duty and breach)
+
+Occupiers Liability Act 1957 – liability in respect of lawful visitors
+
+Occupiers Liability Act 1984 – liability in respect of trespassers/ non-visitors
+Pre-requisites for the OLAs
+■1) D is an occupier
+■2) Incident occurred at relevant premises 
+under the OLAs
+■3) Danger is an occupancy (static) danger, 
+as opposed to activity
+OLA 1957 Review
+■An occupier (degree of control) of the 
+premises
+■Codified duty and breach (partially codified 
+negligence)
+■Common law causation and remoteness
+■For lawful entrants and visitors
+■Consider warnings (but usually in need of 
+‘more’)
+■Consider special classes of visitor 
+(independent contractors, children, etc)
+OLA 1984 
+■Background to the Act
+■Duty owed to; ‘persons other than visitors in respect of 
+any risk of their suffering injury on the premises’
+■Duty owed if occupier AWARE of danger or has reasonable 
+grounds to believe that it exists and the risk is one in 
+relation to which he may reasonably be expected to offer 
+protection; s 1 (3) 
+– Knowledge required of danger/ reasonable grounds to 
+believe risk exists 
+– Occupier not required to ‘seek out’ existence of 
+dangers 
+– Does not mean ‘ought to know’ Swain v Natui Ram Puri 
+[1995] WLUK 22
+OLA 1984
+■Duty of care ... 
+– To establish duty, all three must be met (s 1 (3)):
+■Aware or reasonable grounds to believe danger 
+existed;
+■D knew, or had reasonable grounds to believe, C 
+was in the vicinity of danger or that D might come 
+in the vicinity
+■The risk is one against, in all circumstances of the 
+case, D might reasonably be expected to have 
+offered C some protection.
+– To take such care as is reasonable in the 
+circumstances to see that non visitor is not injured
+Non-visitors: OLA 1984
+■Section 1 of the Act defines non-visitors in terms of them not being 
+visitors for the purposes of the 1957 Act.  
+–
+Non-visitors clearly include trespassers.  
+■Non-visitors also include those who simply use a private right of way: 
+Vodden v Gayton [2001] PIQR P52 (user of a private right of way is a 
+non-visitor).
+■Section 1(7) of the Act denies any duty in respect of those using the 
+highway to cross D’s land.
+■Note also section 1(6A): no duty to ramblers meeting natural 
+hazards while roaming
+OLA 1984: Defining the danger
+■Truant boys ‘surfing’ across trains cars;
+■Boys fell and suffered limb amputations;
+■The danger was ‘surfing’; 
+■Danger must be more widely defined than 
+‘death by moving trains’
+– Scott v Associated British Ports [CA. 22 
+Nov 2000]
+Dangers
+Obvious (D not liable)
+-
+Diving into shallow water
+-
+Slipping on algae-covered 
+rocks
+-
+Climbing a spiked fence
+-
+Horse riding on a beach with 
+many holes/soft sand
+-
+Being sprung off a ‘bouncy 
+house’ onto a hard surface
+-
+Swimming at night in murky 
+water
+Nonobvious (liable)
+■- Stairs/landings with no 
+railings or unstable railings
+■- Poisonous berries (children)
+■- poorly constructed window 
+frame, causing brick collapse
+■- gym equipment causing 
+finger amputation
+■- improperly secured loft 
+ladder
+OLA 1984
+–
+Danger in regard to which the occupier will be expected 
+to exercise due care must emanate from either the ‘state 
+of the premises or things done or omitted to be done on 
+them,’ s 1 (1) (a) 
+■Tomlinson v Congleton [2004] 
+–
+In order for a duty to arise, occupier must be aware or 
+have reason to believe that a danger exists AND that 
+someone is likely to come into contact with it
+■Donoghue v Folkestone [2003] 
+–
+Winter diving – occupier knew people dived in 
+summer but not in winter – no liability 
+Tomlinson v Congleton [2003] UKHL 47
+■18 yr old C visited a park with an artificial lake;
+■Dove into shallow water and was paralysed; 
+■Warnings were posted, leaflets distributed, and ranger patrols 
+attempted to prevent swimming; 
+–
+Were the precautions sufÏcient and reasonable? 
+■Should this claim be under the 1957 Act or the 1984 Act?
+■Was this an appropriate claim under the OLAs?
+Tomlinson v Congleton
+■-  “Mr Tomlinson was a person of full capacity who voluntarily and 
+without pressure or inducement engaged in an activity which had an 
+inherent risk. The risk was that he might not execute his dive properly 
+and so sustain injury. Likewise, a person who goes mountaineering 
+incurs the risk that he might stumble or misjudge where to put his 
+weight. In neither case can the risk be attributed to the state of the 
+premises. Otherwise any premises can be said to be dangerous to 
+someone who chooses to use them for some dangerous activity.... The 
+risk only arose out of what he chose to do and not out of the state of 
+the premise;” per Lord Hoffmann 
+On proving breach…
+■- Much like proving breach in a regular negligence analysis
+■- Reasonable foreseeability
+■- Potential precautionary steps?
+■- Should those steps have been taken by a reasonable person in D’s position?
+■- NO requirement for precautionary steps for obvious dangers
+Where the OLAs do not apply
+–
+Public right of way
+■E.g., injury from a pothole (use ordinary negligence or Highways 
+Act 1980)
+–
+Passers by or not on property 
+■Eg, object thrown from property
+-
+Non-humans
+-
+E.g., pets or other animals (like bees! Tutton v AD Walter Ltd)
+-
+But see League Against Cruelty to Animals
+Defences: Warnings, 
+the ‘statutory escape hatch’
+■- What constitutes a warning?
+■- Warnings – s 1 (5) OLA 1984
+–
+“Any duty owed by virtue of this section in respect of a risk may, 
+in an appropriate case, be discharged by taking such steps as are 
+reasonable in all the circumstances of the case to give warning of 
+the danger concerned or to discourage persons from incurring the 
+risk”
+■- Giving warning of the danger concerned (rather than of danger 
+generally) provides an absolute defence.
+Defences: Volenti and 
+Contributory Neg. 
+■Volenti – s 1 (6) OLA 1984
+■Contributory Negligence
+–
+Ratcliffe v McConnell [1999] EWCA Civ 2679
+■Claimant drunk and broke into a swimming pool
+■Dove into shallow water and was paralysed
+■What has the danger to be warned of?
+Property Loss
+■S1(8) Where a person owes a duty by virtue of this section, he does 
+not, by reason of any breach of the duty, incur any liability in respect 
+of any loss of or damage to property.
+OLA Codification Summary
+-
+Duty: 
+-
+Visitors: s 2(1) OLA 1957
+-
+Trespassers: s 1(3) OLA 1984
+-
+Breach:
+-
+Visitors: establish standard of care s2(3)(a); prove breach; 
+consider any mitigations, specialist visitors s2(3)(b), 
+warnings s2(4)(a); and/or independent contractors s2(b)(b)
+-
+Trespassers: standard of care, breach, but only warnings 
+s1(5)
+-
+Causation: common law
+-
+Remoteness: common law
+Next week…
+■Privacy and defamation.

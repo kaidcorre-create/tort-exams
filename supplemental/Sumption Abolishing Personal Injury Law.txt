@@ -1,0 +1,429 @@
+1 
+Personal Injuries Bar Association Annual Lecture, London 
+Abolishing Personal Injuries Law - A project 
+Lord Sumption, Justice of The Supreme Court 
+16 November 2017 
+It is now exactly twenty years since Patrick Atiyah published The Damages Lottery, one of the most 
+eloquent polemics ever to be directed against a firmly entrenched principle of law. Professor 
+Atiyah was concerned with the law of negligence generally. But his book has generally been 
+treated as an attack on personal injuries law and its practitioners. Most of his arguments and all 
+of his solutions were directed against the concept of fault-based liability for personal injury. He 
+proposed to abolish liability in tort for causing personal injury. In the case of road accidents, 
+then as now by far the largest single source of personal injury claims, the right to sue for 
+negligence would be replaced a system of compulsory, no fault, first-party insurance. In the case 
+of other sources of personal injury, there would be no alternative source of provision. Atiyah 
+proposed to encourage people to buy first-party insurance, but to leave it, in the final analysis, up 
+to them. 
+Atiyah’s criticisms had never previously been advanced with such rhetorical force. But they were 
+not new. Many of them had appeared in his textbook Accidents, Compensation and the Law, the first 
+edition of which appeared in 1970. A year before that, the Woodhouse Committee in New 
+Zealand had proposed to replace the right to sue with a system of state-funded social provision. 
+These recommendations were accepted by the New Zealand government and enacted in the 
+Accident Compensation Act 1972. Even more radical proposals had been made by an Australian 
+commission of inquiry, over which Sir Owen Woodhouse also presided, and of which Atiyah 
+himself was a member. But these were never acted on. In England, the Pearson Commission had 
+been appointed in 1973 and reported in 1978. They recommended a somewhat similar scheme, 
+but funded from general taxation. After some years of hoping that the whole issue would go 
+away, the British government eventually binned the report and resolved to take no action. As a 
+result, the issue had almost disappeared from sight by the time that The Damages Lottery was 
+published in 1997. 
+2 
+ 
+ 
+The book generated some brief ripples in the placid waters of academic journals, and was the 
+subject of a formidable riposte by Professor Burrows as well as some more technical criticisms by 
+other academic lawyers and sociologists. It is still read as a masterpiece of polemical contrarianism. 
+But it completely failed in its main object, which was to interest the policy makers, journalists and 
+general public to whom it was primarily addressed. More recent editions of Accidents, Compensation 
+and the Law, which are due to Peter Cane, have kept the cause alive. But his proposals, which are 
+slightly different from Atiyah’s, have had limited influence. 
+ 
+You may well ask then why I should think it worth returning this controversy tonight. I think 
+that there are at least two reasons for doing so. 
+ 
+One is that we are witnessing a renewed bout of indignation about “compensation culture”. This 
+has been a recurring source of controversy in the press for some years, but more recently, the 
+cause has been taken up by the government. In 2004 and again in 2012 government intervention 
+followed intensive and very public lobbying by motor insurers. This has resulted in a series of 
+measures to curtail the activities of claims management companies, and changes to the solicitors’ 
+conduct rules with the same end in view. At the same time, there have been radical changes to 
+the incidence of costs, most of which have been largely unfavourable to Claimants. More 
+recently, the Queen’s speech included proposals to introduce legislation requiring the submission 
+of prescribed forms of medical evidence before insurance claims can be settled, and a statutory 
+scale of damages awards for whiplash claims. The mounting concern about compensation 
+culture is powered by a number of factors. The main ones are the upward pressure on motor 
+insurance premiums arising from an increase in the number and value of claims, governmental 
+concern about the cost of claims against the National Health Service, and persistent stories in the 
+press (not always strictly accurate) about unmeritorious claims. 
+ 
+There is, however, a more fundamental reason for returning to Professor Atiyah’s radical 
+proposals. There are some propositions which are so deeply entrenched in the instincts of 
+lawyers and the public at large that they are never critically examined. The duty of care to avoid 
+injuring our fellow men may well be the most deeply entrenched of all. As Lady Justice Hale 
+observed in her judgment in the Court of Appeal in Parkinson v St. James and Seacroft University 
+3 
+ 
+Hospital NHS Trust [2002] QB 266, at para 56, “the right to bodily integrity is the first and most 
+important of the interests protected by the law of tort.”  
+ 
+By the leisurely standards of the common law, this is a relatively recent development. The modern 
+law of negligence was made by nineteenth century judges, who first recognised the existence of 
+duties of care independent of the much older duties recognised by the law of trespass. This major 
+development of our law occurred largely in cases about negligently inflicted personal injury and 
+property damage.  The law of tort recognises these species of physical injury as inherently 
+actionable, subject only to special defences such as volenti, or limitations on the recoverable 
+damages, such as causation and remoteness. By comparison, purely economic interests are not 
+inherently actionable, but only in specific and carefully circumscribed cases. It is, as a general 
+principle, desirable that judges and practitioners should reflect on the social and moral foundations 
+of the law which they practise.  The duty not negligently to injure other people is imposed by law, 
+in other words by the state. Like any non-consensual obligation, it must ultimately be founded 
+either on social utility or on collective moral values. 
+ 
+Atiyah’s basic argument against the law of negligence was that it lacked social utility. Drawing 
+mainly on the material collected by the Pearson Commission, he pointed out that almost all 
+personal injury claims were brought against insured parties or public bodies. The Pearson 
+Commission estimated that in 1973 88% of personal injury claims by number and 94% by value 
+were brought against insured parties, and most of the rest against public bodies. That conclusion 
+will surprise no one. In most cases it is not worth suing any one else. Given that most of the 
+increase since Pearson comes from road accidents, where liability insurance is compulsory, the 
+proportion of insured claims is likely to be at least as high today. 
+ 
+The cost of meeting claims for negligently caused personal injury was estimated by Pearson at 
+about 1% of the gross national product of the United Kingdom. There is a measure of 
+uncertainty about all such estimates, but whatever the true proportion, it is a significant figure, 
+and it represents a substantial social cost. In the first place, liabilities that fall to be met by 
+insurers or by the state are effectively socialised across the population at large. We all, or almost 
+all, pay for them in the form of higher insurance premiums or taxes. Studies suggest that 
+4 
+ 
+although individual insurance premia do to some extent vary with an individual’s personal claims 
+record, premiums are still largely fixed according to class of business and risk category. 
+ 
+Secondly, the cost is not limited to the amount of the damages. Perhaps the most remarkable figure 
+in the statistical annexes to the Pearson Report was the Committee’s estimates of the cost of 
+making and processing claims for personal injury. They concluded that legal and administrative 
+costs amounted to 47% of the total cost of settling personal injury claims. This figure was proposed 
+subject to a large margin of error, but it is broadly consistent with other evidence. According the 
+Young Report, published in 2010, legal costs of resolving claims against the National Health 
+Service had accounted for 36% of the total cost of settling personal injury claims in the previous 
+year, and this figure does not include non-legal administration costs. There is no reason to think 
+that the insurers’ costs of processing claims against non-state bodies is any different. 
+ 
+Thirdly, although the taxpayer has a bottomless pocket, insurers do not. Beyond a certain point, 
+the cost of rising claims volumes cannot simply be piled onto premiums and begin to erode profits. 
+In the longer term, the result is likely to be a contraction of insurance capacity. In extreme cases, 
+insurers can simply withdraw from the more exposed sectors of the liability market. This is not a 
+purely hypothetical prospect. It is what actually happened to product liability insurance in the 
+United States in the late 1980s, as a direct result of the explosion of claims for long-term latent 
+industrial diseases and environmental pollution. The market effectively ceased to exist, and had to 
+be recreated offshore on more restrictive terms. 
+ 
+A number of things might be thought to follow from the socialisation of the cost of personal 
+injury claims. A system which makes compensation dependent on fault makes little sense if the 
+damages are being paid not by the persons at fault, but by society as a whole. One is entitled to 
+ask: why should the private law distribution of rights and liabilities between individuals or their 
+employers determine the incidence of what is in reality a social cost? Let us leave the moral 
+dimension out of it for the moment. I will return to it later. From a purely utilitarian point of 
+view, if the cost of compensating people for personal injury falls on society at large, there is no 
+rational reason to distinguish between personal injury which has been caused by some one’s 
+fault, and personal injury which has occurred without fault. Equally, there is no rational reason 
+why the victims of accidents, however caused, should necessarily recover a full indemnity as the 
+5 
+ 
+law of tort presently requires. Since we are all paying for the tortiously inflicted injuries, we might 
+as well treat it as a social service and make it respond to our collective social priorities rather than 
+to the common law rights of individual claimants. 
+ 
+Let me start with compensation culture. The problem about this protean phrase is that it is a 
+slogan, and not a carefully thought out position. It encompasses at least two complaints, which 
+are very different although they share a common rhetoric. One is that too many fraudulent 
+claims are being made: in other words people are being too greedy. The other is that too many 
+justified claims are being made: in other words, the law is being too generous. The government 
+seems to be making the first point, but Professor Atiyah was making the second.  
+ 
+There undoubtedly is a problem about fraudulent claims, but I do not think that it is a problem 
+calling for a fundamental rethink of our law. Detected frauds have increased significantly, 
+although how much of this is due to more diligent detection and how much to declining 
+standards of honesty is hard to say. The main issue concerns small consumer claims, where it is 
+likely to cost the insurers a great deal more to investigate a claim than just to pay up. Motor 
+insurance fraud, which accounts for nearly two thirds of detected fraud, is particularly difficult 
+for insurers to control through the terms of their contracts. Insurance is compulsory and 
+contractual restrictions on cover or procedural conditions for pay-outs are tightly controlled by 
+statute. So it may well be that legislation is needed in order to deal with it. But it is hard to regard 
+this as raising a great issue of principle. The law does not countenance fraud and never has. 
+Subject to seeing the draft bill, the current proposals strike one as a relatively modest regulatory 
+adjustment. 
+ 
+The more fundamental and controversial issue is not about fraudulent claims but about justified 
+ones. 
+ 
+There has been a persistent rise in both the number and value of claims for personal injuries. 
+The Pearson Commission estimated that in 1973 there had been about 250,000 claims a year. 
+According the Association of British Insurers, the corresponding figure for 2013-14 was about 
+1,200,000. Almost all of this increase was attributable to road accidents, which now account for 
+6 
+ 
+about 80% of all accidents. Since the number of road accidents does not seem to have increased 
+in proportion, it is reasonable to conclude that the main factor at work is an increased propensity 
+to claim, especially among those involved in road accidents. The Pearson Commission concluded 
+that only 11% of people injured in accidents even considered the possibility of claiming. Survey 
+evidence suggested that by far the most significant reason was that they did not realise that they 
+could. The main reason for that was ignorance: ignorance of the significance of their symptoms; 
+ignorance of the law or the workings of the legal system; ignorance of the standards expected of 
+others. It seems likely that the increased propensity to claim is due at least in part to greater 
+knowledge of these matters. This is not in itself a bad thing. If people know more today about 
+their rights, that may well be due, at least in part, to the active solicitation of claims by solicitors 
+and claims management companies. To those like me who believe that litigation is an evil, the 
+active solicitation of claims can seem distasteful. But it is really not a matter of taste, and I find it 
+impossible to say that it is wrong. If the law entitles the victim of an accident to compensation, it 
+ill becomes us to criticise him for knowing it and claiming. It is true, of course, that people who 
+know that there is a claim to be made tend to reinterpret events in a way that justifies claiming. 
+But there is nothing new about that, nor is it peculiar to personal injuries claims. Wish fulfilment 
+is a basic trait of human nature, and a problem about witness evidence in every field of litigation. 
+ 
+Behind the growing propensity to claim lies another fundamental change which is perhaps even 
+more significant. Unlike their forbears, people are no longer disposed to accept the wheel of 
+fortune as an ordinary incident of human existence. They regard physical security not just as the 
+normal state of affairs but as an entitlement. I do not find this surprising or discreditable. It is a 
+perfectly rational response to some significant developments over the last half-century: higher 
+expectations of government, to some extent encouraged by governments themselves; higher 
+expectations of the law as an instrument of social welfare; higher professional standards; a more 
+intense regulatory environment; and improvements in the technical competence of humanity, 
+which have given us much more control over our own and other people’s fortunes. The result of 
+these developments is that a far higher proportion of personal injuries are regarded as avoidable. 
+Now, to say that injury was avoidable does not mean that it was negligently caused. But it is a 
+major step in that direction. It has inevitably affected the standards of responsibility which the 
+law imposes on us in our treatment of each other. 
+ 
+7 
+ 
+Judges have undoubtedly expanded the scope of duties of care over the past half-century, as well 
+as the range of consequences for which a wrongdoer may be liable. But in doing this, they have 
+merely followed the collective instincts and values of the public at large, which within limits is a 
+legitimate influence on the common law. If the law says that we are entitled to blame other people 
+for rather more of our misfortunes than hitherto, it is really rather absurd to complain about a 
+culture of blame, as if this was somehow a symptom of our collective moral degeneration. The 
+importance of Professor Atiyah’s work was that he was honest enough to recognise that if we want 
+to influence the number and incidence of personal injury claims, the only way to do it is to alter 
+peoples’ legal rights, instead of going around lamenting the enforcement of what legal rights we 
+have. 
+ 
+There are two basic criticisms to be made of the use of tort law to address the problems of 
+personal injury, and they point in different directions. One is directed against the use of fault as 
+the touchstone of liability. The other is directed at the scale of claims and at the corresponding 
+social cost. 
+ 
+Let me deal with fault first. There are a number of arguments in favour of fault-free systems on 
+the New Zealand model. One is that they are more efficient, because they avoid considerable 
+investigatory and legal costs of attributing blame. The second is that if the object of the exercise 
+is to address the problem of personal injury, there is no obvious reason to give special treatment 
+to those victims who have had the good fortune to discover that their injuries were some one 
+else’s fault. A third is that fault-based systems tend to influence behaviour in ways that are over-
+defensive and not necessarily in the public interest. 
+ 
+Let me take a well-known example, which illustrates all three points: the disputes in latter half of 
+the twentieth century about birth deformities attributed to drugs designed to relieve the 
+symptoms of morning sickness in pregnancy. Thalidomide was invented in Germany. It was 
+marketed as a treatment for nausea and insomnia in pregnancy, at a time when scientists believed 
+that drugs taken by pregnant women could not cross the placental barrier and affect the 
+developing foetus. This view was tragically mistaken, and as a result many thousands of babies 
+were born with serious physical deformities.  The drug was marketed in the UK between 1958 
+and 1961 by Distillers Biochemicals. The only cause of action available in England to the 
+8 
+ 
+children who suffered the deformities was an action in tort against Distillers. This depended on 
+proving negligence against Distillers, which formulated the product under licence but was neither 
+the inventor nor the manufacturer of the active ingredient. That proved to be an expensive and 
+time-consuming process with distinctly uncertain prospects of success. After six years of 
+litigation there was a settlement in 1968 under which the allegations of negligence were 
+withdrawn in return for an offer of 40% of the proved damages. That even this much was 
+achieved was due to a press campaign in which the main theme was that Distillers owed social 
+and moral obligations going beyond the legal obligations imposed by the law of tort. 
+ 
+Now let me turn to another well-known case. Bendectin was the brand name of a product 
+comprising vitamin B6 and a standard anti-histamine, which was marketed in the United States 
+in the early 1980s for the treatment of morning sickness and insomnia in pregnancy. A number 
+of women who had taken it gave birth to deformed babies. Yet these deformities were never 
+shown to have been caused by Bendectin. Comprehensive testing both before and after the 
+event showed it to be safe. It had been approved by the US Food and Drugs Administration, 
+one of the world’s more effective drug licensing authorities, which had persistently refused to 
+allow the marketing of Thalidomide at a time when it was available in most other countries of 
+the world. Indeed, the FDA has recently reauthorized the marketing of the active ingredient of 
+Bendectin under a different brand name. Yet the manufacturers had been forced to withdraw it 
+from the market in 1983 because the cost of defending class actions made it unprofitable, even 
+though none of these actions succeeded. Some of the literature suggests that the disappearance 
+of Bendectin from the market for 30 years had really quite serious consequences. It deterred 
+drug companies from developing any drugs specifically designed for pregnant patients, and 
+pushed many patients towards other less reputable and less intensively tested treatments. 
+ 
+The legal environment is very different in the United States, but Thalidomide was primarily a 
+British and German tragedy, and defensive responses to the threat of liability are certainly not 
+confined to the United States. Tomlinson v Congleton Borough Council [2004] 1 AC 46 is a good 
+illustration of the way in which the fear of liability in tort can lead to the total withdrawal of 
+facilities that are valued by the great majority of the population who use them responsibly. The 
+basic problem in Tomlinson was the attempt of the local authority to eliminate all risk, instead 
+drawing a balance between risk and the adverse consequences of eliminating it. In doing this, 
+they went beyond what the law required. The effect on the liberty of others was deplorable, and 
+9 
+ 
+the House of Lords duly deplored it. But the reaction of the local authority was in fact a perfectly 
+rational response to a real problem posed by the current state of the law. Balancing risk of injury 
+against the consequences of eliminating it requires a complex and no doubt expensive case-by-
+case assessment. For every case in which the risk is too remote to justify the infringement of 
+liberty, there will be half a dozen where a judge will decide the other way. From the point of view 
+of the rational Defendant, it is simpler, cheaper and safer to ban the relevant activity, and far 
+more likely to protect council officers from criticism when something goes wrong. 
+ 
+These are all in their different ways extreme cases. Nevertheless, they do I think illustrate why 
+the law of tort is an extraordinarily clumsy and inefficient way of dealing with serious cases of 
+personal injury. It often misses the target, or hits the wrong target. It makes us no safer, while 
+producing undesirable side effects. What is more, it does all of these things at disproportionate 
+cost and with altogether excessive delay. 
+ 
+It is sometimes suggested that the fault is a necessary element in any scheme of compensation, 
+because it deters sloppy practices, thereby improving general standards of safety. I am sceptical 
+about this proposition. Most of the available empirical studies have been carried out in the 
+United States. I cannot claim to have read all of them, although I have read a fair number. My 
+tentative conclusion is that in spite of the dramatically higher level of US damages awards, there 
+is no consistent evidence of any deterrent effect specifically attributable to the prospect of fault-
+based civil liability. 
+ 
+The whole notion of deterrence assumes that there is a minimum of reflection behind the actor’s 
+decisions. Negligence normally consists in the absence of the very processes of reflection which 
+the notion of deterrence assumes. It generally happens through ignorance, incompetence or 
+oversight, none of them states of mind which are normally associated with reflection upon the 
+possible consequences. On the roads, which is where the great majority of personal injuries occur, 
+a collision is just as likely to injure the negligent driver himself as other road-users. Yet for all that, 
+personal injuries sustained in road accidents have risen inexorably. 
+ 
+10 
+ 
+The deterrence theory has more to be said for it at what one might call the procedural level. The 
+designer of a safety procedure or a product is deliberately applying his mind to the question of 
+safety. But even here, any deterrent effect is heavily diluted by the availability of liability insurance, 
+which is compulsory in the case of liability to employees and normal in the case of product liability. 
+The evidence tends to suggest that the prospect of liability in tort achieves nothing that would not 
+be achieved anyway by the prospect of reputational damage or criminal sanctions. Criminal 
+sanctions are now more widely enacted and more efficiently enforced. They are also, as a general 
+rule, uninsurable. All the survey evidence tends to suggest that as a way of educating those whose 
+job it is to design for safety, they are a great deal more persuasive than the law of tort. 
+ 
+I suspect that the main reason why most people instinctively approve of the fault principle has 
+nothing to do with utilitarian considerations of this kind. The law is generally sensitive to 
+considerations of economic efficiency, although judges rarely acknowledge the fact. But one area 
+which has been more or less impervious to considerations of economic efficiency is the legal 
+right to bodily integrity. It is a right founded on profound cultural instincts. Questions of cost 
+tend to seem trivial by comparison. The debate about compensation culture really turns on 
+complex cultural issues about moral responsibility and blame which have very little to do with 
+economic efficiency. The public’s view is based on two simple moral judgments. One is that he 
+who causes physical injury must make it good financially. The other is that it is a proper function 
+of the courts to find facts and distribute blame, simply as a satisfaction for victims or their 
+relatives. 
+ 
+Personally, I would question whether there really is a moral case for imposing liability in damages 
+on the ground of negligence. One might perhaps make an exception for professional failures where 
+the Defendant has undertaken to exercise an appropriate measure of care and the relationship with 
+the victim, although not actually contractual, is equivalent to contract. Except in that situation, 
+negligence is not morally culpable. It is a normal feature of human behaviour. This is not the place 
+and 6.40 in the evening is certainly not the time to embark on a profound survey of corrective or 
+distributive justice. I will only say this. I can imagine a moral case for imposing an absolute liability 
+on those who cause physical damage to others, simply on the ground that they are the agents of 
+some invasion of the victim’s physical integrity. That was the basis of the more limited and now 
+largely redundant tort of trespass to the person. I can also imagine a moral case for imposing 
+liability on those who intentionally or recklessly cause physical damage to others. But liability for 
+11 
+ 
+negligence does not depend on a person’s mere infliction of damage, nor on his state of mind. It 
+depends on his falling below some objective standard of conduct to which he has not usually 
+assented, but which the law imposes upon him. It seems to me that the only possible justification 
+for the law doing that is its social utility. Yet the arbitrary results and incomplete coverage of a 
+fault-based system, combined with its prodigious cost and unwelcome side-effects, seriously 
+undermine the social utility of the law of tort as a way of dealing with personal injury. 
+ 
+To some extent, we are already moving towards a system of strict liability, or at any rate of 
+stricter liability. This has been the tendency of legislation on the subject for some years. Thus 
+strict liability is in principle imposed by the Animals Act for physical injury done by animals and 
+by the Consumer Protection Act for injury done by defective products offered for sale 
+commercially. There are special defences in each case, but they are narrowly framed and even 
+more narrowly construed. Such legislation seems to me to be a perfectly reasonable response to 
+the general availability and widespread use of liability insurance in these classes of case. It would 
+probably have made litigation like thalidomide a great deal easier to resolve, had it been in force 
+at the time. 
+ 
+My own experience, and perhaps yours too, is that even in areas where traditional notions of fault 
+prevail in theory, the courts have in practice moved noticeably closer to strict liability, albeit very 
+gradually and without acknowledging that they are doing it. This is because the whole forensic 
+process of attributing fault is inherently biased in favour of the Claimant. Once it is established 
+that something has gone wrong that was caused by the Defendant’s act, it can be very difficult to 
+persuade a judge that it wasn’t the Defendant’s fault. The law determines the standard of care 
+which it imposes on individuals in advance. But the court finds fault in arrears with all the forensic 
+advantages of hindsight. The evidence will commonly reconstruct the exact chain of causation by 
+which the injury occurred, starting from the injury and working backwards to the act. But the judge 
+finding fault, looks at the chain from the other end, starting with the Defendant’s act. The outcome 
+seems obvious. What actually has happened was always going to happen. And what was always 
+going to happen should have been obvious to the reasonable man, even if it wasn’t at all obvious 
+to the particular Defendant. The whole forensic process lends a spurious clarity and inevitability 
+to a chain of events that actually a lot less straightforward. The result may be very like strict liability, 
+but it is strict liability with most of the uncertainty and all of the costs associated with a fault-based 
+system. 
+12 
+ 
+ 
+It will by now be apparent that I am not a great admirer of our current system of distributing 
+liability according to fault. But, and this is where the title of my lecture is misleading, I have no 
+doubt that it will survive. There are at least three reasons why it will survive. 
+ 
+In the first place the only obvious alternative is a system of fault-free compensation funded either 
+from taxation or by compulsory insurance. This would be a great deal less wasteful, because it 
+would reduce the proportion of the cost of settling personal injury claims represented by 
+investigatory and legal costs. But the additional coverage involved in dispensing with fault would 
+enormously increase the overall cost. The New Zealand example is said to have been accepted by 
+public opinion there, but it has not been adopted in a single other common law country. The 
+second reason why fault will survive as the essential criterion for compensation is the phenomenon 
+so familiar to economists of concentrated benefits but diffused costs. The hardships and costs 
+associated with grave disabilities are visible and for those affected catastrophic; while the costs are 
+subtle, indirect and thinly spread across the whole population. The one area where the public feels 
+the cost directly is motor accidents. Annual motor premiums are a significant item in family 
+budgets and we all notice when they have gone up. That no doubt accounts for the fact that 
+government initiatives in this area have been concentrated in the motor sector. The third and 
+perhaps most significant reason why it will survive is that it responds to widespread public notions 
+about personal responsibility and the proper function of law. I do not myself share these notions, 
+but I am in a minority on this. It is fundamental to my conception of the judicial function, that I 
+do not sit just to give effect to my personal moral preferences. 
+ 
+My prediction would be that fault will remain the touchstone of our law of personal injuries, but 
+that the principle will be eroded at the edges by statutory intervention from one end and judicial 
+hindsight from the other. The result will be to increase the overall cost of personal injury claims 
+and, I suspect to provoke a legislative reaction as mounting insurance premiums and pressures 
+on the NHS budget lead to calls to control the costs. The outcome is likely to be the abolition of 
+the principle of full indemnity and its replacement by a statutory measure of damages with a view 
+to achieving a better balance between public and private interests. 
+ 
+13 
+ 
+I would expect this to take two forms. One is the imposition of value thresholds on personal injury 
+claims, with a view to eliminating small claims. Small claims account for the great majority of claims 
+and are disproportionately costly and cumbersome to administer. The second will be the capping 
+or abolition of certain heads of loss. There is a case for abolishing damages for non-pecuniary 
+losses, or at least limiting it to long-term pain and suffering and loss of amenity. There is a case 
+for limiting damages for loss of earnings to the amount necessary to support a reasonable standard 
+of living, rather than the superior standard of living which the richest accident victims might have 
+expected if they had not been injured. To some extent these things are already happening. 
+Successive decisions of the Supreme Court of Canada have limited the scope for large awards of 
+non-pecuniary loss. The same trend is observable in the Judicial College guidelines in this country. 
+In New South Wales liability thresholds and caps on awards for loss of earnings were adopted for 
+motor accidents by legislation enacted in 1999, and extended to other personal injury claims in 
+2002.  The British government’s current proposals appear to envisage a rather similar system of 
+thresholds and caps for whiplash injuries. It is I think significant, and indicative of the direction of 
+travel, that the New South Wales legislation followed large and unpopular increases in insurance 
+premiums. But it is also right to point out that it was accompanied by other measures making 
+altogether more generous statutory provision for certain categories of victim than anything that 
+has so far been contemplated in the United Kingdom. The statutory damages scheme for motor 
+accidents extends in New South Wales to personal injuries occurring without fault. Moreover, 
+since 2006 there has been a generous statutory scheme for compensating those suffering from 
+personal injuries involving long-term care. Looking after the principal losers may be the price to 
+be paid for limiting the generality of accident claims. 
+ 
+What all of this means is that the officers of this association can rest easy in their seats. It is likely 
+to be needed for a considerable time to come. 
+ 

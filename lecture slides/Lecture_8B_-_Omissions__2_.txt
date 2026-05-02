@@ -1,0 +1,363 @@
+LAW OF TORT
+Omissions (2)
+LAW OF TORT
+3. The General Approach 
+for Public Authorities
+LAW OF TORT
+Uniform v policy 
+approach
+Uniform approach: public bodies do not owe a duty of care 
+for omissions unless private person in the same 
+circumstances would
+Policy approach: the rule for public bodies is diﬀerent than 
+for private persons, because there are special policy factors 
+in play
+LAW OF TORT
+History: the policy 
+approach
+Historically the Crown (and thus public bodies) could not 
+be sued.
+This changed in the late 1800s.
+But the basic idea continued to exert some inﬂuence on the 
+law for some time after…
+LAW OF TORT
+History: the policy 
+approach
+The idea that the liability of public bodies depends on policy 
+questions was rooted in the two-stage test from Anns v Merton 
+LBC (1978)
+It was re-enforced by X v Bedfordshire CC (1995), where the 
+Court thought that public bodies ought generally to be left to 
+their own devices without the threat of being sued, as a matter 
+of policy
+Courts were worried about: (i) diverting funds from public 
+services; (ii) ‘defensive’ practices emerging; (iii) taking up the 
+time of public bodies
+LAW OF TORT
+Modernity: the uniform 
+approach wins
+“Robinson ... conﬁrmed, following Michael and numerous 
+older authorities, that public authorities are generally subject 
+to the same general principles of the law of negligence as 
+private individuals and bodies, except to the extent that 
+legislation requires a departure from those principles. That is 
+the basic premise of the consequent framework for 
+determining the existence or non-existence of a duty of care 
+on the part of a public authority.” 
+(Lord Reed, N v Poole BC, [64])
+LAW OF TORT
+4. The Development of the 
+Modern Approach for Public 
+Authorities
+LAW OF TORT
+Stovin v Wise [1996] AC 
+923 
+Facts:
+C, a motorcyclist, collided with D, driving a car, at a junction.
+The junction was hazardous and a bank of earth obstructed D’s view. 
+The local authority had the power to ensure the bank of earth was moved, and 
+had asked the landowner (British Rail) to do so. 
+However, the landowner did not respond, and the local authority had not 
+followed up.
+Held:
+The local authority had no duty of care here.
+LAW OF TORT
+Stovin v Wise [1996] AC 
+923 
+Omissions and public bodies
+“It is one thing for the law to say that a person who undertakes some 
+activity shall take reasonable care not to cause damage to others. It is 
+another thing for the law to require that a person who is doing nothing in 
+particular shall take steps to prevent another from suﬀering harm from the 
+acts of third parties … or natural causes.”
+“Mr. Stovin's injuries were not caused by the negotiations between the 
+council and British Rail or anything else which the council did. So far as 
+the council was held responsible [in the lower courts], it was because it 
+had done nothing to improve the visibility at the junction.”
+(Lord Hoﬀmann, p.943 & p.945)
+LAW OF TORT
+Stovin v Wise [1996] AC 
+923 
+Omissions and public bodies
+“It is certainly true that some of the arguments against liability 
+for omissions do not apply to public bodies like a highway 
+authority. … But this does not mean that the distinction 
+between acts and omissions is irrelevant to the duties of a 
+public body …”
+“a public body is in principle liable for torts in the same way as 
+a private person. But its statutory powers or duties may restrict 
+its liability.”
+(Lord Hoﬀmann, p.946)
+LAW OF TORT
+Stovin v Wise [1996] AC 
+923 
+Statutory obligation to act ≠ tort duty to act
+“the minimum preconditions for basing a duty of care upon the existence 
+of a statutory power, if it can be done at all, are:
+ﬁrst, that it would in the circumstances have been irrational 
+not 
+to have exercised the power, so that there was in eﬀect 
+a public law 
+duty to act, and 
+secondly, that there are exceptional grounds for holding that the 
+policy of the statute requires compensation to be 
+paid to persons who 
+suﬀer loss because the power was not 
+exercised.”
+(Lord Hoﬀmann, p.953)
+LAW OF TORT
+Stovin v Wise [1996] AC 
+923 
+Two conditions not satisﬁed
+“It seems to me … that the question of whether anything should be 
+done about the junction was at all times ﬁrmly within the area of the 
+council's discretion. As they were therefore not under a public law 
+duty to do the work, the ﬁrst condition for the imposition of a duty 
+of care was not satisﬁed.”
+“I do not think that there are any grounds upon which it can be said 
+that the public law duty should give rise to an obligation to 
+compensate persons who have suﬀered loss because it was not 
+performed. There is no question here of reliance on the council 
+having improved the junction.”
+(Lord Hoﬀmann, p.957)
+LAW OF TORT
+Gorringe v Calderdale 
+Metropolitan BC [2004] 1 WLR 
+1057
+Facts:
+Local council failed to repaint ‘SLOW’ sign on the crest of a hill.
+C drove over the hill and collided with a bus on the other side.
+Section 39 of the Road Traﬃc Act 1988 imposes a duty on highway 
+authorities to prepare and carry out a programme of measures 
+designed to promote and improve road safety.
+Held:
+No tort duty on the council to repaint the sign.
+LAW OF TORT
+Gorringe v Calderdale 
+Metropolitan BC [2004] 1 WLR 
+1057
+Statutory obligation to act ≠ tort duty to act
+“I ﬁnd it diﬃcult to imagine a case in which a common law 
+duty can be founded simply upon the failure (however 
+irrational) to provide some beneﬁt which a public authority 
+has power (or a public law duty) to provide.” (Lord 
+Hoﬀmann, [32])
+“In my opinion, if a statutory duty does not give rise to a 
+private right to sue for breach, the duty cannot create a duty of 
+care that would not have been owed at common law if the 
+statute were not there.” (Lord Scott, [71])
+LAW OF TORT
+Gorringe v Calderdale 
+Metropolitan BC [2004] 1 WLR 
+1057
+Failure to meet statutory duty = pure omission
+“common law liability … could not, in my opinion, ever arise 
+from a breach of section 39 except in circumstances where the 
+liability would have arisen independently of the section 39 
+duty. … Suppose a council does absolutely nothing and is in 
+ﬂagrant breach of its [s.39] duty. How could that omission ever 
+lead to a common law liability for failure to take some speciﬁc 
+road safety step? The statutory duty is an entirely general one. 
+It imposes a ‘target’ duty and no more than that. It cannot be 
+read as intending to create speciﬁc duties owed to individuals.” 
+(Lord Scott, [72])
+LAW OF TORT
+Michael v CC of S Wales 
+Police [2015] UKSC 2
+Facts:
+Ms Michael called the police at 2:29 am. She said that her ex-boyfriend had turned up at her 
+house in the middle of the night and had hit her. He had found her with another man. He had 
+gone to drive the other man home and said that when he came back he would hurt her.
+The police graded the priority of the call as ‘G2’. This meant that oﬃcers assigned to the case 
+should respond to the call within 60 minutes.
+At 2:43 am she called again. She screamed and the line went dead.
+The police arrived at 2:51 am. She had been stabbed many times and was dead.
+Held:
+The police owed no duty of care (5-2 result)
+LAW OF TORT
+Michael v CC of S Wales 
+Police [2015] UKSC 2
+Lord Toulson (majority)
+“the common law does not generally impose liability for pure 
+omissions” [97]
+“It does not follow from the setting up of a protective system 
+from public resources that if it fails to achieve its purpose, 
+through organisational defects or fault on the part of an 
+individual, the public at large should bear the additional 
+burden of compensating a victim for harm caused by the 
+actions of a third party for whose behaviour the state is not 
+responsible.” [114]
+LAW OF TORT
+Michael v CC of S Wales 
+Police [2015] UKSC 2
+Lord Toulson (majority)
+“[C’s counsel] submitted that what was said by the … call 
+handler who received Ms Michael’s 999 call was arguably 
+suﬃcient to give rise to an assumption of responsibility on the 
+Hedley Byrne principle … [T]he argument is not tenable. The only 
+assurance which the call handler gave to Ms Michael was that she 
+would pass on the call to the South Wales Police. She gave no 
+promise how quickly they would respond. … The case is very 
+diﬀerent from Kent v Griﬀths …where the call handler gave 
+misleading assurances that an ambulance would be arriving 
+shortly.” [138]
+LAW OF TORT
+Michael v CC of S Wales 
+Police [2015] UKSC 2
+Lord Kerr (dissent)
+“Should someone in a vulnerable state, fearing imminent attack, who believes 
+that an assurance of timeous assistance has been made when, through 
+negligence on the part of the police, that impression has been wrongly created, 
+be treated diﬀerently from another who has in fact received an explicit 
+assurance of immediate help, if both have relied on what they believed to be a 
+clear promise that police would attend and avert the apprehended danger?” 
+[165]
+“the notion that [the necessary proximity] can only arise where there has been 
+an express assumption of responsibility by unambiguous undertakings on the 
+part of the police and explicit reliance on those by the claimant or victim is not 
+only arbitrary, it fails to reﬂect the practical realities of life.” [167]
+LAW OF TORT
+Robinson v CC of West 
+Yorkshire [2018] UKSC 4
+Uniform approach
+“[P]ublic authorities are generally subject to the same liabilities in tort 
+as private individuals and bodies. …[I]f conduct would be tortious if 
+committed by a private person or body, it is generally equally tortious if 
+committed by a public authority. … On the other hand, public 
+authorities, like private individuals and bodies, are generally under no 
+duty of care to prevent the occurrence of harm. … In the absence of 
+[special] circumstances … public authorities generally owe no duty of 
+care towards individuals to confer a beneﬁt upon them by protecting 
+them from harm, any more than would a private individual or body.” 
+(Lord Reed, [31-35])
+LAW OF TORT
+Robinson v CC of West 
+Yorkshire [2018] UKSC 4
+Uniform approach
+“Since [Gorringe], a public authority’s non-liability for the 
+consequences of an omission can generally be justiﬁed on the 
+basis that the omissions principle is a general principle of the 
+law of negligence, and the law of negligence generally 
+applies to public authorities in the same way that it applies 
+to private individuals and bodies.” 
+(Lord Reed, [31-35])
+LAW OF TORT
+N v Poole BC [2019] 
+UKSC 25
+Facts:
+Cs, who were children, were placed by the council next to a neighbour known to be 
+antisocial.
+They were harassed by the neighbour. The council took various measures, but did not 
+rehouse them, and the abuse continued.
+C, a child, developed psychiatric issues.
+Cs claimed the council should either have rehoused the family, or should have at least 
+moved the children. 
+Held:
+The council owed Cs no duty of care.
+LAW OF TORT
+N v Poole BC [2019] 
+UKSC 25
+Uniform approach
+1.
+“public authorities may owe a duty of care in circumstances where the principles 
+applicable to private individuals would impose such a duty, unless such a duty 
+would be inconsistent with … the legislation”
+2.
+“public authorities do not owe a duty of care at common law merely because 
+they have statutory powers or duties, even if, by exercising their statutory 
+functions, they could prevent a person from suﬀering harm”
+3.
+“public authorities can come under a common law duty to protect from harm in 
+circumstances where the principles applicable to private individuals or bodies 
+would impose such a duty, as for example where the authority has created the 
+source of danger or has assumed a responsibility to protect the claimant from 
+harm”
+(Lord Reed, [65])
+LAW OF TORT
+N v Poole BC [2019] 
+UKSC 25
+No assumption of responsibility in this case
+“The claim against the council is based … on an assumption of 
+responsibility … In the present case … the council’s investigating 
+and monitoring the claimants’ position did not involve the 
+provision of a service to them on which they or their mother 
+could be expected to rely. … Nor could it be said that the 
+claimants and their mother had entrusted their safety to the 
+council, or that the council had accepted that responsibility. Nor 
+had the council taken the claimants into its care, and thereby 
+assumed responsibility for their welfare.”
+(Lord Reed, [78-81])
+LAW OF TORT
+HXA & YXA v Surrey County 
+Council [2023] UKSC 52
+“the courts must decide whether there is a duty of care at 
+common law by applying to the public authority the same 
+principles that would be applied if the public authority 
+had been a private individual.” [87]
+“Our decisions in these appeals should remove any 
+conceivable doubt that lawyers may have had in 
+understanding the full impact of N v Poole.” [102]
+LAW OF TORT
+Tindall v CC of Thames Valley 
+Police [2024] UKSC 33
+“it is now ﬁrmly established (or reestablished) that the liability of 
+public authorities in the tort of negligence to pay compensation is 
+governed by the same principles that apply to private individuals. 
+Many public authorities - notably, protective and rescue services 
+such as the police force and ﬁre brigade - have statutory powers and 
+duties to protect the public from harm. But failure to do so, however 
+blameworthy, does not make the authority liable in the tort of 
+negligence to pay compensation to an injured person unless, 
+applying the same principles, a private individual would have been 
+so liable.”
+(Lords Leggatt and Burrows, [1])
+LAW OF TORT
+5. Case Studies
+LAW OF TORT
+Health warning re H&R
+H&R claim that the position is diﬀerent for diﬀerent public authorities
+They argue that a DoC is easier to establish for ambulance services, child 
+welfare services, and educational services (e.g. Kent v Griﬃths, Phelps v 
+Hillingdon, and Barrett v Enﬁeld)
+They argue that a DoC is harder to establish for other types of public 
+bodies (e.g. Robinson, Michael, N v Poole BC)
+Arguable that what really explains the diﬀerences is not the diﬀerent 
+types of public bodies in these cases, but rather the basic principle that 
+there is no liability for omissions apart from in exceptional 
+circumstances
+LAW OF TORT
+Capital and Counties plc v 
+Hampshire County Council [1997] 
+QB 1004
+3 cases: (i) ﬁre service arrived and negligently shut down 
+sprinkler system; (ii) ﬁre service failed to notice 
+smouldering ﬁre which resulted from an explosion; (iii) 
+ﬁre service failed to maintain hydrants and could not ﬁnd 
+others
+Result: ﬁre service owed a DoC in (i), but not in (ii) or (iii)
+LAW OF TORT
+Capital and Counties plc v 
+Hampshire County Council [1997] 
+QB 1004
+“the ﬁre brigade are not under a common law duty to 
+answer the call for help … If, therefore, they fail to turn up, 
+or fail to turn up in time, because they have carelessly 
+misunderstood the message, got lost on the way or run 
+into a tree, they are not liable.” (p.1030)
+“a ﬁre brigade does not [owe] … a duty of care merely by 
+attending at the ﬁre ground and ﬁghting the ﬁre; this is so, 
+even though the senior oﬃcer actually assumes control of 
+the ﬁre-ﬁghting operation.” (p.1038)
+LAW OF TORT
+Comparison of Kent and Capital 
+and Counties 
+H&R say that these cases show the ambulance service is 
+treated diﬀerently from the ﬁre service.
+But, arguably, that would be inconsistent with the idea in N v 
+Poole BC that all “public authorities are generally subject to 
+the same general principles of the law of negligence as 
+private individuals”.
+Better explanation (in my view): in Kent the call handler 
+gave speciﬁc assurances and so made things worse, but in 
+Capital and Counties the ﬁre service gave no such speciﬁc 
+assurances.

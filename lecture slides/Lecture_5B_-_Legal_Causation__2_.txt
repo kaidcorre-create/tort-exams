@@ -1,0 +1,261 @@
+LAW OF TORT
+Legal Causation (2)
+LAW OF TORT
+Topics in legal causation
+1. Remoteness of damage
+2. New intervening acts
+3. Supervening events
+4. ‘The scope of duty’ principle
+5. Coincidental harms
+LAW OF TORT
+3. Supervening Events
+LAW OF TORT
+Baker v Willoughby [1970] 
+AC 467
+Facts:
+D negligently injured C’s leg, forcing C to take another job.
+While working in the new job, but before the case came to trial, 
+burglars shot C in the same leg. 
+C’s leg then had to be amputated. 
+Held:
+D still liable.
+LAW OF TORT
+Jobling v Associated 
+Dairies Ltd [1982] AC 794
+Facts:
+C injured his back at work, reducing his earning capacity.
+Before the trial against his employer, C contracted an 
+unrelated back disease which rendered him completely 
+incapable of any work.
+Held:
+D not liable after the new disease hit. 
+LAW OF TORT
+Summary: supervening events 
+We can reconcile Baker and Jobling by adopting the rule that:
+later torts which negate an earlier tort’s damage, do not negate D1’s 
+liability; but,
+later natural events which negate an earlier tort’s damage, do negate D1’s 
+liability.
+BUT…maybe Baker is just wrong?
+“I can formulate no convincing juristic or logical principles supportive of 
+the decision of this House in Baker v Willoughby, and none were there 
+propounded.” (Lord Edmund-Davies in Jobling)
+LAW OF TORT
+4. The Scope of Duty 
+Principle
+LAW OF TORT
+The SAAMCO rule
+South Australia Asset Management Corp v York Montague 
+Ltd [1997] AC 191 (‘SAAMCO’)
+“Normally the law limits liability to those consequences [of 
+wrongful conduct] which are attributable to that which 
+made the act wrongful.”
+(Lord Hoﬀmann, [213])
+LAW OF TORT
+The SAAMCO rule
+“A mountaineer about to undertake a diﬃcult climb is 
+concerned about the ﬁtness of his knee. He goes to a doctor 
+who negligently makes a superﬁcial examination and 
+pronounces the knee ﬁt. The climber goes on the expedition, 
+which he would not have undertaken if the doctor had told him 
+the true state of his knee. He suﬀers an injury which is an 
+entirely foreseeable consequence of mountaineering but has 
+nothing to do with his knee. … [T]he doctor is not liable. The 
+injury has not been caused by the doctor's bad advice because 
+it would have occurred even if the advice had been correct.” 
+(Lord Hoﬀmann, [213]) 
+LAW OF TORT
+The SAAMCO rule
+Thus:
+the doctor would be liable if mountaineer falls while 
+climbing because his knee buckled, but
+would not be liable if the mountaineer gets hit by a falling 
+rock,
+even though he would never have gone on the expedition 
+had the doctor not been negligent.
+LAW OF TORT
+The SAAMCO rule
+“the focus should be on identifying the purpose to be served by the duty of care assumed by the 
+defendant”
+(Manchester Building Society v Grant Thornton UK LLP [2021] UKSC 20)
+In the mountaineer example, the purpose of the doctor’s advice was to certify that C’s knee was ﬁt 
+for purpose. So:
+D is liable for any losses which result from C’s knee not being ﬁt for purpose (inside the scope of 
+D’s duty),
+but D is not liable for other losses, even though his negligence is the cause (outside the scope of 
+D’s duty).
+LAW OF TORT
+Khan v Meadows [2021] 
+UKSC 21
+Facts:
+C asked D if she carried the gene for haemophilia so that 
+she could avoid having a haemophilic child. 
+D’s negligence left her with the impression she did not 
+and, in due course, her son was born.
+Her son suﬀered from severe haemophilia AND autism.
+C would not have had the baby if she knew she carried the 
+haemophilia gene.
+LAW OF TORT
+Khan v Meadows [2021] 
+UKSC 21
+Held:
+D only liable for the haemophilia, not the autism. 
+“the scope of duty question is answered by addressing the purpose 
+for which Ms Meadows obtained the service of the general medical 
+practitioners. She approached the general practice surgery for a 
+speciﬁc purpose. She wished to know if she was a carrier of the 
+haemophilia gene.  … Dr Khan owed her a duty to take reasonable 
+care to give accurate information or advice when advising her 
+whether or not she was a carrier of that gene. … The important point 
+is that the service was concerned with a speciﬁc risk, that is the risk 
+of giving birth to a child with haemophilia.” (Lords Hodge & Sales, 
+[67])
+LAW OF TORT
+Khan v Meadows [2021] 
+UKSC 21
+Lord Burrows
+“The purpose of the advice or information is of central 
+importance. The claimant had approached the general practice 
+surgery, as the defendant knew or ought to have known, for the 
+speciﬁc purpose of ascertaining whether or not she was a 
+carrier of haemophilia and hence what the impact of that 
+would be if she were to become pregnant. The purpose of the 
+advice or information was not to ascertain the general risks of 
+pregnancy, including the risk of autism.” [77(i)]
+LAW OF TORT
+Khan v Meadows [2021] 
+UKSC 21
+Lord Burrows
+“In the light of that purpose, it was fair and reasonable that 
+the risk of the child being born with haemophilia should be 
+allocated to the doctor; but that the risk of the child being 
+born with autism should be allocated to the mother.” [77(ii)]
+LAW OF TORT
+Khan v Meadows [2021] 
+UKSC 21
+Lord Burrows
+“If we ask the question, would the claimant have suﬀered the 
+same loss had the information/advice been true, the answer is 
+“yes” as regards the autism losses … but “no” as regards the 
+haemophiliac losses … This is because had the information/ 
+advice that the claimant was not a carrier of haemophilia been 
+correct, the claimant would still have given birth to an autistic 
+child but would not have given birth to a child with 
+haemophilia.” [77(iii)]
+LAW OF TORT
+Khan v Meadows [2021] 
+UKSC 21
+Lord Leggatt
+“The appeal turns on whether or not there was also a causal 
+connection between the fact that the claimant was carrying a 
+gene for haemophilia and the autism from which [the child] 
+suﬀers. That question is answered conclusively by the parties’ 
+agreement that the autism was not caused by his haemophilia 
+nor made more likely by it. It follows that the costs associated 
+with his autism are not within the scope of the defendant’s 
+duty of care.” [93]
+LAW OF TORT
+Is this diﬀerent from normal 
+remoteness?
+“if a particular kind of harm is not foreseeable then the risk of that harm occurring 
+cannot be one of the risks that made the defendant’s conduct negligent”.
+“[T]he underlying idea is a simple one. Unfortunately, however, that simplicity 
+has come to be obscured …: ﬁrst, because of the tendency to associate the principle 
+with a particular case which happened to concern professional advice [SAAMCO] 
+…; and, secondly, because of its framing not as an issue of remoteness but as one 
+concerned with ‘the scope of the defendant’s duty of care’”.
+“[T]he relationship between the ‘scope of duty’ question and the traditional 
+remoteness enquiry focused on foreseeability is obscure. …[I]t is not at all obvious 
+why both concepts are thought to be necessary”.
+(Nolan & Plunkett, ‘Keeping Negligence Simple’)
+LAW OF TORT
+5. Coincidental Harms
+LAW OF TORT
+Chester v Afshar [2005] 
+UKHL 41
+Facts:
+C had a history of back pain, and her surgeon, D, advised her 
+to have spinal surgery.
+D failed to disclose a 1% risk of serious nerve damage involved 
+in an operation. 
+The risk eventuated and harmed C. 
+C admitted that, had she been informed, she would have 
+sought advice and would have delayed having the operation, 
+not have avoided it altogether. 
+LAW OF TORT
+Chester v Afshar [2005] 
+UKHL 41
+Held:
+D fully liable
+Emphasis on the importance of the duty on doctors to 
+ensure patients can exercise choice over their own 
+behaviour. 
+Majority: Lords Steyn, Hope and Walker
+Minority: Lords Hoﬀmann and Bingham
+LAW OF TORT
+Chester v Afshar [2005] 
+UKHL 41
+The problem:
+Because C would have had the operation later anyway, D’s 
+negligence made no diﬀerence to the risks for her.
+SAAMCO rule: “the law limits liability to those 
+consequences which are attributable to that which made 
+the act wrongful”.
+The duty is to  protect the patient from risks they were 
+unwilling to accept – the damage is outside the scope of of 
+that duty, because this is not a risk C was unwilling to 
+accept.
+LAW OF TORT
+Chester v Afshar [2005] 
+UKHL 41
+The majority view:
+Informed consent
+The patient’s right to choose
+“[C’s] right of autonomy and dignity can and ought to be vindicated 
+by a narrow and modest departure from traditional causation 
+principles.” (Lord Steyn, [24])
+LAW OF TORT
+Chester v Afshar [2005] 
+UKHL 41
+The majority view:
+“To leave the patient who would ﬁnd the decision diﬃcult 
+without a remedy, as the normal approach to causation 
+would indicate, would render the duty useless in the cases 
+where it may be needed most. This would discriminate 
+against those who cannot honestly say that they would have 
+declined the operation once and for all if they had been 
+warned. I would ﬁnd that result unacceptable.” 
+(Lord Hope, [87])
+LAW OF TORT
+Chester v Afshar [2005] 
+UKHL 41
+The dissents:
+“In my opinion this argument is about as logical as saying 
+that if one had been told, on entering a casino, that the odds 
+on the number 7 coming up at roulette were only 1 in 37, one 
+would have gone away and come back next week or gone to 
+a diﬀerent casino. The question is whether one would have 
+taken the opportunity to avoid or reduce the risk, not 
+whether one would have changed the scenario in some 
+irrelevant detail.” (Lord Hoﬀmann, [30])
+LAW OF TORT
+Chester v Afshar [2005] 
+UKHL 41
+Criticism:
+In its rush to embrace the idea of informed consent and a 
+patient’s right to choose, the HoL undermined basic 
+principles of causation, and unjustly compensated C.
+Clark and Nolan argue that if the Court was serious about 
+patient autonomy, then it should have recognized autonomy 
+violations as actionable damage on their own! (Clark & 
+Nolan, ‘A Critique of Chester v Afshar’)
+Ripe to be overruled?
+LAW OF TORT
+Summary of legal causation
+1. Was the type of harm reasonably foreseeable?
+2. Was there an intervening act which was DIVU?
+3. Was there a supervening natural event?
+4. Was the damage suﬀered by C attributable to what made 
+D’s act wrongful?
+5. Is there a special reason to hold D liable for damage 
+outside the scope of their duty?

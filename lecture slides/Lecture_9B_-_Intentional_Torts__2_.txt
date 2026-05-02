@@ -1,0 +1,310 @@
+LAW OF TORT
+Intentional Torts 
+(2)
+LAW OF TORT
+Topics outline
+1. Introduction to intentional torts
+2. Battery
+3. Assault
+4. False Imprisonment
+5. Defences
+6. The tort in Wilkinson v Downton
+7. The Protection from Harassment Act 1997
+LAW OF TORT
+4. False Imprisonment
+LAW OF TORT
+False imprisonment
+‘D intentionally deprives C of their 
+liberty without lawful excuse’
+A. Intentional act
+B. Directness
+C. Complete restriction of liberty
+D. No lawful excuse
+LAW OF TORT
+A. Intentional act
+Iqbal v Prison Oﬃcers Association [2009] EWCA Civ 1312
+Facts
+C, a prisoner, sued D when prison guards unlawfully went 
+on strike which led to C being conﬁned to his cell all day. 
+Held
+No false imprisonment for three reasons: (i) no intention; 
+(ii) no ‘act’; and (iii) no directness.
+LAW OF TORT
+A. Intentional act
+Iqbal v Prison Oﬃcers Association [2009] EWCA Civ 1312
+“[F]alse imprisonment is diﬀerent from battery. … [W]ith 
+false imprisonment, the loss of liberty is the essence of the 
+tort and, in my view, the claimant must show not merely an 
+intentional act or omission … but also an intention to deprive 
+the claimant of his liberty.”
+(Smith LJ, [72])
+LAW OF TORT
+A. Intentional act
+Iqbal v Prison Oﬃcers Association [2009] EWCA Civ 1312
+“If a security guard in an oﬃce block locks the door to the 
+claimant's room believing that the claimant has gone home for 
+the night and not realising that he is in fact still inside the 
+room, he has committed a deliberate act. However, he did not 
+intend to conﬁne the claimant. He may well be guilty of 
+negligence because he did not check whether the room was 
+empty but he would not be guilty of the intentional tort of false 
+imprisonment.” 
+(Smith LJ, [72])
+LAW OF TORT
+A. Intentional act
+Iqbal v Prison Oﬃcers Association [2009] EWCA Civ 1312
+“the mere failure of the prison oﬃcers to work at the 
+prison, while it may have been a breach of their 
+employment contracts, involved no positive action on their 
+part.”(Neuberger LJ, [34])
+“the general rule that an omission or refusal to release the 
+claimant from conﬁnement will not amount to false 
+imprisonment” (Smith LJ, [61])
+LAW OF TORT
+B. Directness
+Davidson v Chief Constable of North Wales [1994] 2 All ER 597
+Facts
+D was a store detective, who wrongly thought Cs were stealing from the store.
+D called the police and Cs were arrested and held for 2 hours.
+Held
+Distinction between: (a) D who makes a complaint or report to a police oﬃcer, leaving 
+the latter to make up his mind whether to make an arrest and, (b) D who actually 
+instigates the arrest, instructing or authorising the police oﬃcer to act. → (a) is not 
+false imprisonment, but (b) is.
+Here, what D did was (a), so not false imprisonment.
+LAW OF TORT
+B. Directness
+Iqbal v Prison Oﬃcers Association [2009] EWCA Civ 1312
+“In the present case the prison oﬃcers simply withdrew their 
+labour, which did not directly lead to the claimant being conﬁned 
+in his cell … The strike may have caused, indeed foreseeably 
+caused, the governor to decide not to let the claimant out of his 
+cell … but that is a diﬀerent thing. … [I]t is equally true that it 
+must have appeared likely, indeed almost inevitable, to the 
+defendant store detective in the Davidson case … that, once she 
+laid credible information before a police constable that she had 
+just seen [C] shoplifting, the constable would arrest [C].”
+(Neuberger LJ, [27])
+LAW OF TORT
+C. Complete restriction of 
+liberty
+Bird v Jones [1845] 7 QB 742 
+Facts
+D had constructed a seating enclosure on a bridge and stationed policemen who prevented C 
+passing through the area for 30 minutes. 
+Held 
+No false imprisonment.
+‘A prison must have its boundaries large or narrow … it may be movable or ﬁxed, but a 
+boundary it must have’. 
+‘imprisonment is … a total restraint of the liberty of the person … and not a partial obstruction of 
+his will, whatever inconvenience it may bring on him’
+LAW OF TORT
+C. Complete restriction of 
+liberty
+Burton v Davies (1953) (Australia) 
+Facts
+D groped C in a speeding car.
+Held
+False imprisonment as it was too fast to safely get out.
+Just because there are technically means of escaping, it is still false 
+imprisonment if the means of escape is dangerous, inconvenient, or 
+unreasonable.
+LAW OF TORT
+C. Complete restriction of 
+liberty
+Herd v Weardale Steel Coke & Coal  [1915] AC 67
+Facts
+C refused to work because of what he saw as unsafe conditions 
+at the start of a mining shift. He wasn’t taken back up until 
+hours later. 
+Held
+No false imprisonment. C accepted as part of his contract that 
+he would be underground until the end of the shift. 
+LAW OF TORT
+C. Complete restriction of 
+liberty
+Robinson v Balmain New Ferry [1910] AC 295 
+Facts
+C paid to enter D’s wharf in order to use a ferry. He missed it. A sign by the 
+entry turnstile noted that there was a fee to exit in all events. Refusing to pay, 
+C was held until he forced his way out. 
+Held
+C had contracted that to avoid payment he would leave the wharf by a 
+diﬀerent route.
+No false imprisonment. 
+LAW OF TORT
+C. Complete restriction of 
+liberty
+Meering v Grahame-White Aviation (1920) 122 LT 44
+“a person could be imprisoned without his knowing it. I 
+think a person can be imprisoned while he is asleep, while he 
+is in a state of drunkenness, while he is unconscious, and 
+while he is a lunatic … Of course the damages might be 
+diminished and would be aﬀected by the question whether 
+he was conscious of it or not.” 
+(Atkin LJ, [53-54])
+LAW OF TORT
+D. No lawful excuse
+R (Lumba) v Secretary of State of the Home Department [2011] 
+UKSC 12 
+Facts
+C was detained after a prison sentence until a decision on their 
+deportation under an unpublished secret policy. 
+C sued for false imprisonment arguing that the secret policy 
+was illegal. 
+D argued that, in fact, C probably would have been detained 
+under a lawful policy anyway.
+LAW OF TORT
+D. No lawful excuse
+R (Lumba) v Secretary of State of the Home Department [2011] UKSC 
+12 
+Held
+1.
+The secret policy was unlawful as a matter of public law.
+2.
+Minor public law unlawfulness of detention ≠ false imprisonment.
+3.
+Serious public law unlawfulness of detention = false imprisonment.
+4.
+Here, the decision to detain was tainted by serious public law error. C 
+had been falsely imprisoned.
+5.
+However, the fact that C could have been lawfully detained under 
+another, lawful policy, meant C was only awarded nominal damages.
+LAW OF TORT
+5. Defences
+LAW OF TORT
+Defences
+A. Consent
+B. Necessity
+C. Self-defence 
+LAW OF TORT
+A. Consent
+Blake v Galloway [2004] 1 WLR 2844
+Facts
+C and D, teenagers, were engaging in some ‘horseplay’ throwing small 
+pieces of bark at one another. 
+C was injured and sued in battery. 
+Held
+C had impliedly consented to the battery by participating in the 
+‘horseplay’. 
+LAW OF TORT
+A. Consent
+Blake v Galloway [2004] 1 WLR 2844
+“In a sport which inevitably involves the risk of some physical 
+contact, the participants are taken impliedly to consent to those 
+contacts which can reasonably be expected to occur in the course 
+of the game, and to assume the risk of injury from such contacts. 
+Thus, for example, in the context of a ﬁght with ﬁsts, ordinarily 
+neither party has a cause of action for any injury suﬀered during 
+the ﬁght. But they do not assume ‘the risk of a savage blow out of 
+all proportion to the occasion.’” 
+(Dyson LJ, [21]) 
+LAW OF TORT
+A. Consent
+Chatterton v Gerson [1981] 1 All ER 257
+Facts
+C underwent an operation and suﬀered from a debilitating side eﬀect 
+of the operation. 
+C sued in battery, arguing that D had failed to tell her about the 
+inherent risks in the operation and so her consent was vitiated. 
+Held
+As she had generally understood the operation her consent was not 
+vitiated. 
+LAW OF TORT
+A. Consent
+Chatterton v Gerson [1981] 1 All ER 257
+“once the patient is informed in broad terms of the nature 
+of the procedure which is intended, and gives her consent, 
+that consent is real, and the cause of the action on which to 
+base a claim for failure to go into risks and implications is 
+negligence, not trespass [i.e. battery]”. (Bristow J, p.443)
+(Compare Montgomery v Lanarkshire – failure to inform C 
+of risks of medical treatment is a breach of duty in 
+negligence.)
+LAW OF TORT
+A. Consent
+Chatterton v Gerson [1981] 1 All ER 257
+“Of course if information is withheld in bad faith, the 
+consent will be vitiated by fraud. Of course if by some 
+accident, as in a case in the 1940's in the Salford Hundred 
+Court where a boy was admitted to hospital for tonsilectomy 
+and due to administrative error was circumcised instead, 
+trespass [i.e. battery] would be the appropriate cause of 
+action against the doctor… .”
+(Bristow J, p.443)
+LAW OF TORT
+B. Necessity
+F v West Berkshire Health Authority [1989] 2 AC 1
+Facts
+C was a patient  in a mental hospital who lacked capacity – 
+mental age of a child.
+C began a sexual relationship with another patient, and 
+hospital staﬀ and her mother feared she would become 
+pregnant, which she would be unable to handle.
+Her mother sought to have her sterilised. 
+LAW OF TORT
+B. Necessity
+F v West Berkshire Health Authority [1989] 2 AC 1
+Held
+C lacked capacity, and sterilisation was in her best 
+interests.
+It would not, therefore, be a battery for doctors to sterilise 
+C.
+LAW OF TORT
+B. Necessity
+F v West Berkshire Health Authority [1989] 2 AC 1
+“…the basic requirements, applicable in these cases of 
+necessity ...”
+(1)“a necessity to act when it is not practicable to communicate 
+with the assisted person, but also 
+(2)the action taken must be such as a reasonable person would in 
+all the circumstances take, acting in the best interests of the 
+assisted person.” 
+(Lord Goﬀ, [75])
+LAW OF TORT
+B. Necessity
+Mental Capacity Act 2005 
+s2(1)
+“a person lacks capacity in relation to a matter if at the material time he is unable to make a decision for 
+himself in relation to the matter because of an impairment of, or a disturbance in the functioning of, the 
+mind or brain.”
+s3(1)
+“For the purposes of section 2, a person is unable to make a decision for himself if he is unable—  
+(a) to understand the information relevant to the decision,  
+(b) to retain that information,  
+(c) to use or weigh that information as part of the process of making the decision, or  
+(d) to communicate his decision (whether by talking, using sign language or any 
+other means).”
+LAW OF TORT
+C. Self-defence
+Ashley v Chief Constable of Sussex [2008] UKHL 25
+Facts
+Cs were related to X, who had been shot dead by the police during a raid. 
+The oﬃcer had been criminally acquitted on the basis of self-defence as he 
+honestly believed himself to be at threat of attack from X. 
+Held
+In tort, D’s belief must not just be honest but also reasonable.
+D’s belief was not reasonable – so he was held liable in battery.
+LAW OF TORT
+C. Self-defence
+Ashley v Chief Constable of Sussex [2008] UKHL 25
+“It is one thing to say that if A’s mistaken belief was honestly 
+held he should not be punished by the criminal law. It would 
+be quite another to say that A’s unreasonably held mistaken 
+belief would be suﬃcient to justify the law in setting aside 
+B’s [civil] right not to be subjected to physical violence by 
+A.”
+(Lord Scott, [18])
+LAW OF TORT
+C. Self-defence
+D’s actions must be proportionate to the threat for the 
+defence to succeed.
+Compare:
+Cockcroft v Smith [1705] – C’s act of running with his ﬁnger 
+extended towards the D’s eyes did not justify D oﬀ part of 
+the ﬁnger!!
+Cross v Kirkby [2000] – Where D acts reasonably in self-
+defence, “the law does not require him to measure the 
+violence to be deployed with mathematical precision” 
+(Judge LJ, [90])

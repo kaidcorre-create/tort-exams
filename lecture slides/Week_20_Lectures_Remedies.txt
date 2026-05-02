@@ -1,0 +1,471 @@
+Remedies
+(Damages 
+and 
+Injunctions)
+LAW.224 Tort Law
+Week 20
+Lectures 39 & 40
+Dr Sarah Gilmartin
+s.gilmartin@lancaster.ac.uk 
+Aims of Week 20 Lectures 
+By the end of this week’s lectures:
+ You will understand the two main remedies available in tort;
+ You will understand distinctions between the different types of 
+remedy;
+ You will be able to determine which remedy is most appropriate in a 
+given circumstance; and
+ You will remember to always consider remedies in a problem 
+question!
+Damages and Injunctions
+Damages
+• Compensatory
+• Nominal
+• Aggravated
+• Exemplary
+• Vindicatory
+• Gain-Based 
+(Licence/Disgorgement)
+Injunctions
+• Prohibitive
+• Mandatory
+Compensatory Damages
+Compensatory Damages
+          General Damages
+Special 
+Damages
+        (Non-pecuniary loss)
+ (Pecuniary 
+loss)
+ 
+Pain, Suffering and Loss of 
+Amenity 
+(PSLA)
+Future Losses
+For example:
+Loss of Earnings
+Medical Expenses
+Travel Costs
+Care 
+(Formal/Informal)...
+Compensatory Damages – General 
+The aim of general damages is to:
+1.
+Put the C back in the position they would have been in but for the D’s wrong; and
+2.
+To compensate the C with a financial sum.
+Livingstone v The Rawyards Coal Company (1880) 5 App. Cas. 25, 39 per Lord 
+Blackburn: 
+It is ‘a general rule that, where any injury is to be compensated by damages, in settling the 
+sum of money to be given for reparation of damages you should as nearly as possible get at 
+that sum of money which will put the party who has been injured, or who has suffered, in the 
+same position as he would have been in if he had not sustained the wrong’.
+Consider: Can a financial award fully compensate for the loss?
+Compensatory Damages – 
+Awareness? 
+Wise v Kaye [1962] 1 Q.B. 638
+‘No claim for pain and suffering has 
+arisen here in any form for, it would 
+seem mercifully, the C has remained 
+unconscious.’ 
+(Sellers LJ, 649)
+S 1(1)(b) Administration of Justice Act 
+1982
+‘if the injured person’s expectation of life 
+has been reduced...the court, in assessing 
+damages in respect of pain and 
+suffering...shall take account of any 
+suffering caused or likely to be caused to 
+him by awareness that his expectation of life
+H West & Son Ltd v Shephard [1964] AC 326
+‘An unconscious person will be spared pain and 
+suffering and will not experience the mental 
+anguish which may result from knowledge of 
+what has in life been lost or from knowledge that 
+life has been shortened. The fact of 
+unconsciousness is therefore relevant in respect 
+of and will eliminate those heads or elements of 
+damage which can only exist by being felt or 
+thought or experienced. The fact of 
+unconsciousness does not, however, eliminate the 
+actuality of the deprivations of the ordinary 
+experiences and amenities of life which may be 
+the inevitable result of some physical injury.’
+(Lord Morris, 349)
+Compensatory Damages – Special
+The aim of special damages is to:
+1.
+Put the C back in the position they 
+would have been in but for the D’s 
+wrong; and
+2.
+To reimburse the C for any incurred 
+pecuniary losses; [and?]
+3.
+To compensate for any future 
+pecuniary/quantifiable losses (but also 
+future non-pecuniary losses).
+Performance Cars v Abraham [1962] 1 
+Q.B. 33: ‘The question, as I see it, is this: 
+What extra burden in the matter of 
+respraying was put upon the [Appellant] by 
+the second collision? To my mind the 
+answer must be: None, for the earlier 
+collision had already imposed the burden of 
+Dodd Properties Ltd. and Another v 
+Canterbury 
+City 
+Council 
+and 
+Others 
+[1980] 1 W.L.R. 433: ‘The general principle 
+is that damages must be assessed as at the 
+date when the damage occurs. It  is not, of 
+course, to be rigidly applied as a rule of 
+thumb...The damage may be concealed...or 
+not reasonably discoverable...until some time 
+after it has first appeared...Moreover, repairs 
+cannot usually be put in hand at once and at 
+prices...at 
+the 
+very 
+date 
+of 
+damage...Furthermore, 
+the 
+nature 
+and 
+circumstances of the damage may be such 
+that it would be imprudent and possibly 
+wasteful to begin the work before waiting 
+longer to ensure that no further damage is 
+going to develop from the same cause....The 
+appropriate damages are the cost of repairs at 
+the time when it was reasonable to begin 
+repairs.’ (Cantley J, 444)
+Informal 
+Care
+Compensatory Damages – Calculating (not 
+assessed)
+Q: How do we calculate PSLA?
+        JCG (17th edn.) Example Segment – Ankle Injuries:
+A: i) Judicial College Guidelines; and
+        
+     ii) Precedent (Kemp & Kemp: 
+     Quantum of Damages).
+Q: How do we calculate special 
+damages (past losses)?
+A: With evidence (receipts/statements etc.)
+Q: How do we calculate future losses?
+A: Varies – with evidence (quotations), but re: 
+long-term losses – multiplier/multiplicand 
+(Ogden Tables)
+Valuing a 
+claim: Not 
+an exact 
+science, but 
+a skill gained 
+in practice.
+N.B. This 
+page is 
+information 
+only. You 
+are not 
+assessed on 
+this and will 
+never have 
+sufÏcient 
+information 
+to value a 
+claim, and 
+therefore 
+you do not 
+get marks 
+for trying to 
+do so.
+An Update re: “Lost Years”
+See Chapter 21 at 21.3.1, p. 641-642
+•
+Your textbook makes reference to the case of CCC v ShefÏeld Teaching Hospitals NHS 
+Foundation Trust [2023] EWHC 1770 and that an appeal has been made to the Supreme 
+Court.
+•
+We now have that judgment (18 February 2026): CCC (by her mother and litigation 
+friend MMM) (Appellant) v ShefÏeld Teaching Hospitals NHS Foundation Trust 
+(Respondent) [2026] UKSC 5.
+•
+Facts: Life expectancy of 
+infant Claimant reduced due 
+to harm caused by 
+Defendant’s admitted 
+negligence at birth.
+•
+Issue: Could a Claimant so 
+young recover for losses 
+within their “lost years” (i.e. 
+average life expectancy less 
+current life expectancy)?
+•
+Historically: 
+Croke v Wiseman [1982] 1 WLR 71 said no 
+recovery for infant claimants
+Recovery has always been possible for 
+adults/adolescents where life expectancy reduced
+•
+Judgment:
+Croke overruled
+In a 4:1 decision 
+Claimant in CCC v ShefÏeld can recover for “lost 
+years” 
+Compensatory Damages – 
+Deductions
+Other income/support whilst 
+injured, for example:
+NHS (Compensation Recovery 
+Unit)
+Social Security Benefits (CRU)
+Charity
+Insurance
+Sick Pay…
+Also note and do not forget that the 
+C has a duty to mitigate their 
+losses!
+3 ways to make deductions:
+1. Make D liable only for the actual losses suffered 
+by C, deducting benefits received – but this 
+effectively subsidises the D… 
+2. Ignore other benefits and make D fully liable – but 
+this 
+means 
+accepting 
+that 
+C 
+is 
+over-
+compensated… 
+3. Make D liable only for the actual losses suffered 
+by C, but render D liable to repay all those who 
+supported C pre-trial… 
+(Paula Giliker, Tort (6th edn, Sweet & Maxwell 2017), 
+1086)
+How are damages paid?
+• Lump sum
+• Periodical payment
+• Structured settlement
+N.B. Settlements on behalf of infants (Civil Procedure Rules, Part 21 – Rule 21.10):
+(1) Where a claim is made by or on behalf of a child or protected party ... no settlement, compromise or 
+payment ... shall be valid, so far as it relates to the claim by ... the child or protected party, without the approval 
+of the court ....
+(3) The documents supporting any application or request for approval must include [some of the following, and 
+by way of example]:
+• details of liability agreement;
+• legal opinion on quantum of damages; and
+• medical evidence.
+Rule 21.11: If the settlement is approved the damages are paid into the Court Funds OfÏce until the child 
+reaches the age of eighteen years
+Consider Types of Damage 
+Available…
+(a) Pete is left permanently unconscious after a car accident. His life expectancy 
+is reduced from 25 to 5 years. He has no awareness of his predicament.  
+(b) In a car accident, Aisha, who earns £1 million a year, and Chris, who earns 
+£16,000 a year, both lose their right leg. Aisha is able to return to work, but Chris is 
+not.  
+(c) Claudine suffers a knock to her head at work as a result of an unsafe workplace 
+and becomes colour blind. Her hobby before the accident was to collect and 
+appreciate modern art, she can no longer continue with this hobby.  
+Fatal and Near Fatal Accidents: 
+Reasoning behind recoverability
+Wise v Kaye [1962] 1 Q.B. 638
+‘...I would myself think that damages for death must necessarily be assessed 
+upon a different basis from the damages to a person who continues to live. But it 
+would, I think, be a very great slur upon the law, if the complete doctrine is that it 
+is cheapest to kill but if you cannot kill then reduce damages by injuring him so 
+severely that it is most improbable that he can personally use the damages.’ 
+(659 per Upjohn LJ)
+Actions on Death
+Survival Actions
+Law Reform 
+(Miscellaneous 
+Provisions) Act 1934
+C’s right to sue D survives for 
+the benefit of the C’s estate
+The C’s estate then sues for 
+the losses sustained by the C 
+up to the date of death
+Fatal Accident Actions
+Fatal Accidents Act 1976 
+3 rights of action for C’s dependants (defined by s 1(3) – 
+spouse/cohabitant/child/parent...) where the tort caused 
+the death:
+(i) Loss of support
+(ii) Bereavement…(s 1A - £15,120 – spouse/cohabitant or 
+parent if C a minor – see Damages for Bereavement 
+(Variation of Sum) (England and Wales) Order 2020)
+(iii)Funeral expenses
+S 4, 1976 Act: A person can sue under both the 1934 and 1976 Acts where they are not just a 
+dependant (1976 Act) but also represent the estate (1934 Act)
+Note: This is not double damages because the 1934 Act only allows for claims the deceased may 
+have made in respect of what he/she lost up to death.
+1934 Act – Action by the C’s 
+estate
+• 1934 Act does not give the estate a cause of action for the death itself
+• The estate may pursue actions existing at the time of the C’s death
+• Damages for pecuniary and non-pecuniary losses up to the date of death may be recovered 
+under the 1934 Act
+• Hicks v Chief Constable of the South Yorkshire Police [1992] 2 All ER 65: 
+No sum awarded if death is instantaneous or quick
+‘...[no] physical injury was caused before the fatal crushing injury...fear of impending death 
+felt by the victim of a fatal injury before that injury is inflicted cannot by itself give rise to a 
+cause of action which survives for the benefit of the victim’s estate.’ (per Lord Bridge, 69)
+Note this distinction: ‘if the injured person’s expectation of life has been reduced by the 
+injuries, the court, in assessing damages in respect of pain and suffering caused by the 
+injuries, shall take account of any suffering caused or likely to be caused to him by 
+awareness that his expectation of life has been so reduced.’ (s 1(1)(b), Administration of 
+Justice Act 1982)
+1976 Act – Action by the C’s 
+dependants
+• S 1: Hybrid action – action of the dependants, but relies on the fact that the C could 
+have sued the D
+•  2 requirements for bringing an action: 
+o C must be a “dependant” within s.1(3) – includes et al spouse/civil 
+partner/cohabitant/parent/child; and
+o C must have been financially dependent on the deceased
+• Note: restrictions on claims for bereavement damages (s 1A) - 
+• spouse/civil partner/cohabitant or parent if C a minor
+Examples
+Q
+Yes/No
+Authority?
+Can unconscious C claim for pain and suffering?
+No
+Wise v Kay
+Can unconscious C claim for loss of amenity?
+Yes
+West v Shephard
+Can C claim for the awareness of shortened life expectancy?
+Yes
+S 1(1)(b) 
+Administration of 
+Justice Act 1982
+Does D have to compensate someone who helps C out of love?
+Yes
+Donnelly v Hunt
+Event
+Relevant 
+Statute?
+Possible claim?
+C dies after 10 months leaving widow and children. 
+1934 Act & 
+1976 Act
+Past losses to 
+death (non-
+pecuniary & 
+pecuniary) + Loss 
+of Support + 
+Bereavement + 
+Funeral
+C dies instantly leaving no dependants.  
+N/A
+N/A (See Hicks v 
+CC South 
+Yorkshire)
+C dies after 6 months leaving no dependants. 
+1934 Act
+Past losses to 
+death (non-
+i
+&
+Nominal Damages
+• No tangible harm
+• Only available in torts that are actionable per se 
+(trespass to land, trespass against the person, 
+rights-based nuisances (e.g. light))
+• Why claim nominal damages:
+a) Gateway to found a claim in other damages – 
+such as aggravated damages. You have to show 
+there has been a tort and some other remedy is 
+available in relation to it. 
+b) To clear one’s name or as a matter of right 
+(moral). 
+Constantine 
+v 
+Imperial 
+Hotels 
+[1944] KB 693
+c) To establish a right. White v Withers LLP 
+[2009] EWCA Civ 1122
+Aggravated Damages
+Rookes v Barnard  [1964] A.C. 1129
+1221 per Lord Devlin
+‘...it is very well established that in cases where the damages are at large the jury (or the 
+judge...) can take into account the motives and conduct of the D where they aggravate the 
+injury done to the C. There may be malevolence or spite or the manner of committing the 
+wrong may be such as to injure the C's proper feelings of dignity and pride. These are 
+matters which...[can be taken] into account in assessing the appropriate compensation. 
+Indeed, when one examines the cases in which large damages have been awarded for 
+conduct of this sort, it is not at all easy to say whether the idea of compensation or the idea 
+of punishment has prevailed.’
+Exemplary Damages (Punitive 
+Damages)
+Rookes v Barnard  [1964] A.C. 1129
+1226-227 per Lord Devlin:
+i.
+Oppressive, arbitrary or unconstitutional acts by government servants; 
+Thompson v Commissioner of Police for the Metropolis [1998] Q.B. 498
+ii.
+Defendant's conduct was calculated by him to make a profit for himself which might well 
+exceed the compensation payable to the plaintiff; and 
+Broome v Cassell & Co Ltd [1972] A.C. 1027
+iii.
+Expressly authorised by statute.
+See now: Kuddus v Chief Constable of Leicestershire Constabulary [2001] UKHL 29; and
+  Rees v Commissioner of Police of the Metropolis [2021] EWCA Civ 49
+Vindicatory Damages and/or Gain-Based 
+Damages
+Vindicatory Damages
+Should we have (more) of them to mark the infringement of fundamental rights (e.g. those 
+found in the HRA)?
+Lumba v Secretary of State for Home Department [2011] UKSC 12 
+• False imprisonment
+• 6/3 in favour of the Claimant
+Gain-Based Damages
+Are they vindicatory too?
+ 
+•
+Some in favour of vindicatory damages
+•
+We cannot say they are recoverable on the basis of this 
+decision
+•
+But we have...
+Licence fee damages/Disgorgement damages (e.g. in trespass to 
+land protruding signs into C’s air space which D uses to advertise – 
+see: Morris-Garner v One Step (Support) Ltd [2019] A.C. 
+Injunctions
+1.
+Prohibitive – orders D not to act in a certain way (to stop the D doing 
+something)
+2.
+Mandatory – orders D to act in a certain way (to compel the D to do 
+something)
+ A remedy on its own or in conjunction with damages
+ No injunction in negligence
+Additional Reading
+• J Murphy, ‘The Nature and Domain of Aggravated Damages’ 
+(2010) Vol 69(2) Cambridge Law Journal 353-377
+• J Goudkamp and E Katsampouka, ‘Punitive Damages and the 
+Place of Punishment in Private Law’ (2021) 84(6) Modern Law 
+Review 1257-1293
+• N Cooksley ‘Personal injury: damages – fatal accidents – scope of 
+s.4 Fatal Accidents Act 1976’ (2009) Vol 1 Journal of Personal 
+Injury Law 28-30
+• J Murphy, ‘Rethinking Injunctions in Tort Law’ (2007) Vol 27(3) 
+Oxford Journal of Legal Studies 509-535
+Remedies
+(Damages and 
+Injunctions)
+End Slide
+LAW.224 Tort Law
+Week 20
+Lectures 39 & 40
+Dr Sarah Gilmartin
+s.gilmartin@lancaster.ac.uk 

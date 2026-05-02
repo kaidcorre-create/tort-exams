@@ -1,0 +1,2372 @@
+18. Trespass to land and nuisance
+Page 1 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Tort Law (9th edn)
+Kirsty Horsey and Erika Rackley
+18. Trespass to land and nuisance
+Kirsty Horsey and Erika Rackley
+https://doi.org/10.1093/he/9780198925231.003.0018
+Published in print: 15 August 2025
+Published online: August 2025
+Abstract
+This chapter examines torts of trespass to land and nuisance. Trespass to land is concerned with direct harm, and the tort’s 
+primary importance is the protection of property rights. Harm in this context does not necessarily mean actual damage to the 
+land concerned. The harm lies in the fact that land owned by one party has been unjustifiably interfered with by another. 
+Private nuisance deals with indirect and unreasonable interferences to land, including what might be called consequential 
+interferences resulting from a direct action. Private nuisance regulates relationships and conflicts between neighbours, 
+defining their mutual rights and obligations with respect to land use. Many aspects of the law of nuisance, including 
+determining whether an injunction or damages is the appropriate remedy, were clarified by the Supreme Court in Coventry v 
+Lawrence [2014].
+Keywords: 
+tort law, trespass to land, property rights, private nuisance, neighbours, Coventry v Lawrence, injunction
+Problem question
+Read this problem question carefully and keep it in mind while you are working through the 
+chapter that follows. At the end of the chapter you will be able to apply what you have learnt to the 
+problem question and advise the relevant parties.
+Lekan owns a large country estate in Rackhampton. He obtains planning permission to develop it as 
+an environmentally friendly residential adventure centre catering for stressed-out city executives. To 
+this end, he has constructed a network of ropes, ladders and bridges in the canopy of his woodland for 
+them to come and ‘Swing High’ from tree to tree. Unfortunately, misplaced marketing has led to most 
+of his customers being large, noisy groups of young people on stag and hen weekends.
+p. 539
+18. Trespass to land and nuisance
+Page 2 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(1)
+(2)
+(3)
+(4)
+→
+→
+→
+→
+→
+→
+Lekan also provides facilities for paintballing and a quad-bike cross-country course. In line with his 
+stated environmental policy, and with a permit from the local council, he has recently begun to use 
+large volumes of seaweed, collected from nearby beaches, as fertiliser for his large organic vegetable 
+patch. He has been encouraged to do so by his local council’s recycling officer, who is keen to stop 
+waste material going to landfill sites.
+Lekan receives the following complaints. Advise Lekan.
+Sarah, who lives downwind of Lekan’s estate, complains that the smell of the rotting seaweed 
+makes her physically sick.
+Dusty, a 14-year-old, lives on a neighbouring farm. He complains that the noise from the quad 
+bikes is causing his guinea pigs to miscarry their young.
+Jaipal, who, when she walks her dogs, parks her car in the Swing High car park, complains that 
+her car has, on a few occasions, been hit by stray paintballs.
+Adrienne complains that the ‘Swing High’ centre ‘lowers the tone of the neighbourhood’ and 
+that her back garden can be seen from the platforms in the trees, some of which protrude a 
+little over her garden fence.
+18.1  Introduction
+Consider the following examples:
+Christine does not like her neighbour’s overhanging tree, as it causes too much shade to fall on her 
+garden. As the neighbour refuses to prune it, Christine retaliates by having frequent late-night garden 
+parties through the summer months.
+Bakari runs a relaxation and meditation centre and complains that the noise from the dance studio on 
+the floor above him stops his customers relaxing properly.
+Juliet lives near an industrial estate which has grown in size since she moved there. She complains that 
+the noise of lorries delivering goods overnight keeps her awake.
+Dev, who grows organic roses, complains that his flowers are wilting due to toxic smoke being emitted 
+from a nearby factory.
+Lara complains that rats, which have infested the compost heap in her neighbour’s garden, keep 
+coming onto her property.
+Antony’s neighbour sweeps up leaves in his garden and piles them up near the adjoining fence. The pile 
+of leaves topples over and touches the fence. Some leaves are carried over the fence by a strong gust of 
+wind.
+p. 540
+18. Trespass to land and nuisance
+Page 3 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+→Ameera has a dinner party. Upon going upstairs to get a cardigan, she finds one of the guests in her 
+bedroom, looking in her wardrobe.
+These scenarios indicate situations where tort law might protect the interests of the land users involved. This 
+chapter considers the part the torts of trespass and nuisance play in the regulation of land use and touches on 
+the possible contribution that these torts could make to the protection of the environment. Specifically, we 
+will look in this chapter at trespass to land, private nuisance and—briefly—at public nuisance.1 The 
+subsequent chapter outlines what is known as the ‘tort’ or the rule in Rylands v Fletcher [1868]. All these torts 
+predate the tort of negligence. They are used to protect the claimant’s ability to use and enjoy their land freely 
+without unwanted and unwarranted interference by the defendant. This idea is distinct from negligence, 
+which seeks only to protect the individual from harm (including to land) that is inflicted carelessly. 
+Negligence is a conduct-based tort, but the land torts are primarily consequence-based (though in some 
+circumstances the courts take the conduct of the defendant into consideration). Fault plays a very limited 
+role; land torts are not organised in the ‘duty–breach–damage’ formulation that we are familiar with from 
+negligence and, as we shall see, nor has their exact relationship and/or overlap with the tort of negligence 
+ever been properly established.
+18.2  Trespass to land
+Trespass to land, like trespass to the person (Chapter 15), is concerned with direct harm. Its primary 
+importance is in the protection of property rights. When we refer to harm in this context, actual damage to 
+land is not necessary: as with trespass to the person, trespass to land is actionable per se (i.e. without proof of 
+damage). The harm lies in the fact that land owned by one party has been unjustifiably interfered with by 
+another.2 What constitutes unjust interference is a matter of debate. The most obvious is where someone 
+enters someone else’s land or property (or remains there) without permission, but there are other, less clear, 
+interferences, as we shall see.
+When we refer to land in this context, we mean not only what is commonly understood as land but also 
+things under it, built on it and even the airspace above it. To claim in trespass, the claimant must either own 
+or otherwise be in possession of the land (e.g. by being a tenant)—it is the fact of possession of the land in 
+question that is the legal interest protected. The interference must be direct—it must also be physical, in the 
+sense that something must have happened. A commonly used example is that of neighbouring homeowners 
+and overhanging plants. If I pruned a tree growing in my garden and threw the branches into yours, I would 
+commit trespass, as this is a direct action with a physical consequence (the branches land in your garden). 
+However, if you were unhappy simply because I did not prune the branches, so much so that they grew out 
+over your garden, this would be only an indirect and non-physical consequence, so would not usually be 
+trespass (although it may be trespass into airspace or otherwise actionable in private nuisance—see section 
+18.3).
+1
+p. 541
+2
+18. Trespass to land and nuisance
+Page 4 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+What is physical interference? This can be broken down into four categories, as in Table 18.1. As you will see 
+from the examples in the table, more things can be a trespass than you might have originally thought—and 
+possibly you have done many of these things without thinking.
+Table 18.1 Types of physical interference with land
+Nature of the interference
+Examples
+Crossing a boundary on to land
+Walking across a field or garden without permission
+Entering someone’s house or other premises without permission
+Putting an arm through a window or door without permission
+Machines, cranes or signs overhanging someone else’s property
+Remaining on land
+Not leaving property when asked to do so by the owner or occupier
+Going beyond what is permitted while on 
+someone’s land
+Dinner guests take a peek into the bedrooms without permission
+A shopper goes past a ‘no entry’ sign at the back of a supermarket
+Putting or placing objects on someone’s land
+Deliberately throwing items from one property onto another
+Cattle straying from one person’s land to another’s
+Allowing a dog to run across a private field
+Leaning a bicycle against the wall or window of someone’s property
+18.2.1  Intention
+A key element of trespass is intention—the act that constitutes the trespass must be intentional. However, it 
+is not the trespass that must be intended, merely the direct action (e.g. entry into a property) that resulted in 
+it. Put another way, it does not matter that you did not deliberately trespass on someone else’s property—if 
+you voluntarily took yourself there, you will have trespassed.3 In League Against Cruel Sports v Scott [1985], 
+hunting dogs strayed onto the claimant’s land (areas of Exmoor where there were wild deer sanctuaries)— 
+this amounted to a trespass.4 Here, the court avoided the fact that there was no actual intention to allow the 
+dogs onto the land by saying that persistently and frequently holding hunts alongside the land, when there 
+was no means of preventing the dogs from straying, could be seen as an implied intention to trespass. 
+Therefore, because it is the act that must be intentional, rather than the actual trespass, some trespasses can 
+be committed accidentally, or make what would otherwise seem to be innocent use of land a trespass.
+This is evident in ‘airspace’ trespass cases. When does something entering the space above one’s land amount 
+to a trespass to land owned or occupied by the claimant? In Laiqat v Majid [2005], an extractor fan on the 
+defendant’s land was found to be a trespass—it protruded over the claimant’s land by 75cm at a height of 
+4.5m. Similarly, in Kelsen v Imperial Tobacco Co [1957], the defendant’s advertisement sign that jutted out 
+p. 542
+3
+4
+18. Trespass to land and nuisance
+Page 5 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+eight inches into the area above the claimant’s shop was a trespass. In a less permanent sense, if the arm of a 
+crane swings through airspace above one’s property then this too can be a trespass (see Anchor Brewhouse 
+Developments Ltd v Berkley House (Docklands Developments) Ltd [1987]).5
+Pause for reflection
+How far up can a trespass occur in the airspace above someone’s property? In Lord Bernstein of Leigh v 
+Skyviews & General Ltd [1978], the claimant sued in respect of a light aircraft flying above his property 
+to take aerial photographs. His claim was rejected, as the activity being carried out by the defendant 
+took place above the level of an ordinary user of land. The Civil Aviation Act 1982 specifically states 
+that a trespass is not committed if an aircraft flies above property at a ‘reasonable height’ having 
+regard to the prevailing conditions (s 76(1)).
+While this decision helps us to determine where a trespass might stop (how high up), it raises further 
+questions: is flying aircraft not an ‘ordinary’ activity in the twenty-first century?6 If not, 
+↵
+why is 
+the use of an industrial crane (Anchor Brewhouse) to be regarded as ‘ordinary’? Do you think the cases 
+are helpful? Or should there be another way of deciding whether something in the airspace above land 
+is a trespass, such as whether it blocks out light? Think about Laiqat and Kelsen again—do these really 
+seem like trespasses to you?
+Trespass in the other direction—below the claimant’s property—has been considered by the Supreme Court.
+Star Energy Weald Basin Ltd and another (Respondents) v Bocardo SA 
+(Appellant) [2010] UKSC 35 (SC)
+Bocardo owned land in Surrey, under which part of an oilfield lies. Star Energy had a licence granted 
+by the Crown allowing it to bore for and obtain petroleum from the oil field from neighbouring land 
+vested in the Crown. Without acquiring a licence from Bocardo to do so, Star Energy drilled three wells 
+from the Crown land, which travelled diagonally downwards and entered Bocardo’s land below 
+ground level (at depths between about 800ft and 1,300ft) and ran for between about 250m and 700m. 
+No material physical harm was done to the estate by the drilling and installation of the wells and there 
+was no interference with Bocardo’s use or enjoyment of its land. Bocardo also had no right to the 
+petroleum. Nevertheless, when Bocardo became aware of the wells, it commenced an action in 
+trespass.
+The High Court held that the wells constituted an actionable trespass and this decision was affirmed 
+by the Court of Appeal. The Supreme Court considered how far below ground ownership rights 
+extend. Lord Hope said:
+5
+6
+p. 543
+18. Trespass to land and nuisance
+Page 6 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+There must obviously be some stopping point, as one reaches the point at which physical 
+features such as pressure and temperature render the concept of the strata belonging to 
+anybody so absurd as to be not worth arguing about. But the wells that are at issue in this 
+case, extending from about 800 feet to 2,800 feet below the surface, are far from being so 
+deep as to reach the point of absurdity. Indeed the fact that the strata can be worked upon at 
+those depths points to the opposite conclusion. (at [27])
+Thus, Star Energy had trespassed on Bocardo’s land. On a secondary issue relating to the appropriate 
+measure of damages, the Supreme Court affirmed the Court of Appeal’s decision that damages were 
+only available for the amenity loss caused by the technical trespass. This sum was measured at 
+£1,000.7
+18.2.2  Defences
+Lack of permission is a necessary ingredient of trespass. Correspondingly, permission (express or implied)— 
+or a ‘licence’—to enter or remain on land constitutes a valid defence, subject to the person with that 
+permission (the licensee) not exceeding the boundaries of the permission (e.g. the dinner guest looking in 
+Ameera’s wardrobe in the earlier scenario).8 Licences can be revoked, although the manner in which this can 
+be done often depends on what type of licence was initially granted—for example, whether it was one given 
+under a contract.
+Legal justification is a defence to a claim in trespass (e.g. where the police are authorised by law to enter 
+premises to carry out an arrest under the Police and Criminal Evidence Act 1984). However, exceeding the 
+boundaries of such authority carries severe consequences and, if this happens, the trespass alleged is deemed 
+to have begun at the point the defendant entered the property (even though at that time, legal justification to 
+be there existed). This is known as trespass ab initio, and is discussed further shortly.
+It might be thought that legal justification might extend, in a democratic society, to the right to protest. 
+Trespass has long been a means by which activists and campaigners have sought to have their voices heard, 
+particularly (though not exclusively) in relation to environmental concerns. However, despite there being a 
+right to freedom of speech and freedom of assembly (under Articles 10 and 11 ECHR, respectively), this does 
+not serve to legitimate what would otherwise be trespass. In a recent case, commercial developers of the land 
+for the High Speed Two rail service (including the then government) were successful in seeking injunctions 
+against protestors.9
+Watch our video ‘Trespass as a tool’ on the long history of the radical potential of trespass in protest, and the 
+courts’ responses to this.
+Video playback is not supported in this format.
+7
+p. 544
+8
+9
+18. Trespass to land and nuisance
+Page 7 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Video 18: Trespass as a tool
+Another defence is necessity.10 What is meant by this is that the action claimed as trespass might be deemed a 
+necessary one for the defendant to have taken in order to protect either a public interest (e.g. to prevent 
+floodwaters spreading by going on to someone’s land to lay sand bags)11 or a private interest (e.g. to prevent 
+the defendant themselves from personal injury or property damage). In Esso Petroleum v Southport 
+Corporation [1956], the necessity defence was successfully used by a ship’s captain who discharged oil into the 
+sea, polluting the shoreline. While there was some debate about whether this action amounted to a trespass or 
+to nuisance, it was found to have been a necessary action to prevent the ship breaking up at sea and 
+endangering the lives of the crew.
+Counterpoint
+What is necessary in each situation often depends on the viewpoint of the person asked—the court 
+may or may not agree with the defendant’s viewpoint, as necessity in many situations is subjective. It 
+seems that for the defence to be successful, a sufficient degree of ‘peril’ is required. In Southwark 
+London Borough Council v Williams [1971], for example, squatters occupying several of the council’s 
+empty properties claimed necessity in defence. Lord Denning MR thought differently, saying that ‘if 
+homelessness were once admitted as a defence to trespass, no-one’s house would be safe’ (at 744). He 
+relied on the ‘floodgates’ policy argument, saying that if the defence were used once it ‘would open a 
+door that no man could shut’. He also invoked a fear of lawlessness, stating that the:
+courts must, for the sake of law and order, take a firm stand. They must refuse to admit the 
+plea of necessity to the hungry and the homeless; and trust that their distress will be relieved 
+by the charitable and the good. (at 744)
+Thus, he was arguing that there may be better means to address the problem of homelessness, rather 
+than for the courts to be seen to condone squatting.12
+In Monsanto plc v Tilly [2000], protesters entered land belonging to Monsanto, a company (in)famous 
+for developing and growing genetically modified (GM) crops. The protesters, including the defendant, 
+believed that GM crops have harmful environmental and societal effects and, as part of their 
+campaign, argued it was necessary to enter land owned by Monsanto to uproot the crops, to protect 
+both public and environmental health. This was rejected by the Court of Appeal—though the court 
+recognised that there might be some occasions when the destruction of one crop might be necessary 
+to save others. In this instance, the court viewed the crop destruction as a symbolic gesture, designed 
+to attract media attention: the necessity argument failed. Furthermore, the fact that there is public 
+law protection offered to ‘the public interest’ in relation to GM crops clearly influenced the court—as 
+in the squatters’ case, it was perceived that there were better ways to achieve the intended goals than 
+trespassing.
+10
+11
+p. 545
+12
+18. Trespass to land and nuisance
+Page 8 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+18.2.3  Trespass ab initio
+If a party is permitted to be on land by statute or common law (as opposed to by licence only), but commits a 
+wrongful act while there (‘oversteps the boundaries’), then their original entry onto the land becomes a 
+trespass. Essentially, their permission to be there is cancelled retrospectively. This is a historical concept, first 
+defined in The Six Carpenters [1610]. Six carpenters went to an inn, where they ordered and paid for bread and 
+wine. Later, they ordered more wine but refused to pay for it. The court held that a wrongful act committed 
+↵
+after lawful entry onto someone’s premises could make the original entry a trespass (however, the 
+carpenters were not liable as they had not committed a wrongful act, only an omission). There is little 
+difference between the principle and that which operates when a person is on someone else’s premises under 
+licence (e.g. a guest at a dinner party) but proceeds to do something that they should not do (e.g. look in the 
+bedroom wardrobes). However, a distinction is made in terms of remedy. While peeking in the wardrobes 
+may turn someone into a trespasser, there is little harm that can be compensated, so damages are likely to be 
+nominal. By contrast, had the six carpenters been found liable, the innkeeper could have recovered damages 
+for the wine not paid for, as well as for the fact that a trespass had occurred.
+In Elias v Pasmore [1934], police officers (legally) entered a man’s premises to arrest him. While there, they 
+seized some of his belongings—some items were seized lawfully but others were not. The court found that a 
+trespass was committed only in respect of the unlawfully seized items; it did not render the original entry 
+illegal. Thus, it seems that trespass ab initio will occur only where the later wrongful act contravenes the 
+entire basis for the original entry. As the original basis of entry was to make an arrest, the court found that 
+this purpose had not been disturbed by the wrongful act.
+Counterpoint
+Based on Pasmore, it may seem that the doctrine of trespass ab initio has little muscle. To us, a 
+doctrine that can protect people against abuses of authority while on their land seems useful, 
+particularly given the limited scope that exists for suing organisations such as the police in 
+negligence.13
+In Chic Fashions (West Wales) Ltd v Jones [1967], the doctrine’s existence was criticised. The police 
+searched the claimant’s premises for stolen goods, seizing goods that they wrongly believed were 
+stolen. While the wrongful seizure itself was held to be lawful (as the police warrant gave them the 
+authority to remove any goods that they considered to have been stolen), Lord Denning MR (obiter) 
+suggested that the trespass ab initio doctrine was antiquated and failed to recognise the simple fact 
+that a lawful act should not be rendered unlawful by subsequent events (at 313, 317 and 320). However, 
+he later went on to make use of the doctrine in Cinnamond v British Airports Authority [1980], finding 
+taxi drivers who were unlawfully touting for business to have trespassed from the moment they 
+entered the airport premises. Perhaps this tells us that the decisions in Pasmore and Chic Fashions say 
+more about the judicial attitude to claims against the police (in a similar vein to within the tort of 
+negligence) than about the trespass ab initio doctrine itself.
+p. 546
+13
+18. Trespass to land and nuisance
+Page 9 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+18.2.4  Remedies
+Claimants in trespass usually seek damages and/or an injunction. Damages compensate the claimant for 
+harm already suffered due to the direct interference with their property. An injunction may be used to 
+prevent a continuing trespass.14 However, other remedies are 
+↵
+available in appropriate situations, such 
+as re-entry (when the rightful owner/occupier of land has been excluded from it). This ‘self-help’ remedy 
+may be used only if ‘reasonable force’ is all that is required to assert the right to re-enter. Conversely, where 
+an owner or occupier of land has lost possession, an action for the recovery of land might be taken, allowing 
+(if successful) the defendant to be ejected by court order. Further, an action for mesne15 profits may be 
+brought to claim money from anyone who has wrongfully occupied the land and made a profit or saved 
+expenditure in the process of doing so (e.g. a tenant who outstays the terms of their tenancy agreement and 
+does not pay rent for the extended time spent in the property). It also covers the costs associated with putting 
+right any deterioration to the fabric of the property as well as any (reasonable) costs associated with 
+repossession.
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-18-2>.
+18.3  Private nuisance
+Whereas trespass is concerned with direct interferences to land, private nuisance deals with indirect and 
+unreasonable interferences to land, including what might be called consequential interferences resulting from 
+a direct action (Southport Corporation v Esso Petroleum Co Ltd [1954]). Private nuisance is located squarely 
+within the relationship between neighbours; that is, the people living nearby rather than the ‘neighbour’ we 
+meet in negligence (Donoghue v Stevenson [1932]). In short, private nuisance regulates relationships (and 
+conflicts) between neighbours, defining their mutual rights and obligations with respect to land use by 
+striking a fair and reasonable balance between them. It seeks to protect the claimant’s ability to use and enjoy 
+their land without unreasonable interference. In this way, Joanne Conaghan and Wade Mansell suggest, 
+nuisance is often viewed as a ‘minor’ tort with minimal implications or impact beyond the cosy world of 
+neighbourly squabbles or ‘ordinary people’ against industry.16 This means that references to its potential role 
+in environmental protection are to a large extent downplayed; they become a ‘pale green’ aside its traditional 
+concerns.17
+14
+p. 547
+15
+16
+17
+18. Trespass to land and nuisance
+Page 10 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Counterpoint
+Behind the usual accounts of private nuisance, which manage to give the tort the appearance of 
+coherence, is a more nuanced picture of a tort developed piecemeal over time to protect the interests 
+of particular sections of society. It should not be thought that the ordering of nuisance into categories 
+in a textbook renders it coherent. Nuisance has been described as a tort of ‘mongrel origins’,18 
+uncertain, and lacking definition or any coherent goals or purpose.19
+Conaghan and Mansell argue that traditional accounts of nuisance conceal a more sinister subtext 
+extending well beyond neighbours engaging in garden-fence disputes. There are 
+↵
+many 
+examples of this when the cases themselves—not just the principles the judgments leave behind—are 
+deconstructed. Behind the ‘seemingly innocuous conflict between a cricket club and a house owner 
+who objected, reasonably, to the showering of cricket balls in her back garden’ (Miller v Jackson 
+[1977]), appears the ‘elusive and potentially dictatorial character of the Public Interest’.20 Similarly, 
+‘hovering on the sidelines of a dispute between the occupant of a “good class residential street” and 
+his next-door neighbours, who were engaged in an activity … which allegedly threatened the values of 
+property and the character of the street’ (they ran a brothel (Thompson-Schwab v Costaki [1956])), is 
+‘the dark and rather ominous shadow of Civilised Society’.21
+So viewed, nuisance tells of more than just un-neighbourly behaviour. Tales of polluted shrubs and 
+rivers and disrupted TV signals, narratives of anti-social boat-racing, cricket and piano playing, all 
+reveal its social, historical and ideological contexts. Its case law is at times also indicative of the 
+struggle between the ‘haves and have-nots’, the cosy privileged classes of London’s Belgravia and 
+those living in the one-time slums of Bermondsey.22 Our point is this: there is more going on in 
+nuisance than neighbourly squabbles that can be resolved with a simple application of legal 
+principles. Traditional expositions of nuisance—its textbook appearance—not only are an excellent 
+example of the ability of judges and legal academics to rationalise and synthesise the irrational and 
+fluid23 but also can be seen to clothe, subdue, constrain and ultimately obscure its political 
+underpinnings, history and environmental potential. It could be argued that nuisance has failed to 
+achieve its potential to develop into a real environmental tort—perhaps because of the balancing acts 
+undertaken and the ‘privileging’ of the already privileged.
+18.3.1  What is private nuisance?
+Private nuisance is ‘any unlawful interference with a person’s use or enjoyment of land or some right over 
+it’.24 It is primarily concerned with conflicts arising over neighbours’ respective uses of land and seeks to 
+protect the claimant’s use and enjoyment of land from an activity or situation which the defendant has 
+caused. Unlike trespass, it is concerned with indirect interferences with land use (e.g. smells, noise or 
+vibrations) and is actionable only on proof of some damage (including the subjective damage of ‘amenity’ 
+interests as well as physical damage: see Table 18.2). In seeking to protect land rights, nuisance encourages 
+18 
+19
+p. 548
+20
+21
+22
+23
+24
+18. Trespass to land and nuisance
+Page 11 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+people to be ‘good neighbours’ (though, as we shall see, this really extends only to those neighbours with a 
+proprietary interest in land—mere ‘users’ are not necessarily protected). At its heart is a balancing act— 
+using one’s land freely, while not harming others’ interests.
+18. Trespass to land and nuisance
+Page 12 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Table 18.2 Basic differences between nuisance and trespass
+The legal harm
+When actionable
+Example
+Trespass
+Direct interference 
+with land.
+Actionable per se (i.e. 
+without proof of 
+damage).
+I dump some waste on your land. As well as, most likely, this amounting to various waste offences, I have 
+committed a trespass. I have directly interfered with your land and even if you tell me to move it and I do, 
+that is, even if there is no continuing harm, I will still have committed the trespass.
+The most obvious example of a trespass is walking (without permission) across someone’s land; this is also a 
+direct interference.
+Nuisance
+Indirect interference 
+with use and 
+enjoyment of land.
+Actionable upon proof of 
+damage (to the interest in 
+the land).
+Instead of dumping the waste on your land, I leave it on my land to putrefy. It begins to smell, and flies 
+gather—possibly there are rats that may go onto your land. This would give rise to an action in nuisance, as 
+an indirect harm arising on one person’s land and spreading to another’s (though compare Gregory v Piper 
+[1829], a trespass case).25
+25
+18. Trespass to land and nuisance
+Page 13 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(1)
+(2)
+(3)
+↵
+Things that may be included in an action for private nuisance are:
+actual (physical) damage to land (e.g. by flooding, noxious fumes or vibrations);
+interference with ‘amenity’ interests—the use and enjoyment of land (e.g. by the creation of smells, 
+dust or noise);
+encroachment (e.g. by tree roots or overhanging branches).
+Private nuisance came into its own during the Industrial Revolution when courts faced new and pressing 
+problems arising out of extremely polluting industrial land use, which were not compatible with how 
+neighbours wanted to use their parcels of land. A case that highlights this well is St Helen’s Smelting Co v 
+Tipping [1865].
+St Helen’s Smelting Co v Tipping [1865] HL
+Poisonous vapours from the defendant’s smelting works damaged trees and shrubs on Mr Tipping’s 
+1,300-acre Lancashire estate one and a half miles away. He brought a claim in nuisance. The 
+defendant contended that, as almost the whole neighbourhood was devoted to smelting or similar 
+manufacturing activities, he could continue his activities with impunity.
+The House of Lords disagreed. Lord Westbury distinguished between nuisances producing ‘material 
+injury to property’ or ‘sensible injury to the value of the property’ and that which merely leads to 
+‘personal discomfort’ (lost amenity). He held that the former category may never arise from a 
+reasonable use of land—that is, it will always amount to a nuisance.26 The injury to the claimant’s 
+trees and shrubs gave rise to an action in nuisance irrespective of whether the pollution from the 
+defendant’s works was normal for the locality.
+Lord Westbury’s reasoning, about the difference between damage to property and personal discomfort, later 
+developed into the so-called ‘locality’ rule—which simply means that the locality in which the nuisance takes 
+place will be taken into account where there is interference with amenity interests (i.e. use and enjoyment of 
+the land), but not where actual physical damage occurs.
+Counterpoint
+The consequence of this distinction is that physical damage is viewed as a graver form of injury than 
+‘mere’ discomfort or inconvenience. Or, put simply, that ‘actual’ damage to land (including drop in 
+value) is worse than damage to people’s subjective interests in it. Whilst it might be easy to say that 
+noxious fumes that destroy every plant in my garden should be actionable in nuisance, it is far more 
+p. 549
+p. 550
+26
+18. Trespass to land and nuisance
+Page 14 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+difficult to weigh up the complaints of a resident in an industrial area who says that lorries travelling 
+to a nearby factory cause noise and dust that affect her amenity interests, for example by making her 
+unable to sleep and worsening her asthma. ‘Mere’ personal discomfort is treated with more latitude, 
+unless the intrusion is such that it ‘materially interferes with the ordinary comfort physically of 
+human existence, not simply elegant or dainty modes or habits of living’ (Knight-Bruce V-C, Walter v 
+Selfe [1851] at 852). On this basis, loss of a view from one’s property is loss of ‘elegant’ living 
+(amenity) and not interference with the ordinary comfort of human existence. There is no remedy in 
+nuisance against a neighbour whose new house blocks your beautiful view because ‘the law does not 
+give an action for such things of delight’ (Wray CJ, Bland v Moseley [1587]). A recent high-profile 
+example illustrating this point is seen in the Supreme Court decision in Fearn and others v The Board 
+of Trustees of the Tate Gallery [2023], discussed later.
+This distinction is, however, perhaps easier to articulate in theory than in practice—there are definite 
+grey areas between lost amenity and damage to property. Moreover, what is ‘the locality’? It is the 
+court that determines whether an area is, for example, industrial, rural, or 
+↵
+commercial. We must 
+therefore be careful not to approach the locality rule too dogmatically. This is not to suggest, however, 
+that there are, in essence, two torts: one concerning physical damage and the other discomfort or 
+inconvenience. In fact, the idea that two divergent torts had been created by St Helen’s Smelting was 
+ruled out by the House of Lords in Hunter v Canary Wharf Ltd [1997]. Instead, the distinction between 
+amenity interests and physical damage is best seen as a question of degree. Interferences resulting in 
+physical damage are more likely to be regarded as unreasonable than less tangible amenity losses 
+(disturbance, feeling sick, worsened asthma, inability to sleep and so on), which usually require the 
+courts to engage in a more intricate balancing exercise, considering a variety of factors, before 
+deciding whether an alleged interference is a nuisance.
+The difference between physical damage and lost amenity retains a somewhat uneasy presence in 
+modern nuisance law. For example, in Network Rail Infrastructure Ltd v Williams [2018], the Court of 
+Appeal had to determine whether the presence of Japanese knotweed in the soil (which potentially 
+lessened the sale value of the property) damaged only the claimants’ amenity interests and, if so, how. 
+They were, the defendants argued, merely ‘worried’ that their property would be damaged in the 
+future. It could, however, have been argued that the presence of the knotweed rhizomes in the soil 
+(which the claimants would need to spend time and money getting rid of) was in fact physical damage 
+to their property, notwithstanding the fact that the plant had not (yet) caused any physical damage to 
+their homes. However, the Court of Appeal found that the issue was a ‘classic example’ of the 
+interference with amenity interests in land (at [55]). Sir Terence Etherton MR said that the presence 
+of the rhizomes:
+p. 551
+18. Trespass to land and nuisance
+Page 15 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+imposes an immediate burden on the owner of the land in terms of an increased difficulty in 
+the ability to develop, and in the cost of developing, the land, should the owner wish to do so 
+… [A]ny improvement or alteration of the property requiring the removal of contaminated 
+soil would require disposal of the soil either on site or, more likely, off site by special, and 
+probably expensive, procedures. (at [55])
+As we can see, it is not always easy to distinguish between ‘sensible injury to property’ and ‘personal 
+discomfort’: surely if your land becomes uncomfortable to live on, then its value (to you) is similarly 
+diminished? Both interference with amenity and damage to property can cause ‘sensible injury to the 
+value of property’. The House of Lords in Hunter (discussed later) affirmed that both material physical 
+damage and loss of amenity amount to interference with property interests. This would suggest that, 
+in deciding whether conduct amounts to a nuisance, the same factors should be considered for each. If 
+both are property interests, why should lengthy exposure to horrible smells be treated differently 
+from material damage to property?
+A later case, also about Japanese knotweed, centred on a claim for damages in diminution in value of 
+the claimant’s property rather than the interference with amenity as in Williams, or material physical 
+damage. The Court of Appeal had found that damages for the diminution of value (here assessed at 
+£4,900) were recoverable in nuisance cases. However, on appeal to the Supreme Court (Davies v 
+Bridgend County Borough Council [2024]), it was unanimously held that this was not the case where it 
+cannot be established that the defendant’s tortious conduct caused the loss—here, it was found that 
+the diminution in value of the land had occurred before the nuisance, because the knotweed had 
+already been present on the claimant’s land.
+18.3.2  Who can sue?
+A claimant must first establish that they have legal ‘standing’—that is, the right to sue. Nuisance is not the 
+only place in tort law where standing is an issue and where what seem like potentially legitimate claims can 
+fail even before they begin.27 In private nuisance, Malone v Laskey [1907] set the initial boundaries. A woman 
+was injured while using the toilet when its cistern fell on top of her. It had been dislodged by vibrations 
+emanating from the electricity generator on the neighbouring defendant’s property. Despite her injuries, the 
+Court of Appeal held that she had no cause of action in nuisance against the defendant, because she had no 
+proprietary interest in the premises—the house belonged to her husband’s employer. She was ‘merely 
+present in the house’.
+As the aim of private nuisance is to protect the claimant’s use and enjoyment of land, it is perhaps obvious 
+that the claimant must have an interest in the land that has been unreasonably interfered with. However, 
+what link or interest must the claimant have? Is this an interest in land as defined by property law or simply a 
+substantial link with the land?
+p. 552
+27
+18. Trespass to land and nuisance
+Page 16 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+This traditional view of nuisance—the ‘interest in land’ requirement—was challenged in Khorasandjian v 
+Bush [1993]. Miss Khorasandjian was subjected to a campaign of harassment by a former boyfriend.28 She 
+sought an injunction to prevent him ‘harassing, pestering or communicating’ with her, especially by means 
+of persistent and unwanted telephone calls to her mother’s home, where she lived. Like Mrs Malone, she had 
+no proprietary interest: she merely lived in the house with her mother. Nevertheless, Dillon LJ in the Court of 
+Appeal allowed her claim in nuisance, stating that ‘the court has at times to reconsider an earlier decision in 
+light of changed social conditions … If the wife of the owner is entitled to sue in respect of harassing 
+telephone calls, then I do not see why that should not also apply to a child living at home with her parents’ (at 
+735). This innovative approach was subsequently followed by a differently constituted Court of Appeal in 
+Hunter v Canary Wharf Ltd [1996], where Pill LJ found that it was enough for the claimant to demonstrate a 
+‘substantial link’ to the property (the occupation of a property as a home was sufficient to enable the 
+occupiers to sue). However, the House of Lords disagreed.
+Hunter v Canary Wharf Ltd [1997] AC 655 (HL)
+Several local residents, including homeowners, their families and other licensees, complained about 
+the erection of the Canary Wharf tower in the London Docklands development. The tower—which 
+stands nearly 250 metres high, is over 50 metres square and has a metallic surface—interfered with 
+the television reception of nearby homes. Two initial questions arose: first, could an actionable 
+nuisance exist in respect of interference with television reception? Secondly, if this was possible, who 
+of those affected could sue?
+↵
+The House of Lords held that interference with the television reception was not capable of 
+amounting to a nuisance. There was no ‘emanation’ from the Canary Wharf tower, which, according 
+to Lord Hope at least, was viewed as a requirement of nuisance.29 The tower was simply stopping 
+something going onto the property of its neighbours. It was held, by analogy to cases that refused 
+liability for blocking a view, that the defendants were free to build what they wanted to on their land, 
+subject to planning permissions and other restrictions such as easements. Hence, complaints could be 
+made only at the planning stage and not by means of private nuisance.
+When addressing the second question, the law lords reasserted the traditional view from Malone. 
+Defining nuisance as a ‘tort directed against the plaintiff’s enjoyment of his rights over land’ (at 
+688),30 Lord Goff held that claims in nuisance can be brought only by those with an interest in land— 
+that is, landowners, tenants, grantees of an easement or profit à prendre, or those with exclusive 
+possession.
+Hunter means that someone cannot claim in nuisance if they are merely a member of the landowner’s family 
+(as in Khorasandjian), a guest (long or short term), a lodger or an employee (including live-in employees, 
+such as au pairs). Recognising such claims, the law lords suggested, would be to effect a fundamental change 
+in the nature and scope of nuisance and give rise to several practical difficulties. They believed that to extend 
+nuisance in this way would transform it into a tort to the person, rendering redundant what they viewed as 
+28
+p. 553
+29
+30
+18. Trespass to land and nuisance
+Page 17 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+sensible restrictions on the right to sue for personal injury in negligence, for example by allowing liability for 
+mere discomfort without damage (lost amenity). Put simply, the House of Lords was keen to reinforce 
+nuisance as a tort to land, not to people.
+Pause for reflection
+To what extent is the standing requirement an unnecessary restriction reflecting a return to the 
+historical roots of private nuisance at the expense of its potential role in protecting the environment 
+and/or protecting people from harassment? Do you think the requirement is (a) necessary and (b) 
+logical? Consider Khorasandjian v Bush [1993]. Do you agree that what she suffered should not be 
+considered a nuisance?
+Check our pointers <https://iws.oupsupport.com/ebook/access/content/horsey9e-student-  
+resources/horsey9e-chapter-18-pointers-to-pause-for-reflection-and-counterpoint-boxes? 
+options=showName> on how to answer the questions posed in this ‘pause for reflection’.
+Read more about this counterpoint <https://iws.oupsupport.com/ebook/access/content/horsey9e-  
+student-resources/horsey9e-chapter-12-pointers-to-pause-for-reflection-and-counterpoint-boxes? 
+options=showName>.
+Counterpoint
+It is unclear the extent to which Hunter is compatible with Article 8(1) of the European Convention on 
+Human Rights (ECHR) (as incorporated into domestic law by the Human Rights Act (HRA) 1998), 
+which establishes that ‘everyone has the right to respect for his private and family life, his home and 
+his correspondence’. The ‘interest in land’ requirement might need to be reconsidered 
+↵
+to secure 
+fuller protection of the right to respect for private and family life. As we see in section 18.4.3, Article 
+8(1) has already been interpreted broadly by the European Court of Human Rights (ECtHR), 
+permitting parties without proprietary rights in the home to sue.
+In Khatun v UK [1998]—an appeal to the European Commission of Human Rights on part of the Hunter 
+decision—it was found that the distinction made in Hunter between those with proprietary interest in land 
+and those without was not applicable for the purposes of Article 8(1) (although it was felt that the defendant’s 
+p. 554
+18. Trespass to land and nuisance
+Page 18 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(1)
+(2)
+activities (building the tower) could be justified under Art 8(2) as pursuing a legitimate and important aim 
+given the public interest in developing the once run-down Docklands area of London and the limited 
+interference to the applicant’s home). Khatun suggests that, should a suitable case arise, a court would be able 
+to challenge the Hunter limitations. Indeed, to an extent this may already have happened.
+McKenna v British Aluminium Ltd [2002] Env LR 30 (Ch D)
+Claims in private nuisance and in Rylands v Fletcher (see Chapter 19) were brought by over 30 
+children from several households alleging that emissions and noise from the defendant’s 
+neighbouring factory were an invasion of privacy and had caused them mental distress and physical 
+harm. The defendants argued that following Hunter the claims should be struck out unless each of the 
+claimants could point to a proprietary right to show they had standing to take their claim.
+In the High Court, Neuberger J rejected the defendant’s argument and refused to strike out the claims, 
+saying that:
+there is obviously a powerful case for saying that effect has not been properly given to Article 
+8(1) if a person with no interest in the home, but who has lived in the house for some time and 
+had his enjoyment of the home interfered with, is at the mercy of the person who owns the 
+home, as the only person who can bring proceedings. (at [53], emphasis added)
+Pause for reflection
+The way the law currently stands—as identified by counsel for the claimants in McKenna—excludes 
+one very large group from ever being able to claim in private nuisance: children. Children are never 
+likely to have the required proprietary interest in a property to be able to sue. Do you think this should 
+be the case?
+18.3.3  The concept of the ‘reasonable user’
+As we have indicated, nuisance is a consequence-based tort: liability does not depend on whether the 
+defendant acted reasonably or whether they did all they could to prevent the nuisance occurring. Put another 
+way, taking reasonable care does not prevent liability.31 Instead, the court must consider a range of factors to 
+determine nuisance.
+↵
+The factors that the court can consider can be split into three categories:
+always considered (intensity—including duration, frequency and timing of the interference);
+sometimes considered, dependent on the type of claim (the nature of the locality); and
+31
+p. 555
+18. Trespass to land and nuisance
+Page 19 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(3)
+sometimes considered, if relevant on the facts (sensitivity of the claimant; bad intention of the 
+defendant).
+As we will see, many of these factors are also important in relation to the question of remedies. We will look at 
+each in turn. Essentially, each of the (relevant) factors must be weighed against the others. It is helpful to 
+imagine a set of simple balancing scales, mentally placing each factor onto the scales on the relevant side, 
+working out in whose favour the scales will tip. If the scales ultimately tip towards the claimant then their 
+claim will be successful—if towards the defendant then the claim fails.32 Coventry now assists us in many of 
+these considerations.
+Coventry v Lawrence [2014] UKSC 13 (SC)
+Katherine Lawrence and Raymond Shields moved into ‘Fenland’ in January 2006, a bungalow situated 
+less than one kilometre from a speedway stadium in an otherwise rural area. The stadium was 
+constructed with the necessary planning permission (lasting ten years) in 1975. Permission was 
+renewed on a permanent basis in 1985. Stock car and banger racing started at the stadium in 1984 and 
+a ‘Certificate of Lawfulness of Existing Use or Development’ was issued in respect of this in 1994. 
+Behind the stadium a motocross track initially operated under temporary planning permission which 
+later became permanent.
+In 2008, the couple initiated proceedings in nuisance against the owners and operators of the stadium 
+and track, seeking an injunction to stop the noisy activities taking place. At first instance, the 
+claimants succeeded and an injunction limiting the activities (and thus the noise) was granted 
+(though the injunction was stayed while the claimants rebuilt their house, which had in the 
+meantime been severely damaged by fire). The Court of Appeal reversed the decision, finding that the 
+claimants had failed to establish a nuisance. Largely, this was because of the planning permissions 
+that the stadium and track operated under, which, according to Jackson LJ, had changed the character 
+of the locality.
+The Supreme Court reinstated the trial judge’s decision. The noise from the stadium and track, 
+notwithstanding the planning permission, amounted to a nuisance. The fact of planning permission 
+may have relevance to the remedy to be awarded, and the precise terms of it may sometimes have a 
+bearing on whether or not a nuisance exists at all (see e.g. Lord Neuberger at [96]). The injunction 
+(though still stayed) was restored, though the court seemed to suggest that judges are too ready to 
+grant injunctions without considering whether to award damages instead and that if/when the case 
+went back before the judge a consideration of whether to discharge the injunction and substitute it 
+with damages could be undertaken.33
+32
+33
+18. Trespass to land and nuisance
+Page 20 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+18.3.3.1  Factors that are always considered
+The intensity of the interference
+Unlike trespass to land where any interference to property can amount to a trespass, in private nuisance a 
+threshold exists—everyone must put up with some interference from their neighbours at some time 
+(Southwark LBC v Mills [2001]). However, interferences can become unreasonable when they are intense, as 
+the earlier pop music example indicates. The idea is best explained by Lawton LJ in Kennaway v Thompson 
+[1981]:
+[N]early all of us living in these islands have to put up with a certain amount of annoyance from our 
+neighbours. Those living in towns may be irritated by their neighbours’ noisy radios or incompetent 
+playing of musical instruments; and they in turn may be inconvenienced by the noise caused by our 
+guests slamming car doors and chattering after a late party. Even in the country the lowing of a sick 
+cow or the early morning crowing of a farmyard cock may interfere with sleep and comfort. 
+Intervention by injunction is only justified when the irritating noise causes inconvenience beyond what 
+other occupiers in the neighbourhood can be expected to bear. The question is whether the neighbour is 
+using his property reasonably, having regard to the fact that he has a neighbour. The neighbour who 
+is complaining must remember, too, that the other man can use his property in a reasonable way 
+and there must be a measure of give and take, live and let live. (at 94, emphasis added)
+While ordinary everyday living cannot amount to unreasonable use of land, an action for physical damage to 
+property, even if caused by a temporary or short-lived activity, is likely to succeed—though in such cases the 
+court will award damages rather than an injunction (this makes sense: as the nuisance has finished, there is 
+nothing on which to base injunctive relief).34 In Crown River Cruises Ltd v Kimbolton Fireworks Ltd [1996], a 
+15–20-minute firework display at the end of the fiftieth anniversary of the Battle of Britain celebrations was 
+held to be a nuisance to a Thames boat owner whose boat suffered substantial fire damage.
+However, outside physical damage, if any interference could be a nuisance, the tort simply would not work. 
+To attract liability, the interference must be substantial or intense (for example, continuing for a long time or 
+taking place at an unreasonable time of day (or night)).35
+Fearn v Board of Trustees of the Tate Gallery [2023] UKSC 4 (SC)
+The Tate Modern is a public art gallery in London. In 2016, it opened a new ten-storey extension—the 
+Blavatnik Building—which has, on its top floor, a viewing platform offering panoramic views of the 
+city. The four claimants owned glass-walled luxury flats in the Neo Bankside development 
+neighbouring the Tate Modern at roughly the same height as the viewing platform. Tate 
+↵
+visitors could see directly into the living areas of the claimants’ flats from the south side of the 
+viewing platform.
+p. 556
+34
+35
+p. 557
+18. Trespass to land and nuisance
+Page 21 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+The viewing platform was open daily and was visited by an estimated 500,000–600,000 people each 
+year. Many visitors displayed an interest in the interiors of the claimants’ flats. Some stared 
+(sometimes through binoculars), some took photographs, some waved. Many photographs were 
+posted online. The claimants sought an injunction requiring the Tate to prevent its visitors from 
+viewing their flats from the platform or, alternatively, an award of damages. Their claims were 
+dismissed by Mann J in the High Court and, for different reasons, by the Court of Appeal. The Supreme 
+Court, in a majority judgment, allowed the appeal, finding that the claimants’ flats were under near 
+constant observation by visitors to the viewing platform, with hundreds of thousands of spectators 
+each year, many of whom took photographs and posted them on social media. Most people would 
+consider this level of intrusion to be a substantial interference with the ordinary use and enjoyment of 
+their home (at [48]). In addition, the Supreme Court found that inviting members of the public to 
+admire the view from a viewing platform was not a common and ordinary use of the Tate’s land, even 
+in the context of operating an art museum in a built-up area of south London. (at [50])
+The Supreme Court found that Mann J had erred by asking whether having the viewing platform made the 
+Tate an ‘unreasonable user’ of land, rather than asking if it was a ‘common and ordinary use’ (at [54]–[55]) 
+and finding that the claimants had in some way exposed themselves to being overlooked by living in glass- 
+walled flats. He further ruled that that the claimants could protect themselves from the intrusion, perhaps by 
+putting up blinds or curtains, and that the intrusion was to be expected in a busy tourist area of south 
+London.
+The Court of Appeal recognised Mann J’s errors in law but still found against the claimants because it felt that 
+‘mere overlooking’ simply cannot give rise to liability in nuisance. While it is true that people cannot 
+ordinarily claim in nuisance if they are overlooked by another building (or similar), the majority in the 
+Supreme Court found that this was not the complaint of the claimants in this case: instead, it was that the 
+Tate invited customers to look from a viewing platform directly into their flats and allowed this to continue 
+‘without interruption for most of the day every day of the week’ (at [92]). The intensity of the intrusion—not 
+the mere fact of it—is what created the nuisance. According to Lord Leggatt, who gave the leading judgment:
+Inviting several hundred thousand visitors a year to look out at the view from your building cannot 
+by any stretch of the imagination be regarded as a common or ordinary use of land. Equally, having 
+thousands of people each day looking into the interior of your flat, often taking photographs (which 
+are sometimes posted on social media) and occasionally using binoculars, cannot possibly be 
+justified by the rule of give and take. A flat owner who objects to this use of neighbouring land is not 
+demanding of her neighbour any more than she must allow him to demand of her. She is not 
+seeking any special or unequal treatment. She is asking only for her neighbour to show the same 
+consideration towards her as he would expect her to show towards him. (at [75])
+18. Trespass to land and nuisance
+Page 22 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Pause for reflection
+↵
+Do you think that there should have been a finding of nuisance in Fearn? Some have argued that 
+if you choose to live in flats with floor-to-ceiling glass then it is inevitable you will be overlooked. As 
+the Supreme Court acknowledged, the attraction of living in modern, high-rise city buildings with 
+floor-to-ceiling windows comes at a price in terms of privacy. But is that the problem here?
+If you do agree that the Tate’s use of its viewing platform amounts to nuisance, then what do you 
+think the remedy for the claimants should be (see sections 18.4.1 and 18.4.2)? Would an injunction be 
+unfair on the Tate? Would damages be unfair on the flats’ owners?
+18.3.3.2  A factor that is sometimes considered, dependent on the type of claim
+The nature of the locality
+The reasonableness of land use can depend on, alongside other considerations, the character or nature of the 
+area it is in—its ‘locality’. Courts are more likely to find that noise from a local factory is a nuisance to 
+residents if the factory is in a largely residential area rather than an industrial one. Similarly, farmyard smells 
+and noises are less likely to be a nuisance in a rural area.36 However, as we have already indicated, following St 
+Helen’s Smelting, the ‘locality principle’ applies only in cases where the claimant suffers lost amenity. It is not 
+relevant where the claim is about material physical damage (e.g. plants killed by poisonous fumes), which in 
+law can never arise from a reasonable use of land.37
+In Coventry, Lord Neuberger described the claimants’ property as follows:
+Across open fields, about 560 metres from the Stadium and about 860 metres from the Track, is a 
+bungalow called ‘Fenland’. It stands in about 0.35 hectares of garden, and is otherwise surrounded 
+by agricultural land. The nearest residential property to Fenland appears to be about half a mile 
+away, and the small village of West Row is about 1.5 miles to the south-east of Fenland (and about 
+one mile to the south east of the Stadium). (at [12])
+Given the idyllic and overwhelmingly rural nature of this description, it becomes easier to see how noise from 
+a motocross and speedway stadium might constitute nuisance.
+A classic quote summing up the ‘nature of the locality’ idea comes from Sturges v Bridgman [1879]. There, 
+Thesiger LJ said that ‘what would be a nuisance in Belgrave Square would not necessarily be so in 
+Bermondsey’ (at 865). Clearly he meant that the character of the neighbourhood in question must be 
+considered when determining whether a nuisance 
+↵
+has or has not happened—put another way, people 
+in some (poorer?) areas should be expected to put up with more than (affluent?) people in others.38
+p. 558
+36
+37
+p. 559
+38
+18. Trespass to land and nuisance
+Page 23 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Counterpoint
+This supports the idea that nuisance is highly subjective and contextual. By this, we mean that for an 
+activity to be a nuisance, someone must have complained about it—and this depends on their own 
+subjective interpretation of the context in which the activity is taking place.39
+The locality rule therefore accentuates and mirrors already existing social inequalities. Those who live 
+in what the court considers to be economically and socially poorer areas are expected to have to cope 
+with more interference from others, more environmental pollution and so on. Conaghan and Mansell 
+point out that, historically, the compromise ‘distinction drawn in St Helen’s Smelting Co v Tipping 
+[1865] between inflicting material damage to property and producing “sensible personal discomfort”’, 
+and the so-called locality rule, were of ‘crucial significance in limiting the liability of industrialists for 
+nuisance’.40 They point to an observation made by William Cornish and Geoffrey Clark that in the 
+‘period immediately after 1865, it was almost impossible to sue for amenity damage (smells, noise, 
+vibrations) if one lived in an industrial area’41 and conclude that ‘inevitably the distinction had a 
+disproportionate class impact by protecting the primary interests of residential landowners (in the 
+physical integrity of their property) while denying any redress to those who simply wish to live in an 
+environment free from the stench and clamour of industrial activity’.42 Ironically, it seems those who 
+suffer most from the ravages of pollution are deemed the least worthy of protection.
+Things have not moved very far in this respect. In Baxter v Camden LBC (No 2) [2001], the tenant of a 
+first-floor flat within an old, converted house complained of continuing noise from the flats above 
+and below her to the council that had converted the property (with inadequate soundproofing) in 
+1975. Dismissing her claim, Tuckey LJ in the Court of Appeal returned to a familiar concept, saying 
+that ‘occupiers of low cost, high density housing must be expected to tolerate higher levels of noise 
+from their neighbours than others in more substantial and spacious premises’ (at [10]).
+The nature or character of a locality may change. For example, over time the primary use of land may evolve 
+from industrial to residential (or vice versa) or from green fields to commercial. Such evolution might be 
+gradual or it may be faster and deliberately calculated to change the area, such as the development of the east 
+end of London in preparation for the 2012 Olympic Games. Therefore, when considering a claim, the courts 
+must consider the locality as it is, not as it once was. When there is deliberate development or quick, radical 
+change to the nature of an area, it is likely that planning permission will have been sought 
+↵
+and received. 
+So, is it the granting of permission or the actions taken on the back of the permission, once granted, that 
+change the nature of a locality?
+39
+40
+41
+42
+p. 560
+18. Trespass to land and nuisance
+Page 24 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Gillingham Borough Council v Medway (Chatham) Dock Co Ltd [1993] 
+QB 343 (QBD)
+In 1982, a disused navy dockyard in Chatham, Kent, was closed by the government. The area was 
+subsequently divided into three parts, one of which was taken over by the Medway Ports Authority to 
+be used as a 24-hour commercial port. Many residents complained about the level of traffic passing 
+their properties, particularly throughout the evening and night. At one point it was recorded that a 
+lorry passed every 1.5 minutes in the early hours of the morning. Residents complained of interrupted 
+sleep and general disturbance to their lives—for example, few of them could ever open the windows at 
+the front of their houses because of the heavy volume of passing traffic. As a substantial group of 
+residents was affected, the local council took an action in (public) nuisance on their behalf, seeking an 
+injunction to prevent the movement of the lorries, particularly at night. The same council had granted 
+the planning permission to the defendants allowing them to develop the port, even though it had been 
+aware of the likely disturbance this would cause to local residents. When the planning application was 
+made, residents had been given the opportunity (as is usually the case) to voice their opinions.
+Buckley J held that the granting of planning permission had in this instance changed the nature of 
+the locality, which was now wholly commercial in its character. Local residents therefore could not 
+complain about the serious disruption caused to them by commercial operations.
+Gillingham does not mean that every time planning permission is granted the nature of a locality will change. 
+It is a question of fact to be decided in each case. In this respect, Gillingham should be contrasted with Wheeler 
+v JJ Saunders Ltd [1996], and the comments of the Supreme Court in Coventry should be considered.
+Wheeler v JJ Saunders Ltd [1996] Ch 19 (CA)
+Between two neighbours a house, with outbuildings and an adjacent farm, were in common 
+ownership. Wheeler bought the house and the outbuildings and obtained planning permission to 
+convert the outbuildings into holiday cottages. The farm was let to the defendants, who also obtained 
+planning permission (despite the claimants’ opposition), to extend the capacity of their pig farm and 
+build two new sheds, each capable of housing 400 pigs, with openings for ventilation, slatted floors 
+and channels underneath to contain excrement. One shed was 11 metres from Wheeler’s house. On 
+occasion, strong smells emanated from the farm to the claimant’s property, affecting them and also 
+visitors to the holiday cottages. Wheeler claimed in nuisance in respect of the smells emanating from 
+the pig farm. At first instance, an injunction was granted preventing the defendants using the sheds 
+and the claimant was awarded £2,820 in general damages.
+18. Trespass to land and nuisance
+Page 25 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+The Court of Appeal agreed that the smell emanating from the defendants’ farm was an actionable 
+nuisance. Planning permission was not the same as statutory authority and was not a defence to a 
+claim in nuisance. Although planning permission could alter the nature of a locality (Gillingham), it 
+had not done so in this instance—the nature of the locality remained the same.
+↵
+In distinguishing the effect of planning permission in Gillingham, the court found that this had been 
+‘strategic’ in nature—that is, it was a deliberate attempt to change the nature of the locality for the good of 
+the community. In Wheeler, the planning permission was merely ‘expansive’—it allowed an already existing 
+pig farm to become bigger. This difference meant the planning permission did not change the nature of the 
+locality and so did not prevent a nuisance being caused to the claimants by the smell.43
+In Watson v Croft Promosport Ltd [2009], the Court of Appeal ruled that despite planning permission being 
+given for a motor-racing circuit on the basis that it was reasonable for the locality, the activity still amounted 
+to an actionable nuisance (the nature of the locality was viewed as predominantly rural), and an injunction 
+was granted to prevent racing on more than 40 days per year. This view was confirmed in Coventry in similar 
+circumstances. Despite the (multiple) planning permissions granted to the defendants, it was found to be 
+‘wrong in principle that, through the grant of a planning permission, a planning authority should be able to 
+deprive a property-owner of a right to object to what would otherwise be a nuisance’ (at [90]). Lord 
+Neuberger doubted the distinction previously drawn between strategic and other permissions, regarding this 
+as ‘a recipe for uncertainty’ (at [91]).44 Thus, it seems that though planning permission may still change the 
+nature of a locality, this will be a matter of fact to be assessed on a case-by-case basis. In fact, Lord Neuberger 
+continued:
+the mere fact that the activity which is said to give rise to the nuisance has the benefit of a planning 
+permission is normally of no assistance to the defendant in a claim brought by a neighbour who 
+contends that the activity cause a nuisance to her land in the form of noise or other loss of amenity. 
+(at [94])
+However, the tests relating to planning permission now appear rather circular in nature. In Fearn [2019], 
+planning permission had allowed both the Tate Modern extension and the building of the claimants’ flats to 
+take place at about the same time. The defendants submitted that ‘the planning approval of the viewing 
+gallery, in the context of the largely parallel application for Neo Bankside, was evidence capable of supporting 
+the submission that there was no nuisance’ (at [185]). This was rejected by Mann J in the High Court as 
+nothing indicated that the planning authorities had specifically considered the impact of the viewing 
+platform. He considered the ‘character of the locality’ more important: ‘a part of urban south London used for 
+a mixture of residential, cultural, tourist and commercial purposes’ (at [190]). Concluding on this point, he 
+said that ‘the significant factor is that it is an inner city urban environment, with a significant amount of 
+tourist activity. An occupier in that environment can expect rather less privacy than perhaps a rural occupier 
+might. Anyone who lives in an inner city can expect to live quite cheek by jowl with neighbours’ (at [190]).
+p. 561
+43
+44
+18. Trespass to land and nuisance
+Page 26 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+The dissenting minority in the Supreme Court thought so too. Though they agreed with the majority that, as 
+a matter of principle, private nuisance can apply in a situation where a residential property is subject to visual 
+intrusion, they considered that such intrusion must be considered in the light of ‘principles of reciprocity and 
+compromise’ and a ‘standard of 
+↵
+objective reasonableness informed by the character of the relevant 
+locality’ (at [158]–[159] and [226]–[249])—and they thought the locality here justified the intrusion. 
+However, as we indicated earlier, the majority did not agree, and the case was decided on intensity.
+Watch the video at the start of this BBC article on Fearn <https://www.bbc.co.uk/news/uk-england-  
+london-51478767> (which was published after the High Court judgment) and see what you think about the 
+decision.
+18.3.3.3  Other factors that are sometimes considered, if relevant on the facts
+The sensitivity of the claimant
+To be a nuisance, a court must find that the defendant’s use of land is potentially unreasonable to anyone. 
+This implies that the claim of someone affected because of their own sensitivities (where an ‘ordinary’ person 
+would not be so affected) will fail. For example, in Heath v Mayor of Brighton [1908], the vicar and trustees of a 
+church sought to stop noise emanating from the defendant’s power station as the vicar complained that it 
+disturbed his deliberations over his sermons but, as no one else appeared to be disturbed by it, an injunction 
+was refused.
+The idea is better explained by Robinson v Kilvert [1889]. The claimant rented premises from the defendant, 
+which he used as a paper warehouse. The defendant then started a manufacturing business in the cellar of his 
+building for which he needed the air to be both hot and dry. Heating the cellar to achieve this caused the 
+temperature of the floor of the claimant’s warehouse above to rise to 80° Fahrenheit (27° Celsius). This, while 
+it would not have damaged ordinary paper or caused anyone using the building any physical discomfort,45 it 
+dried out the specialist brown paper that the claimant was storing (and, as the value of the paper was affected 
+by its weight, it lost value). The claimant sought an injunction preventing the defendant from heating the 
+cellar. The Court of Appeal rejected his claim, holding that ‘a man who carries on an exceptionally delicate 
+trade cannot complain because it is injured by his neighbour doing something lawful on his property, if it is 
+something which would not injure anything but an exceptionally delicate trade’ (Lopes LJ at 97).
+However, even though a claimant’s sensitivity may sometimes render a claim in nuisance ineffective, after an 
+actionable nuisance is established, a claimant will receive damages for all of their losses even if these are the 
+result of interference with what may be considered a sensitive use of land. In McKinnon Industries Ltd v Walker 
+[1951], for example, the claimant was able to recover the cost of damage to his orchids (as well as lost profits 
+on them), even though the defendant contended that orchid growing was a sensitive activity.46
+p. 562
+45
+46
+18. Trespass to land and nuisance
+Page 27 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Counterpoint
+It is often difficult to determine what is ‘unduly sensitive’, particularly as this relates to the claimant’s 
+use of land and not to the claimant themselves.47 If the storage of a particular type of paper is unduly 
+sensitive (Robinson), but the growing of orchids is not (McKinnon), would the idea of sensitivity 
+extend, for example, to the transmission of a signal to television viewers?
+In Bridlington Relay v Yorkshire Electricity Board [1965], a company providing a residential relay system 
+of sound and television broadcasts claimed in nuisance alleging that its business would 
+↵
+be 
+affected by electromagnetic interference from two electricity pylons erected between 200 and 250 feet 
+from its mast and wiring that passed, at its nearest point, 169 feet away. Buckley J refused to grant an 
+injunction, pointing to the sensitive nature of the business, saying that interference with purely 
+‘recreational’ facilities (e.g. television reception) was not actionable in nuisance.
+As with many cases in private nuisance, Bridlington Relay is likely a product of its time. Perhaps 
+recognising this, Buckley J referred to the electrical interference not being actionable ‘at present’, 
+meaning that as times change, so might the question about ‘recreational’ facilities. Indeed, Bridlington 
+Relay was ruled ‘out of date’ in the Canadian case Nor-Video Services v Ontario Hydro [1978]. Despite 
+the House of Lords’ reluctance in Hunter to answer how the case would be decided in 1997, it is hoped 
+that the ability to receive an adequate television signal (a ‘recreational’ activity enjoyed by most 
+people) would in fact now be regarded as an ordinary and natural use of land.
+In fact, the position on ‘abnormal sensitivity’ has since moved on. It must now be considered alongside (or as 
+part of) the issue of foreseeability.
+Network Rail Infrastructure Ltd v Morris (t/a Soundstar Studio) [2004] 
+EWCA Civ 172 (CA)
+Network Rail appealed against a finding that they were liable for nuisance caused by electromagnetic 
+interference emitting from a signalling system, which affected the sound of electric guitars in 
+Morris’s recording studio. They submitted that Morris’s use of the studio was abnormally sensitive to 
+the magnetic waves and was not protected by the law of nuisance as he was involved in an 
+extraordinary commercial activity, rather than the ordinary use of equipment. Additionally, Network 
+Rail argued that it could not have reasonably foreseen the problem, considering the distance between 
+the signalling system and the studio, where the magnetic field was much weaker. Morris contended 
+that they should have foreseen the nuisance as they had inherited a report from British Rail which 
+detailed similar complaints from third parties who had musical rehearsal studios either in or near the 
+affected area.
+47
+p. 563
+18. Trespass to land and nuisance
+Page 28 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+The Court of Appeal found that the modern law of tort had discarded some established detailed rules 
+and instead required a broad approach. To establish liability in nuisance, the test was not that of 
+foreseeability alone, but of foreseeability as an aspect of reasonableness. The concept of abnormal 
+sensitivity was thought outmoded and, whether Morris’s use of his studio was a sensitive use of 
+premises was irrelevant. The correct test was whether it was foreseeable that specific damage would 
+be caused to a specific claimant. Here, even though the use of electronic equipment was a feature of 
+modern-day life in the ordinary use and enjoyment of property, it was not reasonable to expect 
+Network Rail to foresee the interference caused based on a report compiled several years prior to them 
+taking over the maintenance of the rail track and which contained observations that were not specific 
+enough to have reasonably expected them to have taken preventative action.48
+↵
+Unlike negligence, nuisance is not supposed to be based on the defendant’s fault. The defendant can 
+take as much care as possible, but if the way they use their land has the effect of causing nuisance to a 
+neighbour they can be liable. Nuisance is (at least in theory) supposed to be consequence-based—perhaps in 
+this sense the concept of foreseeability is misplaced. In Fearn [2019], Mann J appeared to agree, refusing to 
+find that the concept of sensitivity had been overruled by Network Rail.
+Counterpoint
+Some elements of private nuisance have changed over time, making it appear closer to negligence in 
+terms of the factors that may be considered. The question is always whether what the law considers to 
+be an unreasonable use of land on the part of the defendant also amounts to them being ‘at fault’ for 
+the way they use their land. In The Wagon Mound (No 2) [1967], which we considered in the chapter on 
+breach in negligence (section 8.5), Lord Reid pointed out that while the level of fault may not be such 
+as to amount to a breach of duty in negligence, some level of fault is almost always necessary in 
+nuisance (at 639). But what did he mean by ‘fault’? As we will see, since Cambridge Water Co Ltd v 
+Eastern Counties Leather plc [1994] (discussed in Chapter 19), foreseeability in the Wagon Mound sense 
+is now relevant in the land torts as well as in negligence. As Network Rail indicates, it may have 
+already become ‘dominant’ over some of the more traditional concerns in nuisance cases. An activity 
+on land can be a nuisance only if it is reasonably foreseeable to the defendant that the activity might 
+be a nuisance to someone else—so where does this leave fault?
+Bad intention of the defendant
+In assessing whether the defendant is a reasonable user of land, their motive may be considered. This is only 
+an issue where actions by the defendant are undertaken in bad faith or with malice towards the claimant.
+48
+p. 564
+18. Trespass to land and nuisance
+Page 29 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Christie v Davey [1893] 1 Ch 316 (Ch D)
+Christie was a music teacher who occasionally worked from home. Her children also played musical 
+instruments. She had lived in her home for three years with no problems with her neighbours until, 
+on 30 September 1892, the defendant wrote to her saying:
+During this week we have been much disturbed by what I at first thought were the howlings 
+of your dog, and, knowing from experience that this sort of thing could not be helped, I put 
+up with the annoyance. But, the noise recurring at a comparatively early hour this morning, I 
+find I have been quite mistaken, and that it is the frantic effort of someone trying to sing 
+with piano accompaniment, and during the day we are treated by way of variety to dreadful 
+scrapings on a violin, with accompaniments. If the accompaniments are intended to drown 
+the vocal shrieks or teased catgut vibrations, I can assure you it is a failure, for they do not. I 
+am at last compelled to complain, for I cannot carry on my profession with this constant 
+thump, thump, scrape, scrape, and shriek, shriek, 
+↵
+constantly in my ears. It may be a 
+pleasure or source of profit to you, but to me and mine it is a confounded nuisance and 
+pecuniary loss, and, if allowed to continue, it must most seriously affect our health and 
+comfort. We cannot use the back part of our house without feeling great inconvenience 
+through this constant playing, sometimes up to midnight and even beyond. Allow me to 
+remind you of one fact, which must most surely have escaped you—that these houses are 
+only semi-detached, so that you yourself may see how annoying it must be to your 
+unfortunate next-door neighbour. If it is not discontinued I shall be compelled to take very 
+serious notice of it. It may be fine sport to you, but it is almost death to yours truly. (at 317– 
+18)
+Taking offence at the letter, the claimant did not reply. Instead of writing again, the defendant chose 
+to create his own disturbances: banging on the wall, clattering metal trays together, whistling and 
+shouting each time he heard music emanating from the claimant’s house. In response, the claimant 
+sued in private nuisance—unsurprisingly the claim was met by a counterclaim from the defendant.
+The claimant won an injunction against the defendant, but his counterclaim was not allowed. Giving 
+judgment, North J commented that the defendant had acted ‘only for the purpose of annoyance’, 
+adding ‘in my opinion, it was not a legitimate use of the defendant’s house’ (at 327).
+It can be seen from this case that—with reference to the earlier scales analogy—both claims may have been 
+equally weighted until the defendant’s malicious motive was added to the equation. This firmly tipped the 
+scales in favour of the claimant.49
+p. 565
+49
+18. Trespass to land and nuisance
+Page 30 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Pause for reflection
+What do you think would have happened if, instead of writing the letter, the defendant had sued the 
+claimant in nuisance, alleging that the music was ‘to me and mine … a confounded nuisance and 
+[causes] pecuniary loss, and, if allowed to continue, it must most seriously affect our health and 
+comfort. We cannot use the back part of our house without feeling great inconvenience through this 
+constant playing, sometimes up to midnight and even beyond’? Do you think the outcome of this case 
+was correct? Would the decision have bettered the relationship between the neighbouring families?
+Having said that the defendant’s bad intention tipped the balance in favour of the claimant in Christie, it does 
+not do so in all cases where malicious behaviour is exhibited. In Bradford Corporation v Pickles [1895], the 
+defendant deliberately drained his land with the intention of decreasing the water supplied to his neighbour, 
+in the hope that this would force the neighbour to buy his land. However, the House of Lords rejected the 
+claim, refusing to take the defendant’s alleged malice into account.
+Counterpoint
+Bradford is distinguishable from Christie in various ways. In Bradford, the claimant had no right to 
+receive the water supply and therefore no right had been interfered with on which to base the alleged 
+nuisance. As the case involved so-called ‘natural rights’ (water rights) and it was already well 
+established that a landowner has the absolute right to do as he wishes with water filtering through his 
+land even if his behaviour appears utterly unreasonable to others, the defendant’s motive was 
+‘irrelevant’. That said, a laissez-faire attitude prevailed when Bradford was decided, and a lenient 
+approach was taken to people who wanted to better themselves—in fact this was seen as largely 
+commendable. Pickles had done no more than try to get a good deal on the sale of his land—his 
+behaviour was not malicious, but sensible. Perhaps what has caused this case to be included in 
+textbook sections on malice or bad motive is the fact that the case speaks of Mr Pickles as being an 
+unpleasant character—possibly, whether this was true or not, the claimants wanted to portray him as 
+such to make his behaviour look all the more malicious and encourage the court to follow Christie.
+Malice was, however, present in Hollywood Silver Fox Farm Ltd v Emmett [1936]. Here, the defendant 
+deliberately fired guns near his land’s boundary with the claimant’s fox farm, knowing this would distress 
+the foxes and probably stop them breeding. An injunction was granted to stop him, even though the 
+claimant’s use of the land for the specific purpose of breeding foxes could be said to be abnormally sensitive. 
+Had noise been made by the defendant without malice (e.g. if noise was a natural consequence of his use of 
+land), the claim would likely have failed.
+p. 566
+18. Trespass to land and nuisance
+Page 31 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Pause for reflection
+Does taking malice into account, where relevant, seem to make private nuisance at least in part based 
+on conduct? If the defendant’s conduct is to be considered, can it truly be said that nuisance is a 
+consequence-based tort?
+18.3.4  Defences to nuisance
+Several defences can be raised against actions in private nuisance. The general defences of contributory 
+negligence and volenti non fit injuria (Chapter 10) may apply. Additionally, defences specific to nuisance 
+claims (including public nuisance) exist. The most important of these are dealt with here,50 before we 
+consider some things that are not valid defences. Many of these issues were considered in Coventry.
+18.3.4.1  Statutory authority
+If the defendant’s activities are authorised by statute or, more specifically, a statute provides that the 
+defendant must use their land in a particular way, which then inevitably causes a nuisance to a neighbouring 
+land user, the defendant has a total defence to nuisance claims (Manchester Corporation v Farnworth [1930]). 
+So, although nuisance may be established on the facts, the claimant will have no remedy. In a sense, this 
+illustrates the idea of separation of powers—courts cannot challenge or undermine what Parliament has 
+determined the situation should/will be. Convention suggests that Parliament will have considered what best 
+suits the area and its occupants, including the various conflicting uses of land. Statute may also authorise 
+whether, when and how much compensation must be paid to those affected by the defendant’s activities.
+Statutory authority, then, is exactly that. The defendant has the authority, created by statute, to use their land 
+in a particular way, with particular consequences. This must be distinguished from planning permission, 
+which we discussed when looking at the nature of the locality in private nuisance claims (section 18.3.3.2). 
+Similarly, environmental permits have been found neither to be equivalent to statutory authority nor to 
+change the nature of a locality (Barr and others v Biffa Waste Services Ltd [2012]).
+The effect of statutory authority is clearly illustrated in Allen v Gulf Oil Refining Ltd [1981]. The expansion of 
+the Gulf Oil company in part of Wales was expressly authorised by the Gulf Oil Refinement Act 1965. The 
+statute stipulated that an oil refinery should be built but was silent on the way it should operate once in use. 
+Local residents claimed in nuisance, alleging that noise and vibrations emanating from the refinery caused 
+them unreasonable levels of disturbance and asking that its operations cease. The House of Lords viewed the 
+issue as hinging upon statutory interpretation and considered whether the nuisance was impliedly or 
+expressly authorised by the statute. However, it also placed the burden of establishing this on the defendant, 
+meaning that the test for the defence has a high threshold. A bare majority held that the refinery’s operations 
+were implicitly authorised by statute, meaning that the nuisance caused by its operation was inevitable, 
+raising a full defence to the claim.
+50
+p. 567
+18. Trespass to land and nuisance
+Page 32 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Pause for reflection
+It is interesting to note that the claimants in Allen would potentially have been successful in 
+negligence, had the nuisance created exceeded that which was impliedly authorised by the statute. 
+That said, in order to be able to sue in negligence, each claimant would have needed to establish a 
+tangible harm on which to base their claim. What was the ‘harm’ here and could a claim in negligence 
+be based on this?
+While statutory authority remains a defence to nuisance, it must now be considered alongside the HRA. 
+Section 3(1) of the HRA requires legislation to be interpreted compatibly with people’s fundamental rights 
+under the ECHR. Clearly, in nuisance, the most apparent of these rights is that from Article 8(1) which 
+guarantees respect for one’s private, home and family life. The inclusion of the word ‘home’ seems to suggest 
+that nuisance-type claims suffered by ‘ordinary’ people may have a human rights dimension. In the context 
+of statutory authority, this means that courts must be careful in the way they interpret statutes giving a 
+defence to a claim in nuisance, particularly when ‘implying’ an authorisation rather than it being expressly 
+↵
+written. It should also be remembered that Article 8(2) allows derogation from the right where this 
+satisfies a legitimate aim, is in accordance with the law and is necessary in a democratic society. While this 
+does not necessarily provide an escape clause for the creators of nuisance under statute, the fact that 
+Parliament has authorised an activity suggests that individual claimants trying to rely on human rights 
+arguments might still face an uphill struggle.
+Hatton v UK (App No 36022/97) (2003) 37 EHRR 28 (ECtHR)
+The claimant lived near Heathrow Airport. In 1993, a new system for controlling night flights was 
+introduced, relying on a ‘noise quota’ as opposed to a restriction on the number of flights into or out 
+of the airport. Hatton and other nearby residents claimed that the pattern of night flights from the 
+airport was an unreasonable use of land in that it generated too much noise, which caused lack of 
+sleep and other symptoms, in violation of their right to respect for private, home and family life under 
+Article 8(1). Although the claimants could seek judicial review of the night flights operation, they 
+argued that they had not received (and could not receive) an effective remedy for this violation, in 
+breach of Article 13.51
+The lower chamber of the ECtHR agreed that there was a violation of Article 8(1) and that any 
+derogation from this under Article 8(2) had to be proven, rather than assumed. Modest damages of 
+around £4,000 were awarded.52 However, on appeal by the UK Government, the Grand Chamber 
+overturned the Article 8(1) finding, based on the exceptions permitted by Article 8(2). In particular, 
+the Grand Chamber noted that night flights would reasonably contribute to the economic wellbeing of 
+p. 568
+51
+52
+18. Trespass to land and nuisance
+Page 33 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+the country and that affected residents could move from the area if they wished.53 However, the 
+Article 13 finding was upheld, so the claimants received the compensation: although the decision 
+could be judicially reviewed, this could not provide the claimants with an effective remedy.
+18.3.4.2  Twenty years’ prescription and coming to nuisance
+An otherwise unreasonable user of land has a defence if they can show that they have been using their land in 
+the way complained of for more than 20 years in which the claimant had been able to claim. The time starts 
+from the point at which the claimant becomes aware of the nuisance-causing activity.
+Sturges v Bridgman (1879) LR 11 Ch D 852 (CA)
+The defendant had operated as a confectioner for more than 20 years in premises adjoining the 
+garden of premises where a doctor practised. The confectioner used grinding equipment in the rear of 
+his premises. The doctor built a consulting room in his garden and then found that 
+↵
+noise and 
+vibrations emanating from the confectioner’s work interfered with his work. He sued in nuisance for 
+an injunction to prevent the grinding from continuing. The confectioner argued that this should not 
+be granted on the grounds that (a) he had operated in the same way for such a long time and (b) the 
+doctor, in building his consulting room where he did, had ‘come to the nuisance’.
+The injunction was granted even though the confectioner had operated in the same way from those 
+premises for more than 20 years—and the doctor knew this and had made no prior complaints. The 
+time ran only from the point that this began to be a nuisance, and this was after the consulting room 
+had been built by the doctor. The court also viewed ‘coming to the nuisance’ as an ineffective defence, 
+which could not be relied upon by the confectioner.
+This decision seems somewhat harsh. The doctor, knowing who his neighbour was, built his consulting room 
+right by the site of the activity that would—perhaps inevitably—become a nuisance to him. However, it has 
+long been the case that ‘coming to the nuisance’ is not a defence, and the defence of 20 years’ prescription did 
+not apply as the claimant was able to argue that he only became aware of the nuisance once his surgery was 
+extended.54 Put another way, nuisance protects people even if their actions (e.g. moving closer to a boundary 
+fence) result in those of their neighbour becoming a nuisance. This is increasingly an issue as cities and 
+towns expand, as residential areas are built ever closer to things such as sewage works and factories that were 
+once on the outskirts. Even though it might be argued that people should choose carefully where they move 
+to, or research an area more thoroughly, it is no defence for these industries to say they were there first.
+53
+p. 569
+54
+18. Trespass to land and nuisance
+Page 34 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Miller v Jackson [1977] is a classic example. The defendant cricket club had played on its ground for more than 
+70 years when adjacent land was sold to developers who subsequently built a housing estate. The claimants 
+bought one of the houses and claimed in nuisance alleging that cricket balls were frequently hit into their 
+garden. The fence around the cricket ground had already been raised when the houses were built; a 
+recognition of the fact that the club should do its best to prevent stray balls. A majority of the Court of Appeal 
+(Lord Denning MR dissenting) reluctantly found the club’s activities actionable in nuisance. Sturges was 
+affirmed as good law—the fact that the claimants had ‘come to the nuisance’ was not a defence. In so 
+deciding, the majority prioritised the personal right of claimants freely to enjoy their land, even where this 
+may have negative effects on established enterprises or community interests. However, had an injunction 
+been awarded, it would effectively enable people who had chosen to move into the houses overlooking the 
+cricket ground to stop it from being played. In Miller, a different majority (Lord Denning MR and Cumming- 
+Bruce LJ) refused the claimants an injunction, awarding damages instead, on the ground that community 
+interests outweighed the personal interests of the claimants.
+Counterpoint
+Miller, particularly Lord Denning’s judgment, warrants closer scrutiny, as it further illustrates the 
+subjective nature of the tort of nuisance. While textbook accounts of nuisance deal with concepts and 
+tests which seem to exist in and of themselves and assume rationality, Lord Denning’s judgment 
+shows that, actually, a particular legal outcome is preferred which subsumes nuisance almost entirely 
+within personal judicial preferences. Indeed, arguably the only significant constraint on judges is the 
+linguistic one that they must justify their decisions using the language of these concepts, tests and 
+standards, rather than by reference to the subjective preferences that in fact underlie them. It is 
+judges, for example, who decide what kind of inconvenience claimants should have to tolerate. They 
+do this by reference to what is required of the ordinary reasonable person (taking into account what 
+they feel their expectations ought to be as a resident of the area in which they live—e.g. Bermondsey 
+or Belgrave Square). This, particularly when allied with the locality rule, has operated as an excellent 
+vehicle for judicial prejudices while at the same time disguising the essentially class-based nature of 
+the exercise being carried out. The whole balancing exercise undertaken in the test of 
+‘reasonableness’ is a means by which judges can offer their intuitive sense of the justice of the case as 
+a legal solution. Our fascination with learning ‘rules’, principles and concepts arguably, therefore, 
+distracts us from what is really going on.
+Conaghan and Mansell argue that textbook emphasis on the minority status of Lord Denning’s 
+judgment in Miller downplays its subversive aspects.55 After all, if he failed to persuade the rest of the 
+Court of Appeal, why should we look at his judgment? The important point is that Denning ‘felt free to 
+deny liability’, to fail to find an actionable nuisance, taking into account the nature of the locality and 
+the value of the defendant’s activity. As Conaghan and Mansell point out, however, ‘at the same time, 
+to impose liability as the majority held, emphasising the degree of inconvenience experienced by the 
+plaintiffs in the enjoyment of their property (including the threat of physical danger) was also neither 
+p. 570
+55
+18. Trespass to land and nuisance
+Page 35 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+inappropriate nor incorrect. Either outcome could be considered consistent with legal doctrine. The 
+difference between the majority and minority on the question of liability is explicable largely in terms 
+of the weight attributable to the social value of cricket’ (emphasis added).56
+They continue:
+For Lord Denning cricket is a game, which in the summertime ‘is the delight of everyone’. It 
+is a game where ‘the young men play and the old men watch’, a game which, in this instance, 
+has gone on for 70 years on a green which until recently was adjoined by ‘a field where cattle 
+grazed’. This field has now become a housing estate occupied by, among others, the plaintiff, 
+‘a newcomer who is no lover of cricket’. Lord Denning views the closure of the cricket club as 
+a potentially disastrous calamity. The cricket ground might be replaced by ‘more houses or a 
+factory. The young men will turn to other things instead of cricket. The whole village will be 
+much the poorer. And all this because of a newcomer who has just bought a house there next 
+to the cricket ground’ (p 341). In 
+↵
+this passage, Denning is appealing to a quaint and 
+charming picture of English country life. He conjures up images of green fields, sleepy sunny 
+afternoons, the quiet sounds of a cricket match on a summer’s day. His head is populated 
+with old men, young men and grazing cattle. His characters are white, male and English. 
+Threatening this bucolic vision of English men at play is a newcomer, the sort of person who 
+lives on a housing estate, who does not appreciate the finer points of cricket, who might even 
+be female and who brings in her wake the threat of social degeneration as young men are 
+forced to abandon cricket and go to work in factories.57
+Lord Denning’s imagery is deliberate. Its purpose is to persuade the court that there was no nuisance 
+(rather than merely refusing the injunction, as the majority held). However, his description of rural 
+England borders on overstatement. As William Twining notes:
+Lord Denning missed an important trick as an advocate. By innuendo (or confabulation) he 
+suggests a romantic picture of rural life in the South of England—a nostalgic evocation of 
+village cricket in Hampshire between the Wars, almost straight out of England Their England. 
+But Lintz was a depressed mining village in the North of England, where cricket is a serious 
+matter. Would not a picture of an impoverished community dependent on an activity that 
+seriously engaged young males be a much stronger argument for saying that this was a 
+reasonable use of land?58
+Though public benefit or the ‘utility’ of the defendant’s activity was once a factor that had some bearing on 
+whether that activity would be regarded as a nuisance, these days the utility value (e.g. the overall benefit to 
+society) of the defendant’s use of their land is generally not taken into consideration (or not explicitly) when 
+asking whether it is unreasonable.59 That said—except, perhaps, for Lord Denning—it was never a factor that 
+carried heavy weight (see e.g. Adams v Ursell [1913]). However, utility is apparently still considered by courts 
+56
+p. 571
+57
+58
+59
+18. Trespass to land and nuisance
+Page 36 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+when determining what remedy should be awarded to the claimant. Claimants seeking a cessation of 
+nuisance-causing activities require an injunction. As we will see, courts have considerable discretion in 
+deciding whether an injunction should be granted and, if so, to what extent the defendant’s activities should 
+be prevented. Where the defendant’s activity has social utility, an injunction is less likely to be awarded as the 
+court may deem it appropriate that the activity should continue (see Dennis v Ministry of Defence [2003]).
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-18-3>.
+18.4  Remedies and the human rights dimension
+Although it makes sense for us to consider remedies for private nuisance here, it is important to note that the 
+remedies we detail can also be sought in relation to claims in trespass, public nuisance and under the rule in 
+Rylands v Fletcher.
+↵
+There are two main remedies in nuisance: injunctions (which seek to prevent or stop a nuisance) and 
+damages (compensation). In basic terms, the primary remedy for nuisance is an injunction. As we shall see, it 
+is also possible for a claimant to recover under the HRA.
+18.4.1  Injunctions
+A claimant seeking an injunction is asking the court to prevent the part of the defendant’s activity that 
+amounts to a nuisance, rather than to prevent the activity from continuing in its entirety (though sometimes 
+the two may be indistinct). As an injunction is an equitable remedy it is discretionary. A court can therefore 
+decide to award an injunction in whole or in part (e.g. injunctive relief might be temporary or partial—that is, 
+it may operate for a specific period of time or may restrict particular activities at certain times of the day). As 
+seen in Miller, courts are generally willing to award an injunction unless there are specific reasons that 
+indicate damages would be more suitable (Shelfer v City of London Electric Lighting Co [1894]; Regan v Paul 
+Properties Ltd [2006], Anslow v Norton Aluminium [2012]).60 It was confirmed in Coventry that the prima facie 
+position is that an injunction should be granted, unless the defendant can convince the court why it should 
+not be (at [121]).
+In Shelfer, a pub landlord complained that vibrations and noise caused by the defendant were a nuisance and 
+he was granted an injunction, even though doing so would inevitably deprive many people in the London area 
+of electricity. Smith LJ laid down four conditions that a court must consider when deciding whether to grant 
+damages in lieu (in place of) of an injunction: whether the injury to the claimant is small, can be estimated in 
+money terms and compensated by a small monetary payment, and whether the granting of an injunction 
+would be oppressive for the defendant (at 322–3).
+p. 572
+60
+18. Trespass to land and nuisance
+Page 37 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Whilst not saying that damages can never be awarded, the implication was that damages should be a ‘rare’ 
+outcome. If a defendant has already been judged to be an unreasonable user of land, it hardly seems 
+appropriate that the harm suffered by the claimant would be characterised as ‘small’ and ‘adequately 
+compensated’ by money. It is the nature of the harm itself—particularly when claims are made in respect of 
+amenity interest—that makes injunctions more appropriate. In Shelfer, the court was concerned to prevent 
+defendants (who often have more legal presence and strength than claimants) from ‘buying the right’ to 
+commit nuisance by paying damages to those affected. Lord Neuberger reviewed the authorities in Coventry, 
+concluding that each of the Shelfer criteria was in some way flawed and:
+(i) an almost mechanical application of A L Smith LJ’s four tests, and (ii) an approach which involves 
+damages being awarded only in ‘very exceptional circumstances’, are each simply wrong in 
+principle, and give rise to a serious risk of going wrong in practice. (at [119])
+Instead he found that the decision whether or not to award damages in lieu of an injunction was a matter of 
+discretion, which would depend on the facts of each case, and ‘should not … be fettered’ (at [120]).
+As we have already discussed, the appropriateness of an injunction was examined by the Court of Appeal in 
+Miller where the majority held that an injunction should not be granted, despite the cricket club’s activities 
+being a nuisance. The decision to award damages in lieu was in part justified on the basis that village cricket 
+was an activity that held much ‘public interest’. This issue was raised again in Kennaway.
+Kennaway v Thompson [1981] QB 88 (CA)
+The claimant complained that noise from power-boat racing in a lake close to her home was a 
+nuisance. The defendants contended that she had chosen to build her house near the lake in the 
+knowledge that some racing took place, thus she should not be entitled to an injunction.
+In the Court of Appeal, Lawton LJ was critical of the judgment in Miller, finding that the relevant 
+authority was Shelfer, in light of which the claimant should be awarded an injunction despite the fact 
+she may have been aware of the power-boat racing or any public interest that might be involved in 
+allowing the activity to continue. Exercising its discretion, the court awarded only a partial injunction, 
+requiring the racing organisers to adhere to a planned timetable of events.
+Essentially, the partial injunction awarded in Kennaway was used to create a compromise between 
+neighbouring users of land. As we have highlighted, being reasonable neighbours requires some give and 
+take—in such a situation the claimant might be expected to have to put up with some noise; the Court of 
+Appeal was simply establishing how much was reasonable.61
+p. 573
+61
+18. Trespass to land and nuisance
+Page 38 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+More recent case law—as well as the provisions of the HRA—seems to indicate that a different approach to 
+remedies may be required if the activity complained of is carried out by a public authority in the public 
+interest. In such cases, even when an activity amounts to a nuisance, it may be felt that the public interest in 
+the continuation of the activity outweighs the claimant’s right to an injunction and that damages might be 
+more appropriate.62 This idea is explored further later.
+18.4.2  Abatement and damages
+Abatement is a ‘self-help’ remedy where the claimant takes it upon themselves to do something to stop the 
+nuisance continuing. Clearly, this is a risky strategy—by acting in this way, one might become a trespasser. 
+As such, it has limited application to most nuisances, though might apply in situations where the problem 
+complained of is one of encroachment. That is where, for example, tree roots or branches from one property 
+grow so that they encroach (intrude) into a neighbouring property. Often in such cases, instead of issuing 
+nuisance proceedings, a potential claimant may avail themselves legitimately of the remedy, as long as they 
+do no more than is necessary to abate the nuisance.63
+Aside from where damages are awarded in lieu of an injunction, damages (perhaps as well as an injunction) 
+may be considered appropriate in other nuisance claims. In Raymond v Young [2015], the claimants suffered 
+multiple trespasses and persistent harassment and nuisance from their neighbours for nearly 40 years. The 
+Court of Appeal found that it could be appropriate to award damages for the loss of value to a property, even 
+where a full injunction had been granted. However, courts should not award damages for loss of amenity in 
+addition to the damages for lost value, as that would constitute double recovery.
+↵
+Except for trespass, the land torts become actionable only with proof of harm. Damages awards are 
+subject to the foreseeability test set out in The Wagon Mound (No 1) [1961], namely that the liability can arise 
+only for damage of a type that can be reasonably foreseen. As these are land torts, however, the question of if 
+and when damages for personal injury should be awarded is a difficult and contentious one. Put simply, if the 
+harm must be categorised as a harm to the land (or an interest in it), then how can personal injury fall into 
+that category?
+In private nuisance (and under the rule in Rylands v Fletcher), it is technically not possible to claim damages 
+for personal injury: the torts protect the claimant’s interest in land only. Therefore, damages for private 
+nuisance are awarded only where the value of the land concerned (in sale or rent) has decreased, or for the 
+effect a nuisance has on the claimant’s use and enjoyment of the land (their ‘amenity’ interest).64 
+Consequently, one effect of damages compensating injury to land and not the person is that the award will 
+not increase even if many people are affected on the same piece of land (Hunter).
+However, ‘personal injury’ (for which the appropriate claim would be in negligence) is not the same as 
+‘personal discomfort’. The latter is more properly regarded as part of a diminished enjoyment of the land in 
+question (lost amenity), for which damages are recoverable. In Bone v Seale [1975], for example, the claimant 
+recovered damages for the personal discomfort they suffered because of the unpleasant smell emanating 
+from a neighbouring pig farm. While the monetary value of the claimant’s land could not be shown to have 
+decreased, the damages reflected the claimant’s lost enjoyment of the land while affected by the smell (this 
+must be the case, otherwise smell could never be a nuisance).
+62
+63
+p. 574
+64 
+18. Trespass to land and nuisance
+Page 39 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Pause for reflection
+Do you find this argument convincing? In claims of this type, is it the land that suffers (because there 
+are smells that come over it) or the claimant (who complains about the smell)? If it is truly the land 
+that suffers, it must follow that all neighbours would be equally affected. However, as people have 
+different sensitivity to smells, not all would consider the same smell to be a nuisance—how can it be 
+the land that is affected? Would the argument carry more or less weight if the people complaining 
+were actually made physically sick by the smells? Would it be better simply to acknowledge that 
+personal injury is recoverable in private nuisance?65
+Because of the nature of the harm (to land), economic losses such as lost profits can be recovered only where 
+they are a consequence of the claimant’s inability to use their land to make those profits. Put another way, 
+economic loss consequential upon damage to a proprietary interest may be recoverable, but ‘pure’ economic 
+loss is not. For example, in Andreae v 
+↵
+Selfridge & Co Ltd [1938] a hotel owner received damages for lost 
+profits when her hotel suffered a drop in custom while the defendants carried out construction work nearby. 
+It is far easier to claim for damage to property. Damages for this type of harm are readily recoverable and 
+their quantification is straightforwardly assessed according to normal principles. In Halsey v Esso Petroleum 
+Co Ltd [1961], damages were even awarded for damage to clothes hung on a washing line in the claimant’s 
+garden.
+Pause for reflection
+Does the fact that a claimant could recover damages for something as ‘unimportant’ as laundry seem 
+surprising to you? Damage to any kind of property owned by the claimant is compensable—in 
+practical terms this means that while a claimant would be unable to recover for their own broken leg, 
+they would be able to recover damages for the broken leg of any animal on the land owned by them!66 
+Can this be a correct distinction?
+That said, it seems that damage to property must be allowed, even though damages for personal 
+injury remain unavailable. What would happen if a farmer complained that poisonous fumes which 
+emanated from the defendant’s factory subsequently not only ruined his crops but also caused some 
+of his cattle to die? If he could recover only for damage to his land then the farmer would be awarded 
+only damages for his crops (which would be treated as part of the land in question). Yet both are 
+simply alternative means of farming one’s land—so there would seem to be no reason why the law 
+should protect one and not the other.67
+65
+p. 575
+66 
+67
+18. Trespass to land and nuisance
+Page 40 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+18.4.3  Under the Human Rights Act 1998
+The ECtHR has held that forms of environmental pollution nuisances may fall within the scope of the right to 
+respect for home and private life provided for in Article 8(1).68 For example, in Powell and Rayner v UK [1990], 
+a case about noise from Heathrow Airport, the ECtHR held that the rights of Mr Rayner, who owned land just 
+over a mile away from a major runway, were clearly at stake because of the noise levels (although it 
+ultimately found that running the airport was a modern economic necessity which justified the violation 
+under Art 8(2)).69 In comparison, in López Ostra v Spain [1995], the claimant’s Article 8 rights were found to 
+have been unjustifiably violated by exceptionally severe pollution coming from a factory 12m away from her 
+home. This was the first time that what might be termed an ‘environmental’ case had succeeded.70
+Marcic v Thames Water Utilities plc [2003] UKHL 66 (HL)
+Marcic sued in private nuisance and for violation of his Article 8 rights following frequent sewage 
+floods at his home. The sewage flooded his garden and lapped at his back step but never entered his 
+house. Thames, the sewerage undertaker, prioritised renovation work to combat internal flooding. 
+The cause of the flooding was the overloading of the sewer network which, although originally 
+adequate, by then had too many properties connected to it (under statute, new properties are given a 
+right to discharge into the existing sewerage network). Marcic asked for damages and an injunction 
+compelling Thames to make improvements.
+The Court of Appeal relied on Powell and Rayner and S v France [1990]—a case about interference with 
+property from a nearby nuclear plant—finding that if a ‘fair balance’ was to be struck between 
+claimants whose rights have been breached and the public interest, then even though states have a 
+margin of appreciation, they must still compensate those whose rights are necessarily breached. In S 
+v France, the Commission said that: ‘when a state is authorised to restrict rights or freedoms 
+guaranteed by the Convention, the proportionality rule may well require it to ensure that these 
+restrictions do not oblige the person concerned to bear an unreasonable burden’ (at 263). Thus, the 
+Court of Appeal awarded Marcic compensation.71
+The House of Lords rejected the nuisance action, holding that Thames had not acted unreasonably. 
+The law lords stressed the position that Thames was in; that is, it was a company which funded 
+improvements to, inter alia, the sewerage network under a formula derived from legislation (Water 
+Industry Act 1991) and operated by the regulator for the water industry (Ofwat). This was the 
+downfall for the human rights claim: the law lords considered that Parliament had already provided 
+statutory remedies (enforcement orders), which Ofwat could serve on sewerage companies where it 
+felt that they should do more to protect the interests of their customers. So, the issue was whether 
+this statutory scheme violated Marcic’s human rights. The law lords held that it struck the right 
+balance between the different interests involved (e.g. the interests of those affected by flooding and all 
+customers who ultimately pay for systematic improvements through their bills). Lord Nicholls found 
+that ‘the malfunctioning of the statutory scheme on this occasion does not cast doubt on its overall 
+fairness’ (at [53]). Essentially, Marcic lost because he had not asked Ofwat to make an enforcement 
+68
+69
+70
+p. 576
+71
+18. Trespass to land and nuisance
+Page 41 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+order and instead took a private law action in the courts. That is, he had not established the required 
+‘domestic irregularity’. Had Marcic’s claim succeeded, it was estimated that the cost to Thames would 
+have been in the region of £1 billion.
+Pause for reflection
+Lord Nicholls went on to say (echoing the Court of Appeal judgment) that ‘the minority who suffer 
+damage and disturbance as a consequence of the inadequacy of the sewerage system ought not to be 
+required to bear an unreasonable burden’ (at [45]), but did not expand further. Lord Hope addressed 
+this point, finding that by compensating those whose properties are flooded internally, offering a free 
+clean-up service in the case of external flooding and bearing in mind Thames’s obligation to allow 
+domestic connections and the funding formula, a fair balance was struck.
+↵
+The effect of Marcic was to protect sewerage companies at the expense of customers. Because a 
+scheme for making enforcement orders under the Water Industry Act 1991 exists, water and sewerage 
+companies—who often operate at considerable profit—will rarely have to compensate those who 
+suffer because of their inaction.
+In Dobson v Thames Water Utilities Ltd [2008] many claimants, some with proprietary rights and some with no 
+legal interests (including children), also sued in respect of sewage treatment works operated by Thames. 
+They complained that odours and mosquitoes caused them a nuisance because of Thames’s negligence. 
+Unlike in Marcic, Thames should therefore be liable for damages for nuisance, negligence and under the HRA 
+(based upon alleged violations of Art 8 and Art 1 of Protocol 1 to the ECHR). Thames countered that 
+complaints about odour or mosquitoes from the sewage works were about a failure of its duty to ‘effectually 
+deal’ with the contents of sewers at the sewage works under the Water Industry Act 1991 and/or a failure 
+properly to treat wastewater received and discharged by the sewage works in accordance with the Urban 
+Waste Water Treatment (England and Wales) Regulations 1994. Further, as such failures were enforceable 
+under section 18 of the 1991 Act by Ofwat, following Marcic, no common law remedy or remedy under the 
+HRA arose towards individual claimants. Ruling on preliminary issues in the High Court, Ramsey J agreed 
+that the Marcic principle would preclude a nuisance claim, absent negligence. However, where the allegation 
+related to a nuisance caused by negligence, a claim would lie.72 Similarly, a claim under the HRA was allowed 
+to proceed.
+This issue has become particularly pertinent in recent years, which have seen increasing incidences of water 
+companies discharging raw sewage into rivers and the sea around Britain, particularly after storms, because 
+the infrastructure cannot cope with heavy rainfall. A recent claim arose out of a long-running dispute 
+between the Manchester Ship Canal Co (MSCC) and United Utilities Water relating to the discharge of 
+untreated sewage into the canal. United Utilities argued that, following Marcic, no action in nuisance was 
+p. 577
+72
+18. Trespass to land and nuisance
+Page 42 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+available to MSCC, absent negligence on their part. The Court of Appeal agreed, finding that preventing such 
+discharges would require new infrastructure and Parliament had left questions about this to the regulators, 
+considering the wider public interests involved, and provided the statutory protections under the 1991 Act. 
+However, a seven-member Supreme Court unanimously allowed MSCC’s appeal, finding that the statutory 
+framework does not prevent a claim in nuisance (or trespass) arising, even where there has been no 
+negligence (or deliberate misconduct). Giving the leading judgment, Lords Reed and Hodge said:
+In our view, the appropriate starting point is to recognise that the owner of a watercourse … has a 
+right of property in the watercourse, including a right to preserve the quality of the water … 
+↵
+That right is protected by the common law of tort. There is no doubt that the discharge of 
+polluting effluent from sewers, sewage treatment works and associated works into a privately- 
+owned watercourse is an actionable nuisance at common law, if the pollution is such as to interfere 
+with the use or enjoyment of the relevant property. (The Manchester Ship Canal Co Ltd v United 
+Utilities Water Ltd (No 2) [2024] at [108]–[109])
+In the Court of Appeal in Dobson, the ‘negligent nuisance’ finding was not disputed, but the appropriateness 
+of the available remedies was.73
+Two issues were considered on appeal. First, had the child claimants in Dobson received ‘just satisfaction’?74 
+Ramsey J had concluded that they had, in the damages that were awarded to their parents for the nuisance to 
+the household (at [209]). The Court of Appeal refused to say so as bluntly, instead preferring to be directed by 
+comments from Hunter to the effect that the impact on all occupiers of the land in question may have been 
+considered when assessing damages in nuisance. According to Waller LJ, the essential question was:
+whether it is necessary to award damages to another member of the household or whether the 
+remedy of a declaration that Article 8 rights have been infringed suffices, alongside the award to the 
+landowner, especially where no pecuniary loss has been suffered. (at [45], original emphasis)
+This issue would have to be readdressed at a new trial and accordingly Ramsey J’s decision was reversed on 
+this point (at [46]). The second issue was similar: could those with proprietary interests, who had already 
+received damages for nuisance, claim additional damages under the HRA (i.e. for their own personal damages 
+rather than damage to the ‘land’)? Predictably, given their comments quoted earlier, the Court of Appeal 
+found that this would be ‘highly improbable, if not inconceivable’ (at [50] and [52]). Unsurprisingly, 
+therefore, in Dobson and others v Thames Water Utilities Ltd (No 2) [2011], Ramsey J found that no additional 
+damages under the HRA were justified: damages already given for the nuisance constituted ‘sufficient just 
+satisfaction’.
+The HRA does not provide for a tort of ‘breach of the Convention’ which one individual can rely on against 
+another. But, as we have seen, when deciding cases involving human rights, courts must consider whether a 
+claimant receives ‘just satisfaction’ for violations of those rights. If domestic law does not provide a sufficient 
+remedy then additional remedies may become necessary. There is no reason, however, why these must be 
+remedies in tort.
+p. 578
+73
+74 
+18. Trespass to land and nuisance
+Page 43 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Further, despite what we have said in relation to Miller, the role played by the social or public interest in an 
+activity has become part of the consideration of the appropriate remedies for a proven nuisance.75 This 
+overlaps with the impact of the HRA, as can be seen in Dennis.
+Dennis v Ministry of Defence [2003] EWHC 793 (QB)
+Dennis was the owner of a large estate near Stamford in Cambridgeshire, situated about two miles 
+from RAF Wittering, a site owned by the Ministry of Defence (MOD) and used as an operational and 
+training base for Harrier jump jets. Frequent noise (on average 70 occurrences each day) from the 
+planes, which were often flown at low altitude, caused Dennis and his family disturbance. They 
+argued that this caused diminution in the capital value of the property and that they had been unable 
+to develop the commercial potential of the estate, consequently losing profit. Dennis sought an 
+injunction and damages or damages in lieu amounting to £10 million.
+The MOD accepted that flying the aircraft caused noise and disturbance to the claimant but not that it 
+was an actionable nuisance. It countered the claim with several arguments, including that the use of 
+RAF Wittering for training pilots was an ‘ordinary use’ of land in the modern era and that the training 
+exercises were undertaken for the public benefit. Furthermore, the MOD contended that the claimants 
+had ‘come to the nuisance’ and/or that it had gained a prescriptive right to use the land for training 
+Harrier pilots; and that the claimants’ land was not capable of generating the commercial profit they 
+had estimated.
+The court refused an injunction and instead awarded Dennis £950,000 damages. This was meant to 
+represent any loss of capital value, and reflect past and future loss of use and amenity in the land. 
+Buckley J held that (a) the noise from the Harrier jets was highly intrusive, frightening, persistent and 
+unpredictable and accordingly constituted a very serious interference with the claimant’s amenity 
+interests; (b) the training of Harrier pilots could not be regarded as an ‘ordinary use’ of land even 
+where the use was justifiable on other grounds. The level of noise and disturbance had increased 
+considerably since the introduction of Harriers in 1969. The use was now so extreme that it could not 
+be regarded as a feature of the area. In any event, even if such a use were to be considered ‘ordinary’, it 
+had to be conducted in a manner which minimised disturbance to the claimant; (c) a public benefit 
+might excuse an otherwise actionable nuisance provided no more damage was done than was 
+reasonably necessary (following Marcic). A defence based upon public benefit should not, however, be 
+allowed to succeed where a human rights claim (in this case Art 8(1) ECHR) would succeed.
+In essence, Buckley J reached his decision by balancing the orthodox elements of nuisance with a rights- 
+based approach. The ‘public benefit’ of training Harrier pilots was not considered when determining whether 
+the training was a nuisance, but became relevant in determining the appropriate remedy. Factoring in public 
+benefit, Buckley J awarded the claimant damages in lieu of an injunction.76 Therefore, the noise, which the 
+court had agreed was a nuisance, was allowed to continue. Awarding damages in effect allowed the RAF to 
+75
+p. 579
+76
+18. Trespass to land and nuisance
+Page 44 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+‘buy’ the right to continue the nuisance (exactly what the court in Shelfer said should be avoided). So, while 
+‘public benefit’ (as defined by the court) cannot prevent 
+↵
+something being a nuisance, it can have a 
+significant impact on the remedy, even where human rights are affected.77
+One further point to note regarding potential human rights claims in relation to nuisance is that Article 14 
+ECHR provides that other Convention rights must be enjoyed without discrimination. This might be thought 
+to have the potential to affect the refusal of claims based on standing after Hunter (i.e. who has standing to 
+sue and who does not). However, in Khatun v UK [1998], the European Commission on Human Rights found 
+no violation of Article 14 because everyone in the locality was treated in the same way, meaning there was no 
+discrimination. Put another way, the rich and poor of the London Docklands area were treated alike. That 
+said, Article 14 may affect the locality rule, as judging the reasonableness of a polluting activity (alleged 
+nuisance) differentially according to whether it interferes with a ‘run down’ or ‘high class’ location may well 
+be discriminatory.78
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-18-4>.
+18.5  Public nuisance
+Public nuisance is a crime, which, in some circumstances, where the harm is suffered by a section of the 
+community or the community as a whole, may also lead to a civil action, including where the harm is 
+personal injury.79 Although courts frequently draw comparisons between private and public nuisance they 
+are in reality very different and each seeks to protect very different interests;80 we therefore do not discuss 
+public nuisance in much detail here. Public nuisance is distinct from private nuisance in that its object is the 
+recognition and protection of publicly held rights and not the protection of private property interests. In this 
+sense, claimants do not necessarily claim in respect of some harm done to their interest in land, but in respect 
+of community-based activities.
+An individual may claim in public nuisance only where they have suffered particular harm arising from 
+activity that has materially affected the reasonable comfort and convenience of life of a sufficiently large 
+number of citizens.81 This is because the essential 
+↵
+characteristic of public nuisance is the infringement 
+of a public right, an interference with the interest of a community rather than an individual:
+[A]ny nuisance is ‘public’ which materially affects the reasonable comfort and convenience of life of 
+a class of Her Majesty’s subjects. The sphere of the nuisance may be described generally as ‘the 
+neighbourhood’; but the question whether the local community within that sphere comprises a 
+sufficient number of persons to constitute a class of the public is a question of fact in every case. It is 
+not necessary … to prove that every member of the class has been injuriously affected; it is sufficient 
+to show that a representative cross-section of the class has been so affected … (Romer LJ, Attorney 
+General v PYA Quarries Ltd [1957] at 184)
+p. 580
+77
+78
+79
+80
+81
+p. 581
+18. Trespass to land and nuisance
+Page 45 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+In the same case, Denning LJ also did not say how many people must be affected for a nuisance to be public. 
+Instead, he described a public nuisance as ‘a nuisance which is so widespread in its range or so indiscriminate 
+in its effect that it would not be reasonable to expect one person to take proceedings on his own responsibility 
+to put a stop to it’ (at 191).
+A commonly used example of a public nuisance is an obstruction of the highway, but it covers more than this. 
+As Conaghan and Mansell point out, it has also ‘been held to include quarry-blasting an ill-organised pop 
+festival, and engineering a hoax bomb scare’.82 In Corby Group Litigation v Corby District Council [2009], a local 
+authority was liable in public nuisance for ‘causing, allowing or permitting the dispersal of dangerous or 
+noxious contaminants’ from land reclamation sites, which had caused birth defects in many children born in 
+the area.83 A more recent case illustrates the potential breadth of public nuisance, extending one claim to 
+cover, inter alia, ‘organising, attending or participating in raves’, ‘playing loud music’, ‘urinating and/or 
+defecating other than when making use of toilet facilities’, ‘lighting fires, fireworks, stoves, barbeques and/or 
+naked flames’, ‘consuming or selling of nitrous oxide (laughing gas)’ and ‘bringing vehicles, including any 
+engine or generator, onto any part of the prescribed area’.84
+What constitutes a ‘class’ of Her Majesty’s subjects is a question of fact for the court. We know that it is not 
+necessary to show that every member of that section of the community has been affected, as long as the 
+nuisance can be shown to have affected a representative cross-section of that group of people.85 That said, it 
+is not enough for an individual who wants to claim to show merely that they are a member of the affected 
+group—they must show that they have suffered ‘special’ or ‘particular’ damage in excess of that suffered by 
+the public at large. This can include personal injury (unlike private nuisance), property damage and loss of 
+custom, profit or business. In Castle v St Augustine’s Links [1922], for example, a car driver on the road next to 
+the defendant’s golf course was struck by a golf ball hit from the thirteenth tee. Evidence showed that balls 
+from the golf course frequently went over the highway and the court ruled that the positioning of the 
+thirteenth tee amounted to a public nuisance. The class of persons affected were highway users and among 
+them the claimant had suffered special damage. In Tate & Lyle Industries Ltd v GLC [1983], parts of the riverbed 
+↵
+of the Thames silted up because of ferry terminals erected by the defendants. Large vessels were unable 
+to access a jetty and the claimants incurred expense in carrying out their own dredging operations. Their 
+claim in public nuisance was successful because the building of the ferry terminals had interfered with the 
+public right of navigation enjoyed by all users of the river and special damage had been suffered by the 
+claimant (the cost of the dredging). In R v Rimmington; R v Goldstein, both cases concerning the sending of 
+malicious items through the post, neither defendant was found guilty (these were criminal cases) of public 
+nuisance. Rimmington sent 538 racially offensive items to people across the country. Goldstein had, as a joke, 
+sent some salt through the post to a friend. When the envelope leaked in the sorting office, an anthrax scare 
+ensued. Neither incident, however, affected what their lordships thought to be a ‘class’ of Her Majesty’s 
+subjects in the required way, but only ‘individuals’ (Lord Rodger at [47]).
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-18-5>.
+82
+83
+84
+85
+p. 582
+18. Trespass to land and nuisance
+Page 46 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+18.6  Conclusion
+In this chapter we have started to look at the ‘land torts’. These are distinct from negligence, in that they are 
+supposedly based on establishing liability without fault. Trespass to land involves the direct and intentional 
+act (it must be the act that is deliberate, not the trespass) of entering land upon which you have no 
+permission (express or implied) to be. It is actionable per se, in that no damage needs to have been caused— 
+the (legal) harm is the trespass itself.
+Private nuisance differs in that it governs the relationship between neighbours, producing liability when one 
+neighbour (in the literal sense) interferes with the rights of another to use and enjoy their land. As it is a tort 
+to the land, not to the person, a proprietary interest in the land affected is required to be able to sue (Hunter). 
+Essentially, the rules of nuisance require a certain amount of give and take between neighbours—the tort is 
+committed only when one becomes an ‘unreasonable user’ of land. What makes someone an unreasonable 
+land user is the central question—it has to do with the ordinary use of land, the nature of the locality or 
+neighbourhood and, in respect of the act complained of, its intensity, frequency and duration. A factor that 
+may prevent successful claims—even before defences are considered—is ‘sensitive’ use of the claimant’s 
+land, though this now seems to be subsumed into the more familiar (from negligence) notion of 
+foreseeability (Network Rail).
+Public nuisance differs in its scope and application, not only because it is primarily a crime but also because it 
+seeks to recognise and protect publicly held rights rather than an individual’s property rights. That said, 
+many things that are public nuisances could also be a private nuisance if an individual’s interest in land was 
+affected.
+What may impact most on nuisance law in the future is the development of rights-based claims, particularly 
+with respect to Article 8(1) ECHR. Activities carried out in the ‘public interest’ (though potentially human 
+rights violations) may, however, affect the available remedy. Whereas an injunction would often seem more 
+appropriate, as it stops the nuisance continuing (or limits it), damages may be awarded in lieu where the 
+defendant can show that what is a nuisance to one person (or even many) has a broader benefit for society.
+Decision Tree 18 helps you see the different pathways through the land torts of trespass and private 
+nuisance.
+Explore the elements of these torts using the interactive version of this decision tree <https://  
+iws.oupsupport.com/embed/access/content/horsey9e-student-resources/horsey9e-chapter-18-interactive- 
+decision-tree-18-1>.
+18. Trespass to land and nuisance
+Page 47 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Decision Tree 18.1 Trespass and private nuisances
+18. Trespass to land and nuisance
+Page 48 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+1
+2
+3
+4
+→
+→
+→
+→
+→
+→
+End-of-chapter questions
+After reading the chapter carefully, try answering the questions which follow.
+What is the nature of the harm controlled by private nuisance?
+In negligence, duty of care (and in some cases, the standard of care) is used as a means of restricting claims. 
+Where are such limitations to be found in nuisance?
+Do the land torts appropriately weigh the interests of the individual against those of wider society?
+Do the land torts protect landowners’ interests too much, or not enough?
+If you would like to know what we think, check the answer guidance <https://iws.oupsupport.com/ebook/  
+access/content/horsey9e-student-resources/horsey9e-chapter-18-answers-to-end-of-chapter-questions? 
+options=showName>.
+Answering the problem question
+Consider again the problem question at the start of this chapter. Now having read about the topic, what 
+would be your advice to the various parties?
+Here are some pointers to get you started:
+Lekan, as the creator of all the problems, will be the defendant. The claimants are Sarah, Dusty, Jaipal and 
+Adrienne.
+Sarah is complaining that the smell of the seaweed emanating from Swing High is a nuisance as it makes 
+her feel physically sick. The first question, however, would be whether she has ‘standing’ to sue (Hunter). If 
+she has, though she cannot claim for physical harm, she may be able to claim that this affects her use and 
+enjoyment of land, but whether she succeeds would depend on the factors to be weighed for and against her 
+claim, including the nature of the locality (Coventry).
+Dusty is claiming in respect of noise, which has a long history in nuisance claims. However, he is 14, 
+meaning that it is unlikely he has standing.
+Jaipal’s car has been hit. Is the claim likely to succeed in nuisance, even if she has ‘standing’? Might it be 
+public nuisance?
+Has a harm been suffered by Adrienne? If so, is it in private nuisance or trespass?
+If you need some more guidance:
+p. 583
+p. 584
+18. Trespass to land and nuisance
+Page 49 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+→
+See the annotated version of the problem with issues and cases to consider <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-chapter-18-annotated-problem-question- 
+interactive>.
+Check your answer against the suggested outline answer <https://iws.oupsupport.com/embed/access/  
+content/horsey9e-student-resources/horsey9e-chapter-18-answers-to-problem-question>.
+Further reading
+A good place to start your reading is with Maria Lee’s 2003 article as it shows not only how the tort of private nuisance 
+is not based on constant and clearly definable principles but also on value judgements. For a look at the interaction 
+between public regulation (including planning permission) and private nuisance, Maria Lee’s 2011 article is also worth 
+reading. Steel’s analysis of the locality rule, after Coventry, is also helpful, as is Nolan’s chapter. James Lee’s 2023 
+note on Fearn is good, too.
+Campbell, David ‘Of Coase and Corn: A (Sort of) Defence of Private Nuisance’ (2000) 63 Modern Law Review 197
+Lee, James ‘Different Views of Nuisance’ (2023) 129 Law Quarterly Review 535
+Lee, Maria ‘What is Private Nuisance?’ (2003) 119 Law Quarterly Review 298
+Lee, Maria ‘Hunter v Canary Wharf Ltd (1997)’ in Charles Mitchell and Paul Mitchell (eds) Landmark Cases in the Law of 
+Tort (Hart 2010)
+Lee, Maria ‘Tort Law and Regulation: Planning and Nuisance’ [2011] Journal of Planning and Environmental Law 986
+Morgan, Jonathan Great Debates in Tort Law (Hart 2022) chs 10 and 11
+Nolan, Donal ‘The Essence of Private Nuisance’ in Ben McFarlane and Sinéad Agnew (eds) Modern Studies in Property 
+Law, Volume 10 (Hart 2019) ch 5
+Simpson, AW Brian ‘Victorian Judges and the Problem of Social Cost: Tipping v St Helen’s Smelting Company (1895)’ in 
+Leading Cases in the Common Law (OUP 1995)
+Steel, Sandy ‘The Locality Principle in Private Nuisance’ [2017] Cambridge Law Journal 145
+Wightman, John ‘Nuisance—The Environmental Tort? Hunter v Canary Wharf in the House of Lords’ (1998) 61 Modern 
+Law Review 870
+Additional suggestions for further reading can be found in this chapter’s web links <https://iws.oupsupport.com/  
+ebook/access/content/horsey9e-student-resources/horsey9e-chapter-18-web-links?options=showName>.
+p. 585
+18. Trespass to land and nuisance
+Page 50 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Notes
+ 
+1. Various statutory nuisances also exist, which give wider public law protection to interests in land. Councils are 
+obliged to investigate complaints about issues that might be a ‘statutory nuisance’ (nuisances covered by the 
+Environmental Protection Act 1990) and, should they agree that this is happening, has happened or will happen in the 
+future, must serve an abatement notice (which can lead to penalties if not adhered to). Examples include noise from 
+premises, machinery or vehicles; insect infestations or smells arising from trade/industrial premises; accumulations of 
+rubbish, etc.
+ 
+2. Despite common misperception, trespass is not usually criminal in nature, though there are some statutory criminal 
+trespasses, such as under the Criminal Justice and Public Order Act 1994.
+ 
+3. If your actions were involuntary—e.g. you were pushed onto the land by someone else—you would not have 
+trespassed. What is a ‘voluntary action’ is not always straightforward. Compare Smith v Stone [1647] with Gilbert v 
+Stone [1647]: in Smith, a man who was carried onto the claimant’s land was held to have acted involuntarily, thus was 
+not liable in trespass. In Gilbert, a man entered another’s premises under duress (he was being threatened)—this was 
+still trespass as the act of entering the land had been deliberate and intentional, even if not ‘voluntary’.
+ 
+4. In fact, it seems that this trespass was deliberately crafted by the claimants, see section 1.3.4.
+ 
+5. So might the overhanging branches that annoy Christine, in the earlier scenario, also be a trespass?
+ 
+6. Consider the potential impact of recreational drones on this area of law and particularly how this area of law may 
+interact with the development of the law on invasion of privacy.
+ 
+7. The High Court had awarded Bocardo 9 per cent of the proceeds from the field since 2000 (£621,180 plus interest), 
+and the same percentage of future income. Newspaper reports suggested the case was to be taken to the ECtHR (see 
+e.g. Paul Cheston ‘Mohamed Al Fayed’s dream of becoming an oil baron is capped by court’ London Evening Standard 
+28 July 2010). Compare the (then) government’s plan to prevent householders suing in trespass in relation to shale gas 
+and oil drilling under their land taking place without their permission (Damian Carrington ‘Queen’s speech: fracking to 
+get boost from trespass law changes’ The Guardian 4 June 2014).
+ 
+8. This has notable similarities with the duty owed under the Occupiers’ Liability Act 1957 to only those visitors that 
+have been expressly invited or have been (or are treated as having been) given permission to enter or use the premises 
+(s 1(2)) for a particular purpose: ‘When you invite a person into your house to use the staircase, you do not invite him 
+to slide down the banisters’ (Scrutton LJ, The Calgarth [1927] at 110). See section 11.2.1.2.
+ 
+9. High Speed Two (HS2) Ltd and another v Four Categories of Persons Unknown and others [2022]. See also National 
+Highways Ltd v Persons Unknown [2021] and National Highways Ltd v Persons Unknown [2022] in relation to protests by 
+‘Insulate Britain’ and North Warwickshire Borough Council v Litten and others [2022] in relation to protests by ‘Just 
+Stop Oil’.
+ 
+10. As it is in a trespass to the person claim, see section 15.5.2.
+ 
+11. In Dewey v White [1827], the necessity defence was allowed where firemen deliberately destroyed the claimant’s 
+chimney to prevent the spread of fire to neighbouring properties.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+18. Trespass to land and nuisance
+Page 51 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+12. Nothing much has changed. The Legal Aid, Sentencing and Punishment of Offenders Act (LASPO) 2012 (s 144) made 
+it an offence to squat in a residential building. In relation to the defence of necessity, consider Daniel Gauntlett, who 
+died in February 2013 having slept rough on a freezing cold night on the doorstep of a bungalow he had previously 
+squatted. His inquest was asked to consider whether he ‘had died obeying the law’ and whether the government, in 
+failing to put into place measures to protect the vulnerable when passing LASPO, s 144, had violated his Art 2 right to 
+life. In December 2014, the coroner recorded a verdict of death by natural causes exacerbated by self-neglect. See also 
+Layla Moran MP ‘Homeless people are vulnerable, not criminal. The law is 200 years out of date’ The Guardian 29 
+January 2019.
+ 
+13. See section 6.5.3.
+ 
+14. Though interesting issues arise in the context of protestors, in the sense that preventing protests may amount to a 
+violation of the right to freedom of expression given by Art 10, or of private life under Art 8 ECHR. See Mayor of London 
+v Hall [2010]; Manchester Ship Canal Developments v Persons Unknown [2014].
+ 
+15. Pronounced ‘mean’.
+ 
+16. Joanne Conaghan and Wade Mansell The Wrongs of Tort (2nd edn Pluto Press 1999) 124.
+ 
+17. Conaghan and Mansell ibid, ch 6.
+ 
+18. FH Newark ‘The Boundaries of Nuisance’ (1949) 65 Law Quarterly Review 480.
+ 
+19. Conor Gearty ‘The Place of Private Nuisance in a Modern Law of Torts’ [1989] Cambridge Law Journal 214, 215. 
+Maria Lee also argues that the ‘“boundaries” of private nuisance remain somewhat “blurred”’ (‘What is Private 
+Nuisance’ (2003) 119 Law Quarterly Review 298, 298).
+ 
+20. Conaghan and Mansell n16 124.
+ 
+21. ibid 124.
+ 
+22. See Sturges v Bridgman, section 18.3.3.2. Also see, in a wholly different context, but making the same point, 
+Dayna Nadine Scott ‘“Gender-Benders”: Sex and Law in the Constitution of Polluted Bodies’ (2009) 17 Feminist Legal 
+Studies 241.
+ 
+23. Conaghan and Mansell n16 125.
+ 
+24. Percy H Winfield ‘Nuisance as a Tort’ [1931] Cambridge Law Journal 189, 190. Note, however, that he prefaced this 
+with the comment that ‘nuisance’ is not a term capable of exact definition.
+ 
+25. Lara, in the scenarios outlined previously, would seem only to have an action in private nuisance. Antony may have 
+a trespass claim in respect of his neighbour’s leaves touching his fence—though only a claim in nuisance (subject to 
+the principles outlined later) in respect of the leaves that blow over.
+ 
+26. It therefore seems that Dev, in the scenarios outlined at the beginning of the chapter, will have a successful claim in 
+nuisance, despite the argument that his use of land was ‘sensitive’—see section 18.3.3.3.
+ 
+27. In a claim under the Consumer Protection Act 1987 in relation to a defective product that has caused consequential 
+property damage, a claimant must first establish that the value of that property damage exceeds £275 (see section 
+12.3.1). Further, strictly speaking, in negligence a claimant can sue only if they have suffered a recognisable harm 
+(Rothwell v Chemical and Insulating Co Ltd [2007], Dryden and others v Johnson Matthey plc [2018]; cf Rees v 
+Darlington Memorial Hospital NHS Trust [2002]).
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+18. Trespass to land and nuisance
+Page 52 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+28. Of course, should the same facts arise today the claimant should be able to rely on the Protection from Harassment 
+Act 1997; see further section 15.6.2.
+ 
+29. See also, on the question of what emanates (and from where), Hussain and another v Lancaster City Council [1999].
+ 
+30. In reference to Newark n18.
+ 
+31. Including adhering to terms of an environmental permit: Barr and others v Biffa Waste Services Ltd [2012].
+ 
+32. A good—if long—example of this in practice can be seen in Stephen Anslow and others v Norton Aluminium Ltd 
+[2012].
+ 
+33. Note Peires v Bickerton’s Aerodromes Ltd [2016], which indicates courts will still more readily favour an injunction 
+where that is the most appropriate remedy in the circumstances. As Peter Smith J acknowledged, there must be some 
+give and take—he found that ‘the Claimant’s approach has been one of reasonable restraint; the Defendant’s 
+approach regrettably has not been the same’ (at [120]).
+ 
+34. As in Stephen Anslow and others v Norton Aluminium Ltd [2012].
+ 
+35. In Tejani v Fitzroy Place Residential Ltd [2022], the owner of a central London flat purchased for £2.6 million (and 
+used as a place to stay when the family was in the city) was found not to have suffered nuisance from the intermittent 
+sounds of ‘clicks and pops’ that emanated from the façade which he said disturbed his peaceful enjoyment of the 
+property and kept his family awake at night. Expert evidence showed the sounds were no louder than the click of a 
+computer mouse.
+ 
+36. A good example of the idea is found in Hirose Electrical UK Ltd v Peak Ingredients Ltd [2011]. An electrical 
+manufacturer complained about strong odours including garlic and curry coming from neighbouring premises. The 
+High Court found that such odours had to be tolerated on a light industrial estate. The claimant appealed, arguing 
+that the area had been mischaracterised as a light industrial estate rather than a business park—which might have led 
+to a different conclusion—but was unsuccessful.
+ 
+37. Though even where there is substantial material damage to land, claimants must initiate their claims within the six- 
+year limitation period, as the Supreme Court reminded us in Jalla v Shell International Trading and Shipping Co [2023], 
+unless there is a continuing nuisance (where the limitation period would start afresh each day the nuisance 
+continued).
+ 
+38. Notably, for example, the successful claimants in Fearn were wealthy owners of flats reported to be worth millions 
+of pounds.
+ 
+39. Though this subjective interpretation can be incorrect. See Ray v Windrush Riverside Properties Ltd [2022] where the 
+claimant, who believed her property to be in an idyllic, peaceful setting, lost her claim in nuisance because the nature 
+of the locality was found to be ‘a popular and bustling tourist destination’ in which some level of noise was to be 
+expected.
+ 
+40. Conaghan and Mansell n16 133.
+ 
+41. WR Cornish and G de N Clark Law and Society in England: 1750–1950 (Sweet & Maxwell 1989) 157.
+ 
+42. Conaghan and Mansell n16 133.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+18. Trespass to land and nuisance
+Page 53 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+43. Juliet is unlikely to be able to claim in private nuisance if the locality was already industrial when she moved there, 
+even if the industrial operations have increased over time. However, as locality is only one factor to be taken into 
+account, the outcome of her claim may depend on the intensity of the disturbance.
+ 
+44. Though Lord Carnwath supported the idea in ‘exceptional cases’ (at [223]).
+ 
+45. As noted by Cotton LJ at 94.
+ 
+46. Bakari, in the examples at the start of the chapter, may therefore have difficulty in taking his claim, unless he can 
+show that the noise from the dance studio would also affect someone with a less delicate trade.
+ 
+47. Though see Pusey v Somerset County Council [2012].
+ 
+48. In relation to the beginning of chapter scenarios, would it be reasonably foreseeable to the owners of a dance 
+studio that noise emanating from it could cause others nuisance?
+ 
+49. So, Christine’s bad intention in holding frequent late-night garden parties as retaliation for overhanging branches 
+may amount to a nuisance and allow her neighbour to make a claim against her!
+ 
+50. There are others not considered here, such as ‘inevitable accident’, ‘act of God’ or an (unforeseeable) act of a 
+stranger.
+ 
+51. Under the Civil Aviation Act 1982, s 76, private law claims in the domestic courts had not been possible.
+ 
+52. Though it should be noted that the cost of compensating everyone similarly affected was estimated at 
+approximately £2 billion.
+ 
+53. Similar justifications had been used in a previous case relating to noise from Heathrow (generally, rather than 
+specifically night flights) in Powell and Rayner v UK [1990]. In Hatton, a strong dissenting judgment considered this 
+approach too conservative and argued that Convention rights should be interpreted in a way that would expand 
+protection against environmental pollution.
+ 
+54. Similarly, in Coventry, the defendants had no prescriptive right to continue their activities—though they had been 
+operating for 31 years by the time the claimants moved in, the nuisance only began at that point, as that was when the 
+claimants became affected by it (at [142]–[143]). Lord Neuberger also confirmed that ‘coming to the nuisance’, as the 
+claimants had, was no defence (at [51]). See also Jones v Ministry of Defence [2021], where the claimants, who had 
+converted land they bought into a holiday park, were unsuccessful in a claim relating to the noise of aircraft which had 
+been flown in training exercises in the area for decades.
+ 
+55. Conaghan and Mansell n16 138.
+ 
+56. ibid.
+ 
+57. ibid 138–9.
+ 
+58. William Twining Rethinking Evidence (CUP 2006) 303–5.
+ 
+59. Acknowledged by the Court of Appeal in Barr and others v Biffa Waste Services Ltd [2012].
+ 
+60. See also the Senior Courts Act 1981, s 50.
+ 
+61. A similar exercise was undertaken in Watson v Croft Promosport Ltd [2009].
+ 
+62. As in Hatton. Though cf Barr and others v Biffa Waste Services Ltd [2012].
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+61.
+62.
+18. Trespass to land and nuisance
+Page 54 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+63. Confirmed in Delaware Mansions Ltd v Westminster City Council [2001]. In the scenarios outlined at the beginning of 
+the chapter, Christine may have been able to trim back her neighbour’s branches, as long as she did so reasonably. 
+This may have removed her perceived need for retaliation.
+ 
+64. Confirmed by the House of Lords in Hunter. Similarly, in Transco v Stockport Metropolitan Borough Council 
+[2003], the House of Lords confirmed the same in relation to claims under Rylands v Fletcher.
+ 
+65. As is the case in public nuisance, as we shall see in section 18.5.
+ 
+66. Newark n18 490.
+ 
+67. As pointed out by Paula Giliker Tort (Sweet & Maxwell 2020) 405.
+ 
+68. The other main applicable right is Art 1 of Protocol 1, the right to peaceful enjoyment of possessions.
+ 
+69. As was the case in Hatton, discussed earlier. See also Khatun v UK [1998].
+ 
+70. Though it can be noted that part of the reason for her success was ‘domestic irregularity’ in the sense that Mrs 
+López Ostra had clearly been let down by a culpable failure on the part of the Spanish regulatory authorities. Thus, it 
+seems that in comparable cases, such ‘domestic irregularity’ will need to be shown for a claim to be successful.
+ 
+71. Note that Dennis (discussed later) was decided after the Court of Appeal decision in Marcic but before the House of 
+Lords’ decision.
+ 
+72. It is notable that Ofwat intervened in Dobson, submitting that it was reasonable to assume that their lordships in 
+Marcic intended to preserve scope for claims to be brought arising out of allegations of negligence in the physical 
+operation of sewers or sewerage treatment works. In Marcic, Thames was not accused of having failed to operate its 
+sewerage system properly. Ofwat also submitted that such allegations are unlikely to raise the issues of regulatory 
+balancing and infrastructure investment which were the focus of the decision in Marcic (at [103]–[112]).
+ 
+73. Dobson v Thames Water Utilities Ltd [2009].
+ 
+74. HRA, s 8(3).
+ 
+75. This was explicitly argued by the claimants in Watson v Croft Promosport Ltd, though the Court of Appeal found that 
+only in ‘a marginal case where the damage to the claimant is minimal consistent with the principles of Shelfer, the 
+effect on the public of the grant of an injunction is properly to be taken into account’ (Richards LJ at [51]). Following 
+Coventry, it now seems clear that this is not precisely the approach that should be taken.
+ 
+76. Compare the similar case of Peires v Bickerton’s Aerodromes Ltd [2016] where there was no public interest element 
+and—post-Coventry—a partial injunction was granted (with obiter judgment on what damages for diminution in value 
+would amount to should the case be decided in that way in the event of an appeal). Also compare Jones v Ministry of 
+Defence [2021], again with similar facts, where no nuisance was found (as well as no possibility of success under the 
+HRA) because of the public benefit of training RAF jet pilots.
+ 
+77. In Dennis, Buckley J held that because the award of loss of amenity was based on loss of enjoyment of the estate 
+which envisaged enjoyment by a family as opposed to one individual, it was not appropriate to award further sums to 
+Mrs Dennis based on a violation of her human rights. In Dobson, Ramsey J said that this was ‘a finding which depended 
+on the facts and was not a finding that, as a matter of law, an award of damages in nuisance would provide just 
+satisfaction to all those in the same household’ (at [206]). Note how this contrasts with his opinion on child claimants.
+63.
+64.
+65.
+66.
+67.
+68.
+69.
+70.
+71.
+72.
+73.
+74.
+75.
+76.
+77.
+18. Trespass to land and nuisance
+Page 55 of 55
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+78. That said, the justification tests must still be applied, as does the judicially constructed test of ‘domestic 
+irregularity’, and the circumstances where amenity damage will be so excessive as to be a human rights violation will 
+undoubtedly be rare.
+ 
+79. In Corby Group Litigation v Corby Borough Council [2008] (the subject of the 2025 Netflix drama ‘Toxic Town’), the 
+Court of Appeal confirmed that obiter comments in Hunter and Transco had not impliedly reversed this principle and 
+that the essence of the right protected by the tort of public nuisance is the right not to be adversely affected by an 
+unlawful act or omission whose effect is to endanger the life or health of the public.
+ 
+80. Reaffirmed by Akenhead J in Corby Group Litigation v Corby District Council [2009], though the damages claim was 
+later settled out of court.
+ 
+81. For an interesting (if long) judgment on a claim made on behalf of nearly 16,000 claimants, which ultimately failed 
+on the science, and the uncertainty caused by lack of evidence of actionable harms suffered caused by the alleged 
+nuisance (a fire at a wood processing plant)—as well as some pointed comments about ‘claims farming’ practices—see 
+Saunderson and others v Sonae Industria (UK) Ltd [2016].
+ 
+82. Conaghan and Mansell n16 127–8; but see R v Rimmington; R v Goldstein [2005].
+ 
+83. Abandoning an appeal to the findings of public nuisance (and negligence in the clean-up operation), Corby Borough 
+Council instead agreed to settle the claims with an undisclosed sum of money, while not admitting liability. See BBC 
+News ‘Birth defect children in Northamptonshire agree pay-out’ 16 April 2010.
+ 
+84. The ‘prescribed area’ in question was London Fields, in Hackney, and the claim was a response to behaviour seen in 
+reaction to the relaxation of some of the Covid-19 restrictions in the summer of 2020: London Borough of Hackney v 
+Persons Unknown in London Fields, Hackney (The ‘prescribed area’) [2020].
+ 
+85. An example is East Dorset District Council v Eaglebeam Ltd [2006].
+© Kirsty Horsey & Erika Rackley 2025
+Related Books
+View the Essential Cases in tort law
+Related Links
+Test yourself: Multiple choice questions with instant feedback <https://learninglink.oup.com/access/content/brennan-  
+concentrate6e-student-resources/brennan-concentrate6e-diagnostic-test>
+Find This Title
+In the OUP print catalogue <https://global.oup.com/academic/product/9780198925231>
+78.
+79.
+80.
+81.
+82.
+83.
+84.
+85.

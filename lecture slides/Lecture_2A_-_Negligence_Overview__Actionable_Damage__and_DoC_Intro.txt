@@ -1,0 +1,285 @@
+LAW OF TORT
+Negligence
+Actionable Damage
+Duty of Care
+Negligence Overview
+LAW OF TORT
+What is negligence?
+“A breach of a legal duty to take care which results in 
+damage to the claimant.” (W&J)
+Three elements:
+1. D owed C a duty of care;
+2. D breached that duty;
+3. D’s breach caused damage which is not too remote.
+LAW OF TORT
+A (very) brief history of 
+negligence
+Negligence was ‘fragmented’ – a series of speciﬁc duties in 
+speciﬁc contexts 
+• Gladwell v Steggall (1839) – Duty of doctor to patient
+• Smith v Baker & Sons (1891) – Duty of employer to employee
+• Blacker v Lake & Elliot (1912) – D not liable when he sold product to A which then, 
+because of defect, injured C
+Donoghue v Stevenson [1932] AC 562
+• Lord Atkin: “You must take reasonable care to avoid acts or omissions which 
+you can reasonably foresee would be likely to injure your neighbour.”
+• Lord Macmillan: “The grounds of action may be as various and manifold as 
+human errancy … The categories of negligence are never closed.”
+LAW OF TORT
+Actionable Damage
+LAW OF TORT
+Rothwell v Chemical & 
+Insulating Co Ltd [2008] AC 
+281
+Employees exposed to asbestos dust and developed pleural 
+plaques as a result. Pleural plaques not harmful. 
+Symptomless changes with no foreseeable consequences.
+Lord Hope: “an injury which is without any symptoms at 
+all because it cannot be seen or felt and which will not lead 
+to some other event that is harmful has no consequences 
+that will attract an award of damages. Damages are given 
+for injuries that cause harm, not for injuries that are 
+harmless.” [49]
+LAW OF TORT
+Dryden & Ors v Johnson 
+Matthey PLC [2018] UKSC 
+18 
+Facts:
+Cs developed platinum salt sensitization due to D’s negligence.
+Platinum salts are not encountered in everyday life, so for 
+ordinary people this would cause no problems at all. 
+However, for the Cs, it meant they could not longer do any 
+work in the “red zones” of the factory. 
+LAW OF TORT
+Dryden & Ors v Johnson 
+Matthey PLC [2018] UKSC 
+18 
+“What has happened to the claimants is that their bodily capacity 
+for work has been impaired and they are therefore signiﬁcantly 
+worse oﬀ. They have, in my view, suﬀered actionable bodily 
+damage, or personal injury, which, given its impact on their lives, 
+is certainly more than negligible.” (Lady Black, [40])
+LAW OF TORT
+Dryden & Ors v Johnson 
+Matthey PLC [2018] UKSC 
+18 
+“Suppose that the claimants were coﬀee tasters, employed because 
+they had the ability to distinguish diﬀerent ﬂavours and qualities of 
+coﬀee, by smell and taste. Suppose further that, through negligence, 
+their sense of smell or taste became impaired in a way which would 
+be of absolutely no consequence to anyone who was not employed 
+in this particular role, but meant that they could no longer do their 
+jobs and had to seek other employment. I venture to suggest that 
+there would be little diﬃculty in accepting that the changes to their 
+bodies were actionable personal injury.” (Lady Black, [41])
+Duty of Care Overview
+LAW OF TORT
+The concept of 
+a duty of care
+“A man is entitled to be as negligent as he pleases towards 
+the whole world if he owes no duty to them.” (Lord Esher 
+MR, Le Lievre v Gould (1893))
+“It is never suﬃcient simply to ask whether A owes B a 
+duty of care. It is always necessary to determine the scope 
+of the duty by reference to the kind of damage from which 
+A must take care to hold B harmless.” (Lord Bridge, Caparo 
+Industries v Dickman [1990] 2 AC 605)
+LAW OF TORT
+Duty as a control device
+Three key questions:
+1. Was the damage to someone in C’s position reasonably 
+foreseeable?
+2. Was what D did an act or an omission?
+3. Which aspect of the claimant’s interest was aﬀected?
+LAW OF TORT
+1. Reasonably foreseeable?
+Haley v London Electricity Board Respondents [1965] AC 
+778
+Facts: D’s worker dug a trench along the pavement, laying a 
+hammer across each end, to stop people falling in. C was 
+blind, didn’t realise there was a trench,  and fell in. 
+Held: C was owed a duty of care as it was reasonably 
+foreseeable that a blind person would be walking along the 
+pavement. 
+LAW OF TORT
+2. Act or omission?
+Topp v London Country Bus [1993] 1 WLR 976
+D left bus with keys in ignition
+TP stole bus and killed C
+Held: D not liable
+LAW OF TORT
+3. Type of interest?
+Simple
+Physical injury 
+Property damage
+Complex
+Economic loss
+Psychiatric injury
+LAW OF TORT
+A simple rule
+You owe others a duty of care not to: 
+do acts 
+which foreseeably 
+cause physical injury or property 
+damage.
+LAW OF TORT
+Outside the simple rule
+No reasonable foreseeability = no duty
+Omission not act = complicated
+Damage not physical/property = complicated
+LAW OF TORT
+Tort Poll 2A(i)
+LAW OF TORT
+Duty of Care: The 
+Current Approach
+LAW OF TORT
+Robinson  v CC of West 
+Yorkshire [2018] UKSC 4
+Facts:
+Four plainclothes policemen planned to arrest a suspected 
+drug dealer while he stood outside the bookmakers.
+Mrs Robinson was walking along the shopping street. As she 
+passed the suspect, two policemen moved to arrest him and 
+he resisted arrest.
+Mrs Robinson was knocked over by the suspect backing into 
+her, and the men fell on top of her. She brought a claim in 
+negligence for personal injury.
+LAW OF TORT
+Robinson  v CC of West 
+Yorkshire [2018] UKSC 4
+The approach to determining a duty of care:
+1. Does the case fall within an “established category” of 
+DoC? (N.b. most cases stop here!)
+2. If the case is a novel one, does coherence with analogous 
+cases imply that there should be a DoC?
+3. Do ‘policy reasons’ imply there ought to be a duty of care 
+— would it be ‘fair, just, and reasonable’ to impose one? 
+LAW OF TORT
+Does the case fall 
+within an “established 
+category” of duty?
+YES
+DoC 
+Does coherence with 
+analogous cases imply 
+that there should be a 
+DoC? 
+Are there policy 
+reasons for imposing a 
+DoC?
+Is there reasonable 
+foreseeability & proximity, and 
+would it be fair, just, and 
+reasonable to impose a DoC?
+No DoC
+NO
+YES
+NO 
+NO 
+YES
+YES
+NO
+UNCLEAR
+UNCLEAR
+Establishing a Duty of Care — Flowchart 
+LAW OF TORT
+Robinson  v CC of West 
+Yorkshire [2018] UKSC 4
+“In the ordinary run of cases, courts consider what has been 
+decided previously and follow the precedents … In cases 
+where the question whether a duty of care arises has not 
+previously been decided, the courts will consider the closest 
+analogies in the existing law, with a view to maintaining the 
+coherence of the law and the avoidance of inappropriate 
+distinctions. They will also weigh up the reasons for and 
+against imposing liability, in order to decide whether the 
+existence of a duty of care would be just and reasonable.” 
+(Lord Reed, [29])
+LAW OF TORT
+Robinson  v CC of West 
+Yorkshire [2018] UKSC 4
+Held:
+Applying the existing case law, the police are “under a duty of care 
+to protect an individual from a danger of injury which they have 
+themselves created” [70]
+“[I]t was reasonably foreseeable that if the arrest was attempted at a 
+time when pedestrians … were close to [the suspect], they might be 
+knocked into and injured in the course of his attempting to escape. 
+That reasonably foreseeable risk of injury was suﬃcient to impose 
+on the oﬃcers a duty of care towards the pedestrians in the 
+immediate vicinity when the arrest was attempted, including Mrs 
+Robinson.” [74]
+LAW OF TORT
+Darnley v Croydon NHS 
+Trust [2018] UKSC 50 
+Facts:
+C went to hospital with head injury. Incorrectly told by 
+receptionist that waiting time was 4-5 hours. Not told that 
+triage would happen within 30 minutes. 
+C went home. His condition deteriorated. By the time he 
+went back to hospital, he suﬀered permanent brain 
+damage.
+Had the receptionist told him triage would be 30 minutes, 
+he would have stayed, and would not have suﬀered the 
+damage.
+LAW OF TORT
+Darnley: lower courts
+High Court (Darnley [2015] EWHC 2301):
+Receptionists at hospitals owe no duty of the care to 
+members of the public to give accurate advice about 
+waiting times.
+In any event, Mr Darnley’s decision to leave broke the 
+chain of causation.
+Court of Appeal agreed (Darnley [2017] EWCA Civ 151)
+LAW OF TORT
+Darnley v Croydon NHS 
+Trust [2018] UKSC 50 
+Held: 
+Lower courts wrong. 
+This fell within an established duty category and, as such, 
+there was no need to consider if imposing a duty was fair, 
+just and reasonable. 
+The duty took eﬀect from the moment C was ‘booked in’ at 
+reception; there was no distinction between clinical and 
+non-clinical staﬀ. 
+LAW OF TORT
+Darnley v Croydon NHS 
+Trust [2018] UKSC 50 
+“To my mind … the present case falls squarely within an 
+established category of duty of care. It has long been 
+established that such a duty is owed by those who 
+provide and run a casualty department to persons 
+presenting themselves complaining of illness or injury 
+and before they are treated or received into care in the 
+hospital's wards. The duty is one to take reasonable care 
+not to cause physical injury to the patient: Barnett [1969] 
+1 QB 428”. (Lord Lloyd-Jones, [16])
+LAW OF TORT
+Darnley v Croydon NHS 
+Trust [2018] UKSC 50 
+“While it is correct that no authority has been cited in 
+these proceedings which deals speciﬁcally with 
+misleading information provided by a receptionist in an 
+A & E department causing physical injury, it is not 
+necessary to address, in every instance where the 
+precise factual situation has not previously been the 
+subject of a reported judicial decision, whether it would 
+be fair, just and reasonable to impose a duty of care. It is 
+suﬃcient that the case falls within an established 
+category in which the law imposes a duty of care.” 
+(Lord Lloyd-Jones, [16])
+LAW OF TORT
+Darnley v Croydon NHS 
+Trust [2018] UKSC 50 
+Kent v Griﬃths [2001] QB 36 considered:
+Ambulance Service liable for delay in responding to an 
+emergency call — call handler had given misleading 
+assurances that an ambulance would be arriving 
+shortly. 
+“In both cases, as a result of the provision of inaccurate 
+information by non-medically qualiﬁed staﬀ, there was 
+a delay in the provision of urgently required medical 
+attention with the result that serious physical injury 
+was suﬀered.” (Lord Lloyd-Jones, [20])
+LAW OF TORT
+Tort Poll 2A(ii)

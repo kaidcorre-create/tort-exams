@@ -1,0 +1,2234 @@
+Birks, Peter 
+ 
+ 
+In Restraint of Tort
+ 
+pp. 83-102
+Birks, Peter, (1994) The frontiers of liability, Oxford: Oxford University Press
+Staff and students of Lancaster University are reminded that copyright subsists in this 
+extract and the work from which it was taken. This Digital Copy has been made under 
+the terms of a CLA licence which allows you to: 
+access and download a copy;
+•
+print out a copy;
+•
+ 
+Please note that this material is for use ONLY by students registered on the course of 
+study as stated in the section below. All other staff and students are only entitled to 
+browse the material and should not download and/or print out a copy.
+This Digital Copy and any digital or printed copy supplied to or made by you under the 
+terms of this Licence are for use in connection with this Course of Study. You may retain 
+such copies after the end of the course, but strictly for your own personal use.
+All copies (including electronic copies) shall include this Copyright Notice and shall be 
+destroyed and/or deleted if and when required by Lancaster University.
+Except as provided for by copyright law, no further copying, storage or distribution 
+(including by e-mail) is permitted without the consent of the copyright holder.
+The author (which term includes artists and other visual creators) has moral rights in 
+the work and neither staff nor students may cause, or permit, the distortion, mutilation 
+or other modification of the work, or any other derogatory treatment of it, which would 
+be prejudicial to the honour or reputation of the author.
+Course of Study: LAW.224 - Law of Torts
+Title: The frontiers of liability
+Name of Author: Birks, Peter
+Name of Publisher: Oxford University Press
+7. In Restraint of Torti  
+JANE STAPLETON 
+NE approach to the task implied by the 
+daunting title of this seminar is to try to 
+prophesy in which areas tort liability will 
+contract or atrophy and in which areas it may 
+develop substantially. Another strategy, and the one 
+which commends itself to me, is to examine some of 
+the analytical processes by which liability issues are 
+now handled with a view to suggesting how they 
+may be improved so that real concerns already 
+imbedded in the law may be made manifest and out-
+comes may be made less anomalous than at present. 
+An attempt is also made to tease out some of these 
+concerns although a full exposition of them must be 
+left to another time. 
+1. Problems With the Position We Are Now In 
+The collapse twenty years ago of confidence in tort 
+law had little to do with the state of formal doctrine. 
+Rather it concerned the large gap between the appar-
+ent promise of tort law and its reality. The promise 
+that a wide range of causes of action is available to 
+all suitably aggrieved citizens was seen to be 
+betrayed by the operation of non-legal barriers to 
+claiming' which prevented all but a very few claims 
+by those technically entitled to sue. These claims 
+were almost wholly confined to one tort—that of neg-
+ligence--and to the two types of defendants who 
+happened to be subject to compulsory insurance 
+(employers and motorists). The presence of insur-
+ance behind virtually all defendants was seen as 
+undermining the deterrence claims of the new eco-
+nomic theorists and the corrective justice claims of 
+moral defenders of tort, while resolution of the suits 
+of plaintiffs was often found to hinge in practice so 
+much on the vagaries of evidence that they became a 
+'forensic lottery'.3 
+These structural challengenet.the respectability of 
+tort still exist but excite less interest nowadays, no 
+doubt partly due to the recessionary times which 
+force expensive reform programmes of comprehen-
+sive compensation for, say, personal injuries a long 
+I would like to thank Peter Cane, the participants in the 
+SPTL seminar and members of the Sydney University Law 
+for comments on the text of this paper. 
+Of which some, including the availability of legal aid, 
+have now become even more of a problem. 
+3  T. Ison, The Forensic Lottery (Staples Press, London, 
+1967). See also P. S. Atiyah, Accidents, Compensation and the 
+Low, 1st ed. (London, Weidenfeld & Nicolson, 1970); The 
+Report of the Royal Commission on Civil Liability and Corn- 
+way down the political agenda. ills on other features 
+of tort law that the current wave of anxiety is 
+focused, namely the reach of liability and the coher-
+ence of liability rules specifically in the tort of negli-
+gence. 
+It may seem ironic that, having learnt how irrele-
+vant tort law is to most people, lawyers have become 
+even more troubled by its appearance of intellectual 
+incoherence and anomaly. But even if tort law 
+remains in practice erratic in outcome and the pre-
+serve only of the very rich or very poor plaintiff, it 
+may still be important in its symbolic role as vindi-
+cating certain values for society. And in that role the 
+success of tort law will still depend on its appear-
+ance of being fair, sensible and focused. In other 
+words, even those of us who think that any 'compen-
+sation for disability' goal should be pursued by no-
+fault social security mechanisms and who do not see 
+tort as having much more than an important sym-
+bolic role in society as the law's most patent experi-
+ment in 'applied morality',4 should share the current 
+concern with the application and direction of some 
+areas of tort doctrine. In particular, it is a useful cor-
+rective for those tempted by the idea of 'money for 
+everyone, regardless of everything's to investigate the 
+reasons why tort should refuse a remedy to a plain-
+tiff who has been injured by the defendant. 
+(a) The working out of established doctrine 
+A minor thread of current concern with the condi-
+tion of tort is an uneasiness about the working 
+through of tortious principles (usually negligence) 
+into areas which previously had not produced 
+claims. It is one thing to claim that a manufacturer 
+must take care not to have snails in its ginger beer 
+but it may seem quite another to claim that those 
+involved in making goods and buildings should 
+involve themselves in expensive post-supply surveil-
+lance of their safety.' Such claims are now being 
+made and with some success but they are not the 
+only examples of the pressures the negligence idea is 
+putting on the perceived ambit of tort law. We are 
+pensation for Personal Injury (Cmnd 7054, 19781. 
+• S. Stoljar, 'Concerning Strict Liability' in Essays on Torts, 
+ed. P. Finn (Sydney. Law Book Co., 1989), 267. 
+° T. Weir (19921 C.L.J. 375, 376. 
+e e.g. Walton v. British Leyland, The Times, 13.7.78; Eckers-
+ley & Others v. Binney & Partners (the Abbeystead pumping 
+station disaster), leave to appeal refusal of House of Lords 
+9.6.88, see Independent, 10.6.88. 
+83 
+In Restraint of Tort 
+MP' 
+now seeing whole new types of claim which were 
+simply not considered by practitioners twenty or 
+thirty years ago. For example, some victims of crime 
+are now suing their assailants in tort.' More unusu-
+ally, a local education authority was recently sued in 
+negligence by children who had been sexually 
+assaulted by a headmaster in one of its schools:" ear-
+lier this year newspapers reported that people who 
+believed their health was damaged in childhood by 
+passive smoking have begun to take legal advice 
+about suing their parents:" and just recently a man 
+won legal aid to sue for 'personal injury and loss' a 
+council he claims negligently failed to have him 
+adopted when a child." 
+Violence and accidents within families and homes 
+are noticeably now giving rise to tort claims. In 
+recent years appellate courts have been faced with 
+claims by, for example, a woman who alleged she 
+had suffered mental illness as a result of childhood 
+sexual abuse by her adoptive father and rape by her 
+adoptive brother:" and a claim by a person against 
+her foster mother and local authority for alleged neg-
+ligence in leaving her as a two-year old (1966) near a 
+source of scalding hot water while the mother 
+fetched a towel." 
+Particularly noteworthy is the rise in the past 
+twenty years in claims alleging negligent failure by 
+one party to control another. Usually it is alleged 
+that a third party should have been controlled: local 
+authorities allegedly failing to control builders:" 
+occupiers failing to control hooligans and vandals;Th 
+police failing to control criminals." But in one 
+extraordinary case the plaintiff was the party who, it 
+was alleged, ought to have been controlled. It must 
+be quite a sight to the ordinary citizen to see a man 
+securing a £45,000 out-of-court settlement from the 
+Trafford Health Authority on the basis that one of 
+the causes of his killing his mother was the Health 
+See e.g., the claims by Mesh's victims which formed the 
+background to Mesh v. McCreamer No. 1 (19861 1 All ER. 943. 
+Not surprisingly the phenomenon is even more widespread in 
+the US where, e.g., at least 200 lawsuits have been filed by 
+HIV-positive people against the person, who it is claimed, 
+infected them: Independent, 18.2.93. See also the Halford v. 
+Brookes litigation (The Times, 22.7.91) in which the mother of 
+Lynn Siddons sued her alleged murderer for damages after the 
+relevant authorities declined to prosecute. 
+° P. v. Harrow London Borough Council, The Times, 
+22.4.92 (the claim failed). The Catholic Church in the UK is 
+currently facing similar claims with respect to sexual abuse by 
+its priests: the Guardian, 24.5.93. 
+‘' Independent on Sunday, 31.1.93. 
+Independent on Sunday, 9.5.93. 
+" Stabbings v. Webb 11993) 2 W.L.R. 120 (H.L.) (held statute 
+barred). 
+'2  The Independent, 27.3.91, p. 26 (the claim failed). In 1990 
+a girl was awarded £35,000 damages (for burns) against a 
+friend's mother who had given the 9 year olds candles to play 
+with in a 4 foot square tree house: The Independent, 3.10.90. 
+Authority's negligent discharge of him from 
+hospital." 
+The incidence of extraordinary applications of the 
+negligence principle seem to be increasing. They not 
+only surprise some observers but they must bewilder 
+those to whom the protection of tort law is refused, 
+especially when the refusal is based on grounds 
+which are patently unconvincing. The parent who 
+comes across her child's bloodied corpse just a little 
+too late for the current rules on recovery for nervous 
+shock to apply to her might wonder why the law 
+rules her child's blood too dry to found an action 
+while allowing the matricide to sue. 
+The dilemma these cases throw up is that there is a 
+lot of conduct in modern life which can be impli- 
+cated in the occasioning of injury and much of this 
+can plausibly be described as negligent." The pene-
+tration into non-traditional areas of claims for recov-
+ery in tort was an inevitable consequence of the 
+formulation of negligence liability in terms of fairly 
+general principle, at least so long as restraining prin-
+ciples were regarded as peripheral subsidiary consid-
+erations. The challenge this phenomenon clearly 
+now presents is that we may not be willing to accept 
+a tort system which seeks to provide compensation 
+(and deterrence) in this vast array of situations." If 
+not, we need to eschew that old confusing cliché that 
+tort law is about compensation and loss—spreading, 
+and to focus in a detailed way on those concerns 
+which provide reasons for denying recovery to those 
+who have admittedly been injured by the negligent 
+conduct of the defendant. Only in that way will we 
+be able to restrict the overall ambit of tort law to 
+broadly familiar bounds without resort to artificial 
+devices which appear so manifestly unjust to the 
+non-lawyer. 
+The nature of the concern with these cases is in 
+striking contrast to the nature of the dominant con- 
+Injured wife recovered £0.5m from (the household insurer of) 
+husband for his failure to repair window: The Times 26/4/94. 
+'2  Anna v. Merton London borough Council (19781 A.C. 728. 
+" Cunningham v. Reading Football Club Ltd. (Q.B.D.) Inde-
+pendent, 20.3.91. 
+" Hilly. C.C. of South Yorks. (199011 All ER. 1046. 
+" The Independent, 18.6.91. Compare Meah v. McCreamer 
+119851 1 All ER. 367 and Mesh v. McCreamer No. 2 119861 1 
+All ER. 943. 
+Moreover, there is arguably also a modern tendency to 
+debase the standard against which conduct is judged: without 
+the benefit of hindsight would the police behaviour at Hillsbor-
+ough look so self-evidently negligent? To what degree was 
+admission of liability the less damaging alternative to police 
+public image given that the particular circumstances of death 
+in that case were so public and distressing? 
+Which even Schwartz, who seems to support this view, 
+concedes is 'a very large responsibility': G. Schwartz. 'The 
+Beginning and the Possible End of the Rise of Modern Ameri-
+can Tort Law' (1992) 26 Georgia L.R. 601, 608. 
+84 
+Jane Stapleton 
+cern of lawyers in the area of tort. On the one hand 
+these unusual claims and the anomalies they may 
+present can be seen as the worrying result of the 
+development and application of broad principles of 
+negligence—for example, liability for failure to con- 
+trol another party. Yet for lawyers the principal cur-
+rent concern with the condition of tort law, again 
+centering on the law of negligence, relates to the 
+retreat by appellate courts from broad principle to 
+timid pragmatism. McGhee is overtaken by Wilsher, 
+McLoughlin by Alcock, Hedley Byrne by Caparo, and 
+most famously Anns by Murphy." Dealing with this • 
+complaint requires, however, the same agenda for 
+future action as does the concern with the poten-
+tially vast new liabilities generated by broad princi-
+ples: an explicit focus on those policy concerns 
+which militate against the protection by tort of every-
+one who has been injured by the carelessness of the 
+defendant. 
+(I) The retreat to incrementalism 
+The debate concerning the retreat to incrementalism 
+has been focused on the duty of care in negligence. 
+This is not the place to rehearse the origin of this 
+retreat but it is fairly clear that it was motivated prin-
+cipally by concern that recovery in negligence for 
+economic loss was threatening to get out of hand. In 
+the decade since Junior Books' appellate judges have 
+succeeded in substantially tightening up liability in 
+this area. Had this strategy been accompanied by 
+careful and open explanation, no doubt much later 
+criticism would have been avoided. But the intellec-
+tual tactics used were unconvincing. In attacking the 
+earlier broad approach to the duty question as enun-
+ciated in Dorset Yacht' and Anns," the House of 
+Lords focused on the open-ended and vague terms in 
+which it was couched. The complaint seemed to be 
+that if the analysis of duty was generalised in this 
+way into some sort of simple principle or 'test' it was 
+doomed to generate far too much liability in the 
+hands of lower courts who needed more restraining 
+guidelines. Better to eschew this 'modem' approach 
+and return to an incremental approach. 
+The first difficulty which emerged with the new 
+" McGhee v. National Coal Board 119721 3 All E.R. 1008; 
+Wilsher v. Essex Area Health Authority 119861 3 All E.R. 801; 
+McLoughlin v. O'Brien 11982] 2 All E.R. 298; A/cock v. Chief 
+Constable of the South Yorkshire Police 119911 4 All ER. 907; 
+Hedley Byrne & Co. Ltd. V. Heller & Partners Ltd. [1984] A.C. 
+485; Caparo Industries plc. v. Dickman [1989] 1 All ER. 798; 
+Anns v. Merton London Borough Council 119781 A.G. 728; Mur-
+phy',. Brentwood District Council [1990] 2 All ER. 908. 
+Junior Books Ltd. v. Veitchi Co. Ltd. 119831 1 AL. 520. 
+U Dorset Yacht Co. Ltd. v. Home Office [1989] 2 Q.B. 412. 
+Anns V. Merton London Borough Council 119781 A.C. 728. 
+" In Caparo Industries plc. v. Dickman [1989] 1 All ER. 
+798. 
+incremental approach was that the terms in which it 
+was itself originally couched proved to be virtually 
+empty concepts which gave litigants and lower courts 
+no better guidance than the rejected approach as to 
+the direction, if any, in which the law could legiti- 
+mately develop. Not surprisingly most lower courts 
+began to 'play safe', refusing the economically dam-
+aged plaintiff's claim for the protection of a tort obli-
+gation in novel circumstances but only being able to 
+justify this result in obscure and virtually meaning-
+less terms. It took most of the late 1980s and early 
+1990s before terms such as 'special relationship', 'just 
+and reasonable', 'voluntary assumption of responsi-
+bility', 'reasonable reliance' and 'proximity' were 
+finally revealed as little more than labels in which a 
+court wrapped up the conclusion it had already 
+reached on other (often unenunciated) grounds. 
+Next, the House of Lords' attempt" to state in 
+more detail analytical steps for the new incremental 
+approach in a way which would prevent the genera-
+tion of too much new liability by any single new 
+case, revealed further problems. The lower court 
+faced with a novel claim for the protection of a tort 
+obligation was, in effect, told first to blinker its eyes 
+so that it only considered the relevant 'pocket' of 
+caselaw dealing with the relevant features of the case 
+at hand. Sometimes this would be a pocket of liabil-
+ity, sometimes a pocket of no liability. Yet for this to 
+produce stability and coherent outcomes two fairly 
+obvious conditions must be satisfied. First, it must be 
+clear what it is about the new case which charac-
+terises it and which indicates the relevant earlier 
+caselaw 'pocket' within which it needs to be judged. 
+But how are we to know this? Why is it that what is 
+important about the facts of Smith v. Bush is the 
+form of the defendant's carelessness (negligent pro-
+fessional advice) so that it can be associated with 
+earlier caselaw allowing a duty of care (Hedley 
+Byrne)?" Why was not the relevant fact that the 
+plaintiff suffered the economic loss through the 
+acquisition of defective property so that the case 
+would be placed in the D & F Estates/Murphy 
+'pocket' of caselaw with the result that a duty of care 
+would be denied?" 
+" Smith v. Bush (19891 2 W.L.R. 790; Hedley Byrne & Co. 
+Ltd. v. Heller & Partners (1964) AZ. 465. 
+" D. & F. Estates Ltd. v. Church Commissioners for England 
+(1988) 2 All E.R. 992; Murphy v. Brentwood District Council 
+[1990] 2 All ER. 908. In general, see J. Stapleton, 'Duty of Care 
+and Economic Loss: A Wider Agenda' (1991) 107 L.Q.R. 249 in 
+particular the uncertainties as to whether cases such as Junior 
+Books fall into the same pocket as the Hedley Byrne 'reliance' 
+case (see p. 283). The facts of Lancashire and Cheshire Assoc. 
+of Baptist Churches Inc. v. Howard & Seddon Partnership 
+119931 3 All E.R. 487 (Q.B.D.) also seem to straddle the two 
+pockets described in the text. 
+85 
+In Restraint of Tort 
+MP. 
+ 
+The second and associated condition which needs 
+to be satisfied if the incremental approach is to pro-
+duce stability and coherence using a pocket of 
+caselaw as its starting point is that the boundaries of 
+existing pockets, must make sense. One reason why 
+the current state of the law relating to economic loss 
+is so unsatisfactory and unstable is that at present 
+cases are not grouped into pockets in a way which 
+makes sense. The pockets overlap. As we have just 
+seen, a particular fact situation could plausibly fit 
+into both of two pockets enunciated by the courts, 
+even though one is associated with recognition of a 
+duty of care and the other with its denial. To some 
+extent this has been because, in defining pockets, 
+courts have often been beguiled by the superficial 
+similarity of facts rather than being concerned to 
+focus on what, if any, policy concern cases had in 
+common. Even if the approach of starting within a 
+pocket of caselaw was otherwise workable, then, 
+these boundaries would have to be rethought and yet 
+this would require the very sort of broad considera-
+tion of principles from which the incrementalists are 
+trying to distance the analysis. 
+In any case, the fundamental flaw in the 'pre-
+judged pockets' approach which makes it unsatisfac-
+tory is that any case may have more than one factor 
+which is juridically significant. The case may 
+involve a local authority defendant, a problematic 
+kind of loss, conduct consisting of an omission, an 
+under-age plaintiff and so on. By focusing without 
+explanation on only one of them—so that, for exam-
+ple. the case is designated at the outset as one 'about 
+negligent misstatements'—courts de-emphasize and 
+run the risk of ignoring other factors to which in 
+other contexts they do give considerable attention. 
+Analytical method needs to be richer than this. It 
+needs to consider each factor in turn—some factors 
+weighing in favour of liability, and some countervail-
+ing factors tilting the balance the other way. This 
+needs to happen without any pre-judging of what the 
+eventual point of balance might be by the characteri-
+zation of the case, at the outset, as belonging to a par-
+ticular set of past cases. Of course, across many fact 
+situations this balancing process will produce 'pock-
+ets' of like outcomes— for example there would be a 
+pocket of liability for much physical damage caused 
+by the direct act of a negligent defendant and a 
+pocket of no-liability for the negligent omission to 
+rescue a stranger—so principles would emerge on 
+which practitioners could often confidently advise 
+clients. But hard cases will always arise which do 
+not fit smoothly into settled areas of principle. 
+Indeed these are the ones most likely to be litigated. 
+The flaw in the Ca pare approach is that it suggests a 
+court will be able to determine at the outset of its 
+analysis in these hard cases which of the existing 
+clusters of cases the hard case in hand is best associ-
+ated with. 
+(c) What might be done 
+What any court needs to consider in the duty analy-
+sis are all the reasons for helping the plaintiff and all 
+those against doing so: a difficult and complex bal-
+ancing of the arguments 'for' and 'against'. On its 
+face the Wilberforce test in Anna was simply one 
+attempt to reflect this truism. There were, however, 
+problems with that particular statement of the bal-
+ancing process. For a start, the first limb skirts over 
+the major problem for any general statement of a neg-
+ligence principle, namely that there are large areas in 
+which careless conduct causing injury to innocent 
+parties is not actionable.'" Even if there is one strong 
+general principle to be found at this stage—and I 
+doubt it—its application across different types of 
+plaintiff, of loss, of defendant and of form of casual 
+connection" is extremely variable and complex. 
+Judicial manipulation of the 'foreseeability' concept 
+did not convincingly provide an understanding of 
+this complexity, while the 'proximity' notion 
+scarcely hinted at it. As more unconventional, 'not 
+obvious'" plaintiffs bring their unusual claims to 
+court the inadequate fleshing out of this first limb, of 
+the 'why should the law help this plaintiff argu-
+ments, begins to prove more problematic. This half 
+of the equation needs attention and may prove just as 
+useful in controlling the widening and dilution of 
+tort principles as the more obvious role of arguments 
+directly against liability in the case. 
+Here, in this paper, however, I want to concentrate 
+on the latter arguments. It seems widely believed 
+that under the modern Wilberforce test of duty of 
+care insufficient weight was given to those concerns 
+which militate against extending the protection of 
+tort to the plaintiff and that now in order to restore 
+coherent and symbolically convincing boundaries to 
+tort the balance needs to be reset by a firmer empha-
+sis on these countervailing factors. To do this courts 
+should abandon the strategy of searching at the out-
+set for the 'relevant' pocket of caselaw and replace it 
+with one focused, inter alia, on these factors. Courts 
+should identify reasons why negligently caused loss 
+should not be compensated (the 'countervailing 
+agenda'), identify in any particular case, which of 
+those reasons apply and which do not, and decide, 
+4 
+" Consider the negligent/intentional infliction of economic loss by successful parties on their competitors in a free market. 
+" Including failure to control a third party or providing an opportunity for a negligent third party. 
+" As Lord Goff described them at this Seminar. 
+86 
+4 
+Jane Stapleton 
+on balance with the pm-liability argument(s), 
+whether the weight of countervailing concerns 
+should lead to a denial of liability. 
+Sometimes the plaintiff's claim might cause con-
+cern on a number of fronts, sometimes just one, some- 
+times it would be found to clear all the existing 
+countervailing objections to the protection of tort. If 
+the threshold search for a relevant pocket of caselaw 
+was replaced by this analysis it would release lower 
+courts from the problem of identifying with which 
+earlier cases to associate the current complex case. As 
+the court considered each in turn the earlier caselaw 
+relevant to that particular objection to the recognition 
+of the duty of care would be come relevant. Moreover 
+the conservatism of the current House of Lords can be 
+accommodated: the degree to which the court needs 
+to be satisfied that the plaintiff's case did overcome 
+these concerns might be set very high. Indeed, this 
+approach might be a more successful vehicle for the 
+conservatism of the House of Lords, because although 
+it might involve more detailed analysis in some cases 
+it would produce results which openly tallied with 
+rational policy concerns and were therefore more 
+convincing than the somewhat mysterious threshold 
+selection of 'relevant caselaw' based on a received but 
+not explained wisdom. 
+Clearly the first step on an approach which seeks 
+to re-emphasize the law's countervailing concerns 
+about the imposition of tort liability must be a 
+stronger identification of what these factors are. Iron-
+ically, incrementalism has recently worked to hinder 
+just such a development. One result has been that 
+appellate courts have delivered some confusing and 
+awkward dicta on what the concerns of tort law 
+should be. Thus in the two very similar cases men-
+tioned above (Smith v. Bush and D & F Estates) the 
+House of Lords not only reached opposite results but 
+called upon the concept of 'consumer protection' to 
+support respectively the recognition of a duty of care 
+and its denial." Another result is that courts have 
+failed to draw out of earlier cases and develop a pol-
+icy of not assisting with the protection of a tort obli-
+gation those plaintiffs who had an appropriate 
+avenue of alternative protection (on which see 
+below) has made tort law appear (apparently, at 
+least) more protective of business interests than 
+arguably it should be, especially given that the 
+severe and increasing problem of access to justice 
+faced by private plaintiffs has become more widely 
+appreciated. A third inadequacy of the current incre- 
+• Smith v. Bush [1989) 2 W.L.R. 790; D. & F. Estates Ltd. V. 
+Church Commissioners for England [19881 2 All ER. 992, 1007 
+(per Lord Bridge). 
+• Ross v. Counters 119801 Ch. 297. But see White v. Jones 
+[1993) 3 All E.R. 481 (CA.), HL appeal heard 7.3.94-14.3.94.. 
+mental approach is that it has failed to provide a 
+doctrinal basis for understanding cases such as Ross 
+v. Counters" where recovery was, until recently at 
+least, widely agreed as justified but the facts of 
+which fell into no recognised pocket of cases let 
+alone one which sanctioned recovery for economic 
+loss. 
+_Finally the current incremental approach provides 
+no satisfying answer to the question of the relation-
+ship of one cause of action to another. It is obvious 
+that, once the law has taken a wrong turning or oth-
+erwise fallen into an unsatisfactory internal state in 
+relation to a particular cause of action, incremental-
+ism cannot provide the answer: it will not, for exam- \ 
+ple, be able to rectify the ludicrous position the TuTeir 
+governing recovery for nervous shock have now 
+reached (see below). But it also does not begin to 
+answer the more common problems which arise 
+where, for example, the behaviour of a particular 
+defendant may support allegations of more than one 
+tort. In such cases the claim of the plaintiff may call 
+for the resolution of the question of how the torts 
+interact—specifically the question of whether the 
+fact that the defendant can claim a defence to one 
+tort should influence that defendant's exposure to 
+liability under the other. This problem, recently 
+exposed in two cases before the Court of Appeal (see 
+below), can only be satisfactorily resolved on the 
+basis of broad principles, and, like the problem of 
+the duty of care in negligence, what is needed here 
+are not crude aphorisms: defamation trumps negli-
+gence; natural rights trump nuisance; negligent pro-
+fessional advice trumps acquisition of defective 
+property." What is needed and what is still compati-
+ble with the general conservative approach preferred 
+by the House of Lords is sharp identification of those 
+underlying concerns/policies/principles on which 
+the law's caution in recognising the plaintiff's cause 
+of action under each tort is based. This could pro-
+vide lower courts with substantive arguments (as 
+well as conservative arguments if desired) for analyz-
+ing new cases and could provide disappointed plain-
+tiffs with explanations for their fate which are more 
+convincing than the simple assertion that it was not 
+just and reasonable to help them. 
+2. Some Misconceived Countervailing Concerns 
+Most physical loss cases in the tort of negligence 
+raise sufficiently few concerns that a duty of care is 
+" See respectively, Spring v. Guardian Assurance plc. 
+[19931 2 All ER. 273 (C.A.), HL appeal heard 29.11.93-
+30.11.93, Cambridge Water Co. v. Eastern Counties Leather plc. 
+(CA.). 119941 1 All ER. 53 but see 63 (reversal by HL); Smith v. 
+Bush 119891 2 W.L.R. 790. 
+87 
+In Restraint of Tort 
+either 'self-evident' or militated against only by a 
+couple of concerns. At its simplest such cases merely 
+require a balance to be struck between the two coun-
+tervailing freedoms, one person's freedom of action 
+and another's freedom from injury, although this can 
+involve profound questions about legitimate expecta-
+tions and the trade-off between autonomy and pre-
+vention." Even so, in some cases special concern 
+can arise with regard to issues as diverse as the 
+impact of liability on industrial relations or on social 
+benevolence." 
+The area in which replacement of `pockets' with 
+an emphasis on countervailing concerns against lia-
+bility would have most impact is the field of eco-
+nomic loss.' Although it was anxiety about such 
+claims which produced the current retreat to incre-
+mentalism in general and tightening of economic 
+loss recovery in particular there are three misunder-
+standings underlying that anxiety which will need to 
+be resolved before a coherent agenda of countervail-
+ing factors can be defined for that and other areas of 
+law. 
+Originally the problem with allowing liability for 
+economic loss had been thought to be the unfairness 
+on defendants of indeterminate liability the so-called 
+'opening of the floodgates' problem. So it seemed 
+odd that the context in which the House of Lords' 
+hostility to recovery in tort for economic loss first 
+arose was not those cases in which the ripple effect 
+of negligent conduct raised the floodgates problem 
+most acutely (for example, bad investment advice) 
+but in the area of claims for economic loss where it 
+was patently absent: claims by owners for the eco-
+nomic loss suffered in acquiring property of defec-
+tive quality. Factors other than floodgates were 
+clearly fuelling judicial disquiet. Three different con-
+cerns can be identified. 
+(a) Socio-economic impact of the common law; 
+separation of powers 
+A system which allows law to be made or 'devel-
+oped' by common law judges and by a supreme legis- 
+See e.g„ the comment of Lord Brandon in Mobil Oil Hong 
+Kong Ltd. and Dow Chemical (Hong Kong) Ltd. v. Hong Kong 
+United Dockyards Ltd., The 'Hua Lien' 11991) 1 Lloyds L.R. 
+309, 329 (P.C.). 
+" For example, by staying awake and keeping a lookout a 
+car passenger may have been able to help avoid the accident 
+which injures her but respect for her autonomy is here held to 
+outweigh the concern with deterrence so she is not held con-
+tributorily negligent. Contrast the question of what obligation if 
+any a pregnant woman owes her unborn child, see Re S 119921 
+3 W.L.R. 806, casenote at 119931 C.L.J. 21. 
+" See respectively Morris v. Ford Motor Co. Ltd. 119731 Q.B. 
+792 and the rescue cases. 
+" J. Stapleton, op. cit. 
+" A decision praised by Mr Justice Evatt in a letter to Lord 
+lature has at its heart a dilemma which the separa-
+tion of powers doctrine is inadequate to resolve. On 
+the one hand, looking back in time it is those judg-
+ments which cut through the minutiae of legal prece-
+dents to draw from them and establish a bold new 
+principle which are regarded as the finest pillars of 
+the common law and which back its claim to be a 
+vital and responsive source of law. Often such cases 
+can be seen with hindsight to have produced, some-
+times gradually (Donoghue v. Stevenson) sometimes 
+rapidly (Hedley Byrne), a large rearrangement of 
+socio-economic relationships. In confident times this 
+is seen as an acceptable even desirable consequence 
+of the flexibility and power of the common law. 
+Donoghue v. Stevenson is a notable example from 
+tort law," but one of the best illustrations comes 
+from contract: the paternalistic implication of war-
+ranties into commercial dealings in goods in the 19th 
+century which, although having substantial impact 
+on those sellers who had hitherto relied on the 
+caveat emptor principle is now regarded as the 'very 
+heart' of the modern law of sale." 
+Periodically, however, it is to be expected that the 
+judiciary will be daunted by the power at its disposal 
+to disrupt expectations and generate powerful new 
+economic forces." Nor is it unexpected that even 
+when there is a wave of restraint affecting a much 
+broader field, it will be felt most strongly in the rela-
+tively unstructured field of tort law, especially negli-
+gence law. The most powerful catalyst of the recent 
+swing back to fettering the discretion of judges to 
+develop the law of tort was the controversial and 
+almost immediately apparent impact on local gov-
+ernment finances of the decision in Anns. Of course 
+there is a real problem for the law when a deep 
+pocket defendant (such as a local authority) is held 
+jointly and severally liable with a class of defendants 
+(for example builders) who often turn out to be judg-
+ment-proof. De facto a disproportionate burden of 
+the liability will fall on the former, a particularly 
+problematic result if it has public duties to perform. 
+But it is not a convincing argument simply to deride 
+Atkin on the grounds that 'the common law is again shown to 
+be capable of striking through the forms of legal separateness to 
+reality': G. Lewis, Lord Atkin (London, Butterworths, 1983) 67. 
+" P. Atiyah, The Sale of Goods, 8th ed. (London. Pitman, 
+1990) 142. 
+" There is, for example, recent evidence of a widespread 
+judicial concern on this point in the US leading to a significant 
+retrenchment of tort liability: J. Henderson and T. Eisenberg, 
+'The Quiet Revolution in Products Liability: An Empirical 
+Study of Legal Change' (1990) 37 U.C.L.A. 479. Note also the 
+dramatic shift in emphasis of Lord Bridge who as recently as 
+1982 had been opposed to an 'unwarranted abdication of the 
+courts function of developing and adapting principles of the 
+common law to changing conditions': McLoughlin v. O'Brien 
+119821 2 All E.R. 298, 319. 
+88 
+Jane Stapleton 
+Anns as the sort of 'judicial legislation' which 
+offends the separation of powers doctrine, as this 
+could be said of those other admired landmarks in 
+the law which had comparable effects. There may be 
+special problems with the Anns decision but the fact 
+that it produced a significant socio-economic impact 
+does not distinguish it from other settled cases. 
+Nor was it convincing to attack Anns on the basis 
+that before that case Parliament had in some way 
+attempted to 'cover the field' by enacting the Defec-
+tive Premises Act 1972. Ironically the history of that 
+piece of legislation shows rather that it was the cul-
+mination of Parliamentary frustration at the timidity 
+of judges unwilling to extend the broad principle of 
+Donoghue v. Stevenson to builder/vendors.' If any-
+thing, that Act shows how important Parliament is as 
+a corrective when the complex activities of the com- 
+mon law go badly wrong. If matters in the economic 
+loss field continue to lurch along in the way they 
+have done, perhaps the future will again see Parlia-
+ment intervening to correct the anomalies the current 
+blinkered incremental approach is producing. 
+But the concern with socio-economic impact and 
+the separation of powers is not a specious one. Even 
+if the role of tort law is principally a symbolic one, it 
+must take care not to appear to usurp the regulatory 
+role of Parliament across large fields—a criticism to 
+which the considerably more activist US judiciary is 
+exposed. Perhaps the non-lawyer is better at seeing 
+the intuitive difference between a court declaring the 
+design of a chimney or car negligent, and a court 
+holding that given its health risks the marketing of 
+tobacco is negligent: the former holding has rela- 
+tively isolated impact, the latter threatens to destroy 
+an industry," put thousands out of work and have 
+significant tax revenue implications. The implied 
+'separation of powers' argument in the rhetoric of 
+judges recognises the fact that those adversely 
+affected by the wide ranging redistributional effects 
+of such cases may legitimately prefer to see these 
+grave matters in the hands of elected representatives. 
+The problem for the law is that so far no legitimate 
+doctrinal technique has been found to distinguish 
+claims by individuals injured by the negligent design 
+or marketing of dangerous products according to the 
+size of the market for the particular product. 
+There are techniques by which litigants and courts 
+can mask the problem. Negligent design cases for 
+" Murphy v. Brentwood District Council [1990) 2 All ER. 
+908, 923 (per Lard Keith). 
+4° Stapleton, op. cit., 268-9 (see also 278). See Law Commis-
+sion Report No. 40 (1970) para. 73 and the speech of Mr Ivor 
+Richard, Part Debates, Vol. (830) col. 1821 (11.2.72), a relevant 
+‘promotor' of the legislation for the purposes of Pepper (Inspec-
+tor of Taxes) v. Hart 11993) 1 All E.R. 42 (H.L.). The Occupiers 
+example can be couched as failure to warn claims; 
+but sometimes this is not feasible. Applying joint 
+and several liability to deep pocketed authorities for 
+their failure to control the conduct of third parties in 
+a major area of their activity is one such case. Where 
+the third party is often not good for judgment the 
+impact on taxpayers is large, obvious and direct. But 
+as New Zealand law shows, courts do still have a 
+choice when faced with cases with large socio- 
+economic implications, such as building inspection 
+cases. Courts can choose to make a bold application 
+of general principle to the relevant activity thereby 
+indirectly applying pressure on Parliament to regu-
+late the activity. The alternative is to make a rea-
+soned case for exempting local authorities from 
+liability for their carelessness. Underlying this 
+choice is a tradeoff between different goals. The 
+advantage of the New Zealand approach is that it 
+ensures the individual plaintiff has someone worth-
+while to sue. Its disadvantage, as in all cases of lia-
+bility for the conduct of third parties, is that it 
+deflects attention from the party directly responsible 
+for the damage, and this undermines the deterrent 
+and moral symbolism of liability (a point I will 
+return to later). The strength of the approach of the 
+current House of Lords is that it avoids this deflec-
+tion of attention. Unhappily, however, it has also 
+thrown up a protective wall around negligent sub-
+contractors who are responsible for much of the cre-
+ation of defective property and with respect to whom 
+the imposition of liability would not create a disturb-
+ing socio-economic impact: 
+To sum up: in D & F Estates/Murphy the references 
+to Parliament were ill-thought out. Except in rare 
+cases (such as the Occupiers' Liability Act 1957) 
+there is no evidence that Parliament has or wants 
+impliedly to cover a field of civil obligation. More-
+over, unless the common law is to become mori-
+bund, bold decisions which result in major 
+rearrangement of socio-economic relationships are 
+inevitable. Such rearrangements per se are not a rea-
+son for concern: cases such as Walton (the manufac-
+turer's duty to recall certain dangerous products) and 
+Smith v. Bush had substantial effects but are not 
+regarded as results of improper 'judicial legislation'. 
+That is not to say that we cannot extract from Mur-
+phy a sound countervailing factor to include on any 
+agenda of concerns militating against tort liability, 
+Liability Act 1957 was similarly a response by a legislature 
+frustrated by the failure of judges to extend the simple 
+Donoghue v. Stevenson principle to the occupiers liability 
+field. See also n. 111 below. 
+" As has been the fate of the intra-uterine device industry 
+and most of the asbestos industry. 
+89 
+In Restraint of Tort 
+Mr' 
+but it has nothing to do with Parliament or large 
+socio-economic impact per se. The concern is and 
+should be defined more specifically, namely that the 
+relevant liability had a particular socio-economic 
+effect—a substantially damaging impact on local gov-
+ernment finances—which attracted concern. In fail-
+ing to separate out this specific concern, the House of 
+Lords has confused the reasons for shielding local 
+authorities from liability with the quite separate rea-
+sons for shielding private contractors. 
+(b) Insurance 
+Recently I have heard appellate judges informally 
+describe the current incremental approach to tort 
+claims as a reaction to the insurance background of 
+such claims. One impression given is that in certain 
+cases, denying a duty of care is justified because it 
+will not leave future victims uncompensated because 
+they have or could have insured the particular loss. 
+But this argument is as flawed as the earlier reliance 
+by some advocates of expansion of liability on the 
+argument that future defendants will not be crippled 
+by the relevant liability because they are or could be 
+insured against that loss. If tort law is to retain an 
+appearance of coherence as a private law mechanism 
+for the vindication of an individual plaintiff's rights 
+against an individual defendant it must be that, as 
+Justice Stephen of the Australian. High Court 
+implied, insurance may follow liability but liability 
+need not follow insurance." 
+Any intended moral or economic incentives of lia-
+bility are already weakened where insurance exists' 
+but predicating the existence of liability on the exis-
+tence or availability of insurance cuts away any 
+grounds for such incentives. The concept of negli- 
+gence liability is posited on the defendant's conduct 
+being wrong, a 'wrong', and it is morally incoherent 
+for such a judgement to hinge on the availability of 
+first party insurance to his victim. Just as if liability 
+is treated simply as a gateway to an insurance pool," 
+it fails to provide a reason why anyone ever should 
+42 Caltex Oil v. The Willemstad (1976) 136 C.L.R. 529, 580: 
+'the task of the court remains that of loss-fixing rather than 
+loss-spreading'. 
+• J. Stapleton. Product Liability (London, Buttenvorths, 
+1994), 6.05 (i). 
+• D. Harris, 'Evaluating the Goals of Personal Injury Law: 
+Some Empirical Evidence' in Essays for Patrick Atiyah, ed. P. 
+Cane and J. Stapleton (Oxford, Clarendon Press, 1991) 289. 
+a' For example, house insurance was the motivation for the 
+girl and wife's claims in n. 12. 
+a°  Contrast T. Weir describing s. 2 of the Defective Premises 
+Act 1972 as a 'striking and admirable instance of the ouster of 
+tort law where the plaintiff has adequate insurance cover 
+against the risk in question': Casebook on Tort, 6th ed. (Lon-
+don, Sweet & Maxwell, 1988) 66. The preferable interpretation 
+is that while the D.P.A. creates a cause of action for owners of 
+the defective premises. it excludes from such protection those 
+lose a tort claim. If liability is denied because the 
+plaintiff could get first party insurance it penalises 
+the cautious and would severely limit the scope of 
+tort recovery since such insurance is available 
+against many forms of actionable loss. The liability 
+of one particular individual to another must be based 
+on reasons other than insurance. 
+The presence or absence of insurance certainly 
+affects who sues and is sued," but it should not 
+determine who is liable to whom, any more than the 
+wealth or poverty of the parties does. It is certainly 
+not a legitimate factor for inclusion in any agenda 
+of countervailing concerns militating against tort lia-
+bility. 
+(c) The 'correct' spheres of tort and contract: linear 
+liability 
+Underlying the reining in of liability in negligence 
+seems to be a concern that it had begun to encroach 
+on the legitimate sphere of contract. Thus to grant 
+protection to the plaintiff in Junior Books was seen 
+as tantamount to providing it with a warranty of 
+quality for which it had not paid the defendant.' 
+The most obvious objection to this is that the very 
+nature of tort protection is that it is awarded even 
+where the plaintiff had not paid the defendant for it. 
+Mrs Donoghue was in effect given the protection of a 
+warranty of safety without paying for it. Moreover, in 
+the context of Junior Books to say that warranties of 
+quality are the province of contract is mere assertion. 
+A better reason for opposition to that decision needs 
+to be found. 
+In fact there is, underlying the 'warranty' argument 
+against Junior Books, a much stronger and far more 
+general dichotomy, one which does not correspond 
+with the line of privity but is often confused with it, 
+and one which provides a more convincing basis for 
+criticism of that and other expansionary cases. This 
+is the choice the law of obligations has when faced 
+with a sequence of dealings or potential dealings. On 
+the one hand, the law might prefer to simplify the 
+owners who have been able to secure from an appropriate 
+party alternative (warranty) protection in their bargain (and 
+price). More generally: even if a plaintiff can get first-party 
+insurance for the risk, the question is, should the plaintiff have 
+to pay for such cover or should he/she be entitled in law to that 
+protection. (The question is important because the wealth dis-
+tribution consequences are quite different in the 2 cases.) If a 
+plaintiff is held to be entitled to the protection in law and he 
+can bargain with the obliged party he may freely choose to sell 
+it (by accepting an exclusion clause in return for a monetary 
+advantage). One piece of evidence that he did so freely would 
+be that he had the back-up of freely available first party insur-
+ance for that type of risk, but here insurance is relevant only to 
+the genuineness of the bargaining around the legal entitlement 
+not to its initial allocation. 
+See discussion of the warranty point in Stapleton op. cit. 
+(1991) 268 et seq. 
+90 
+Jane Stapleton 
+4 
+relevant obligations of the parties by imposing them 
+in a linear form. The first party would owe an obliga-
+tion only to the party next in sequence and that 
+party's obligations in turn would only be owed to the 
+next and so on. In other words, the eventual victim, 
+the plaintiff, would be prevented from leapfrogging a 
+party with whom it had had dealings or could have 
+had dealings in order to sue a distant party. This 
+form of liability is most well known in contract 
+where it is secured by the doctrine of privity. How-
+ever it is a major and widespread misconception to 
+see this form of liability arrangement as synonymous 
+with a contractual vision of law. It is a form of 
+arrangement also available in tort law: a tort plaintiff 
+may be refused a claim against a distant party even 
+though the plaintiff does not have (nor reasonably 
+could have had) a contract with another intermediate 
+party so that any protection the plaintiff could fall 
+back on when faced with this refusal is at most a tort 
+obligation owed by, say, that intermediate party.' 
+Although not yet explicitly recognised in UK law," 
+the 'learned intermediary' doctrine in the US is a 
+good example of this. This doctrine states that so 
+long as the drug manufacturer adequately warns the 
+GP of the product's risks, it has discharged its duty 
+to warn and is not liable to a patient injured by the 
+product, who is therefore forced to concentrate his 
+claim, be it in tort or contract, against the GP:  The 
+deployment by US tort law of this linear form of lia-
+bility rests on the wholly tenable assumption that 
+patients are far more likely to have been influenced 
+by GP advice than by package inserts from manufac-
+turers.5° In other product contexts where this 
+assumption about the intermediary's role fails, the 
+law may then revert to the alternative strategy of 
+imposing obligations on manufacturers to distant 
+victims regardless of whether, for example, the man-
+ufacturer had adequately warned the intermediary. 
+Intermediary not a co-tortfeasor 
+The preferable basis of the criticism of Junior Books, 
+then, is that sometimes a linear arrangement of liabil-
+ity may be justified and that, on the facts of that case, 
+this was the situation there. Such a linear arrange-
+ment may be justified even where the intermediary is 
+not negligent. In Junior Books the argument would be 
+For example, if for some reason local authorities were 
+held not to owe pedestrians a duty of care with respect to the 
+maintenance of roads, the injured pedestrian would have to 
+look to the vehicle driver for protection. 
+49 A fact clearly related to the remarkable paucity of judg-
+ments relating to pharmaceuticals in the UK. 
+5° Stapleton, Product Liability, op. cit. 10.07 (ii), The ven-
+dor's immunity from suit, which is another example of a form 
+of linear arrangement of obligations, rests on more controver- 
+that given the circumstances it was not unfair to 
+require the commercial plaintiff to seek protection 
+from the party with which it had directly dealt, that 
+is, the main contractor. Instead of relying on bald 
+and unconvincing assertions that warranties of qual-
+ity are the province of contract not tort, appellate 
+court would be better advised to defend their criti-
+cism of Junior Books by explaining why, in certain 
+circumstances, it is preferable to channel liability 
+through the sequence of dealings of the parties than 
+to allow the victim to leapfrog the party it had or 
+could have dealt with and sue the negligent creator 
+of the defective property directly. Care would have 
+to be taken here. The 'explanation' cannot simply be 
+the assertion that it is unfair for the defendant sub-
+contractor to have to face obligations other than 
+those owed to parties in privity with him, for this is 
+the privity fallacy.' 
+But reasons can be found here, just as they could 
+in the learned intermediary context. The most con-
+vincing reason in the circumstances of Junior Books 
+is that the plaintiff had had an appropriate opportu-
+nity to protect itself, either in its dealings with the 
+main contractor or by dealing directly with the sub-
+contractor.' Instead, then, of deriving from the 
+opposition to Junior Books a denial of all claims 
+against the creator of defective acquired property 
+with respect to its quality, the more convincing 
+deduction is a countervailing factor to liability 
+which refers to the adequacy of the appropriate alter-
+native means of protection available to the plaintiff. 
+Not all avenues of protection are 'appropriate' in this 
+sense. First party insurance, for example, is not. In 
+Junior Books the alternative means of protection of 
+bargaining with the contractors were 'appropriate' 
+because this (unlike insurance) would have been 
+likely to generate adequate deterrence incentives on 
+sub-contractors." 
+Distinct advantages would follow if appellate 
+courts abandoned their reliance on assertions that 
+certain types of obligation are the province of con-
+tract and determined whether a plaintiff should be 
+granted the protection of a tort obligation from a dis-
+tant defendant on the basis of whether the plaintiff 
+had had an appropriate opportunity to protect itself 
+in its dealings, or potential dealings, with another 
+suitable party. First, some case law would be more 
+sial assumptions. 
+" Which is antithetical to the existence of independent tort 
+obligations, see Stapleton (1991), op. at 251-2. 
+" Among other reasons for channelling obligations is easing 
+proof problems of plaintiffs—the probable basis of the chan-
+nelled form of liability in the Consumer Protection Act 1987. 
+" A later article will give a more detailed explanation of 
+these deterrence-based ideas. 
+91 
+In Restraint of Tort 
+intelligible: for example the decision in Smith v. 
+Bush would be compatible with opposition to the 
+decision in Junior Books. Secondly, there would be 
+no risk of the reasoning collapsing into some version 
+of the privity fallacy. Thirdly, adequacy of appropri-
+ate alternative means of protection is part of a much 
+bigger picture. It is relevant in all situations not just 
+in cases where there is a sequence of parties; and it is 
+an important and effective constraint on the growth 
+of tort law. In particular it would help us to find the 
+demarcation line between plaintiffs to whom the law 
+grants protection not bargained for, and plaintiffs to 
+whom no such help is to be given. It is now appreci-
+ated that in many areas this line does not correspond 
+with the no privity/privity line. Plaintiffs technically 
+linked by privity with the defendant may still be 
+given protection while plaintiffs who are strangers to 
+the defendant may yet be refused tort protection. 
+Privity is not the appropriate organising principle 
+here. 
+Appropriate Alternative Means of Protection 
+Elsewhere I have noted that imbedded in past 
+caselaw on economic loss there is a concern not to 
+assist plaintiffs who had certain alternative means of 
+protection" and some recent dicta and caselaw have 
+confirmed the importance of this particular hurdle in 
+both tripartite and bilateral cases. Thus in the recent 
+Canadian case of Norsk" the powerful dissent of La 
+Forest et al. used this argument to find against the 
+plaintiff in a situation analogous to that of the Min-
+eral Transporter case: the plaintiff, who relied on the 
+integrity of the property of a party with whom it had 
+a contractual relationship, suffered economic loss as 
+the result of physical damage caused to that property 
+by the negligence of the defendant. The plaintiff is 
+regarded as having in its contractual relationship 
+with the property owner, real (not just nominal) and 
+adequate means of protecting itself from the relevant 
+risk, while appropriately feeding back into a relevant 
+" Stapleton (1991) op. cit. 
+as Canadian National Railway Co. v. Norsk Pacific 
+Steamship Co. (1992) 91 D.L.R. (4th) 289, 346 (La Forest J. with 
+whom Sopinka and lacobucci J. J. concurred). On which see 
+casenotes by J. Fleming (1993) 1 Tort Law Rev. 68; M. McInnes 
+(1993) Camb. L.J. 12; B. Markesinis (1993) 109 L.Q.R. 5. See 
+also the discussion in Stapleton (1991) op. cit. 263-4 of the 
+Mineral Transporter case 119861 1 A.C.r. 
+" See e.g., Wentworth v. Wiltshire County Council (19931 2 
+All ER. 256 (CA.) and Wood v. The Law Society, The Times, 
+30.7.93 (Q.B.D.). Some of the reasoning in these cases, espe-
+cially in the advice cases, is problematic because it does not 
+address the issue of when the alternative means of protection 
+may be 'inappropriate' because, for example, their use encour-
+ages wasteful duplication of effort and actual dilution of deter-
+rence incentives. Nevertheless, there is clearly an important 
+restraining principle lobe developed here. 
+chain of dealings adequate deterrence incentives. Its 
+claim, if any, should therefore be against that party 
+who in turn has a claim against the negligent injurer 
+of the property. 
+Closer to home, the availability of certain alterna-
+tive means of protection has been used in judicial 
+reasoning across a wide range of issues." In recent 
+personal injury cases involving the discretion under 
+section 33 of the Limitation Act, for example, the 
+Court of Appeal has held that one factor relevant to 
+the exercise of that discretion is whether the plaintiff 
+has an alternative means of protection in the form of 
+a claim against his or her solicitor for negligence.' 
+In another important Court of Appeal case the alter-
+native means of protection argument was used to 
+support a decision that a local authority could not 
+sue for libel in respect of its governing or administra-
+tive reputation when no actual financial loss was 
+alleged." Similarly the argument is becoming more 
+explicit in advice cases. For example the more pow-
+erful reason used to defeat the plaintiff's claim in tort 
+in Gran Geltao" was that the plaintiff's claim 
+directly against the landlord was sufficient protec-
+tion, and a duplicate claim in tort against the land-
+lord's solicitor was not necessary. Similarly the 
+reasonableness of reliance is now being seen to 
+hinge, inter alia, on the advisee's ability to obtain 
+independent advice. In James McNaughton" (in the 
+context of a friendly takeover) it was stressed that a 
+relevant factor in denying an advisee-bidder a claim 
+against the advisor (the auditor of the target com-
+pany) was that the advisee should have sought inde-
+pendent advice, and it was noted that in business 
+transactions conducted at arms length it would 
+be difficult to rebut the view that advisees should 
+take independent advice even where the advisor-
+defendant had dealt directly with them. Of course, in 
+this light the recognition of a duty of care in Hedley 
+Byrne itself is open to serious question (and rightly 
+so) because the plaintiffs in that case could either 
+have obtained independent advice or paid for the 
+3' Hartley v. Birmingham City District Council 119921 2 All 
+E.R. 213 (CA.). Ramsden v. Lee (19921 2 All ER. 204 (CA.), 
+although in both cases s. 33 was exercised in the plaintiff's 
+favour. 
+" Derbyshire County Council v. Time Newspapers Ltd. 
+119921 3 All ER. 65, 81 (Balcombe L. J.). 
+" Gran Gelato Ltd. v. Richcliff (Group) Ltd. 119921 1 All ER. 
+865 (Ch.). For criticisms of the other reasons (and outcome) see 
+P. Cane, 'Negligent Solicitor Escapes Liability' (1992) 109 
+L.Q.R. 539; A. Tettenborn, 'Enquiries before Contract—The 
+Wrong Answer?' 119921 Camb. L.J. 415. Also, what about the 
+potential claim by the plaintiff against his or her own solici-
+tors? 
+" fames McNaughton Papers Gimp Ltd. v. Hicks Anderson 
+& Co. (a firm) 119911 I All ER. 134, 144-6. See also: Ultra-
+mares Corp. v. Touche, Niven & Co. (1931) 174 N.E. 441. 
+1
+J
+92 
+Jane Stapleton 
+information, thus securing contractual protection. 
+But it is a good explanation for Smith v. Bush and 
+provides a clear justification for shifting the protec-
+tion of tort towards private plaintiffs and away from 
+commercial plaintiffs. 
+Multiple Causes 
+The more courts are willing to adopt a linear arrange-
+ment of obligations in tort—refusing to allow plain-
+tiffs to leapfrog a party the plaintiff had or could 
+have dealt with in order to sue a distant tortfeasor—
+the more manageable becomes the problem of multi-
+ple causation. In the modern world, as it has become 
+more feasible to implicate the `carelessness' of many 
+parties in a deleterious outcome plaintiffs often 
+appear to be in a position to choose randomly 
+between defendants. Short of abandoning joint and 
+several liability—itself an interesting option—the 
+control of this problem and the associated de facto 
+channelling of liability burdens to deep pocket 
+defendants is best helped by the use of linear obliga-
+tions to shield the more peripheral parties. 
+One objection to linear liability here is that it may 
+force the plaintiff to sue a party other than the one 
+whose careless conduct directly created the danger-
+ous situation. In most cases it will force the plaintiff 
+to rely on suing an intermediate party usually in con-
+tract, and to rely on a chain of litigation to ensure the 
+loss is ultimately distributed to the correct parties. 
+This may not only appear odd but unjust if the inter-
+mediate party is not good for judgment" and these 
+are both factors against which the original reason for 
+channelling must be weighed. 
+Where the intermediary is a co-tortfeasor 
+Ironically though, unless we are solely committed to 
+making life easier for plaintiffs, the phenomenon of a 
+party not being good for judgment can cut the other 
+way and in favour of linear liability where the inter-
+mediate party is a co-tortfeasor. We have already 
+seen in the context of the liability of local authorities 
+for negligent inspection of buildings that the likeli-
+hood of the intermediary in such cases (a builder) 
+not being good for judgment proved a positive reason 
+for channelling liability and preventing the plaintiff 
+leapfrogging the builder to sue the local authority 
+• As in Gran Gelato Ltd. v. Richeliff (Group) Ltd. 119921 I 
+All ER. 865. Compare Junior Books. 
+" Although see cases noted earlier where the criminal is 
+sued directly. 
+• Dorset Yacht Co. Ltd. v. Home Office 119691 2 Q.B. 412. 
+Compare, attitudes to the police: footnote 71 below. 
+e' Cunningham v. Reading Football Club (Q.B.D.) Indepen- 
+(because otherwise a disproportionate amount of 
+overall liability with respect to defective buildings 
+would end up on the shoulders of local taxpayers 
+rather than on careless builders). 
+But there are other fields in which reasons exist for 
+preventing plaintiffs leapfrogging another party who 
+is most directly responsible for their injury. Take, for 
+example, the area of liability for the criminal acts of 
+third parties. Violent criminals are very often not 
+themselves good for judgment." Was it really such a 
+self-evidently good idea to make the Home Office 
+liable for the property damage caused by escaping 
+Borstal boys?" Why is it right that a football club 
+should be held liable when hooligans break off con-
+crete parts of the premises and hurl them at other 
+entrants?" Isn't it stretching the reach of a 
+respectable tort law too much for a rape victim to be 
+able to sue the local authority employer of her 
+attacker?" From the area of products liability; when 
+and why should the law of tort require manufactur-
+ers to render their products resistant to criminal tam-
+pering?; and should a lock or burglar alarm 
+manufacturer be liable for personal injury damages 
+when its defective product fails and someone is 
+attacked by a burglar? 
+Given that the criminal is usually judgment proof, 
+is it a sensible outcome for the full load of liability to 
+end on the shoulders of a party whose negligence is 
+really peripheral? Of course, if we believe tort is or 
+should become a conduit for substantial compensa-
+tion we might be tempted to say yes, because allow-
+ing plaintiffs to sue many different parties increases 
+the chances of recovering from at least one. But if we 
+believe this is not the case, and that the role of tort 
+law is really a symbolic one of maintaining balance 
+and justice then we might regard it as unfortunate 
+that such defendants end up with all the liability 
+burden and accompanying stigma. Moreover, already 
+in the Criminal Injuries Compensation Scheme soci-
+ety seems to have acknowledged that such injuries 
+are a group risk with group responsibility. In as 
+much as the impetus for the expansion of tort law in 
+the field of obligations to control third parties is gen-
+erated by a hope that substantial numbers of plain-
+tiffs will use tort as a gateway to compensation, it is 
+a false basis for expansion. To the extent that tort is 
+really about the symbolism of moral and deterrence 
+values, we should be taking a much harder look at 
+dent, 20.3.91. Compare the preferable approach to liability in 
+Tapp v. London County Bus (South West) Ltd. (CA.) 119931 1 
+W.L.R. 976 (defendant's highjacked bus causing injury to 
+plaintiff). 
+" F. Bawdon, Tutting a Price on Rape: increasing compen-
+sation awards', N.L.J., 12.3.93, 371. 372. 
+93 
+In Restraint of Tort 
+such liability and deploying linear arrangements of 
+obligations where possible without necessarily deny-
+ing plaintiffs any claim at all." 
+3. Teasing out some countervailing concerns 
+from existing caselaw 
+(a) Is the plaintiff using tort to circumvent an 
+understanding of where the loss should fall? 
+There needs to be a more tightly developed tortious 
+notion which denies protection to plaintiffs who are 
+seeking to use tort to evade a prior understanding (to 
+which the plaintiff was party) of how obligations are 
+arranged. This is another and again a better reason 
+on which to attack Junior Books' than that given by 
+judicial critics. It is also a further reason in support 
+of the dissentients' denial of a duty of care in Norsk 
+where the plaintiff had chosen not to extract contrac-
+tual protection with the property owner (the licence 
+agreement explicitly provided the plaintiff could not 
+claim damages from the latter in the event of closure 
+of the bridge in an emergency") and had presumably 
+gained a financial advantage in doing so. 
+In bipartite situations where a defendant injured a 
+plaintiff directly by positive conduct the issue is 
+handled moderately well by a variable standard of 
+care and very occasionally by the defence of volenti. 
+But if we hope to restrain tort by an increased 
+emphasis on linear liability (and we recognise that 
+this does not necessarily mean that the protection to 
+which plaintiffs will have to resort need be in con-
+tract) the position is more complex: the courts must 
+be sensitive to arguments by distant tortfeasors that 
+the understanding between the parties was that the 
+plaintiff would seek protection/redress against 
+another p'arty (perhaps an intermediary) rather than 
+directly against the distant party himself. In accept-
+ing this argument courts must feel confident that 
+they know what it is that the plaintiff had accepted. 
+In contract, express terms are a useful starting point 
+for the same restraining pre-condition on protec- 
+Compare caveat emptor and J. Gordley's argument that it 
+was used to protect innocent middle-parties in a chain of sales: 
+Philosophical Origins of Modern Contract Doctrine (Oxford, 
+Clarendon Press. 1991) 159. 
+" See Stapleton (1991) op. cit. 287. 
+Canadian National Railway Co. v. Norsk Pacific 
+Steamship Co. (1992), 91 D.L.R. (4th) 289, 296 (per La Forest, 
+J.). 
+For if they are freely agreed to by the plaintiff, he or she is 
+denied any claim for an inconsistent implied term: Johnstone 
+v. Bloomsbury Health Authority 119911 2 W.L.R. 1362 (here the 
+term contended for was held to be not inconsistent with the 
+express term). The problem also arises in chains of contracts, 
+see e.g., P. Atiyah, op. cit., 148-9. 
+K. Williams, 'Defences for drunken drivers: Public Policy 
+on the roads and in the air' (1991) 54 M.L.R. 745, 751. See, on  
+lion." But outside that, courts are not yet sufficiently 
+scrupulous in policing this pre-condition to protec-
+tion. In contract this does not matter so much given 
+the need for plaintiffs positively to establish an 
+implied term for protection—and the unduly restric-
+tive attitude English courts take to terms implied by 
+law. But in tort there is as yet insufficient develop-
+ment of the idea and its associated problems, for 
+example of how a distant but known exclusion 
+clause affects a plaintiff's claim in tort. 
+(b) Dignity of the law 
+Another partly-submerged consideration relevant to 
+the protection by the law of a plaintiff by, say, the 
+recognition of a new duty of care is whether such a 
+move would bring the law into disrepute or maintain 
+it in that state. Defining this countervailing factor can 
+be tricky. Even though it is well known for example 
+that the occasions on which courts are moved to 
+deploy the defences of volenti and especially illegal-
+ity are best explained on this concern rather than 
+other grounds," the formulation of a predictive test 
+of these occasions has proved elusive. Even so the 
+concern is a real one. It implicitly bolsters for exam-
+ple the protection from suit afforded to much police 
+action." But it is a factor that can cut both ways. The 
+pro-plaintiff decision in Baker v. Willoughby" 
+(where the plaintiff succeeded even though he could 
+not establish the but-for connection between the 
+defendant's fault and the damage complained about) 
+was clearly influenced by the embarrassment it 
+would be to the law that the victim of one tort would 
+have been better off than the victim of two torts. 
+The dignity of the law is a concern which deserves 
+re-emphasis in the future not least because doctrinal 
+developments have now produced areas of intolera-
+ble embarrassment with which incrementalism—in 
+particular, incrementalism of the 'pre-judged pock-
+ets' form—is inadequate to deal. P. R. Glazebrook has 
+already eloquently attacked the 'affront to public 
+decency' represented by awards of damages for the 
+illegality. Pitts v. Hunt (19901 3 W.L.R. 542 and on volenti see 
+Morris v. Morris 119901 3 All E.R. 801. 
+" Hilly. Chief Constable of West Yorkshire(1988I 2 All E.R. 
+238 (H.L.); Arica v. McDermott N.L.J., 12.3.93 (C.A.); Osman's 
+case Independent, 8.10.92 (CA.), although see Kirkham v. 
+Anderton, Independent, 16.1.90 (CA.) (damages against police 
+with respect to a suicide would not affront the public con-
+science or shock the ordinary citizen so the defence of ex turpi 
+cause failed), and the (surely borderline) case of Welsh v. Chief 
+Constable of the Merseyside Police [19931 1 All E.R. 692, con-
+cerning the Crown Prosecution Service. 
+Baker v. Willoughby (19701 AC. 467 (H.C). In the causa-
+tion field-, see also Cook v. Lewis 119521 1 D.L.R. 1; Summers v. 
+Tice (1948) 199 P. 2d 1; McGhee v. National Coal Board (19721 
+3 All ER. 1008 (H.C.). Is the loss of amenities head of damages 
+in personal injuries claims motivated by a related concern? 
+94 
+Jane Stapleton 
+plex and mysterious process. May it not be a major 
+concern of judges that while the prospect of compen-
+sation for, say, a broken leg may inhibit recuperation 
+to a minor degree, the prospect of compensation for 
+grief would have a much more powerful disincentive 
+to rehabilitation and one which medical evidence 
+would find extremely difficult to unravel from the 
+original condition?" If a central factor in grief and 
+depression is anger, might not the adversarial nature 
+_ __of-legal process be especially counter-productive? 
+Associated with this concern is the very real one of 
+characterising the relevant actionable damage. We 
+are told that pathological grief is compensatable (so 
+long as it satisfies the above artificial relational etc. 
+requirements) but not normal grief. Leaving aside the 
+perplexing question of why this is so, we are still 
+confronted by the possibility that with hindsight and 
+in the context of a civil claim, medical opinion may 
+define 'pathological grief much more loosely than 
+the law would find tolerable. After all, the boundary 
+between normal and pathological grief is of virtually 
+no significance for medical treatment. 
+So the corners about recovery for nervous shock 
+are real, but the available techniques for controlling 
+it are not only artificial but bring the law into dis-
+repute. That at _present claims can turn on the  
+requirement of 'close ties of love and affection' is 
+- 
+guaranteed to produce outrage.  Is it  • ot a disrep 
+-atebta-stgirt'to-see_bratheKof Hills 	
+:- 
+, 
+tiirned- 	
+no more than broth- 
+-arty-lore
+victim? In  h
+GT—
+re cases will it  
+not lif
+.__
+.,tesqueith.11,a_sa iiit
+a.tylitrabblini.  to 
+-Ii2.21.:-
+hei
+_r_16
+spe-Olg love for 	
+der_ta  
+ceased 
+win mone 	
+ages an or e 
+ends  t to have to 
+ 
+atrSEFffiI argument? Moreover, most other feasible 
+control devices which might be used instead of 'ties 
+of love' would still turn on the status of the plaintiff 
+and so produce the same unseemly arguments over 
+meaningless boundaries. 	
+• 
+Some US jurisdictions who had once recognised a 
+tort relating to privacy have now abolished it 
+because it was felt that no reasonable boundaries for 
+the cause of action could be found, and this was an 
+embarrassment to the law." Should not our courts 
+upkeep of 'unwanted' children." But a class of 
+claims which even more obviously offends this prin- 
+ciple is that concerning nervous shock. It is no small 
+irony that the area of nervous shock is both the best 
+historical example of incremental development and 
+yet also the area where the silliest rules now exist 
+and where criticism is almost universal...L=140 
+Oliver dues not think thijimhere_is=legically-defen- 
+siN4.74 A popular but obvious criticism of tite_rela:___  
+tional, sliatiar and sensory reanirements  for the 
+existence of a duty of care with respect to nervous 
+sh 	
+w--T'
+esen sme-qua-non fac- 
+tors to the causation of the actionable damage. Ner-
+ous shock, pathologic gr
+arn
+if, ps3-inT----
+iiatric illness or 
+however this damage is best described does not only 
+occur to those with tight ties of affection to_taAig-
+tiza inilaiiiiaziyitirtmi-ded sense the injured victim at 
+the time of injury or near enou 	
+e
+AlET-01-7
+e er.  3  Ner- 
+vous shock can afflict other sorts of people in other 
+circumstances and can do so foreseeably. Drawing a 
+line between the cases of pathological grief now 
+recoverable and pathological grief caused by, say, the 
+sudden shock of being told of a brother's grisly death 
+and then dwelling upon it, has nothing to do with 
+foreseeability. A brother may foreseeably suffer such 
+a fate even though he has no special or indeed any 
+particular tie of affection to his deceased brother. 
+What is going on in these rules is simply a line-
+drawing exercise. 
+The first question is why is it thought that a line 
+must be drawn more tightly than the class of foresee-
+able victims? In the past there was a fear that approx-
+imating nervous shock to other forms of physical loss 
+so that the duty was 'self evident' if the loss was 
+foreseeable would generate far too many claims. This 
+is now unpopular as a modern rationale of nervous 
+shock limitations." This is because, inter alia, it is 
+thought that medical data on the condition suggests 
+it is not common.' But the real root of concern may 
+be that appellate courts suspect, and with reason it 
+seems to me, that once a general duty to avoid ner-
+vous shock was recognised, many more individuals 
+would be recognised as presenting the relevant 
+symptoms to their GPs. Recovery from grief is a corn- 
+• P. Glazebrook, 'Unseemliness Compounded by Injustice' 
+119921 Carob. C.). 226. The reformulation of the damage as eco-
+nomic loss rather than of life (as in McKay v. Essex Area 
+Health Authority 11982) Q.B. 1166) does little to mask the 
+problem. 
+• Alcock v. Chief Constable of the South Yorkshire Police 
+11991) 4 All E.R. 907,932 (H.L.). Other critics include, S. Ned-
+ley, 'Hillborough—Morbid Musings of a Reasonable Chief Con-
+stable' 119921 Carob. L.J. 16; B. Lynch, 'A Victory for 
+Pragmatism? Nervous Shock Reconsidered (1992) 108 L.Q.R. 
+367, 370; H. Toff, 'Liability for Psychiatric Illness After Hills-
+borough' (1992) 12 0.J.L.S. 440, 441.  
+" Toff, op. cit. 
+'e See e.g., the speeches in McLoughin v. O'Brien 119821 2 
+All E.R. 298 (H.L.). 
+• Teff, op. cit. 
+' Note that (1) this argument is not the same as a fear of 
+fraudulent claims, and (2) that Lord Bridge noted that the logi-
+cal deduction from this concern was to wipe out liability for 
+pure nervous shock—the reform argued for here. 
+• D. Bedingfield, 'Privacy or Publicity? The Enduring Con-
+fusion Surrounding the American Tort of Invasion of Privacy' 
+(1992) 55 M.L.R. 111, 112. 
+95 
+In Restraint of Tort 
+wipe out recovery for pure nervous shock on the 
+same basis?" 
+4. A Few Ideas for Future Movement of Doc-
+trine 
+(a) When should anticipatory claims be allowed? 
+The plaintiff suing in defamation does not have to 
+prove any actual damage to reputation: the plaintiff 
+need not find a friend who will testify that he now 
+thinks less of the plaintiff. One way of looking at this 
+fact is that the law is seeking to avoid just the sort of 
+humiliating forensic spectacle it is at present ensur-
+ing in nervous shock cases. But another way of 
+seeing the absence of a damage-to-reputation require-
+ment in defamation is that the law regards the inter-
+est threatened by the defendant's conduct as so 
+precious that it penalises even mere threats to its 
+integrity for the sake of deterrence. Yet another rea-
+son the law might choose to allow claims before any 
+conventional type of damage has been suffered is in 
+order to allow the plaintiff to mitigate his loss. This 
+was the quite rational driving force behind the liabil-
+ity on builders for property which presented 'an 
+imminent threat to health and safety'." It also would 
+support claims in the future by, for example, those 
+exposed to excessive radiation in hospitals. The cate-
+gories of actionable damage are not closed." Just as 
+we may choose in future to wipe out recovery for 
+nervous shock, courts may choose to recognise cer-
+tain categories of exposure to risk as actionable per 
+se (i.e. recognition that the 'loss of the chance' of 
+avoiding the threatened outcome was actionable 
+'damage'). Of course an unbridled recognition of 
+such a form of 'damage' as actionable has over-
+whelming arguments against it. Some sort of qualifi-
+cation is needed otherwise everyone living near 
+SeMeld could sue for their increased risk of 
+leukemia, bringing the whole system of civil obliga-
+tions into public ridicule." But in some cases the 
+mitigation argument is very strong. In the US, those 
+" If in a case where statute barred room for manoeuvre Lord 
+Reid was moved to complain that 'the common law ought 
+never to produce a wholly unreasonable result . .", Cartledge 
+v. E. lopling & Sons Ltd. 119631 A.C. 758, 772), how much more 
+forceful is that complaint here where no statute obstructs ratio-
+nal reform. 
+8' Anna v. Merton London Borough Council 119781 A.C. 728. 
+60  Hotson v. East Berkshire Area Health Authority 119871 1 
+All ER. 210, 217 (per Sir John Donaldson KR.): 'I can see no 
+reason why the categories of loss should be closed either'. 
+" As well as having dramatic side-effects in limitation 
+law—potentially barring claims later brought when a person 
+did actually contract leukemia. This has a parallel in the recog-
+nition that 'acquisition of defective property' claims are really 
+ones concerning economic loss—the defendant can use this 
+characterization of what is the actionable 'damage' to argue 
+that the claim is statute barred. See J. Stapleton, 'The Gist of 
+negligently exposed to x-rays can sometimes recover 
+damages under the label of 'damages for the cost of 
+medical surveillance' where the surveillance will 
+pick up cancers early enough to limit their impact. 
+Moreover in the current dramatic situation involving 
+defective Bjork-Shiley heart valves (a quarter of 
+which are defective and will fail catastrophically 
+without warning"), the law might be brought into 
+considerable disrepute were it to insist that the 
+recipients 'wait and see' before they (or rather their 
+estates) could sue. In other words there may be some 
+class of anticipatory claims which, although specula-
+tive (not all recipients of such damages would even-
+tually suffer the deleterious outcome), may be 
+justified, and to this extent the future may see a re-
+embrace of the broad concern underlying the deci-
+sion in Anns. 
+(b) Ranking types of loss; private profit 
+A vigorous common law might also in the future 
+draw out distinctions within certain categories of 
+actionable damage. In the twentieth century, Parlia-
+ment has been sensitive to the greater social concern 
+generated by personal injuries relative to property 
+damage," and within property damage to the greater 
+concern where a person's dwelling is affected." 
+Might not these sorts of considerations be given more 
+prominence and definition in future common law 
+doctrine? 
+Similarly there is in both parliamentary enact-
+ments and certain areas of the common law a distinc-
+tion drawn between defendants who act in the 
+course of a business and others." A common law 
+which seeks to be responsive to social concerns and 
+distinctions may choose to develop this idea more 
+explicitly. In the future, therefore, we might want to 
+see such a factor enter into the determination of 
+whether a particular plaintiff should be able to sue a 
+particular defendant and on what basis. This is not 
+simply the issue of protecting certain public activi-
+ties such as those of the police and local authorities 
+Negligence, Part 1(19881 104 L.Q.R. 213, 236 and Nitrigin 
+Eireann Teoranta v. Inca Alloys Ltd. 119921 I W.L.R. 498. The 
+same construction is probably true of a claim that a defective 
+herbicide was ineffective so that the crop is more vulnerable to 
+weeds. 
+By 1992 there had been 470 recorded failures of this heart 
+valve (43 in the UK) with fatal results in two-thirds of cases (33 
+in the UK): Prob. Liab. Internat. [March 19921 38. See also The 
+Guardian. 3.12.92. 
+" e.g. Limitation Act 1980, s. 33; Occupiers' Liability Act 
+1984 sl. (9); Unfair Contract Terms Act 1977 s. 2 (1). 
+" e.g. Defective Premises Act 1972. 
+" See e.g., Sale of Goods Act 1979; Unfair Contract Terms 
+Act 1977; Consumer Protection Act 1987. This argument is 
+developed in detail under the term 'moral enterprise liability' 
+in Stapleton, Product Liability, op. cit.. Chapter 8. 
+96 
+Jane Stapleton 
+4 
+(see above), but of developing a distinction between, 
+say, one who advises, feeds or carries another in pur-
+suit of financial gain and one who does so without 
+that motivation. It might be, for example, that some-
+time in the future the vicarious liability of employers 
+for the acts of employees in the course of employ-
+ment will evolve into a personal but strict liability of 
+employers for injuries caused in this way. Certainly 
+UK courts are hostile to employers relying on their 
+former common law entitlement to seek an indem-
+nity from the tortfeasor-employee, and such reliance 
+is now rare. Indeed, so settled in some countries 'is 
+the consensus that this is a just arrangement that 
+there is a growing momentum to remove formally the 
+personal liability of the employee in line with this 
+practice." One relevant application of this idea 
+might resolve the problematic basis of Richcliff's lia-
+bility in Gran Gelato" because Richcliff's 'vicarious 
+liability' would be replaced by a personal strict lia-
+bility imposed on defendants for acts done by their 
+employees and agents acting in pursuit of the defen-
+dant's profit." 
+5. Interaction of torts inter se and with other 
+causes of action; recourse actions 
+In the recognition of a tort obligation it can be rele-
+vant to consider issues of the maintenance of the 
+integrity of another area of the law and the availabil-
+ity in another area of law of a preferable technique of 
+protection. Both these issues are present for example 
+in the recent cases involving negligent solicitors and 
+wills. The rule that a testator's clear changed wishes 
+cannot override an existing valid will means that the 
+newly favoured parties will lose out unless a new 
+will is executed (and even then they will only have 
+an expectation not an entitlement). When the execu-
+tion is delayed by the negligence of the testator's 
+solicitor and the testator dies, there is a problem for 
+the law." The victim of the negligence is clearly the 
+favoured party, but he or she is a stranger to the rele-
+vant dealings and may be completely oblivious of 
+them. Fashioning protection for the victim in tort 
+while also allowing the solicitor and client to be free 
+to fashion their own relationship is therefore tricky. 
+A less tricky alternative is relaxing the privity 
+" J. Fleming, The Law of Torts, 8th ed. (Sydney, Law Book 
+Co. 1992) 367-8. 
+" Cane, op. cit. On the other hand, on reading this draft 
+paper Cane asks could the 'learned intermediary' analysis be 
+apglied to 
+A rationale 
+s 
+  
+solicitor? 
+which would not then apply to the conduct of 
+the independent contractor (the surveyor) in Smith v. Bush. 
+White v. Jones (19931 3 All E.R. 481 (CA.); (1903) 109 
+L.Q.R. 344 (casenote by J. G. Fleming); HL appeal heard 
+7.3.94-14.3.94. See also Ross v. Counters (19801 Ch. 297. 
+92  On which see The Law Commission, Privily of Contract: 
+requirement for suing on the solicitor/client contract 
+on the ground that it was clearly for the benefit of the 
+third party favoured beneficiary." For example, the 
+solicitor and client might agree that the solicitor 
+would assign the work to an inexperienced articled 
+clerk who would take considerably longer to process 
+the work than would be reasonable for an ordinary 
+solicitor. The client may have secured a considerable 
+reduction in fee as a result. It is clear that when 
+faced with a claim by the newly favoured party after 
+the testator dies the law would not want to ignore 
+this fact. Yet how can this best be done? If the claim 
+is brought in tort how could the concern about the 
+client—solicitor agreement be taken into account 
+given that the plaintiff may be a stranger to it? 
+Already we have seen that the agenda of countervail-
+ing factors against tort protection should include 
+hostility to a plaintiff who is trying to use tort to 
+evade an arrangement he or she had agreed to, but 
+that factor would not be an adequate control here 
+because the plaintiff may have been a stranger to the 
+client—solicitor arrangement. Similarly trying to fash-
+ion the control in terms of what the defendant had 
+expected his obligations to the testator to be smacks 
+of the privity fallacy. It is hard to see how a suitable 
+countervailing factor could be constructed in tort to 
+handle this situation, short of an awkward special 
+exception." A much more satisfactory technique 
+would be to fashion the relevant protection of the 
+newly favoured party out of the client's contractual 
+entitlement which would not only enable the reason 
+for protection of an apparently unconnected plaintiff 
+to be evident but would also bring with it the 
+required limitations of that protection, including the 
+common sense decision by Judge Moseley Q.C. to 
+deny a duty of care to a disappointed beneficiary 
+under a negligently drafted inter vivos transaction 
+(where the settlor had subsequently changed his 
+mind)." In short, these wills cases suggest a fufther 
+countervailing factor against tort liability: would a 
+non-tort avenue of protection be more suitable. 
+Next, the current keenness of appellate courts to 
+confine negligence liability has had the disturbing 
+side-effect of subordinating and hence distorting its 
+principles in relation to other causes of action. Thus 
+the Court of Appeal has asserted's that a referee has 
+Contracts for the Benefit of Third Parties, Consultative Paper 
+No. 12 (London, HMSO, 1991). 
+" The position is different if the plaintiff had had dealings 
+with a relevant party (see above discussion of linear liability in 
+tort). 
+" Hemmens v. Wilson Brown, The Times, 30.6.93. 
+" Spring v. Guardian Assurance plc. 119931 2 All ER. 273 
+(C.A.); HL appeal heard 29.11.93-30.11.93. See also Patch v. 
+Gomrs of Customs and Excise (CA.), The Times, 4.3.93 and 
+compare Lonrho plc. v. Fayed (No. 5), The Times, 27.7.93 
+(CA). 
+97 
+In Restraint of Tort 
+no duty in negligence to the subject of the reference 
+because defamation (and specifically the defence of 
+qualified privilege) covers the field. That is, a negli-
+gence claim is denied on the ground that otherwise a 
+defence available in another tort would be 
+'bypassed'. Yet at almost the same time the Court of 
+Appeal in the Cambridge Water" case held that 
+another claim (for physical loss) can succeed even 
+though the defendant had acted with reasonable care 
+and so had a complete answer to a claim in the tort 
+of negligence. 
+Spring imperils many of the professional misstate-
+ment precedents" and is almost certainly wrongly 
+decided. The idea of a defence covering the field is 
+bizarre if we see different civil obligations as 
+responding to different and perhaps overlapping 
+interests of the plaintiff. Moreover, in Spring there 
+was no attempt to argue that the defendant in a 
+defamation suit should be able to resist it by claim-
+ing he had acted carefully (and so would have an 
+answer to a negligence claim which answer would be 
+bypassed by the imposition of strict liability in 
+defamation). To judge a plaintiffs claim against the 
+defendant by whether the defendant has an answer 
+to a different claim is to fall into the same trap as 
+those who championed the privity fallacy: that we 
+must not in determining causes of action disturb the 
+expectations of security a defendant may have 
+acquired from his being safe from a claim under a 
+different cause of action. As we have seen, there may 
+be legitimate reasons why we might choose to chan-
+nel civil obligations, but protecting defendant's 
+expectations is not one of them. 
+The Court of Appeal decision in Spring was an ill-
+thought out attempt to rein in one tort, that is negli-
+gence, and subordinate it to another, that is 
+defamation. It may well be desirable that negligence 
+(or tort as a whole or perhaps like equity") be kept 
+in reserve—and the recognition of the requirement 
+that plaintiffs have no other feasible appropriate 
+means of protection as a precondition of tort's assis-
+tance is a reflection of this. But that does not imply 
+that its form should be distorted by the outlines of 
+alternative claims for protection which have been 
+unsuccessful because the defendant had an answer 
+to them. 
+Cambridge Water Co. v. Eastern Counties Leather plc. 
+(C.A.), (19941 1 All ER. 53 but see 63 (reversal by HL).. 
+Starting with the recognition of a duty of care in the con-
+text of a financial reference in Hedley Byrne (which may be 
+wrong on other grounds—see earlier text). 
+''''' Chandler v. Kerley 119781 2 All E.R. 942, 945: 'the role of 
+equity is supplementary and supportive', per Lord Scarman. 
+See also Samoan General Contracting Co. v. Pilkington Glass 
+Ltd. (No. 2) [19881 1 All E.R. 791, 804: 'Just as equity remedied 
+the inadequacies of the common law, so has the law of torts 
+98 
+Cambridge Water involved a claim about contami-
+nated ground water. Whether the plaintiff's claim was 
+seen as one of nuisance or Rylands v. Fletcher,' the 
+Court of Appeal decision seemed clearly wrong. This 
+was not because the defendant had a defence in a dif-
+ferent tort (negligence), but because the parallel 
+defence (of due care) should have been accorded to the 
+defendant in those causes of action on which the 
+plaintiff was relying.'" But this is not the limit of the 
+interest in the case. If we do not intend to irradicate 
+strict liability completely from the law of obliga-
+tions'" (and the strict nature of many contractual obli-
+gations makes this unlikely) cases such as Cambridge 
+Water raise a much more fundamental question. Let us 
+suppose that a plaintiff in a particular cause of action 
+is unequivocally entitled to the protection of a strict 
+obligation. Because the interconnectedness of much 
+human activity has become apparent and the duty of 
+care in negligence has come to be applied to many 
+more types of conduct than previously, it is now much 
+more likely that there is some other party whose con-
+duct may be implicated in the causation of the rele-
+vant injury and whose conduct may be regarded as 
+careless. This means it is now more likely that the 
+strictly obliged defendant will have some 'careless' 
+party against whom to seek recourse. 
+A plaintiff is usually interested in pursuing com-
+pensation in the easiest and most secure way, and 
+not interested in ensuring that the liability costs 
+eventually land on the party or parties which the law 
+may regard as most appropriate. One feature of a sys-
+tem of joint and several liability, itself designed to 
+ease the plaintiffs pursuit of compensation, is that 
+the preferred target of the plaintiff's claim is often 
+the wrongdoer with the deepest pocket. But the fact 
+that the law holds some parties to strict obligations 
+and some only to obligations of care suggests that 
+there are different moral and/or economic norms at 
+work. This would seem to necessitate in any system 
+of joint and several liability that a defendant should, 
+prima facie, have access to a recourse action against 
+other wrongdoers."' In other words the very phe-
+nomenon of strict and fault based liabilities which 
+are joint and several suggests that the law has more 
+than an interest in compensating plaintiffs in certain 
+circumstances—it seems also to be interested in 
+filled the gaps left by other cases of action where the interests 
+of justice so required' per Bingham, L.J. 
+Rylands v. Fletcher (1866) L.R. 1 Ex. 265; (1868) L.R. 3 
+H.L. 330 (H.L.). 
+In accordance with modern attitudes to such claims: T. 
+Weir, 'The Polluter Must Pay—Regardless' 119931 C.L.J. 17, 19. 
+The origin of the strictness of contractual obligations is, 
+to some extent, obscure—see Stapleton, Product. op. cit., 2.02. 
+Contrast T. Weir, Torts, Vol. XI of International Encyclo-
+pedia of Comparative Law (Mouton, The Hague, 1976), 58-9. 
+Jane Stapleton 
+ranking the behaviour of defendants. To allow the 
+whole liability load to rest on one party by virtue of a 
+factor (the whim of the plaintiff's choice, the deep 
+pocket of certain defendants) which is not built into 
+the basis of liability seems inconsistent with such a 
+ranking. The law seems to have an interest, not only 
+in compensating suitable plaintiffs but also, once 
+this is accomplished, in enabling the liability costs to 
+be allocated between all those liable to the plaintiff 
+in a way which reflects some moral or economic 
+pecking order of liabilities inter se. 
+The theoretical and notorious problem' here is 
+what should the rules governing recourse look like? 
+In every likelihood the concerns of the law will be 
+different in respect of the claim by the plaintiff from 
+its concerns in relation to recourse claims between 
+liable parties. For example, any pragmatic argument 
+of easing plaintiff's proof problems disappears at the 
+recourse stage. The Civil Liability (Contribution) Act 
+1978 contemplates contribution/indemnity between 
+parties whose liability with respect to the damage is 
+based on breaches of different duties (see s. 6(1)), for 
+example, negligence, breach of contract and breach 
+of statutory duties. But how should apportionment 
+proceed in such cases—causation, blameworthiness, 
+a combination of both these and/or other factors? 
+Does the negligence principle, for example, swamp 
+whatever basis and goals lie beneath the other liabil-
+ity rules under which non-negligent parties have 
+been held liable, so that the latter are justified in 
+claiming a full indemnity from the former?' While 
+this accords with the formal attitude to the vicari-
+ously liable employer (who is technically entitled to 
+a fall indemnity from the negligent tortfeasor-
+employee), there is no general clear authority for the 
+proposition that the negligent party should indem-
+nity the strictly liable party. Indeed, many commen-
+tators argue that there is caselaw running the other 
+way showing that blameworthiness in not the sole 
+criterion under the 1978 Act.' Of course, the 
+courts' decree of apportionment (not indemnity) in 
+such caselaw might be rationalized by an implicit 
+finding of some sort of fault or carelessness on the 
+part of the 'strictly liable' party; but it may not be. 
+The courts may be attempting to give weight to the 
+bases of the relevant strict liability, including the rel-
+ative causal potency of those liable.' In other 
+words, the task of apportionment here inevitably 
+requires the court to elaborate on the notion of 
+'responsibility' in the apportionment legislation and, 
+in so doing, to speculate about and rank the policy 
+objectives thought to underlie the different legal 
+It may be, or course, that in recourse actions most 
+courts would simply always give sole weight to the 
+negligence principle allowing full indemnity against 
+the negligent party. But if so, this would have pro-
+found implications for the theoretical basis of civil 
+obligations. It would mean that whatever mix of ele-
+gant moral, economic or pragmatic ideas was used to 
+justify the initial strict liability of parties to victims, 
+they would be eclipsed at the recourse stage by the 
+negligence paradigm. Thus, whatever the given ratio-
+nale of a strict liability may be, it would amount to 
+no more in practice than a facade for the real basis of 
+the strict liability—the pragmatic one of facilitating 
+the plaintiff's suit—because this defendant would 
+eventually be entitled to shift all responsibility on to 
+the negligent party. The phenomenon of strict liabil-
+ity would support no more than this pragmatic ratio-
+male save in those very rare cases where no human 
+negligence could, by any device, be said to have been 
+involved in the relevant injury. Modern theories of 
+civil obligation have yet to tackle this fundamental 
+problem, which has implications for the hierarchy of 
+norms reflected in differeht causes of action not only 
+in the area of multiple wrongdoers but also in cases 
+such as Spring and Cambridge Water. 
+The problem for theory is exacerbated by two fac-
+tors in practice. First, as we have seen, the more the 
+inter-connectedness of conduct is perceived and the 
+wider the reach of negligence law becomes (espe-
+cially its expansion in the area of failure to cohtrol 
+third parties), the more parties become potential tar-
+gets for claims and thereby involved in recourse 
+determinations. Secondly, lawyers acting for plain-
+tiffs seem to be becoming (perhaps due to the 
+increased fear of malpractice claims) more assiduous 
+T. Hervey, '"Responsibility" under the Civil Liability 
+(Contribution) Act 1978' [1979] New Law J. 509; G. Williams, 
+Joint Torts and Contributory Negligence (London, Stevens & 
+Sons, 1951) 160. 
+'" Certainly Glanville Williams thought this should be the 
+case, op. cit. 160. See also W. Landes and R. Posner, 'Joint and 
+Multiple Tortfeasors: An Economic Analysis' (19801 9 J. Leg. 
+Studs, 517 553, but contrast J. Phillips, 'Contribution and 
+Indemnity in Products Liability' (1974) 42 Tenn. L.R. 85, 
+102-3. 
+Hervey (1979) op. cit., 510; M. Brazier, Street on Torts,  
+8th ed. (London. Butterworths, 1988) 532, citing cases which 
+appear to hold that the negligence of a co-tortfeasor does not 
+necessarily relieve a strictly liable defendant completely. Com-
+pare Tennant Radiant Heat Ltd. v. Warrington Devel Corp. 
+[19681 I E.G.L.R. 41 (CA.), see below. 
+e.g. Moths v. Ford Motor Co. 11973] Q.B. 792. 
+Certainly, as between a strictly liable landlord and care-
+less tenant, the Court of Appeal recently preferred to deal with 
+their claim and counterclaim (not a recourse claim) as 'a prob-
+lem of causation' alone: Tennant Radiant Heat Ltd. v. Warring-
+ton Dave! Corp. [1988] 1 E.G.L.R. 41 (CA.), 44 (Dillon, L.).). 
+99 
+In Restraint of Tort 
+••• 
+in pleading an exhaustive list of possible alternative 
+causes of action;' so the list of causes of action per 
+defendant which need to be considered at the 
+recourse stage can be considerable. Of course we 
+could mask the problem which arises at the recourse 
+stage if we abolish joint and several liability, as some 
+jurisdictions in the United States have partially done 
+in order to protect 'deep pocket' defendants, in par-
+ticular public authorities. But this would have clear 
+disadvantages for plaintiffs. Alternatively even more 
+favour could be shown to plaintiffs than joint and 
+several liability affords them, for example, as in the 
+Netherlands where in a recent case the Supreme 
+Court held that a plaintiff injured by a generic prod-
+uct (diethylstilbestrol) can sue any or all manufactur-
+ers of such a product jointly and severally, and only 
+at the recourse stage can the individual manufacturer 
+argue the market share doctrine to reduce liability to 
+its proportion of the market in that generic prod-
+uct.' 
+In practice however, the whole field of contribu-
+tion and indemnity is conveniently shrouded in 
+mystery because of the tendency for out-of-court set-
+tlements on the issue to be subject to secrecy 
+clauses—as in the Hillsborough football disaster;"°  
+by the failure of past courts to attempt to address 
+these issues; their omission to set out clear reasons 
+for their decisions; and the virtual absence of appel-
+late litigation on the issues. Ideally, law should illu-
+minate not only who the plaintiff can sue under a 
+rule and why, but who should ultimately bear the 
+relevant loss and why. That the basis of civil liabili-
+ties and their relative ranking in importance can be 
+buried in recourse actions so successfully without 
+comment by most observers supports the allegation 
+that it is law's facade which is important, not its final 
+allocation of loss. 
+5. Conclusion 
+Current criticism of the state of tort law can be 
+resolved into two forms: that which takes a political 
+line and boils down simply to a complaint about the 
+House of Lord's conservative vision for the overall 
+reach of tort protection; and that which concerns the 
+'°" Even where liability is admitted as in A.B. and Others v. 
+South West Water Services Ltd. 119931 1 All E.R. 609. (A case 
+which shows the naivety of the argument that the E.C. Directive 
+on Products Liability would make life simpler for plaintiffs.) 
+H.R. 9.10.92, Rwd. W. 219 (compare Sindell v. Abbott 
+Laboratories (1980) 607 P. 2d. 924). On the argument that a 
+defendant should only be allowed recourse against another 
+party if they had been acting in the course of a business, see 
+Stapleton. Product Liability , op. cit., Chapter 11. 
+'" The Independent, 9.10.90. 
+" Lord Goff of Chieveley, Judge, Jurist and Legislature (The 
+Child & Co., Oxford Lecture, 1986) 11. 
+processes by which decisions are taken. I have con-
+centrated here on the latter. Just as, in Lord Goff's 
+words 'piecemeal legislation may exercise a distort-
+ing effect on the law'1" so too can the ad hockery 
+implicit in the Caparo 'pre-judged pocket' approach 
+to new cases. Very recently we have seen courts 
+struggling to rationalise quite sensible outcomes 
+within the constraints of this type of thinking.' 
+Now a clearer approach is needed. 
+We might at first be tempted to rely on the fashion-
+able new theories of tort liability developed (nearly 
+all in the US) to combat the collectivist arguments of 
+the late 1960s." But these new theories do not help. 
+Nearly all only focus on two of the complex con-
+stituents of any cause of action: the standard of the 
+defendant's behaviour (fault or strict liability); and 
+causation. No analysis here of why the law does or 
+should have a different attitude to economic loss; 
+how to rank different bases of liability; or whether 
+legislative emphasis in certain areas (personal 
+injuries, dwellings, conduct in the course of a busi-
+ness etc.) should legitimately be reflected in the 
+direction to be taken in the common law.' More-
+over, there is a substantial amount of terminological 
+confusion in this theoretical debate. Key language is 
+used in quite different ways—particularly the idea of 
+'strict liability'. The effects of a law (for example, 
+compensation, self-insurance) are often elided with 
+its goals. An ideological bias is also not uncommon: 
+this is exemplified by the assertion of 'back to con-
+tract' theorists, that virtually all important transac-
+tions are consensual (or potentially consensual). 
+Next we might be persuaded to rely heavily on a 
+study of comparative law. Recently there has been 
+much criticism of the alleged 'parochialism'' of the 
+current British judicial scene. In recent commen-
+taries on both Murphy and Norsk sharp criticism has 
+been made of the Law Lords' failure to analyse the 
+comparative precedents from other jurisdictions. At 
+its most diplomatic this criticism takes the form of 
+bemoaning the limitations on the House of Lords 
+working in 'physically crammed conditions with 
+minimal library facilities and non-existent research 
+assistance'.' I have no doubt appellate judges are 
+overworked and need more time to read and reflect 
+Cook v. Square D. Ltd. 119921 I.C.R. 262 (C.A.); Kho-
+rasandjion v. Bush [19931 3 All E.R. 669 (C.A.). 
+I. Englard, 'The System Builders: A Critical Appraisal of 
+Modem Tort Theory' (1980) 9 J.L.S. 27. To the economic theo-
+ries (by Calabresi, Posner and Alan Schwartz) and ethical theo-
+ries (of Weinrib, Epstein and Honore) should now be added 
+books by). Coleman, Risks and Wrongs (Cambridge, Cambridge 
+Univ. Press, 1992); and I. Englard, The Philosophy of Tort Law 
+(Aldershot, Dartmouth, 1993). 
+" For other examples, see T. Weir (19921 CI.). 388. 389. 
+"' See e.g., Fleming (1993) op. cit. 74. 
+"a B. Markesinis, 109 L.Q.R. 5, 6. 
+100 
+Jane Stapleton 
+on the complex matters which come before them. 
+But the strength of judicial reasoning comes not from 
+the citation and analysis, thesis-like, of a range of 
+responses from other jurisdictions to the issue at 
+hand. The most powerful and convincing judgments 
+are those which spell out basic principles and 
+explain their application to the specific case in a 
+clear manner. 
+The way forward lies in thinking clearly about the 
+reasons both for and against helping the plaintiff. 
+Here I concentrated on the latter, the separate consid-
+eration of the countervailing factors which militate 
+against the imposition of tort liability. This may 
+require, at the most abstract level, a rethinking of our 
+basic ideas of what tort law is for and some of these 
+will certainly be found wanting. Take for example the 
+common cliche that the tort of negligence is about 
+compensation. Quite apart from the fact that only a 
+tiny fraction of those many people injured by negli-
+gence sue and recover in tort, this description is sim-
+ply inadequate to convey what is the 'meat' of 
+negligence law, which is the analysis of the bound-
+aries of the tort which explain why only some victims 
+of negligence are allowed to recover compensation. In 
+this sense, a re-emphasis on the countervailing factors 
+which weigh against the protection of tort is at least as 
+appropriate and useful as the Anns strategy which in 
+effect, was interpreted as asking 'why not' as a periph-
+eral afterthought to the duty analysis. 
+In rethinking what tort law should be for in this 
+broad sense we may choose in future to shift empha-
+sis in a major way, for example by putting greater 
+weight on prevention and on preventative remedies. 
+In the future perhaps tort law should develop greater 
+use of injunctive relief. We have already seen this 
+recently in the novel case of Khorasandjian v. 
+Bush"' which may and should herald, not the fatal 
+unravelling of the property requirement in private 
+nuisance, but the long overdue (albeit covert) birth of 
+new tort of harrassment. But we might also want to 
+see injunctive relief developed in other areas, for 
+example, to give those threatened with personal 
+injuries by the continuing conduct of defendants (for 
+example, their employer) some effective remedy. 
+There may, of course, be some areas in which tort 
+will only rarely be able to operate successfully, even 
+symbolically. One such field is that of toxic torts: the 
+embarrassing sight of the Benefield litigants squab-
+bling over the meaning of 'soft' statistics is the best 
+current example of how tort law is inadequate here, 
+even as a symbol of justice. Nevertheless in many 
+"7  Khorasandfian v. Bush 119931 3 All E.R. 669 (CA.). 
+"8 See e.g., T. Weir, 'Governmental Liability' 119891 Public 
+Law 40. On the general point, note that H. L. A. Hart includes 
+other areas the potential role of tort for signalling 
+important social values remains substantial. 
+This paper's main suggestions as to how tort law 
+might be restrained within coherent boundaries may 
+be summarised as follows: 
+1. The strategy of searching for a relevant 
+'pocket' of caselaw at the outset of the duty 
+analysis should be replaced with an analysis 
+based on arguments for liability and on an 
+agenda of countervailing factors to the impo-
+sition of tort liability which have been explic-
+itly constructed from policy concerns. 
+2. 
+More attention needs to be paid to under-
+standing the complexity of and limitations to 
+the pro-liability side of the duty equation. 
+3. 
+With regard to the no-liability side of the 
+equation, the following are not convincing 
+countervailing arguments to the imposition of 
+tort liability: 
+(a) that the imposition of tort liability 
+might have a large socio-economic and 
+redistributive impact; 
+(b) that the plaintiff or defendant has or 
+could have obtained insurance; 
+(c) that 'warranties of quality' are necessar-
+ily the province of contract; 
+(d) that the defendant has a defence to a 
+different cause of action; 
+(e) that to impost tort liability would dis-
+turb the defendant's expectations. 
+4. 
+The agenda of countervailing concerns 
+should include: 
+(a) that the imposition of liability might 
+produce a specific unattractive socio-
+economic impact (such as severely 
+depleting local government finances'18); 
+(b) that a linear arrangement of obligations 
+is preferable in the area in order, for 
+example, to shield peripheral deep-
+pocketed parties and/or to control the 
+problem of multiple causation; 
+(c) that the plaintiff had adequate and 
+appropriate alternative means of protec-
+tion; 
+(d) that the plaintiff may be seeking to use 
+tort as a means to evade an understand-
+tag as to where the risk would fall; 
+(e) that to assist the plaintiff would bring 
+the law into disrepute and injure its dig-
+nity; 
+in his version of an agenda of countervailing factors that the 
+imposition of liability might 'unduly hamper enterprise'. The 
+Concept of Law (Oxford, Clarendon Press, 19611 162. 
+101 
+In Restraint of Tort 
+(f) that a more convincing and doctrinally 
+convenient form in which to deliver 
+protection to the plaintiff exists in 
+another field of law. 
+4. The following issues may play a role in the 
+future direction of tort and so deserve more 
+consideration: 
+(a) 
+the accommodation within the tort anal-
+ysis of the phenomenon of a plaintiff's 
+prior acceptance of where the risk 
+would lie; 
+(b) 
+the degree to which tort law in future 
+should provide incentives to prevent or 
+mitigate harm; 
+the degree to which tort law should dis-
+tinguish types of physical harm 
+the degree to which tort law should dis-
+tinguish conduct in pursuit of financial 
+profit and other forms of conduct. 
+the interaction of torts inter se and of 
+tort with other causes of action, both in 
+claims by plaintiffs and in recourse 
+claims. 
+102 

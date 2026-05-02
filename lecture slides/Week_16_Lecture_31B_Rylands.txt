@@ -1,0 +1,397 @@
+The Rule in 
+Rylands v Fletcher
+Week 16
+Lecture 31 (Part B)
+Dr Sarah Gilmartin 
+s.gilmartin@lancaster.ac.uk
+Rylands v Fletcher 
+(1868) LR 3 HL 330
+The facts of the case:
+• In 1860 D hired contractors to create a reservoir on his land to provide water for 
+a mill; 
+• D had no further involvement in the actual construction;
+• Old mine shafts ran under the land, unbeknownst to the D or the contractors;
+• The old mine shafts ran under the D’s land and the C’s land;
+• The hole was dug causing the mine shafts to be loosely filled with soil and D’s 
+contractors built the reservoir;
+• After the reservoir was filled, the water burst through the shafts and flooded C’s 
+property, causing £937 worth of damage;
+• C noted the flooding and installed a pump, but the pump burst, causing more 
+flooding; 
+• An inspector called in to investigate the source of the flooding then discovered 
+the connection in the mine shafts and source; and
+The Issue 
+      
+   The 
+Rule
+Can a Defendant be held 
+liable for indirect damage 
+to a neighbour’s property in 
+the absence of any 
+negligent act?
+A Defendant can be held liable for 
+indirect damage to a neighbour’s 
+land in the absence of negligence 
+when:
+• The ‘thing’ was 
+brought/accumulated on the 
+property;
+• Escape would be 
+mischievous/dangerous; and
+• Use was non-natural.
+A useful quote from Rylands 
+“We think that the true rule of law is, that the person who for his own purposes 
+brings on his lands and collects and keeps there anything likely to do mischief if it 
+escapes, must keep it in at his peril, and, if he does not do so, is prima facie 
+answerable for all the damage which is the natural consequence of its escape...
+ ... The person whose grass or corn is eaten down by the escaping cattle of his 
+neighbour, or whose mine is flooded by the water from his neighbour's reservoir, or 
+whose cellar is invaded by the filth of his neighbour's privy, or whose habitation is 
+made unhealthy by the fumes and noisome vapours of his neighbour's alkali works, 
+is damnified without any fault of his own; and it seems but reasonable and just that 
+the neighbour who has brought something on his own property (which was not 
+naturally there), harmless to others so long as it is confined to his own property, but 
+which he knows will be mischievous if it gets on his neighbour's, should be obliged 
+to make good the damage which ensues if he does not succeed in confining it to his 
+own property. But for his act in bringing it there no mischief could have accrued, and 
+it seems but just that he should at his peril keep it there, so that no mischief may 
+accrue, or answer for the natural and anticipated consequence.” 
+Per Blackburn J
+New Law or 
+Development of 
+Existing Law?
+• Vaughan v Menlove 
+(1837)132 E.R. 490
+• “As the case of Smith v. 
+Kenrick [(1849) 137 E.R. 205] 
+is an illustration of the first 
+principle to which I have 
+referred, so also the second 
+principle to which I have referred 
+is well illustrated by another case 
+in the same Court, the case of 
+Baird v. Williamson [(1863) 
+143 E.R. 831]...My Lords, these 
+simple principles, if they are well 
+founded, as it appears to me 
+Rylands 
+Summary/Checklist
+1) D must be occupier of the land;
+2) D must bring/collect/keep an exceptionally dangerous or mischievous 
+thing on the land;
+3) D must have or should have recognised (reasonable/objective 
+standard) an exceptionally high risk of danger or mischief in the event 
+of an escape,  no matter how small/unlikely the risk (so 
+foreseeability of harm – not too remote);
+4) D’s use of land must be non-natural/unusual;
+5) The thing does escape onto another property; and
+6) Escape must cause legally recognised damage (property or amenity). 
+7) Limited defences are available.
+N.B. 
+•
+ there is no recovery for death or personal injury; and
+•
+ it is not necessary to establish negligence.
+Standing
+Standing to claim:
+ Historically no proprietary interest required; BUT
+ Post-Transco a proprietary interest is needed (so
+now closer to private nuisance).
+Defendant’s interest in land:
+ D must own or control the land.
+ A landlord might be liable if authorisation given for the accumulation.
+Accumulation: 
+D must bring/collect/keep an exceptionally dangerous or 
+mischievous thing on the land – The “Rylands Object”
+ 
+D 
+must 
+accumulate 
+the 
+“Rylands Object”, for their own 
+purposes (so no agreement or 
+benefit to the C).
+ Spontaneous accumulations 
+(eg rainwater, birds) would not 
+therefore give rise to liability.
+ 
+The 
+accumulation 
+of 
+something 
+dangerous/mischievous 
+is 
+related to non-natural use
+Examples of “Rylands Object” likely to 
+cause mischief if they escape:
+•
+Water
+•
+Animals
+•
+Electricity
+•
+Fumes
+•
+Gas
+•
+Vibrations
+•
+Poisonous plants
+•
+Fire* 
+•
+Fireworks
+* Sometimes volume, not type eg: 1 
+matchbox v 5,000 matchboxes;  a birdbath 
+i
+Escape:
+A risk of escape and the mischievous or dangerous thing does escape onto another 
+property
+Read v Lyons [1947] A.C. 156. 
+ C worked in a munitions factory 
+and was injured by the explosion of 
+a shell.
+ It was accepted that an explosive 
+shell is a dangerous thing.
+ No liability as D was not negligent, 
+and there was no ‘escape’.
+ “...escape from a place where the 
+D has occupation or control over 
+land to a place which is outside his 
+occupation or control.” per 
+ The “Rylands Object” must 
+escape 
+Gore v Stannard [2012] EWCA Civ 
+1248
+ No-fault electrical fire ignited tyres 
+at a tyre factory.
+ Fire spread to C’s property causing 
+damage.
+ No liability under Rylands 
+because:
+what escaped was the fire, not the 
+tyres;
+use of land was not non-natural; 
+and 
+Foreseeability:
+D must have or should have recognised (reasonable/objective standard) an exceptionally high risk of 
+danger or mischief in the event of an escape,  no matter how small/unlikely the risk (so foreseeability 
+of harm – not too remote)
+Cambridge Water Co. v Eastern Counties Leather Plc 
+[1994] 2 A.C. 264
+ Damage of the relevant type in the event of an escape
+Likelihood of escape is not a factor (just the type of damage that 
+would occur in the event it happens)
+In the case of limitation of scientific knowledge, Rylands would 
+Cambridge Water Co. v Eastern 
+Counties Leather Plc [1994] 2 A.C. 264 
+1/2
+ C purchased a borehole to test water for potability 
+and found it to be contaminated with PCE;
+ Contamination was traced to D, where chemicals 
+had seeped through a tannery factory floor and 
+reached the water supply (and had been for some 
+time);
+ No evidence of spills or leaks – must have 
+occurred from the old system;
+ Borehole could no longer be used since drinking 
+water was unsafe.
+ Claim brought under negligence, nuisance, and 
+Rylands.
+ Storage of large quantities of chemicals an almost 
+classic case of non-natural use; per Lord Goff 
+[though obiter] 
+Cambridge Water Co. v Eastern 
+Counties Leather Plc [1994] 2 A.C. 264 
+2/2
+ No liability as the damage was too remote
+ No knowledge previously that PCE was harmful in 
+the past
+ Not foreseeable that this type of escape could 
+result in this type of damage.
+ Foreseeability had been ‘intended’ a part of the 
+rule…the D is “prima facie answerable for all the 
+damage which is the natural consequence of its 
+escape.” Rylands
+
+Non-natural use:
+D’s use of land must be non-natural/unusual
+"[Non-natural use] is not a test to be 
+inflexibly applied. A use may be 
+extraordinary and unusual at one time 
+or in one place but not so at another 
+time or in another place...I also doubt 
+whether a test of reasonable use is 
+helpful, since a use may well be quite 
+out of the ordinary but not 
+unreasonable.” (Transco v Stockport 
+MBC [2004] 2 A.C. 1 per Lord Bingham 
+at [11])
+‘It must be some special use bringing 
+with it increased danger to others and 
+must not merely be the ordinary use of 
+the land or such a use as is proper for 
+the general benefit of the community ”
+ What about when circumstances 
+change?
+ “All the circumstances of time and 
+practice of mankind must be taken 
+into consideration so that what 
+may be regarded as dangerous or 
+non-natural may vary according to 
+the circumstances.” (Read v Lyons 
+[1947] A.C. 156 per Lord Porter at 
+176)
+ Eg, in 1919, keeping a motor 
+vehicle full of petrol in a garage 
+was considered a non-natural use 
+(Musgrove v Pandelis [1919] 2 K.B. 
+43)
+Transco Plc v Stockport 
+Metropolitan Borough Council 
+[2003] UKHL 61 1/2
+‘Non-natural’ use of land:
+ D (council) was responsible for maintaining utility pipes 
+supplying flats;
+ A large water main burst, causing serious flooding of 
+the embankment, which the C's high pressure gas main 
+ran under;
+ The waterlogged embankment collapsed, leaving the 
+gas main unsupported and exposed; and
+ C brought a claim for emergency remedial measures.
+ Are sizeable gas and water mains ‘non-natural 
+use’?
+ No liability as this is not a non-natural use;
+ ‘Extraordinary and unusual use required’ per Lord 
+Bingham 
+Transco Plc v Stockport 
+Metropolitan Borough Council 
+[2003] UKHL 61 2/2
+The personal injury issue
+ “In some cases in the first half of the 20th century plaintiffs 
+recovered damages under the rule for personal injury... [eg] 
+Hale v Jennings Bros [1938] 1 All ER 579...But dicta in Read v J 
+Lyons & Co Ltd cast doubt upon whether the rule protected 
+anything beyond interests in land. Lord Macmillan (at pp 170-
+171) was clear that it had no application to personal injury and 
+Lord Simonds (at p 180) was doubtful. But I think that the 
+point is now settled by two recent decisions of the House of 
+Lords: Cambridge Water Co v Eastern Counties Leather plc 
+[1994] AC 264, which decided that Rylands v Fletcher is a 
+special form of nuisance and Hunter v Canary Wharf Ltd 
+[1997] AC 655, which decided that nuisance is a tort against 
+land. It must, I think, follow that damages for personal injuries 
+are not recoverable under the rule.” per Lord Bingham at [35].
+N.B. Christian Witting 
+points out that these 
+decisions have been 
+made in dicta, but the 
+rule seems settled.
+Defences
+ Consent (express or implied)
+ Common Benefit (to both C & D - 
+may be redundant to consent)
+ Necessity
+ Natural disaster/Act of God (not 
+reasonably anticipated)
+ Statutory Authority 
+ Default of C (act or omission of 
+C)
+ Act of stranger: 
+No liability if harm comes from the 
+unforeseeable act of a stranger
+Rickards v Lothian [1913] A.C. 263: 
+Unknown third party intentionally 
+blocked the sink in a premises with 
+multiple occupants, causing flooding 
+and damage to C’s stock. Claim failed. 
+Possibly limited to ‘mischievous, 
+deliberate, and conscious acts of a 
+stranger’ (excluding a stranger’s 
+negligence), but test turns on 
+absence of control.
+If a stranger’s interference is 
+foreseeable, no longer a defence.
+Summary 
+(and see following 
+slides for arguments 
+around 
+keeping/replacing 
+Rylands – what do 
+you think?)
+Is Rylands still relevant? 
+1/4
+ Extremely narrow application
+ Proposal by Royal Commission in 1978 to replace the tort with a statutory 
+scheme governing ‘dangerous’ activities
+ Lots of statutory regulation, eg: Nuclear Installations Acts 1965 and 1969, but 
+no overarching statutory scheme to deal with all type of “Rylands Objects”
+ Others have argued that Rylands should be subsumed into tort of negligence 
+and/or nuisance – Australia has followed this approach
+ House of Lords in Transco, (see in particular Lord Bingham’s judgment), said 
+there is still a place for Rylands
+Argument A: Statutory
+2/4
+ A statute would give greater certainty (but countering that – could a statute 
+cover all possible types of “Rylands Objects”?)
+ Rylands should be abolished rather than be retained for ‘back up’ (Pearson 
+Commission)
+ Imposing strict liability should primarily be reserved for Parliament
+ Statutory intervention is most appropriate for dealing with hazardous or 
+inherently dangerous uses of land
+Argument B: Negligence or 
+Nuisance
+3/4
+ Rylands is a type of sub-nuisance claim 
+and/or has been subsumed into negligence.
+ “The result of the development of the 
+modern law of negligence has been that 
+ordinary negligence has encompassed and 
+overlain the territory in which the rule in 
+Rylands v Fletcher operates.  Any case in 
+which an owner or occupier brings onto 
+premises or collects or keeps a ‘dangerous 
+substance’ in the course of non-natural use 
+of the land will inevitably fall within a 
+category of case in which a relationship of 
+proximity under ordinary negligence 
+principles will exist between owner and 
+occupier and someone whose person or 
+property is at risk of physical injury or 
+damage in the event of the ‘escape’ of the 
+Counterpoint:
+Different foci: Historically, Rylands 
+had no requirement for proprietary 
+interest.  Transco has narrowed the 
+approach more similarly to nuisance.
+Non-natural v Reasonableness: non-
+natural use is a required element for 
+Rylands; reasonable use (or common 
+and ordinary use) is a factor for 
+nuisance (Thought: But does Fearn’s 
+emphasis on common and ordinary 
+take us nearer to collating the torts?).
+Repetition: isolated incident v 
+ongoing
+Other distinctions may be discerned
+Argument C: Keep Rylands
+4/4
+ Rylands provides a limited, but important, cause of action where statutory 
+remedies are not available and where no relief would be found under 
+negligence.
+ It is in the interest of justice to keep a common law ‘back up’ in case of lack of 
+foresight or inaction in legislation.
+ Rylands is flexible enough to accommodate changing circumstances and 
+societal expectations.
+ Rylands is an extension of nuisance, relating to isolated incidents, not 
+continuing problems. 
+Rylands ‘wins’ for 
+now
+The Rule in 
+Rylands v Fletcher
+End Lecture
+Week 16
+Lecture 31 (Part B)
+Dr Sarah Gilmartin 
+s.gilmartin@lancaster.ac.uk

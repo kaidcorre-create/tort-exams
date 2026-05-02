@@ -1,0 +1,969 @@
+3. Duty of care: Basic principles
+Page 1 of 24
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Tort Law (9th edn)
+Kirsty Horsey and Erika Rackley
+→
+→
+→
+→
+3. Duty of care: Basic principles
+Kirsty Horsey and Erika Rackley
+https://doi.org/10.1093/he/9780198925231.003.0003
+Published in print: 15 August 2025
+Published online: August 2025
+Abstract
+This chapter begins by tracing the development of the duty of care starting with the case of Donoghue v Stevenson [1932]. It 
+goes on to consider the various general tests developed and used by the courts in order to establish when a duty of care is 
+owed.
+Keywords: 
+tort law, duty of care, Donoghue v Stevenson, Caparo Industries v Dickman, Robinson v Chief Constable of West 
+Yorkshire Police
+3.1  Introduction
+Consider the following examples:
+A lorry driver crashes into a queue of traffic while talking on his mobile phone, killing the occupants of 
+the car in front.
+A nurse misreads a doctor’s handwriting and, as a result, gives a patient the wrong drug, causing them 
+to suffer a serious allergic reaction.
+A university law lecturer fails to check departmental files properly before writing a reference to 
+accompany a student’s application to join an Inn of Court—unfortunately this means that a strong 
+candidate ends up with a weak reference and their application is refused.
+A school caretaker injures their back falling off a stepladder while putting up decorations for the end of 
+term play—the stepladder had not been properly maintained by their employer.
+p. 56
+3. Duty of care: Basic principles
+Page 2 of 24
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+In each of these cases the defendant owes the claimant a duty of care. The concept of the duty of care is 
+central to the tort of negligence. It is one of three elements in the tort of negligence—the first ‘hurdle’ if you 
+like—that must be established in order for a claim to be successful. Carelessness alone does not give rise to 
+liability. The defendant must not only be careless but also in a relationship to the claimant where their 
+carelessness carries legal consequences. If the defendant does not owe a duty of care to the claimant, then the 
+defendant will not be liable regardless of how carelessly they acted and how much loss they caused to the 
+claimant. In such cases, there is no need to address the other elements of a negligence claim—that is breach, 
+causation and remoteness. Moreover, the duty of care must be owed in respect of the particular type of harm (or 
+injury) suffered—a defendant may owe the claimant a duty of care in respect of one type of loss (e.g. bodily 
+injury) but not in respect of another (e.g. economic loss).
+It is usually clear when a duty of care is owed. We know, for example, that an employer owes their employees 
+a duty of care not to cause them foreseeable physical and psychiatric injury at work; that a driver owes a 
+similar duty to other road users, and others in their vicinity; and that a doctor owes a duty to their patients (in 
+both treating and, increasingly, advising them). In these, and many other cases, a duty of care is established 
+by clear precedent: the courts have long recognised duties of care in these situations. Accordingly, in a road 
+traffic accident case the key issue is not likely to be whether the defendant owed the claimant a duty 
+↵
+of care, but rather whether they have breached this duty by falling below the standard of care expected 
+in all the circumstances of the case.1
+On occasion, however, cases arise where the question of whether a duty of care exists is not answered by 
+precedent. In these ‘novel’ cases, the question for the court is whether the law should recognise a duty of care 
+on such facts. To answer this question, the courts have made numerous attempts to identify a general ‘test’ 
+which can be used to identify when duties of care will arise. However, as we shall see, none of these attempts 
+have been altogether successful.
+Nonetheless, this uncertainty about what general test or approach courts should take when faced with novel 
+cases does not mean that there is significant uncertainty about when duties of care arise. Most cases are not 
+novel but are covered by precedent. Accordingly, when considering whether a duty of care is owed, the 
+starting point is always to look to existing precedent. If the cases give a clear answer one way or the other— 
+that is, if they indicate that a duty is or is not owed—then that is the end of the matter. It is only in those rare, 
+but nonetheless significant, cases where the precedents give no clear answer that the courts need to resort to 
+a more general test or approach.
+One thing which follows from what we have said already is that there is no universal duty to take care not to 
+harm or injure each other. The law does not always require us to show reasonable care for those who may be 
+harmed—however foreseeably—by our conduct. Indeed, the duty of care concept is seen by many as a sort of 
+control device, which the courts employ to limit the scope of negligence liability. As Peter Cane and James 
+Goudkamp note:
+[W]hereas Lord Atkin seems to have put forward the neighbour principle as a way of expanding the 
+scope of liability for negligence, the duty of care concept is most commonly used in modern cases as 
+a means of justifying refusal to impose liability. (emphasis added)2
+p. 57
+1
+2
+3. Duty of care: Basic principles
+Page 3 of 24
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+There are a number of situations where the law either denies a duty of care outright or makes establishing 
+such a duty more onerous for claimants.3 These relate to particular types of harm (e.g. where the defendant’s 
+actions cause psychiatric injury or economic loss), how the harm is suffered (e.g. where the claimant’s loss or 
+injury has been caused by the acts of a third party or through an omission rather than a positive act) and who 
+the defendant is (e.g. where the defendant is a public body—such as a local authority, the police or other 
+emergency services). This, of course, prompts a further question as to why the courts might wish to deny a 
+duty of care in such cases.
+There are a number of reasons why the courts might be reluctant to impose a duty of care. These include a 
+wish to avoid imposing so-called ‘crushing’ liability on a particular individual or class of defendants—that is, 
+‘liability in an indeterminate amount for an indeterminate time to an indeterminate class’ (Ultramares 
+Corporation v Touche, Niven & Co [1931]). A related wish may also be to prevent a ‘flood’ of claims—either in 
+relation to one specific event or, more generally, in relation to a particular type of injury—which may in turn 
+clog up or slow down the tort system as a mechanism for compensation. The courts may also wish to seek to 
+avoid the more negative aspects of deterrence—that is, the danger of ‘overkill’—whereby beneficial yet 
+‘risky’ activities are restricted due to the over-self-regulation of would-be defendants. Finally, the courts 
+may recognise that in some circumstances there is nothing wrong with the 
+↵
+sort of harm the defendant 
+has caused—that is, that it is sometimes entirely reasonable to act in ways that leave others worse off.4 For 
+example, failing a student’s exam paper will inevitably leave them worse off both in terms of their future 
+employment prospects as well as their current mental state. However, the examiner (assuming the paper is 
+not of a sufficient standard to pass) is under no duty to prevent this from happening by not failing the 
+student.5
+Pause for reflection
+There are differing views as to the role of the duty of care.
+Peter Cane and James Goudkamp argue that the main function of the duty of care element in the tort 
+of negligence is to:
+define the boundaries of liability for damage caused by negligent conduct by reference to 
+what are commonly called ‘policy considerations’ … To say that a person owes a duty of care 
+means (and means only) that the person will be liable for causing damage by negligence in 
+that situation.6
+Nicholas McBride disagrees. He argues that tort law’s regulatory function—that is, the extent to 
+which tort law tells people how they ought to behave—is at least as important. On this view, it is 
+wrong to say the imposition of a duty of care ‘means only’ that the defendant will be liable for 
+carelessly harming the claimant. Rather we should take the notion of a duty of care—and its 
+requirement and direction that a defendant act with reasonable care—seriously.7
+3
+p. 58
+4
+5
+6
+7
+3. Duty of care: Basic principles
+Page 4 of 24
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+This distinction, described by McBride as that between those who adopt a ‘cynical’ as opposed to 
+‘idealist’ view of the tort of negligence, is an important one. On one view tort law is about attributing 
+or shifting losses, and hence the key question is: Do we want to impose liability in these 
+circumstances, on this defendant, for this injury? On this basis the purpose of the duty of care inquiry 
+is simply to weigh up the pros and cons of requiring the defendant to bear the claimant’s losses. By 
+contrast, the idealist view suggests that tort law is concerned primarily with telling people how they 
+may and may not act. So, to impose a duty of care on a defendant is not simply to say that they will be 
+liable if they carelessly injure someone, but that they must actually ‘take care’.
+Keep this distinction in mind as you read more about the tort of negligence and, particularly, when 
+reading Chapters 4 to 7, which deal with the types of claim in which the courts have struggled with 
+whether and when to find a duty of care. To what extent, if any, can the distinction between the 
+‘cynical’ and ‘idealist’ views on negligence provide an explanation for some of the courts’ more 
+controversial decisions in relation to establishing a duty of care?
+3.2  Establishing a duty of care
+As noted in section 3.1, there has been some uncertainty about what general test or approach courts should 
+take when faced with so-called novel cases, which is to say those rare, but important, cases in which there is 
+no existing precedent on whether a duty of care arises. In such cases, the court needs to determine whether a 
+duty of care should be recognised. Over the years the courts have adopted various approaches. Given that to a 
+large extent these build on and respond to each other it is worth looking at these in turn.
+3.2.1  From Donoghue to Anns
+The starting point in any consideration of the concept of a duty of care is Donoghue v Stevenson [1932]. As 
+discussed in Chapter 2, Donoghue is now understood as setting down a single, general test which could be 
+applied in all cases to answer the question as to whether a duty was owed in the form of Lord Atkin’s 
+‘neighbour principle’:
+You must take reasonable care to avoid acts or omissions which you can reasonably foresee would be 
+likely to injure your neighbour. Who then, in law, is my neighbour? The answer seems to be persons 
+who are so closely and directly affected by my act that I ought reasonably to have them in 
+contemplation as being so affected when I am directing my mind to the acts or omissions which are 
+called in question. (at 580)
+The basic test here is that, for a duty of care to arise, the claimant must fall within a class of individuals put at 
+foreseeable risk by the defendant’s action. It follows that duties of care are claimant-specific: the defendant 
+does not owe a duty of care to the world at large. An example of this point is Haley v London Electricity Board 
+[1965]. In this case, the claimant, who was blind, tripped over a hammer which had been placed on the 
+p. 59
+3. Duty of care: Basic principles
+Page 5 of 24
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+pavement by the defendant to prevent pedestrians from walking along the pavement as they carried out their 
+work. As a result of the fall the claimant became almost totally deaf. The defendants argued that it was not in 
+their ‘reasonable contemplation’ that a blind person would be walking along the pavement. The House of 
+Lords disagreed. Finding for the claimant, it held that the question of whether harm was reasonably 
+foreseeable needed to factor in the characteristics of all those who might reasonably be expected to walk 
+along the pavement—including blind pedestrians:
+In deciding what is reasonably foreseeable one must have regard to common knowledge … No doubt 
+there are many places open to the public where for one reason or another one would be surprised to 
+see a blind person walking alone, but a city pavement is not one of them. (Lord Reid at 791)
+For some, Lord Atkin’s neighbourhood principle is ‘extraordinarily empty’.8 It simply prompts the question: 
+what is, or ought to be, reasonably foreseeable? This is something which may ultimately depend on the 
+imagination of the individual judge; what one judge may believe to be reasonably foreseeable, another may 
+consider unusual and so on. Yet this requirement that harm be reasonably foreseeable before a duty of care is 
+recognised has been the one constant in a period where much of the law of negligence has been in flux. And, 
+↵
+while determining what harms are reasonably foreseeable is a question on which different people will 
+sometimes come to different conclusions, the law cannot sensibly expect us to take care in respect of risks we 
+could not reasonably have anticipated.
+Pause for reflection
+One constant in the quest for a general test for establishing duties of care is the requirement of 
+foreseeability—that is, the claimant must be said to fall into a particular class of people in relation to 
+whom it is reasonably foreseeable that the defendant’s failure to take care could cause them damage. 
+However, as we shall see, foreseeability also crops up as a requirement or relevant factor in other 
+elements of the tort of negligence.
+To recap, establishing a claim in negligence requires the claimant to prove not just that the defendant 
+owed them a duty of care, but also that the defendant breached that duty, that the breach caused the 
+claimant a loss and that this loss is not too remote. When we come to look at breach, in Chapter 8, we 
+shall see that one of the key factors in determining whether the defendant did indeed act reasonably is 
+the likelihood and gravity of the harm that could reasonably have been foreseen—so, for instance, the 
+greater the likelihood of harm, the more care we expect the defendant to take to prevent it (Overseas 
+Tankship (UK) Ltd v Miller Steamship Co Pty Ltd (The Wagon Mound) (No 2) [1967]). Moreover, when 
+determining whether the loss suffered by the claimant is too remote, we again turn to reasonable 
+foreseeability—a loss is too remote if it was not reasonably foreseeable that a loss of that kind might 
+follow from the defendant’s breach (Overseas Tankship (UK) Ltd v Morts Dock and Engineering Co (The 
+Wagon Mound) (No 1) [1961]).9
+8
+p. 60
+9
+3. Duty of care: Basic principles
+Page 6 of 24
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+This all appears rather confusing. If the claimant’s loss was not reasonably foreseeable, then no duty 
+of care can arise and their claim will fail before we get to questions of breach, causation and 
+remoteness. By contrast, if a court has held that harm was reasonably foreseeable when looking at 
+whether a duty arose, then it seems unnecessary to re-inquire into foreseeability when looking at 
+breach and remoteness since that issue has already been addressed at the duty stage. To put much the 
+same point another way, if it is held that the claimant’s loss was not a reasonably foreseeable 
+consequence of the defendant’s carelessness, then it seems we can deny their claim on a variety of 
+grounds: we could say that no duty was owed, that the defendant was not in breach or that the 
+claimant’s loss was too remote.
+So, not only does it seem as though we are asking the same question two or three times but this also 
+appears to muddy the relationship between the supposedly distinct elements of a negligence claim. 
+The same point has on occasion been made by the courts. For instance in Lamb v Camden London 
+Borough Council [1981] Lord Denning MR had this to say:
+The truth is that all these three, duty, remoteness and causation, are all devices by which the 
+courts limit the range of liability for negligence … As I have said … ‘it is not every 
+consequence of a wrongful act which is the subject of compensation’. The law has to draw a 
+line somewhere. Sometimes it is done by limiting the range of persons to whom a duty is 
+owed. Sometimes it is done by saying that there is a break in the chain of causation. 
+↵
+At other times it is done by saying that the consequence is too remote to be a head of 
+damage. All these devices are useful in their way. But ultimately it is a question of policy for 
+the judges to decide. (at 636)
+The best way to make sense of this all is to understand that at each stage—duty, breach, remoteness 
+—we are, or should be, asking a slightly different question in relation to foreseeability. So, at the duty 
+stage, we are asking whether harm of some broad variety—personal injury, psychiatric harm, 
+property damage, pure economic loss, etc—was a reasonably foreseeable consequence of the 
+defendant’s carelessness. If a duty is established, we move on to breach. This involves asking whether 
+the foreseeable harm was sufficiently grave or likely that the defendant should have done more than 
+they did to avoid it happening. As such, the inquiry into foreseeability here is a little more detailed or 
+focused—we are asking not only ‘Was harm foreseeable?’ but ‘How likely was it that harm might be 
+caused?’ and ‘How serious was the harm that the defendant could reasonably have foreseen?’ Finally, 
+when addressing remoteness, we are looking at the foreseeability of the specific harms that the 
+claimant did in fact suffer. So, while at the duty stage we ask whether, for instance, physical harm, as 
+broadly defined, was foreseeable, when turning to remoteness we look at the precise injury suffered 
+by the claimant (and sometimes, too, the way in which they were injured), and we ask whether this 
+was the type of physical harm that could reasonably have been foreseen (see e.g. Tremain v Pike [1969] 
+and Hughes v Lord Advocate [1963], although compare Page v Smith [1996]).
+p. 61
+3. Duty of care: Basic principles
+Page 7 of 24
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Lord Atkin’s neighbourhood principle from Donoghue was subsequently restated and refined in the dictum of 
+Lord Wilberforce in Anns v Merton London Borough Council [1978]:
+… the question has to be approached in two stages. First one has to ask whether, as between the 
+alleged wrongdoer and the person who has suffered damage there is a sufficient relationship of 
+proximity or neighbourhood such that, in the reasonable contemplation of the former, carelessness 
+on his part may be likely to cause damage to the latter, in which case a prima facie duty of care 
+arises. Secondly, if the first question is answered affirmatively, it is necessary to consider whether 
+there are any considerations which ought to negative, or to reduce or limit the scope of the duty or 
+the class of person to whom it is owed or the damages to which a breach of it may give rise. (at 751– 
+2)
+So, on this reformulation of the test, the defendant owes the claimant a duty to take reasonable care (provided 
+that it was reasonably foreseeable that a failure to take reasonable care by the defendant would cause damage 
+to the claimant) unless there is some policy reason why, nonetheless, no duty should be held to be owed. This 
+prompted Lord Goff in Smith v Littlewoods [1987] to acknowledge ‘the broad general principle of liability for 
+foreseeable damage is so widely applicable that the function of the duty of care is not so much to identify 
+cases where liability is imposed as to identify those where it is not’ (at 280).
+Under the Anns test, the only positive reason needed to support the recognition of a duty of care was that 
+harm to the claimant was indeed reasonably foreseeable. This first stage was pretty easy to satisfy—almost 
+everything is foreseeable if you think about it long enough. Now, the second stage meant that courts were not 
+compelled to find duties of care simply on account of the harm being reasonably foreseeable. However, the 
+way the test was formulated 
+↵
+created a sort of presumption that, if harm was reasonably foreseeable, 
+then a duty of care was owed. As such, a defendant seeking to argue that he owed no duty faced an uphill 
+battle, since they had to convince the court why they, exceptionally, should be permitted to cause careless 
+harm.
+The end result was an unprecedented, and increasingly unpopular, expansion of the tort of negligence in the 
+late 1970s and early 1980s during which the courts seemed reluctant to refuse claims of any vaguely 
+sympathetic claimant who came before them (see e.g. Lord Roskill’s opinion in Junior Books v Veitchi [1983]). 
+Accordingly, Lord Wilberforce’s two-stage test soon fell into disfavour. It was rejected in Yuen Kun-yeu v 
+Attorney General of Hong Kong [1987] and Anns itself was subsequently overruled by Murphy v Brentwood 
+District Council [1991].10
+Counterpoint
+Though many modern accounts of negligence fail to acknowledge this, the decision in Anns was not 
+universally derided. Indeed, in Ravenscroft v Rederiaktiebolaget Transatlantic [1991] (decided after Anns 
+was overruled in Murphy) Ward J had this to say:
+p. 62
+10
+3. Duty of care: Basic principles
+Page 8 of 24
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+As I have tried to navigate my fragile craft to judgment, I have become aware that it is a tidal 
+sea which flows as causes of action are extended and then ebbs as limitations are placed upon 
+them. I can only console myself that if I am cast up among the flotsam and jetsam at the high 
+water mark on the beach, I shall lie, I hope unnoticed but among such battered treasures as 
+Anns v Merton London Borough Council. (at 76)
+Moreover, it is far from clear that the test in Anns necessitated any expansion of liability. It may be that 
+it was a victim of association—a casualty of the backlash against an increasing number of decisions 
+(e.g. McLoughlin v O’Brian [1982]; Home Office v Dorset Yacht Co [1970]; even the decision in Anns 
+itself) which appeared to threaten the principles of individual freedom and responsibility at a time 
+when these were high on the political and governmental agenda.11
+What do you think led the courts to the conclusion that the potential for liability had become too 
+widespread? Think, in particular, about the so-called ‘problematic’ duty situations in relation to 
+omissions, pure economic loss, public authorities, psychiatric harm and so on.
+Check our pointers <https://iws.oupsupport.com/ebook/access/content/horsey9e-student-  
+resources/horsey9e-chapter-3-pointers-to-pause-for-reflection-and-counterpoint-boxes? 
+options=showName> on how to answer the questions posed in this ‘Pause for reflection’.
+3.2.2  Caparo Industries v Dickman
+In Caparo Industries plc v Dickman [1990]12 the House of Lords sought to move away from the position of 
+Donoghue and Anns whereby foreseeability of damage was enough to raise a prima facie duty of care, which 
+would be negated only if there were public policy considerations which militated against such a duty. But, 
+more than that, the court cast doubt on the broader idea which motivated Lord Atkin’s judgment in 
+Donoghue: that there must be some general test which can determine when duties of care are owed.
+↵
+The more difficult question was this: once the tests in Donoghue and Anns were rejected what was to be 
+put in their place? An attempt to answer this question was given by Lord Bridge who suggested:
+… in addition to the foreseeability of damage, necessary ingredients in any situation giving rise to a 
+duty of care are that there should exist between the party owing the duty and the party to whom it is 
+owed a relationship characterised by the law as one of ‘proximity’ or ‘neighbourhood’ and that the 
+situation should be one in which the court considers it fair, just and reasonable that the law should 
+impose a duty of a given scope on the one party for the benefit of the other. (at 617)
+11
+12
+p. 63
+3. Duty of care: Basic principles
+Page 9 of 24
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Later courts, wrongly, came to treat this passage as setting down a new ‘three-stage test’ which must be 
+applied to determine whether a duty of care arises. On this understanding, to know whether the defendant 
+owes the claimant a duty of care we need to answer three questions: (1) Was it reasonably foreseeable that the 
+defendant’s failure to take care could cause damage to the claimant? (2) Was there a relationship of proximity 
+between the claimant and the defendant? And (3) Is it fair, just and reasonable that the law should recognise a 
+duty on the defendant to take reasonable care not to cause that damage to the claimant? Only if the answer to 
+all three questions is ‘yes’ would a duty of care be found.
+While the first asks the familiar question of whether the claimant fell within a class of individuals put at 
+foreseeable risk by the defendant’s action, the second and third questions marked a departure from the Anns 
+test. Though the language of ‘proximity’ was used in Anns and indeed in Donoghue, it appears that Lord 
+Wilberforce, and (less clearly) Lord Atkin, did not intend the term to add anything to the notion of reasonable 
+foreseeability. In other words, to say that there was ‘proximity’ between the claimant and defendant was to 
+say no more than that it was reasonably foreseeable that the defendant’s carelessness could cause the 
+claimant harm. As such, ‘proximity’ did not describe an additional hurdle or requirement to the requirement 
+of reasonable foreseeability. Caparo changed this. By employing ‘proximity’ as a second, additional, element 
+to the test for establishing the existence of a duty of care, the House of Lords was understood as having meant 
+something more than simple reasonable foreseeability of harm. But, initially, Caparo itself tells us very little 
+about what precise relationship or connection amounts to a relationship of proximity on any given set of 
+facts. Rather ‘proximity’, in Lord Oliver’s words, is a ‘convenient expression so long as it is realised that it is 
+no more than a label which embraces not a definable concept but merely a description of circumstances from 
+which, pragmatically, the courts conclude that a duty of care exists’ (at 632). The difficulty lies then—in the 
+absence of a single or definable idea or test through which to establish proximity—in identifying what this 
+alternative understanding of proximity is and hence how to determine when it is present.
+Clearly proximity does not describe simple physical closeness—a defendant can owe a duty of care to a 
+claimant who is many miles away (indeed in Donoghue itself the claimant and defendant were not close in 
+space or time). Rather proximity is perhaps better understood, to use Alistair Mullis and Ken Oliphant’s 
+expression, as a ‘legal term of art’;13 a generic 
+↵
+name for the more specific tests through which the 
+existence of a duty of care is established in particular cases.14 Similarly, in Stovin v Wise [1996] Lord Nicholls 
+stated:
+[The Caparo] formulation tends to suggest that proximity is a separate ingredient, distinct from 
+fairness and reasonableness, and capable of being identified by some other criteria. This is not so. 
+Proximity is a slippery word. Proximity is not legal shorthand for a concept with its own, objectively 
+identifiable characteristics. Proximity is convenient shorthand for a relationship between two 
+parties which makes it fair and reasonable one should owe the other a duty of care. This is only 
+another way of saying that when assessing the requirements of fairness and reasonableness regard 
+must be had to the relationship of the parties. (at 932)
+On this view the proximity requirement simply tells us that, before a duty of care can arise, a certain type of 
+relationship or connection must exist between the parties. Donoghue and Anns both suggested that the only 
+connection or relationship that needed to exist between the parties was that it was reasonably foreseeable 
+13
+p. 64
+14
+3. Duty of care: Basic principles
+Page 10 of 24
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+that the claimant might be harmed by the defendant’s carelessness. However, Caparo tells us that this is not 
+true (since otherwise this second stage of the Caparo ‘test’ would add nothing to the first) and that something 
+more is needed. However, it does not say what this ‘something more’ is.
+The final stage of the Caparo ‘test’—that is, whether it is fair, just and reasonable to find that the defendant 
+owed the claimant a duty to take reasonable care not to cause them damage—returns, once again, to notions 
+of policy. It has been argued that this leaves the courts with an inevitable ‘residual discretion as to whether or 
+not a duty of care should be recognised’.15 Traditionally, judges have sought to play down this aspect of their 
+role (especially during the period of retreat following Anns). However, more recently, they have been more 
+willing to engage in frank discussion of the various policy factors which weigh for and against the imposition 
+of a duty of care. Indeed, in Michael v Chief Constable of South Wales Police [2015] Lord Kerr (in dissent) 
+appeared to suggest not only that a decision whether or not to impose a duty of care was necessarily informed 
+by ‘preponderant policy considerations’ but that these might change over time:
+As to what is ‘fair, just and reasonable’, Lord Browne-Wilkinson in Barrett v Enfield London Borough 
+Council [2001] 2 AC 550, explained:
+In English law the decision as to whether it is fair, just and reasonable to impose a liability in 
+negligence on a particular class of would-be defendants depends on weighing in the balance 
+the total detriment to the public interest in all cases from holding such class liable in 
+negligence as against the total loss to all would-be plaintiffs if they are not to have a cause of 
+action in respect of the loss they have individually suffered. (at 559)
+This passage clearly contemplates that, in deciding what is ‘fair, just and reasonable’, courts are 
+called on to make judgments that are informed by what they consider to be preponderant policy 
+considerations. Some assessment has to be made of what a judge considers the public interest to be; 
+what detriment would be caused to that interest if liability were held to exist; and what harm would 
+be done to claimants if they are denied a remedy for the loss that they have suffered. These 
+calculations are not conducted according to fixed principle. They will frequently, if not indeed 
+usually, be made without empirical evidence. For the most part, they will be instinctual reactions to 
+any given set of circumstances. …
+↵
+It is, I believe, important to be alive to the true nature of these decisions, especially when one 
+comes to consider the precedent value of earlier cases in which such judgments have been made. A 
+decision based on what is considered to be correct legal principle cannot be lightly set aside in 
+subsequent cases where the same legal principle is in play. By contrast, a decision which is not the 
+product of, in the words of Lord Oliver, ‘any logical process of analogical deduction’ holds less sway, 
+particularly if it does not accord with what the subsequent decision-maker considers to be the 
+correct instinctive reaction to contemporaneous standards and conditions. Put bluntly, what one 
+group of judges felt was the correct policy answer in 2009 should not bind another group of judges, 
+even as little as five years later. (at [159]–[161])
+15
+p. 65
+3. Duty of care: Basic principles
+Page 11 of 24
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Pause for reflection
+The three-stage test or approach Caparo stands for has, for some time now, been a matter of some 
+controversy. Lord Bridge’s ‘unwisely aphoristic’16 statement in Caparo—requiring (1) reasonable 
+foreseeability of harm; (2) a relationship of proximity between claimant and defendant; and (3) the 
+recognition that the imposition of a duty of care would be fair, just and reasonable—was commonly 
+thought to set down a new test to determine when a duty of care is owed in so-called novel cases. It 
+does not. And you should certainly resist the temptation to apply this as a stand-alone test for the 
+existence of a duty of care in negligence.
+However, the main difficulty with the three-stage formulation, and indeed Caparo itself, is that it tells 
+us remarkably little about when a duty of care will arise or even how courts should go about 
+determining when such duties arise. Yet this is the very thing a general test for establishing duties of 
+care should do. However, what is striking when one reads the judgments in Caparo is that the House 
+of Lords made clear that it was not intending to set down a test that could be used by courts in future 
+cases to provide concrete answers to whether a duty of care arose on a given set of facts. On the 
+contrary, the House of Lords in Caparo clearly took the view that it was impossible to find any single 
+test which, in practice, could be used to identify those situations in which a duty of care will be owed. 
+Lord Oliver put it thus:
+I think that it has to be recognised that to search for any single formula which will serve as a 
+general test of liability is to pursue a will-o’-the wisp. The fact is that once one discards, as it 
+is now clear one must, the concept of foreseeability of harm as the single exclusive test, even 
+a prima facie test, of the existence of the duty of care, the attempt to state some general 
+principle which will determine liability in an infinite variety of circumstances serves not to 
+clarify the law but merely to bedevil its development in a way which corresponds with 
+practicality and common sense. (at 632)
+Moreover, not only did the House of Lords reject the possibility of formulating any single, practicable 
+test, they also went on to deny the utility of the very concepts of ‘proximity’ and ‘fairness, justice and 
+reasonableness’ that are employed in the so-called three-stage test:
+[T]he concepts of proximity and fairness embodied in these additional ingredients are not 
+susceptible of any such precise definition as would be necessary to give them utility as 
+practical tests, but amount in effect to little more than convenient labels to attach 
+↵
+to 
+the features of different specific situations in which, on a detailed examination of all the 
+circumstances, the law recognises pragmatically as giving rise to a duty of a given scope. 
+(Lord Bridge at 618)
+Lord Oliver said something similar:
+16
+p. 66
+3. Duty of care: Basic principles
+Page 12 of 24
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Indeed it is difficult to resist a conclusion that what have been treated as three separate 
+requirements are, at least in most cases, in fact merely facets of the same thing, for in some 
+cases the degree of foreseeability is such that it is from that alone that the requisite 
+proximity can be deduced, whilst in others the absence of that essential relationship can 
+most rationally be attributed simply to the court’s view that it would not be fair and 
+reasonable to hold the defendant responsible. ‘Proximity’ is, no doubt, a convenient 
+expression so long as it is realised that it is no more than a label which embraces not a 
+definable concept but merely a description of circumstances from which, pragmatically, the 
+courts conclude that a duty of care exists. (at 633)
+Accordingly, though many lawyers, judges—and tort textbook writers—came to view Caparo as 
+setting down a new test which they must apply when working out when duties of care arise, this was 
+not just a misreading of the judgments in Caparo but indeed the very opposite of what the court had 
+intended.
+More recently, the Supreme Court has sought to resurrect and restate the true message of Caparo. The point 
+was emphasised by Lord Toulson in Michael v Chief Constable of Wales [2015] when he noted that 
+‘[p]aradoxically, … Lord Bridge’s speech has sometimes come to be treated as a blueprint for deciding cases, 
+despite the pains which the author took to make clear that it was not intended to be any such thing’ (at 
+[106]). And again in Robinson v Chief Constable of West Yorkshire [2018] where Lord Reed noted:
+The proposition that there is a Caparo test which applies to all claims in the modern law of 
+negligence, and that in consequence the court will only impose a duty of care where it considers it 
+fair, just and reasonable to do so on the particular facts, is mistaken. As Lord Toulson JSC pointed out 
+in his landmark judgment in Michael v Chief Constable of Wales [2015] … that understanding of the 
+case mistakes the whole point of the Caparo case, which was to repudiate the idea that there is a 
+single test which can be applied in all cases in order to determine whether a duty of care exists, and 
+instead to adopt an approach based, in the manner characteristic of the common law, on precedent, 
+and on the development of the law incrementally and by analogy with established authorities. (at 
+[21])
+Tests—three-staged or otherwise—aside, one thing Caparo does is to change the starting point from which 
+decisions on whether the defendant owes the claimant a duty to take reasonable care not to cause them injury 
+are made. For Lord Wilberforce in Anns, showing that it was reasonably foreseeable that the defendant’s 
+carelessness would harm the claimant was enough to establish a ‘prima facie’ duty of care. As we have seen, 
+this effectively adopted a presumption that where harm was reasonably foreseeable, a duty of care would be 
+owed. Of course, this presumption could be rebutted. Accordingly, the second stage of the Anns test asked 
+whether there were policy considerations which nonetheless required the court to deny a duty of care. But 
+this way of structuring the inquiry was significant. The test suggested that, all else being equal, a duty of care 
+would be owed wherever it was reasonably 
+↵
+foreseeable that the defendant’s carelessness could harm the 
+p. 67
+3. Duty of care: Basic principles
+Page 13 of 24
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+claimant and it was only in those (apparently) exceptional cases where policy considerations pointing against 
+the imposition of a duty were sufficiently weighty, that a duty of care would nonetheless be denied. Caparo 
+rejects this view. Instead the court must weigh up all the applicable reasons and arguments for and against 
+recognising a duty of care. A duty of care will be found only if the court considers that, on balance, the 
+combined reasons in favour of a duty of care are stronger than the combined reasons against, with no 
+presumption that a duty will be owed when harm is foreseeable.
+Pause for reflection
+As we have noted, the House of Lords in Caparo was determined to effect a shift away from the 
+position of Donoghue and Anns whereby foreseeability of damage was enough to raise a prima facie 
+duty of care, which would be negated only if there were public policy considerations which militated 
+against such a duty. Do you think this shift has gone too far? After all, as Lord Browne-Wilkinson 
+reminded us, in X (Minors) v Bedfordshire County Council, we should not lose sight of the compensatory 
+purposes of the tort of negligence:
+the public policy consideration which has first claim on the loyalty of the law is that wrongs 
+should be remedied and that very potent counter-considerations are required to override 
+that policy. (at 749)
+Lord Dyson, in Jones v Kaney [2011], made a similar point:
+The general rule that where there is a wrong there should be a remedy is a cornerstone of 
+any system of justice. To deny a remedy to the victim of a wrong should always be regarded 
+as exceptional. As has been frequently stated, any justification must be necessary and 
+requires strict and cogent justification … If the position were otherwise, the law would be 
+irrational and unfair and public confidence in it would be undermined. (at [113])
+Think about Caparo and the cases that have followed it (discussed in the following chapters). Are the 
+courts now paying too little attention to the principle that carelessly caused injuries should be 
+compensated?
+3.2.3  Robinson and the incremental approach
+While the Supreme Court in Robinson is clear that we should not think of Caparo as setting down a test which 
+can tell us when duties of care are owed, what does Caparo have to say to courts faced with novel cases, when 
+the existing precedents do not give an answer to the question of whether a duty of care is owed?
+3. Duty of care: Basic principles
+Page 14 of 24
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+The principal steer Caparo gives to the courts came in its approval of a dictum of Brennan J in the Australian 
+case of Sutherland Shire Council v Heyman [1985]: ‘It is preferable, in my view, that the law should develop 
+novel categories of negligence incrementally and by analogy with established categories’ (at 481). This 
+describes what has become known as the incremental approach. According to this approach, the courts 
+should identify duties of care not by seeking a high-level, universal test of the kind the House of Lords 
+attempted to 
+↵
+formulate in Donoghue and Anns. Rather, their focus should be on the existing case law 
+and the factual circumstances in which duties of care have already been found, and to work outwards from 
+them. As Lord Bridge noted, this heralds a return to the pre-Donoghue approach and ‘the more traditional 
+categorisation of distinct and recognisable situations as guides to the existence, the scope and the limits of 
+the varied duties of care which the law imposes’ (Caparo at 618).
+Pause for reflection
+The suggestion that we should recognise duties of care in situations identical or analogous to those 
+where the courts have recognised a duty of care previously (and that we should reject duties of care in 
+situations where the courts have previously denied their existence) is clearly sensible and is hardly 
+revolutionary. This is, one might say, just ordinary common law reasoning. The problem with this 
+approach is what might be thought to be its implication: that, where no analogy can be found—that 
+is, where there is no previously decided case analogous to the case at hand—a duty of care will be 
+denied since the recognition of a duty of care cannot be understood as an incremental development of 
+the law from existing, analogous authorities. In other words, if the law is to develop incrementally, we 
+can only recognise duties of care in situations analogous to those where a duty of care has already 
+been recognised.
+But, if this is true, it then means that the outcome of cases depends not upon legal principle and the 
+substantive merits of the case but upon the accidents of legal history—that is, on whether you are 
+fortunate enough that an analogous case has already been decided by the courts. If we take the 
+incremental approach seriously, where a party is unfortunate enough to suffer an injury in a truly 
+novel way, so that no case similar to theirs has been brought to court before, then their claim will fail 
+not because it is unmeritorious but for the simple (and highly unsatisfactory) reason that they are the 
+first person to bring such a claim. Indeed, it is just this type of arbitrary and unfair result that the 
+majority of the House of Lords in Donoghue rejected. The incremental approach appears to invite us to 
+say that the minority in that case were right after all.17
+Perhaps unsurprisingly, in the years following Caparo the courts showed little enthusiasm for this approach, 
+or at least the implication that really novel cases will lose out by reason of their novelty alone. For instance, in 
+Marc Rich & Co v Bishop Rock Marine Co Ltd [1996] (also known as The Nicholas H) the House of Lords, faced 
+with a novel type of negligence claim, effectively sidelined the incremental by analogy approach on the basis 
+that, if there had been no analogous cases previously decided, then the past cases could offer no guidance 
+p. 68
+17
+3. Duty of care: Basic principles
+Page 15 of 24
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+either way as to whether a duty should be held to exist. Instead, the court decided the case pragmatically by 
+analysing the reasons for and against the recognition of a duty and deciding whether on balance a duty ought 
+to be recognised (albeit while using the language of fairness, justice and reasonableness).
+↵
+More recently, however, the Supreme Court has endorsed what might be considered a refined version of 
+the incremental approach. In Robinson v Chief Constable of West Yorkshire Police, Lord Reed held that it was 
+the incremental approach, not the supposed three-stage test, which Caparo should be understood to stand for 
+and it is this approach which courts should employ when dealing with novel claims (at [25]). But, in so doing, 
+he did not endorse what we described as the apparent implication of this approach: that truly novel claims fail 
+simply by reason of their novelty. Rather he stated that ‘the drawing of an analogy depends on identifying the 
+legally significant features of the situations with which the earlier authorities were concerned’ (at [27]). He 
+continued:
+Properly understood, the Caparo case … achieves a balance between legal certainty and justice. In the 
+ordinary run of cases, courts consider what has been decided previously and follow the precedents 
+(unless it is necessary to consider whether the precedents should be departed from). In cases where 
+the question whether a duty of care arises has not previously been decided, the courts will consider 
+the closest analogies in the existing law, with a view to maintaining the coherence of the law and the 
+avoidance of inappropriate distinctions. They will also weigh up the reasons for and against 
+imposing liability, in order to decide whether the existence of a duty of care would be just and 
+reasonable. (at [29])
+The clear suggestion here, then, is that even truly novel cases are to be decided on their merits, and the 
+incremental approach is not a direction to courts to treat novelty alone as a basis for denying duties of care. 
+On the contrary, courts faced with novel claims still have, in the end, to make a judgement of justness and 
+reasonableness. But this judgement is to be made not by straight appeal to high principle but via a 
+consideration of whatever analogous cases we can find (remembering that analogy is a matter of degree) and 
+the more fact-specific considerations these cases identify.
+In this way, Robinson seeks to reassert the true message of Caparo. Lord Reed reiterated this point in the later 
+case of Poole Borough Council v GN [2019]:
+Robinson did not lay down any new principle of law … the decision explained, as Michael had 
+previously done, that Caparo did not impose a universal tripartite test for the existence of a duty of 
+care, but recommended an incremental approach to novel situations, based on the use of established 
+categories of liability as guides, by analogy, to the existence and scope of a duty of care in cases 
+which fall outside them. The question whether the imposition of a duty of care would be fair, just 
+and reasonable forms part of the assessment of whether such an incremental step ought to be taken. 
+(at [64])18
+p. 69
+18
+3. Duty of care: Basic principles
+Page 16 of 24
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+But Robinson also emphasises Caparo’s limited role. As Lord Reed makes clear, if there is a previous decision 
+which does cover the case at hand, then the court can say whether or not there is a duty of care by direct 
+appeal to the precedent and so without any need to have recourse to Caparo. Indeed, one of the important 
+messages of Robinson is that courts not only do not need to resort to Caparo when a case falls within an 
+established duty situation; they should not do so. This was true in Robinson itself.
+Robinson v Chief Constable of West Yorkshire [2018] UKSC 4 (SC)
+The claimant, an elderly woman, was knocked to the ground and injured when two police officers 
+attempted to arrest a suspected drug dealer. Her claim was dismissed at trial on the basis that the 
+police had an immunity against claims in negligence. The Court of Appeal rejected her appeal on the 
+grounds that the police generally owe no duty of care to members of the public and that, on the facts, 
+there was no proximity between the parties and it would not be fair, just and reasonable to impose 
+such a duty. The Supreme Court allowed the claimant’s appeal, holding that the defendants both owed 
+and breached a duty of care to the claimant. Lord Reed gave the lead judgment:
+Applying the approach adopted in the Caparo case, there are many situations in which it has 
+been clearly established that a duty of care is or is not owed: for example, by motorists to 
+other road users, by manufacturers to consumers, by employers to their employees, and by 
+doctors to their patients. As Lord Browne-Wilkinson explained in Barrett v Enfield London 
+Borough Council [2001] 2 AC 550:
+Once the decision is taken that, say, company auditors though liable to shareholders 
+for negligent auditing are not liable to those proposing to invest in the company … 
+that decision will apply to all future cases of the same kind. (at 559–60)
+Where the existence or non-existence of a duty of care has been established, a consideration 
+of justice and reasonableness forms part of the basis on which the law has arrived at the 
+relevant principles. It is therefore unnecessary and inappropriate to reconsider whether the 
+existence of the duty is fair, just and reasonable (subject to the possibility that this court may 
+be invited to depart from an established line of authority). Nor, a fortiori, can justice and 
+reasonableness constitute a basis for discarding established principles and deciding each 
+case according to what the court may regard as its broader merits. Such an approach would 
+be a recipe for inconsistency and uncertainty. (at [26])
+On this basis, one of the principles of negligence law, clearly established through the case law, is that 
+we all owe each other duties of care not to cause one another foreseeable physical harm through our 
+positive acts. This was the position that the defendant police officers found themselves in: it was 
+reasonably foreseeable that, if they did not take reasonable care, in conducting their arrest, others in 
+p. 70
+3. Duty of care: Basic principles
+Page 17 of 24
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+the vicinity might end up being physically harmed. Accordingly, it was, the court concluded, clear as a 
+matter of precedent that they owed a duty of care and it was wrong for the Court of Appeal to ask 
+whether it would be fair, just and reasonable to impose such a duty.
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-3-2>.
+3.3  Where does this leave us? (Or when to use Caparo)
+Without doubt, there are times when establishing a duty of care in negligence can be hard to do. As Lord Reed 
+has pointed out, for years judges—even at the very highest level of our courts—have been doing it wrong.
+↵
+First it is important to remember that ultimately it is only a small minority of cases—where the courts 
+are asked to determine whether new categories of claim should be recognised or existing precedents should 
+be revised or extended—which call for the application of a general test or approach such as those propounded 
+in Donoghue, Anns and Caparo. As such, the practical need for some such test is not great and the number of 
+cases in which the courts must struggle through without the guidance of such a test are few.
+However, in such cases we at least now have some clarity. When determining if a duty of care is owed, the 
+first place to look is to the decided cases. If they establish that a duty of care is, or is not, owed, then we have 
+our answer, and the question of whether recognising such a duty would be fair, just and reasonable does not 
+need to be asked and answered again. Even where the precedents provide no conclusive answer as to whether 
+a duty of care is owed, they may nonetheless provide more concrete guidance than we get from Caparo. So, for 
+example, if the claimant suffers pure psychiatric injury, the courts will look to cases such as Alcock v Chief 
+Constable of South Yorkshire Police [1992], Page v Smith [1996] and Paul v Royal Wolverhampton NHS Trust; 
+Polmear v Royal Cornwall Hospital NHS Trust; Purchase v Ahmed [2024], rather than Caparo, to answer the 
+duty of care question. Similarly, in cases concerning pure economic loss, the courts have developed more 
+concrete principles to help establish when duties of care are owed. Furthermore, as Robinson shows, where 
+personal injuries, and possibly property damage, are concerned, it will generally be the case that 
+foreseeability of such injury will suffice to establish a duty; in other words, the test set down in Donoghue will 
+be used (although there are exceptions to this—see e.g. Marc Rich & Co v Bishop Rock Marine Co Ltd [1996]).
+Only where and to the extent that the precedents do not provide an answer does the court need to consider 
+the fairness and reasonableness of recognising a duty of care. In doing this—and this is the key idea of the 
+incremental approach outlined in Caparo and endorsed in Robinson—the court must still focus on the decided 
+cases to ensure that the law develops coherently and consistently. In so doing, while the approach put 
+p. 71
+3. Duty of care: Basic principles
+Page 18 of 24
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+forward in Caparo does not itself determine when duties of care are owed in novel cases—this is something 
+the judges faced with such cases must decide for themselves—what it does do is provide a general steer when 
+judges are making these decisions; a steer broadly as outlined in Decision Tree 3.1 at the end of this chapter.
+Watch our video ‘Pursuing a will-o’-the wisp: Hinkypunks, Pokémon and Caparo’ where we explore the 
+ongoing importance of Caparo on how courts establish a duty of care.
+Video playback is not supported in this format.
+Video 3: Pursuing a will-o’-the wisp: Hinkypunks, Pokémon and Caparo
+That said, while, as the Supreme Court stressed in Robinson, it is only in novel duty situations that courts 
+must adopt the incremental approach endorsed in Caparo (in established duty situations, by contrast, the 
+existence of a duty of care is already settled by statute or by precedent), it is not always easy to determine 
+whether a case falls within an established duty situation or is indeed novel. Take, for example, Darnley v 
+Croydon Health Services NHS Trust [2018]. The claimant went to hospital with a serious head injury and was 
+incorrectly told by a receptionist that he would have to wait four to five hours for treatment. Rather than wait 
+for treatment, he returned home where his condition deteriorated. By the time he returned to hospital, it was 
+too late to save him from permanent brain damage. In the Court of Appeal, the case was seen as raising a 
+novel duty question: do hospital receptionists owe a duty of care to patients concerning waiting times. The 
+court concluded, by majority, that it would not be fair, just and reasonable for them to do so. On appeal, 
+however, the Supreme Court considered that this was not a novel duty case at all. In Lord Lloyd-Jones’s view:
+To my mind, … the present case falls squarely within an established category of duty of care. It has 
+long been established that such a duty is owed by those who provide and run a casualty 
+↵
+department to persons presenting themselves complaining of illness or injury and before they 
+are treated or received into care in the hospital’s wards. The duty is one to take reasonable care not 
+to cause physical injury to the patient … In the present case, as soon as the claimant had attended at 
+the defendant’s A & E department seeking medical attention for the injury he had sustained, had 
+provided the information requested by the receptionist and had been ‘booked in’, he was accepted 
+into the system and entered into a relationship with the defendant of patient and health care 
+provider. The damage complained of is physical injury and not economic loss. This is a distinct and 
+recognisable situation in which the law imposes a duty of care. Moreover, the scope of the duty to 
+take reasonable care not to act in such a way as foreseeably to cause such a patient to sustain 
+physical injury clearly extends to a duty to take reasonable care not to provide misleading 
+information which may foreseeably cause physical injury. While it is correct that no authority has 
+been cited in these proceedings which deals specifically with misleading information provided by a 
+receptionist in an A & E department causing physical injury, it is not necessary to address, in every 
+instance where the precise factual situation has not previously been the subject of a reported judicial 
+decision, whether it would be fair, just and reasonable to impose a duty of care. It is sufficient that 
+the case falls within an established category in which the law imposes a duty of care. (at [16])
+p. 72
+3. Duty of care: Basic principles
+Page 19 of 24
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+You may find it helpful to look at this annotated version of Darnley <https://iws.oupsupport.com/embed/access/  
+content/horsey9e-student-resources/horsey9e-annotated-judgment-darnley>.
+If even the judges can’t agree, it is little wonder that the incremental approach and by analogy approach have 
+been dismissed by some academics as ‘thoroughly banal’:
+The law on duty of care develops by analogy with decided cases. Of course it does: in the same way as 
+the rest of the common law. The observation seems thoroughly banal. Yet the courts think it 
+meaningful … In Lord Reed’s view [in Robinson] Caparo’s ‘whole point’ was to re-establish ‘an 
+approach based, in the manner characteristic of the common law, on precedent’.19
+Let’s take Donoghue v Stevenson as an example. What is the duty situation that case established? The case 
+itself concerned a manufacturer of ginger beer in the Scottish city of Paisley. However, no one would say that 
+the duty category it supports applies only to bottles of ginger beer or is limited only to those producing drinks 
+in Paisley. The same rule would apply if the court was then faced with a claim by someone who had found a 
+slug in a bottle of lemonade in Glasgow. But how do we know this? One way is by looking at the judgments 
+given in the case. That it was ginger beer—rather than, say, lemonade—and that the bottle was produced in 
+Paisley—rather than, say, Glasgow—were not considerations which had any bearing on the decision and find 
+no expression in the reasoning of the court. These, however, are easy examples. Does the Donoghue category 
+extend beyond ginger beer and other drinks to food? Almost certainly. What about other potentially 
+dangerous items? What about activities other than the provision of dangerous products? Does it extend, say, 
+to dangerous advice? While none of these questions was addressed directly in Donoghue, we might 
+nonetheless say that they were by implication. Indeed, this was the key thrust of the neighbourhood 
+principle: whenever you are doing something which poses a reasonably foreseeable risk of harm, whatever 
+that activity is, you must take reasonable care.
+↵
+Of course, this is precisely why the courts have rowed back on the neighbourhood principle: it goes too 
+far. Nonetheless something like this process of generalisation—from the facts and decision in any given case 
+to the broader rule or principle it stands for—is required every time we have to work out what range of cases 
+is covered by a particular precedent or line of precedents. This then shows that, while the courts may say that 
+they have ‘abandoned the search for a general principle capable of providing a practical test applicable in 
+every situation to determine whether a duty of care is owed’ (Darnley at [15]), even the incremental approach 
+depends on drawing generalisations from individual cases, indeed the sort of generalisation which Donoghue 
+endorsed. Moreover, it also suggests why lower courts—told that there is no general principle to be found but 
+also to look out for ‘established’ (and general) duty categories—might find their task rather difficult.
+Pause for reflection
+Is this really the best we can do? What should we be looking for in a test, or broader approach, for 
+establishing duties of care? Why, it might be asked, do we need the duty of care at all? Is the criticism 
+of some of these cases directed to the content of the actual decisions or simply to the language that 
+19
+p. 73
+3. Duty of care: Basic principles
+Page 20 of 24
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+the courts have been using to explain their decisions? These are some of the questions you should be 
+thinking about as you read the chapters that follow (which discuss situations where the law either 
+denies a duty of care outright or makes establishing such a duty more onerous) and as you begin to 
+learn more about duty and the tort of negligence as a whole.
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-3-3>.
+3.4  Conclusion
+In this chapter, we have looked at the concept of duty in negligence claims. We have considered attempts by 
+the courts to establish general ‘tests’ through which to establish when a duty of care is owed. We concluded 
+by noting that, though we should not downplay the significance of these general tests, they are used in a 
+small minority of cases where the judges are being asked to develop a new area of the law. Thus, over the 
+course of the next four chapters we shall consider the circumstances in which the courts have developed 
+specific rules in order to establish when a duty of care is owed.
+Decision Tree 3.1 sets out the basic considerations for establishing a duty of care in new cases.
+Explore this process using the interactive version of this decision tree <https://iws.oupsupport.com/embed/  
+access/content/horsey9e-student-resources/horsey9e-chapter-3-interactive-decision-tree-3-1>.
+3. Duty of care: Basic principles
+Page 21 of 24
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+1
+Decision Tree 3.1 Establishing a duty of care in new cases
+End-of-chapter questions
+After reading the chapter carefully, try answering the questions which follow.
+What purpose does the concept of duty of care serve? Why shouldn’t everyone who falls below the standard of 
+care of the reasonable person be liable if they injure someone?
+p. 74
+3. Duty of care: Basic principles
+Page 22 of 24
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+2
+3
+(i)
+(ii)
+4
+In what situations is the issue of whether or not there is a duty of care unproblematic and when is it 
+problematic? Why is this?
+In each of the following situations consider both whether there is a legal duty of care and whether there should 
+be:
+Ethel, an elderly woman, lives alone in an isolated farmhouse. Recently there have been a number of 
+burglaries in the neighbourhood so she decides to protect herself by digging a hole beneath her front 
+window, which she then covers with leaves. Unfortunately, Ahoeitu, a postman, falls down this hole 
+while looking through the window to see if Ethel is in to collect a parcel.
+↵
+ Ms Majick is a well-known magician. One night while performing their signature trick, which involves 
+‘cutting’ their assistant, Dominik, in half, they accidentally slice into his side causing him to bleed heavily. On 
+seeing this, Dominik’s new boyfriend, Sandro, who is in the audience, faints and falls and hits his head—he 
+suffers severe concussion.
+‘[T]he postulate of a simple duty to avoid any harm, that is, with hindsight, reasonably capable of being 
+foreseen becomes untenable without the imposition of some intelligible limits to keep the law of negligence 
+within the bounds of common sense and practicability’ (Lord Oliver, Caparo at 633). How have the courts 
+sought to place limits upon the duty of care owed in negligence and to what extent do you consider that such 
+limits are ‘intelligible’?
+If you would like to know what we think, check the answer guidance <https://iws.oupsupport.com/ebook/  
+access/content/horsey9e-student-resources/horsey9e-chapter-3-answers-to-end-of-chapter-questions? 
+options=showName>.
+Further reading
+Much of the writing in this area focuses on the role of duty as an ingredient in the tort of negligence and asks the ‘big 
+questions’ such as: ‘Do duties of care exist?’ ‘If so, how many are there?’ ‘Do we need the concept of a duty of care?’ 
+and so on. The best place to start is with Nicholas McBride’s discussion of the ‘idealist’ and ‘cynical’ views of 
+negligence and Jonathan Morgan’s excellent discussion of the key debates when ‘Defining the Duty of Care’ in his 
+Great Debates in Tort Law.
+Cane, Peter and James Goudkamp Atiyah’s Accidents, Compensation and the Law (9th edn CUP 2018) ch 3
+Hepple, Bob ‘Negligence: The Search for Coherence’ (1997) 50 Current Legal Problems 69
+Howarth, David ‘Many Duties of Care—Or A Duty of Care? Notes from the Underground’ (2006) 26 Oxford Journal of 
+Legal Studies 449
+McBride, Nicholas ‘Duties of Care—Do They Really Exist?’ (2004) 24 Oxford Journal of Legal Studies 417
+Morgan, Jonathan Great Debates in Tort Law (Hart 2022) chs 6 and 7
+p. 75
+3. Duty of care: Basic principles
+Page 23 of 24
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Morgan, Jonathan ‘The Outer Limits of “Personal Injury”’ [2018] Cambridge Law Journal 461 (on Dryden)
+Steele, Jenny ‘Duty of Care and Ethic of Care: Irreconcilable Difference?’ in Janice Richardson and Erika Rackley (eds) 
+Feminist Perspectives on Tort Law (Routledge 2012) 14–35
+Tofaris, Stelios, ‘Duty of Care in Negligence: A Return to Orthodoxy?’ [2018] Cambridge Law Journal 454 (on Robinson)
+Witting, Christian ‘Duty of Care: An Analytical Approach’ (2005) 25 Oxford Journal of Legal Studies 33
+Additional suggestions for further reading can be found in this chapter’s web links <https://iws.oupsupport.com/  
+ebook/access/content/horsey9e-student-resources/horsey9e-chapter-3-web-links?options=showName>.
+Notes
+ 
+1. See Chapter 8.
+ 
+2. Peter Cane and James Goudkamp Atiyah’s Accidents, Compensation and the Law (9th edn CUP 2018) 60.
+ 
+3. See further Nicky Priaulx ‘Endgame: On Negligence and Reparation for Harm’ in Janice Richardson and Erika Rackley 
+(eds) Feminist Perspectives on Tort Law (Routledge 2012) 36–54.
+ 
+4. See e.g. in relation to economic losses and freedom of speech, Robert Stevens Torts and Rights (OUP 2007) 21 and 
+also section 2.1.
+ 
+5. This is not to say that an examiner is not under a duty of care to mark papers fairly or accurately—i.e. to give better 
+papers better marks. It is also probably the case that teachers owe a duty of care to teach students adequately so as to 
+enable them to pass the exam in the first place (Siddiqui v University of Oxford [2018]). The point is rather that when an 
+examiner gives a bad paper a bad mark, they are, consciously, leaving that student worse off than if they had awarded 
+a higher mark. Nonetheless, as long as the mark is fair, no liability will attach since there is no duty to avoid causing 
+such harm.
+ 
+6. Cane and Goudkamp n2 60–1. See also Donal Nolan ‘Deconstructing the Duty of Care’ (2013) 129 Law Quarterly 
+Review 559.
+ 
+7. Nicholas McBride ‘Duties of Care—Do They Really Exist?’ (2004) 24 Oxford Journal of Legal Studies 417, 418–19.
+ 
+8. Joanne Conaghan and Wade Mansell The Wrongs of Tort (2nd edn Pluto Press) 13.
+ 
+9. See further David Howarth ‘Many Duties of Care—Or A Duty of Care? Notes from the Underground’ (2006) 26 Oxford 
+Journal of Legal Studies 449, 457–63.
+ 
+10. See section 7.4.
+ 
+11. Conaghan and Mansell n8 17, 20. See also Cane and Goudkamp n2 ch 8.
+ 
+12. The facts of Caparo, which concerned economic loss following reliance on information provided by auditors, are 
+discussed in detail in Chapter 7. They are not relevant here.
+ 
+13. Alistair Mullis and Ken Oliphant Tort (4th edn Palgrave Macmillan 2011) 22.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+3. Duty of care: Basic principles
+Page 24 of 24
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+14. See e.g. the so-called Alcock control mechanisms which limit duty of care in relation to psychiatric injuries suffered 
+by ‘secondary victims’ discussed in section 5.6.
+ 
+15. Christian Witting ‘Duty of Care: An Analytical Approach’ (2005) 25 Oxford Journal of Legal Studies 33, 62.
+ 
+16. Jonathan Morgan Great Debates in Tort Law (Hart 2022) 155.
+ 
+17. See section 2.2.
+ 
+18. For an example of this approach in action, see James-Bown and others v Commissioner of Police for the Metropolis 
+[2018].
+ 
+19. Morgan n16 177, 181.
+© Kirsty Horsey & Erika Rackley 2025
+Related Books
+View the Essential Cases in tort law
+Related Links
+Test yourself: Multiple choice questions with instant feedback <https://learninglink.oup.com/access/content/brennan-  
+concentrate6e-student-resources/brennan-concentrate6e-diagnostic-test>
+Find This Title
+In the OUP print catalogue <https://global.oup.com/academic/product/9780198925231>
+14.
+15.
+16.
+17.
+18.
+19.

@@ -1,0 +1,312 @@
+LAW OF TORT
+Factual Causation 
+(2) 
+All images used are licensed under CC-BY-NC
+LAW OF TORT
+Recap
+LAW OF TORT
+Overview
+Standard but-for causation: D liable
+Material contribution to divisible injury: D liable for the 
+part of the injury they caused
+Material contribution to indivisible injury: D liable in full
+Material contribution to the risk of injury: D liable in 
+proportion to their contribution to the risk
+LAW OF TORT
+Tea scenario #1 (material 
+contribution to divisible 
+injury)
+D1, D2, and D3 each add a drop of salmonella to C’s tea
+Suppose that for each drop of salmonella, C will have 
+another week of food poisoning
+C drinks the tea and get food poisoning for 3 weeks
+Result: each D is liable only for one week of food poisoning, 
+as that is what they each caused (standard ‘but-for’)
+LAW OF TORT
+Tea scenario #2 (material 
+contribution to indivisible 
+injury)
+D1, D2, and D3 each add a drop of deadly poison to C’s tea
+Suppose that each drop of poison would, alone, kill C
+C drinks the tea and dies
+Result: each D is liable entirely for C’s death (departure from 
+‘but-for’)
+LAW OF TORT
+Tea scenario #3 (material 
+contribution to risk of 
+injury)
+D1, D2, and D3 each add a drop of kryptonite to C’s tea
+Suppose that each time you drink a drop of kryptonite you 
+have a 10% chance of being poisoned. Sometimes you are 
+ﬁne, but 10% of the time you die.
+C drinks the tea, and dies
+Result: D1, D2, and D3 each liable for 1/3 of damages
+LAW OF TORT
+2. Material contribution 
+to risk of injury 
+(continued)
+LAW OF TORT
+The limits of Fairchild
+LAW OF TORT
+Wilsher v Essex Area Health 
+Authority [1988] 1 AC 1074
+D negligently gave C too much oxygen, which increased 
+risk of RLF
+C developed RLF
+There were ﬁve diﬀerent and equally likely possible causes 
+of the RLF
+Held:
+D not liable because no causation
+LAW OF TORT
+Wilsher distinguished 
+“It is one thing to treat an increase of risk as equivalent to the 
+making of a material contribution where a single noxious 
+agent is involved, but quite another where any one of a 
+number of noxious agents may equally probably have caused 
+the damage.” (Lord Bingham in Fairchild, [22])
+“In my opinion it is an essential condition for the operation 
+of the exception that the impossibility of proving that the 
+defendant caused the damage arises out of the existence of 
+another potential causative agent which operated in the 
+same way.” (Lord Hoﬀmann in Barker, [24])
+LAW OF TORT
+Tea scenario #5
+D puts a drop of ‘serum X’ in C’s tea which increases C’s 
+chance of food poisoning by 10%
+C used some old water in his tea which had ‘serum Y’ in it 
+increasing his chance of food poisoning by 10%
+C drinks the tea and gets food poisoning
+Result: D only liable if serum X and Y cause food poisoning 
+in the same way, otherwise not liable
+LAW OF TORT
+Criticism of MCRI
+“In the case of mesothelioma claims, there can be no real 
+doubt but if Fairchild had been decided the other way, in 
+accordance with normal common law principles, Parliament 
+would have intervened very promptly. That may very well 
+have been a better solution, but it can fairly be said that that 
+observation is made with the wisdom of hindsight.” (Lords 
+Neuberger & Reed, Zurich Insurance [2015] UKSC 33, [211])
+“[T]his line of authority is very much an exception to the 
+normal rule, and … further judicial experimentation in this 
+area is not to be encouraged.” (W&J, p.176)
+LAW OF TORT
+The future
+MCRI turns on the scientiﬁc impossibility of knowing 
+whether D’s negligence caused C’s injury
+If science develops to the point where such knowledge is 
+attainable, then MCRI will disappear
+E.g. if we can identify exactly which strand of asbestos 
+caused mesothelioma and we can date it precisely, then we 
+will know which D caused it – so, no need for MCRI 
+approach 
+LAW OF TORT
+Was D’s negligence
+the only cause 
+of C’s injury?
+D fully liable
+Is it scientiﬁcally possible 
+to know whether D’s 
+negligence was one of the 
+causes of C’s injury?
+Did D contribute to the 
+risk of C’s injury?
+ 
+ 
+NO
+NO
+Factual Causation— Flowchart 
+D not liable 
+D liable for 
+proportion of injury 
+caused/proportion 
+of risk contributed
+Did D’s negligence 
+materially 
+contribute to C’s 
+injury?
+YES
+NO
+Was the injury a 
+divisible one?
+NO
+YES
+NO
+Was C’s injury 
+caused by 
+a single 
+mechanism?
+YES
+NO
+YES
+YES
+YES
+LAW OF TORT
+Problem cases
+1. Material contribution to injury
+2. Material contribution to the risk of injury
+3. Loss of a chance
+LAW OF TORT
+3. Loss of a chance
+LAW OF TORT
+The setup: loss of a chance
+C cannot show on the balance of probabilities that D 
+caused C harm, but C can show that D caused C to lose a 
+chance of avoiding that harm 
+Really a question about whether losing a chance counts as 
+‘damage’ rather than whether D has ‘caused’ damage
+Problem arises because of ‘causal uncertainty’ — because 
+we cannot know for sure what would have happened if D 
+had not been negligent
+LAW OF TORT
+Hotson v East Berkshire 
+HA [1987] AC 750
+Facts:
+C fell from a tree and hurt his hip – D negligently 
+misdiagnosed C
+If correctly diagnosed there would have been 25% chance 
+that C’s hip would have recovered
+Negligent diagnosis meant 0% chance of C recovering
+LAW OF TORT
+Hotson v East Berkshire 
+HA [1987] AC 750
+Held:
+Because C’s hip only had a 25% chance of recovering, on 
+the balance of probabilities he would have lost the hip
+So, it did not matter that D’s negligence had reduced that 
+chance to 0%
+No scope for giving 25% damages to C (as HC and COA 
+had held below)
+LAW OF TORT
+Gregg v Scott [2005] 2 AC 
+176 
+Facts:
+D’s negligence delayed C receiving medical treatment for 
+cancer 
+C initially had a 42% chance of recovery 
+D’s negligence had reduced that to a 25% chance 
+Held:
+D not liable because C had a less than 50% chance of recovery 
+in the ﬁrst place
+LAW OF TORT
+Gregg v Scott [2005] 2 AC 
+176 
+Lady Hale’s points
+1. Allowing damages for lost chances would render ‘but-for’ 
+causation redundant, because in almost every case where 
+there is a breach of duty this will cause a loss of a chance 
+for C to some degree. [215]
+2. The gist of negligence is damage, and if we allow recovery 
+for lost chances it would do away with the need to show 
+damage. [217]
+LAW OF TORT
+Gregg v Scott [2005] 2 AC 
+176 
+Lady Hale’s points
+3.
+If C were compensated for his lost chance, then it would make no sense to 
+retain the rule that Cs in tort cases are compensated 100% in normal 
+circumstances. Otherwise, we would have a mixed approach where:
+a.
+Cs who can show their injury was >50% likely to have been caused by D 
+get 100% damages, but;
+b.
+Cs who can show their injury was <50% likely to have been caused by D 
+get damages in proportion to their lost chance.
+This would make no sense – it would be a “heads you lose everything, tails I 
+win something” situation. 
+Alternative would be to adopt approach (b) for all cases – but this would 
+add a lot of complexity and cost to cases.
+LAW OF TORT
+Gregg v Scott [2005] 2 AC 
+176 
+The dissents
+Lord Nicholls: The point of a medical duty is to promote 
+the patient’s recovery, it would be irrational to empty this 
+duty of content. A 45% chance of recovery is ‘real’!
+Lord Hope: The delay allowed the cancer to grow, this was 
+a physical injury and ‘chance’ could be assessed, as usual, 
+through damages.
+LAW OF TORT
+The exception: loss of a 
+chance of money
+“There is not much diﬀerence between the money one expected 
+to have and the money one expected to have a chance of 
+having: it is all money. There is a diﬀerence between the leg one 
+ought to have and the chance of keeping a leg which one ought 
+to have.” 
+(Lady Hale in Gregg, [220])
+A chance of money can be valued easily – e.g. you can sell a 
+bet
+LAW OF TORT
+The exception: loss of a 
+chance of money
+The rule in Allied Maples Group Ltd v Simmons & Simmons 
+[1995] 1 WLR 1602
+“To the extent (if at all) that the question whether [C] would 
+have been better oﬀ depends upon what [C] would have 
+done [had D not been negligent], this must be proved by the 
+claimant upon the balance of probabilities. To the extent that 
+the supposed beneﬁcial outcome depends upon what others 
+would have done [had D not been negligent], this depends 
+upon a loss of chance evaluation.” (Perry v Raleys Solicitors 
+[2019] UKSC 5, [20])
+LAW OF TORT
+The exception: loss of a 
+chance of money
+The rule in Allied Maples Group Ltd v Simmons & Simmons 
+[1995] 1 WLR 1602
+If C can show it is >50% likely they would have done 
+something which would get them X amount had D not 
+been negligent, then C gets X amount; but if C can only 
+show it is <50% likely they would have done that thing, 
+then they get 0
+Whereas, if C can show it is N% likely that TP would have 
+done something which would get C that X amount had D 
+not been negligent, then C gets N% of X amount
+LAW OF TORT
+Can C show a >50% chance 
+they would have not suﬀered 
+harm but for D’s negligence?
+D fully liable
+Can C show that D’s negligence 
+caused them to lose a chance of 
+making some money?
+Does whether or not C 
+would have made that 
+money depend on 
+what C would have 
+done, or on what a 
+third party would have 
+done?
+ 
+ 
+NO
+YES
+Loss of a chance — Flowchart 
+D not liable 
+NO
+NO
+YES
+D liable in proportion 
+to the likelihood that 
+they would have the 
+sum of money
+Was there a >50% 
+chance that C 
+would’ve done the 
+thing that made them 
+that sum of money?
+What C would’ve done
+What TP would’ve done
+YES
+LAW OF TORT
+Summary
+Standard but-for causation: D liable
+Material contribution to divisible injury: D liable for the 
+part of the injury they caused
+Material contribution to indivisible injury: D liable in full
+Material contribution to the risk of injury: D liable in 
+proportion to their contribution to the risk 
+Loss of a chance: D not liable unless loss of a chance of 
+money

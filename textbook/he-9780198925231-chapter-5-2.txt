@@ -1,0 +1,1963 @@
+5. Special duty problems: Psychiatric harm
+Page 1 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Tort Law (9th edn)
+Kirsty Horsey and Erika Rackley
+5. Special duty problems: Psychiatric harm
+Kirsty Horsey and Erika Rackley
+https://doi.org/10.1093/he/9780198925231.003.0005
+Published in print: 15 August 2025
+Published online: August 2025
+Abstract
+This chapter begins by explaining the meaning of psychiatric harm. Though initially psychiatric harm was recoverable only if 
+accompanied by physical injury, it is now clear that the claimant can recover for pure psychiatric harm so long as it is a 
+recognised psychiatric illness. The chapter considers the distinction between ‘primary’ and ‘secondary’ victims and other 
+circumstances where the law recognises victims of psychiatric harms as having a claim in negligence (rescuers, involuntary 
+participants, communicators of shocking news, self-harm by the defendant and ‘assumption of responsibility’ cases).
+Keywords: 
+Keywords, psychiatric injury, negligence, primary victim, secondary victim, duty of care
+Problem question
+Read this problem question carefully and keep it in mind while you are working through the 
+chapter that follows. At the end of the chapter you will be able to apply what you have learnt to the 
+problem question and advise the relevant parties.
+Following months of speculation the legendary indie guitar band Blinking Idiot are about to embark on 
+a reunion tour of the UK. They are performing a warm-up gig at a small intimate venue when a 
+spotlight falls onto the stage, causing a massive explosion, killing the band members: Zoe, Amish and 
+Ennio. Unfortunately, the lighting rig (onto which the spotlight was fitted) had been negligently 
+maintained by Rack & Horse Lighting. The sight is particularly gruesome.
+p. 101
+5. Special duty problems: Psychiatric harm
+Page 2 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+→
+→
+→
+→
+→
+Hua, Amish’s wife, is watching the gig from the VIP area of the venue. She is physically unharmed, but 
+later suffers nightmares and depression. This is particularly traumatic for her as she had previously 
+suffered from depression but had sought help and recovered.
+Lex, Zoe’s brother, is listening to the live radio broadcast of the gig from his hotel room in Paris. He 
+hears the explosion and thinks he can hear Zoe screaming. He rushes to the airport, managing to 
+catch a flight that is just leaving, and arrives at the hospital three hours after the accident. 
+Unfortunately, Zoe’s body has not yet been moved to the morgue and is still covered in blood and 
+grime from the explosion. He develops post-traumatic shock disorder.
+Inez has attended every Blinking Idiot gig in the UK and has travelled to a number of their overseas 
+concerts. She is a founder member of their fan club and regularly contributes to their fan magazine. 
+She always tries to stand as close as possible to the stage. Miraculously she was not hurt by the 
+explosion but has since been overcome with grief.
+Tao was one of the first on the scene. They are a trainee paramedic and this was their first major 
+accident. They rush to the stage but quickly see that there is little they can do. They spend the next 
+two hours comforting distraught fans. They later suffer from recurring nightmares and panic attacks.
+Kaz, one of the roadies, is overcome with feelings of guilt and depression. It was his job to fix the 
+lighting and he feels the explosion was his fault. A subsequent investigation completely exonerates 
+him.
+Advise the parties.
+5.1  Introduction
+Consider the following examples:
+A grandfather watches as his grandchild is hit and killed by a car driven by a drunk driver. He later 
+develops severe depression.
+A teenage boy is involved in a car accident. Though he escapes physical injury, he suffers a 
+reoccurrence of anxiety and depression.
+An elderly woman is trapped in a poorly serviced lift for 12 hours. During the experience she is very 
+frightened and afterwards suffers from claustrophobia and insomnia.
+A doctor misdiagnoses a child’s heart condition. They later suffer a heart attack while out shopping 
+with their aunt. The aunt later develops PTSD.
+p. 102
+5. Special duty problems: Psychiatric harm
+Page 3 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+The organisers of a gig negligently let too many people into the venue. The gig is being broadcast live and 
+a young teenager sees his boyfriend caught in the crush at the front of the stage. Six hours later his mother 
+tells him that his boyfriend has died. He becomes increasingly withdrawn and is unable to sleep.
+In all these cases, the nature of the harm suffered is not physical but mental or psychological. The distinction 
+between physical and purely psychiatric injuries is an important one.1 The courts have been far more 
+cautious in recognising claims in respect of psychiatric harms than they have in relation to physical injuries, 
+developing a restrictive body of rules severely limiting the circumstances in which victims may recover 
+compensation for their mental injuries. Whether this distinction can be justified as a matter of principle or 
+policy—and indeed whether there is in fact any clear and coherent distinction between physical and 
+psychiatric harms—is far from certain.
+5.2  What is psychiatric harm?
+Psychiatric harm is a form of personal injury. When the courts first started considering claims in respect of 
+psychiatric injuries, they focused on the way in which such harm tends to be caused: that is, by an ‘assault’ on 
+an individual’s mind or senses rather than a physical impact on the claimant’s body. This explains older 
+references to this area of law as relating to liability for ‘nervous shock’. Psychiatric harms were also grouped 
+together with certain physical harms caused by what one has witnessed. However, the distinct policy issues 
+raised by psychiatric injuries have seen the focus shift away from the way the harm is caused to the type of 
+harm suffered. As David Ibbetson notes:
+Before the middle of the twentieth century the courts took a restrictive attitude towards liability for 
+‘nervous shock’; the focus here was not on the type of injury but on the way in which it had been 
+caused. Gradually this twisted round until ‘nervous shock’ was identified with ‘post-traumatic stress 
+disorder’—a type of harm rather than a mode of causation of harm—from which it shifted yet 
+further into ‘psychiatric injury’.2
+↵
+Nowadays the courts maintain a clear distinction between physical and pure psychiatric harm, with 
+different rules applying to each. This is notwithstanding developing medical knowledge and increased 
+awareness of the serious and incapacitating nature of mental illnesses and the difficulties in categorising 
+injuries as either physical or psychiatric. Despite judges acknowledging that this distinction is largely unreal 
+and unsustainable,3 there remains a general reluctance to let go of the assumption that mental harm— 
+particularly when it is caused as a result of concern for another’s safety—should be treated differently to 
+physical harm.
+Initially psychiatric harm was recoverable only if accompanied by physical injury—hence, for example, a 
+number of the early cases involving the claimant suffering a miscarriage or premature birth following a 
+traumatic experience.4 However, it is now clear that claimants can recover for what is described as ‘pure’ 
+psychiatric injury (that is, where it is only injury caused) so long as the injury caused is a recognised 
+1
+2
+p. 103
+3
+4
+5. Special duty problems: Psychiatric harm
+Page 4 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+psychiatric illness. As Lord Steyn noted in White v Chief Constable of South Yorkshire Police [1998], ‘the law 
+cannot compensate for all emotional suffering even if it is acute and truly debilitating’ (at 491).5 It is not 
+possible to recover in the tort of negligence for ‘mere’ grief, anxiety or distress (Hicks v Chief Constable of 
+South Yorkshire Police [1992]; Brock v Northampton General Hospital NHS Trust [2014]).6 While some conditions 
+such as depression, schizophrenia, adjustment disorders, post-traumatic stress disorder (PTSD) and anxiety 
+neurosis are clearly recognisable as psychiatric illnesses, it can be difficult to distinguish ‘ordinary’ feelings of 
+anxiety or distress from an actionable harm and so it may be that the question is one of degree, rather than 
+type, of harm.7
+Pause for reflection
+Consider for a moment the facts of Hicks. The teenage claimants, Sarah and Victoria Hicks, were 
+crushed and suffocated to death in the Hillsborough Stadium disaster (discussed in section 5.6). The 
+House of Lords rejected a claim for psychiatric harm brought on their behalf (by their father, Trevor 
+Hicks) holding that the police’s negligence had only caused the Hicks sisters to suffer ‘distress’, which 
+was not recoverable. The evidence suggested that they had become unconscious within seconds and 
+died within five minutes. Do you agree with the House of Lords’ decision? At what point, if any, should 
+negligently inflicted ‘distress’ ground a claim for psychiatric injury? Why do you think Trevor Hicks 
+brought this claim? Think again about the purposes of tort law discussed in Chapter 1.
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-5-2>.
+5.3  The general exclusionary rule
+In the early 1990s, the courts developed a number of control mechanisms in order to restrict recovery for 
+negligently inflicted psychiatric harm. Opinions differ as to the extent to which these mechanisms are 
+problematic. While some see them as necessary in order to protect defendants from crushing liability, others 
+suggest that they represent a combination of invidious distinctions and convoluted, often contradictory rules 
+grounded in shallow and inadequate theoretical foundations.8 Why is it, for example, that a house owner was 
+able to recover in respect of psychiatric harm caused by witnessing a fire which extensively damaged her 
+home (Attia v British Gas [1988]) while a brother who saw his sibling being crushed to death was unable to 
+claim (Alcock v Chief Constable of South Yorkshire Police [1992])? Similarly, why was a mother who saw her 
+family in hospital a few hours after a tragic road accident (McLoughlin v O’Brian [1982]) able to recover but 
+not a father who watched his newborn son die over the course of five days as a result of medical negligence 
+(King v Royal United Hospitals Bath NHS Foundation Trust [2021] or a mother who encountered her daughter’s 
+body a few moments after her death which had been caused by a doctor’s negligent failure to diagnose and 
+5
+6
+7
+p. 104
+8
+5. Special duty problems: Psychiatric harm
+Page 5 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(1)
+(2)
+(3)
+(4)
+treat her severe pneumonia three days earlier (Paul and another v Wolverhampton NHS Trust; Polmear and 
+another v Royal Cornwall Hospitals NHS Trust; Purchase v Ahmed [2024])? And why allow recovery to a social 
+worker whose traumatic caseload caused them to have a nervous breakdown (Walker v Northumberland 
+County Council [1995]) but not to the traumatised police officers involved in the Hillsborough Stadium 
+disaster (White)?
+It may be, as Conaghan and Mansell suggest, that ‘all of these outcomes can be explained in terms of the web 
+of rules which have been spun round cases of psychiatric harm but that does not make them any more 
+defensible when placed side by side and considered in terms of justice and basic common sense’.9 Without 
+doubt, the application and the development of these control mechanisms has been somewhat haphazard. The 
+courts have largely acted without clear policy goals, with the result that their reasoning and, on occasions, 
+decisions have been motivated both towards and away from allowing recovery according to the—typically 
+tragic—circumstances of particular cases.
+Arguments for restricting compensation for pure psychiatric harm
+The key arguments for restricting compensation in relation to negligently inflicted psychiatric harm 
+were summarised by Lord Steyn in White.
+The difficulties of drawing a line between acute grief and psychiatric illness and the greater 
+diagnostic uncertainty in relation to psychiatric claims (and the related fear of sham claims 
+and doubts as to causation).
+The effect the increased availability of compensation might have on potential claimants, 
+particularly as a disincentive to rehabilitation.
+↵
+ The significant increase in the class of claimants who could recover and the alleged 
+danger of an over-proliferation of claims (the ‘floodgates’ argument).
+The potential unfairness to the defendant of imposing damages out of all proportion to the 
+negligent conduct (including the increased burden on insurers and, ultimately, all insurance 
+policy holders) (at 493–4).
+Counterpoint
+As long ago as 1998, the Law Commission in its Report on Liability for Psychiatric Illness10 concluded 
+that most of the arguments for restricting liability for negligently inflicted psychiatric harm do not 
+stand up to close scrutiny.11 Not least because many apply equally well to claims for physical injury. 
+Consider, for example, the momentarily careless car driver—the absence of proportionality between 
+culpability and consequences in this situation is as prominent and problematic whether a claim 
+following an accident is for physical or psychiatric injury (although, of course, it is important to note 
+9
+p. 105
+10
+11
+5. Special duty problems: Psychiatric harm
+Page 6 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+that, unlike psychiatric harm, physical injuries are likely to be limited to those in physical proximity 
+to the accident). Moreover, despite perhaps greater distrust (at least by some) in relation to 
+psychiatric illnesses, fraudulent or exaggerated claims are just as likely in relation to physical harm. 
+Although medically it can be determined that an injury has occurred, it often cannot establish to any 
+degree of certainty the extent or duration of the pain and suffering it has caused. A classic example is 
+a neck injury (whiplash) usually following a car accident. There is no way of ‘proving’ the pain the 
+claimant is in—the courts have to go on their word.12
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-5-3>.
+5.4  ‘Primary’ and ‘secondary’ victims
+Typically when discussing claims in respect of psychiatric harm a distinction is drawn between ‘primary’ and 
+‘secondary’ victims. Different rules apply to each. The distinction reflects different ways that psychiatric 
+injuries may be suffered. Very broadly, a claimant may suffer such injuries either as a result of fearing for 
+their own safety, i.e. that something does, or is about to, happen to them (e.g. being involved in a car accident) 
+or as a result of seeing or hearing about something that has happened to someone else (e.g. witnessing a car 
+crash involving other people). While the former will be considered a primary victim, the latter falls within the 
+category of secondary victim.13 The traditional distinction between primary and secondary victims can be 
+summarised in Table 5.1.
+Table 5.1 The traditional distinction between primary and secondary victims
+Primary victims
+Secondary victims
+Claimant must suffer a recognised psychiatric injury (McLoughlin)
+Claimant must suffer a recognised 
+psychiatric injury (McLoughlin)
+Physical injury must be foreseeable; however, psychiatric injury itself need 
+not be foreseeable. No need for injury to be reasonable foreseeable in 
+claimant of ‘ordinary fortitude’ (Page) unless claimant exposed to risk of 
+stress in the workplace (Barber) or the event has not occurred (Rothwell)
+Psychiatric injury must be foreseeable in a 
+person of ‘ordinary fortitude’ in the same 
+circumstances as the claimant
+Application of Page—is the claimant in the ‘zone of physical danger’?
+Note: unwitting agent ‘exception’—where primary victim is ‘a participant’ 
+who believes ‘has or is about to be involuntary cause of another’s 
+death’ (Dooley)
+Psychiatric injury must be caused by an 
+‘accident’ or external event (Paul)
+12
+13
+5. Special duty problems: Psychiatric harm
+Page 7 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Primary victims
+Secondary victims
+Application of Alcock control mechanisms: 
+close tie of love and affection, proximity to 
+the accident and means by which the 
+shock is caused
+No policy considerations to limit the number of claimants
+Policy used to limit the number of 
+claimants
+↵
+Though the language of primary and secondary victims is usually traced to Lord Oliver’s opinion in 
+Alcock, the factual distinction between those who suffer psychiatric injury as a result of being involved in an 
+accident and those who suffer psychiatric injury through witnessing an accident involving others can be 
+found in the earlier case of Bourhill v Young [1943], discussed in section 5.6. Alcock was one of a number of 
+cases arising out of the Hillsborough Stadium disaster.14 Faced with a tragedy involving multiple victims and 
+a huge number of potential claimants, Lord Oliver drew a distinction between cases in which the claimant is 
+‘involved, either mediately or immediately [that is, indirectly or directly], as a participant’—primary victims 
+—and those in which the claimant was ‘no more than the passive and unwilling witness of injury caused to 
+others’ (at 407). In relation to the latter group of claimants—secondary victims—the House of Lords went on 
+to articulate a number of limits on the availability of claims (detailing what constitutes a relationship of 
+sufficient proximity between the claimant and defendant—described by Henry LJ in the Court of Appeal as 
+the ‘nearness, hearness and dearness’ requirements (Frost v Chief Constable of South Yorkshire Police [1997] at 
+27815)).
+Since Alcock, the distinction between primary and secondary victims has been applied in differing ways. 
+While Lord Oliver in Alcock had clearly envisaged the primary victim category to encompass a fairly wide 
+class of claimants, including rescuers and unwitting agents, 
+↵
+Lord Lloyd in Page v Smith [1996] appeared 
+to restrict it to those within the range of foreseeable physical danger—an approach which was utilised to 
+strategic effect by the majority of the House of Lords in another Hillsborough-related case, White. More 
+recently, the Supreme Court in Paul put an end to what had been a gradual expansion of the secondary victim 
+category, by ruling out the vast majority of claims brought by secondary victims in the context of medical 
+negligence.
+At other times, the courts have allowed claims without considering whether the claimant is either a ‘primary’ 
+or ‘secondary’ victim (though the label is sometimes applied later). In Yearworth v North Bristol NHS Trust 
+[2009], for example, the Court of Appeal allowed the claims of claimants who had banked sperm with the 
+hospital prior to embarking on treatment for cancer and who had suffered psychiatric harm suffered as a 
+result of the defendant’s negligent destruction of their samples without considering whether they were 
+primary or secondary victims.16
+Similarly, there are a number of cases where a claimant has been able to recover (without establishing their 
+primary/secondary victim status) on the basis that the defendant has ‘assumed responsibility’ to ensure that 
+they avoid reasonably foreseeable psychiatric injury.17 These include Waters v Commissioner of Police for the 
+p. 106
+14
+15
+p. 107
+16
+17
+5. Special duty problems: Psychiatric harm
+Page 8 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Metropolis [2000] (employer and employee); Calvert v William Hill Credit Ltd [2008] (bookmaker and 
+gambler); AB v Leeds Teaching Hospital NHS Trust [2005] (doctor and patient); Swinney v Chief Constable of 
+Northumbria Police [1997] (police and police informant); and Butchart v Home Office [2006] (prison officer and 
+prisoners). In the latter case, the claimant (who the prison authorities knew to be in a depressed and suicidal 
+state) was housed with another suicidal prisoner, who subsequently went on to commit suicide. The claimant 
+woke up to find his cell mate had hanged himself. He suffered severe shock. He was later told that his cell 
+mate’s suicide was his fault. The Court of Appeal held that prison authorities owed the claimant a duty of care 
+to ensure the health and safety of prisoners and that this could extend to preventing or minimising the risk of 
+a vulnerable prisoner claimant suffering psychiatric harm as a result of being placed in a cell with a suicidal 
+prisoner.
+This category also includes occupational stress claims. As with the other assumption of responsibility cases, 
+these do not usually involve the apprehension of physical impact (or danger); rather their psychiatric injury 
+typically stems from unreasonable direct pressure or stress they feel as employees. An employer was first 
+found liable for their employee’s work-related stress in Walker v Northumberland County Council [1995], in 
+which Colman J held that ‘there was no logical reason why risk of psychiatric damage should be excluded 
+from the scope of an employer’s duty of care’ (at 710). The claimant, a social services manager with a heavy 
+and emotionally demanding caseload of child abuse cases, had suffered a second nervous breakdown as a 
+result of pressure at work (after his earlier breakdown, he had been promised additional support, which had 
+not materialised). Walker was confirmed by the House of Lords in Barber v Somerset County Council [2004]. 
+The claimant, a teacher who had not been appropriately supported on his return to work after 
+↵
+having 
+been signed off previously for stress and depression (caused by the level of work expected of him), suffered a 
+mental breakdown. Although they came to a different decision on the facts—allowing the claimant’s appeal 
+—the law lords approved the ‘practical propositions’ set out by Hale LJ (later Lady Hale) in the Court of Appeal 
+(where the case was reported as Hatton v Sutherland [2002]): the ‘threshold question’, in line with the 
+ordinary principles of employer’s liability, was whether the kind of harm to the particular employee was (or 
+ought to have been) reasonably foreseeable. Foreseeability depends on the interrelationship between the 
+individual characteristics of the relevant employee and the requirements made of them by their employer, 
+including (but not limited to) the nature and extent of the work being undertaken, signs of stress shown by 
+the employee themselves, the size and scope of the business and the availability of resources. And once the 
+threshold is crossed, it is immaterial whether a person of ordinary fortitude would have suffered the same 
+harm.
+Counterpoint
+The lack of precision as to the definition of a primary—or (less often) a secondary—victim is 
+problematic.18 As Lord Leggatt and Lady Rose note in Paul, ‘[p]recisely how the distinction is or 
+should be drawn, if at all, potentially raises difficult questions’ (at [51]). However, while we may 
+consider the distinction unsatisfactory, if we are to continue to distinguish between primary and 
+secondary victims (and, at least for the time being, this appears to be the case), it is important that we 
+define these terms with a measure of certainty. And we should be wary of extending them (and their 
+p. 108
+18
+5. Special duty problems: Psychiatric harm
+Page 9 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+accompanying rules) to cases they don’t fit and of using them to justify limitations on recovery that 
+are unnecessarily restrictive. After all, as Lord Phillips CJ noted in French v Chief Constable of Sussex 
+Police [2006], ‘there is no magic in this terminology’ (at [31]). With this in mind, while it is important 
+to understand the various uses of the ‘primary’ and ‘secondary’ victim classifications as different 
+rules apply to them, the terms are, at best, a means to the end of determining what the claimant needs 
+to establish in order to succeed in their claim.
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-5-4>.
+5.5  Primary victims
+It has long been established that a claimant is able to recover damages for psychiatric injury stemming from 
+actual physical injury or from a reasonable fear or apprehension of danger to their physical safety (Dulieu v 
+White [1901]).19 This was expanded in Page v Smith.
+Page v Smith [1996] AC 155 (HL)
+The claimant’s car was involved in a minor road traffic accident caused by the defendant’s negligence. 
+Although the claimant suffered no physical injury, the accident triggered the recurrence of a 
+condition which causes severe fatigue and which had been in remission at the time of the accident.20 
+The claimant argued that this had become chronic and permanent as a result of the accident.
+Although initially successful, the claimant lost in the Court of Appeal on the ground that his injury 
+was not reasonably foreseeable in a person of ordinary courage and fortitude. A bare majority of the 
+House of Lords allowed his appeal. In his leading opinion, Lord Lloyd held that where it is reasonably 
+foreseeable that the defendant’s negligence may cause physical harm to the claimant they can also 
+recover for the psychiatric harm they suffer, even where no physical injury actually occurred:
+19
+p. 109
+20 
+5. Special duty problems: Psychiatric harm
+Page 10 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Suppose, in the present case, the plaintiff had been accompanied by his wife, just recovering 
+from a depressive illness, and that she had suffered a cracked rib, followed by an onset of 
+psychiatric illness. Clearly, she would have recovered damages, including damages for her 
+illness, since it is conceded that the defendant owed the occupants of the car a duty not to 
+cause physical harm. Why should it be necessary to ask a different question, or apply a 
+different test, in the case of the plaintiff? Why should it make any difference that the 
+physical illness that the plaintiff undoubtedly suffered as a result of the accident operated 
+through the medium of the mind, or of the nervous system, without physical injury? If he 
+had suffered a heart attack, it cannot be doubted that he would have recovered damages for 
+pain and suffering, even though he suffered no broken bones. It would have been no answer 
+that he had a weak heart. (Lord Lloyd at 187)
+Adopting Tobriner J’s description in the US case Dillon v Legg (1968) of the claimant having been in 
+‘the zone of physical danger’ (at 80), Lord Lloyd held that Page was able to recover for the psychiatric 
+harm he suffered notwithstanding the fact that (a) he had suffered no physical harm and (b) the 
+psychiatric injury itself was not reasonably foreseeable. On this basis, as long as some form of 
+physical injury was foreseeable, it does not matter whether it was foreseeable that the claimant’s 
+particular psychiatric illness would have occurred in a person of ordinary moral courage and 
+fortitude.21 In cases where physical harm is reasonably foreseeable (i.e. where the claimant is in the 
+‘zone of physical danger’), physical and psychiatric harms are to be treated as equivalent, so that if the 
+former is foreseeable, the claimant can recover in respect of both physical and psychiatric harms, 
+even in cases where the latter is not foreseeable.
+↵
+The decision in Page has been highly criticised.22 Academic criticism has tended to focus on Lord 
+Lloyd’s restrictive definition of a primary victim as a party who is necessarily within the zone of physical 
+danger.23 Opinions differ over whether Lord Lloyd intended to limit the primary victim category to those 
+claimants who were in physical danger, and it remains unclear as to when a claimant who is not in peril will be 
+recognised as a primary victim.24 This was considered by the House of Lords in Rothwell v Chemical and 
+Insulating Co Ltd [2007].
+21
+p. 110
+22
+23
+24
+5. Special duty problems: Psychiatric harm
+Page 11 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Rothwell v Chemical & Insulating Co Ltd and another; Topping v 
+Benchtown Ltd (formerly Jones Bros Preston Ltd); Johnston v NEI In-
+ternational Combustion Ltd; Grieves v FT Everard & Sons Ltd and an-
+other [2007] UKHL 39 (HL)
+The claimants had been exposed to asbestos in the course of their employment and had developed 
+pleural plaques (areas of tissue that have become thickened in the lining of the lung). While the 
+pleural plaques themselves would not have developed into a more serious condition (if they had, the 
+claimant would have been able to recover), they were evidence that asbestos had entered the 
+claimants’ bodies and showed that the claimants, therefore, might in the future develop a more 
+serious asbestos-related disease. The claimants were physically healthy, but were claiming on the 
+basis that they were worried they may develop a serious condition in the future on the basis and that 
+since it was reasonably foreseeable that the defendant’s negligence put them at risk of physical injury 
+(of contracting asbestosis or mesothelioma) they were primary victims and hence should be owed a 
+duty of care in respect of their psychiatric illness on the basis of Page.
+The claims failed. Neither the pleural plaques themselves nor the claimants’ anxiety (or in one case 
+psychiatric illness) that they might become seriously ill was enough to ground their claims. Mere 
+anxiety about an increase of a risk of developing a disease in the future is not actionable in tort. ‘[T]he 
+category of primary victim,’ Lord Hope held, ‘should be confined to persons who suffer psychiatric 
+injury caused by fear or distress resulting from involvement in an accident caused by the defendant’s 
+negligence or its immediate aftermath’ (at [54]). Psychiatric injury suffered as a result of a fear that 
+something that might happen in the future fell within ‘an entirely different category’ (at [54]) and as 
+such was—and should continue to be—unrecoverable. Moreover, Lord Hoffmann continued,
+The general rule still requires one to decide whether it was reasonably foreseeable that the 
+event which actually happened (in this case, the creation of a risk of an asbestos-related 
+disease) would cause psychiatric illness to a person of reasonable fortitude. (at [30])
+Thus while it was expected that developing pleural plaques would cause a person of reasonable 
+fortitude some anxiety, a more serious or significant reaction (such as the development of a 
+recognised psychiatric illness as suffered by one of the claimants) was unforeseeable.
+5. Special duty problems: Psychiatric harm
+Page 12 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Pause for reflection
+The requirement in Rothwell that the claimant’s reaction needs to be reasonably foreseeable in a 
+person of reasonable fortitude appears to be at odds with the approach to foreseeability in Page. This 
+point was made by counsel for one of the claimants. In response, Lord Hoffmann, declining the 
+opportunity to depart completely from Page, sought to confine the reasoning in Page to cases where 
+the claimant’s psychiatric injury is the result of being in the vicinity of an event (accident) that has 
+actually occurred (at [32]). ‘It would,’ he argued, ‘be an unwarranted extension of the principle in Page 
+v Smith to apply it to psychiatric illness caused by apprehension of the possibility of an unfavourable 
+event which had not actually happened’ (at [33], emphasis added).
+On this basis, Rothwell and Page can be distinguished. Page applies where the event has actually taken 
+place, while the requirement that psychiatric harm be reasonably foreseeable in a person of ordinary 
+fortitude (as set out in Rothwell) is only necessary where the claimant’s psychiatric illness has been 
+caused by the apprehension, or increased risk, that an event may occur in the future.
+Quite why it was necessary to refine Page in this way is unclear. Lord Hope’s reference to Lord Steyn’s 
+opinion in White in which he cautions against judicial expansion in relation to recovery for 
+negligently inflicted psychiatric harm, and his own view that ‘the labels … identified in Page v Smith 
+should not be extended beyond what was in contemplation in that case’ (at [54]), may provide an 
+explanation. It is likely Lord Hope was mindful of the extent of liability should the claimant succeed.25
+But what about claimants who suffer psychiatric injury as a result of believing—rightly or wrongly—that 
+they have caused injury to another? This category of claimants are known as involuntary participants or 
+‘unwitting agents’. The key case here is Dooley v Cammell Laird & Co Ltd [1951], which predates—and has 
+survived—the leading case law in this area.
+Dooley v Cammell Laird & Co Ltd [1951] 1 Lloyd’s Rep 271 (Liverpool As­
+sizes)
+The claimant was operating a crane at the docks where he worked when, as a result of his employer’s 
+negligence, the sling connecting the load to the crane-hooks snapped causing the load to fall into the 
+hold of a ship where men were working.
+He successfully recovered from the psychiatric illness he suffered as a result of his fear that the falling 
+load would injure or kill some of his fellow workmen.
+p. 111
+25
+5. Special duty problems: Psychiatric harm
+Page 13 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+↵
+Though Lord Oliver held that Dooley had been correctly decided in Alcock, there was some doubt as to 
+whether it survived the reining in of the primary victim category in Page and the ‘thus far and no further’ 
+sentiment of Lord Steyn in White (after all, Dooley was never himself in the zone of physical danger).26 
+Nevertheless, a number of more recent cases factually analogous to Dooley have sidestepped the requirement 
+of physical imperilment, preferring the view of Lord Oliver in Alcock—where his status as a ‘primary victim’ 
+arose out of his role as a ‘participant’ in the accident—that he ‘had been put into the position of being or 
+believing that he is, has been, or is about to be the involuntary cause of another’s death or injury’ (at 408), 
+rather than as a result of being in physical danger. In Monk v PC Harrington Ltd [2008], for example, the 
+claimant was a foreman working on a construction site at Wembley Stadium. A temporary working platform 
+became dislodged (as a result of the defendant’s negligence) and fell 60 feet and hit two workmen below, 
+killing one and injuring the other. The foreman heard of the accident on a portable radio and went to help the 
+injured workmen. He subsequently developed significant psychiatric injury which prevented him from 
+working. The court held that though the primary victim category extended to ‘unwilling participants’, and 
+that this extended to those who reasonably felt that they had put another in danger, on the facts there was no 
+reasonable basis for the claimant’s belief that he was responsible for his co-worker’s death.27
+One final point on primary victims. Following Paul, the distinction between whether a claimant’s psychiatric 
+injury was caused by an ‘accident’ or ‘incident’ has become important in the context of claims by secondary 
+victims in clinical settings. However—at least for the time being—this is not the case in relation to primary 
+victims. And so where a mother sustains psychiatric injury due to negligence during the management of 
+labour and before the child is born, she is able to recover as a primary victim (see e.g. Wild v Southend 
+University Hospital NHS Foundation Trust [2014]; Wells and Smith v University Hospital Southampton NHS 
+Foundation Trust [2015]; RE (A minor by her mother and Litigation Friend LE) and others v Calderdale & 
+Huddersfield NHS Foundation Trust [2017]; and YAH v Medway NHS Trust [2018]).28
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-5-5>.
+5.6  Secondary victims
+A secondary victim suffers psychiatric injury as a result of witnessing someone else being harmed or 
+endangered.29 In such cases it doesn’t matter if the primary victim, that is the person the claimant thought 
+was in danger, is not killed or injured at all. The 
+↵
+claim of the secondary victim is not ‘parasitic’ upon a 
+claim by the primary victim.30 However, recovery in secondary victim cases is limited by a number of policy- 
+orientated control mechanisms. The first of these is that the psychiatric injury suffered must be reasonably 
+foreseeable in a person of ‘ordinary fortitude’ in the same circumstances.31 The notion of ordinary phlegm or 
+fortitude, derived from Bourhill v Young [1943], is invoked as a means of assessing the ‘validity’ of a 
+claimant’s emotional reactions in the face of trauma.
+p. 112
+26 
+27
+28
+29
+p. 113
+30
+31
+5. Special duty problems: Psychiatric harm
+Page 14 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Bourhill v Young [1943] AC 92 (HL)
+The claimant, who was eight months pregnant, witnessed a serious motorbike accident. Though she 
+did not see the accident itself, she heard it, and saw the motorcyclist’s blood on the pavement. She 
+later suffered serious psychiatric harm and her child was stillborn about a month after the accident. 
+The House of Lords rejected her claim on the grounds that her injuries were not foreseeable—she was 
+never in physical danger—and that, as a pregnant woman, she was particularly susceptible to shock.
+If, therefore, a secondary victim suffers psychiatric harm in circumstances where the ordinarily courageous 
+person would not, the defendant will not be liable even if a severe psychological reaction results. However, 
+once some psychiatric harm is foreseeable, the defendant will—on the basis of the ‘egg shell’ or ‘thin’ skull 
+rule—be liable in full, even if a particular vulnerability or susceptibility means that the claimant suffers much 
+greater psychiatric harm than might have been anticipated (Brice v Brown [1984]).
+Pause for reflection
+It has been argued that the notion of ‘ordinary phlegm or fortitude’ not only allows for the 
+incorporation of evaluative judgements (and possible gender bias) in the consideration of what is a 
+‘normal’ reaction to any given event but also perpetuates the false assumption that there is (or can be) 
+a reasonable response to a tragic event. Do you agree? Consider, again, the facts of Bourhill. To what 
+extent are the characteristics of the claimant significant here? What degree of fortitude is to be 
+expected of an ‘ordinary pregnant woman’? Or is a pregnant woman, by definition, not ‘ordinary’?
+5.6.1  The evolution of claims for psychiatric harm: McLoughlin, Alcock and 
+White
+The foundations for the modern approach to secondary victims were laid down in a trilogy of cases in the 
+1990s: McLoughlin v O’Brian, Alcock v Chief Constable of South Yorkshire Police [1992] and White v Chief 
+Constable of South Yorkshire Police [1999] (also known as Frost).
+McLoughlin v O’Brian [1982] 1 AC 410 (HL)
+The claimant suffered psychiatric harm after witnessing the ‘immediate aftermath’ of a serious car 
+accident, which killed her daughter and injured her husband and three other children. Arriving at the 
+hospital some two hours after the accident, she encountered circumstances that were ‘distressing in 
+p. 114
+5. Special duty problems: Psychiatric harm
+Page 15 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+the extreme and … capable of producing an effect going well beyond that of grief and sorrow’ (at 417). 
+Her husband and children, visibly upset and bruised, were still covered in grime and dirt from the 
+accident.
+The House of Lords allowed her claim on the basis that she had come upon ‘the immediate aftermath’ 
+of the accident. However, their lordships were not in full agreement as to why she should be able to 
+recover. In particular, there was tension as to whether the issue of recovery should be determined, as 
+Lord Bridge suggested, on the ordinary principles of reasonable foreseeability or, as Lord Wilberforce 
+argued, by reference to independent policy-based factors—including the (a) closeness of the 
+relationship between the claimant and the accident victim, (b) the proximity of the claimant to the 
+accident itself and (c) whether the shock was induced by what the claimant saw or experienced as 
+opposed to what she was told after the event (at 422–3).32
+Even at the time McLoughlin was viewed as a borderline case—on ‘the margin of what the process of logical 
+progression would allow’ (Lord Wilberforce at 419). Nevertheless, it encapsulated the judicial understanding 
+of the time; a time when judges were more generous to claimants in negligence than they are today. However, 
+darker clouds were building on the horizon, as the mood within tort law generally shifted towards a more 
+restrictive approach to the duty of care (the so-called ‘retreat from Anns’).33 Then the unthinkable 
+↵
+happened, a tragedy with multiple victims and a vast number of potential claimants and this mood was 
+cemented—the Hillsborough Stadium disaster.34
+The Hillsborough Stadium disaster
+‘The tragedy that claimed the lives of 96 Liverpool football fans shattered a community and shook the 
+world of football took a matter of minutes to unfold. In its simplest terms, Hillsborough was a case of 
+overcrowding in the central standing area allocated to Liverpool fans at the FA Cup semi-final match 
+against Nottingham Forest … The disaster began to unfold at approximately 2.30pm. With half an 
+hour before kick-off, most of the Nottingham Forest supporters were in their seats. Meanwhile the 
+area reserved for the Liverpool supporters—the Leppings Lane end of the stadium—was half empty. 
+But outside, it was a different story, with more than 2,000 Liverpool supporters building up against 
+the turnstiles to the Leppings Lane entrance. Some had arrived late from their journey across the 
+Pennines. Others had stayed outside to make the most of the sunshine. There were also those who had 
+come without tickets to the all-ticket match, hoping to buy them at the ground. But whatever the 
+reason for the late rush, anxiety among both fans and police was mounting as the minutes to kick-off 
+ticked by.
+32
+33
+p. 115
+34
+5. Special duty problems: Psychiatric harm
+Page 16 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+By 2.45pm the crowd had swelled to over 5,000, making entry to turnstiles virtually impossible. 
+Those who did get through were short of breath and sweating profusely from the crush. As the 
+minutes passed, it became increasing clear that, despite police efforts, the mass of people would never 
+get through by 3pm. There was also a more serious risk of some being dangerously hurt. Something 
+had to be done.
+Suddenly at 2.52pm, the large blue, concertina steel door—Gate C—in the perimeter wall was slid 
+open by a police officer. Those at its entrance tumbled through. Those at the back pushed harder still. 
+The logjam was unstuck. But things quickly got out of control. Where fans had been entering in ones 
+and twos through the turnstiles, there was now a wave of about 2,000 racing to see the start of the 
+game. The majority took the most obvious route: straight ahead through the tunnel of gangway 2. 
+They piled into the back of pens 3 and 4, which were already uncomfortably full, crushing those at the 
+front.
+At 2.54pm the teams came onto the pitch. Fans at the back of the pens pushed forward for a better 
+view, unaware that people were dying in the front. As the excitement of the game grew, there were 
+more surges, each causing a squeeze more perilous than the last. Finally, with fans spilling through a 
+narrow escape onto the pitch or being lifted to the seating areas above, a policeman realised what was 
+happening. At 3.06pm, six minutes into the game, he ordered the referee to stop the game. Only then 
+did the scale of the disaster become clear. Bodies were lifted forward and laid out on the pitch—many 
+teenagers and children. People screamed for their loved ones as ambulance staff fought to save lives. 
+Advertising hoardings were torn down as makeshift stretchers in a desperate attempt to bring faster 
+relief.
+↵
+By 4.50pm, the scheduled end of the game, the ground was empty. Abandoned clothing and 
+programmes littered the scene of the disaster. While nearby the bodies of the dead lay in the stadium’s 
+gymnasium.’
+(BBC News ‘Timetable to a tragedy’ 14 April 1999 referring to Taylor LJ’s vivid account in Interim 
+Report on the Hillsborough Stadium Disaster (Cm 765, 1989))
+You may find it interesting to watch the Guardian report ‘Hillsborough: anatomy of a disaster’ where 
+journalist David Conn brings together footage from the day to explore what happened on 15 April 
+1989 and why it has taken so long for victim-survivors and their families to get answers. It is 11 
+minutes long so if you don’t have time to watch it now, make a note and come back to it later.
+We understand that the images and discussion of events in the video might be upsetting and that it 
+can be hard to watch. It is not essential that you watch this film. If you need to, please do stop and take 
+a break and talk to someone if that would be helpful.
+p. 116
+5. Special duty problems: Psychiatric harm
+Page 17 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Ninety-seven people were crushed to death and over 400 people were injured at Hillsborough Stadium. At the 
+time, it was ‘one of the most televised, monitored and photographed disasters in the UK’.35 Many thousands 
+of people watched the tragedy unfold on live TV or listened to it on the radio, even more saw later news 
+reports and press coverage. The number of potential claims for psychiatric harm was immense. The court’s 
+response, in the second and third cases in the trilogy, was in the words of Lord Hoffmann, to abandon its 
+aspiration to ‘provide a comprehensive system of corrective justice … in favour of cautious 
+pragmatism’ (White at 502).
+Alcock v Chief Constable of South Yorkshire Police [1992] 1 AC 310 (HL)
+Alcock was a test case involving representatives of the friends and families of the victims of the 
+disaster at Hillsborough Stadium. The claimants included grandparents, friends, spouses, siblings and 
+fiancés of the victims who had either been at the ground when the incident occurred, or who had 
+arrived at the ground later or seen or heard about it on the TV or radio. As they had not been directly 
+involved in the disaster (in the sense of having been in physical danger), the claimants were not able 
+to recover as primary victims. Rather, they argued that their psychiatric injuries were caused by what 
+they saw happen to and/or feared had happened to their loved ones and that, as such, they were 
+secondary victims. The defendant, the Chief Constable of South Yorkshire Police, argued that he did 
+not owe a duty of care to those who had suffered psychiatric damage as a result of seeing or hearing 
+the news of what had happened.36
+↵
+Despite limited success at first instance, both the Court of Appeal and House of Lords rejected 
+the claims. The claimants were not ‘in contemplation of law, in a relationship of sufficient proximity 
+to or directness with the tortfeasor [the chief constable] so as to give rise to a duty of care’ (at 410). 
+Drawing on and developing the more restrictive approach of Lord Wilberforce in McLoughlin, Lord 
+Oliver set out guidelines—sometimes referred to as the Alcock control mechanisms—as to when 
+proximity will be established:
+35
+36
+p. 117
+5. Special duty problems: Psychiatric harm
+Page 18 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+first, that in each case there was a marital or parental relationship between the plaintiff and 
+the primary victim; secondly, that the injury for which damages were claimed arose from 
+the sudden and unexpected shock to the plaintiff’s nervous system; thirdly, that the plaintiff 
+in each case was either personally present at the scene of the accident or was in the more or 
+less immediate vicinity and witnessed the aftermath shortly afterwards; and, fourthly, that 
+the injury suffered arose from witnessing the death of, extreme danger to, or injury and 
+discomfort suffered by the primary victim. Lastly, in each case there was not only an 
+element of physical proximity to the event but a close temporal connection between the 
+event and the plaintiff’s perception of it combined with a close relationship of affection 
+between the plaintiff and the primary victim. It must, I think, be from these elements that 
+the essential requirement of proximity is to be deduced, to which has to be added the 
+reasonable foreseeability on the part of the defendant that in that combination of 
+circumstances there was a real risk of injury of the type sustained by the particular plaintiff 
+as a result of his or her concern for the primary victim. (at 411, emphasis added)
+Lord Oliver was not intending to set down rigid rules for recovery—he saw no logic or policy reason, 
+for example, for limiting claims to parents or those who were married or for precluding claims where 
+there was a sufficiently ‘close tie of affection’. However, even in Alcock they appeared to be treated as 
+such: two of the claimants (who had been present at the ground and watched the tragedy at 
+Hillsborough unfold), one of whom lost two brothers in the disaster and the other who lost his 
+brother-in-law, were unable to recover as they had not been able to demonstrate a sufficiently close 
+tie of love and affection.
+The claims of other family members who had not been at the ground but arrived around eight hours 
+later and who saw their family members’ bodies in the temporary mortuary that had been set up in 
+the stadium’s gymnasium, failed because they were deemed to have arrived too late to fall within the 
+scope of the ‘immediate aftermath’ of the disaster, while those who had watched the accident on 
+television and who (in line with editorial policy) had not been able to identify individual primary 
+victims were held not to be sufficiently close to the accident or its aftermath to be treated as being at 
+the stadium.
+The final case in the original trilogy was White v Chief Constable of South Yorkshire Police. This case was 
+brought by police officers who had been on duty at Hillsborough and who had suffered psychiatric injury 
+(mostly PTSD) as a result of their actions that day. Three were on duty at the ground itself, one had attempted 
+to free spectators, two had attended the makeshift morgue in the gymnasium and another two were among 
+those drafted in later that afternoon and who, with the others, witnessed the chaotic and gruesome scenes. A 
+final officer had worked as a liaison officer at a nearby hospital.
+↵
+Controversially, in the Court of Appeal, the claims of all but one of the police officers had been 
+successful on the basis that they were rescuers and/or employees. Many believed it was unfair to allow the 
+police (who in another capacity were the defendants in Alcock and White) to recover when the claims of 
+p. 118
+5. Special duty problems: Psychiatric harm
+Page 19 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+friends and family had been dismissed in Alcock.37 As Lord Steyn noted in White: ‘The claim of the police 
+officers on our sympathy, and the justice of the case, is great but not as great as that of others to whom the 
+law denies redress’ (at 498). By the time the police officers’ case reached the House of Lords, it was clear that 
+the law in this area was in a ‘genuine doctrinal muddle’.38 The Law Commission, just one year earlier, had 
+recommended limited statutory reform to remove the proximity and direct perception requirements of the 
+Alcock criteria.39 The common law position was so far beyond judicial repair that Lord Steyn concluded that:
+the only sensible general strategy for the courts is to say thus far and no further … to treat the 
+pragmatic categories as reflected in the authoritative decisions such as the Alcock case … and Page v 
+Smith as settled for the time being (White at 500).
+Any further development, the law lords concluded, was the responsibility of Parliament.
+White v Chief Constable of South Yorkshire Police [1998] 2 AC 455 (HL)
+The police officers argued that they were entitled to recover on the basis that they were either 
+rescuers or employees.
+A bare majority of the House of Lords rejected these arguments. Accepting the narrow definition of 
+primary victim given by Lord Lloyd in Page, Lord Steyn in the majority held that a rescuer could only 
+be considered a primary victim if he ‘objectively exposed himself to danger or reasonably believed he 
+was doing so’ (at 499). To extend the category of primary victims to include rescuers would be, in 
+Lord Steyn’s view, ‘unwarranted’ (at 500). As the police officers were never in (nor did they 
+reasonably believe themselves to be in) actual physical danger, they could not recover on this basis.
+Nor could they recover on the basis that the defendant owed them a duty of care because they were his 
+employees. Though employers clearly owed a duty of care to their employees in respect of physical 
+injuries, the majority held that it did not follow that there was also a duty in respect of psychiatric 
+harms suffered in the course of their employment.40 To allow the claimants to recover on the basis of 
+their employment with the defendant would lead to ‘striking 
+↵
+anomalies’: the police officers 
+would be given rights denied to others, including doctors and ambulance workers, who had assisted 
+the injured at Hillsborough out of a sense of moral, as opposed to legal, obligation (Lord Hoffmann at 
+506).
+As they were neither primary victims, nor to be treated as falling within a category outside this 
+categorisation, the claimants needed to satisfy the requirements for a claim by secondary victims as 
+set out in Alcock and summarised by Lord Hoffmann as follows:
+37
+38
+39
+40
+p. 119
+5. Special duty problems: Psychiatric harm
+Page 20 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(1) The plaintiff must have close ties of love and affection with the victim. Such ties may be 
+presumed in some cases (e.g. spouses, parent and child) but must otherwise be established 
+by evidence. (2) The plaintiff must have been present at the accident or its immediate 
+aftermath. (3) The psychiatric injury must have been caused by direct perception of the 
+accident or its immediate aftermath and not upon hearing about it from someone else. (at 
+502)
+And, as they could not do so, their claims failed.
+Without doubt, the law lords’ aim in White was one of damage limitation. One casualty of this approach was 
+the treatment of rescuers.
+Traditionally, the courts treated rescuers favourably: ‘Danger invites rescue. The cry of distress is the 
+summons of relief … the act, whether impulsive or deliberate, is the child of the occasion’ (Wagner v 
+International Railway Co [1921]). So, where a defendant endangered another by their carelessness, the courts 
+typically held that it is reasonably foreseeable that others may put themselves at risk by trying to save the 
+victim. As such, defendants have been held to owe a duty of care not just to those they initially endanger by 
+their actions, but also to those who intervene to rescue them (see e.g. Ogwo v Taylor [1988] and Baker v TE 
+Hopkins [1959]).41
+In Chadwick v British Railways Board [1967] this approach was extended to include rescuers who suffered 
+psychiatric harm as a result of their actions thereby allowing the widow of a window cleaner to recover for the 
+psychiatric harm suffered by her husband as a result of his particularly harrowing and gruesome experience 
+while giving help and relief to victims of a severe rail crash over the course of 12 hours.
+And yet, while Lord Oliver in Alcock clearly envisaged rescuers falling with the category of primary in line 
+with the ‘well-established’ principle that a defendant owes a duty of care to those ‘induced to go to the rescue’ 
+of those in peril as a result of their negligence (at 408), this long-standing inclination to protect rescuers was 
+jettisoned in favour of what Lord Hoffmann described as ‘a practical attempt, under adverse conditions, to 
+preserve the general perception of the law as a system of rules which is fair between one citizen and 
+another’ (White at 511).
+There does not seem to me to be any logical reason why the normal treatment of rescuers on the 
+issues of foreseeability and causation should lead to the conclusion that, for the purpose of liability 
+for psychiatric injury, they should be given special treatment as primary victims when they were not 
+within the range of foreseeable physical injury … such an extension would be 
+↵
+unacceptable to 
+the ordinary person … He would think it wrong that policemen, even as part of a general class of 
+persons who rendered assistance, should have the right to compensation for psychiatric injury out 
+of public funds while the bereaved relatives are sent away with nothing. (Lord Hoffmann in White at 
+510)
+41
+p. 120
+5. Special duty problems: Psychiatric harm
+Page 21 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+And so following White the court’s reasoning in Chadwick has been reframed and its decision justified 
+(Chadwick has not been overruled) on the basis that Mr Chadwick was within the zone of physical danger— 
+and as such a primary victim (even though he did not realise this himself and this was not part of the original 
+court’s reasoning)—when he sought to extract the victims from the wreckage of the train. It is clear. 
+however, that today a rescuer is only able to recover if they are (or at least reasonably believed themselves to 
+be) in foreseeable risk of physical injury—that is, if they meet the primary victim requirements set out in 
+Page—or if they meet the secondary victim requirements set out in Alcock.
+Counterpoint
+Lord Goff (who would have allowed the police officers’ claims on the basis that they were rescuers), in 
+his dissenting opinion in White, rejects this reinterpretation of Chadwick and criticises the 
+introduction of further ‘control mechanisms’ (akin to the highly criticised Alcock restrictions) 
+through the creation of ‘unacceptable’ and ‘unjust’ distinctions, which distinguish claimants 
+according to their physical location (at 487). He argues that the majority’s approach in making 
+foreseeability of physical injury a necessary condition of liability for psychiatric harm (at 479) was not 
+only inappropriately restrictive but also in opposition to Lord Lloyd’s expansive strategy in Page and 
+Lord Oliver’s categorisation of rescuers as primary victims in Alcock. The imposition of a requirement 
+of fear of physical injury in such cases is, he argues, both capricious and misplaced. Drawing on 
+Chadwick, and responding to the majority’s attempt to distinguish it, he poses the following analogy:
+Suppose that there was a terrible train crash and that there were two Chadwick brothers 
+living nearby, both of them small and agile window cleaners distinguished by their courage 
+and humanity. Mr A Chadwick worked on the front half of the train, and Mr B Chadwick on 
+the rear half. It so happened that, although there was some physical danger present in the 
+front half of the train, there was none in the rear. Both worked for 12 hours or so bringing aid 
+and comfort to the victims. Both suffered PTSD in consequence of the general horror of the 
+situation. On the new control mechanism now proposed, Mr A would recover but Mr B would 
+not. To make things worse, the same conclusion must follow even if Mr A was unaware of 
+the existence of the physical danger present in his half of the train. This is surely 
+unacceptable. (at 487–8)42
+Which view do you find most persuasive?
+42
+5. Special duty problems: Psychiatric harm
+Page 22 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(1)
+(2)
+(3)
+5.6.2  Application of the Alcock criteria
+Described by Tomlinson LJ as ‘both arbitrary and pragmatic’ in Liverpool Women’s NHS Foundation Trust v 
+Ronayne [2015] (at [11]), it is, nonetheless, worth looking at the so-called Alcock ‘control mechanisms’ in a 
+little more detail—noting again that in all instances it is necessary for the claimant to establish first that they 
+are suffering from a medically recognised psychiatric illness. In order to be a secondary victim, the claimant 
+must establish:
+a close tie of love and affection with the person killed, injured or imperilled (i.e. the primary victim);
+that they were present at the accident or its immediate aftermath; and
+that their psychiatric injury was caused by a direct perception of the accident or its immediate 
+aftermath and not upon hearing about it from someone else.
+Pause for reflection
+Over the years, the so-called Alcock criteria have been the subject of trenchant criticism. Indeed 
+Jonathan Morgan has suggested that ‘no area of English tort law has been more fiercely criticised’.43 
+Almost immediately, it was suggested that this area of law was one in which the ‘silliest rules 
+prevail’.44 The Law Commission’s Report on Liability for Recovery for Psychiatric Illness, published in 
+between the House of Lords’ decisions in Alcock and White, stated that the Alcock criteria had ‘been 
+almost universally criticized as arbitrary and unfair’—going on to recommend the statutory removal 
+of all of them but the requirement of a close tie of love and affection.45 Even in Alcock itself, as Lord 
+Briggs has noted:
+some of their lordships expressed disquiet about where the courts had thus far set the 
+boundaries for … liability [for pure psychiatric harm], and a view that any further 
+development of this area of liability should be undertaken by the legislature.46
+This was repeated again in White where Lord Steyn was of the view that:
+the only sensible general strategy for the courts is to say thus far and no further. The only 
+prudent course is to treat the pragmatic categories as reflected in authoritative decisions 
+such as Alcock and Page v Smith as settled for the time being but by and large to leave any 
+expansion or development in this corner of the law to Parliament. (at 500)
+↵
+But is the criticism of Alcock fair? Certainly, there have been times where the criteria have 
+appeared unduly restrictive. Alcock is a case in point of where claims have been denied that might be 
+thought should have succeeded. Take Jane Stapleton’s criticism of the ‘love and affection’ 
+requirement, for example:
+p. 121
+43 
+44
+45
+46
+p. 122
+5. Special duty problems: Psychiatric harm
+Page 23 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+That … claims can turn on the requirement of ‘close ties and affection’ is guaranteed to 
+produce outrage. Is it not a disreputable sight to see brothers of Hillsborough victims turned 
+away because they had no more than brotherly love towards the victim? In future cases will it 
+not be a grotesque sight to see relatives scrabbling to prove their especial love for the 
+deceased in order to win money damages and for the defendant to have to attack that 
+argument?47
+However, Donal Nolan offers a different view. He suggests the Alcock control mechanisms have been 
+used in a way that was unintended by the House of Lords. He argues that the law lords did not seek to 
+lay down rigid rules precisely because, in Lord Jauncey’s words, ‘to draw such a line would necessarily 
+be arbitrary and lacking in logic’ (Alcock at 422). Thus, as well as being a landmark case in tort, Alcock 
+is, in his view, also a ‘misunderstood decision’ with the result that:
+a case that is often painted as retrograde and reactionary was in fact rather conservative, and 
+even in some respects mildly progressive, not least when one takes into account the 
+circumstances in which it was decided.48
+Nolan has a point. Over three decades later, perhaps it is time judges stopped blaming Alcock and took 
+responsibility for the limitations of their own decisions. Certainly this was the view of Lord Burrows 
+in his dissenting judgment in Paul:
+There is no need to give up on the incremental development of the common law in this area. 
+Moreover, the incremental development of the law is one that has been explicitly entrusted 
+by the Government to the courts in this area: … Lord Steyn’s approach in Frost [White] of 
+‘thus far and no further’ is no longer justified if it ever was. (at [203]–[204])
+As we shall see, Lord Burrows couldn’t persuade his colleagues, but what do you think?
+5.6.2.1  A close tie of love and affection
+As Lord Oliver made clear in Alcock, it is not the case that siblings and other relatives—or even friends—can 
+never be secondary victims. Rather, it is simply that they must bring evidence to prove such ties existed. And 
+similarly, while a close tie of love and affection will be presumed in the case of spouses, parents and children, 
+this can be rebutted if the defendant can show that such closeness did not exist. But proving a close tie of love 
+and affection between friends and more distant family members on a case-by-case basis may be easier said 
+than done.
+↵
+In Robertson v Forth Road Bridge Joint Board [1996], for example, the claimant suffered psychiatric harm 
+after his colleague died while trying to remove a sheet of metal from the Forth Road Bridge in windy 
+conditions. His claim was denied despite evidence showing that they had spent the greater part of their 
+47
+48
+p. 123
+5. Special duty problems: Psychiatric harm
+Page 24 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+employment working together, and that they had often walked to and from work together and had gone out 
+socially during the week. Though clearly their relationship went beyond that of work colleagues, the court 
+held that it was not enough to demonstrate the necessary close tie of love and affection. And while in Alcock 
+Lord Ackner, at least, was not prepared to rule out the possibility of a ‘mere bystander’ being able to recover if 
+the circumstances were ‘particularly horrific’, it is difficult to imagine quite what would be more horrific than 
+the events at the Hillsborough Stadium.49 This was considered in McFarlane v EE Caledonia Ltd [1994]. The 
+claimant developed PTSD after witnessing the Piper Alpha oil rig disaster from a boat which was engaged in 
+trying to fight the fire which had engulfed the rig. He argued that, as the fire was especially horrific, the oil- 
+rig owners (who had admitted responsibility for the disaster) owed him a duty of care as a bystander to the 
+incident. The Court of Appeal rejected his claim on the basis that he was neither a primary50 nor secondary 
+victim (he did not have a sufficiently close tie of love and affection with those on the rig).
+What if the claimant has a close tie of love and affection with the primary victim but is unaware that they are 
+in danger? This was the case in Young v Downey [2020] where the claimant, who was 4½ years old at the time, 
+sought to recover damages for the psychiatric injury suffered following her father’s death in the Hyde Park 
+bombing in 1982.51 She had watched her father leaving the barracks and had heard the bomb blast. She had 
+later seen other severely injured soldiers returning to the barracks. In her evidence, she stated: ‘I remember 
+telling my Mum afterwards “Daddy should be coming now” but he never did’. Rejecting her claim for 
+psychiatric harm, Spencer J held, contrary to the evidence of the psychiatric expert,52 that her comment 
+‘Daddy should be coming now’ suggested that she had ‘no appreciation that her father had been involved’ in 
+the bombing (at [29]). He continued:
+the need for the claimant to have a close tie of love and affection with the person killed, injured or 
+imperilled incorporates an appreciation that the loved one is or may have been the one, or one of 
+those, killed injured or imperilled … Thus the identification of the loved one as the primary victim is 
+an important, indeed in my judgment, an essential element. ([30]–[31], emphasis added)53
+5.6.2.2  Presence at the accident or its immediate aftermath
+In relation to the second requirement of ‘proximity’—closeness to the accident in time and space—Lord 
+Oliver summed up the general position thus:
+The necessary element of proximity between plaintiff and defendant is furnished, at least in part, by 
+both physical and temporal propinquity and also by the sudden and direct visual impression on the 
+plaintiff’s mind of actually witnessing the event or its immediate aftermath. (at 416)
+But how far does the immediate aftermath extend? Certainly at times the case law has seemed to point in 
+different directions. Mrs McLoughlin’s arrival at the hospital two hours after the accident was within the 
+‘immediate aftermath’.54 Attempts by the claimants in Alcock to extend this failed. The several family 
+members travelled to the ground after the disaster, the first arriving at the scene around eight or nine hours 
+later. While Lord Ackner thought this might be part of the aftermath of the event, it was not part of its 
+immediate aftermath (at 405). Nor, in Lord Jauncey’s (much criticised) view, was the purpose of their visit 
+49
+50
+51
+52
+53
+p. 124
+54
+5. Special duty problems: Psychiatric harm
+Page 25 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(which was, sadly, to identify their loved ones’ bodies) comparable to that of a loved one arriving at the 
+immediate scene to provide solace and comfort (at 424). Robert Alcock’s search of the Hillsborough ground 
+and arrival at the temporary mortuary in the stadium’s gymnasium around midnight (about eight hours after 
+the match was abandoned) where he identified his brother-in-law’s body which was blue with bruising, his 
+chest red, was not therefore sufficient to establish the necessary proximity to the accident—the blood on his 
+brother-in-law’s body being memorably described by Jane Stapleton as ‘too dry’ to allow recovery.55
+While there were some signs of extending the immediate aftermath of an accident in Galli-Atkinson v Seghal 
+[2003], where the courts held it to include various component parts including a mother’s visit to the scene of 
+the accident and later seeing her daughter’s body at the hospital morgue, on the whole courts have adopted a 
+strict approach to determining the ‘immediate aftermath’ of an accident.56 The Supreme Court in Paul 
+confirmed that ‘immediate aftermath’ should be understood within the confines of McLoughlin and that the 
+approach in Galli-Atkinson should not be followed (at [122]):
+a reasonably clear line can be drawn if heed is paid to the observations of Lord Wilberforce that 
+allowing the claim in McLoughlin (a) was ‘upon the margin of what the process of logical 
+progression would allow’ … and (b) depended critically on the evidence that, when the claimant 
+came upon the members of her family, ‘they were in the same condition [as they had been at the 
+roadside], covered with oil and mud, and distraught with pain’. (Lord Leggatt and Lady Rose at 
+[108])
+↵
+In Taylor v A Novo (UK) Ltd [2013] the claimant sought to avoid the limitations of the proximity 
+requirement by arguing that there were, in fact, two events—the latter of which was the ‘operative’ or 
+‘qualifying’ event.
+Taylor v A Novo (UK) Ltd [2013]
+The claimant developed PTSD as a result of witnessing her mother’s sudden death three weeks after 
+she had been negligently injured at work. In bringing her claim against her mother’s employers, the 
+claimant sought to establish proximity by arguing that there were, in fact, two ‘events’—the accident 
+(at which the claimant had not been present) and her mother’s subsequent collapse at home and 
+death (which she had witnessed)—and that the cause of her injuries was the latter. This analysis was 
+rejected by the Court of Appeal.
+55
+56
+p. 125
+5. Special duty problems: Psychiatric harm
+Page 26 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+In reality there was a single accident or event … which had two consequences. The first was 
+the injuries to [the mother’s] head and arm; and the second (three weeks later) was her 
+death … if [the claimant] had been in physical proximity to her mother at the time of the 
+accident and had suffered shock and psychiatric illness as a result of seeing the accident and 
+the injuries sustained by her mother, she would have qualified as a secondary victim on 
+established principles. But in my view, to allow [her] to recover as a secondary victim on the 
+facts of the present case would be to go too far … if … right, [she] would have been able to 
+recover damages for psychiatric illness even if her mother’s death had occurred months, and 
+possibly years, after the accident (subject, of course, to proving causation). This suggests 
+that the concept of proximity to a secondary victim cannot reasonably be stretched this far. 
+(Lord Dyson at [29]–[30])
+Lord Leggatt and Lady Rose in Paul put it somewhat more bluntly:
+The reason why the claim in Novo failed was that, although there was an external, traumatic, event 
+(ie ‘an accident’) which immediately caused injury to Mrs Taylor, the claimant did not witness that 
+event and the event which she did witness and which caused her psychiatric illness was not an 
+accident. (at [90])57
+5.6.2.3  Direct perception of the accident or its immediate aftermath
+The House of Lords in Alcock was clear that there would be no liability to a secondary victim who is merely 
+told about the shocking event by a third party—for example, through newspaper coverage or television 
+broadcasts:
+Although the television pictures certainly gave rise to feelings of the deepest anxiety and distress, in 
+the circumstances of this case the simultaneous television broadcasts of what occurred cannot be 
+equated with the ‘sight or hearing of the event or its immediate aftermath.’ Accordingly shocks 
+sustained by reason of these broadcasts cannot found a claim. (Lord Ackner at 405)
+However, once again, the law lords in Alcock did not rule out recovery for anyone watching TV images of a 
+shocking and distressing event in principle. Lord Ackner left open the possibility that watching a live 
+broadcast could exceptionally ground a claim if it is clear that the victims had died—referring to Nolan LJ’s 
+example in the Court of Appeal of a hot-air balloon carrying a number of children exploding live on 
+television. (at 405)
+57
+p. 126
+5. Special duty problems: Psychiatric harm
+Page 27 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Pause for reflection
+While this might be the most straightforward of the three Alcock control mechanisms, it may also be 
+that the reasoning underpinning it has been superseded by changes in technology. Were Nolan LJ’s 
+exploding hot-air balloon example to happen today, it is very likely that the Broadcasting Codes of 
+ethics and practices would prevent the broadcasting of the distressing and shocking image. It is, 
+however, just as likely that unedited and distressing images of the event would quickly find their way 
+onto online and social media platforms. Here the potential for indeterminate liability seems greater 
+than ever. It is not clear that Lord Ackner’s reasoning as to the lack of equivalence between these 
+images and actually being at the event would hold.
+Of course, this does not mean that only the original tortfeasor should be liable (if at all). The uploaded 
+images might be treated as a novus actus interveniens, extending an argument made in Alcock,58 thus 
+breaking the chain of causation and limiting the defendant’s liability. But should anyone else be 
+liable? What about the website host or social media platforms? This public interest in the 
+dissemination of information might well be taken to preclude liability for the negligent 
+communication of distressing news. However, while we may well feel that there should be media 
+freedom to convey important information to the public, even if some find it shocking, and that we 
+should not allow people to recover simply on the basis that they have been upset by what they have 
+seen or heard, it is not clear that this should automatically or necessarily extend to those who 
+facilitate the sensationalisation or misrepresentation of such information, particularly where it 
+causes viewers distress amounting to psychiatric injury. Where would you draw the line?
+5.6.3  The impact of Paul v Wolverhampton NHS Trust; Polmear and another v 
+Royal Cornwall Hospitals NHS Trust; Purchase v Ahmed
+Most of the cases discussed so far in this chapter have involved some kind of accident—an external, 
+unexpected and unintended event, a road or rail crash, for example, or an accident at a building site or 
+workplace or large-scale disasters such as the Hillsborough Stadium disaster. However, alongside these 
+another line of case law has been developing that seeks to establish whether the same Alcock conditions 
+might be applied to cases of psychiatric harm caused in a clinical or medical context. And so, in 2024, the 
+trilogy of leading cases in this area was joined by Paul and another v Wolverhampton NHS Trust; Polmear and 
+another v Royal Cornwall Hospitals NHS Trust; Purchase v Ahmed.
+Before learning more about Paul, you might like to watch our video ‘Reorientating the patchwork 
+quilt: over to you, Lord Burrows <https://iws.oupsupport.com/video/access/content/horsey9e-student-  
+resources/horsey9e-video-5-reorientating-the-patchwork-quilt-over-to-you-lord-burrows>’, recorded 
+58
+p. 127
+5. Special duty problems: Psychiatric harm
+Page 28 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+before the Supreme Court handed down its decision in January 2024, where we explore the legacy of 
+the Hillsborough Stadium disaster on the ability of secondary victims to recover for psychiatric harm 
+and the glimmer of hope that was offered by Paul.
+Paul is the latest in a line of—largely unsuccessful—case law, spanning a 22-year period, arising out of 
+claims by family members seeking to recover for psychiatric injuries caused by witnessing the traumatic 
+death or treatment (or immediate aftermath thereof) of a loved one as a result of the defendant’s negligent 
+medical treatment and/or misdiagnosis. Over the years, the vast majority of claims have failed; however, one 
+exception was North Glamorgan NHS Trust v Walters [2002].59 In this case, a mother was able to recover as a 
+secondary victim for the psychiatric harm she suffered as a result of the negligent treatment leading to the 
+death of her baby son. The court held that the necessary shocking event was not confined to a single moment 
+in time and, taking a realistic approach to the facts, the 36-hour period prior to her son’s death could be 
+classed as a single horrifying event. Referring to Lord Wilberforce’s opinion in McLoughlin, Ward LJ 
+continued:
+One looks to the totality of the circumstances which bring the claimant into proximity in both time 
+and space to the accident. It seems to me, therefore, to be implicit in [Lord Wilberforce’s] judgment 
+read as a whole that when he said … ‘the shock must come through the sight or hearing of the 
+“event” or its “immediate aftermath”’ he was not intending to confine ‘the event’ to a frozen 
+moment in time. (at [27])
+Nevertheless, over the following two decades, similar claims were denied either on the basis that the claimant 
+had not encountered the ‘immediate aftermath’ (Taylor v Somerset Health Authority [1993]), because there was 
+no ‘sudden shock’ (Sion v Hampstead Health Authority [1994]) and on the basis that the claimants were not 
+able to identify a single horrifying event (Shorter v Surrey & Sussex Healthcare NHS Trust [2015]; Liverpool 
+Women’s Hospital NHS Foundation v Ronayne [2015]).
+Walters was beginning to look increasingly out of line and in Paul the Supreme Court held that it had been 
+wrongly decided and should not be followed60 (at [121]).
+Paul and another v Wolverhampton NHS Trust; Polmear and another v 
+Royal Cornwall Hospitals NHS Trust; Purchase v Ahmed [2024] UKSC 1 
+(SC)
+Three cases were heard together. In each case, the claimants had suffered psychiatric injury after 
+witnessing, or coming upon the immediate aftermath of, the sudden and unexpected death of a parent 
+or child. In each case, the death had been caused by negligent (or lack of) treatment by a medical 
+professional which had occurred variously over a year, six months or just three days previously. In all 
+59
+60
+p. 128
+5. Special duty problems: Psychiatric harm
+Page 29 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+cases, but for the negligence, each of the primary victims would have survived. The question for the 
+court was whether an individual can claim for psychiatric injury caused by witnessing the death or 
+other horrifying event of a close relative as a result of earlier clinical negligence.
+In Paul, the claimants’ father died suddenly of a heart attack while the family were out shopping.
+His daughters saw him fall backwards and hit his head on the pavement. They tried to call 
+their mother on their mobile phones and to call an ambulance, which was eventually called 
+by a passer-by. When their mother arrived, the daughters were taken to a nearby church. 
+They heard their mother screaming their father’s name. They came out and saw an 
+ambulance crew put a foil blanket over their father and paramedics performing chest 
+compressions on him. Mr Paul was taken by ambulance to hospital but was declared dead on 
+arrival. (at [9])
+In Polmear, the claimants’ 7-year-old daughter, Esmee, died of pulmonary veno-occlusive disease (a 
+rare condition that causes high blood pressure in the lungs). Her father had met Esmee after she had 
+felt unwell on a school trip.
+[Her father] left her at the door of the school but shortly afterwards was called back and 
+found her lying on the floor with a member of staff administering first aid. He took over and 
+tried to give Esmee mouth-to-mouth resuscitation. She was not breathing. Esmee’s mother 
+ran to the school and saw her lying on the floor with members of staff attempting 
+resuscitation which she could see was not working … Both parents went with Esmee in an 
+ambulance to hospital where she was declared dead. (at [13])
+In Purchase, the claimant’s daughter, Evelyn, died at home of severe pneumonia. The claimant arrived 
+home to find her daughter ‘lying motionless on her bed with the house telephone in her hand, staring 
+at the ceiling and not moving’. She later realised that:
+she had a missed call and a voice message from Evelyn on her mobile phone. The voice 
+message was the sound of Evelyn’s dying breaths which continued for four minutes and 37 
+seconds. The call was timed at 4.40 am and ended approximately five minutes before [she] 
+got home and saw Evelyn. (at [17])
+All the claims had failed in the Court of Appeal on the basis that, in the words of Vos MR:
+Novo is binding authority for the proposition that no claim can be brought in respect of 
+psychiatric injury caused by a separate horrific event removed in time from the original 
+negligence, accident or a first horrific event … even where a horrific event is the first 
+occasion on which any damage is caused to the primary victim’. (at [96]–[97])
+5. Special duty problems: Psychiatric harm
+Page 30 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+↵
+However, Vos MR continued:
+If I were starting with a clean sheet, I can quite see why secondary victims in these cases [i.e. 
+involving clinical negligence] ought to be seen to be sufficiently proximate to the defendants 
+to be allowed to recover damages for their psychiatric injury. Since, however, this court is 
+bound by Novo, it is for the Supreme Court to decide whether to depart from the law as stated 
+by Lord Dyson in that case. (at [12])
+The Supreme Court disagreed. Dismissing the appeals by a majority of 6:1, Lord Leggatt and Lady Rose 
+concluded:
+We are not able to accept that the responsibilities of a medical practitioner, and the purposes 
+for which care is provided, extend to protecting members of the patient’s close family from 
+exposure to the traumatic experience of witnessing the death or manifestation of disease or 
+injury in their relative. To impose such a responsibility on hospitals and doctors would go 
+beyond what, in the current state of our society, is reasonably regarded as the nature and 
+scope of their role … the persons whom doctors ought reasonably to have in contemplation 
+when directing their minds to the care of a patient do not include members of the patient’s 
+close family who might be psychologically affected by witnessing the effects of a disease 
+which the doctor ought to have diagnosed and treated. Hence there does not exist the 
+proximity in the relationship between the parties necessary to give rise to a duty of care. (at 
+[138], [142])
+‘No analogy could reasonably be drawn,’ they continued:
+between the situation with which McLoughlin, Alcock and Frost [White] were concerned 
+where illness is caused by witnessing an accident (or its immediate aftermath) involving a 
+victim with whom the claimant has a close tie of love and affection and situations where the 
+claimant does not witness an accident but suffers illness as a result of witnessing such a 
+person suffering a medical crisis. (at [115])
+Refusing to overrule Novo, Lord Leggatt and Lady Rose argued that:
+p. 129
+5. Special duty problems: Psychiatric harm
+Page 31 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+to extend the scope of allowable claims by secondary victims to situations where the 
+claimant witnesses the death or illness of a relative from disease would give rise to 
+unacceptable and unfair differences in treatment between different categories of claimant. It 
+would be impossible to explain to an ordinary reasonable person why, for example, damages 
+can be recovered by a daughter who sees her parent die from a heart attack or pulmonary 
+embolism which should have been avoided, but compensation is denied to, say, a mother 
+who did not witness a road accident in which her child was fatally injured or its ‘immediate 
+aftermath’ but identifies the mutilated body afterwards in the mortuary or is present at the 
+hospital when her child dies many days later from injuries sustained in the accident. Such 
+unjust differences in outcome could, of course, be avoided by removing the second and third 
+requirements for claims by secondary victims established by the House of Lords in Alcock 
+and confirmed in Frost. But it would not, in our view, be right to contemplate such a radical 
+departure from settled law. (at [115]–[116])
+Lord Burrows dissented. He would have allowed recovery in each of the cases before the court. Doing 
+so, he argued, was justified on two grounds. Either there was nothing in the earlier case 
+↵
+law 
+requiring the claimant’s psychiatric injury to be caused by an ‘accident’ (in the sense of something 
+external and violent happening to the primary victim) or—even if there was—then allowing the 
+appeals would be justified as a legitimate incremental extension of the common law (at [198]–[204]). 
+As it is, he continued:
+Although by insisting on an accident one might be said to be applying the same legal 
+principles to medical negligence as to other areas of negligence causing psychiatric illness to 
+secondary victims (for example, negligent driving), adoption of that approach … would in 
+practice result in a blocking off of medical negligence as an area where, subject to rare 
+exceptions, there can be no liability for psychiatric illness suffered by secondary victims. To 
+block off this area of negligence is not an attractive approach where the Government has 
+explicitly entrusted flexible development of the law to the courts. (at [207]–[208])
+Without doubt, Paul is the most significant case on psychiatric injury since Alcock. It was heard by a panel of 
+seven judges. This unusually large panel was convened as it was initially thought that the Justices might be 
+asked to depart from their decisions in McLoughlin, Alcock and White (at [50]). This was not the case. Rather, 
+the decision in Paul reaffirms the primacy of the Alcock criteria in cases involving secondary victims and 
+provides important clarifications where the majority felt the law had taken a ‘wrong turn’ (at [78]).
+p. 130
+5. Special duty problems: Psychiatric harm
+Page 32 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+5.6.3.1  Need for an accident + Alcock criteria
+The starting point for the majority’s reasoning was that allowing recovery for secondary victims in certain 
+limited circumstances is an exception to the general common law position, statutory interventions aside, 
+denying recovery to a claimant for the death or personal injury caused by the defendant to someone else (at 
+[2]).61 Lord Leggatt and Lady Rose frame the issue as being about whether:
+this exceptional category of case includes—or can and should be extended to include—cases where 
+the claimant’s injury is caused by witnessing the death or injury of a close relative, not in an 
+accident, but from a medical condition which the defendant has negligently failed to diagnose. (at 
+[5])
+In other words, what principally required justification was not, in the majority’s view, the limits that have 
+been placed on the ability of secondary victims to recover, but rather the fact that they can recover at all. For 
+this, no positive justification was advanced. Lord Leggatt and Lady Rose instead relied on the view of Lord 
+Oliver in Alcock that ‘the existence of this exception as “now too well established to be called in question”’ (at 
+[140]). But framing it in this way allowed Lord Leggatt and Lady Rose to accept the ‘rough and ready logic’ 
+provided by the approach in Alcock:
+in limiting recovery by secondary victims to individuals who were present at the scene, witnessed 
+the accident and have a close tie of love and affection with the primary victim. These 
+↵
+limitations are justified, not by any theory that illness induced by direct perception is more 
+inherently worthy of compensation than illness induced by other means; but rather by the need to 
+restrict the class of eligible claimants to those who are most closely and directly connected to the 
+accident which the defendant has negligently caused and to apply restrictions which are reasonably 
+straightforward, certain and comprehensible to the ordinary person. (at [141])
+Lord Leggatt and Lady Rose go on to draw a vital distinction between cases involving ‘accidents’ where 
+relatives or loved ones of the primary victim go on to develop psychiatric harm versus other occasions, for 
+example a medical ‘incident’, ‘condition’ or ‘crisis’, where people develop psychiatric harm as a result of a 
+tragedy befalling their loved one as a result of somebody else’s negligence. This distinction between an 
+‘accident’—that is, ‘an unexpected and unintended event which caused injury (or the risk of injury) to a 
+victim by violent external means’ (at [24])—and a ‘medical crisis’ is central to their reasoning (at [53]).62 
+While recovery by secondary victims is possible in relation to the former, it is not in relation to the latter— 
+for, as noted earlier, ‘no analogy can be drawn’ between the two (at [115]):
+We have not been asked on these appeals to alter or abrogate the limits on the recovery of damages 
+by secondary victims in accident cases established by the decision of the House of Lords in Alcock. 
+Instead, this court is asked to recognise as analogous a category of cases in which illness is sustained 
+by a secondary victim as a result of witnessing a death or manifestation of injury which is not caused 
+by an external, traumatic event in the nature of an accident but is the result of a pre-existing injury 
+or disease. For the reasons given, we do not consider that such cases are analogous. (at [142])
+61
+p. 131
+62 
+5. Special duty problems: Psychiatric harm
+Page 33 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Lord Leggatt and Lady Rose give three reasons to justify this distinction. First, ‘an accident is, by definition, a 
+discrete event in the ordinary sense of that word, meaning something which happens at a particular time, at a 
+particular place, in a particular way’, allowing for there to be a level of certainty (at [108]). Secondly, and more 
+controversially, witnessing an accident is ‘likely to be a disturbing and upsetting event’ (at [109]) in contrast 
+to witnessing the injury or illness of a close family member, which while it may be ‘traumatic is also entirely 
+variable’ (at [113]):
+It is easy to appreciate the psychological trauma caused to a mother who sees her child run down by 
+a car or to a husband who comes upon the badly injured body of his wife immediately after an 
+accident. Most people would, we think, accept that, if a line is going to be drawn between cases 
+where illness consequent on bereavement is compensable and cases where it is not, distinguishing 
+between claimants who suffered the ordeal of actually witnessing the accident in which a close 
+relative was killed and those who did not is an intelligible place to draw it. (at [109])
+Finally (appearing to ignore the application of ‘zone of danger’ test established by Page) they drew attention 
+to the difficulty in distinguishing between primary and secondary victims in accident cases—that is whether 
+the psychiatric injury was caused by the claimant’s fear for their own safety or that of others (at [110]).
+↵
+So where does this leave us? To be clear, following Paul it is still potentially possible for a duty to arise to 
+a secondary victim in a medical context, but only if they witness a medical ‘accident’ as opposed to a medical 
+‘crisis’ (if this is the case then the usual Alcock principles apply). This is where future argument and cases will 
+come. Lord Leggatt and Lady Rose left open the possibility of whether it would ever be possible to recover as a 
+secondary victim in a medical setting—for example, if a family member witnessed an acute adverse reaction 
+after a doctor injected a patient with the wrong dose or drug (at [123]). As noted by James Lee, nor do Lord 
+Leggatt and Lady Rose address whether surgery might be characterised as ‘an external traumatic event’ or 
+whether the door has been left open for secondary victim claims for psychiatric injuries caused by witnessing 
+negligence during a particularly distressing labour and birth (referring to Tredget v Bexley Health Authority 
+[1994]—the status of which was left undecided by the majority).63
+5.6.3.2  No need for a ‘sudden shock’ or ‘horrifying event’
+One way in which the courts had sought to limit secondary victim claims brought in a medical context was by 
+emphasising the requirement that the psychiatric harm suffered by the secondary victim must be sustained 
+as a result of what Lord Ackner in Alcock described as ‘sudden appreciation by sight or sound of a horrifying 
+event, which violently agitates the mind’ (at 401). This ruled out cases where the injury was caused, for 
+example, by watching the gradual deterioration of a loved one in hospital—such as in Sion where a father 
+developed a psychiatric illness as a result of sitting by his son’s hospital bedside for 14 days before his death 
+which was caused by the doctors’ negligent failure to diagnose substantial and continuing bleeding in his 
+son’s kidney following a motorbike accident. It also prevented recovery in cases where there was no single 
+horrifying event, such as in Shorter in which the claimant’s sister died from a subarachnoid haemorrhage 
+which had been negligently diagnosed. Rejecting the claim, the court ruled that there had been no ‘seamless 
+single horrifying event’ but rather a series of events relating to her sister’s condition none of which would be 
+p. 132
+63
+5. Special duty problems: Psychiatric harm
+Page 34 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+seen as particularly ‘horrifying’ or sudden or unexpected by a person of ordinary fortitude. Similarly, in 
+Ronayne, for example, the claimant was unable to recover for psychiatric injuries sustained as a result of 
+watching his wife’s rapid deterioration over the course of 36 hours after undergoing a hysterectomy at the 
+defendant’s hospital and in particular seeing her connected to various machines, including drips and 
+monitors, and her appearance which he later described as resembling the ‘Michelin Man’.64 (It was common 
+ground that this was as a result of the defendant’s negligence.) Rejecting his claim, Tomlinson LJ was of the 
+view that:
+What is required in order to found liability is something which is exceptional in nature … There is I 
+think a danger of the ‘Michelin Man’ epithet acquiring a significance greater than it 
+↵
+deserves … 
+I can readily accept that the appearance of Mrs Ronayne on this occasion must have been both 
+alarming and distressing to the claimant, but it was not in context exceptional and it was not I think 
+horrifying in the sense in which that word has been used in the authorities. Certainly however it did 
+not lead to a sudden violent agitation of the mind, because the claimant was prepared to witness a 
+person in a desperate condition and was moreover already extremely angry. (at [41])
+Lord Leggatt and Lady Rose make it clear in Paul that:
+[i]n engrafting onto those requirements additional requirements of needing to prove that the 
+claimant’s injury was caused by the mechanism of a ‘sudden shock to the nervous system’ and was a 
+sufficiently ‘horrifying event’, the law has in our opinion taken an unfortunate wrong turn. (at [78])
+There is no need therefore for the event to be sudden or particularly horrifying—not least because there is ‘no 
+available Richter scale of horror’ (at [76]). On this basis, Sion, Shorter and Ronayne had been correctly decided 
+but for incorrect reasons. The claims should have failed simply on the basis that the claimant did not witness 
+the accident (or its aftermath) caused by the defendant’s negligence (at [122]).
+Nor need the event be close in time to the negligent act or omission. While typically in accidents the 
+defendant’s negligence and accident happen at more or less the same time, there is no reason, the majority 
+also confirmed, why a gap in time—whether short or long—between the negligence and the accident should 
+affect the defendant’s liability.
+Sir Geoffrey Vos MR [in Novo] postulated a case of a negligent architect who designs a door in a 
+load-bearing wall without specifying an RSJ, causing masonry to fall on a primary victim’s head 
+years later (paras 79–80). These facts are similar to those of the actual case of Clay v AJ Crump & Sons 
+Ltd [1964] 1 QB 533, where an architect who was responsible for the safety of a building site 
+negligently left a wall standing when a building was demolished. The architect was held liable to 
+compensate a person working on the site who was injured when over two months later the wall 
+collapsed. … we see no reason why, in a case of this kind, the gap in time between the negligence and 
+the accident should prevent a claim by a secondary victim when it does not prevent a claim by a 
+primary victim. If, for example, a mother who was present and saw masonry fall on her child’s head 
+suffered psychiatric injury, her ability to make a claim cannot rationally depend on the length of 
+time between the negligence and the accident. (at [94])
+64
+p. 133
+5. Special duty problems: Psychiatric harm
+Page 35 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+5.6.3.3  Parliament, the NHS and Lord Burrows’ dissent
+Without doubt, the decision in Paul came as a surprise to many. It has been described by Jonathan Morgan as 
+‘a leading case that never was’.65 Others have criticised inconsistencies in the majority’s reasoning66 and 
+drawn attention to the real-life impact of the decision:
+The court reasoned it would go far beyond the scope of the responsibility assumed if doctors had to 
+protect patients’ friends and relations against the patient’s upsetting illness. Witnessing a relative’s 
+death was not ‘an insult to health from which we expect doctors to take care to protect us but a 
+vicissitude of life which is part of the human condition’ (at [139]). Yet must watching one’s child or 
+father die as a result of medical negligence be shrugged off as mere ‘vicissitude’?67
+↵
+Certainly, as Lord Briggs has noted, it is likely that the Court of Appeal and many others were hoping for 
+something more ‘along Lord Burrows’ reasoning’. But what did Lord Burrows say?
+Unsurprisingly given his role at the Law Commission, Lord Burrows was much more critical of the current 
+state of the law than the majority had been. He starts his judgment with the recognition that:
+[i]n the context of secondary victims—who can be regarded, generally speaking, as those who suffer 
+psychiatric illness as a result of another’s death or injury or imperilment—the tort of negligence 
+draws distinctions that are difficult to defend.
+He continues:
+It is arguable that the only truly principled solution, which would avoid any arbitrary line drawing, 
+would be to impose a duty of care where, in general terms, it was reasonably foreseeable that 
+psychiatric illness would be caused to the secondary victim (as a person of reasonable fortitude). But 
+policy concerns, in particular the fear of opening the floodgates of litigation, mean that adoption of 
+that principled solution would constitute a radical and giant leap forward for the common law. For 
+that reason, at the present stage of development, that solution is not a realistic option open to the 
+courts. (at [144])
+What is open to the courts, in Lord Burrows’ view, is a ‘justified incremental step … that has been explicitly 
+entrusted by the Government to the courts in this area’ (at [202], [204]). He goes on to set out how he would 
+have allowed the claims to proceed on the basis that ‘foreseeability and the control or proximity [to what he 
+considers to be the relevant event—that is the death of their loved one] factors are all satisfied’ (at [244]). 
+Rejecting Lord Dyson’s reasoning in Novo (which he would have overruled), Lord Burrows suggests that in 
+each case (and cases like them) it is the death of the primary victim that is the relevant event, ‘not least 
+because it was witnessing the death or its immediate aftermath that caused the psychiatric illness to the 
+secondary victims’:
+65
+66
+67
+p. 134
+5. Special duty problems: Psychiatric harm
+Page 36 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+it was reasonably foreseeable (treating the secondary victims as having reasonable fortitude) that 
+they would suffer psychiatric illness as a consequence of the death. It then follows that there should 
+be liability in these three cases because it is not in dispute that, once one treats the event as the 
+death, all the established proximity or control factors [set out in Alcock] are satisfied. (at [199])
+On this view, the application of the Alcock criteria in the context of medical negligence is a justifiable and 
+warranted extension of the common law. In contrast, the approach taken by the majority, and the insistence 
+that there needs to be an accident, is ‘an unwarranted backward step:
+Turning the clock back in this way would require, as Lord Leggatt and Lady Rose acknowledge … the 
+overruling of Walters and a departure from the reasoning in almost all of the reported medical 
+negligence cases in this area. Indeed, … they have left open for another day whether there can be 
+liability even where there has been a medical accident (ie medical negligence comprising or causing 
+an event external to the primary victim …). In future, and subject to possible rare exceptions, the 
+approach of Lord Leggatt and Lady Rose will mean that recovery for negligently caused psychiatric 
+illness by secondary victims will be closed off in medical negligence cases. (at [250])
+↵
+However, while Lord Burrows’ reasoning has found favour with clinical negligence lawyers, without 
+doubt had he been able to persuade his fellow Justices the outcome would have been very different for the 
+NHS. In 2023/24, the NHS paid out more than £58,147 million in damages to claimants.68 Without doubt, 
+there are difficult choices to be made as to the allocation of such resources. Lord Burrows may be of the view 
+that any increase in the burden on legal liability on the NHS ‘is not the type of socio-economic policy 
+argument that the courts are well-equipped to assess’ and ‘cannot outweigh the reasons of principle and legal 
+policy’ (at [249]). NHS Resolution (the part of the NHS which took Paul to the Supreme Court and resolves 
+disputes including following negligence claims) is likely to have breathed a sigh of relief.69
+Pause for reflection
+So where does this leave us?
+The law relating to recovery by secondary victims for psychiatric harm has been criticised for well 
+over 25 years now. As long ago as McLoughlin, Lord Wilberforce suggested that any substantive 
+change ought only to be made by the legislature. However, in 2009 Parliament made it clear that it 
+was not going to pick up the baton offered to it by both the Law Commission and the law lords in 
+White.70 As things stand, and as Lord Burrows noted in Paul, ‘there is no realistic prospect of 
+legislation’ (at [146]). The issue has been thrown back to the courts to develop—or, as we have seen, 
+not to do so. Instead, after decades of critique the Alcock principles have been rehabilitated (with the 
+addition of a novel gloss in medical negligence cases).
+p. 135
+68
+69
+70
+5. Special duty problems: Psychiatric harm
+Page 37 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+1
+2
+3
+This is disappointing. As Lord Briggs has noted, it has taken us over a century to get this far. ‘A man 
+from Mars,’ he continues, ‘would say this was a very slow and haphazard way of carrying out law 
+reform.’71 We would agree. Do you?
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-5-6>.
+5.7  Conclusion
+In this chapter we have considered the law in relation to recovery for negligently inflicted psychiatric injury 
+in the absence of physical injury. The law in this area has been shaped by prejudice and tragedy. Assumptions 
+that suffering psychiatric harm is less than suffering physical injury and fears of exaggerated and/or 
+fraudulent claims as well as a number of high-profile, negligently caused, disasters have led to the 
+introduction of ‘control mechanisms’ limiting recovery. Central to this is the distinction between claimants 
+deemed ‘primary’ victims, ‘secondary’ victims and, more recently, those who fit neither category. Despite 
+recent clarification offered by the Supreme Court in Paul, Lord Steyn’s conclusion in White that ‘the law on 
+the recovery of compensation for pure psychiatric harm is a patchwork quilt of distinctions which are 
+difficult to justify’ (at 500) remains apposite.
+End-of-chapter questions
+After reading the chapter carefully, try answering the questions which follow.
+Why does the law distinguish psychiatric from physical injury? To what extent, if at all, is this distinction 
+justifiable?
+What is the distinction between primary and secondary victims and does it produce defensible consequences?
+Does the law relating to psychiatric damage apply coherent principles?
+If you would like to know what we think, check the answer guidance <https://iws.oupsupport.com/ebook/  
+access/content/horsey9e-student-resources/horsey9e-chapter-5-answers-to-end-of-chapter-questions? 
+options=showName>.
+71
+p. 136
+5. Special duty problems: Psychiatric harm
+Page 38 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+→
+→
+→
+→
+→
+Answering the problem question
+Consider again the problem question at the start of this chapter. Now having read about the topic, what 
+would be your advice to the various parties?
+Here are some pointers to get you started:
+Don’t jump straight to the most obvious classification. Though Hua is most likely to be a secondary victim, 
+could she be a primary victim? You should explore what she’d need to establish for this to be the case.
+Will Lex be able to satisfy the proximity in time and space element of Alcock? Has he arrived during the 
+‘immediate aftermath’ of the explosion?
+It is clear that Kaz is an ‘involuntary participant’, but could he also be a primary victim? What would he 
+need to establish for this to be the case?
+If you need some more guidance:
+See the annotated version of the problem with issues and cases to consider <https://  
+iws.oupsupport.com/embed/access/content/horsey9e-student-resources/horsey9e-chapter-5-annotated- 
+problem-question-interactive>.
+Check your answer against the suggested outline answer <https://iws.oupsupport.com/embed/access/  
+content/horsey9e-student-resources/horsey9e-chapter-5-answers-to-problem-question>.
+Further reading
+Numerous articles and case notes have been written on the issues surrounding psychiatric damage. The best place to 
+start is Donal Nolan’s excellent chapter on Alcock or Jonathan Morgan’s chapter on ‘Psychiatric Illness, Emotional 
+Harm and “Shock”’ in his Great Debates in Tort book. James Lee’s Inner Temple lecture is also well worth watching.
+Bailey, Stephen and Donal Nolan ‘The Page v Smith Saga: A Tale of Inauspicious Origins and Unintended 
+Consequences’ [2010] Cambridge Law Journal 495
+Briggs, Lord ‘Liability for Mental Injury’ Chichester University Lecture, 19 January 2024.
+Case, Paula ‘Now You See It, Now You Don’t: Black Letter Reflections on the Legacies of White v Chief Constable of 
+South Yorkshire Police’ (2010) 18 Tort Law Review 33
+Chamallas, Martha and Linda Kerber ‘Women, Mothers, and the Law of Fright: A History’ (1990) 88 Michigan Law 
+Review 814
+↵
+Lee, James ‘Incidents and Accidents—The Supreme Court on Psychiatric Harm’ Inner Temple Lecture, 6 March 2024: 
+www.youtube.com/watch?v=4t_W3LCWzHM <http://www.youtube.com/watch?v=4t_W3LCWzHM>
+p. 137
+5. Special duty problems: Psychiatric harm
+Page 39 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Morgan, Jonathan Great Debates in Tort Law (Hart 2022) ch 9
+Morgan, Jonathan ‘Principles, Accidents and Exceptions: Psychiatric Injury in Tort’ [2024] Cambridge Law Journal 214
+Mulheron, Rachael ‘The “Primary Victim” in Psychiatric Illness Claims: Reworking the “Patchwork Quilt”’ (2008) 19 
+Kings Law Journal 81
+Nolan, Donal ‘Alcock v Chief Constable of South Yorkshire Police (1991)’ in Charles Mitchell and Paul Mitchell (eds) 
+Landmark Cases in the Law of Tort (Hart 2010) 273
+Teff, Harvey Causing Psychiatric and Emotional Harm: Reshaping the Boundaries of Legal Liability (Hart 2008)
+Additional suggestions for further reading can be found in this chapter’s web links <https://iws.oupsupport.com/  
+ebook/access/content/horsey9e-student-resources/horsey9e-chapter-5-web-links?options=showName>.
+Notes
+ 
+1. The focus of this chapter is on claims for negligently caused ‘pure’ psychiatric injuries, where the only injury suffered 
+by the claimant is psychiatric. Where the claimant suffers psychiatric harm as a result of physical injuries negligently 
+inflicted by the defendant, recovery is straightforward (Corr v IBC Vehicles Ltd [2008]).
+ 
+2. David Ibbetson A Historical Introduction to the Law of Obligations (OUP 1999) 195.
+ 
+3. See e.g. Kennedy J in Dulieu v White & Sons [1901] at 677 and the comment of Lord Lloyd in Page v Smith [1996]: ‘In 
+an age when medical knowledge is expanding fast, and psychiatric knowledge with it, it would not be sensible to 
+commit the law to a distinction between physical and psychiatric injury, which may already seem somewhat artificial, 
+and may soon be altogether outmoded’ (at 188).
+ 
+4. See e.g. Dulieu v White & Sons [1901]; Hambrook v Stokes Bros [1925]; Bourhill v Young [1943].
+ 
+5. This was confirmed by the House of Lords in Rothwell v Chemical and Insulating Co Ltd and Johnston v NEI 
+International Combustion Ltd [2007] discussed further in section 5.5.
+ 
+6. Though a claimant may have a claim under one of the intentional torts, e.g. assault or libel or under the tort in 
+Wilkinson v Downton [1897] discussed in Chapter 15.
+ 
+7. It is crucial then that the elderly woman trapped in a lift (referred to in the examples at the start of this chapter) is 
+able to show that her insomnia and claustrophobia are (or are symptoms of) a recognised psychiatric illness (cf Reilly v 
+Merseyside RHA [1995] where the claimants, an elderly couple, were unable to claim for the fear and claustrophobia 
+suffered whilst trapped in a hospital lift for an hour and 20 minutes).
+ 
+8. Imogen Goold and Catherine Kelly ‘Who’s Afraid of Imaginary Claims? Common Misunderstandings of the Origin of 
+the Action for Pure Psychiatric Injury in Negligence 1888–1943’ (2022) 138 Law Quarterly Review 58–78; Joanne 
+Conaghan and Wade Mansell The Wrongs of Tort (2nd edn Pluto Press 1999) 36; Jonathan Morgan, Great Debates in 
+Tort Law (Hart 2022) ch 9.
+ 
+9. Conaghan and Mansell ibid.
+ 
+10. Law Commission Report on Liability for Psychiatric Illness (Law Com No 249, 1998).
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+5. Special duty problems: Psychiatric harm
+Page 40 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+11. See also Lord Leggatt and Lady Rose, Paul at [47]–[48].
+ 
+12. Indeed, for many years whiplash claims were big business, with compensation for severe whiplash reaching over 
+£44,000. The government legislated in 2018 to limit such claims. The Civil Liability Act 2018, which came into force in 
+May 2021, introduces (among other things) tariffs reducing the level of compensation for whiplash injuries.
+ 
+13. Though secondary victim cases may arise even where there is no primary victim—e.g. they may suffer psychiatric 
+harm as a result of seeing the destruction of their own property (see e.g. Attia v British Gas [1988] where the claimant 
+was able to recover for the psychiatric harm caused by the destruction of her house caused by the defendant’s 
+negligence while installing central heating).
+ 
+14. Including Hicks v Chief Constable of South Yorkshire Police [1992], White and Airedale NHS Trust v Bland [1993].
+ 
+15. As White was known in the Court of Appeal. These requirements are set out in full in section 5.5.
+ 
+16. Yearworth was not discussed in Paul, and so it remains to be seen whether its reasoning will survive the ‘accident’ 
+and ‘incident/crisis’ distinction drawn by the court. See discussion in section 5.6.3.
+ 
+17. The case law here is explored in detail by Rachael Mulheron ‘The “Primary Victim” in Psychiatric Illness Claims: 
+Reworking the “Patchwork Quilt”’ (2008) 19 Kings Law Journal 81, 99–106.
+ 
+18. See e.g. Mulheron ibid and Paula Case ‘Now You See It, Now You Don’t: Black Letter Reflections on the Legacies of 
+White v Chief Constable of South Yorkshire Police’ (2010) 18 Tort Law Review 33.
+ 
+19. In this case, the court refused to follow the earlier case of Victorian Railways Commissioners v Coultas [1888] in 
+which the Privy Council denied the claimant’s claim for psychiatric injury on the basis that her injuries were not 
+reasonably foreseeable and therefore too remote. Their lordships were also concerned that allowing the claim would 
+open the floodgates to speculative or ‘imaginary’ claims (at 226).
+ 
+20. The claimant’s condition was variously described as myalgic encephalomyelitis (ME), or chronic fatigue syndrome 
+(CFS) or post viral fatigue syndrome (PVFS), which had manifested itself from time to time with different degrees of 
+severity.
+ 
+21. This extension of the ‘thin’ or ‘egg shell’ skull rule (discussed in more detail in section 9.3.1.1), whereby, so long as 
+the relevant kind of harm is foreseeable, it does not matter that its precise form or extent is not, puts the primary 
+victim at a considerable advantage over secondary victims. Unlike secondary victims, primary victims can ‘recover 
+damages for negligently inflicted pure psychiatric illness, even if it was sustained because he lacked the fortitude or 
+“natural phlegm” of an ordinary person’ (Mulheron n17 106 arguing for the reintroduction of a rule of normal fortitude 
+in all cases of psychiatric harm).
+ 
+22. See e.g. Stephen Bailey and Donal Nolan’s conclusion to their detailed exploration of Page in which they 
+(somewhat optimistically) remark ‘[f]ortunately, the long-term prospects for Page’s survival look slim’, and 
+accompanying references (‘The Page v Smith Saga: A Tale of Inauspicious Origins and Unintended 
+Consequences’ [2010] Cambridge Law Journal 495, 527–8); Lord Goff’s dissenting opinion in White (at 468–81) and 
+Peter Handford ‘A New Chapter in the Foresight Saga’ (1996) 4 Tort Law Review 5.
+ 
+23. Though insofar as it removes the requirement that the psychiatric harm be foreseeable, the treatment of primary 
+victims in Page is extremely generous.
+ 
+24. On the changing definitions of a primary victim in Page [1996], White [1998], W v Essex County Council [2001] and 
+Rothwell [2007], see Mulheron (n17 84–6).
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+5. Special duty problems: Psychiatric harm
+Page 41 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+25. In February 2010, the government introduced an extra-statutory scheme, which made payments of £5,000 to 
+individuals who had started but not resolved a claim for compensation before the decision in Rothwell. The payment 
+broadly reflected the level of compensation likely to have been received if pleural plaques had continued to be 
+compensatable (‘Pleural plaques’ Jack Straw statement, Ministry of Justice, 25 February 2010).
+ 
+26. Discussed in section 5.6.
+ 
+27. His claim as a rescuer was denied on the basis that he was not physically endangered or reasonably in fear for his 
+own safety (see section 5.6).
+ 
+28. cf Tredget v Bexley Health Authority [1994]. This raises an important gender dimension recognised by Philippa 
+Whipple (now Whipple LJ), counsel for the defendant in Wild v Southend University Hospital NHS Foundation Trust 
+[2014], whereby fathers are unable to recover in circumstances where mothers are able recover on virtually the same 
+set of facts. In this case, the claimant was the father of a foetus who died in utero as a result of the defendant’s 
+negligence and was later delivered stillborn. He suffered psychiatric harm as a result of being present when the death 
+of the foetus was discovered and during the birth. His claim was rejected on the basis that his witnessing of the 
+consequences of the defendant’s negligence did not equate to witnessing a horrific ‘event’. While Paul removes the 
+requirement of a ‘horrific event’, it remains to be seen whether a traumatic birth will be considered a medical 
+‘accident’ (see discussion in section 5.6.3.1).
+ 
+29. The first ‘secondary victim’ case was Hambrook v Stokes Bros [1925] in which the Court of Appeal refused to follow 
+the bar against recovery in such cases set down by the Divisional Court in Dulieu v White.
+ 
+30. Lord Briggs ‘Liability for Mental Injury’ Chichester University Lecture, 19 January 2024.
+ 
+31. As noted in section 5.5, typically a primary victim does not need to show that their reaction corresponds with that 
+of a person of ordinary fortitude (Page) though following Barber v Somerset County Council [2004] it seems that this 
+exception does not apply to employees who suffer psychiatric harm due to stress at work (unless the employer knows 
+of a particular problem or vulnerability on the part of the claimant) (see also Arshad v Wokingham District Council 
+[2022]) or, following Rothwell, to those who suffer an ‘unforeseeable’ reaction caused by the apprehension of an 
+illness. See further Mulheron n17 106–9.
+ 
+32. It may be that there is greater overlap between the two approaches than this suggests. Lord Bridge made it clear 
+that the three factors set down by Lord Wilberforce would be taken into account when determining whether on the 
+facts the shock was reasonably foreseeable (Donal Nolan ‘Alcock v Chief Constable of South Yorkshire Police (1991)’ in 
+Charles Mitchell and Paul Mitchell (eds) Landmark Cases in the Law of Tort (Hart 2010) 273, 282). However, as Paula 
+Case notes, the differing approaches of Lords Bridge and Wilberforce are ‘broadly representative of an “assimilation 
+approach” which uses ordinary negligence principles to determine duty of care (articulated by Lord Bridge) … [and 
+an] “isolation approach” [(articulated by Lord Wilberforce)] which views psychiatric damage as distinct from other 
+harms and needing to be insulated from ordinary negligence principles’. She continues: ‘Though the latter approach 
+won the day in Alcock, more recently case law suggests a movement toward a gradual assimilation of psychiatric harm 
+into mainstream negligence principles in order to determine whether a duty care exists’ (n18 34–5). Whether this shift 
+survives Paul remains to be seen.
+ 
+33. See further sections 3.2 and 7.4.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+5. Special duty problems: Psychiatric harm
+Page 42 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+34. In fact, the Hillsborough Stadium disaster was one of a number of man-made disasters during the UK’s ‘disaster 
+era’ (1985–9), which included the Bradford football stadium fire in 1985 (40 fatalities), the sinking of the Herald of Free 
+Enterprise car ferry (187) and the King’s Cross Underground station fire in 1987 (31), the Piper Alpha oil rig fire in 1988 
+(167) and, in 1989, the East Midlands Kegworth plane crash (47) and the sinking of the Marchioness pleasure boat (51). 
+Nolan suggests that the fact that there were so many man-made disasters in the years preceding Alcock—he lists ten 
+events, totalling 979 fatalities, each giving rise to litigation (including for psychiatric injury)—combined with the 
+‘topicality of trauma-induced psychiatric injury … can only have reinforced long-standing judicial concerns about the 
+opening of floodgates in nervous shock litigation’ (n22 292).
+ 
+35. Phil Scraton ‘Justice: Hillsborough’s Final Victim’ (1992) April, Legal Action 7. The legacy of Hillsborough continues 
+(see BBC News ‘Hillsborough: Timeline of the 1989 stadium disaster’ 8 April 2022). In April 2016, after almost 27 years 
+of campaigning by friends and family members of those who died at Hillsborough, an inquest ruled that they were 
+unlawfully killed and a catalogue of failings by police and the ambulance services contributed to their deaths (David 
+Conn ‘Hillsborough inquests jury rules 96 victims were unlawfully killed’ The Guardian 26 April 2016). In June 2021, it 
+was reported that South Yorkshire and West Midlands police had agreed to pay compensation (arising out of a claim in 
+the tort of misfeasance in public office) to over 600 survivors, and friends and family members of people who had died 
+at Hillsborough, for the additional trauma and psychiatric damage caused by the police response to the disaster 
+(David Conn ‘South Yorkshire and West Midlands police agree payouts for Hillsborough “cover-up”’ The GuardianMore 
+on the Hillsborough disaster can be found in this chapter’s web links <https://iws.oupsupport.com/ebook/access/  
+content/horsey9e-student-resources/horsey9e-chapter-5-web-links?options=showName> 4 June 2021). Despite multiple 
+civil and criminal claims, no one has been held to account for the tragedy at Hillsborough; a fact described by Labour 
+MP Maria Eagle as a ‘catastrophic failure of justice’ (BBC News online, ‘Lack of Hillsborough accountability is a scandal, 
+says minister’ 27 May 2021).
+ 
+36. It was accepted, for the purposes of argument, that the claimants were suffering from a recognised psychiatric 
+illness and that the chief constable had breached his duty of care and had caused the claimants’ injuries. The question 
+of breach, in light of the Hillsborough Inquest’s findings in 2016 that the failure of David Duckenfield, the Hillsborough 
+police match commander, to close a tunnel ‘was the direct cause of the deaths of 96 people,’ now seems unarguable 
+(BBC News ‘Hillsborough inquests: David Duckenfield admits causing 96 deaths’ 17 March 2015).
+ 
+37. See e.g. the reaction of Trevor Hicks who was at the stadium during the disaster with his daughters (both of whom 
+died). (‘Families’ fury at cash bid by Hillsbro cops’ Daily Mirror 1 November 1996).
+ 
+38. Conaghan and Mansell n8 40.
+ 
+39. Report on Liability for Psychiatric Illness n10 [6.10].
+ 
+40. This seems at odds with the decisions in Walker (discussed in section 5.4). Lord Hoffmann, in the majority, 
+distinguished Walker in White on the somewhat dubious basis that in Walker the claimant’s psychiatric harm ‘was 
+caused by the strain of doing the work which his employer had required him to do’ (at 506), whereas in White the 
+police officers’ injuries stemmed from their witnessing of the death and injury of others. Lord Griffiths would have 
+allowed the appeal on the basis of the police officers’ position as employees. In his dissent, he rejected the distinction 
+between physical and psychiatric injury; ‘[i]f it is foreseeable that the rescuer may suffer personal injury in the form of 
+psychiatric injury rather than physical injury, why should he not recover for that injury?’ (at 464). See further Paula 
+Case ‘Now You See It, Now You Don’t: Black Letter Reflections on the Legacies of White v Chief Constable of South 
+Yorkshire Police’ (2010) 18 Tort Law Review 33, 38.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+5. Special duty problems: Psychiatric harm
+Page 43 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+41. In the same vein, rescuers’ actions will usually not be treated as novus actus interveniens nor will they be held to be 
+contributorily negligent in respect of any harms they suffer in attempting their rescue.
+ 
+42. An alternative way to distinguish Chadwick and White would have been to introduce the so-called ‘fireman’s rule’, 
+whereby the police officers in White as professional rescuers are considered to be persons ‘of extraordinary phlegm’ 
+and recovery is restricted accordingly. This solution was rejected by the majority of the Court of Appeal and by Lord 
+Hoffmann in White.
+ 
+43. Jane Stapleton ‘In Restraint of Tort’ in Peter Birks (ed) The Frontiers of Liability: Volume 2 (OUP 1994) 95.
+ 
+44. ibid.
+ 
+45. Report on Liability for Psychiatric Illness n10 [6.3]. Lord Burrows was the Law Commissioner who led the project. The 
+Report concluded that wholesale legislative reform of the area was unnecessary, but:
+that in some respects, and most notably in the decision of the House of Lords in Alcock v Chief Constable of 
+South Yorkshire Police, the common law has taken a wrong turn. Legislation can cure the defects in the 
+common law at a stroke and with certainty. To wait for the House of Lords to reverse Alcock may be to wait 
+for a very long time indeed. Our policy may therefore be described as one of recommending minimal 
+legislative intervention curing serious defects in the present law but otherwise leaving the common law to 
+develop … we recommend that, while legislation curing serious defects in the present law is appropriate, 
+the law should otherwise be allowed to develop by judicial decision-making. (at [4.2])
+ 
+46. At [23].
+ 
+47. Stapleton n43 95.
+ 
+48. Nolan n32 308.
+ 
+49. Lord Ackner in Alcock suggested that witnessing an out-of-control petrol tanker crash into a school may be such an 
+event (at 403).
+ 
+50. Though the boat he was on had come within 80 metres of the oil rig, his fear for his own life was not reasonable. 
+This aspect of the case should now be read in light of Page.
+ 
+51. The bomb, planted by the IRA, was detonated as members of the Household Cavalry rode past from Knightsbridge 
+Barracks to Horse Guards Parade for the Changing of the Guard. Four soldiers, including the claimant’s father, Lance 
+Corporal Young, were killed by the bomb, 31 other people were injured and seven horses had to be destroyed (BBC 
+News ‘1982: IRA bombs cause carnage in London’ On this day, 20 July 1982). Downey had been found to be liable for 
+the attack in civil law in an earlier hearing (Young v Downey [2019]; BBC News ‘John Downey “active participant” in 
+Hyde Park bombing’ 18 December 2019).
+ 
+52. We agree with David Knifton that ‘whilst it is difficult to fault the logic of Spencer J’s approach to the law, it is 
+somewhat troubling that, having specifically invited oral evidence from a very experienced psychiatric expert in order 
+to elucidate what might have been in the mind of a 4-year-old child, the judge then chose to reject that evidence, and 
+to substitute his own view’ (‘Another Hurdle for Nervous Shock Claims’ Exchange Chambers blog 5 February 2021).
+ 
+53. Her dependency claim under the Fatal Accidents Act 1976 was successful. She was awarded £713,457, apportioned 
+as £178,364 to the claimant and £535,093 to the claimant’s mother.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+5. Special duty problems: Psychiatric harm
+Page 44 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+54. See also Tomlinson LJ’s rationalisation of McLoughlin where he suggested that while it is usually understood as an 
+‘aftermath’ case, ‘it could properly be said that Mrs McLoughlin came upon the accident, albeit transposed into the 
+setting of the hospital’ (Ronayne at [16]).
+ 
+55. Stapleton n43 84.
+ 
+56. Counsel in Berisha v Stone Superstore Ltd [2014] (in which the claimant’s claim as a secondary victim was struck 
+out: her arrival at the hospital 5 hours after her partner had been seriously injured at work and staying with him for a 
+further 36 hours until his life support was removed, was not part of the accident’s ‘immediate aftermath’) suggested 
+that McLoughlin and Galli-Atkinson are the only reported examples of a claimant who attends hospital after an 
+unexpected accident has befallen a loved one successfully recovering damages for psychiatric harm (at [35]).
+ 
+57. cf Lord Burrows (in dissent), arguing that the Court of Appeal’s decision in Novo should be overruled, with Lord 
+Dyson, who considered that:
+the ordinary reasonable person would find it unreasonable and incomprehensible that a person who 
+suffered psychiatric illness by coming too late to an accident causing injury or death could not recover, while 
+a person who witnessed the later death from the accident could recover. However, there is a clear 
+distinction between the two situations because, if one treats the accident and the death as separate events, 
+the person who can recover is the same person in both situations ie the person with a close tie of love and 
+affection, provided that that person witnesses (and is therefore closely proximate to) either the accident or 
+the death. One is therefore treating the two situations in the same way and there is nothing unacceptable or 
+irrational about so doing. In any event, applying the same hypothetical logic as Lord Dyson, I would suggest 
+that the ordinary reasonable person would find it unacceptable and incomprehensible that, varying the facts 
+of Novo, a daughter who witnessed the initial injury to the primary victim and suffered a psychiatric illness 
+could recover whereas a daughter who witnessed the horrific death of the primary victim a few weeks later 
+and suffered a psychiatric illness could not recover. (at [238])
+ 
+58. In Alcock, none of the live television coverage, in line with broadcasting policy, showed pictures of suffering by 
+recognisable individuals. Had it done so, it was accepted that this would act as a novus actus interveniens breaking the 
+chain of causation between the defendant’s alleged breach of duty and the psychiatric illness (at 410).
+ 
+59. Though see also Tredget v Bexley Health Authority [1994] and RE (A minor by her mother and Litigation Friend LE) and 
+others v Calderdale & Huddersfield NHS Foundation Trust [2017] (both of which allowed a secondary victim (a father 
+and a grandmother respectively) to recover following them witnessing a particularly traumatic birth).
+ 
+60. Despite, as noted by Lord Burrows, Lord Rodger in D v East Berkshire Community Health NHS Trust [2005] relying on 
+Walters to support his view that ‘medical mishaps’ fell within the category of secondary victims (Paul at [126]).
+ 
+61. Jonathan Morgan suggests that this reliance on the rule in Baker v Bolton [1808] is ‘questionable’ (‘Principles, 
+Accidents and Exceptions: Psychiatric Injury in Tort’ [2004] Cambridge Law Journal 214, 215–16).
+ 
+62. While Lord Leggatt and Lady Rose define an accident as an event external to the primary victim, Lord Burrows 
+suggests this ‘may be regarded as drawing a somewhat arbitrary line’: ‘one might alternatively look at the matter from 
+the perspective of the secondary victim and define an accident as an event external to the secondary victim. Defined 
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+61.
+62.
+5. Special duty problems: Psychiatric harm
+Page 45 of 45
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+in that way, the death of the primary victim is an accident because it is an event external to the secondary victim. … 
+what is the justification for adopting that definition of an accident and not another?; or, put another way, why do 
+some accidents count and others do not?’ (at [211]).
+ 
+63. James Lee ‘Incidents and Accidents—The Supreme Court on Psychiatric Harm’ Inner Temple Lecture, 6 March 2024: 
+www.youtube.com/watch?v=4t_W3LCWzHM <https://www.youtube.com/watch?v=4t_W3LCWzHM>. The decision in 
+RE may also be on point here. You may like to listen to this excellent podcast episode (Kings Chambers Debrief S2 E1: 
+‘Secondary victims in clinical negligence: thus far and absolutely no further’ <https://www.buzzsprout.com/179951/  
+episodes/14296978-kings-chambers-debrief-s2-e1-secondary-victims-in-clinical-negligence-thus-far-and-absolutely-no- 
+further>) produced by Kings Chambers which features a conversation between Helen Mulholland KC and Victoria 
+Heyworth, where they discuss Paul and the likely effect of it on secondary victim claims in cases of clinical negligence. 
+The podcast is just over 37 minutes long so if you don’t have time to listen to it right now, just make a note to return to 
+it later—or perhaps download it to listen to on the way to your tort seminar!
+ 
+64. Happily, after nine weeks in intensive care, during which time she developed an MRSA infection and had to deal 
+with other extremely unpleasant complications, the claimant’s wife made a full recovery.
+ 
+65. Morgan n61 214.
+ 
+66. Jamie Lee n63.
+ 
+67. Morgan n61 216.
+ 
+68. NHS Resolution ‘Annual Report Statistics 2023–2024’ 27 September 2024.
+ 
+69. NHS Resolution ‘Case of note: Paul v Royal Wolverhampton NHS Trust; Polmear v Royal Cornwall Hospitals NHS Trust; 
+Purchase v Dr Ahmed (Supreme Court—11 January 2024)’ 16 February 2024.
+ 
+70. Ministry of Justice The Law on Damages, Response to Consultation (CR® 9/07, 2009) 51.
+ 
+71. Lord Briggs n30 [58].
+© Kirsty Horsey & Erika Rackley 2025
+Related Books
+View the Essential Cases in tort law
+Related Links
+Test yourself: Multiple choice questions with instant feedback <https://learninglink.oup.com/access/content/brennan-  
+concentrate6e-student-resources/brennan-concentrate6e-diagnostic-test>
+Find This Title
+In the OUP print catalogue <https://global.oup.com/academic/product/9780198925231>
+63.
+64.
+65.
+66.
+67.
+68.
+69.
+70.
+71.

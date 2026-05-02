@@ -1,0 +1,1639 @@
+11. Occupiers’ liability
+Page 1 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Tort Law (9th edn)
+Kirsty Horsey and Erika Rackley
+11. Occupiers’ liability
+Kirsty Horsey and Erika Rackley
+https://doi.org/10.1093/he/9780198925231.003.0011
+Published in print: 15 August 2025
+Published online: August 2025
+Abstract
+This chapter discusses occupiers’ liability, which deals with the risks posed, and harms caused, by dangerous places and 
+buildings. In such cases, the occupier of the premises may be liable where a person who comes onto their land is injured in or 
+by unsafe premises if the occupier has not taken reasonable care to ensure that those entering are safe. The general principles 
+of negligence have been incorporated into, and modified by, statute in the form of the Occupiers’ Liability Acts 1957 and 1984. 
+Although the Acts define the circumstances in which a duty of care will be owed (and tell us something as to its extent, as well 
+as matters relating to its discharge and limitation), questions of breach and causation still need to be established by reference 
+to the ordinary principles of negligence.
+Keywords: 
+Keywords, liability, tort law, negligence, Occupiers’ Liability Act 1957, Occupiers’ Liability Act 1984
+Problem question
+Read this problem question carefully, and keep it in mind while you are working through the 
+chapter that follows. At the end of the chapter, you will be able to apply what you have learnt to the 
+problem question and advise the relevant parties.
+‘Camden Cool’, an after-school youth club run by the local authority, is holding an open day to raise 
+funds for the club. One of the main attractions is a large bouncy castle supplied, erected and 
+supervised by HorseRack Castles, a small local company. Grimble and Heike are the first to try it out. 
+They both suffer minor cuts and bruises when the castle breaks free from its moorings and lifts into 
+the air. It later turns out that it had not been appropriately tethered to the ground. Unfortunately, 
+p. 313
+11. Occupiers’ liability
+Page 2 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+→
+→
+→
+→
+despite assuring Cameron, the club’s youth worker, when he phoned to book the castle, that they had 
+the necessary documentation, HorseRack Castles’ public liability insurance had expired two months 
+before the accident.
+In the chaos that follows, Iris (Grimble’s sister) wanders off alone. She is too young to be a member of 
+the club and so doesn’t know her way around the buildings. She is seriously injured when she falls 
+down a flight of stairs after going through a door marked ‘Private: No Unauthorised Entry’.
+Meanwhile Otto and Bill (who are members of the club) have sneaked off to play football. After a 
+particularly poor shot at goal their ball lands on a flat roof. Although they know the roof is ‘out of 
+bounds’, as everyone is busy at the open day, they decide to climb onto the roof to retrieve it. As they 
+do so one of the skylights breaks. Bill falls through the roof hitting his head hard, causing him to lose 
+his hearing.
+Advise the parties of any claims they may have under the Occupiers’ Liability Acts 1957 and 1984.
+11.1  Introduction
+Consider the following examples:
+While on a picnic with some friends, a student dives into a lake to cool off. Unfortunately, he misjudges 
+his dive into the shallow water and, as a result, hits his head on the lake bed and breaks his neck.
+↵
+ A shopper slips on some spilt milk in the dairy aisle of his local supermarket, injuring his back 
+and ruining his new suede jacket. The warning sign had been moved by another shopper to get to the food 
+on the shelves.
+A dinner guest trips over a child’s toy left at the top of a flight of stairs and tumbles to the bottom, 
+twisting her ankle.
+On his way home from a night out, a student trips over an uneven paving stone on the driveway 
+leading to his halls of residence.
+Occupiers’ liability deals with the risks posed, and harms caused, by dangerous places and buildings. In such 
+cases, similar to those described above, the occupier of the premises—broadly understood to include not only 
+buildings but also driveways, fire escapes and so on—may be liable if they have not taken reasonable care to 
+ensure that those entering their premises are safe. What makes these claims distinctive is that the general 
+principles of negligence (whereby if a breach of duty has caused injury, liability will usually follow) have been 
+incorporated into, and modified by, statute in the form of the Occupiers’ Liability Acts 1957 and 1984.1
+p. 314
+1
+11. Occupiers’ liability
+Page 3 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(1)
+This statutory intervention was a response to the harshness and complexity of the common law, whereby the 
+scope of the duty owed by the occupier varied according to the circumstances in which the claimant came on 
+to the premises. Those who were on the premises by virtue of a contract (e.g. a plumber coming to fix a 
+leaking tap) were owed a higher standard of care than so-called ‘invitees’ (e.g. a shopper), or a friend the 
+occupier had invited round for dinner, who was merely a ‘licensee’. Although they all fared better than 
+‘uninvited’ persons or trespassers who, until British Railways Board v Herrington [1972], were owed no positive 
+duty of care at all; occupiers were simply under an obligation not to deliberately or recklessly cause 
+trespassers harm (Edwards v Railway Executive [1952]).
+Pause for reflection
+Despite the enactment of the 1957 Act and, more particularly, its companion the 1984 Act, Richard 
+Buckley argues that the imposition of liability on occupiers remains ‘an aspiration rather than an 
+accurate statement of contemporary law’.2 More recently, this traditional reluctance to impose 
+liability—usually relating to a desire to leave landowners alone to enjoy their land as they wish—has 
+been given a contemporary twist. The imposition of liability has been framed as an attack on the 
+liberties of both individuals who choose to engage in dangerous pastimes at their own risk and those 
+who wish to simply enjoy the countryside and other public spaces. Consider, for example, the 
+following extract from the speech of Lord Hobhouse in Tomlinson v Congleton Borough Council [2003] 
+in which he mirrors the concerns of many about the effects of ‘an unrestrained culture of blame and 
+compensation’:
+[I]t is not, and should never be, the policy of the law to require the protection of the 
+foolhardy or reckless few to deprive, or interfere with, the enjoyment by the remainder of 
+↵
+society of the liberties and amenities to which they are rightly entitled. Does the law 
+require that all trees be cut down because some youths may climb them and fall? Does the 
+law require the coastline and other beauty spots to be lined with warning notices? Does the 
+law require that attractive waterside picnic spots be destroyed because of a few foolhardy 
+individuals who choose to ignore warning notices and indulge in activities dangerous only to 
+themselves? The answer to all these questions is, of course, no. (at [81])
+Do you agree with Lord Hobhouse? Think again about the purposes of tort law, contrasting the idea of 
+corrective justice and its focus on individual responsibility and fault with the concerns of providing 
+compensation and distributing losses across the community.3
+Though there are now just two categories of visitor—lawful and unlawful—it remains important to identify 
+from the outset which category the person who has been injured falls into as this will determine which of the 
+OLAs applies.
+The 1957 Act—covers visitors (including invitees and licensees at common law and contractual 
+visitors) (ss 1(2), 5).
+2
+p. 315
+3
+11. Occupiers’ liability
+Page 4 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(2)
+The 1984 Act—covers ‘persons other than the occupier’s visitor’ or non-visitors (typically 
+trespassers) (s 1(1)(a)).
+There is one further point to note here. Although the Acts define the circumstances in which a duty of care 
+will be owed and tell us something as to its extent, as well as matters relating to its discharge and limitation, 
+when determining whether the duty has been breached and whether this breach caused the claimant loss we 
+revert back to the ordinary principles of negligence.
+11.2  The Occupiers’ Liability Act 1957
+The 1957 Act provides that an occupier owes a duty of care to visitors in respect of dangers posed by the state 
+of the premises or by things done or omitted to be done on them (s 1(1)). In line with its objective to simplify 
+the common law, the 1957 Act abolishes the various categories of visitor (and hence the varying duties owed 
+to contractors, licensees and (implied) invitees) and provides that all lawful entrants should be owed the 
+same common duty of care in respect of personal injury and property damage suffered on the premises (s 
+2(1)).4 The Act applies only to injuries suffered on the occupier’s premises; if the injury is suffered outside 
+their premises then there can be no claim on the basis of occupiers’ liability, though, of course, a claim may 
+lie under the ordinary principles of negligence, in the tort of nuisance (if there is an unreasonable 
+interference with land) or under the rule in Rylands v Fletcher [1868] (if the damage is caused by the escape of 
+a dangerous thing).5
+11.2.1  When is a duty owed?
+Under the 1957 Act an occupier owes a common duty of care to all visitors who suffer injury on their premises 
+(s 1(1)). It also states that occupiers and visitors are to be defined in the same way as at common law (s 1(2)).
+Pause for reflection
+There is some ambiguity as to the scope of the 1957 Act.6 The reference in section 1(1) to ‘dangers due 
+to the state of the premises or to things done, or omitted to be done on them’ and in section 2(2) to ‘a 
+duty to take such care as in all the circumstances of the case is reasonable to see that the visitor will be 
+reasonably safe in using the premises for the purposes for which he is invite or permitted by the 
+occupier to be there’ (emphasis added) has led to debate as to whether the Act extends the occupier’s 
+duty to include injuries caused by activities which are taking place on their premises (an ‘activity’ 
+duty) or whether it is limited to injuries caused by the static condition of the premises themselves (an 
+‘occupancy’ duty).7
+Most now agree that section 1(1) of the 1957 Act only applies to dangers posed, and harms caused, by 
+the condition of the premises (though these may be rendered dangerous by virtue of some activity 
+that has previously taken place on them). The Act has no application where a claimant is injured by an 
+4
+5
+p. 316
+6
+7
+11. Occupiers’ liability
+Page 5 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(1)
+(2)
+(3)
+activity that is happening on the defendant’s premises. In Bottomley v Todmorden Cricket Club [2003], 
+for example, the claimant was injured when helping to set up a firework display. As his injuries arose 
+from activities conducted on the defendant’s land rather than due to the state of the land itself, his 
+claim under the 1957 Act failed.8 This, Buckley argues, is the better view of the scope of the 1957 Act: 
+‘All activities which take place do so somewhere, and the law relating to occupiers’ liability would be 
+extraordinarily wide if it were expanded to include all the activities which a defendant happens to 
+carry out on his land’.9
+Of course, restricting claims under the 1957 Act to harms caused by the condition of the premises 
+doesn’t prevent a claim being brought in negligence for activities or actions that have taken place on 
+them. As Brooke LJ noted in Bottomley, there is likely to be little difference, if any, between the duty 
+owed under the 1957 Act and that under the ordinary principles of negligence (at [42]). One example 
+of this are claims brought by one visitor for injuries caused by another. While previously an occupier 
+has been liable to a visitor for the harm caused by another visitor under the 1957 Act (see e.g. 
+Cunningham v Reading Football Club Ltd [1992] where the defendant was found to be in breach of their 
+‘occupancy’ duty, the dilapidated state of the premises having allowed football hooligans to break off 
+bits of concrete to use as missiles one of which had hit the claimant), it is more likely now that in such 
+circumstances the occupier will owe the a duty at common law in parallel with the ‘occupation’ duty 
+↵
+under the 1957 OLA. As Smith LJ noted in Everett v Comojo (UK) Ltd (t/a The Metropolitan) [2011]:
+It would be surprising if management could be liable to a guest who tripped over a worn 
+carpet and yet escape liability for injuries inflicted by a fellow guest who was a foreseeable 
+danger—for example in that he had previously been excluded on account of his violent 
+behaviour and who on this occasion had been allowed in carrying an offensive weapon. (at 
+[33])
+In order to establish when a duty of care is owed it is necessary to look to both the 1957 Act and the case law 
+for answers to the following questions.
+Who is an occupier?
+Who is a visitor?
+What are premises?
+11.2.1.1  Occupiers: ‘Control of premises’
+The duty imposed by the 1957 Act is owed by those in occupation of premises. Occupation is different from 
+ownership; an occupier need not be the owner of the premises and nor is the owner necessarily the occupier. 
+Neither is occupation simply a matter of who is physically present on the premises. Rather, the occupier is the 
+8
+9
+p. 317
+11. Occupiers’ liability
+Page 6 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+person who has, or is able to exercise, a sufficient degree of control over the premises (s 1(2)).10 Importantly, 
+there may be more than one occupier at any given time. For example, a landlord and tenant may, depending 
+on the circumstances, both be considered occupiers for the purpose of the 1957 Act.
+Wheat v Lacon & Co Ltd [1966] AC 552 (HL)
+The defendants, Lacon & Co brewery, had let their public house to Mr Richardson to manage under a 
+service agreement. They had also given Mr Richardson and his wife permission (on an informal basis) 
+to live on the first floor of the public house and to rent the other rooms to paying guests. The 
+claimant’s husband, Mr Wheat, was fatally injured after falling down a flight of poorly lit stairs while 
+staying at the pub. The light bulb at the top of the stairs had been removed, which meant that he was 
+unable to know when he had reached the last step and was unable to see that the handrail finished 
+three steps short of the end of the staircase. The question for the court was whether the brewery (who 
+owned the public house) was an occupier for the purposes of a claim under the 1957 Act. (A claim in 
+negligence against Mr and Mrs Richardson had failed.)
+The House of Lords held that both the brewery and Mr and Mrs Richardson were occupiers for the 
+purposes of the 1957 Act and, as such, owed a common duty of care to the claimant (and 
+↵
+other 
+visitors). The brewery, by simply granting a concession to allow Mr and Mrs Richardson to occupy the 
+first floor, had not relinquished complete control of the premises:
+In order to be an ‘occupier’ it is not necessary for a person to have entire control over the 
+premises. He need not have exclusive occupation. Suffice that he has some degree of control. 
+He may share the control with others. (Lord Denning at 578)
+However, on the facts, neither party had fallen below the standard of care required of them. The fact 
+that the stairs had a short handrail did not, in itself, make the stairs unreasonably hazardous and nor 
+were they responsible for the actions of the stranger who had plunged the stairs into darkness by 
+removing the light bulb, shortly before Mr Wheat attempted to walk down them.
+Wheat v Lacon demonstrates that an occupier need not have actual physical possession of the premises. 
+Indeed one may be an ‘occupier’ for the purposes of the 1957 (and 1984) Act despite never having resided in or 
+physically occupied the premises. For instance, in Harris v Birkenhead Corporation [1975], as part of a slum 
+clearance programme, a tenant was served with a compulsory purchase order, which stated that the 
+corporation would enter and take possession of the property a fortnight after the notice was served. The 
+tenant moved out. Three months later the corporation had still not secured the property despite knowing that 
+vacant properties in the area were often vandalised. As a result, vandals had broken down the front door and 
+caused considerable damage inside the property, including removing the glass from a second-floor window. 
+The claimant (a 4-year-old girl), who had entered the property through the damaged door, fell out of the 
+10
+p. 318
+11. Occupiers’ liability
+Page 7 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+window, suffering severe brain damage. The Court of Appeal held that even though the corporation had never 
+been to the premises, they nevertheless were the occupiers as soon as the previous tenant had left. They had 
+control over the property and, though they did not exercise it, the ability and duty to secure it.
+Liability under the Defective Premises Act 1972
+Typically, a landlord who has leased out premises will not have retained sufficient control to be 
+treated as an occupier for the purposes of the OLAs. In such situations, a tenant who suffers an injury 
+as a result of a defect in the premises they are renting will have no claim under the 1957 Act; there is 
+no ‘occupier’ (other than themselves) to sue. Nor does the common law offer much protection in such 
+circumstances (Cavalier v Pope [1906]; Bottomley v Bannister [1932]).
+This gap is addressed by section 4 of the Defective Premises Act 1972.11 Where a lease imposes on the 
+landlord an obligation in respect of the maintenance and repair of the property, the landlord will be 
+held to owe a duty of care to all those who might reasonably be expected to be affected by any defects 
+in the state of the premises, so long as (a) the landlord knows or 
+↵
+ought to have known of the 
+relevant defect and (b) the defect is one which the landlord should have remedied by virtue of the 
+obligation to repair imposed by the lease. Moreover, the duty is owed not only to the tenant, but also 
+to others who may foreseeably be affected by defects, such as partners and other family members (s 
+4(1)).
+11.2.1.2  Visitors: By invitation or permission only
+An occupier only owes a duty under the 1957 Act to those they have invited or have (or are treated as having) 
+given permission to enter or use the premises (s 1(2)).12 The key question is then: did the claimant have 
+express, or implied, permission to be on the premises?
+Such permission is rarely unlimited. As Scrutton LJ notes: ‘When you invite a person into your house to use 
+the staircase, you do not invite him to slide down the banisters’ (The Calgarth [1927] at 110).13 By limiting the 
+extent of the permission they give to a visitor, an occupier can restrict the duty they owe to them. For 
+example, they might place restrictions on the time a visitor can spend on their premises (e.g. opening hours), 
+the purposes for which they can use it, or limit their permission to particular parts of the property. If a visitor 
+goes beyond what they have been invited or given permission to do at that point, and to that extent, they will 
+cease to be treated as a visitor and will fall outside the provisions of the 1957 Act—although in these 
+circumstances the 1984 Act will apply.
+11
+p. 319
+12
+13
+11. Occupiers’ liability
+Page 8 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Spearman v Royal United Bath Hospitals NHS Foundation Trust [2017] 
+EWHC 3027 (QB)
+The claimant, James Spearman, had been taken to hospital by ambulance after suffering from a 
+hypoglycaemic attack. The claimant had a phobia of hospitals. Within 15 minutes, he had left the 
+emergency department of the hospital, climbed five flights of stairs to a flat roof, climbed over a 
+protective barrier and either fallen or jumped into a courtyard below where he suffered a severe 
+traumatic brain injury and multiple fractures including fractures to his lower limbs, sternum, ribs, 
+lumbar spine and left wrist, leaving him dependent on others for care and assistance with all activities 
+of daily living.
+The question for the court was whether Spearman a ‘visitor’ (and so owed a duty under the 1957 Act) 
+or a ‘trespasser’ (and so falling within the more limited remit of the OLA 1984) at the time of the 
+accident? Interestingly, the judge held that—despite his actions in leaving the emergency department 
+and making his way up two flights of stairs and onto the roof—he remained a visitor:
+↵
+In my judgment whether a person is or is not a trespasser is not solely determined by 
+whether the place where they are is or is not an ‘authorised’ place. A person’s state of mind 
+and intention is an important additional factor. If a patient, who is a lawful visitor to a 
+hospital (whether the Emergency Department or any other department) has finished his or 
+her treatment and is leaving, he or she does not cease to be a visitor in general until they 
+leave the hospital premises. The position may be different if they deliberately enter an area 
+marked ‘no entry’, or ‘private’ or know that they are entering a part of the hospital where 
+they have no right to be. But if the patient simply makes a mistake and goes the wrong way, 
+it could not possibly be suggested that such a person was now a trespasser.14 So here, 
+intending to leave the Emergency Department, Mr Spearman, in his confused state of mind, 
+thought (wrongly but honestly) that he needed to go upstairs to get out and, indeed, go over 
+the barrier to get out. His belief meant that he remained a lawful visitor and, in my judgment, 
+he did not become a trespasser at any time material to this case. Just as, for Goddard LJ in 
+Gould’s [v McAuliffe [1941]] case, it was determinative that ‘there was nothing to show that 
+an invitee to this garden ought not to go through the gate in question’, so here, the lack of 
+any notice over door 1 and the lack of any lock on door 1 had the same effect. … [T]he 
+suggestion that the mere act of climbing over the wall, not being an act covered by the 
+general permission to be on the site as a patient nor being part of the permission given by 
+the defendant to patients leaving the site after treatment, was enough to convert the 
+claimant in that case from being an invitee or visitor to being a trespasser is too simplistic as 
+it fails to take account of the state of mind of the claimant … [T]he claimant was mentally 
+disturbed and did what he did as a result of a genuine and honest mistake, made in his state 
+of confusion, it being wholly foreseeable that confused and mentally unstable patients would 
+be part of [the] cohort of visitors to the department. (at [56])
+p. 320
+14
+11. Occupiers’ liability
+Page 9 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Finding the hospital liable (both in breach of their duty under the 1957 Act and a ‘superimposed duty 
+at common law’ (at [75])), the judge concluded the hospital ‘had failed to take reasonable steps to 
+ensure that the premises were reasonably safe for him as a vulnerable patient who was confused and 
+mentally unstable at the time that he was in the emergency department of the hospital’ (at [75]).15
+A person may be a visitor for some purposes and not for others depending on the scope of the permission 
+granted by the occupier (compare e.g. Darby v National Trust [2001] and Tomlinson).
+The occupier may change the terms of their permission and even revoke it entirely while the visitor is on the 
+premises, changing the status of the ‘visitor’. However, to be effective, this must be done in a way that is 
+obvious to the visitor. A rather extreme example of this is provided by Snook v Mannion [1982] where a 
+motorist told the policeman who had followed him up his driveway in order to breathalyse him to ‘f**k off’. 
+The court held that these 
+↵
+words—which were taken to refer to the policeman’s presence as well as his 
+attempts to breathalyse the motorist—were not sufficient to revoke the licence usually implied to allow 
+people to use a driveway to approach the house on legitimate business. In the same way, notices merely 
+stating ‘keep out’ or ‘private’ may also not be sufficient.
+11.2.1.3  Premises: Including ‘any fixed or moveable structure’
+Under the 1957 Act the definition of premises extends to ‘any fixed or movable structure, including any 
+vessel, vehicle or aircraft’ (s 1(3)). Clearly this broad interpretation of premises not only includes buildings, 
+driveways, fire escapes and other real property but also encompasses less permanent structures such as 
+scaffolding or a derelict boat left on a council estate (see e.g. Jolley v Sutton London Borough Council [2000]; 
+Gwilliam v West Hertfordshire Hospitals NHS Trust [2002]).
+11.2.2  The standard of care
+Under the 1957 Act, an occupier owes a positive duty to act to take ‘such care as in all the circumstances of the 
+case is reasonable to see that the visitor will be reasonably safe in using the premises for the purposes for 
+which he is invited’ (s 2(2)). The first thing to note is that it is the visitor, not the premises, that must be 
+reasonably safe. The common law duty of care is not owed ‘in the abstract’ but by particular defendants to 
+particular claimants (Lewis v Six Continents [2005] at [24]). Thus, where the occupier is aware of a particular 
+vulnerability of the visitor (as for example in Spearman), and can reasonably be expected to take steps to 
+guard against it, their duty of care will be higher. This was illustrated in Pollock v Cahill [2015] in which the 
+claimant, who was blind, suffered serious brain and spinal injuries after falling out of an open second-floor 
+window while staying at his friends’ house:
+15
+p. 321
+11. Occupiers’ liability
+Page 10 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+the reference to ‘such a visitor’ [in s 2(3) of the OLA 1957] requires the occupier to have regard to any 
+known vulnerability … If [the claimant] had been a sighted person, the open window would not have 
+rendered the premises unsafe. It was the fact that he was blind that made them so. [The defendant] 
+was fully aware of his position … [and] failed to discharge the common duty of care they owed as 
+occupiers. The open window was a real risk to [the claimant]. [The defendants] created that risk. 
+They ought to have appreciated the risk and taken steps to prevent it by keeping the window closed 
+or by warning [the claimant] about it with particular reference as to the extent of the drop from the 
+window. (Davis J at [51], [53])16
+Secondly, the occupier’s duty only applies for the purposes for which the visitor was invited onto the 
+premises. The extent of the occupier’s permission may be express or implied. In Harvey v Plymouth City 
+Council [2010], the claimant, who was 21 at the time, was seriously injured after falling down a 5½-metre 
+drop, landing on concrete, while seeking to evade a taxi fare while drunk at the end of a night out. The land 
+was owned by the council. The claimant had run over a grassed area, though a gap in some bushes and over a 
+small chain fence, which had not been repaired. The Court of Appeal held that the claimant was a visitor.17 
+↵
+The council, through their awareness that people used the gap in the bushes, had implied permitted 
+people to use the grassy area and, as a result, a duty to ensure it was safe for this purpose and protect its 
+licensees against the risk of a 5-metre fall. However, this did not extend to the circumstances of the case. 
+Carnwath LJ continued:
+It is clear that the duty under the 1957 Act does not extend beyond the scope of the activities for 
+which the licence has been expressly or impliedly given … When a council licenses the public to use 
+its land for recreational purposes, it is consenting to normal recreational activities, carrying normal 
+risks. An implied licence for general recreational activity cannot, in my view, be stretched to cover 
+any form of activity, however reckless.18 (at [22], [27])
+Finally, the occupier is not under ‘an obligation to ensure the safety of visitors, merely to take reasonable care 
+to provide reasonable safety’ (Mackay J, Bowen v National Trust [2011] at [6]).
+Bowen v National Trust [2011] EWHC 1992 (QB)
+The claimant was killed when a 21-metre tree branch fell entirely without warning on a group of 
+school children sheltering under the tree while on a school trip to Felbrigg Hall in Suffolk (owned by 
+the National Trust). Three other children were seriously injured. The claimants argued that the 
+defendant’s tree inspectors, for whom the National Trust was vicariously liable, failed to exercise 
+reasonable care in failing to spot the defect in the tree and ‘tagging’ it as requiring remedial action. 
+Rejecting their claim, Mackay J suggested it was ‘the cruellest coincidence’ that the branch fell just as 
+the children were standing underneath it (at [43]). Nevertheless, he continued,
+16
+17
+p. 322
+18
+11. Occupiers’ liability
+Page 11 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+I accept these inspectors used all the care to be expected of reasonably competent persons 
+doing their job, and the defendant had given them adequate training and instruction in how 
+to approach their task. To require more would serve the desirable end of compensating these 
+claimants for their grievous loss and injuries. But it would also be requiring the defendant to 
+do more than was reasonable to see that the children enjoying the use of this wood were 
+reasonably safe to do so. I regretfully conclude that I cannot find that the defendant was 
+negligent or in breach of its duty in respect of this tragedy. (Mackay J at [43])
+In short, in the words of McCombe LJ in Edwards v London Borough of Sutton [2016], ‘not every accident (even 
+if it has serious consequences) has to have been the fault of another; and an occupier is not an insurer against 
+injuries sustained on his premises’ (at [61]).
+Whether the occupier has breached their duty of care is determined by the same basic principles as in the 
+common law of negligence (as reflected by the fact that some of the leading cases on breach are cases of 
+occupiers’ liability).19 So, for instance, in determining what amounts to reasonable care, we take into account 
+the likelihood and gravity of harm resulting from the state of the premises and the costs involved in 
+rectifying any potential dangers. In particular, the 1957 Act requires courts to consider what is reasonable ‘in 
+all the 
+↵
+circumstances of the case’ (s 2(2)), including the degree of care expected from the visitor/ 
+claimant (s 2(3)). We looked at breach in detail in Chapter 8, and the cases discussed there are relevant here 
+too. Here we shall draw attention only to a handful of issues which are either specific to occupiers’ liability or 
+are mentioned in the 1957 Act.
+It is clear that the courts will take into account the resources of the occupier when considering what steps 
+they might reasonably be expected to take to ensure the visitor is reasonably safe.20
+Kiapasha (t/a Takeaway Supreme) v Laverton [2002] EWCA Civ 1656 
+(CA)
+The claimant broke her ankle after slipping over in the defendant’s busy takeaway after a night out. It 
+had been raining earlier in the evening and the shop floor was wet and slippery. The shopkeeper had 
+taken a number of precautions to prevent accidents: the shop floor had been re-laid using slip- 
+resistant tiles; there was a doormat to limit the amount of water brought in on the feet of the 
+customers (although this may have been kicked out of the way at the time of the accident); and there 
+was a system for mopping up excess water, which usually took place six or seven times on a busy 
+night.
+The majority of the Court of Appeal held that the shopkeeper had done all that could reasonably be 
+expected of him in his attempts to keep his shop floor dry:
+19
+p. 323
+20
+11. Occupiers’ liability
+Page 12 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+In some large businesses it may be reasonable to expect stringent precautions at the shop 
+door, including mats large enough to absorb moisture from large numbers of customers who 
+do not wipe their feet and/or a member of staff stationed near the door to mop up as required 
+… The question is what was reasonable to expect of the defendant in the particular 
+circumstances of the case and whether anything else would have made a difference. In my 
+view, it would not … [I]n that particular shop, at that particular time, it was not reasonable to 
+expect the shopkeeper to ensure that the mat was in place and to mop the floor often enough 
+and efficiently enough to prevent its being wet, even significantly or considerably so. (Hale 
+LJ at [19]–[23])21
+More recently, in Apres Lounge v Wade [2023], the claimant was unable to recover for injuries caused by 
+slipping on a spilled drink near a bar on a night out. The fact that the defendant employed a number of staff 
+including two ‘spotters’ who continually walked around the floor, collecting glasses and checking for safety 
+issues, meant that ‘there was direct and detailed evidence of the system which was being operated in the bar 
+that night. ‘Having regard to the realities of running a late night bar, the system of floor inspections … which 
+the judge accepted was being done—[and which] was sufficient to fulfil the statutory duty 
+↵
+lying upon 
+the defendant. Its system was proactive and not reactive. It was one of continuous monitoring’ (no page or 
+paragraph number).
+As with breach more generally, the occupier’s duty to ensure that the visitor will be reasonably safe while on 
+their premises does not mean that the visitor cannot be expected to take reasonable care for their own safety 
+(s 2(3)). The 1957 Act makes particular reference to children and professionals.
+11.2.2.1  Children
+Children invited onto premises are owed a common duty of care like all other visitors. However, where the 
+visitor is a child more may be required of the occupier to ensure that they are kept reasonably safe. Though 
+the courts recognise that it may be impossible to make the premises completely safe for children—especially 
+when they are not under the supervision of their parents (Bourne Leisure Ltd v Marsden [2009]). In particular, 
+the occupier must take into account that children will be less careful than adults (s 2(3)(a)). As such, 
+occupiers will generally owe a higher standard of care to children than to older visitors (Glasgow Corporation v 
+Taylor [1922]).
+21
+p. 324
+11. Occupiers’ liability
+Page 13 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Jolley v Sutton London Borough Council [2000] 1 WLR 1082 (HL)
+A boat had been abandoned for at least two years on land owned by the defendant. Although it 
+appeared to be in relatively good condition, it was in fact rotten. The claimant, a 14-year-old boy, was 
+crushed when the boat fell on him (he and a friend had decided to repair it), suffering serious spinal 
+injuries which left him paralysed. He brought an action against the council for damages under the 
+1957 Act.
+Holding the council liable, the House of Lords noted that the boat was likely to be a particular 
+attraction—or an ‘allurement’—to children. Though the boat was not likely to pose a danger to adults, 
+who were more likely to steer clear of it, it was reasonably foreseeable that children might approach 
+the boat and be tempted to climb onto it. As Lord Hoffmann noted: children’s ‘ingenuity in finding 
+unexpected ways of doing mischief to themselves and others should never be underestimated’ (at 
+1093). The claimant was found to be contributorily negligent, and his damages were reduced by 25 per 
+cent.
+It is worth stressing that the ‘allurement’ of the boat in Jolley was relevant to establishing the foreseeability of 
+the children climbing onto the boat, and hence whether it was reasonable to have expected the council to 
+have taken steps to ensure the boat was safe or to remove it. In other words, its relevance was to determining 
+whether the defendant breached its duty to the claimant. Clearly, this question only arises once we have 
+established that the child claimant is indeed a visitor, that is, has the occupier’s permission to enter or use the 
+premises, and so is owed a duty under the 1957 Act.
+At one point, it seemed that the courts were willing to stretch the notion of permission in relation to children 
+to ensure that they were always treated as visitors, most likely because, as already noted, trespassers were 
+afforded little protection at common law (British Railways Board v Herrington [1972]). However, now the 1984 
+Act has extended the protection accorded to those injured when on another’s premises without permission, 
+there is far less need for the courts to stretch the notion of visitors when dealing with children. As such, 
+↵
+when determining both whether the claimant has permission to enter the defendant’s premises and 
+how far that permission extends—that is, determining whether a child is a visitor for the purposes of the 
+1957 Act—the same rules apply to adults and children alike.
+It is usually argued that, in deciding whether the common duty of care has been breached, an occupier is 
+entitled to assume that parents will take reasonable care of young children:
+[T]he responsibility for the safety of little children must rest primarily on the parents; it is their duty 
+to see that such children are not allowed to wander about by themselves, or at least to satisfy 
+themselves that the places to which they do allow their children to go unaccompanied are safe for 
+them to go to. It would not be socially desirable if parents were, as a matter of course, able to shift the 
+burden of looking after their children from their own shoulders to those who happen to have 
+accessible bits of land. (Phipps v Rochester Corporation [1955] at 472)
+p. 325
+11. Occupiers’ liability
+Page 14 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+In Simkiss v Rhondda Borough Council [1983], for example, a child was seriously injured whilst playing with a 
+friend on a steep bank. In the course of argument, it became clear that the child’s father did not believe the 
+bank to be dangerous. The Court of Appeal held that it was not reasonable to hold the council to a higher 
+standard of care than a reasonably prudent parent—if the child’s father did not consider the bank to be 
+dangerous, then why should the council? Moreover, even if the father had considered the bank to be 
+dangerous, the council was entitled to assume that the father would warn his child of familiar and obvious 
+dangers. The fact that he had not either meant that he thought the bank was safe or was evidence of 
+negligence on his part.
+Counterpoint
+The decision in Simkiss appears somewhat harsh. Do you think it would have been decided differently 
+if the father had given a different answer to the question of whether he considered the bank 
+dangerous? Why should the fact that the claimant’s parents fail to give sufficient regard to their 
+child’s safety entitle occupiers to escape liability for their own neglect? It is one thing to say that 
+occupiers should not be expected to make up for parents’ shortcomings, quite another to hold them to 
+a lower standard simply because the child’s parents would have done no better.
+11.2.2.2  ‘Persons in the exercise of a calling’
+While greater care must be taken in relation to children invited onto one’s premises, less is required of 
+occupiers in respect of visitors who are considered able to look after themselves. In particular, skilled visitors 
+are expected to guard against special risks associated with their profession (s 2(3)(b)).
+In Roles v Nathan [1963] two chimney sweeps died whilst trying to mend the chimney of a coke-fired boiler. 
+Though they had been warned repeatedly that the boiler room was dangerous and were told to leave, they had 
+carried on working. The majority of the Court of Appeal dismissed a claim under the 1957 Act by the chimney 
+sweeps’ widows on two grounds: first, a householder can reasonably expect a specialist to appreciate and 
+guard against dangers associated with their trade (s 2(3)); and, secondly, the warning had been sufficient to 
+ensure that the sweeps were, in all the circumstances, ‘reasonably safe’ within 
+↵
+the meaning of section 
+2(4). Accordingly, though Lord Denning MR was of the view that no duty of care was owed to the sweeps, in 
+any event:
+the duty was discharged … in regard to the dangers that caused their deaths. If it had been a different 
+danger, as for instance if the stairs leading to the cellar gave way, the occupier might no doubt be 
+responsible, but not for these dangers which were special risks ordinarily incidental to their calling. 
+(at 1123–4)22
+p. 326
+22
+11. Occupiers’ liability
+Page 15 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+11.2.2.3  Warnings
+An occupier may discharge their duty by giving a warning of the potential danger. (s 2(4)(a)) Warnings may 
+be verbal, visual or written—for example, a notice on the edge of a cliff, a barrier around a building site or a 
+large yellow ‘warning’ sign on a shop floor. However, whatever its form, a warning will only be sufficient to 
+discharge an occupier’s duty to a particular visitor if, in all the circumstances, it is enough to enable that 
+visitor to be reasonably safe.23 Lord Denning MR in Roles v Nathan used this example:
+Supposing, for instance, that there was only one way of getting into and out of premises, and it was 
+by a footbridge over a stream which was rotten and dangerous … [previously] the occupier could 
+escape all liability to any visitor by putting up a notice: ‘This bridge is dangerous’, even though there 
+was no other way by which the visitor could get in or out, and he had no option but to go over the 
+bridge. In such a case, s 2(4)(a) [of the 1957 Act] makes it clear that the occupier would nowadays be 
+liable. But if there were two footbridges, one of which was rotten, and the other safe a hundred yards 
+away, the occupier could still escape liability, even today, by putting up a notice: ‘Do not use this 
+footbridge. It is dangerous. There is a safe one further upstream’. Such a warning is sufficient 
+because it does enable the visitor to be reasonably safe. (at 1124)
+In English Heritage v Taylor [2016], the claimant was able to recover for the serious head injury he sustained 
+after falling over a sheer drop while on a day out with his grandchildren at Carisbrooke Castle. The defendant 
+had failed to provide a sign warning of the drop, which was not obvious.24 However, Etherton MR continued:
+[A]s with many public organisations which have large areas of land and premises open to the public, 
+[English Heritage] has acted (as an occupier) in a way consistent with the principle that adult 
+visitors do not require warnings of obvious risks except in cases where they do not have a genuine 
+and informed choice … I accept that questions of whether a danger is obvious may not always be easy 
+to resolve … But there are many areas of life in which difficult borderline judgments have to be made. 
+This is well understood by the courts and is taken into account in deciding whether negligence or a 
+breach of section 2 of the Act has been established. In this context, it is highly relevant that the 
+common duty of care is to take such care ‘as in all the circumstances is reasonable’ to see that the 
+visitor is ‘reasonably’ safe in using the premises for the purpose for which he is invited or permitted 
+by the occupier to be there. The court is, therefore, required to consider all the circumstances. These 
+will include how obvious the danger is and, in an 
+↵
+appropriate case, aesthetic matters. If an 
+occupier is in doubt as to whether a danger is obvious, it may be well advised to take reasonable 
+measures to reduce or eliminate the danger. But the steps need be no more than reasonable steps. 
+That is why the decision in this case should not be interpreted as requiring occupiers like English 
+Heritage to place unsightly warning signs in prominent positions all over sensitive historic sites. (at 
+[28]–[30])25
+Where the danger is obvious there is usually no need to give a warning. Thus, in Staples v West Dorset District 
+Council [1995] the occupiers were under no duty to warn of the inherent dangers of a famous sea wall in Lyme 
+Regis known as ‘the Cobb’, which is covered in seaweed and algae and obviously very slippery.
+23
+24
+p. 327
+25
+11. Occupiers’ liability
+Page 16 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Nor will the failure to warn about one type of danger help the claimant if they subsequently suffer personal 
+injury as a result of an unrelated danger—as was the case in Darby v National Trust [2001].
+Darby v National Trust [2001] EWCA Civ 189 (CA)
+The claimant’s husband drowned while swimming in a pond at Hardwick Hall in Derbyshire owned 
+by the National Trust. He was a competent swimmer, but the pond was murky and very deep in places. 
+Visitors often swam or paddled in the pond and the National Trust did little to discourage this. There 
+was a legible but inconspicuous notice near the car park, which—among other things—forbade 
+bathing and boating, and wardens occasionally patrolled the ponds, discouraging people from 
+swimming in them by warning of the dangers of catching Weil’s disease from the water. The claimant 
+argued that the National Trust’s failure to place ‘No Swimming’ notices around the pond (or to 
+similarly warn of the risk of catching Weil’s disease) amounted to a breach of their common duty of 
+care under section 2 of the 1957 Act.
+The Court of Appeal held that such notices would have told Mr Darby ‘no more than he already knew’ 
+about the risks relating to swimming in open water and that the National Trust’s failure to warn 
+about one type of danger (Weil’s disease) could not help the claimant if they subsequently suffered 
+personal injury as a result of an unrelated danger (drowning) (at [25]–[26]). There were no special or 
+hidden dangers in relation to this particular pond and no duty on the part of the National Trust to 
+warn him of obvious dangers. The National Trust had done all that was reasonable in the 
+circumstances of the case to see that the claimant’s husband was reasonably safe while using its 
+premises:
+It cannot be the duty of the owner of every stretch of coastline to have notices warning of the 
+dangers of swimming in the sea. If it were so, the coast would have to be littered with notices 
+in places other than those where there are known to be special dangers which are not 
+obvious. The same would apply to all inland lakes and reservoirs. (May LJ at [27])
+11.2.2.4  Notices excluding liability
+The presence of an effective warning notice will defeat a claim under the 1957 Act because it means that, in 
+the circumstances, the defendant has taken reasonable care to ensure that visitors are safe on their premises. 
+By issuing a warning the defendant has told visitors what they must do and not do to avoid being harmed, 
+and has, in so doing, discharged their duty 
+↵
+to the visitors. This is different to the situation where an 
+occupier seeks to use a written notice (or similar, such as through an express term of a contract) to restrict, 
+exclude or otherwise modify their duty to a visitor imposed in section 2(1). Whereas warning notices seek to 
+ensure that visitors are reasonably safe, thus satisfying the duty imposed on the occupier under the 1957 Act, 
+such exclusions seek to limit the extent of the occupier’s duty so as to prevent a duty from arising in the first 
+place (or at least to limit its scope by setting out the conditions on which the claimant enters the premises).
+p. 328
+11. Occupiers’ liability
+Page 17 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Where the premises are occupied for business purposes, an occupier’s ability to limit their liability is 
+restricted by sections 2(1) and 2(2) of the Unfair Contract Terms Act 1977.26 Such an occupier is unable to 
+restrict liability for death or personal injury resulting from negligence; however they are able to restrict their 
+duty in relation to other damage where it is reasonable to do so. If the premises are in private use, the 
+occupier is free to extend, restrict or otherwise modify their liability as much (or as little) as they choose.
+11.2.2.5  Faulty execution of work
+Where an accident is the result of a subcontractor’s work on the premises, the occupier will not be liable if, in 
+all the circumstances, they have acted reasonably in entrusting the work to an independent contractor and 
+have taken reasonable steps (if appropriate) to check that the contractor is competent and that the work has 
+been properly done (s 2(4)(b)). Usually, the more technical the work, the more reasonable it will be to entrust 
+it to an independent contractor (compare Woodward v Mayor of Hastings [1945] in which the claimant was 
+able to recover for injuries sustained as a result of slipping on some icy steps—the cleaner had removed the 
+snow but not put down any grit (or similar) and Haseldine v CA Daw & Sons Ltd [1941] in which the occupier 
+was not liable for injuries sustained as a result of a broken lift—they had reasonably entrusted its 
+maintenance to the engineering company, which had not repaired it effectively).
+A claimant who is injured as a result of a subcontractor’s faulty work may (also or alternatively) have a claim 
+against that subcontractor under the ordinary principles of negligence. This raises an interesting related 
+question as to when an occupier is under a duty to ensure that subcontractors who they entrust to do work on 
+their premises are insured or otherwise have sufficient resources to meet any claims that may arise from 
+their negligence.
+Gwilliam v West Hertfordshire Hospitals NHS Trust [2002] EWCA Civ 
+1041 (CA)
+The 63-year-old claimant was injured while using a ‘splat wall’ (a Velcro wall which people attempt to 
+stick themselves to by jumping off a trampoline) run by an independent contractor at a charity fun 
+day organised by the defendant occupier, the NHS Trust. Her injuries were caused by the independent 
+contractor’s negligence. Unfortunately, the contractor’s insurance policy 
+↵
+had lapsed and so it 
+was unable to meet her claim in full. The claimant sued the NHS Trust for failing to ensure that the 
+contractor was adequately insured.
+The Court of Appeal denied her claim for the outstanding amount of damages. The majority of the 
+court held that though the NHS Trust owed the claimant a duty to check that the contractor had 
+adequate insurance (on the basis that this went to the competence of the contractor and so was 
+relevant to the reasonableness of the occupier in choosing the particular contractor), on the facts the 
+26
+p. 329
+11. Occupiers’ liability
+Page 18 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+NHS Trust had done enough (under s 2(4)(b) of the 1957 Act) to discharge their duty and so there was 
+no breach. It would, the majority suggested, be unreasonable to require the occupier to go any further 
+by, for example, checking the specific terms of the policy.
+Sedley LJ strongly dissented on the existence of a duty (though all members of the court concurred in 
+dismissing the appeal).27 There was, he suggested, a big difference between a duty to protect visitors 
+from physical injury and a duty to protect them from an inability to recover damages (at [56]).
+The upshot of the decision in Gwilliam is that a defendant occupier may be liable to the victims of a third 
+party’s wrong, if they fail to ensure that the third party is in a position to meet any such liabilities. It is 
+difficult to see why the simple fact that the third party’s negligence happened on the defendant’s premises is 
+sufficient reason for holding the occupier liable. As Jonathan Morgan suggests, Gwilliam appears to be 
+grounded in a particular view of the functions of tort law:
+All three judges seem to agree that the overriding purpose of liability in tort law is to compensate 
+loss by spreading it through an insurance pool, and therefore that a failure to bring this about by 
+failing to carry insurance is itself, in principle at least, a wrongful act.28
+However, shortly after Gwiliam, in Naylor v Payling [2004], the Court of Appeal held that the owner of a 
+nightclub had taken reasonable care to see that visitors to the club were safe by contracting the services of a 
+company to provide security at his club, and that, save in special circumstances, there was no general duty to 
+take reasonable steps to ensure that an independent contractor was insured. The claimant had suffered 
+serious head injuries while being ejected from the club. It was accepted that the bouncer had acted 
+negligently; however, his employer did not hold a public liability insurance policy covering the activities of 
+his employees and so was unable to meet the claim. Similarly, in Glaister v Appleby-in-Westmoreland Town 
+Council [2009], the Court of Appeal affirmed Neuberger LJ’s view in Naylor of Gwilliam being ‘a difficult 
+case’ (at [37]) and stating a preference for 
+↵
+the approach of Sedley LJ (at [54]). Rather than focusing on 
+the loss-spreading benefits of insurance, the Court of Appeal in Glaister focused on the deterrent effect of 
+such claims:
+I would reject the idea that those bodies, public or private, which try to encourage attendance at such 
+events or undertake some responsibility in relation to them thereby expose themselves to legal 
+liability for the negligence of other bodies participating in the event. I do not see the justice of it and 
+I am concerned that the fear of it is likely to act as a deterrent to those … who freely give their time 
+and energies to the encouragement of such events. If that were to happen, the result would be an 
+impoverishment of our community life. (Toulson LJ at [48])
+27
+28
+p. 330
+11. Occupiers’ liability
+Page 19 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Pause for reflection
+While the judges in Glaister were keen to praise the claimant’s ‘selfless and public spirited’ act (at 
+[64])—he was seriously injured after being kicked in the head attempting to catch a horse that had 
+broken loose from his tethering at the Appleby Horse Fair—the upshot of their decision was that he 
+was left uncompensated for his injuries. Do you think this is the right outcome? What role do you 
+think concerns about the so-called ‘compensation culture’ played in the court’s decision?
+11.2.2.6  Defences
+An occupier will not be liable where a visitor’s injuries arise from ‘risks willingly accepted as his by the 
+visitor’ (s 2(5)).29 The test is a high one. For the defence to succeed the claimant must be aware of the danger 
+and risk and have, expressly or impliedly, accepted it. In Geary v Wetherspoons plc [2011], for example, the 
+claimant fractured her spine and was paralysed after falling four metres onto a marble floor while attempting 
+to slide down a banister:
+The claimant freely chose to do something which she knew to be dangerous … She knew that sliding 
+down the banisters was not permitted, but she chose to do it anyway. She was therefore the author of 
+her own misfortune. The defendant owed no duty to protect her from such an obvious and inherent 
+risk. She made a genuine and informed choice and the risk that she chose to run materialised with 
+tragic consequences. (Coulson J at [46])
+Often where an occupier is unable to establish that the visitor has willingly accepted the risk of injury, they 
+may still be able to raise the defence of contributory negligence.30
+White Lion Hotel v James [2021] EWCA Civ 31 (CA)
+Christopher James died after falling from a second-floor window while staying at the White Lion 
+Hotel. At first instance, the judge found that the hotel owners had failed to take reasonable care for the 
+safety of the deceased in using the room (as required by s 2 of the 1957 Act), but made a finding of 60 
+per cent contributory negligence. There was no appeal against these findings. Rather the appeal was 
+on a point of law: that the judge had failed to apply the principle derived from Tomlinson, Edwards v 
+London Borough of Sutton and Geary v Wetherspoons plc, that ‘a person of full age and capacity who 
+chooses to run an obvious risk cannot found an action against a defendant on the basis that the latter 
+has either permitted him to do so, or not prevented him from so doing’ (at [5]).
+29
+30
+p. 331
+11. Occupiers’ liability
+Page 20 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Dismissing the appeal, the Court of Appeal held: ‘There is no absolute principle that a visitor of full age 
+and capacity who chooses to run an obvious risk cannot found an action against an occupier on the 
+basis that the latter has either permitted him so to do, or not prevented him from so doing’ (at [88]). 
+Davis LJ continued:
+What a claimant knew, and should reasonably have appreciated, about any risk he was 
+running is relevant to that analysis and, in cases such as Edwards and Tomlinson, may be 
+decisive. In other cases, a conscious decision by a claimant to run an obvious risk may, 
+nevertheless, not outweigh other factors: the lack of social utility of the particular state of the 
+premises from which the risk arises (the ability to open the lower sash window); the low cost 
+of remedial measures to eliminate the risk (£7 or £8 per window); and the real, even if 
+relatively low, risk of an accident recognised by the guilty plea. This was a risk which was not 
+only foreseeable, it was likely to materialise as part of the normal activity of a visitor staying 
+in the bedroom. (at [83])
+Nevertheless, on the facts of the case, the claimant had consciously chosen to sit on the window sill 
+and accepted the risk of falling if he leant too far out and that was not sufficient to amount to volenti 
+under section 2(5) of the Act.
+The defence of volenti non fit injuria was always a defence available to the occupier of the 
+property and section 2(5) expressly preserves it. … There is no finding that [James] was 
+aware of, and expressly or impliedly accepted, that the risk had been created by the 
+appellant’s breach of duty and by his actions he was deliberately absolving or forgiving the 
+appellant for creating the risk … In my judgment these are findings which provide a basis for 
+the determination of contributory negligence. They do not go sufficiently far to meet the 
+requirements of section 2(5). (at [89], [97])
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-11-2>.
+11.3  The Occupiers’ Liability Act 1957—Annotated
+In Figure 11.1 we have annotated extracts from the OLA 1957 highlighting the key issues discussed in this 
+chapter.
+11. Occupiers’ liability
+Page 21 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Access an interactive annotated copy of the Act <https://iws.oupsupport.com/embed/access/content/horsey9e-  
+student-resources/horsey9e-chapter-11-annotated-statute-occupiers-liability-act-1957-interactive> and click on 
+the highlighted phrases for author commentary. You can also download a non-interactive copy of the 
+annotated extract <https://iws.oupsupport.com/embed/access/content/horsey9e-student-resources/horsey9e-  
+chapter-11-annotated-statute-occupiers-liability-act-1957-figure-11-1>.
+11. Occupiers’ liability
+Page 22 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Figure 11.1 The Occupiers’ Liability Act 1957
+11.4  The Occupiers’ Liability Act 1984
+Under the 1984 Act,31 an occupier owes a duty (provided certain conditions are met (s 1(3))) to take 
+reasonable care in all the circumstances to see that persons ‘other than his visitors’—typically trespassers32 
+—do not suffer injury as a result of ‘danger due to the state of the premises or to things done or omitted to be 
+done on them’ (s 1(1)).
+p. 332
+p. 333
+p. 334
+31
+32 
+11. Occupiers’ liability
+Page 23 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Pause for reflection
+Imagine for a moment a ‘trespasser’. Who do you have in mind? A burglar? A squatter? Someone 
+sneaking a shortcut home across a neighbour’s garden? A group of teenagers up to mischief on a 
+building site? An elderly person who’s entered the wrong property by mistake? A child fetching their 
+football from a neighbour’s roof? A person swimming in a lake in a country park?
+Traditionally the law relating to trespassers has been very strict. Trespassers went onto premises at 
+their own risk and occupiers were simply under an obligation not to deliberately or recklessly cause 
+them harm (Addie & Sons (Collieries) Ltd v Dumbreck [1929]). This was seen to be particularly harsh, 
+especially in relation to young children. The turning point came in British Railways Board v Herrington 
+[1972] where the courts introduced a ‘duty to act humanely’. In this case, a child suffered severe burns 
+while playing on an electrified railway track. Although the defendant knew that a gap in their fence 
+was regularly used as a shortcut and had seen children on the line before, they took no action. The 
+House of Lords held that the claimant was able to recover. The defendant knew of the risk of children 
+playing near the railway tracks and in failing to take the necessary steps to repair the gap in the fence 
+was in breach of its duty.33 However, while the duty imposed on occupiers in Herrington clearly went 
+beyond a duty not to intentionally or recklessly cause harm, it was still lower than the duty set 15 
+years earlier in the 1957 Act. And, it wasn’t until almost 30 years after its predecessor, that the 1984 
+Act finally extended the same ‘common duty of care’ to trespassers—albeit in more limited 
+circumstances.
+Why do you think it took Parliament so long to pass the 1984 Act? Think about the policy reasons 
+behind the harshness of the common law—the reluctance of the courts to interfere with a 
+landowner’s freedom to use and enjoy their property coupled with the understanding of a trespasser 
+as a ‘wrongdoer’ deserving of their fate. Can the latter argument be justified given that the term 
+‘trespasser’ covers a wide variety of cases like those listed at the start of this box?
+11.4.1  ‘Persons other than his visitors’
+While it is clear that the 1984 Act applies to trespassers, what can be less clear is whether someone is or is not 
+a non-visitor or, more specifically, a trespasser. The case law is clear that an individual can start out as a 
+visitor but become a non-visitor or trespasser if they go beyond the permissions granted to them by the 
+occupier (see e.g. Tomlinson v Congleton). It is also the case that a visitor who—by virtue of a ‘genuine or 
+honest mistake’ made as a result of their confused or ‘mentally unstable’ state—enters a prohibited part of 
+the occupier’s premises is not a non-visitor or trespasser (Spearman).
+But what if an individual goes beyond the limits of their permission but then changes their mind—what if 
+they no longer want to be a trespasser but are unable to return to the part of the occupier’s premises where 
+they are allowed to be—are they still a trespasser? This was considered by the High Court in Ovu v London 
+Underground Ltd [2021].
+33
+p. 335
+11. Occupiers’ liability
+Page 24 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Ovu v London Underground Ltd [2021] EWHC 2733 (QB)
+The claimant, Mr Ovu, died after falling down a flight of concrete stairs in the early hours of the 
+morning at Canning Town Underground station. The stairs were located in a non-public area of the 
+station and were part of a series of staircases and walkways which formed the emergency exit route 
+from the public platforms. To access the stairs, Mr Ovu had passed through a clearly marked 
+emergency exit barrier (which had triggered a silent alarm to the station control centre). He later 
+passed through a more substantial, full height, wire gate or door. Although a non-public area, the 
+defendant knew that it was regularly used by fare-evaders and persons requiring somewhere to 
+urinate/be sick/take drugs. And so, once the alarm had sounded, the station customer service 
+manager went down to check and, assuming that Mr Ovu had rejoined the platform, closed the 
+substantial exit gate. At this point, the only way out of the station for Mr Ovu was to follow the 
+walkways to another gate which opened onto the street. The CCTV showed that Mr Ovu found this 
+gate but chose not to use it (perhaps because he didn’t realise what it was). Instead, he returned to the 
+original gate, where he stayed for some time before attempting to find an alternative exit, at which 
+point he fell.
+It was common ground that Mr Ovu passed through the emergency gates without the consent, 
+whether expressed or otherwise, of the defendant. However, counsel for the claimant argued, relying 
+on Spearman, that his behaviour in seeking to re-enter the platform suggested he intended to 
+continue with his journey and that, at the point the closed gate prevented him from fulfilling that 
+intention, he ceased to be a trespasser. In other words, that the status of a trespasser is not solely a 
+matter of location and permission but may be affected by the state of mind of the person entering 
+upon the (restricted) land.
+Master McCloud rejected this argument.
+11. Occupiers’ liability
+Page 25 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+In my judgment the crucial difference in the case of Mr Ovu is that firstly, he entered the off- 
+limits area having passed very clear barriers and signage (and cannot, and does not pray in 
+aid his own intoxication), and secondly that having at that stage become a trespasser merely 
+changing his mind and wishing to re-enter the platform is, whilst plainly a mental state, not 
+comparable to the case of a person who is unaware they have or are about to exceed their 
+licence or unaware (as in Herrington) that they will be entering 
+↵
+a dangerous area. … The 
+reference … [in Spearman] to a person’s state of mind and intention being an important 
+additional factor must be read in that light on the facts of Spearman and cannot be read in 
+my view as intending to import a broad notion of intentionality into the law of trespass. … 
+Mr Ovu entered the restricted area as a trespasser, was well aware of the fact that he was ‘off 
+limits’ due to barriers and signage, and in my judgment even assuming he later intended to 
+cease to be a trespasser, or even if one assumes he intended from the start to enter and then 
+return soon afterwards, that mental state intention did not change his status from being a 
+trespasser to being a licensee or invitee. … [H]e had exceeded the well signposted limits of his 
+permission and there is nothing on the agreed facts to suggest that the signage or barriers 
+were (unlike the fence in Herrington or the unmarked doors in Spearman) such as to mean 
+that he could not be aware of the limits of his licence. (at [66], [67], [69])
+Mr Ovu was therefore a trespasser and, as such, the question for the court was whether London 
+Underground owed him a duty of care under section 1(3) of the 1984 Act. Master McCloud concluded 
+that they did not. The closure of the gate did not give rise to a new danger or make matters more 
+dangerous than they were with the gate open, neither did the admitted failure to follow internal 
+procedure to check the exit areas after the alarm. Nor were stairs dangerous in and of themselves. As 
+such the risk is one the occupier could be reasonably expected to offer protection against:
+In this instance all we have is a staircase, in normal condition, on which Mr Ovu fell. Nothing 
+was being done on it or to it. There are no measures that the defendant could sensibly be 
+expected to have taken which would prevent a fall on an ordinary staircase in good condition, 
+given the obviousness of the risk of a fall on any stairs and the enormous implications if it 
+were to be necessary to—somehow—intervene to protect transport users from that normal 
+everyday risk. (at [79])
+Watch our video ‘No turning back: once a trespasser, always a trespasser’ where we consider the decision in 
+Ovu in more detail and argue that, notwithstanding the tragic circumstances of the case, it was correctly 
+decided.
+Video playback is not supported in this format.
+Video 11: No turning back: once a trespasser, always a trespasser
+p. 336
+11. Occupiers’ liability
+Page 26 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(a)
+11.4.2  Occupiers and premises
+Section 1(2) of the 1984 Act defines an occupier and premises in the same way as the 1957 Act. Similarly, as 
+with the 1957 Act, the duty imposed on occupiers under the 1984 Act extends only to harm caused by ‘any 
+danger due to the state of the premises’ rather than by the activities of those on the premises. As Master 
+McCloud noted in Ovu:
+[T]he reference to ‘danger due to the state of the premises or to things done or omitted to be done on 
+them’ is intended to echo the prior common law on ‘occupancy duties’ that is to say negligence (by 
+activity, omission or state of premises) which give rise to a danger due to the state of the land itself, 
+and not to ‘activity’ duties such as the holding of (say) a dangerous event such as a firework display, 
+which on the authors’ analysis falls to be determined outside the Acts. … in Tomlinson v Congleton … 
+in relation to the 1984 Act … the fact that a person may get into danger on a given piece of land is not 
+itself a peril due to the state of the premises, and that even if the occupier’s acts or omissions may 
+concurrently affect his safety this does not widen the ambit of the Act. Supporting that we see Revill 
+v Newbery in which the reckless shooting of a trespasser was not something governed, for liability 
+purposes, by the 1984 Act but was a matter for the common law. (at [73])
+↵
+By way of example, in Keown v Coventry National Health NHS Trust [2006] the Court of Appeal held that 
+the claimant’s injuries were caused by his activity (in climbing up the underside of a fire escape) rather than 
+the dangerous state of the premises (that is, the fire escape itself). More recently, in Brown v South West Lakes 
+Trust [2022] the claimant drowned after her car went into a reservoir after coming off a nearby road. 
+Rejecting the claim under the 1984 Act, Dingemans LJ held:
+I accept that the ‘state of the premises’, within the meaning of section 1 of the 1984 Act, might 
+include references to natural features. This is for the reasons given by Lord Hutton in Tomlinson v 
+Congleton, and because it is a conclusion which is supported by the provisions of section 1(6A) of the 
+1984 Act, which was inserted by amendment by the Countryside and Rights of Way Act 2000, which 
+referred to ‘a risk resulting from the existence of any natural feature’. However the fact that the 
+‘state of the premises’ can include natural features, does not mean that the claim in this case might 
+succeed. This is because it is necessary to show that there was a ‘risk of … suffering injury on the 
+premises by reason of any danger due to the state of the premises’ (emphasis added). In this case the 
+danger arose because Mrs Brown’s car came off the highway, travelled across the verge, went 
+through the fence and down the bank, and into the reservoir. This danger was not due to the ‘state’ 
+of the reservoir. (at [37])
+11.4.3  Establishing a duty
+A crucial difference between the 1957 Act and the 1984 Act is that while an occupier will always owe a duty of 
+care to a visitor, this is not the case in relation to a non-visitor. In order for a duty to be owed under the 1984 
+Act, the following conditions, set out in section 1(3), must be met:
+that the occupier is aware of the danger or has reasonable grounds to believe that it exists; and
+p. 337
+11. Occupiers’ liability
+Page 27 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(b)
+(c)
+the occupier knows, or has reasonable grounds to believe that someone is, or may come, in the vicinity 
+of the danger (whether or not they have lawful authority to do so); and
+the risk is one against which, in all the circumstances of the case, the occupier may reasonably be 
+expected to offer some protection.
+If these three conditions are satisfied the occupier will owe a duty of care in respect of any personal injury 
+suffered by a non-visitor. Unlike the 1957 Act, the 1984 Act does not extend to property damage (s 1(8)).
+Tomlinson v Congleton Borough Council [2003] UKHL 47 (HL)
+The claimant hit his head on the bottom of a lake (in a public park managed by the defendants) while 
+attempting a shallow dive. He broke his neck and, apart from some small movement in his hands and 
+arms, was paralysed from the neck down. Although boating and fishing were allowed, swimming was 
+forbidden at the lake; prominent notices read: ‘Dangerous water: no swimming’. However, visitors 
+frequently ignored these, as well as the verbal warnings from 
+↵
+council-employed park rangers, 
+and several accidents had already occurred. The council knew this and had planned, for a number of 
+years, to plant vegetation on the ‘beach’ areas to prevent people from entering the water. They had 
+not yet done this for financial reasons. The claimant sued the council on the grounds that the council 
+had breached their duty of care under the 1984 Act. The claimant’s status as a visitor to the park was 
+limited to the time before he entered the lake. As he did not have the occupier’s permission to enter 
+the water (he had ignored the warning signs) he became a trespasser as soon as he did so.
+The House of Lords rejected his claim, overturning a majority Court of Appeal decision. There was no 
+risk to the claimant due to ‘the state of the premises or anything done or omitted upon the premises’, 
+and so no risk of a kind which gave rise to a duty under either of the OLAs:
+There was nothing about the mere at Brereton Heath which made it any more dangerous 
+than any other ordinary stretch of open water in England … [Tomlinson] was a person of full 
+capacity who voluntarily and without any pressure or inducement engaged in an activity 
+which had inherent risk. The risk was that he might not execute his dive properly and so 
+sustain injury. Likewise, a person who goes mountaineering incurs the risk that he might 
+stumble or misjudge where to put his weight. In neither case can the risk be attributed to the 
+state of the premises. (Lord Hoffmann at [26]–[27])
+Nor did it make a difference that the council themselves had intended to take steps to reduce the 
+danger by making it harder for people to gain access to the lake. Though the defendants were aware of 
+the danger and had reasonable grounds to believe that people were in the vicinity of it, the risk was 
+not one against which they could be reasonably expected to offer protection (s 1(3)(c)). Lord 
+Hoffmann continued:
+p. 338
+11. Occupiers’ liability
+Page 28 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+It will be extremely rare for an occupier of land to be under a duty to prevent people from 
+taking risks which are inherent in the activities they freely choose to undertake upon the 
+land. If people want to climb mountains, go hang-gliding or swim or dive in ponds or lakes, 
+that is their affair. Of course the landowner may for his own reasons wish to prohibit such 
+activities. He may think that they are a danger or inconvenience to himself or others. Or he 
+may take a paternalist view and prefer people not to undertake risky activities on his land. He 
+is entitled to impose such conditions, as the Council did by prohibiting swimming. But the 
+law does not require him to do so … [Moreover,] even if swimming had not been prohibited 
+and the Council had owed a duty under section 2(2) of the 1957 Act, that duty would not have 
+required them to take any steps to prevent Mr Tomlinson from diving or warning him 
+against dangers which were perfectly obvious.34 If that is the case, then plainly there can 
+have been no duty under the 1984 Act. The risk was not one against which he was entitled 
+under section 1(3)(c) to protection. (at [45], [50])35
+Thus, the requirements for establishing a duty of care under section 1(3) of the 1984 Act had not been 
+met.
+Counterpoint
+↵
+In Tomlinson the House of Lords affirmed the ‘principle of individual responsibility’36 and an 
+understanding of tort law as a set of rules and principles of ‘personal responsibility (and freedom) 
+which concern how people may, ought or ought not behave in their dealings with others’.
+The law does not provide such compensation simply on the basis that the injury was so 
+disproportionately severe in relation to one’s fault or even not one’s own fault at all. Perhaps 
+it should, but society might not be able to afford to compensate everyone on that principle, 
+certainly at the level at which such compensation is now paid. The law provides 
+compensation only when the injury is someone else’s fault. (Lord Hoffmann at [4])
+Of course, one significant consequence of the claimant’s inability to establish fault was that he bore 
+the entirety of the costs of his injury. His condition was no one’s fault but his own.
+Lord Hoffmann also considered the ‘social cost’ of finding the council liable. The principles of 
+distributive justice are used to limit, rather than (as is more usual) to enable recovery:
+34
+35
+p. 339
+36
+11. Occupiers’ liability
+Page 29 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+There is an important question of freedom at stake. It is unjust that the harmless recreation 
+of responsible parents and children with buckets and spades on the beaches should be 
+prohibited in order to comply with what is thought to be a legal duty to safeguard 
+irresponsible visitors against dangers which are perfectly obvious. The fact that such people 
+take no notice of warnings cannot create a duty to take other steps to protect them. (Lord 
+Hoffmann at [46])
+Whichever view one prefers, the conclusion was, perhaps, inevitable.37
+Tomlinson provides an excellent example of the operation of the 1984 Act, and the difference between this Act 
+and its 1957 counterpart. Under the 1957 Act, all the claimant needs to establish is that they were a visitor to 
+the defendant’s premises. Once this is proved, the occupier will automatically owe the claimant a duty of care 
+and attention shifts to the other stages of a claim: Was the duty breached? Did it cause the claimant loss? Are 
+there any defences? Under the 1984 Act, however, establishing a duty is less straightforward, and more claims 
+will be defeated at this stage.38
+Pause for reflection
+↵
+In Tomlinson the claim was rejected on the basis that no duty was owed to the claimant. This is 
+because a duty will not arise under the 1984 Act unless the risk is one against which the occupier may 
+reasonably be expected to offer some protection. In the circumstances, the House of Lords held that 
+the council should not be expected to take steps to protect people from the obvious risks of diving into 
+shallow water. As Lord Hoffmann noted, however, the same result would in substance have been 
+reached had the claimant been classed as a visitor and his case had been dealt with under the 1957 Act. 
+The only difference would have been that the claim would have failed not at the duty stage (since the 
+1957 Act automatically imposes a duty to all visitors) but at the breach stage (since, as the House of 
+Lords held, it was not reasonable to expect the council to take any steps to make the premises safer).
+As such, although the two Acts will often lead to the same results, they will do so for slightly different 
+reasons. Cases that fail on the basis that there was no breach under the 1957 Act will often be 
+dismissed under the 1984 Act on the ground that no duty arises in the first place. This reflects an 
+important but subtle difference in emphasis between the two Acts:
+Parliament has made it clear that in the case of a lawful visitor, one starts from the 
+assumption that there is a duty whereas in the case of a trespasser one starts from the 
+assumption that there is none. (Lord Hoffmann at [38])
+37
+38
+p. 340
+11. Occupiers’ liability
+Page 30 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+If, as Lord Hoffmann suggests, the end result is (or at least can be) the same, why then do you think 
+Parliament has created this difference in the operation of the two Acts? Think again about the 
+distinction between visitors and non-visitors and the policy reasons for limiting liability in respect of 
+trespassers.
+11.4.3.1  Awareness of (or reasonable grounds to believe in the existence of) danger
+In order for an occupier to owe a non-visitor a duty of care, they must be aware of the danger, or have 
+reasonable grounds to believe that it exists (s 1(3)(a)). While the first part of this ground is subjective—it 
+requires the occupier to know about the danger—the second part is (at least partly) objective—it asks 
+whether the occupier reasonably ought to know about it.
+Rhind v Astbury Water Park Ltd [2004] EWCA Civ 756 (CA)
+The claimant suffered serious injuries after he hit his head on a fibreglass container diving into 
+Astbury Mere in Cheshire to retrieve his football. The container was not visible from the surface; it 
+was lying on the bed of the Mere, covered in silt. As there were clear notices near the Mere saying: 
+‘Private Property: Strictly No Swimming Allowed’ the claimant was a trespasser and so the question 
+for the Court of Appeal was whether the defendants owed a duty of care under the 1984 Act.
+Denying the claimant’s claim, the court held that the defendants had no knowledge, nor were there 
+reasonable grounds for them to believe, that the container was hidden beneath the surface of the Mere 
+and that, as a result, no duty was owed.
+11.4.3.2  Knowledge of (or reasonable grounds to believe in) the presence of a non-visitor 
+in the vicinity of danger
+The occupier must also be aware, or have reasonable grounds to believe, that a non-visitor is in the vicinity of 
+the danger (s 1(3)(b)). When we say that a person has reasonable grounds to believe that something is true, 
+this means that, from the knowledge they do in fact have, they should have worked out or discovered 
+something else. So, for instance, you may have reasonable grounds to believe that a problem question on 
+occupiers’ liability will appear on this year’s exam paper if such a question has been included in every paper 
+in the past ten years. From your knowledge of fact A—the contents of the past exam papers—you have 
+reason to infer fact B—that such a question will appear in this year’s paper. Accordingly, before we can say 
+that an occupier had reasonable grounds to believe that a non-visitor is, or may arrive, in the vicinity of the 
+danger on his premises, he must have actual knowledge of such ‘background’ or ‘primary’ facts as would 
+support such an inference (Swain v Puri [1996]).
+p. 341
+11. Occupiers’ liability
+Page 31 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+So, for example, if I know that people are playing football next to my field and that, in the past, people have 
+come onto my field to fetch their ball, I have reasonable grounds to believe (i.e. I should have figured out) that 
+they may do so again. However, if I had no knowledge that people had ever played football there or had gone 
+onto the field to fetch their balls, even if I should have known this, I cannot be said to have reasonable grounds 
+to believe they may do this in the future. To this extent, those who know less are less likely to be held liable, 
+even though complete ignorance may be no less (and, indeed, may be more) culpable than partial ignorance.
+The other point to note is that the defendant must know, or have reasonable grounds to believe, that the 
+claimant (or someone like them) is in the vicinity of the danger at the time the claimant was injured. So it is not 
+in itself enough to show that the defendant knew that the claimant had been on the premises previously, or 
+even that they were likely to do so again. This may provide grounds for a reasonable belief that the claimant 
+was in the vicinity of the danger at the time of the accident but whether it does will depend on the 
+circumstances. For example, in Donoghue v Folkestone Properties Ltd [2003], the claimant’s claim in respect of 
+injuries he suffered while diving into the defendant’s harbour was denied because, although the defendant 
+was aware that people swam in the harbour during summer, they were not, and could not reasonably have 
+been expected to be, aware that this would happen at night during the winter, which was when the claimant 
+was injured.
+11.4.3.3  Reasonable expectation of protection against the risk
+Finally, the risk must be such that in all the circumstances of the case the defendant may be reasonably 
+expected to offer some protection from it (s 1(3)(c)). As we have seen, this is where the claims failed in 
+Tomlinson and Ovu. In determining whether it is reasonable to expect the occupier to offer protection, the 
+courts must engage in a balancing exercise similar to that which they embark upon when determining 
+whether a duty of care has been breached. This would include taking into account the costs of requiring the 
+occupier to take steps to make the premises safer. For example, in Simonds v Isle of Wight Council [2004] a 5- 
+year-old boy fell off a swing, breaking his arm. The swing was near to a playing field being used for a school 
+sports day. It was argued that the school was under a responsibility to discourage the pupils from using the 
+swings, for example by placing a cordon around them. This was rejected. One of the reasons the courts gave 
+for this was that a likely consequence 
+↵
+of finding the school liable was ‘that sports days and other simple 
+pleasurable sporting events would not be held … Such events would become uninsurable or only insurable at 
+prohibitive cost’ (at [30]).
+11.4.4  The standard of care
+The occupier’s duty, once it is established, is to ‘take such care as is reasonable in all the circumstances of the 
+case to see that the [non-visitor] does not suffer injury on the premises’ (s 1(4)). This is a more restrictive 
+duty than that found in the 1957 Act—which requires the occupier ‘to take sure take such care as is 
+reasonable in all the circumstances of the case to see that the visitor will be reasonably safe in using the 
+premise for the purpose for which they were invited’ (s 2(2)).
+p. 342
+11. Occupiers’ liability
+Page 32 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+We may think that an occupier should not be expected to go as far to secure the safety of those they have not 
+invited onto their land as they would in respect of those they have invited. As such, it is likely that in 
+determining what will amount to reasonable care the courts will take into account that the claimant will not 
+have been invited (expressly or by implication) onto the premises and that the occupier’s duty under the 1984 
+Act is not as exacting as the duty under the 1957 Act (Donoghue v Folkestone Properties Ltd (at [31])). Beyond 
+this, and as with the 1957 Act, in assessing what amounts to reasonable care the courts will weigh up the 
+same sorts of factors as in ordinary common law negligence claims, including, for example, the resources of 
+the defendant and the cost of taking precautions (Ratcliff v McConnell [1999]).
+11.4.4.1  Warnings
+It is possible for an occupier to discharge their duty under the 1984 Act by giving a warning or by 
+discouraging people from entering the premises (e.g. a locked gate) (s 1(5)). However, unlike under the 1957 
+Act, where the warning must be such as to enable the visitor in all the circumstances to be reasonably safe 
+(OLA 1957, s 1(4)(a)), under the 1984 Act all the occupier needs to do is to take reasonable steps to bring the 
+danger to the claimant’s attention.
+11.4.4.2  Risks willingly accepted by the non-visitor
+As under the 1957 Act, no duty will be owed by the occupier in respect of risks willingly accepted by the non- 
+visitor (s 1(6)). Thus in Ratcliff v McConnell the Court of Appeal held that no duty was owed to a claimant who 
+accepted the risk of serious injury from diving into water of an unknown depth when he climbed over a fence 
+surrounding his college open-air swimming pool on his way home after a night out.
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-11-4>.
+11.5  The Occupiers’ Liability Act 1984—Annotated
+In Figure 11.2 we have annotated extracts from the OLA 1984 highlighting the key issues discussed in this 
+chapter.
+Access an interactive annotated copy of the Act <https://iws.oupsupport.com/embed/access/content/horsey9e-  
+student-resources/horsey9e-chapter-11-annotated-statute-occupiers-liability-act-1984-interactive> and click 
+on the highlighted phrases for author commentary. You can also download a non-interactive copy of the 
+annotated extract <https://iws.oupsupport.com/embed/access/content/horsey9e-student-resources/horsey9e-  
+chapter-11-annotated-statute-occupiers-liability-act-1984-figure-11-2>.
+11. Occupiers’ liability
+Page 33 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+11. Occupiers’ liability
+Page 34 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Figure 11.2 The Occupiers’ Liability Act 1984
+11.6  The Occupiers’ Liability Acts 1957 and 1984—At a glance
+See Table 11.1.
+p. 343
+p. 344
+p. 345
+11. Occupiers’ liability
+Page 35 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Table 11.1 Summary of the Occupiers’ Liability Acts 1957 and 1984 You can also download a 
+copy <https://iws.oupsupport.com/embed/access/content/horsey9e-student-resources/  
+horsey9e-occupiers-liability-acts-1957-and-1984-at-a-glance-table-11-1> of this ‘at a 
+glance’ summary of the Occupiers’ Liability Acts 1957 and 1984.
+1957
+1984
+Type of damage 
+(to claimant)
+Personal injury and property damage (s 1(3) 
+(b)) (as old common law).
+Personal injury only. Property damage excluded (s 
+1(8)) but may be covered by common law (British 
+Railways Board v Herrington [1972]).
+‘Premises’
+Wide definition: ‘any fixed or moveable 
+structure’ including vehicles (s 1(3)).
+As 1957 Act (s 1(2)).
+‘Occupier’
+Person who would have been at common law 
+(s 1(2); Wheat v Lacon; Harris v Birkenhead 
+Corporation).
+As 1957 Act (s 1(2)(a)).
+‘Visitor’
+All visitors (s 1(2)) including invitees, 
+licensees at common law and contractual 
+visitors (s 5).
+All non-visitors (usually trespassers) (s 1(1)(a)).
+Also, subject to certain restrictions, includes ramblers 
+(exercising a right under s 2(1) of the Countryside and 
+Rights of Way Act 2000).
+It does not apply to people using the highway (s 1(7)) 
+or people using other public rights of way (s 1A).
+Duty
+Occupier owes ‘a common duty of care’ to all 
+visitors simply by virtue of the fact that they 
+are visitors (s 2(1)).
+Occupier only owes a duty (defined in s 1(4)) if:
+(a) aware of danger (or has reasonable grounds to 
+believe it exists); and
+(b) knows (or has reasonable grounds to believe) a 
+non-visitor is (or may be) in vicinity of danger; and
+(c) the risk is one in all the circumstances the occupier 
+may be reasonably expected to protect against (s 
+1(3)).
+See Tomlinson; Ovu.
+Extent of the 
+duty (or 
+standard of care)
+A duty to take such care that the visitor is 
+reasonably safe while using the premises for 
+the purposes for which they are invited (s 
+2(2)).
+It is the visitor, not premises, who must be 
+reasonably safe; different standards of care 
+apply for different visitors—i.e. children and 
+professionals (s 2(3)).
+A duty to ‘take such care as is reasonable in all the 
+circumstances of the case to see that the [non-visitor] 
+does not suffer injury on the premises’ (s 1(4)).
+Discharging duty 
+(or breach)
+As ordinary principles of breach (see Chapter 
+8).
+As ordinary principles of breach (see Chapter 8).
+11. Occupiers’ liability
+Page 36 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+1957
+1984
+The occupier’s duty to ensure that the visitor 
+will be reasonably safe while on their 
+premises, not obligation to ensure safety of 
+visitors (Bowen v National Trust).
+However, this does not mean that the visitor 
+cannot be expected to take reasonable care 
+for their own safety (s 2(3)).
+Standard of care may vary depending on the 
+identity and expertise of the visitor, in 
+particular:
+(1) the standard of care expected will be 
+higher in relation to children, who are ‘less 
+careful than adults’ ((s 2(3)(a)); Jolley);
+(2) professional visitors can be expected to 
+‘appreciate and guard against special risks’ (s 
+2(3)(b); Roles v Nathan [1963]).
+May be discharged by taking reasonable 
+steps to give warnings must enable visitor to 
+be ‘reasonably safe’ (s 2(4)(a); Darby).
+Generally there will be no liability for harms 
+caused where independent contractors have 
+done faulty work on the premises as long as 
+occupier has acted reasonably in entrusting 
+the work to them (s 2(4)(b)).
+May be discharged by taking reasonable steps to give: 
+a warning of the danger concerned (s 1(5)) (no 
+requirement of reasonable safety); discouragement to 
+persons from incurring the risk (s 1(5)).
+Limitations and 
+defences
+Occupier can extend, restrict, modify or 
+exclude their duty (so far as they are free to 
+do so) via a notice or contract (s 2(1) (subject 
+to UCTA, s 2)).
+Generally no duty in relation to risks 
+‘willingly accepted as his’ by the visitor (s 
+2(5)) (Geary v Wetherspoons plc cf White Lion 
+Hotel v James).
+Contributory negligence (implied by s 2(3) 
+although not mentioned in the statute, it is 
+used by courts).
+No express provision—but probably as 1957 Act (s 
+2(1)).
+Generally no duty in relation to risks ‘willingly 
+accepted as his’ by the visitor (s 1(6); Ratcliff v 
+McConnell).
+Contributory negligence (not mentioned in the 
+statute, but is used by courts).
+11. Occupiers’ liability
+Page 37 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+1
+2
+11.7  Conclusion
+All injuries that do not happen at the claimant’s home or on the road must happen on someone else’s 
+property. In this chapter, we have considered the circumstances in which an occupier may be liable for 
+injuries sustained on their premises. Despite Tony Weir’s suggestion that accidents on private property have 
+been marked out for special attention since 1866 when an employee of the gas company fell into an unfenced 
+vat in a sugar factory (in Indermaur v Dames [1867]),39 traditionally there has been a reluctance to allow such 
+claims—usually relating to a desire to leave landowners alone to enjoy their land as they wish. This has been 
+given a contemporary twist. The imposition of liability has been framed as an attack on the liberties of both 
+the individual who chooses to engage in dangerous (but otherwise harmless) pastimes at his own risk and of 
+citizens as a whole to enjoy the countryside. This is particularly apparent in Tomlinson, where the House of 
+Lords reasserted the importance of individual responsibility, fault and interpersonal justice as the 
+foundations of tortious liability.
+Nevertheless, an occupier will be liable if they have not taken reasonable care to ensure that those they have 
+invited, and sometimes not invited, onto their premises are reasonably safe. Determining the scope and 
+nature of occupiers’ duty is a heady mix of common law and statute. However, while the OLAs define the 
+circumstances in which a duty of care will be owed (and tell us something as to its extent, as well as matters 
+relating to its discharge and limitation), it is important to remember that questions of breach and causation 
+still need to be established by reference to the ordinary principles of negligence.
+End-of-chapter questions
+After reading the chapter carefully, try answering the questions which follow.
+What are the main similarities and differences between the Occupiers’ Liability Act 1957 and the Occupiers’ 
+Liability Act 1984?
+Critically discuss the following statement in the context of occupiers’ liability.
+‘Adults must be responsible for their own actions. It would be disastrous for society and contrary to public 
+interest, if adults … could get intoxicated and incapable, relying on a duty of care on others to ensure no harm 
+befalls them, or to compensate them when it inevitably does.’ (Master McCloud referring to the defendant’s 
+arguments in Ovu v London Underground Ltd at [48])
+Use case examples to support your answer.
+If you would like to know what we think, check the answer guidance <https://iws.oupsupport.com/ebook/  
+access/content/horsey9e-student-resources/horsey9e-chapter-11-answers-to-end-of-chapter-questions? 
+options=showName>.
+p. 346
+p. 347
+39
+11. Occupiers’ liability
+Page 38 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+→
+→
+→
+→
+Answering the problem question
+Consider again the problem question at the start of this chapter. Now having read about the topic, what 
+would be your advice to the various parties?
+Here are some pointers to get you started:
+Are Iris, Otto and Bill visitors or non-visitors? You need to consider this in relation to each of them as this 
+will determine which Act applies.
+Breach and causation are straightforward here, but could Bill be found contributorily negligent?
+If you need some more guidance:
+See the annotated version of the problem with issues and cases to consider <https://  
+iws.oupsupport.com/embed/access/content/horsey9e-student-resources/horsey9e-chapter-11-annotated- 
+problem-question-interactive>.
+Check your answer against the suggested outline answer <https://iws.oupsupport.com/embed/access/  
+content/horsey9e-student-resources/horsey9e-chapter-11-answers-to-problem-question>.
+Further reading
+Much of the academic writing in this area concentrates on one or other of the two Acts. The best place to start your 
+reading is with Buckley’s 2006 article which looks at both Acts and will give you an overview of the law with a 
+comparative twist.
+Buckley, Richard ‘The Occupiers’ Liability Act 1984—Has Herrington Survived?’ [1984] The Conveyancer 413
+Buckley, Richard ‘Occupiers’ Liability in England and Canada’ (2006) 35 Common Law World Review 197
+Jones, Michael ‘The Occupiers’ Liability Act’ (1984) 47 Modern Law Review 713
+Morgan, Jonathan ‘Tort, Insurance and Incoherence’ (2004) 67 Modern Law Review 384
+Payne, Douglas ‘The Occupiers’ Liability Act’ (1958) 21 Modern Law Review 359
+Additional suggestions for further reading can be found in this chapter’s web links <https://iws.oupsupport.com/  
+ebook/access/content/horsey9e-student-resources/horsey9e-chapter-11-web-links?options=showName>.
+p. 348
+11. Occupiers’ liability
+Page 39 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Notes
+ 
+1. In this chapter, we will use the abbreviation OLAs when referring to both of the Occupiers’ Liability Acts and OLA 
+1957 or OLA 1984 when referring to a specific Act.
+ 
+2. Richard Buckley ‘Occupiers’ Liability in England and Canada’ (2006) 35 Common Law World Review 197, 215.
+ 
+3. See further Jane Stapleton ‘Tort, Insurance and Ideology’ (1995) 58 Modern Law Review 820 and Jonathan Morgan 
+‘Tort, Insurance and Incoherence’ (2004) 67 Modern Law Review 384.
+ 
+4. You may find it helpful to refer to the annotated version of the 1957 Act (section 11.3) or the OLAs ‘at a glance’ table 
+(section 11.6). You can also download copies of the annotated Act <https://iws.oupsupport.com/embed/access/  
+content/horsey9e-student-resources/horsey9e-chapter-11-annotated-statute-occupiers-liability-act-1957-figure-11-1> 
+and the table <https://iws.oupsupport.com/embed/access/content/horsey9e-student-resources/horsey9e-occupiers-  
+liability-acts-1957-and-1984-at-a-glance-table-11-1>.
+ 
+5. Discussed in Chapters 2 to 10, 18 and 19, respectively.
+ 
+6. And the 1984 Act discussed in section 11.4.
+ 
+7. This distinction between so-called ‘occupancy’ and ‘activity’ duties predates the OLAs. It was developed by the 
+courts as a way of avoiding the harshness of the common law. While liability in relation to the former depended on the 
+status of the visitor, the ordinary rules of negligence applied to the latter.
+ 
+8. His claim relying on the ordinary tort of negligence was successful.
+ 
+9. Buckley n2 208.
+ 
+10. This explains why landlords are not (usually) liable under the 1957 Act (although they may be liable under the 
+Defective Premises Act 1972).
+ 
+11. The Defective Premises Act 1972 is also discussed in relation to negligence liability for economic loss in section 7.4. 
+See also JR Spencer ‘The Defective Premises Act 1972—Defective Law and Defective Law Reform’ [1975] Cambridge 
+Law Journal 48.
+ 
+12. This duty also extends to the visitor’s property (s 1(3)(b)).
+ 
+13. This is largely a matter of common sense. Consider again the dinner guest who fell down the stairs in the examples 
+at the start of the chapter. They will remain a visitor (and the occupier will be liable) so long as their presence on the 
+stairs was reasonable. See further Gould v McAuliffe [1941] and Kolasa v Ealing Hospital NHS Trust [2015].
+ 
+14. This has raised further questions as to whether the ‘test’ which establishes whether the claimant is a visitor or non- 
+visitor (trespasser) is subjective or objective. See further discussion of Ovu v London Underground Ltd [2021] in 
+section 11.4.
+ 
+15. The judge also refused to find the claimant contributorily negligent, see further section 10.4.1.
+ 
+16. The defendants’ appeal was unsuccessful. The claimant—a Commonwealth Games medal winner and the first blind 
+man to reach the South Pole—expressly limited his claim to £2 million, the limit of the defendants’ insurance. Without 
+this, the value of his claim would have been ‘significantly greater’ (at [1]).
+ 
+17. A claim under the 1984 Act was abandoned.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+11. Occupiers’ liability
+Page 40 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+18. BBC News Online ‘No compensation for Plymouth student injured in fall’ 29 July 2010.
+ 
+19. See e.g. Latimer v AEC Ltd [1953].
+ 
+20. Thus, in relation to the examples posed at the beginning of the chapter, while an occupier might be reasonably 
+expected to ensure that children’s toys are tidied away before hosting a dinner party (this being fairly easily achieved), 
+more information is needed (in relation to the resources of the occupier, extent of the unevenness, cost of repair and 
+so on) before the same can be said in relation to the uneven paving stone at the students’ halls of residence.
+ 
+21. Consider again the spilt milk in a supermarket aisle in the examples at the beginning of the chapter—what 
+additional information would the court need in order to decide whether the occupier was in breach of their duty?
+ 
+22. A similar claim against an occupier also failed in General Cleaning Contractors v Christmas [1953] (discussed in 
+section 13.2.3).
+ 
+23. A warning that might suffice to alert adults to dangers on the premises may not be sufficient to warn children. 
+Similarly, simply placing a warning sign in the supermarket aisle (in the example at the beginning of the chapter) may 
+not be enough, in itself, to absolve the occupiers of liability.
+ 
+24. The claimant’s damages were reduced by 50 per cent on the basis of his contributory negligence.
+ 
+25. Inevitably, perhaps, this latter point was lost on certain parts of the British press. See e.g. Nicola Harley ‘Historic 
+sites could be littered with “irritating” warning signs after pensioner fell in moat’ The Telegraph 12 May 2016.
+ 
+26. Section 1(1)(c) of the Unfair Contract Terms Act 1977 specifically refers to notices excluding or limiting liability 
+under the 1957 Act.
+ 
+27. Sedley LJ also disagreed with Lord Woolf CJ and Waller LJ on the issue of breach. If the Trust had owed a duty of 
+care, he argued, given the ease with which the insurance certificate could have been checked (e.g. by being faxed or 
+sent to the hospital), the Trust would have, on the facts of the case, breached their duty.
+ 
+28. Morgan n3 389.
+ 
+29. The statutory defence found in s 2(5) of the 1957 Act is indistinguishable from the common law defence of volenti, 
+discussed further in section 10.2.
+ 
+30. Discussed in section 10.4.
+ 
+31. You may find it helpful to refer to the annotated version of the 1984 Act (section 11.5) or the OLAs ‘at a 
+glance’ (section 11.6).
+ 
+32. While it is tempting to see the distinction between the 1957 and 1984 Acts as applying to ‘lawful’ and ‘unlawful’ 
+visitors, this is not accurate. The term ‘non-visitor’ also applies to people exercising a private right of way and 
+ramblers lawfully exercising a public right of way by using a footpath across private land (subject to some exclusions) 
+(s 1(6A) as inserted the Countryside and Rights of Way Act 2000, s 13).
+ 
+33. There is an interesting parallel here with land negligence cases such as Sedleigh-Denfield v O’Callaghan [1940]; 
+Goldman v Hargrave [1967] and so on, discussed in Chapter 19, where an awareness of a danger on one’s land has 
+resulted in liability if the landowner fails to do something about it.
+ 
+34. See section 11.2.2.3.
+ 
+35. Compare Lord Hoffmann’s opinion in Tomlinson with the majority of the Court of Appeal in Scout Association v 
+Barnes [2010] discussed in section 8.4.4.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+11. Occupiers’ liability
+Page 41 of 41
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+36. Morgan n3 401.
+ 
+37. On the implications of Tomlinson, see Clare Dyer ‘Hardy bathers win right to swim unsupervised’ The Guardian 27 
+April 2005. It is worth noting, however, that the Court of Appeal in Tomlinson came to the opposite conclusion. It held 
+not only that the council owed the claimant a duty of care but also that it was in breach of this duty—though it 
+reduced the claimant’s damages by two-thirds to reflect the extent to which he was contributorily negligent. Ward LJ 
+noted:
+Congleton Beach, as the place was also known, was as alluring to ‘macho’ young men as other dangerous 
+places were to young children. In my judgment the gravity of the risk of injury, the frequency with which 
+those using the park came to be exposed to the risk, the failure of warning signs to curtail the extent to 
+which the risk was being run, indeed the very fact that the attractiveness of the beach and the lake acted as a 
+magnet to draw so many into the cooling waters, all that leads me to the conclusion that the occupiers were 
+reasonably to be expected to offer some protection against the risks of entering the water. It follows that in 
+my judgment the defendants were under a duty to the [claimant] … The authorities were inviting public use 
+of this amenity knowing that the water was a siren call strong enough to turn stout men’s minds. In my 
+judgment the posting of notices, shown to be ineffective, was not enough to discharge the duty. (at [29], 
+[31])
+ 
+38. Consider again the student injured when diving into a lake in the examples at the beginning of the chapter. What 
+additional information would you need in order to determine which OLA to apply and advise them as to the potential 
+outcome of their claim?
+ 
+39. Tony Weir An Introduction to Tort Law (2nd edn OUP 2006) 20.
+© Kirsty Horsey & Erika Rackley 2025
+Related Books
+View the Essential Cases in tort law
+Related Links
+Test yourself: Multiple choice questions with instant feedback <https://learninglink.oup.com/access/content/brennan-  
+concentrate6e-student-resources/brennan-concentrate6e-diagnostic-test>
+Find This Title
+In the OUP print catalogue <https://global.oup.com/academic/product/9780198925231>
+36.
+37.
+38.
+39.

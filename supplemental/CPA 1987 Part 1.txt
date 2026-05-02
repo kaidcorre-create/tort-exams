@@ -1,0 +1,373 @@
+Changes to legislation: There are currently no known outstanding effects for
+the Consumer Protection Act 1987, Part I. (See end of Document for details)
+Consumer Protection Act 1987
+1987 CHAPTER 43
+PART I
+PRODUCT LIABILITY
+1
+Purpose and construction of Part I.
+(1) This Part [F1was enacted] for the purpose of making such provision as [F2was]
+necessary in order to comply with the product liability Directive and shall be construed
+accordingly.
+(2) In this Part, except in so far as the context otherwise requires—
+F3...
+“dependant” and “relative” have the same meaning as they have in,
+respectively, the M1Fatal Accidents Act 1976 and the [F4Damages (Scotland)
+Act 2011];
+“producer”, in relation to a product, means—
+(a)
+the person who manufactured it;
+(b)
+in the case of a substance which has not been manufactured but has been won
+or abstracted, the person who won or abstracted it;
+(c)
+in the case of a product which has not been manufactured, won or abstracted
+but essential characteristics of which are attributable to an industrial or other
+process having been carried out (for example, in relation to agricultural
+produce), the person who carried out that process;
+“product” means any goods or electricity and (subject to subsection (3)
+below) includes a product which is comprised in another product, whether by
+virtue of being a component part or raw material or otherwise; and
+“the product liability Directive” means the Directive of the Council of
+the [F5European Union], dated 25th July 1985, (No.85/374/EEC) on the
+approximation of the laws, regulations and administrative provisions of the
+member States concerning liability for defective products.
+2
+Consumer Protection Act 1987 (c. 43)
+Part I – Product Liability
+Document Generated: 2022-08-26
+Changes to legislation: There are currently no known outstanding effects for
+the Consumer Protection Act 1987, Part I. (See end of Document for details)
+(3) For the purposes of this Part a person who supplies any product in which products are
+comprised, whether by virtue of being component parts or raw materials or otherwise,
+shall not be treated by reason only of his supply of that product as supplying any of
+the products so comprised.
+Textual Amendments
+F1
+Words in s. 1(1) substituted (31.12.2020) by The Product Safety and Metrology etc. (Amendment etc.)
+(EU Exit) Regulations 2019 (S.I. 2019/696), reg. 1, Sch. 3 para. 2(1) (as amended by S.I. 2020/676,
+regs. 1(1), 2); 2020 c. 1, Sch. 5 para. 1(1)
+F2
+Word in s. 1(1) substituted (31.12.2020) by The Product Safety and Metrology etc. (Amendment etc.)
+(EU Exit) Regulations 2019 (S.I. 2019/696), reg. 1, Sch. 3 para. 2(2) (as amended by S.I. 2020/676,
+regs. 1(1), 2); 2020 c. 1, Sch. 5 para. 1(1)
+F3
+Definition of "agricultural produce" in s. 1(2) omitted (E.W.) (4.12.2000) by virtue of S.I. 2000/2771,
+art. 2(2) and that same definition omitted (S.) (19.7.2001) by virtue of S.S.I. 2001/265, art. 2(2)
+F4
+Words in s. 1(2) substituted (S.) (7.7.2011) by Damages (Scotland) Act 2011 (asp 7), ss. 15, 19(3),
+Sch. 1 para. 4(1) (with ss. 17, 19(2)); S.S.I. 2011/268, art. 3, (with art. 4)
+F5
+Words in s. 1(2)(c) substituted (22.4.2011) by The Treaty of Lisbon (Changes in Terminology) Order
+2011 (S.I. 2011/1043), art. 4(1)
+Marginal Citations
+M1
+1976 c. 30.
+2
+Liability for defective products.
+(1) Subject to the following provisions of this Part, where any damage is caused wholly
+or partly by a defect in a product, every person to whom subsection (2) below applies
+shall be liable for the damage.
+(2) This subsection applies to—
+(a)
+the producer of the product;
+(b)
+any person who, by putting his name on the product or using a trade mark or
+other distinguishing mark in relation to the product, has held himself out to
+be the producer of the product;
+(c)
+any person who has imported the product into [F6the United Kingdom] in
+order, in the course of any business of his, to supply it to another.
+(3) Subject as aforesaid, where any damage is caused wholly or partly by a defect in a
+product, any person who supplied the product (whether to the person who suffered the
+damage, to the producer of any product in which the product in question is comprised
+or to any other person) shall be liable for the damage if—
+(a)
+the person who suffered the damage requests the supplier to identify one or
+more of the persons (whether still in existence or not) to whom subsection (2)
+above applies in relation to the product;
+(b)
+that request is made within a reasonable period after the damage occurs and at
+a time when it is not reasonably practicable for the person making the request
+to identify all those persons; and
+(c)
+the supplier fails, within a reasonable period after receiving the request, either
+to comply with the request or to identify the person who supplied the product
+to him.
+Consumer Protection Act 1987 (c. 43)
+Part I – Product Liability
+Document Generated: 2022-08-26
+3
+Changes to legislation: There are currently no known outstanding effects for
+the Consumer Protection Act 1987, Part I. (See end of Document for details)
+F7(4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5) Where two or more persons are liable by virtue of this Part for the same damage, their
+liability shall be joint and several.
+(6) This section shall be without prejudice to any liability arising otherwise than by virtue
+of this Part.
+Textual Amendments
+F6
+Words in s. 2(2)(c) substituted (31.12.2020) by The Product Safety and Metrology etc. (Amendment
+etc.) (EU Exit) Regulations 2019 (S.I. 2019/696), reg. 1, Sch. 3 para. 3 (as amended by S.I. 2020/676,
+regs. 1(1), 2); 2020 c. 1, Sch. 5 para. 1(1)
+F7
+S. 2(4) omitted (E.W.) (4.12.2000) by virtue of S.I. 2000/2771, art. 2(3) and that same provision
+omitted (S.) (19.7.2001) by virtue of S.S.I. 2001/265, art. 2(3)
+Modifications etc. (not altering text)
+C1
+S. 2(2)(b) amended (31.10.1994) by 1994 c. 26, s. 106(1), Sch. 4 para. 1(2); S.I. 1994/2550, art. 2
+3
+Meaning of “defect”.
+(1) Subject to the following provisions of this section, there is a defect in a product for
+the purposes of this Part if the safety of the product is not such as persons generally
+are entitled to expect; and for those purposes “safety”, in relation to a product, shall
+include safety with respect to products comprised in that product and safety in the
+context of risks of damage to property, as well as in the context of risks of death or
+personal injury.
+(2) In determining for the purposes of subsection (1) above what persons generally are
+entitled to expect in relation to a product all the circumstances shall be taken into
+account, including—
+(a)
+the manner in which, and purposes for which, the product has been marketed,
+its get-up, the use of any mark in relation to the product and any instructions
+for, or warnings with respect to, doing or refraining from doing anything with
+or in relation to the product;
+(b)
+what might reasonably be expected to be done with or in relation to the
+product; and
+(c)
+the time when the product was supplied by its producer to another;
+and nothing in this section shall require a defect to be inferred from the fact alone that
+the safety of a product which is supplied after that time is greater than the safety of
+the product in question.
+4
+Defences.
+(1) In any civil proceedings by virtue of this Part against any person (“the person
+proceeded against”) in respect of a defect in a product it shall be a defence for him
+to show—
+(a)
+that the defect is attributable to compliance with any requirement imposed by
+or under any enactment or with any [F8retained][F9EU] obligation; or
+(b)
+that the person proceeded against did not at any time supply the product to
+another; or
+4
+Consumer Protection Act 1987 (c. 43)
+Part I – Product Liability
+Document Generated: 2022-08-26
+Changes to legislation: There are currently no known outstanding effects for
+the Consumer Protection Act 1987, Part I. (See end of Document for details)
+(c)
+that the following conditions are satisfied, that is to say—
+(i) that the only supply of the product to another by the person proceeded
+against was otherwise than in the course of a business of that person’s;
+and
+(ii) that section 2(2) above does not apply to that person or applies to him
+by virtue only of things done otherwise than with a view to profit; or
+(d)
+that the defect did not exist in the product at the relevant time; or
+(e)
+that the state of scientific and technical knowledge at the relevant time was
+not such that a producer of products of the same description as the product in
+question might be expected to have discovered the defect if it had existed in
+his products while they were under his control; or
+(f)
+that the defect—
+(i) constituted a defect in a product ( “the subsequent product”) in which
+the product in question had been comprised; and
+(ii) was wholly attributable to the design of the subsequent product
+or to compliance by the producer of the product in question with
+instructions given by the producer of the subsequent product.
+(2) In this section “the relevant time”, in relation to electricity, means the time at which
+it was generated, being a time before it was transmitted or distributed, and in relation
+to any other product, means—
+(a)
+if the person proceeded against is a person to whom subsection (2) of section 2
+above applies in relation to the product, the time when he supplied the product
+to another;
+(b)
+if that subsection does not apply to that person in relation to the product, the
+time when the product was last supplied by a person to whom that subsection
+does apply in relation to the product.
+Textual Amendments
+F8
+Word in s. 4(1)(a) inserted (31.12.2020) by The Product Safety and Metrology etc. (Amendment etc.)
+(EU Exit) Regulations 2019 (S.I. 2019/696), reg. 1, Sch. 3 para. 4 (as amended by S.I. 2020/676, regs.
+1(1), 2); 2020 c. 1, Sch. 5 para. 1(1)
+F9
+Words in s. 4(1)(a) substituted (22.4.2011) by The Treaty of Lisbon (Changes in Terminology) Order
+2011 (S.I. 2011/1043), art. 6(1)(e)
+5
+Damage giving rise to liability.
+(1) Subject to the following provisions of this section, in this Part “damage” means death
+or personal injury or any loss of or damage to any property (including land).
+(2) A person shall not be liable under section 2 above in respect of any defect in a product
+for the loss of or any damage to the product itself or for the loss of or any damage
+to the whole or any part of any product which has been supplied with the product in
+question comprised in it.
+(3) A person shall not be liable under section 2 above for any loss of or damage to any
+property which, at the time it is lost or damaged, is not—
+(a)
+of a description of property ordinarily intended for private use, occupation or
+consumption; and
+Consumer Protection Act 1987 (c. 43)
+Part I – Product Liability
+Document Generated: 2022-08-26
+5
+Changes to legislation: There are currently no known outstanding effects for
+the Consumer Protection Act 1987, Part I. (See end of Document for details)
+(b)
+intended by the person suffering the loss or damage mainly for his own private
+use, occupation or consumption.
+(4) No damages shall be awarded to any person by virtue of this Part in respect of any loss
+of or damage to any property if the amount which would fall to be so awarded to that
+person, apart from this subsection and any liability for interest, does not exceed £275.
+(5) In determining for the purposes of this Part who has suffered any loss of or damage
+to property and when any such loss or damage occurred, the loss or damage shall be
+regarded as having occurred at the earliest time at which a person with an interest in
+the property had knowledge of the material facts about the loss or damage.
+(6) For the purposes of subsection (5) above the material facts about any loss of or damage
+to any property are such facts about the loss or damage as would lead a reasonable
+person with an interest in the property to consider the loss or damage sufficiently
+serious to justify his instituting proceedings for damages against a defendant who did
+not dispute liability and was able to satisfy a judgment.
+(7) For the purposes of subsection (5) above a person’s knowledge includes knowledge
+which he might reasonably have been expected to acquire—
+(a)
+from facts observable or ascertainable by him; or
+(b)
+from facts ascertainable by him with the help of appropriate expert advice
+which it is reasonable for him to seek;
+but a person shall not be taken by virtue of this subsection to have knowledge of a fact
+ascertainable by him only with the help of expert advice unless he has failed to take
+all reasonable steps to obtain (and, where appropriate, to act on) that advice.
+(8) Subsections (5) to (7) above shall not extend to Scotland.
+6
+Application of certain enactments etc.
+(1) Any damage for which a person is liable under section 2 above shall be deemed to
+have been caused—
+(a)
+for the purposes of the M2Fatal Accidents Act 1976, by that person’s wrongful
+act, neglect or default;
+(b)
+for the purposes of section 3 of the M3Law Reform (Miscellaneous Provisions)
+(Scotland) Act 1940 (contribution among joint wrongdoers), by that person’s
+wrongful act or negligent act or omission;
+(c)
+for the purposes of [F10sections 3 to 6 of the Damages (Scotland) Act
+2011](rights of relatives of a deceased), by that person’s act or omission; and
+(d)
+for the purposes of Part II of the M4Administration of Justice Act 1982
+(damages for personal injuries, etc.—Scotland), by an act or omission giving
+rise to liability in that person to pay damages.
+(2) Where—
+(a)
+a person’s death is caused wholly or partly by a defect in a product, or a person
+dies after suffering damage which has been so caused;
+(b)
+a request such as mentioned in paragraph (a) of subsection (3) of section 2
+above is made to a supplier of the product by that person’s personal
+representatives or, in the case of a person whose death is caused wholly or
+partly by the defect, by any dependant or relative of that person; and
+(c)
+the conditions specified in paragraphs (b) and (c) of that subsection are
+satisfied in relation to that request,
+6
+Consumer Protection Act 1987 (c. 43)
+Part I – Product Liability
+Document Generated: 2022-08-26
+Changes to legislation: There are currently no known outstanding effects for
+the Consumer Protection Act 1987, Part I. (See end of Document for details)
+this Part shall have effect for the purposes of the M5Law Reform (Miscellaneous
+Provisions) Act 1934, the Fatal Accidents Act 1976 and the [F11Damages (Scotland)
+Act 2011] as if liability of the supplier to that person under that subsection did not
+depend on that person having requested the supplier to identify certain persons or on
+the said conditions having been satisified in relation to a request made by that person.
+(3) Section 1 of the M6Congenital Disabilities (Civil Liability) Act 1976 shall have effect
+for the purposes of this Part as if—
+(a)
+a person were answerable to a child in respect of an occurrence caused wholly
+or partly by a defect in a product if he is or has been liable under section 2
+above in respect of any effect of the occurrence on a parent of the child, or
+would be so liable if the occurrence caused a parent of the child to suffer
+damage;
+(b)
+the provisions of this Part relating to liability under section 2 above applied in
+relation to liability by virtue of paragraph (a) above under the said section 1;
+and
+(c)
+subsection (6) of the said section 1 (exclusion of liability) were omitted.
+(4) Where any damage is caused partly by a defect in a product and partly by the fault of
+the person suffering the damage, the M7Law Reform (Contributory Negligence) Act
+M8 1945 and section 5 of the Fatal Accidents Act 1976 (contributory negligence) shall
+have effect as if the defect were the fault of every person liable by virtue of this Part
+for the damage caused by the defect.
+(5) In subsection (4) above “fault” has the same meaning as in the said Act of 1945.
+(6) Schedule 1 to this Act shall have effect for the purpose of amending the M9Limitation
+Act 1980 and the M10Prescription and Limitation (Scotland) Act 1973 in their
+application in relation to the bringing of actions by virtue of this Part.
+(7) It is hereby declared that liability by virtue of this Part is to be treated as liability in tort
+for the purposes of any enactment conferring jurisdiction on any court with respect
+to any matter.
+(8) Nothing in this Part shall prejudice the operation of section 12 of the M11Nuclear
+Installations Act 1965 (rights to compensation for certain breaches of duties confined
+to rights under that Act).
+Textual Amendments
+F10
+Words in s. 6(1)(c) substituted (S.) (7.7.2011) by Damages (Scotland) Act 2011 (asp 7), ss. 15, 19(3),
+Sch. 1 para. 4(2)(a) (with ss. 17, 19(2)); S.S.I. 2011/268, art. 3, (with art. 4)
+F11
+Words in s. 6(2) substituted (S.) (7.7.2011) by Damages (Scotland) Act 2011 (asp 7), ss. 15, 19(3),
+Sch. 1 para. 4(2)(b) (with ss. 17, 19(2)); S.S.I. 2011/268, art. 3, (with art. 4)
+Marginal Citations
+M2
+1976 c. 30.
+M3
+1940 c. 42.
+M4
+1982 c. 53.
+M5
+1934 c. 41.
+M6
+1976 c. 28.
+M7
+1945 c. 28.
+M8
+1976 c.30.
+M9
+1980 c. 58.
+Consumer Protection Act 1987 (c. 43)
+Part I – Product Liability
+Document Generated: 2022-08-26
+7
+Changes to legislation: There are currently no known outstanding effects for
+the Consumer Protection Act 1987, Part I. (See end of Document for details)
+M10 1973 c. 52.
+M11 1965 c. 57.
+7
+Prohibition on exclusions from liability.
+The liability of a person by virtue of this Part to a person who has suffered damage
+caused wholly or partly by a defect in a product, or to a dependant or relative of such
+a person, shall not be limited or excluded by any contract term, by any notice or by
+any other provision.
+F128
+Power to modify Part I.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Textual Amendments
+F12
+S. 8 omitted (31.12.2020) by virtue of The Product Safety and Metrology etc. (Amendment etc.) (EU
+Exit) Regulations 2019 (S.I. 2019/696), reg. 1, Sch. 3 para. 5 (with Sch. 3 para. 6) (as amended by S.I.
+2020/676, regs. 1(1), 2); 2020 c. 1, Sch. 5 para. 1(1)
+9
+Application of Part I to Crown.
+(1) Subject to subsection (2) below, this Part shall bind the Crown.
+(2) The Crown shall not, as regards the Crown’s liability by virtue of this Part, be bound
+by this Part further than the Crown is made liable in tort or in reparation under the
+M12Crown Proceedings Act 1947, as that Act has effect from time to time.
+Marginal Citations
+M12 1947 c. 44.
+8
+Consumer Protection Act 1987 (c. 43)
+Document Generated: 2022-08-26
+Changes to legislation: 
+There are currently no known outstanding effects for the Consumer Protection Act 1987, Part I.

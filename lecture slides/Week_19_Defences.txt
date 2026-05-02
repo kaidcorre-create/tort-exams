@@ -1,0 +1,568 @@
+DEFENCES
+Part 1 and 2
+Week 19
+Lecture 37 and Lecture 
+38
+L A W. 2 2 4  T O R T  L A W
+D R  S A R A H  G I L M A RT I N
+s . g i l m a r ti n @ l a n c a s t e r. a c . u k
+What is a defence?
+1.
+A reason why liability should not 
+attach – a total defence: e.g. Self-
+defence; Volenti non fit injuria; 
+Illegality. 
+2.
+A method of denying elements of 
+the 
+tort 
+– 
+a 
+total 
+defence: 
+e.g. Elements 
+of 
+negligence: 
+Duty, Breach, Causation, and/or 
+Remoteness.
+3.
+A way to mitigate the remedy – a 
+partial defence/no defence: e.g. 
+Contributory negligence
+J Goudkamp,Tort Law Defences (Hart 
+2016) 
+Examples to Consider
+• C, driving carefully, collides head on with D's speeding car. D was executing an overtake at the 
+time of the collision and was on C's side of the road. C suffers head and neck injuries as a result of 
+the collision. C was not wearing a seatbelt.
+• C and D stole some tall ladders from a front garden. The ladders did not fit onto their van so C 
+stood on the back of the van holding the ladders in place with one hand and holding onto the van 
+with the other. D drove round a corner sharply and C fell off the van and was injured. 
+• C spent the afternoon drinking with D. D suggested they take a joyride in his light aircraft. C 
+helped D to prepare the plane. D was the pilot. Shortly after takeoff the aircraft crashed. D was 
+killed and C was seriously injured. 
+Assuming all elements of negligence are met, can D raise a defence? If so, on 
+h
+b
+i ?
+Defences
+(Non-exhaustive)
+General Application 
+(all torts):
+• Ex Turpi Causa – illegality 
+defence
+• Volenti Non Fit Injuria – 
+consent defence
+• Tortious elements not 
+fulfilled
+Private Nuisance:
+• Locality (not relevant 
+to amenity damage)
+• Statutory Authority
+• Natural Disaster
+• Independent 
+Contractors
+• Prescription
+• Contributory 
+Negligence
+Trespass Against the 
+Person
+• Self-Defence 
+• Mistake as to a threat
+• Prevention of a Crime
+• Necessity
+Rylands:
+• Common Benefit
+• Necessity
+• Statutory Authority
+• Natural Disaster
+• Act or Omission of 
+Claimant
+• Act of Stranger
+Public Nuisance:
+• Contributory 
+Negligence
+Negligence
+• Contributory 
+Negligence
+Defamation
+• Truth
+• Honest Comment
+• Public Interest
+• Innocent Dissemination
+Complete Defenc
+e – Illegality 
+Ex turpi causa non oritur action – an action 
+cannot be founded on illegal/immoral conduct or 
+from a wrongful cause no action arises
+“No court will lend its aid to a man who founds his 
+cause of action upon an illegal or an immoral 
+act.”
+Holman v Johnson (1775) 98 E.R. 1120, 1121 per Lord 
+Mansfield
+3 types of case: 
+Joint illegal enterprise cases; 
+Unilateral illegality cases; and
+“Sanction-shifting cases”.
+Joint Illegal 
+Enterprise
+C & D are engaged in an illegal activity
+Pitts v Hunt [1991] 1 Q.B. 24
+"Where the [claimant]'s action in truth arises directly 
+ex turpi causa, he is likely to fail ... Where the 
+[claimant] has suffered a genuine wrong, to which 
+allegedly unlawful conduct is incidental, he is likely to 
+succeed ..."
+per Dillon LJ at 56 citing Bingham LJ in Saunders v 
+Edwards [1987] 1 W.L.R. 1116, 1134
+See this case also for a discussion of Volenti
+C's knowledge that D was underage, uninsured, and 
+intoxicated
+Delaney v Pickett [2011] EWCA Civ 
+1532
+Joyce v O'Brien [2013] EWCA Civ 546
+Ashton v Turner [1981] Q.B. 137
+Unilateral Illegality
+C is engaged in an illegal activity
+Vellino 
+v 
+CC 
+of 
+Manchester 
+Police [2001] EWCA Civ 1249
+(1) The operation of the principle arises 
+where the claimant's claim is founded 
+upon his own criminal or immoral act.
+(2) The principle is one of public policy; it 
+is not for the benefit of the defendant. 
+(3) In 
+the 
+case 
+of 
+criminal 
+conduct 
+this has to be sufÏciently serious to merit 
+the application of the principle
+Revill v Newberry [1996] Q.B. 
+567
+•
+C a burglar
+•
+D shot him
+•
+Defence of illegality failed
+See this case also for a discussion of 
+contributory negligence
+Sanction-shifting  
+C attempts to use tort law to deflect the impact of criminal 
+law
+ 
+Gray v Thames Trains Ltd and another [2009] UKHL 33
+•
+C convicted of manslaughter (diminished responsibility)
+•
+C suffered with PTSD further to earlier train crash
+•
+C claimed against D for losses associated with his 
+conviction
+•
+'a claim of [this] kind undoubtedly falls foul of the ex turpi 
+causa maxim since the claimant is asking the defendant to 
+compensate him for the consequences of his own 
+deliberate criminal act in killing [a person].’ per Lord Rodger 
+[64]
+Post-Gray Uncertainty?
+Allen v Hounga [2014] UKSC 47 – C illegal au pair – illegality defence failed
+Les Laboratoires Servier and another v Apotex Inc and Others [2015] AC 430 – 
+patents and breaches - quasi criminal acts
+‘The illegality defence, where it arises, arises in the public interest, irrespective of the interests or rights of the 
+parties. It is because the public has its own interest in conduct giving rise to the illegality defence that the 
+judge may be bound to take the point of his own motion, contrary to the ordinary principle in adversarial 
+litigation...in general, although described as a defence, it is in reality a rule of judicial abstention. It means 
+that rather than regulating the consequences of an illegal act (for example by restoring the parties to the 
+status quo ante, in the same way as on the rescission of a contract) the courts withhold judicial remedies, 
+leaving the loss to lie where it falls.’ Per Lord Sumption [23]
+'The ex turpi causa principle is concerned with claims founded on acts which are contrary to the public law of 
+the state and engage the public interest. The paradigm case is, as I have said, a criminal act. In addition, it is 
+concerned with a limited category of acts which, while not necessarily criminal, can conveniently be described 
+as “quasi-criminal” because they engage the public interest in the same way’. Per Lord Sumption [25]
+Post-Gray Clarity? Patel v Mizra [2016] UKSC 42 
+In assessing whether the public interest would be harmed in that way, it is 
+necessary:
+a) to consider the underlying purpose of the prohibition which has been 
+transgressed and whether that purpose will be enhanced by denial of the 
+claim, 
+b) to consider any other relevant public policy on which the denial of the claim 
+may have an impact and 
+c) to consider whether denial of the claim would be a proportionate response 
+to the illegality, bearing in mind that punishment is a matter for the criminal 
+courts. 
+Within that framework, various factors may be relevant…The public interest is 
+best served by a principled and transparent assessment of the considerations 
+id
+tifi d
+th
+b
+th
+th
+li
+ti
+f
+f
+l
+h
+bl
+f
+Further Clarity Post-Gray – Gray and Patel afÏrmed
+Henderson v Dorset Healthcare University NHS Foundation Trust [2020] 
+UKSC 43 
+• C was a paranoid schizophrenic convicted of manslaughter (diminished responsibility) of 
+her mother.
+• D admitted negligence – knew of C’s health decline and should have returned her to their 
+care – had they done so, C would not have killed her mother. 
+• C sought damages against D (PTSD, loss of liberty, loss of amenity, forfeiture of her 
+mother’s estate, cost of psychotherapy, and cost of care manager/support worker).
+• 3 questions for the court:
+1. Can Gray be distinguished?
+No
+2. Should the court depart from Gray?
+‘the decision in Gray should be 
+afÏrmed as being “Patel compliant” - it is how Patel “plays out in that particular type of 
+case”. The clearly stated public policy based rules set out in Gray should be applied and 
+followed in comparable cases.’ (Lord Hamblen [145])
+3. Can C recover damages for any losses claimed?
+No
+More Clarity: Lewis-Ranwell (Respondent) v G4S Health Services (UK) Ltd and 
+others (Appellants) [2026] UKSC 2
+1/3
+Facts:
+The Respondent (a diagnosed schizophrenic) was arrested for burglary (08 February 2019) 
+and released from custody the following day (09 February);
+On the same day he was bailed (09 February) he committed GBH on an elderly gentleman 
+and was re-arrested; 
+The Respondent was assessed by mental health professionals whilst in custody and was 
+released again on bail the following morning (10 February);
+Later that day (10 February), the Respondent killed 3 elderly gentleman;
+At trial in November 2019:
+
+the jury found the Respondent not guilty of murder by reason of insanity;
+
+he was detained at Broadmoor Hospital under the Criminal Procedure (Insanity) Act 1964 
+with restrictions under the Mental Health Act 1983.
+The Respondent sought damages in this civil claim from the Appellants.
+The Appellants raised the defence of illegality. 
+More Clarity: Lewis-Ranwell (Respondent) v G4S Health Services (UK) Ltd and 
+others (Appellants) [2026] UKSC 2
+2/3
+Issues on Appeal:
+ In circumstances where the claimant was charged with murder and found not 
+guilty by reason     of insanity:
+1. Is the defence of illegality engaged by his civil claim in negligence?
+2. If so, does it bar the claimant’s claim in whole or in part? 
+Some Key Considerations:
+
+The question is whether conduct is unlawful in the sense required for the 
+application of the principle.
+
+The actions of the claimant do not have to carry criminal responsibility to cross 
+the threshold for the defence of illegality.
+More Clarity: Lewis-Ranwell (Respondent) v G4S Health Services (UK) Ltd and 
+others (Appellants) [2026] UKSC 2
+3/3
+On the facts
+ Gray…involved criminal offences. By contrast the present case does not involve criminal 
+offences in that the claimant was found not guilty by reason of insanity. That should not be a 
+decisive consideration however.
+ We do not accept that the lack of any criminal responsibility in this case is a good reason for 
+distinguishing…Gray…
+ We therefore conclude that the claimant’s killing of the three men is unlawful conduct for the 
+purpose of engaging the illegality defence.
+Applying Patel
+ in cases such as the present the application of the Patel criteria leads inevitably in our view 
+to the conclusion that the illegality defence applies.
+ …the decision in Gray was based on policy considerations and was apparently approved in 
+Patel. If one were to analyse the heads of claim in the present case in terms of the narrower or 
+wider rules identified by Lord Hoffmann in Gray, every head of claim would fail under one or 
+other or both of those rules.
+We also consider that the conclusion to which we have come on the application of the Patel 
+approach is entirely consistent with the decision and reasoning in Henderson which was itself 
+decided on this basis.
+A
+l All
+d
+Complete Defence - Volenti
+• Voluntary assumption of risk
+• We are looking for 2 elements: 
+o the C knew of the risk of injury; and 
+o the C voluntarily agreed to incur this 
+risk. 
+Agreement/Consent?
+Nettleship v Weston [1971] 2 Q.B. 691, 701 per Lord Denning MR
+‘Knowledge of the risk of injury is not enough. Nor is a willingness to take the risk of 
+injury. Nothing will sufÏce short of an agreement to waive any claim for negligence. 
+The [claimant] must agree, expressly or impliedly, to waive any claim for any injury 
+that may befall him due to the lack of reasonable care by the defendant’.
+Levels of Consent?
+Dann v Hamilton [1939] 1 K.B. 509
+• C was a passenger in D’s car
+• D had been drinking
+• Another passenger said to C “You..have more pluck than I have.”
+• C answered “You should be like me. If anything is going to happen, it will happen.” 
+Jokingly?
+• Car crashed due to D’s negligence
+• ‘There may be cases in which the drunkenness of the driver at the material time is so 
+extreme and so glaring that to accept a lift from him is like engaging in an intrinsically 
+and obviously dangerous occupation, intermeddling with an unexploded bomb or 
+walking on the edge of an unfenced cliff. It is not necessary to decide whether in such a 
+case the maxim "volenti non fit injuria“ would apply, for in the present case I find as a 
+fact that the driver's degree of intoxication fell short of this degree. I therefore conclude 
+S 149, Road TrafÏc Act 1988
+(1) This section applies where a person uses a motor vehicle in circumstances such that 
+under section 143 of this Act there is required to be in force in relation to his use of it 
+such a policy of insurance...
+(2) If any other person is carried in or upon the vehicle while the user is so using it, any 
+antecedent agreement or understanding between them (whether intended to be legally 
+binding or not) shall be of no effect so far as it purports or might be held—
+(a) to negative or restrict any such liability of the user in respect of persons 
+carried in or 
+upon the vehicle as is required by section 145 of this Act to be covered 
+by a policy of 
+insurance, or
+(b) to impose any conditions with respect to the enforcement of any such 
+liability of the 
+user.
+(3) The fact that a person so carried has willingly accepted as his the risk of negligence 
+on the part of the user shall not be treated as negativing any such liability of the user. 
+Other modes of transport?
+Morris v Murray [1991] 2 Q.B. 6
+• C admitted to drinking heavily with D
+• D was a pilot and suggested a flight
+• C helped to start the propeller and fuelled the plane
+• ‘If the [C] had himself been sober on the afternoon of the flight it seems to me that, by 
+agreeing to be flown by [D], he must be taken to have accepted fully the risk of serious 
+injury. The danger was both obvious and great. He could not possibly have supposed that 
+[D] who had been drinking all the afternoon, was capable of discharging a normal duty of 
+care. But as he himself had been drinking, can it be assumed that he was capable of 
+appreciating the risks?...I think he knew what he was doing and was capable of 
+appreciating the risks. I do not overlook that the [C’]s evidence was that, if he had been 
+sober, he would not have gone on the flight. That is no doubt so but it does not establish 
+that he was in fact incapable of understanding what he was doing that afternoon. If he 
+was capable of understanding what he was doing, then the fact is that he knowingly and 
+willingly embarked on a flight with a drunken pilot ’ per Fox LJ at 16
+Partial Defence? - Contributory 
+Negligence
+Law Reform (Contributory Negligence) Act 1945
+S 1. Apportionment of liability in case of contributory 
+negligence.
+(1) Where any person suffers damage as the result partly of his 
+own fault and partly of the fault of any other person or persons, a 
+claim in respect of that damage shall not be defeated by reason of 
+the fault of the person suffering the damage, but the damages 
+recoverable in respect thereof shall be reduced to such extent as 
+the court thinks just and equitable having regard to the 
+claimant’s share in the responsibility for the damage...
+(2) Where damages are recoverable by any person by virtue of the 
+foregoing subsection subject to such reduction as is therein 
+mentioned the court shall find and record the total damages which
+S 4. Interpretation
+• damage” includes loss 
+of 
+life 
+and 
+personal 
+injury;
+• “fault” 
+means 
+negligence, breach of 
+statutory duty or other 
+act or omission which 
+gives rise to a liability 
+in tort or would, apart 
+from this Act, give rise 
+to 
+the 
+defence 
+of 
+contributory 
+negligence.
+2. Did the Claimant’s actions contribute 
+to the damage the Claimant suffered?
+ Lertora v Finzi  [1973] RTR 161
+ Jones [1952]
+ St George v Home OfÏce [2008] EWCA 
+Civ 1068
+3. By what extent should the Claimant’s 
+damages be reduced?
+a) Relative blameworthiness of the parties
+b) Causal potency of the parties respective 
+acts
+Stapley v Gypsum Mines LD [1953] AC
+1. Has the Claimant exercised reasonable care?
+ Jones v Livox Quarries Ltd [1952] 2 QB 608, 615 per Lord Denning: ‘A person is guilty of 
+contributory negligence if he ought reasonably to have foreseen that, if he did not act as a 
+reasonable, prudent man, he might hurt himself; and in his reckonings, he must take into account 
+the possibility of others being careless.’
+ Gough v Thorne [1966] 1 WLR 1387 
+Questions to 
+Ask
+How does a finding of CN work?
+1. Judge identifies the degree to which each party is responsible for the 
+Claimant’s loss expressed as a percentage
+2. The percentages always add up to 100%
+3. Claimant’s damages are then reduced by the percentage allocated to 
+him/her.
+For example: If the Claimant and Defendant are responsible for the 
+Claimant’s loss 40/60, then the Claimant’s damages will be reduced by 40%.
+Defence (Partial?)/Action on 
+Liability/Mitigation
+Smith v Finch [2009] EWCH 53
+•
+C (cyclist) claims against D (biker)
+•
+And D claims against C
+•
+C suffered serious head injuries (no helmet)
+•
+D suffered a broken arm
+•
+Court said on balance D entirely at fault for accident
+•
+Should C’s damages be reduced for contributory negligence?
+•
+Highway Code, Rule 59: ‘You should wear a cycle helmet that conforms to current 
+regulations, is the correct size and securely fastened. Evidence suggests that a 
+correctly fitted helmet will reduce your risk of sustaining a head injury in certain 
+circumstances.’ NOT LAW!
+•
+Medical evidence – wearing of a helmet would have made no difference to C’s injuries
+•
+C was not contributory negligent
+Defence (Partial?)/Action on 
+Liability/Mitigation
+Froom v Butcher [1976] QB 286
+•
+C and D two drivers involved in an RTA
+•
+D liable in negligence
+•
+C suffered numerous injuries including head and chest injuries
+•
+C was not wearing his seatbelt
+•
+D alleged contributory negligence
+•
+Head and chest injuries were attributable to failure to wear a seatbelt
+•
+C contributory negligent for those injuries at 20%
+•
+Generally: 
+
+Wearing of seatbelt would prevent the injury – 25% CN
+
+Wearing of a seatbelt would reduce severity of injury – 15% CN
+Intoxicatio
+n
+Campbell v Advantage Insurance 
+Company Ltd [2021] EWCA Civ 1698 
+Car accident
+• C (passenger) and D (driver) intoxicated
+• C not wearing seatbelt (made no 
+difference to the outcome)
+• C sustained traumatic brain injury and D 
+was killed
+• Was C at fault for getting into a car with 
+D who they knew was intoxicated?
+• Could the C’s own intoxication avoid a 
+finding of contributory negligence?
+• Reasonable man test applied to 
+contributory negligence
+• C was 20% contributory negligent
+Self-Harm
+Reeves v Commissioner of Police of the 
+Metropolis [2000] 1 AC 360
+• Suicide in police custody
+• Duty of care
+• 50/50 liability split
+Corr v IBC Vehicles Ltd [2008] 1 AC 884
+• PTSD following accident at work
+• A question of causation and foreseeability
+• No contributory negligence
+N.B. 
+Alliance 
+& 
+Leicester 
+Building 
+Society v Edgestop Ltd [1993] 1 WLR 
+1462 – CN does not apply to intentional 
+torts
+Examples to 
+Consider
+Assuming all elements of negligence are met, 
+can D raise a defence? If so, on what basis?
+• C, driving carefully, collides with D's speeding car. D was executing an overtake at the time of the 
+collision and was on C's side of the road. C suffers head and neck injuries as a result of the 
+collision.  C was not wearing a seatbelt. 
+• C and D stole some tall ladders from a front garden. The ladders did not fit onto their van so C 
+stood on the back of the van holding the ladders in place with one hand and holding onto the van 
+with the other. D drove round a corner sharply and C fell off the van and was injured. 
+• C spent the afternoon drinking with D. D suggested they take a joyride in his light aircraft. C 
+helped D to prepare the plane. D was the pilot. Shortly after takeoff the aircraft crashed. D was 
+killed and C was seriously injured. 
+Revision
+Defence: Ex turpi causa non oritur action
+i.
+The defence of illegality must be pleaded 
+and proved by the D on the balance of 
+probabilities… 
+ii. Illegality is concerned with illegal conduct 
+and is of potential application in cases 
+involving criminal acts and quasi-criminal 
+acts featuring corruption or dishonesty…
+iii. If the C has a complete defence to criminal 
+liability, the illegality defence is unlikely to 
+apply…
+iv. The offending must be 
+contemporaneous: if the C withdraws 
+from a criminal enterprise before 
+suffering damage, the defence will be 
+inapplicable… 
+v.
+The C’s offending must be related 
+causally to her damage…
+vi. Not every breach of the criminal law 
+or quasi-criminal law and not every 
+act of gross immorality is sufÏcient to 
+trigger the defence.
+Christian Witting Street on Torts (16th edn 
+OUP 2021), 215-16
+Revision
+Defence: Volenti non fit injuria
+• C knew of the risk of injury; and
+• C voluntarily agreed to take that risk.
+Defence: Contributory Negligence
+• Has C exercised reasonable care?
+• Did C's actions contribute to the damage C 
+suffered?
+• By what extent should C's damages be reduced?
+o Relative fault of parties
+o Causal potency of parties respective acts
+Additional Reading
+• E Lim, ‘Ex Turpi Causa: Reformation not Revolution’ (2017) 80(5) Modern Law Review 927-
+941
+• JC Fisher, ‘The ex turpi causa principle in Hounga and Servier’ (2015) 78(5) Modern Law 
+Review 854-870
+• J Gardner, ‘Rethinking risk-taking: the death of volenti?’ (2023) Cambridge Law Journal 1-
+28
+• J Goudkamp and D Nolan, 'Contributory Negligence in the Twenty-First Century: An 
+Empirical Study of First Instance Decisions' (2016) 79(4) Modern Law Review 575-62
+• J Dietrich and I Field, ‘The “reasonable tort victim”: Contributory negligence, standard 
+of care and the “equivalence theory”’ (2018) 41(2) Melbourne University Law Review 602-
+646
+Law.224
+Tort 
+DEFENCES
+Part 1 and 2
+Week 19
+Lecture 37 and Lecture 38
+Dr Sarah Gilmartin
+s.gilmartin@lancaster.ac.uk

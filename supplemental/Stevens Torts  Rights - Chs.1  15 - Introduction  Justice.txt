@@ -1,0 +1,980 @@
+1
+Introduction
+Two incompatible conceptions of the law of torts are discernible within the com-
+mon law.¹ The ﬁrst, and probably dominant, conception is that the defendant
+should be liable where he is at fault for causing the claimant loss unless there is
+a good reason why not. This model dominates liability for negligence. Lord
+Wilberforce in Anns v Merton London Borough Council² set out a two stage test for
+the existence of a duty of care which is the classic statement of this approach.³ The
+ﬁrst limb of this test is that the defendant could have reasonably foreseen that his
+negligence would cause the claimant loss. This adds nothing to the principle that a
+defendant cannot be liable for negligence unless he is at fault in relation to the harm
+suffered by the claimant. This has caused some to conclude that the concept of a
+‘duty of care’ is redundant.⁴ The second limb enables any considerations which
+ought to negative the duty to be taken into account. This could encompass every
+reason imaginable for denying liability. For example, imposing liability on the
+police for carelessly failing to catch criminals may be thought to create a perverse
+incentive to be excessively diligent in obtaining convictions;⁵ or imposing liability
+on a judge for the careless conduct of a trial may undermine the ﬁnality of dispute
+resolution;⁶ or holding the auditor of a company liable for the losses suffered by all
+those who invested in that company on the basis of carelessly prepared accounts
+would be to impose liability of indeterminate scope and amount.⁷
+The House of Lords made a great deal of their abandonment of Lord
+Wilberforce’s two stage test and its substitution with a three stage test: (1) was the
+claimant’s loss as a result of the defendant’s negligence reasonably foreseeable?
+(2) was there a relationship of proximity? (3) would imposing liability be fair, just,
+¹ E Weinrib ‘The Disintegration of Duty’ in M Madden (ed) Exploring Tort Law (2005) 143.
+² [1978] AC 728 (HL).
+³ [1978] AC 728 at 751 (HL).
+⁴ OW Holmes ‘The Path of Law’ (1897) 10 HL Rev 457 at 471–72; P Winﬁeld ‘Duties in
+Tortious Negligence’ (1934) 34 Col L Rev 41; W Buckland ‘The Duty to Take Care’ (1935) 51 LQR
+637; J Stone The Province and Function of Law (1946) 181–82; B Hepple ‘Negligence: The Search
+for Coherence’ (1997) 50 CLP 69. Compare Bourhill v Young [1943] AC 92 (HL) and Palsgraf v Long
+Island Railroad Co 248 NY 339, 162 NE 99.
+⁵ Hill v Chief Constable of West Yorkshire [1989] AC 53 (HL). The Guildford Four and Birmingham
+Six cases show that the concern not to apply pressure on the police to obtain convictions and thereby
+encourage ‘excessive diligence’ is not a fanciful one.
+⁶ Sirros v Moore [1975] QB 118 (CA).
+⁷ Caparo Industries plc v Dickman [1990] 2 AC 605 (HL).
+Torts and Rights. Robert Stevens.
+© Oxford University Press 2007. Published 2007 by Oxford University Press.
+Downloaded from https://academic.oup.com/book/11718/chapter/160690303 by Lancaster University user on 21 September 2023
+and reasonable?⁸ However, the underlying approach is essentially the same. The
+ﬁrst stage is otiose, whilst the second and third stages collapse into a search for the
+good reasons which can be given for denying liability. (Can something be fair
+whilst unjust? Unreasonable but fair?)
+On this conception ‘the overall object of tort law is to deﬁne cases in which the
+law may justly hold one party liable to compensate another’.⁹ Within liability for
+negligence ‘damage is the gist’,¹⁰ and where there is no recovery for negligently
+inﬂicted loss it needs justiﬁcation. Under this model, the role of the ‘duty of care’
+in liability for negligence is as a ‘control device,’¹¹ primarily concerned with the
+diverse reasons why a particular defendant has an immunity from being liable for
+carelessly causing loss.¹² This conception of the law of torts I shall call the ‘loss
+model’.
+There is another conception of the law of torts.
+‘Tort’ comes indirectly from the Latin tortus which means crooked or twisted.
+In modern French, ‘tu as tort’ means ‘you are wrong’. ‘Wrong’ has the same origin
+as ‘wrung’ which is, again, twisted. We have a law of torts (plural) not a law of tort,
+just as we have a law of wrongs not a law of wrong.
+A tort is a species of wrong.¹³ A wrong is a breach of a duty owed to someone
+else. A breach of a duty owed to someone else is an infringement of a right they have
+against the tortfeasor. Before a defendant can be characterized as a tortfeasor the
+anterior question of whether the claimant had a right against him must be
+answered.¹⁴The law of torts is concerned with the secondary obligations generated
+by the infringement of primary rights. The infringement of rights, not the inﬂic-
+tion of loss, is the gist of the law of torts.¹⁵This conception of the law of torts I shall
+call the ‘rights model’.
+Introduction
+2
+⁸ Peabody Donation Fund v Sir Lindsay Parkinson & Co Ltd [1985] AC 210 (HL) 239–41 (Lord
+Keith); Yuen Kun Yeu v Attorney General of Hong Kong [1988] AC 175 (PC (HK)) 190–94 (Lord
+Keith); Rowling v Takaro Properties Ltd [1988] AC 473 (PC (NZ)) 501 (Lord Keith); Hill v Chief
+Constable of West Yorkshire [1989] AC 53 (HL) 60 (Lord Keith); Caparo Industries plc v Dickman
+[1990] 2 AC 605 (HL) 617–18 (Lord Bridge) 633 (Lord Oliver) 658 (Lord Jauncey).
+⁹ Fairchild v Glenhaven Funeral Services Ltd [2002] UKHL 22, [2003] 1 AC 32 at [9] (Lord
+Bingham); J Steyn ‘Perspectives of Corrective Justice in Tort Law’ John Maurice Kelly Memorial Lecture
+4; C Wright ‘Introduction to the Law of Torts’ (1942) 8 CLJ 238; P Devlin The Enforcement of Morals
+(1965) 39–40; cf Broome v Cassell & Co Ltd [1972] AC 1027 (HL) 1114 (Lord Wilberforce).
+¹⁰ Gregg v Scott [2005] UKHL 2, [2005] 2 AC 176 [99] (Baroness Hale).
+¹¹ J Fleming ‘Remoteness and Duty: The Control Devices in Liability for Negligence’ (1953) 31
+Can B Rev 471; Dorset Yacht Co Ltd v Home Ofﬁce [1969] 2 QB 412 (CA) 426 (Lord Denning MR);
+D v East Berkshire Community NHS Trust [2005] 2 AC 373 [94] (HL) (Lord Nicholls).
+¹² Smith v Littlewoods Organisation Ltd [1987] 1 AC 241 at 280 (HL) (Lord Goff).
+¹³ P Birks ‘The Concept of a Civil Wrong’ in D Owen (ed) Philosophical Foundations of Tort Law
+(1995) 29; cf OW Holmes The Common Law (1881) 144.
+¹⁴ W Blackstone Commentaries on the Law of England (1765–1769) vol 3, 2; Allen v Flood [1898]
+AC 1 (HL) 28 (Cave J); A Goodhart ‘The foundations of tortious liability’ (1938) 2 MLR 1.
+¹⁵ Admiralty Commissioners v The Owners of the SS Amerika [1917] AC 38 (HL) 55 (Lord Sumner);
+Donoghue v Stevenson [1932] AC 562 (HL) 619 (Lord Macmillan).
+Downloaded from https://academic.oup.com/book/11718/chapter/160690303 by Lancaster University user on 21 September 2023
+For torts actionable per se, such as trespass, the rights model appears obviously
+preferable. However, it is no less correct for torts, such as the general rule in rela-
+tion to slander, which are only actionable upon proof of consequential loss.
+This work will seek to show the importance and truth of conceiving of torts as
+the infringement of primary rights.
+Introduction
+3
+Downloaded from https://academic.oup.com/book/11718/chapter/160690303 by Lancaster University user on 21 September 2023
+15
+Justice
+A. Functions
+Can the law of torts be explained as a free-standing subject, justiﬁed by the goals it
+might be thought to pursue? It is in relation to liability for personal injuries caused
+by accidents that the most consideration has been given to functionalist, or conse-
+quentialist, accounts of the law of torts. However, there is no reason why the goals
+radical reformers have identiﬁed could not be seen as of general application to the
+entire law of torts. Indeed, it is only by keeping the focus upon one narrow set of
+claims that sight can be lost of what the law of torts is about, and a functionalist
+account be made to appear plausible.
+1. Compensation
+Compensation for loss is commonly seen as the most important goal of the law of
+torts.¹ However, it is patently defective in ensuring compensation of either the
+deserving or the needy.² First, the law of torts is extremely narrow in its coverage.
+Only someone who suffers loss as a result of a tort, who can identify a tortfeasor
+who is able to pay, will obtain compensation. If we broadened our focus to, say,
+victims of accidents it becomes apparent that the law of torts offers little hope of
+compensation to most of those within society who are deserving or in need. If X
+has his leg broken by falling down the stairs through no one’s fault, whilst Y’s leg
+is broken by the carelessness of Z, why is X more deserving of society’s largesse
+than Y?³ That the ultimate source of compensation is a collective fund paid for by
+a ﬂat rate insurance premium, adds to the perception of injustice. Why, it is argued,
+should society favour the party in need who is lucky enough to fall within the
+¹ eg G Williams and B Hepple,The Foundations of Tort Law (1976) 26.
+² F James ‘Accident Liability Reconsidered: The Impact of Liability Insurance’ (1948) 57 Yale LJ
+549 at 569–70; TG Ison The Forensic Lottery (1967) 1–30; R Abel ‘A Critique of Torts’ (1990) 37
+UCLA 785 at 796–806; S Sugarman ‘Doing Away With Tort Law’ (1985) Cal L Rev 555 at 591–616;
+J Fleming ‘Is There a Future for Tort?’ (1984) 44 La L Rev 1193 at 1203–1207; J O’Connell and
+B Kelly The Blame Game (1987); P Bell and J O’Connell Accidental Justice (1997); H Luntz ‘A Personal
+Journey Through the Law of Torts’ (2005) 27 Syd LR 383.
+³ P Atiyah ‘Personal Injuries in the Twenty-First Century: Thinking the Unthinkable’ in P Birks
+(ed) Wrongs and Remedies in the Twenty-First Century (1996) 1 at 22.
+Torts and Rights. Robert Stevens.
+© Oxford University Press 2007. Published 2007 by Oxford University Press.
+purview of the ‘tort system’? This distributive inequity is increased by the very
+generous full compensation for all loss suffered, regardless of need or desert, which
+the law of torts affords to those lucky enough to fall within its scope, whilst those
+outside are left to much less generous compensation systems, such as state invalid-
+ity beneﬁt. Secondly, the law of torts is expensive to run when compared with other
+compensation systems, such as the social security system.⁴ The fees of lawyers and
+others, whether in relation to court actions or, more commonly, settlements, are
+costly. Neither the issues of whether the defendant, or claimant, is at fault, nor the
+appropriate level of compensation, tailored as it is to the claimant’s personal losses,
+may be easy to determine or agree. Flat rate payment systems are much more cost
+effective. Liability insurers also incur high costs in assessing and collecting pre-
+miums. Paying such a high price to compensate so few, appears irrational. Thirdly,
+the court’s remedial responses which do not seek to compensate, for example
+punitive and restitutionary damages, make little sense if our goal is compensation
+of loss. From this perspective, such awards lead to inexplicable windfalls being
+conferred. Fourthly, why are damages awarded for ‘losses’ which are incapable of
+being satisfactorily made good by compensation, such as the pain from the loss of
+a foot, or the misery from the destruction of a family home? Only economic loss is
+capable of eradication by compensatory awards of money and this is the focus of
+other compensation schemes, such as social security.
+2. Deterrence
+The literature seeking to provide a theoretical explanation for the law of torts as a
+mechanism for deterring injury-causing conduct is voluminous.⁵ It can be argued
+that in the case of loss caused by accidents, a rational enterprise will expend money
+on safety precautions up to the point where the marginal cost will exceed the mar-
+ginal savings in liability for torts. The theory is that the presence of liability for
+torts, whilst it will not, and cannot, prevent all accidents, will ensure the optimal
+level of safety precautions.
+In practice, the problems with justifying the law of torts as a system for the
+deterrence of harm are well known.⁶ Although there is no doubt that the law of
+torts has some impact on conduct, and it may be that the costs of the system can
+be justiﬁed by their beneﬁcial effects, the true comparison is not between having
+Functions
+321
+⁴ P Cane Atiyah’s Accidents Compensation and the Law (7th edn, 2006) 395–407.
+⁵ eg W Landes and R Posner The Economic Structure of Tort Law (1987).
+⁶ S Sugarman ‘Doing Away With Tort Law’ (1985) Cal L Rev 555 at 559–90; R Abel ‘A Critique
+of Torts’ (1990) 37 UCLA 785 at 806–819; P Cane‘Tort Law as Regulation’ (2002) 31 Common
+Law World Rev 305; M Franklin ‘Replacing the Negligence Lottery: Compensation and Selective
+Reimbursement’ (1967) 53 Virginia L Rev 774 at 823–25; P Cane Atiyah’s Accidents Compensation
+and the Law (7th edn, 2006) 424–58; B Hepple ‘Negligence: The Search for Coherence’ (1997) 50
+CLP 69 at 84–6, 93; cf G Schwarz ‘Reality in the Economic Analysis of Tort Law? Does Tort Law
+Really Deter?’ 42 (1994) UCLA Law Rev 377.
+the current law and no regulatory structure, but between the current system and
+other methods of regulating behaviour. The funds expended on the ‘tort system’
+could be spent in more effective ways. In the language of the economist, we must
+consider the opportunity costs foregone in considering whether the ‘tort system’
+provides value for money as a method of regulating conduct. There are many rea-
+sons for considering that the ‘tort system’ itself is not the (Pareto) optimal regime
+which can be devised for regulating behaviour.
+First, the vast majority of claims are paid out of liability insurance. As the defend-
+ant does not personally pay, the deterrence impact is largely lost. The presence of
+‘no claims’ bonuses, an excess, and the possibility of a defendant’s premiums being
+subsequently increased after a claim, means that liability insurance does not com-
+pletely negate the inﬂuence of the law of torts on conduct. However, it does signiﬁ-
+cantly blunt it. In the long run, because of administrative costs, it makes better
+economic sense for most insurers to charge a ﬂat premium determined by what the
+market will bear, rather than incur the expense of attempting to tailor the premiums
+charged to the degree of risks being run by each person insured. Consequently, the
+careless and the careful will pay much the same.
+Secondly, the quantum of liability imposed, and the consequential encourage-
+ment to take care, bears no relationship to the defendant’s blameworthiness. A
+momentary lapse of judgment by a driver of a car which results in a commercial
+barrister being injured and unable to work will result in a vast award. The advertent
+and reckless running of a risk may result in a much lower quantum of damages if
+the tortfeasor is lucky enough to kill rather than maim his victim.
+Thirdly, the law of torts probably has little, if any, effect in deterring an indi-
+vidual’s brief moment of inattention or absent-mindedness. It is too much to
+expect the law of torts to change human nature, and to have anything but negli-
+gible impact upon behaviour which has not been reﬂected upon. Even in relation
+to the behaviour of businesses or other enterprises over time, it is improbable
+that in practice they possess the information required to calculate the potential
+costs and beneﬁts of their activities in anything but the most rough and ready
+manner.
+Fourthly, the impact of the ‘tort system’ on conduct is insigniﬁcant when set
+alongside the other factors which inﬂuence our behaviour. The vast majority of
+drivers take care not to run over other people because they consider it morally
+wrong carelessly to injure others. Within the law, the criminal law, whether in
+relation to speed limits, anti-social behaviour orders, or life sentences for murder,
+has much more impact upon behaviour than the law of torts. There are other
+more effective and efﬁcient extra-legal ways of regulating conduct, from the self-
+regulation of professional bodies through to advertising campaigns against drink
+driving. If there were no other inﬂuences on our behaviour, the ‘tort system’ might
+have signiﬁcant impact; as it is it has very little.
+In order to assess the claims sometimes made that the law of torts plays a signiﬁ-
+cant role in regulating conduct empirical evidence is necessary. The evidence
+Justice
+322
+available for the deterrent impact of the law of torts is thin, and the results are, at
+best, equivocal.⁷
+3. Other Goals?
+Once deterrence and compensation have been put to one side, the other possible
+functions of the law of torts can be dealt with relatively brieﬂy. It is sometimes said
+that torts serve a loss distribution function.⁸ If a manufacturer of a defective gin-
+ger beer bottle is held liable for the injuries someone suffers as a result, its liability
+will be passed on either to its customers through raising the price of its products or
+through liability insurance to the pool of those who pay premiums. Instead of the
+loss falling as a crippling blow upon one person, many persons bear a much
+smaller loss.
+Much the same sort of objections to this argument can be raised as are raised to
+seeing the law of torts as a compensation system. Its coverage is extremely narrow.
+Why should it be this particular manufacturer who acts as a conduit for the spread-
+ing of loss; why not another manufacturer or the state itself which can pass on the
+loss fairly and widely through taxation?
+If we try to explain the law of torts, as we could the criminal law, as concerned
+with punishing those who fail in the duties expected of them by society, why is the
+law of torts’ response generally not quantiﬁed by reference to the defendant’s
+blameworthiness? Why should this particular claimant receive the ‘windfall’ of
+damages rather than someone else? Why not a professional group of claim
+bringers, perhaps employed by the state?
+The problems with the various functions suggested do not disappear if we try to
+combine them together. Indeed, as these goals frequently point in diametrically
+different directions, it is difﬁcult to imagine how a rational system could be con-
+structed around any combination of them. The failure of any satisfactory func-
+tionalist account of the law has caused some commentators to conclude that the
+law of torts is merely symbolic.⁹ If so, it is an expensive symbol.
+B. Reform?
+The inevitable failure in practice of attempts to justify the law of torts as a free-
+standing ‘system’ serving external functions, if taken seriously to their logical con-
+clusion, would lead us to accept that the law of torts makes no sense and should
+Reform?
+323
+⁷ eg D Dewes, D Duff, and M Trebilcock Exploring the Domain of Accident Law (1996) 414;
+D Harris et al, Compensation and Support for Illness and Injury (1984); Lord Pearson ‘Report of the Royal
+Commission on Civil Liability and Compensation for Personal Injury’ 3 vols (Cmnd 7054) (1978).
+⁸ eg A Grubb (ed) The Law of Tort (2002) 26–27.
+⁹ J Stapleton ‘Duty of Care: Peripheral Parties and Alternative Opportunities for Deterrence’
+(1995) 111 LQR 301 at 302–303. Symbolic of what?
+simply be abolished. In England, Professor Patrick Atiyah is most closely associated
+with this view. His original position was that the law of torts, in relation to personal
+injuries caused by accidents, should be abolished, to be replaced by a no-fault com-
+pensation scheme administered by the state for the purpose of compensating all
+accident victims.¹⁰ Such an approach, which has been adopted in New Zealand,
+has obvious attractions. The person in need because of injuries from an accident
+is not treated differently according to the fortuity of being able to pinpoint a solv-
+ent tortfeasor. Society’s resources are used more effectively to compensate more
+people.
+Despite these gains, such a system cannot be justiﬁed. Why should accident
+victims be accorded such favourable treatment? Why should victims of disease be
+excluded from coverage?¹¹ Disease victims are a far larger group, but this is not a
+principled basis for different treatment. The New Zealand scheme is disﬁgured by
+boundary disputes as to whether the claimant is the victim of an accident or some
+other sort of misfortune.¹² Unless the compensation scheme is artiﬁcially limited
+to one class of person, such as accident victims, it loses what attractions it had
+because of the cost implications. Even if victims of disease were brought within
+any scheme, why should the boundary be drawn there? Why not all victims of the
+vicissitudes of life? Why exclude the elderly, the unemployed, or the educationally
+disadvantaged? The different treatment of one class of the needy is particularly
+stark if, as in New Zealand,¹³ compensation is limited to economic need rather
+than pain and suffering. Why should one class of the poor be singled out for
+favourable treatment?
+They should not. Most developed states have a system of social security funded
+from general taxation to meet the basic needs of the poor. Special provision for
+those with needs arising from disability, however caused, is also in place. What the
+appropriate levels of compensation should be is an important matter for political
+debate. The law of torts is not a proxy for the achievement of the same sort of
+goals. The no-fault compensation schemes which are put in place of the areas of
+the law of torts which are cut back lack the moral underpinnings necessary to be
+secure against a change in political climate. Indeed, no-fault schemes take the jus-
+tiﬁcation for their scope from the ‘tort system’ which they replace.
+Professor Atiyah ﬁnally adopted the position that the original diagnosis of what
+was wrong with the ‘tort system’ was correct but that the appropriate cure was that
+it should largely be abolished without anything being put in its place. Individuals
+would then be free to take out ﬁrst party insurance to protect themselves against
+harm as they saw ﬁt.¹⁴ Such a reform avoids the problems of arbitrary line-drawing
+Justice
+324
+¹⁰ P Atiyah Accidents, Compensation and the Law (3rd edn, 1980) 627.
+¹¹ See generally J Stapleton Disease and the Compensation Debate (1982).
+¹² K Oliphant ‘Deﬁning “Medical Misadventure” Lessons from New Zealand’ (1996) 4 Med LR 1.
+¹³ Accident Compensation Act 1972.
+¹⁴ P Atiyah ‘Personal Injuries in the Twenty-First Century: Thinking the Unthinkable’ in P Birks (ed)
+Wrongs and Remedies in the Twenty-First Century (1996) 1.
+associated with his earlier view. It is the logical end position of those who think
+that the law of torts needs to be justiﬁed by its consequences.
+Although the criticisms aimed at the law of torts generally focus upon the law
+of personal injuries, there is no reason to suppose that the goals identiﬁed are
+any better served in any other context. Once we contemplate abolishing the law of
+torts altogether, which would mean the abolition of most of our legal rights, the
+error becomes plain. The law of torts is not a free-standing subject which exists to
+fulﬁl any of the goals identiﬁed. If it is responded that the criticisms are only
+aimed at our right not to be injured or killed, it is legitimate to ask why this particu-
+lar right is deserving of abolition. Why should our right not to be injured or killed
+by others be treated less seriously than our rights not to be defamed or have our
+land trespassed upon?
+Once it is realized that the law of torts is concerned with the vindication of our
+rights, it becomes clear that attempts to shape its rules as if it was a free-standing
+subject concerned with fulﬁlling one of the goals set out above is to make precisely
+the same mistake as the abolitionist. For a court, or a reformer, to try and bend rules
+concerned with the vindication of rights to fulﬁl any of the goals set out above will
+lead to incoherence.
+In The Idea of Private Law, Professor Weinrib makes the startling claim that
+private law is like love.¹⁵ By this he means that private law is only capable of being
+understood in terms of itself. We should not, and could not, seek to justify private
+law in terms of its extrinsic ends, regardless of whether these extrinsic ends come
+from social practice, morality, economic efﬁciency, or anything else. The main
+focus of his work which seeks to make good this (and other) propositions is the
+law of torts.
+One response would be that if private law really does serve no function at all,
+why not just abolish it? A legal system is very expensive to run. Another response is
+that once we shift our focus from the law of torts to other areas of private law the
+claim that they are not to be justiﬁed in terms of extrinsic ends seems implausible.
+Is company law, for example, only capable of being understood from an internal
+legal perspective? Is its existence inevitable and unconnected with its usefulness? If
+the common law has not always had a law of companies, why not simply abolish
+it? The answer is that companies, which are an entirely legal construct and do not
+physically exist in the real world, are a useful way for human beings to organize
+themselves in the world in which we live. Some sort of functional explanation for
+this area of law is required.
+However, although Professor Weinrib’s claim about private law in general is not
+only counter-intuitive but implausible, it is true about the law of torts. If we see
+the law of torts as concerned with the secondary obligations generated by the
+infringement of primary rights, it is an essentially legal subject. The giveaway sign
+Reform?
+325
+¹⁵ E Weinrib The Idea of Private Law (1995) 6. See also WH Auden ‘Law Like Love’ in WH Auden
+Collected Poems (1991).
+of this is its name. Lay people do not talk about ‘torts’. They do talk about the
+things they own, their lives, their bodies, their families, their reputations, their
+voting, and so on.
+C. Corrective, Distributive, and Commutative
+If the account given in this book is correct, attempts to construct unitary theories
+to explain the law of torts are wrong-headed. The primary rights which, if vio-
+lated, give rise to secondary obligations are diverse and arise for different reasons.
+Similarly, although the protection of these rights may have a number of incidental
+beneﬁts, these should not be confused with what the law of torts is ‘about’.
+Criticizing the law of torts for being a poor compensation system, or for its failure
+adequately to regulate conduct, is like criticizing the Apollo space programme for
+being an expensive way of developing non-stick pans.
+There is nothing objectionable to assessing the law of torts according to external
+criteria¹⁶ (eg Is it efﬁcient? Is it big? Is it beautiful? Is it fun? Does it lead to a fair
+distribution of resources?). However, the failure of the law of torts to match up to
+such criteria should not lead us to conclude that it makes no sense. The law of torts
+cannot be understood by reference to such criteria. The fact that the law of torts has
+coincidental effects should not lead us to conclude that these are its functions or
+goals. It is meaningless to talk of the law of torts having a function or goal at all.
+The idea that a legal institution can be justiﬁed without appeals to essentially utili-
+tarian or consequentialist goals, appears bewildering to a layman, a politician, or
+an economist.
+Attempts to understand the law of torts in terms of functions or goals fails, as
+Professor Weinrib shows in The Idea of Private Law,¹⁷ to explain key features of
+the law as we ﬁnd it. For example, if we seek to argue that the law of torts is con-
+cerned with deterring reprehensible behaviour, why is it that it is this particular
+claimant who has been caused loss who can claim? Why not hold all persons guilty
+of such conduct liable to pay a ﬁne to the state, graded according to the degree of
+fault? If the law of torts is concerned with compensating those who have suffered
+injuries, why is such compensation only given to those who suffer injuries as a
+result of the wrong of another? What is it that ties the claimant and defendant
+together?
+For those reluctant to accept that the law of torts is a several-millennia-old
+mistake, made independently by disparate legal systems and foolishly persisted
+in by all, the idea that the law of torts is concerned with ‘corrective justice’ is
+attractive.
+Justice
+326
+¹⁶ G Calabresi ‘Some Thoughts on Risk Distribution and the Law of Torts’ (1961) 70 Yale LJ 499;
+cf W Landes and R Posner The Economic Structure of Tort Law (1987) 1.
+¹⁷ E Weinrib The Idea of Private Law (1995) 5–6.
+Aristotle sought to divide issues of justice into two classes. The ﬁrst class concerns
+issues of distributive justice. If a human good, for example wealth, is divisible
+amongst the members of a community, distributive justice is concerned with its
+overall distribution. The criteria by which the justice of any distribution can be
+assessed are diverse (eg need, merit, equality etc). The second class, corrective justice,
+concerns the justice that rectiﬁes or remedies the inequalities which arise in dealings
+between individuals. ‘As its name indicates, corrective justice has a rectiﬁcatory func-
+tion. By correcting the injustice that the defendant has inﬂicted on the plaintiff, cor-
+rective justice asserts a connection between the remedy and the wrong.’¹⁸ A simple
+example is a man who defrauds another of his property. This is a central case because
+the fraudster’s (factual) gain correlates with his victim’s (factual) loss. However, in
+most cases there will be no such correlation, as in the typical case of someone who
+injures someone else who is then obliged to pay compensation.
+Corrective justice seems to explain some of the key features of the law of torts. In
+particular it explains the central characteristic, so obvious as to be commonly over-
+looked, that the liability of the defendant correlates with a power of the claimant to
+claim. This is reﬂected in the requirement of causation, and the fact that recoveries
+go to the claimant rather than to the state. By contrast, according to some econo-
+mists, the fact that the damages payable by the defendant are awarded to the party
+wronged is ‘a detail’.¹⁹
+Whilst less bad than an attempt to explain the law of torts through its functions
+or goals, a corrective justice account in this form is inevitably incomplete. It is com-
+patible both with the loss-based and rights-based models of the law. For example,
+French law, which on its face is not a rights-based system is no less a system of cor-
+rective justice than the common law. Corrective justice in this form tells us noth-
+ing about the primary rights we do and do not have.²⁰ In this weak form, it solely
+explains the secondary obligations created by the infringement of primary rights.²¹
+It would not offend this eviscerated form of corrective justice to abolish all of our
+primary rights. Given rights, their infringement will require correction. Further,
+the fact that the secondary obligations generated by the infringement of primary
+rights are corrective in pattern does not necessarily tell us anything about the justi-
+ﬁcation for the underlying primary right. The difﬁculty with an attempt to
+explain the law of torts by relying upon this version of corrective justice is not that it
+is wrong, but that it is trite. Indeed, some corrective justice theorists suggest that it
+may be better to abolish our right not to be injured, and replace it with a no-fault
+compensation scheme administered by the state.²² In this weak form, corrective
+justice is compatible with any set of primary rights or none at all.
+Corrective, Distributive, and Commutative
+327
+¹⁸ E Weinrib ‘Corrective Justice in a Nutshell’ (2002) 52 Uni Toronto LJ 349 at 350.
+¹⁹ R Posner Economic Analysis of Law (2nd edn, 1977) 143; See also S Shavell Economic Analysis of
+Accident Law (1987) 29–30, 105–110.
+²⁰ P Cane ‘Distributive Justice and Tort Law’ (2001) NZLR 401; Harriton v Stephens [2006]
+HCA 15 at [273] (Crennan J).
+²¹ J Coleman The Practice of Principle (2001) 34–35.
+²² Cf R Wright ‘Substantive Corrective Justice’ (1992) 77 Iowa L Rev 625 at 628.
+Some commentators, such as Professor Weinrib, whilst mainly discussing the
+secondary obligations generated by a wrong, can be read as intending to use ‘cor-
+rective justice’ to explain our primary rights as well. On the wider approach, the
+term ‘corrective justice’ is not trite but misleading. In English, the language of
+‘correction’ presupposes the wrongfulness of the conduct, and consequently, the
+primary right the violation of which needs correction. I have a right that you do
+not punch me on the nose; prior to your doing so, there is nothing to ‘correct’.
+Where a primary right is speciﬁcally enforced, for example through an injunction
+or speciﬁc performance, it is inapt to describe this as justiﬁed in terms of corrective
+justice. There is no imbalance which is being remedied: the court is simply enfor-
+cing the status quo.
+On the wider approach the label ‘corrective justice’ is intended to cover all justi-
+ﬁcations for rights which follow from what is just or fair as between any two mem-
+bers of society. This notion of justice can be invoked to explain both primary
+rights and the secondary rights of correction. This broader notion of justice is
+sometimes called ‘commutative justice’²³ in order to encompass such cases, a label
+which is much less prone to mislead. It is unknowable whether Aristotle would
+have endorsed the wider or narrower account of ‘corrective justice’ as he never dis-
+cussed the distinction between primary and secondary rights, nor did he attempt
+to articulate an account of the primary rights we have. The concept of rights lay in
+the distant future.
+However, as an explanation for the existence and scope of all primary rights
+commutative justice is implausible. The legislature can, and does, create rights for
+a wide range of reasons not conﬁned to the question of fairness as between any
+two members of society. The claim that private law is about commutative justice
+is only attractive in relation to judge-made law, where what is fair is, inevitably,
+determined through the resolution of the dispute between the two persons before
+the judge. However, even in relation to judge-made law, it is unpersuasive. As seen,
+in deﬁning the scope of our primary rights the courts do take into account the
+general social beneﬁt to everyone of an activity and the risks to everyone not just the
+claimant, which it poses. Ambulances are allowed to drive faster than delivery
+vans, although the risk they pose to a bystander is precisely the same. One person
+may have a (qualiﬁed) privilege to make a defamatory statement about another
+because of the legal or moral right of the recipient to be told. A defendant may be
+justiﬁed in inducing a breach of contact where not to do so would be the violation
+of a right of a third party.²⁴ The scope of our rights is not solely determined by
+considerations of what is fair as between claimant and defendant, ignoring all
+others.
+Justice
+328
+²³ J Finnis Natural Law and Natural Rights (1980) 178–179.
+²⁴ eg Said v Butt [1920] KB 597.
+D. Why Do We Have the Rights We Do?²⁵
+Possibly the most important objection to the rights-based conception of the law of
+torts is that it is essentially empty. However descriptively accurate the account of
+the law so far given may be, the sceptic will still need to know why we have the pri-
+mary rights we do (and do not) have. A comprehensive account which explained
+the existence (and non-existence) of all of our actual (and possible) primary rights,
+would require a book several times the size of this one. However, a basic account
+can be given, although it may strike those familiar with the voluminous rights
+literature as naïve. Indeed, a parent will recognize his own attempts to inculcate
+respect for himself (‘How would you like it if he did that to you?’ ‘Your sister had
+that ﬁrst’, ‘You promised to tidy your room’ etc). Fortunately, there is no necessity
+for an extensive discussion of the works of Kant and Hegel in order to understand
+and justify the rights recognized by the common law. Indeed, it would be sur-
+prising, and almost certainly misleading, to engage in this endeavour, as it is very
+doubtful whether those responsible for the common law, judges, either could have
+been or were familiar with the work of such philosophers. In order to understand
+and justify the law of torts it is unnecessary to be a profound thinker.
+Two months after McLoughlin v O’Brian,²⁶ in which Lord Scarman had
+renounced the use of policy arguments, Lord Roskill in Junior Books Ltd v Veitchi
+Co Ltd stated:
+Although it cannot be denied that policy considerations have from time to time been allowed
+to play their part in the last century and the present either in limiting or extending the
+scope of the tort of negligence since it ﬁrst developed as it were in its own right in the
+course of the last century, yet today I think its scope is best determined by considerations of
+principle rather than policy.²⁷
+The common law, which includes our most important primary rights against one
+another, is judge-made. Lord Roskill’s view is that whilst our law was at some point
+in the past determined by policy choices made by judges, the time for such legisla-
+tive action has gone.
+If the law can be, and has been, shaped by the legislative acts of individual
+judges acting according to their own assessment of the weight to be given to a bas-
+ket of frequently unarticulated policy concerns, all of our law which has not been
+set down by the legislature is up for grabs. A judge at a point in the hierarchy
+below the House of Lords will always be bound by previous decisions, just as he is
+by legislation. The House of Lords by contrast has the power to overturn any pre-
+vious decision. There is no reason to suppose that the determination by an earlier
+Why Do We Have the Rights We Do?
+329
+²⁵ As throughout, ‘rights’ is used in the sense of speciﬁc claim rights, or the claim rights which arise
+together for a common reason and which are speciﬁc to a larger bundle of different species of rights.
+²⁶ [1983] 1 AC 410 (HL).
+²⁷ [1983] 1 AC 520 (HL) 539.
+court of the policy balance was superior to that which would be reached by the
+current court. Indeed, as the current court will presumably have a ﬁrmer grasp of
+modern social issues, it may be supposed that the policy choices of judges of today
+will be superior for modern conditions than those made by the long-dead. If
+members of the current court, acting as conscientious legislators, believe that the
+earlier policy choice was incorrect they would be free to substitute their own. All
+of our judge-made law would therefore be contingent upon the personal assess-
+ment of the correct policy balance by the current membership of the House of
+Lords. Why are rules based upon the choices of long-dead judges with no democ-
+ratic mandate deserving, at least presumptively, of respect?
+How can, and did, the judges of the common law, largely unfettered by legisla-
+tion, determine what our rights are without resorting to policy choices? How, start-
+ing with a blank piece of paper, does, and did, a judge determine what the rights of
+the two parties in front of him are? An account of judicial decision making cannot
+be wholly interpretive because at some point in the past there was no text from
+which any interpretation could be derived. In the common law the judges did not
+start with an authoritative text, such as the United States Constitution, from which
+a complex set of rights could be extrapolated. Of course, in the modern common
+law, the problem is not that we lack authoritative text from which to derive the
+answers to difﬁcult legal questions, but rather that we have too much. However, the
+foundational question of how the common law has legitimacy without an original
+text still needs to be addressed.
+One answer could be that the common law judge was, and is, able to appeal to a
+still older set of rights determined by Roman law. However, this does not resolve
+the difﬁculty. Why should our rights be determined by the policy choices of Gaius
+or Tribonian, who are even longer dead than Lord Mansﬁeld? Why should a court,
+in particular a supreme court, afford presumptive respect to such choices made by
+men (always men) from long ago? In common law systems other than England,
+the problem is even starker. Not only are the initial decisions ancient, they were
+made by foreigners.
+The answer is twofold. The ﬁrst stage is that the moral rights we have, and those
+which ought to be given the force of law, are capable of being deduced from the
+nature and experience of ourselves, and the world and society in which we live.
+Rational people can recognize such rights independently of their being given force
+of law. The recognition of such rights is not dependent upon the making of policy
+choices, nor is the decision to give them the force of law.
+It follows that the rights which are solely sourced in judicial decisions are those
+sometimes labelled natural, human, or moral rights. ‘It would not be too much of an
+exaggeration to say that the classical Common Law of the nineteenth and twentieth
+centuries was really a product of the eighteenth-century Natural Law tradition.’²⁸
+Justice
+330
+²⁸ D Ibbetson ‘Natural Law and Common Law’ 5 (2001) Edin LR 4.
+Indeed, the provisional account of rights good against the rest of the world set out at
+the start of this book would have been recognizable to Grotius in the 17th century.²⁹
+The label ‘moral rights’ may be preferred as these rights are derived from human
+reﬂection, unlike a natural law, such as the law of gravity, which would continue
+to exist even if there was no one to observe it. Moral rights must be deduced by
+reason, they do not just exist like stones to be picked up or observed. The fashion-
+able idiom is the label ‘human rights’ but as virtually all rights, whether moral or
+legal, are capable of being held by humans, this is less accurate. Further, in some
+context ‘human rights’ has also come to mean rights individuals have against the
+state to certain human goods.³⁰ Moral rights are not limited to rights against the
+state.
+Moral rights are not the only sort of rights there can be. The legislature can cre-
+ate any legal rights it chooses, for any purpose. The right I have against the high-
+way authority that the roads are in reasonable repair is not a moral right which
+exists independently of its legal recognition. Society could be organized around
+private roads with our ability to pass down them regulated by contracts, with their
+repairs met out of tolls. At one time this was commonplace, and it may be that in
+England a gradual return to such a regime will occur. It would not, however, be
+possible for the courts to create a public body with the responsibility of maintain-
+ing the roads funded out of general taxation, with a duty to repair imposed upon
+it, with corresponding rights conferred upon members of the public. Only a legis-
+lature can create such a right for the purposes of meeting one or more policy goals.
+Once a right has been given force and content by law, this provides an additional
+moral justiﬁcation for respecting it, but there are many legal rights which have no
+existence independent of their legal recognition.
+Rights which are recognized and created judicially not only have a different
+source, they are of a different sort. It is for this reason that judge-made law is pecu-
+liarly interesting and important, and why we must be wary of such judicially rec-
+ognized rights being cut back by legislation. However, it does not, of course, follow
+from the proposition that the only legal rights that can be judge-made are those
+derived from moral rights, that it is only the courts which can give the force of law
+to our moral rights. The legislature can, and has, legislated to expand and restrict
+the legal force given to our moral rights.
+Similarly, just as not all legal rights are moral rights, not all moral rights either
+are, or should be, given legal enforcement. I may have a moral right that you do not
+tell me lies; it does not necessarily follow that a legal system which did not always
+give recognition to such a right in all circumstances is necessarily defective. How-
+ever, any legal system which gave no recognition to the minimum content of our
+moral rights would not be worthy of being described as a system of law at all. Moral
+rights come ﬁrst. Judge-created legal rights are inevitably derived from moral rights.
+Why Do We Have the Rights We Do?
+331
+²⁹ RW Lee The Jurisprudence of Holland by Hugo Grotius vol 1 (1926) 47(1).
+³⁰ See, for example, the European Convention on Human Rights and Fundamental Freedoms.
+Unlike most of our legal rights, there is no institutional set of rules from which
+we can mechanically identify moral rights. To determine them we each require
+experience, reﬂection, and discourse with others. Ultimately, however, we are each
+of us on our own.
+In determining the minimum content of our moral rights, the starting point is
+the negative formulation of the golden rule. We should not do unto others what
+we would not want done unto ourselves. This must be accepted before any further
+progress can be made. The golden rule requires us to respect the choices and pref-
+erences of others. It requires that we treat others as if we were them, not as if they
+were us. If I am a masochist, who enjoys being tortured, it would not be acceptable
+for me to torture others simply because this would be what I would want in their
+place. One further aspect of the golden rule is that we are each deserving, prima
+facie, of equal concern and respect.
+From the golden rule may be deduced our right to bodily safety.³¹ Human beings
+do not live forever. They are not covered in titanium so as to be invulnerable to
+physical harm. If we were incapable of being killed or injured, or conversely of
+killing or injuring, there would be no need for a right good against all others
+protecting our lives and bodily safety. This is not the world in which we ﬁnd
+ourselves. Our right to freedom of movement may be similarly deduced. Human
+beings are not trees or limpets.
+Moral rights not only do not require recognition by a legal system in order for
+us to discern their existence, they are also independent of the conventional moral-
+ity of any particular society, although they commonly form part of such conven-
+tions. I have a moral right not to be killed or injured which is good against you,
+and everyone else, and there is nothing more which needs to be said. This is so
+even if the society in which I live has a convention favouring the ritual slaughter of
+lawyers (or anyone else). Similarly, we also all have a moral right to freedom of
+movement, regardless of whether slavery is lawful or generally considered accept-
+able within the society in which we ﬁnd ourselves. Rules which are contrary to our
+moral rights are not necessarily not ‘law’ for that reason alone, but neither law nor
+convention can abrogate our moral rights.
+Moral rights do not change over time, although their application may. If it is a
+wrong arbitrarily to discriminate against someone in the allocation of some public
+good, such as a university education, on the basis of his race or gender, and it is, it
+was always a moral wrong. Further, the correct answer to moral questions, such as
+whether an institution of slavery is morally wrong, cannot be authoritatively deter-
+mined by democratic vote. The primary reason why we entrust judges to decide
+moral questions is because of their professional skills acquired from experience
+and a reﬂection upon justice, not because they have a hotline to popular opinion.
+It is tempting to try to bolster the arguments for a moral right, or for its recog-
+nition and enforcement in law, by reference to the beneﬁcial consequences of such
+Justice
+332
+³¹ Cf HLA Hart The Concept of Law (2nd edn, 1994) 194–95.
+a right. A right not to be killed may, and probably does, result in some fewer
+deaths. Such consequentialist reasoning is, however, both unnecessary and poten-
+tially misleading. Moral rights are capable of justiﬁcation independently of their
+utility or consequences. Moral rights do not have functions or goals. Utilitarian or
+consequentialist arguments for their recognition can be adduced, but such argu-
+ments are otiose and apt to mislead us into thinking that without such arguments
+moral rights are unjustiﬁable. If we thought rights were justiﬁed by their beneﬁcial
+consequences, they could be ignored where this would lead to a better overall
+result. If, for example, we thought a right to life was justiﬁable because it leads to
+fewer deaths, it would be acceptable to kill you for your organs if this could save
+the life of more than one other person. It might be argued by a utilitarian rule that
+a bright line exclusionary rule against killing was justiﬁable because of its prophy-
+lactic effect. If ‘good’ murders were acceptable, this would lead to more ‘bad’ mur-
+ders. This seems to provide an explanation for the stability of rights and why they
+are usually of peremptory force. However, on this approach, it would be accept-
+able to kill you for your valuable organs to further the greater good if it could be
+demonstrated that this did not undermine the impact of the general prohibition
+on murder, perhaps if it could be done in secret. Our moral rights, and their legal
+recognition and enforcement, are not contingent in this way.
+If it could be shown that the existence and enforcement by law of a right not to
+be killed, with correlative duties not to do so, led to no fewer deaths and no change
+for the better in human behaviour, would this be a good argument in favour of its
+abolition? It would not. It is simply wrong to kill other people; it is not a wrong
+because this leads to fewer deaths.
+This does not mean that we should pay any price for a legal system which rec-
+ognized and enforced such a right. If the legal system ate up 90 per cent of gross
+domestic product we might conclude that the enforcement of such moral rights
+by law was not worth the candle. However, the reason for the enforcement of
+rights is not that this will make the world a better place in the future, although it
+may do. It is consequently a mistake to attempt to shape our law of torts as if this
+was its purpose. We value moral rights for themselves and it is for this reason that
+we give them legal recognition and enforcement, not for any beneﬁcial conse-
+quences which may ﬂow from them.
+The existence of our rights not to be killed, injured, or detained against our will
+are capable of being deduced from what is fair as between any two persons within
+society. It is fair, as between you and me, that you do not kill or torture me. This rule
+can then be universalized as between all individuals. However, the golden rule is not
+simply bilateral. It is sometimes argued that the golden rule is defective as it would
+lead to the absurd result that a judge could not sentence a criminal, as the judge
+himself may not be willing to have such punishment himself if he was in his place.
+However, a judge has undertaken an oath of ofﬁce. This oath is given to the state for
+the beneﬁt of all. A judge who refuses to sentence a criminal is in breach of this oath,
+and acts wrongfully as he is not behaving in relation to all others as he should.
+Why Do We Have the Rights We Do?
+333
+More pertinently for the law of torts, as we have seen, the scope of our rights is
+not solely determined by what is fair as between claimant and defendant. In draw-
+ing the line between everyone’s interest in security from physical harm and every-
+one’s interest in liberty of action, the law takes into account the potential risks and
+beneﬁts to everyone that an activity poses. Again, however, it is the golden rule
+which gives content to our rights, not the furtherance of a goal such as wealth
+maximization.
+The temptation to try and explain by reference to their beneﬁcial consequences
+other moral rights which are given the force of law is even stronger. Our right not to
+be lied to or our right that promises be kept are extremely important in facilitating
+co-operation and group living. They are, no doubt, extremely useful rights. Again,
+however, these beneﬁcial consequences are unnecessary for their justiﬁcation.
+Again, if they were necessary, the ‘right’ could be ignored where the beneﬁcial con-
+sequences of respecting it were outweighed by the beneﬁcial consequences of not
+doing so. As moral rights recognized by the law are justiﬁable independently of the
+beneﬁts resulting from their recognition, they cannot be ignored where the beneﬁts
+of respecting them are outweighed by the adverse consequences.
+We all of us have an interest in knowing the truth. Without such knowledge
+we cannot make informed choices as to how to live our lives. Knowledge is as
+fundamental a human good as our physical well-being. A lie, which is believed
+and upon which the claimant acts, is a wrong to that person because of the viola-
+tion of this human good. This is so regardless of whether there are, or are not,
+adverse consequences.³²
+Similarly, our good relations with other people are valuable for themselves. In
+particular, the trust we have in one another is an interest all rational people value.
+A promise is a conventional way in which this bond of trust between persons can
+be invoked. Whilst it would be possible to imagine a society where promises did
+not exist, promises are not binding merely because of the social convention, but
+because of the interest in good relations between persons which the convention
+relies upon. Consequently, promises are intrinsically valuable.³³ By making a promise
+we invoke trust, and by breaking a promise we wrong those who have been led to
+trust us. Indeed, awareness of the promise at the time at which it is made is not
+necessary for the breaking of the promise to be wrongful. A promisee who subse-
+quently discovers that a promise to him, of which he was unaware, has been broken
+is also wronged. Trust has been subsequently undermined although no expect-
+ations were generated at the time of promising. Similarly, the accessory right good
+against everyone else, that they do not induce the breach of a contract, protects
+this bond of trust between persons. ‘The serpent was worse than Eve.’³⁴
+Justice
+334
+³² Cf C Fried Right and Wrong (1978) ch 3.
+³³ Cf J Raz ‘Promises in Morality and Law’ (1982) 95 Harv LR 916; D Kimel From Promise to
+Contract (2003) 27–29.
+³⁴ T Weir Economic Torts (1997) 35.
+There would be no necessity for property rights if human beings had no need of
+food, clothing, or shelter, or if we lived in a world of limitless abundance.³⁵ Again,
+this is not the world we ﬁnd ourselves in.³⁶ The physical things which we both
+need and want are not in limitless supply. Some sort of property law is necessary.
+Regardless of whether we have a moral right to private property,³⁷ we have a moral
+right against the state to some system of property holding.
+It would be possible for a society to have a communal property law completely
+different from the system of personal property rights found in the common law.
+Whatever the merits of communal property rights, it is not the sort of system of
+rights which is capable of being recognized by judicial act as it is beyond judicial
+competence to construct such a scheme of holdings through a sequence of bilat-
+eral disputes.
+Private property rights may, in the long run, be useful to facilitate competition
+and an economically vibrant capitalist society. However, it is unnecessary to appeal
+to such beneﬁcial consequences in order to justify the respect accorded to private
+property rights. Private property rights are morally justiﬁable in any event. We
+each of us desire for ourselves that we be secure in the things we possess. Each of us
+wants to be secure that others do not take our clothes from our backs, or that they
+do not destroy the crop we have grown, or the picture we have painted, or that we
+can sleep peacefully in our beds. In order for each of us to be able to choose to live
+our lives as we please, some level of security in relation to the personal possession
+of physical things is essential. Similarly, we also need security in our ability to
+choose how to dispose of these things to others, either during our lifetime or upon
+death. Just as we want these rights for ourselves, we cannot deny them to others.
+In a pre-legal world, how can a judge resolve the competing claims of two indi-
+viduals to a single item of property? Without any method for determining an
+overall fair distribution of assets, a judge is forced to adopt a system of rules based
+upon ﬁrst occupation, taking or creation. The common law has adopted the rule
+of the playground. If I ﬁnd a swarm of bees, my right to possess them is good
+against you because I possessed them ﬁrst. What is fair as between you and me, is
+also fair as between me and everyone else. A judge lacks the competence to seek to
+determine title to property by other criteria, such as relative need. A plausible
+alternative rule would be to give priority to the party whose labour has gone into
+the property, by tilling the soil or repairing the car. However, this is of little assist-
+ance where no party has as yet worked upon the asset and the common law has
+adopted the straightforward rule of ﬁrst possession. Other approaches, such as the
+tossing of a coin, cannot achieve the necessary stability. Various other methods of
+acquisition, such as prescription, accession, or speciﬁcation are merely auxiliary,
+dependent upon the right arising from ﬁrst possession. Within the common law,
+Why Do We Have the Rights We Do?
+335
+³⁵ Cf HLA Hart The Concept of Law (2nd edn, 1994) 196.
+³⁶ It is the world in William Morris’s News From Nowhere and Gene Roddenberry’s Star Trek where
+property rights are unnecessary.
+³⁷ J Waldron The Right to Private Property (1988).
+the priority afforded to possession is frequently decisive, although there can be few
+assets which have never at any time been possessed by anyone. A thief, or a squat-
+ter, acquires a possessory title which is prior in time, and therefore superior, to the
+title of anyone who did not already have a right to possess.³⁸ Property holdings
+determined by a rule of ﬁrst possession will almost certainly not be the most pro-
+ductive or efﬁcient distribution, but such goals are not the reasons behind the
+recognition of private property rights at common law.
+Any system of property rights which is judicially created will, almost inevitably,
+not be distributively just. Any judge-made system of property rights needs to be
+supplemented. In order to facilitate the most basic level of human ﬂourishing we
+all need food to eat, water to drink, clothes for our backs, and somewhere to sleep.
+Although it may be fair, overall, that I am taxed on the proceeds of this book and
+the money given to the poor, whether to tax and how to determine the appropriate
+level are not questions which can be determined by a judge-made rule.
+Again, human infants are not born into the world able to look after themselves.
+Children remain for a long time dependent upon the care of others. It would be
+possible to live in a society where children were taken away by the state from birth
+and cared for communally. That is not the society in which we live, where it is
+accepted that individual parents, generally the child’s natural parents, will have
+the bonds of love with their child that will lead to the best nurturing. From this,
+we can deduce a right a child has against its parents that they take positive steps to
+care for them. Similarly, parents have a moral right that others do not take their
+children away.
+Finally, if our moral rights are violated or infringed we have a moral right
+against the wrongdoer that he will correct the wrong he has done. This obligation
+to correct, both in morality and law, takes the form of achieving the next best to
+the wrong not having been committed. For some wrongs, such as insults, the next
+best may take the form of an obligation to apologize. An apology may take the
+form of reparative action, for example personally caring for the person negligently
+injured may be considered to be to achieve a result closer to the wrong not having
+been committed than the mere payment of money for costs of care. Why not give
+legal force to such a right to an apology? One answer is that some moral obliga-
+tions cannot be enforced by compulsion at all. We cannot be compelled by law to
+apologize for the wrongs we have done. An apology we are compelled to give is not
+an apology at all. The whole point of an apology is that it is a voluntary acknow-
+ledgment of the wrong by the wrongdoer. Compelled care is unlikely to be satis-
+factory. Courts make money awards not because this is the next best which the
+wrongdoer can do, but because this is the next best that courts can compel to
+be done.
+However, it is a mistake to think that because moral rights do not depend for
+their justiﬁcation upon the beneﬁcial consequences of their recognition, they are
+Justice
+336
+³⁸ Costello v Chief Constable of Derbyshire Constabulary [2001] EWCA Civ 381, [2001] 1 WLR 1437.
+absolute and unqualiﬁed. If they can be justiﬁed regardless of any beneﬁcial conse-
+quences, it might be thought that they must be respected whatever the conse-
+quences. If there is a murderer at your door wondering if his intended victim is
+inside your house, would it be a wrong to lie? In order to reject the position that
+lying is always wrongful it is unnecessary to resort to appeals to the adverse conse-
+quences which would follow. An absolute prohibition on lying ignores the possi-
+bility that rights can conﬂict, a possibility familiar to a lawyer.³⁹ One person’s
+right may override that of another, conferring a privilege which would not other-
+wise exist.⁴⁰ If I am attacked I have both a moral and legal privilege as against my
+attacker to use reasonable force to protect myself. Similarly, I can tell lies to save
+my own life. Where the intended victim is someone else, his right not to be killed
+may confer a privilege upon me to tell a lie. Indeed, it would be both a moral and
+legal wrong to tell the killer the truth as to where his victim was to be found.
+Although the killer’s interest in knowing the truth is not readily commensurable
+with his intended victim’s interest in not being killed, our reﬂection upon how we
+ourselves would wish to be treated by others enables us not only to discern these
+interests but to rank them. Our rights are not absolute and the right not to be lied
+to is no exception. There are worse things in life than lies.
+One of the attractions of utilitarianism is that it offers a single yardstick by
+which such incommensurable values as life and truth can be measured. However,
+rights cannot be overridden merely by the fact that, in the circumstances, it would
+be more useful not to respect them. It may be frustrating but there is no math-
+ematical formula or single yardstick for the ordering of rights, nor can this ordering
+be deduced from a still deeper, but as yet unarticulated set of policies.
+Once the basic building blocks of moral rights given the force of law are in
+place, judgment is then required as to the best way in which to put them together.
+The same process of reﬂection, one case building on the last, enables a sophisti-
+cated system to develop over time.
+E. Why Don’t We Have the Rights We Don’t?
+Why could there not be a legal right not to be caused economic loss (subject to
+exceptions)? Why not a general right not to be caused harm? Why not a right not
+to be insulted, as existed in Roman law? Why not a right against our spouses that
+they do not commit adultery? Why is it that the common law generally only gives
+effect to the negative formulation of the golden rule? Why not a right that others
+take positive steps to assist us, particularly where it would not be onerous for them
+to do so? There can be no simple answer to these questions as the varieties of legal
+rights we could have are as many and varied as the wit of human imagination
+Why Don’t We Have the Rights We Don’t?
+337
+³⁹ J Waldron ‘Rights in Conﬂict’ Ethics 99 (1989) 503.
+⁴⁰ JL Mackie ‘Rights, Utility and Universalisation’ in RG Frey Utility and Rights (1985) 86.
+allows. No refutation of all possibilities is therefore possible, but the most signiﬁ-
+cant limitations can be articulated.
+The law’s approach to moral rights takes one of three forms. First, the violation
+of the right may be actionable per se. Secondly, the violation may only be action-
+able if it has consequences, usually the suffering of loss. Thirdly the violation may
+give rise to no remedy at all. Our right to freedom of movement falls into the ﬁrst
+category, the right not to be lied to into the second, and the right not to be insulted
+into the third. Some rights are more important than others. Assessing the weight
+to be given to a right is, in part, a question of social fact which can differ from one
+society to the next and can change over time. The Romans took insults more ser-
+iously than does the common law (‘sticks and stones may break my bones’). The
+general interest of privacy, and the various rights which protect it, are increasingly
+taken more seriously by the law in a world where social conventions respecting
+this interest have become weakened.
+All of the rights suggested above could in theory be recognized and enforced by a
+legal system. However, the broad rights, such as a right not to be caused economic
+loss, are not rights which can be judicially created. The second stage in determining
+the rights we do not have, goes back to the political and technical limits placed
+upon judicial decision making. If the courts were to recognize a general right not to
+be caused economic loss, prima facie all commercial competition or industrial
+action would be actionable. It would therefore be necessary for the courts to deter-
+mine what is fair and unfair competition, and what sort of industrial action it was
+legitimate for a trade union to take. These are questions the court cannot give itself
+the power to resolve. It is only in this indirect way that policy questions are import-
+ant in determining the legal rights we have. Policy is relevant because it cannot
+be relevant. The courts cannot create rights which require the answer to ques-
+tions they cannot give. The conclusion, therefore, is the perhaps unhappy one that
+because of the inherent limits on how judges can behave, the common law system
+of rights will inevitably fall short of the ideal. There is only so far the judge can go.
+Judges alone cannot create a just society. They cannot determine who should have
+the right to vote, how levels of taxation should be ﬁxed, who should receive social
+security payments, or what immigration controls, if any, should be in place.
+If all insults were actionable, freedom of speech would be unacceptably curtailed
+and the court would be forced to decide where legitimate political speech began
+and ended. Similarly, how is a court to determine what constitutes acceptable con-
+duct in a modern marriage? If we were under a general obligation to assist all other
+persons, instead of liability being imposed for how we have chosen to act, the law
+would be pursuing a policy of altruism to encourage useful intervention. Would
+such a policy encourage altruism, or would the existence of a legal order to come
+to the assistance of others undermine or mask our moral incentive to do so? It may
+be doubted whether those who live in common law countries are less altruistic
+than those who live in countries which impose positive legal duties to come to the
+assistance of others, and the policy choice is not an obvious one.
+Justice
+338
+Judicially created rights are, inevitably, minimalist in content; with a corre-
+sponding maximalist approach to liberty of action. More generally, the judicially
+created private rights at common law, which give legal force to our moral rights,
+are concerned with maximizing the autonomy of each us by enabling the greatest
+respect for one another, and how each of us chooses to live our lives. One example
+of this premium placed on freedom of choice is our ability to waive all of our
+rights. Indeed, the most signiﬁcant limit upon our ability to waive our rights, at
+least in private law, is that we cannot waive our own ability to change our minds.
+I can consent to having my ears pierced by a beautician, but I cannot irrevocably
+give such permission, whether by contract or otherwise. If I communicate my
+change of mind, it would be a battery if the beautician went ahead anyway. Slavery
+is impossible not because it is impossible to agree to work for another and follow
+his or her instructions, but because it is impossible irrevocably to bind oneself to
+do so regardless of one’s future self’s choice. The protection of future choice is also
+seen in the rights of children. Children have a much more limited ability to waive
+their rights than do adults. A tattooist who tattoos a child commits a battery, how-
+ever insistent the child is that he or she consents. This may be seen as protecting
+the ability of the child’s future adult self to choose. We consider children to lack
+the ability to choose, which we cannot deny to their future selves. The ability to
+waive rights, even our right to life, indicates that the law is not protecting the sub-
+ject matter of our rights as valuable in themselves, but rather as an indirect protec-
+tion of autonomy. The absence of general positive duties to come to the assistance
+of others similarly supports this conclusion.
+Rights do not seek to maximize aggregate choice overall. One aspect of my right
+to my land is that it removes your ability to choose for yourself whether to cross it.
+Rather, rights enable each individual freedom to choose how to live his life.⁴¹
+Further, the rule of law places limitations upon the sort of rights which can, or
+at least should, be recognized.⁴² Although it would be possible to imagine rights
+not to be insulted or rights against spouses that they do not commit adultery, it is
+almost impossible to imagine how there could be a general right not to be care-
+lessly caused loss or harm, with its boundaries determined by a rich array of policy
+concerns.⁴³ It is part of the rule of law that the rights others have against us are
+capable of being determined in advance. This is particularly important in relation
+to rights exigible against the rest of the world. A close analogy is with the criminal
+law. It would be theoretically possible to have a general offence of ‘misbehaviour’,
+subject to a number of policy exceptions which it was the job of the court to assess
+in each case. However, such a broad general offence would be unacceptable as it
+Why Don’t We Have the Rights We Don’t?
+339
+⁴¹ This normative claim should not be confused with the analytic claim sometimes made that all
+categories of Hohfeldian right share the characteristic that they protect the right-holder’s choices.
+⁴² Cf J Henderson Jr ‘Expanding the Negligence Concept: Retreat from the Rule of Law’ (1976)
+51 Indiana LJ 467.
+⁴³ Contra D Howarth ‘Many Duties of Care—Or a Duty of Care? Notes from the Underground’
+(2006) 26 OJLS 449.
+could not be readily determined in advance what sort of conduct was an offence
+and what was not.
+In the law of property, the same idea is reﬂected in the numerus clausus prin-
+ciple. Parties are not able to create any form of property right good against every-
+one that they choose. The list is closed and determinate so that others are able to
+anticipate in advance the content of the duties they are under and to whom they
+are owed. If a court is required to determine the scope of parties’ rights and duties
+according to the weighing of a disparate range of open-ended policy concerns, the
+law itself is compromised. The approach within the law of property is but a species
+of a more general rule. It is one thing for the law to be settled for the future by a
+legislature creating rights determined by the weighing of policy concerns. It is
+quite another for such policy concerns to be incorporated into the law itself, so
+that parties in deciding how to act are required to guess in advance how they will
+be resolved by a judge. It is within liability for negligence that the invocation of
+such policy concerns is most prominent. Only if the duty of care is not a real duty,
+enabling real persons to determine ex ante what they are free to do, but rather a
+control device to be applied ex post in settling where losses fall, could it be thought
+acceptable to incorporate such policy concerns into the deﬁnition of ‘duty’.
+Justice
+340

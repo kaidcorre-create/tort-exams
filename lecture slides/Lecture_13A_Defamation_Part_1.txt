@@ -1,0 +1,240 @@
+1
+Defamation Law: part 
+1
+An introduction to 
+defamation
+•
+Tort of defamation: designed to protect reputation (not hurt 
+feelings!)
+•
+Lengthy history 
+•
+Developed primarily through the common law though some 
+statutory intervention
+•
+Defamation Act 2013
+2
+Defamation 
+•
+Slander
+•
+The ‘spoken word’ 
+•
+Impermanent/ transitory 
+•
+Special damage required 
+for a slander to be 
+actionable
+•
+Though some exceptions 
+to requirement for proof 
+of damage 
+•
+Used to be more by way 
+of exceptions – see effect 
+of Defamation Act
+•
+Libel 
+•
+In the past, could also be 
+a crime 
+•
+The ‘written word’
+•
+Permanent rather than 
+transitory 
+•
+Though some exceptions 
+[eg radio and TV 
+broadcasts are treated as 
+libel] 
+•
+Historically: actionable 
+per se
+3
+Slander: 
+when is it actionable per se?
+• Imputation of a criminal offence 
+punishable by imprisonment;
+• Imputation of professional unfitness or 
+incompetence*;
+• Imputation of unchastity or adultery by 
+a female;
+• Imputation of a contagious disease (now 
+needs special damage.
+4
+Long common law history:
+ – Why was reform needed? 
+Libel Tourism (whom the court 
+favours)
+Chilling Effect
+Negative Impact upon freedom of 
+expression
+Costs involve access to justice 
+issues 
+5
+Defamation Act 2013:
+some notable interventions
+- Clearer guidance with ‘serious harm’ 
+- Introduced the ‘public interest’ defence (s. 4)
+- Replaced the ‘honest or fair comment’ defence 
+with ‘honest opinion’ (s. 3)
+- Further protection for ‘distributors,’ including 
+websites, alongside court ordered removal (s. 
+13)of material (various sections)
+- Some technical certainty: heard by judges, limit 
+jurisdictional scope.
+6
+Elements of a defamation 
+action
+(Defamation Act + precedent) 
+• (1) defamatory statement
+• (2) statement must be such that it  has caused/ 
+is likely to cause serious harm to reputation 
+OR, in the case of a trading for profit, has 
+caused or likely to cause serious financial loss 
+(see s 1 Defamation Act 2013)
+• (3) reference to that other person
+• (4) publication
+‘a threshold requirement of seriousness’
+7
+1. The meaning of defamatory 
+• Various meanings 
+e.g. “Words that tend 
+to lower [the 
+claimant] in the 
+estimation of right-
+thinking members of 
+society generally.” 
+• Sim v Stretch 
+• But mere bruising of 
+ego not enough.
+• Insitu Cleaning Co 
+Ltd v Heads
+8
+1. The meaning of defamatory 
+- Standard of Opinion 
+• Whose opinion counts in considering whether or not 
+a statement is defamatory?
+•
+“Right thinking” members of society generally - Tolley v 
+Fry [1930] 1 KB 467
+•
+What if it’s not clear? 
+•
+Mitting J fell into legal error by relying upon the dictionary 
+definition of the verb ‘to strangle’ as dictating the meaning of 
+Mrs Stocker’s Facebook post, rather than as (as Sharp LJ [in 
+the Court of Appeal] suggested) a check. In consequence, he 
+failed to conduct a realistic exploration of how the ordinary 
+reader of the post would have understood it.’ – Lord Kerr
+• Stocker v Stocker [2019] UKSC 17 (SC)
+9
+2. Requirement of 
+serious harm
+Section 1, Defamation Act 2013 
+1. A statement is not defamatory unless its publication has 
+caused or is likely to cause serious harm to the reputation of 
+the claimant. 
+2. For the purposes of this section, harm to the reputation of a 
+body that trades for profit is not “serious harm” unless it has 
+caused or is likely to cause the body serious financial loss.
+Designed to prevent frivolous actions
+10
+Clarity on ‘Serious Harm’ s.1(1)
+Lachaux v Independent Print Ltd [2019] UKSC 27 (SC)
+• i) the scale of the publications; 
+• (ii) the fact that the statements complained of had 
+come to the attention of at least one identifiable 
+person in the United Kingdom who knew Mr Lachaux;
+• (iii) that they were likely to have come to the attention 
+of others who either knew him or would come to know 
+him in future; and 
+• (iv) the gravity of the statements themselves, 
+according to the meaning attributed to them…
+• - Per  Warby J
+11
+3. Reference to the 
+claimant
+• ‘Innuendo’ can suffice if proved;
+• At times, reference by implication 
+sufficient:
+• Newstead v London Express 
+Newspaper Ltd [1940] 
+• ‘Harold Newstead, a thirty year old 
+Camberwell man,’ related to a 
+bigamy trial
+• But see… O’Shea v MGN Ltd [2001] 
+• No liability for ‘look a like’ internet 
+12
+3. Reference to the 
+Claimant
+• Group defamation 
+•
+Knupffer v London Express Newspaper Ltd [1944] 
+•
+Referring a group as Nazi sympathisers; 24 
+UK members, but topic on US/France 
+chapters of thousands.
+•
+If a class of persons is defamed, individual belonging to 
+that class will only be able to succeed in defamation 
+proceedings if;
+•
+They can prove that it was capable of referring to them 
+personally 
+•
+AND, that the statement was actually understood by people to 
+refer to him or her.
+13
+4. Publication of the 
+statement 
+•
+Statement considered as published if made available to at least 
+one person other than the claimant 
+•
+Where the claimant has NOT made the statement available to 
+a third party, will not be considered as ‘published’; Hinderer 
+v Cole [1977]
+•
+Letter addressed to the claimant and opened by an 
+unauthorised third party not published; Huth v Huth [1915]
+•
+‘Serious harm’ requirement outlined in s. 1 Defamation Act 
+2013 tends to weigh against, though does not in itself 
+prevent, an action going forward where it is based upon 
+publication to just one other person.
+14
+Subsequent Publications 
+• REPUBLICATION  and ‘single publication 
+rule’ (s. 8): Defamation Act 2013 -unless 
+the republication is “materially different” 
+from the first publication
+• REPETITION of a defamatory statement = 
+new publication = a new cause of action
+• An action can be taken against anyone 
+who has repeated the allegation as well 
+as the party which issued the original 
+defamatory statement
+15
+Defamation?
+• Defamation?
+• Defamatory statement, meeting the 
+threshold requirement of 
+seriousness
+• serious harm to reputation OR, in 
+the case of a trading for profit, has 
+caused or likely to cause serious 
+financial loss 
+• reference to that other person 
+• publication
+16
+For Friday:
+• Be sure to read your textbook 
+chapter on Defamation – in 
+particular, the annotated Defamation 
+Act
+• Lecture 13B: Defamation cont’d
+• Defences, human rights, and celebrity 
+news examples
+17

@@ -1,0 +1,166 @@
+LAW OF TORT
+Theory and Critique 
+of Tort Law
+LAW OF TORT
+Theories of tort law
+Teleological (instrumental) theories of 
+tort:
+• Compensation-Deterrence 
+• Enterprise Liability
+• Economic Deterrence 
+Deontic (intrinsic) theories of tort:
+• Corrective Justice
+• Rights Theory
+LAW OF TORT
+Strengths of teleological 
+theories
+Explain the prevalence of “policy” reasoning in tort cases
+Provide clear aims for tort law — maximise the given value
+Help justify tort’s imposition of costs on society by 
+explaining the beneﬁts for society
+Good explanations of some bits – e.g. vicarious liability or 
+product liability 
+LAW OF TORT
+Weaknesses of 
+teleological theories
+Struggle to explain the prevalence of “principled” 
+reasoning 
+Struggle to explain “individualised” features of tort law
+Tort always seems not to be the most eﬃcient means of 
+promoting any of the given values 
+LAW OF TORT
+Strengths of deontic 
+theories 
+Explain the prevalence of “principled” reasoning
+Explain tort on its own terms and provide intuitive 
+explanations for “individualised” features of tort
+Good explanations of some bits – e.g. intentional torts 
+LAW OF TORT
+Weaknesses of deontic 
+theories 
+Struggle to explain the prevalence of “policy” reasoning
+Struggle to explain why costs imposed on society
+Struggle to explain lack of personal responsibility – e.g. 
+insurance
+“Structural” rather than “substantive”, so can seem empty
+Lord Sumption’s 
+Critique of Tort Law
+LAW OF TORT
+The costs for society
+Personal injury claims are 1% of the UK’s GDP
+Cost spread evenly across society by insurance and tax
+Legal/admin costs are 47% of personal injury claims
+Reduction in insurance capacity/withdrawal from markets
+If the costs of tort fall on society at large, then tort should 
+beneﬁt society at large – it should maximise well-being
+LAW OF TORT
+Does tort beneﬁt society?
+Even distribution of costs, but uneven distribution of 
+beneﬁts — injury caused by another gets you lots, injury 
+not caused by another gets you little
+Wealth is irrelevant to liability + compensation
+Lawyers and courts more expensive than social security
+No evidence showing deterrent eﬀect because of insurance
+LAW OF TORT
+Why do people approve of tort 
+law if it does not beneﬁt society?
+Sumption thinks there are two reasons why most people 
+instinctively approve of tort law:
+1. people believe in the principle that ‘he who causes injury 
+must make it good’; and
+2. people believe it is the proper function of the courts to 
+ﬁnd facts and distribute blame, for the satisfaction of the 
+victims.
+LAW OF TORT
+Negligence not morally culpable
+Negligence ≠ recklessness. 
+Negligence = falling below the ‘objective standard’ 
+imposed by law – the ‘reasonable person’
+Objective standard ≠ moral concepts like blame and 
+responsibility – e.g. near-strict liability in road traﬃc 
+accidents
+LAW OF TORT
+Negligence only 
+justiﬁable by social utility 
+If negligence is just a normal feature of human behaviour 
+and not morally culpable, then it must be justiﬁed by social 
+utility.
+“Yet the arbitrary results and incomplete coverage of a 
+fault-based system, combined with its prodigious cost and 
+unwelcome side-eﬀects, seriously undermine the social 
+utility of the law of tort as a way of dealing with personal 
+injury.”
+Defending Tort Law
+LAW OF TORT
+Three ways of defending 
+tort law
+We might disagree with:
+1. the premises;
+2. the conclusions; or
+3. the practicality of alternatives. 
+LAW OF TORT
+The premise: corrective 
+justice not social utility
+Sumption says the objective standard isn’t justiﬁed by 
+notions like blame and responsibility, so it must be justiﬁed 
+by “social utility”. 
+But what if there is another justiﬁcation he hasn’t 
+considered?
+Corrective justice
+LAW OF TORT
+The premise: corrective 
+justice not social utility
+“If, for instance, a man is born hasty and awkward, is 
+always having accidents and hurting himself or his 
+neighbors, no doubt his congenital defects will be allowed 
+for in the courts of heaven, but his slips are no less 
+troublesome to his neighbors than if they sprang from 
+guilty neglect.” (OW Holmes)
+LAW OF TORT
+The premise: corrective 
+justice not social utility
+“Unlike personal responsibility, which focuses on an agent, 
+corrective justice is concerned with fairness in interactions 
+between persons.”
+“According to corrective justice theory, the point of [the 
+objective] standard is to judge the behaviour of the defendant, 
+not in terms of the defendant’s talents, abilities, etc. (as would 
+a subjective standard), nor in terms of the claimant’s interests 
+alone (as would strict liability in these circumstances), but in 
+terms of a standard fair as between the parties.”
+(A Beever, ‘Corrective Justice and Personal Responsibility’)
+LAW OF TORT
+The conclusions: does tort 
+maximise utility?
+Tort still deters even with insurance — no claims bonus, 
+insurers involved in increased safety, organisational 
+liability still eﬀective
+BUT…in reality, is it unarguable that tort genuinely 
+achieves optimal deterrence by minimising the sum of: (i) 
+the costs of accident prevention; (ii) the costs resulting 
+from accidents; and (iii) the costs of administering the 
+system. 
+LAW OF TORT
+The alternatives: compensation 
+schemes
+Two options for reform: 
+(A) accident compensation schemes, and 
+(B) compensation for all injuries, however caused.
+LAW OF TORT
+Alternative (A): no-fault 
+compensation schemes
+Beneﬁt of (A) = removes ‘fault-discrimination’
+BUT…
+Downside of (A) = ‘cause-discrimination’— accident 
+victims still end up better oﬀ than people born with 
+disability
+LAW OF TORT
+Alternative (B): no-cause 
+compensation schemes
+Two options for alternative (B):
+(i) full compensation for all injuries; or
+(ii) equalising compensation for all injuries at lower level.
+Neither is practical. The problem with (i) is that it is vastly 
+too expensive. The problem with (ii) is that is strips rights 
+from accident victims and is unlikely to have any support or 
+win votes. 

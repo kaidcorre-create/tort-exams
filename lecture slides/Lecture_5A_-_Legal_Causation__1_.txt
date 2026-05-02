@@ -1,0 +1,276 @@
+LAW OF TORT
+Legal Causation (1)
+LAW OF TORT
+Legal causation v factual 
+causation
+Factual causation was about whether D has caused C’s 
+damage at all
+Legal causation: even if D is a cause of C’s harm does that 
+causal relationship justify requiring D to give C a remedy?
+• Factual causation must already be proven 
+• Which cause the law settles on as being responsible in law is a ‘moral’ choice
+LAW OF TORT
+Topics in legal causation
+1. Remoteness of damage
+2. New intervening acts
+3. Supervening events
+4. ‘The scope of duty’ principle
+5. Coincidental harms
+LAW OF TORT
+1. Remoteness of 
+Damage
+LAW OF TORT
+The history of remoteness
+Re Polemis [1921] 3 KB 560
+“[I]f the act would or might probably cause damage, the fact 
+that the damage it in fact causes is not the exact kind of 
+damage one would expect is immaterial, so long as the 
+damage is in fact directly traceable to the negligent act, and 
+not due to the operation of independent causes … Once the 
+act is negligent, the fact that its exact operation was not 
+foreseen is immaterial.” (Scrutton LJ, [577]) 
+LAW OF TORT
+The Wagon Mound (No 1) 
+[1961] AC 388 
+Facts:
+D allowed oil to spill into Sydney Harbour while refueling.
+Damage caused by ﬁre not reasonably foreseeable because diﬃcult to ignite a thin ﬁlm of oil on 
+water
+Lower Courts:
+Damage not reasonably foreseeable, but D still liable – under rule in Re Polemis.
+House of Lords:
+If damage was not of a reasonably foreseeable kind, then D not liable – Re Polemis overruled.
+LAW OF TORT
+The Wagon Mound (No 1) 
+[1961] AC 388 
+“it does not seem consonant with current ideas of justice or 
+morality that for an act of negligence, however slight or 
+venial, which results in some trivial foreseeable damage the 
+actor should be liable for all consequences however 
+unforeseeable and however grave, so long as they can be said 
+to be ‘direct.’” (Viscount Simonds, p.421)
+“the essential factor in determining liability is whether the 
+damage is of such a kind as the reasonable man should have 
+foreseen. This accords with the general view thus stated by 
+Lord Atkin in Donoghue” (Viscount Simonds, p.426)
+LAW OF TORT
+Hughes v Lord Advocate 
+[1963] AC 837
+Facts:
+D left a manhole open during roadworks. 
+At night paraﬃn lamps put around it to warn passers-by. 
+C, an 8 y.o., accidentally kicked lamp into the hole, causing 
+an explosion that injured C. 
+LAW OF TORT
+Hughes v Lord Advocate 
+[1963] AC 837
+“[C’s] injuries were mainly caused by burns, and it cannot be 
+said that injuries from burns were unforeseeable. … No 
+doubt it was not to be expected that the injuries would be as 
+serious as those which the appellant in fact sustained. But 
+[D] is liable, although the damage may be a good deal 
+greater in extent than was foreseeable. He can only escape 
+liability if the damage can be regarded as diﬀering in kind 
+from what was foreseeable.” 
+(Lord Reid, p.845)
+LAW OF TORT
+Hughes v Lord Advocate 
+[1963] AC 837
+Held:
+D liable.
+Even though an explosion was not reasonably foreseeable, 
+some type of burn was reasonably foreseeable.
+“To my mind, the distinction drawn between burning and 
+explosion is too ﬁne to warrant acceptance.” (Lord Jenkins, 
+p.850)
+LAW OF TORT
+Jolley v Sutton LBC [2000] 
+1 WLR 1082
+Facts:
+14-year old boy injured while playing with a disused boat
+He crawled underneath the boat which was propped up
+Held:
+Some danger from meddling with the boat was reasonably 
+foreseeable even if the the speciﬁc danger of the boat falling 
+was not reasonably foreseeable
+D liable
+LAW OF TORT
+Tremain v Pike [1969] 1 
+WLR 1556
+Facts:
+D negligently allowed his farm to become infested with 
+rats
+C farm worker contracted Weil’s disease as a result of 
+exposure to rat urine
+Held:
+Danger from a rat biting was reasonably foreseeable, but 
+danger from rate urine was not. D not liable.
+LAW OF TORT
+The eggshell skull rule
+Smith v Leech Brain & Co Ltd [1962] 2 QB 405
+C was burnt on the lip because of D’s negligence.
+C had a pre-cancerous skin condition, which became 
+cancerous as a result of the burn, and C eventually died.
+D held liable for the full consequences of his negligence – 
+D ‘takes the claimant as they ﬁnd them’. 
+LAW OF TORT
+The eggshell skull rule
+Distinction between type of harm and quantity of harm:
+D’s liability for type of harm limited by what is reasonably 
+foreseeable
+D’s liability for quantity of harm not limited by what is 
+reasonably foreseeable
+Once established that the kind of damage is reasonably 
+foreseeable, D is liable for the full extent damage
+LAW OF TORT
+2. New Intervening Acts
+LAW OF TORT
+‘DIVU’
+An intervening act by C or TP will be more likely to break 
+the chain of causation if it is:
+Deliberate
+Informed
+Voluntary
+Unreasonable
+LAW OF TORT
+‘DIVU’
+“…where the line is to be drawn is not capable of precise deﬁnition. Various 
+considerations may, however, commonly be relevant. In a case involving intervening 
+conduct, these may include: 
+1.
+The extent to which the conduct was reasonably foreseeable — in general, the more 
+foreseeable it is, the less likely it is to be a novus actus interveniens. 
+2.
+The degree of unreasonableness of the conduct— in general, the more unreasonable 
+the conduct, the more likely it is to be a novus actus interveniens and a number of cases 
+have stressed the need for a high degree of unreasonableness. 
+3.
+The extent to which it was voluntary and independent conduct— in general, the 
+more deliberate the act, the more informed it is and the greater the free choice 
+involved, the more likely it is to be a novus actus interveniens.”
+(Hamblen LJ in Clay v TUI) 
+LAW OF TORT
+2(a): acts of C
+McKew v Holland [1969] 3 ALL ER 1621
+Facts:
+ C suﬀered an injury caused by D’s negligence. As a result 
+his leg occasionally gave way under him.
+C descended a steep staircase with no hand rail.
+C’s leg gave way and to avoid falling, he threw himself 
+forwards, fracturing his ankle.
+LAW OF TORT
+2(a): acts of C
+McKew v Holland [1969] 3 ALL ER 1621
+Held:
+D not liable.
+“‘…if the injured man acts unreasonably he cannot hold 
+[D] liable for injury caused by his own unreasonable 
+conduct. His unreasonable conduct is novus actus 
+interveniens. The chain of causation has been broken and 
+what follows must be regarded as caused by his own 
+conduct and not by [D’s] fault or the disability caused by 
+it.” (Lord Reid, [70])
+LAW OF TORT
+2(a): acts of C
+McKew v Holland [1969] 3 ALL ER 1621
+Although C’s act was reasonably foreseeable, it still broke the chain of 
+causation.
+“I do not think that foreseeability comes into this. [D] is not liable for a 
+consequence of a kind which is not foreseeable. But it does not follow 
+that he is liable for every consequence which a reasonable man could 
+foresee. …[I]t is often easy to foresee unreasonable conduct or some 
+other novus actus interveniens as being quite likely. But that does not 
+mean that the defender must pay for damage caused by the novus 
+actus.” (Lord Reid, [70])
+N.b. Contrary to Hamblen LJ in Clay v TUI
+LAW OF TORT
+2(a): acts of C
+Spencer v Wincanton [2009] EWCA Civ 1404
+D negligently injured C’s leg. C required prosthetic leg. C 
+tried to ﬁll up their car without using crutches or 
+prosthetic leg and fell, suﬀering further injury.
+C’s conduct was not wholly unreasonable as in McKew. No 
+novus actus, but reduction of 1/3 for contributory 
+negligence. 
+LAW OF TORT
+2(a): acts of C
+Clay v TUI [2018] EWCA Civ 1177
+Facts:
+C enjoying a package holiday with extended family
+C trapped on the balcony for 30 minutes as a result of 
+being locked out of the hotel room because of D’s 
+negligence
+C tried to get from one balcony to another
+C fell and suﬀered a skull fracture
+LAW OF TORT
+2(a): acts of C
+Clay v TUI [2018] EWCA Civ 1177
+Held:
+C was not in an emergency – no need for C to take on the 
+risk of trying to cross balconies
+What C had done was not reasonably foreseeable
+D not liable
+LAW OF TORT
+2(a): acts of C
+Corr v IBC Vehicles [2008] 1 AC 884 
+C’s ear severed by D’s negligence. C became depressed, and took his 
+own life. 
+“C’s suicide was not a voluntary, informed decision taken by him as 
+an adult of sound mind making and giving eﬀect to a personal 
+decision about his future. It was the response of a man suﬀering 
+from a severely depressive illness which impaired his capacity to 
+make reasoned and informed judgments about his future, such 
+illness being, as is accepted, a consequence of the employer’s tort.” 
+(Lord Bingham, [16])
+LAW OF TORT
+2(a): acts of C
+N.b. suicide can be a novus actus if it is DIVU, rather 
+than a foreseeable consequence of D’s negligence 
+“the police should not owe a person of sound mind a 
+duty to take reasonable care to prevent him from 
+committing suicide. If he wants to take his life, that 
+is his business. He is a responsible human being and 
+should accept the intended consequences of his acts 
+without blaming anyone else.” 
+(Reeves v Commissioner of Police of the Metropolis [2000] 1 
+AC 360, Lord Hoﬀmann, p.368)
+LAW OF TORT
+2(b): acts of third party
+Lamb v Camden LBC [1981] EWCA Civ 7
+Facts:
+D’s negligence caused building damage
+C moved all the furniture out 
+Squatters moved in
+Held:
+D not liable for damage caused by squatters – the squatting was a novus 
+actus
+LAW OF TORT
+2(b): acts of third party
+Lamb v Camden LBC [1981] EWCA Civ 7
+Denning LJ:
+Whether it was foreseeable that the squatters would move in is irrelevant. The 
+issue is purely one of ‘policy’.
+As a matter of policy, it was the job of C to keep the squatters out and evict 
+them. D should not be liable. 
+Watkins LJ:
+Reasonable foreseeability should always be the starting point. Only once 
+satisﬁed should the court consider policy issues. 
+ “We are here dealing with unreasonable conduct of an outrageous kind … 
+This kind of anti-social and criminal behaviour provides a glaring example of 
+an act which is too remote.”
+LAW OF TORT
+2(b): acts of third party
+Knightley v Johns [1982] 1 WLR 349
+Facts:
+D1, a driver, caused an accident in a tunnel.
+D2, a police chief, ordered C to drive back through the 
+tunnel against traﬃc, to seal it oﬀ. 
+D3, another driver, hit and injured C.
+LAW OF TORT
+2(b): acts of third party
+Knightley v Johns [1982] 1 WLR 349
+Held:
+What D2 did was not ordinary, but gross negligence. He 
+violated police codes. 
+So, despite the emergency context, D2’s act broke the chain 
+of causation. D2 liable, not D1.

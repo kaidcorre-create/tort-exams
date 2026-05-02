@@ -1,0 +1,293 @@
+LAW OF TORT
+Intentional Torts 
+(1)
+LAW OF TORT
+Topics outline
+1. Introduction to intentional torts
+2. Battery
+3. Assault
+4. False Imprisonment
+5. Defences
+6. The tort in Wilkinson v Downton
+7. The Protection from Harassment Act 1997
+LAW OF TORT
+1. Introduction to 
+Intentional Torts
+LAW OF TORT
+Intentional torts
+Battery: unlawful touching
+Assault: unlawfully causing another to fear a battery
+False imprisonment: unlawful restriction of liberty 
+Wilkinson: intentional inﬂiction of distress
+Harassment: a course of conduct which amounts to 
+harassment 
+LAW OF TORT
+Letang v Cooper [1965] 1 
+QB 232
+C was run over in a car park while sunbathing.
+C would have sued in negligence (but the limitation period 
+had expired) so tried battery instead (which has a longer 
+limitation period). 
+“If one man intentionally applies force directly to another, [C] 
+has a cause of action in … battery, or, if you so please to 
+describe it, in trespass to the person. … If he does not inﬂict 
+injury intentionally, but only unintentionally, the plaintiﬀ has 
+no cause of action today in trespass. His only cause of action is 
+in negligence …” (Denning LJ)
+LAW OF TORT
+Two distinctions from 
+negligence
+1. Intentional torts do not require damage
+•
+Negligence requires proof of damage (recall Dryden v Johnson)
+•
+Intentional torts are actionable ‘per se’ (which means ‘in themselves’)
+•
+This reﬂects the the nature and signiﬁcance of the right to bodily integrity (see Herring 
+& Wall in additional reading). As Goﬀ LJ put it: “The fundamental principle, plain and 
+incontestable, is that every person's body is inviolate. … The breadth of the principle 
+reﬂects the fundamental nature of the interest so protected.” (Collins v Wilcock)
+2. Intentional torts require intention
+•
+D person must voluntarily do the conduct which constitutes the intentional tort
+•
+This does not mean D must intend to harm C – it means D must intend the conduct
+LAW OF TORT
+2. Battery
+LAW OF TORT
+Battery
+‘Intentional unlawful touching’
+A. Touching
+B. Intention
+C. Directness
+D. No lawful excuse
+LAW OF TORT
+A. Touching
+‘The least touching of another’s person wilfully … is a 
+battery; for the law cannot draw the line between diﬀerent 
+degrees of violence and therefore totally prohibits the ﬁrst 
+and lowest stage of it.’ (Blackstone)
+‘The least touching of another … is a battery’ (Cole v Turner 
+(1704), Holt CJ)
+The right to bodily integrity is “the ﬁrst and most 
+important of the interests protected by the law of tort” 
+(Parkinson v St. James NHS Trust [2001] EWCA 530, Hale 
+LJ)
+LAW OF TORT
+B. Intention
+“It is the act and not the injury which must be intentional.” 
+(Wilson v Pringle [1987] CA)
+Recklessness will suﬃce
+• Breslin v McKevitt – D planted a bomb, which exploded hours later. D did not intend to intend 
+to harm Cs speciﬁcally. However, D was still liable in battery. 
+Transferred intent will suﬃce
+• Livingstone v Ministry of Defence – D, a soldier, ﬁred into a crowd of rioters, aiming at X. The 
+bullet hit another rioter, C. D was held liable in battery. 
+Omissions can suﬃce
+• Fagan v Met Police Commissioner – D accidentally drove onto C’s foot. He then refused to move 
+the car. This was a battery. (N.b. criminal case, but applicable in civil too.)
+LAW OF TORT
+C. Directness
+“…if I throw a log of timber into the highway … and 
+another man tumbles over it and is hurt, an action on the 
+case only lies, it being a consequential damage; but if in 
+throwing it I hit another man, he may bring trespass 
+because it is an immediate wrong.’ (Scott v Shepherd, 
+Blackstone J, p.526 )
+A gap in time does not make it indirect
+• DPP v K – D put acid in a dryer. D still liable in battery to C who later used the dryer.
+The involvement of others does not make it indirect
+• Scott v Shepherd – Firework thrown by D. Then TPs threw it on, to protect themselves. It 
+ended up hitting C. D still liable.  
+LAW OF TORT
+D. No lawful excuse
+“[M]ost of the physical contacts of ordinary life are not actionable 
+because they are impliedly consented to by all who move in 
+society…nobody can complain of the jostling which is inevitable 
+from his presence in, for example, a supermarket, an 
+underground station or a busy street; nor can a person who 
+attends a party complain if his hand is seized in friendship, or 
+even if his back is (within reason) slapped… [those examples 
+fall] within a general exception embracing all physical contact 
+which is generally acceptable in the ordinary conduct of daily 
+life.” 
+(Collins v Wilcock [1984] 3 All ER 374, Goﬀ LJ, p.378)
+LAW OF TORT
+D. No lawful excuse
+Wilson v Pringle [1986] 2 All ER 440 – [NOT the law!]
+Facts
+In the course of ‘horseplay’ D injured C, a schoolboy.
+Held
+Battery required the application of force to be hostile, this was 
+not. 
+Hostility might be shown by evidence of ‘ill will or 
+malevolence’ but could not be equated with such. 
+LAW OF TORT
+D. No lawful excuse
+“It has recently been said that the touching must be 'hostile’ … I 
+respectfully doubt whether that is correct. A prank that gets 
+out of hand, an over-friendly slap on the back, surgical 
+treatment by a surgeon who mistakenly thinks that the patient 
+has consented to it, all these things may transcend the bounds 
+of lawfulness, without being characterised as hostile. Indeed, 
+the suggested qualiﬁcation is diﬃcult to reconcile with the 
+principle that any touching of another's body is, in the absence 
+of lawful excuse, capable of amounting to a battery and a 
+trespass.”(Re F (Mental Patient Sterilisation) [1990] 2 AC 1, Lord 
+Goﬀ, [73])
+Overruled Wilson v Pringle!
+LAW OF TORT
+3. Assault
+LAW OF TORT
+Assault
+‘D intentionally creates a reasonable apprehension in C of 
+C suﬀering an imminent battery without lawful excuse’
+So it has very similar elements to battery:
+Directness and lawful excuse work the same as battery
+BUT …
+Intention works diﬀerently from battery
+LAW OF TORT
+What is ‘reasonable’ 
+apprehension?
+Stephens v Myers (1830)
+Facts
+At a meeting, D advanced towards C threatening violence.
+D was stopped by other members of the meeting.
+Held
+D still liable for assault, even though he was stopped, 
+because C reasonably anticipated he would be hit.
+LAW OF TORT
+What is ‘reasonable’ 
+apprehension?
+Thomas v National Union of Mineworkers [1986] Ch 20
+Facts
+Miners being bussed into a plant to break a strike were 
+transported on a reinforced bus through crowds of angry 
+colleagues making threats.
+Held
+No assault given no actual means of getting to the 
+claimants
+LAW OF TORT
+What is ‘reasonable’ 
+apprehension?
+Mbasogo v Logo Ltd [2006] EWCA Civ 1370
+Facts
+C was the President of Equatorial Guinea, who alleged Ds assaulted him 
+by trying, and failing, to carry out a coup.
+Ds were a group of (incompetent!) mercenaries.
+All Ds managed to do, was to land an ‘advance group’ of 20 mercenaries in 
+Malabo (the capital) to gain intelligence and to prepare and participate in 
+the attack.
+Before the mercenaries had time to do anything else, the attack was 
+thwarted and they were arrested.
+LAW OF TORT
+What is ‘reasonable’ 
+apprehension?
+Mbasogo v Logo Ltd  [2006] EWCA Civ 1370 
+“there is no suggestion that the advance group in Malabo 
+was armed, still less that it had the capacity to carry out an 
+immediate attack. There is no allegation that the … claimant 
+or his family were in the line of any immediate attack. 
+Although it is alleged that there was an absence of army 
+presence on the island where Malabo is situated … there is 
+no suggestion that the advance group, at large in Malabo, 
+had the means to carry out the threat alleged.” [78]
+LAW OF TORT
+What is ‘reasonable’ 
+apprehension?
+Mbasogo v Logo Ltd  [2006] EWCA Civ 1370 
+“there is a further objection to the allegation. It was beyond 
+controversy that an allegation of the tort of assault requires an 
+allegation of an overt act causing another to apprehend the 
+inﬂiction of immediate violence. No overt act of such a nature 
+is alleged. All that is alleged is that there was an advance group 
+on Bioko, the island where Malabo is situated, and a large 
+number of mercenaries in Zimbabwe preparing to load arms en 
+route for Malabo. Neither constitute, in our view, an overt act 
+causing the apprehension of immediate violence.” [80]
+LAW OF TORT
+What is ‘reasonable’ 
+apprehension?
+R v Ireland [1998] AC 147
+Facts
+Ds were criminally prosecuted for making silent phone calls to one 
+or a number of young women, who suﬀered psychiatric illness as a 
+result.
+Held
+Mere words (or indeed silence) could amount to an assault.
+Whether D’s words/silence had amounted to a reasonable 
+apprehension of C suﬀering immediate battery would depend on 
+the precise circumstances. 
+LAW OF TORT
+What is ‘reasonable’ 
+apprehension?
+R v Ireland [1998] AC 147
+“[W]hereas for him merely to remain silent with them in the 
+same room, where they could see him and assess his demeanour, 
+would have been unlikely to give rise to any feelings of 
+apprehension on their part, his silence when using the telephone 
+in calls made to them repeatedly was an act of an entirely 
+diﬀerent character. He was using his silence as a means of 
+conveying a message to his victims. This was that he knew who 
+and where they were, and that his purpose in making contact 
+with them was as malicious as it was deliberate.”
+(Lord Hope, p.166)
+LAW OF TORT
+Reasonable apprehension: 
+conditional threats
+Conditional threats are not assault if dependent on D’s 
+own conduct, but are assault if dependent on another’s 
+conduct (including C’s).
+Tuberville v Savage (1669): D put his hand on his sword and 
+said to C, ‘If it were not assize time, I would not take such 
+language from you’. This was not assault.
+Read v Coker (1853): D told C that he would break their 
+back if they did not leave. C did leave. Despite the threat 
+being conditional, this was still an assault.
+LAW OF TORT
+Intention
+Same as battery: ‘it is the act and not the injury which 
+must be intentional’
+Not the same as battery:
+ Recklessness will not suﬃce
+ Transferred intent will not suﬃce
+LAW OF TORT
+Intention
+Bici v Ministry of Defence [2004] EWHC 786 (QB)
+Facts
+C had been travelling in a car when the Ds, who were 
+soldiers, shot and killed two of the car’s other occupants. 
+Ds were not aiming at C, but rather at the other people in the 
+car.
+Held
+Ds not liable in assault to C, because they were not aiming at 
+C.
+LAW OF TORT
+Intention
+Bici v Ministry of Defence [2004] EWHC 786 (QB)
+“In my judgment the claim for assault cannot succeed. There 
+is no basis for any ﬁnding that the soldiers intended 
+personally to put [C] in fear of imminent violence. Indeed, 
+there was no evidence that they intended to put anyone at all 
+in fear. The fact that it may have been the consequence of 
+their actions, even a foreseeable consequence, is not enough 
+to ﬁx them with liability in trespass.” [70]
+LAW OF TORT
+Intention
+Bici v Ministry of Defence [2004] EWHC 786 (QB)
+“to establish liability under this tort it would not be enough 
+to show that their conduct had been reckless … Rather it 
+would have to be shown that the soldiers must subjectively 
+have appreciated that by their conduct the claimants would 
+be put in fear of the immediate application of a battery, and 
+they must have been indiﬀerent as to this possibility. There is 
+no evidence that it crossed their minds at all.” [78] 
+LAW OF TORT
+Intention
+Bici v Ministry of Defence [2004] EWHC 786 (QB)
+“I am far from satisﬁed that the doctrine of transferred 
+malice would apply to an assault in the same way as it 
+applies to a battery. … This extension of the principle would 
+considerably widen the scope of what is essentially a tort of 
+intention and nudge it ever closer to the tort of negligence, 
+without any obvious purpose or justiﬁcation.” [80]

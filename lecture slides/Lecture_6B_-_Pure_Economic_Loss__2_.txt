@@ -1,0 +1,339 @@
+LAW OF TORT
+Pure Economic Loss 
+(2)
+LAW OF TORT
+Recap
+Ds not liable for PEL apart from in special circumstances
+The key special circumstance is where D ‘assumes 
+responsibility’ for the loss
+That requires: (i) special relationship; (ii) voluntary 
+assumption; (iii) reasonable reliance in misstatement cases
+Started in misstatement with Hedley Byrne → expanded to 
+provision of services in Henderson → taken beyond 
+‘assumption’ in White
+LAW OF TORT
+PEL outline
+1. What counts as PEL?
+2. Assumption of responsibility
+3. The extension of Hedley Byrne
+4. The limits of the doctrine
+5. Speciﬁc aspects of the doctrine
+LAW OF TORT
+4. The limits of the 
+doctrine
+LAW OF TORT
+A. Professional not social 
+context
+“It is perhaps understandable that professional persons are taken to 
+assume responsibility for economic loss to their clients. Typically, 
+they give advice, prepare reports, draw up accounts, produce plans 
+and so forth. They expect their clients and possibly others to act in 
+reliance upon their work product, often with ﬁnancial or economic 
+consequences. When one moves beyond the realm of professional 
+retainers, it by no means follows that every contracting party 
+assumes responsibilities (in the Hedley Byrne sense) to the other 
+parties co-extensive with the contractual obligations. Such an 
+analysis would be nonsensical.” 
+(Jackson LJ in Robinson v Jones [2011] EWCA Civ 9, [75-76])
+LAW OF TORT
+A. Professional not social 
+context
+Burgess v Lejonvarn [2017] EWCA Civ 254
+Facts:
+
+Cs asked their friend and neighbour D, a qualiﬁed architect, to oversee the landscaping of their back 
+garden. 
+
+D was heavily involved in both organisation of contractors and delivery of the project, as well as in 
+planning later elements. 
+
+No payment had been discussed between the parties. 
+
+Cs were unhappy with the quality of the work and because the costs had substantially overrun. 
+Held:
+
+This was a professional context – D owed C a DoC in relation to PEL
+LAW OF TORT
+A. Professional not social 
+context
+Burgess v Lejonvarn [2017] EWCA Civ 254
+“For the Garden Project to be successful it was recognised by 
+both Mrs Lejonvarn and the Burgesses that her professional 
+services would be required. They were not services that could 
+be provided by the builders. Although the Burgesses were not 
+Mrs Lejonvarn’s clients in the contractual sense, on the judge’s 
+ﬁndings both parties regarded the Burgesses as being her 
+professional clients, and that was how Mrs Lejonvarn herself 
+described them.”
+(Hamblen LJ, [83])
+LAW OF TORT
+A. Professional not social 
+context
+Burgess v Lejonvarn [2017] EWCA Civ 254
+“… the context was a professional one. It was not informal or 
+social. There was an obvious relationship of proximity. Although 
+she was not going to be paid initially the expectation was that she 
+would be paid for later work. She held herself out as having 
+professional skills. She said she would perform professional 
+services and did so. She was aware that the Burgesses would be 
+relying upon her to properly perform those services and it was 
+foreseeable that economic loss would be caused to them if she did 
+not.”
+(Hamblen LJ, [86])
+LAW OF TORT
+B. D must assume 
+responsibility to C 
+personally
+BNL v Playboy Club [2018] UKSC 43
+Facts:
+
+C, through its agent, T, sought a credit reference for Mr Barakat to gamble
+
+D negligently gave a positive reference to T
+
+D did not know that the reference was for C’s use
+
+Mr Barakat was not creditworthy, and C lost money
+Held:
+
+D was not liable because D did not know the purpose of their reference 
+LAW OF TORT
+B. D must assume 
+responsibility to C 
+personally
+BNL v Playboy Club [2018] UKSC 43
+“where a statement is relied upon by B to whom A has passed it on, the 
+representor owes no duty to B unless he knew that the statement was 
+likely to be communicated to B. … [T]he representor must not only 
+know that the statement is likely to be communicated to and relied 
+upon by B. It must also be part of the statement’s known purpose that 
+it should be communicated and relied upon by B, if the representor is 
+to be taken to assume responsibility to B.” 
+(Lord Sumption, [11])
+LAW OF TORT
+C. Reliance necessary in 
+misstatement cases
+We saw yesterday that reliance is no longer necessary in 
+provision of services cases – see Henderson v Merrett
+But it is still necessary in misstatement cases
+“[D] will not assume responsibility towards [C] unless it 
+was reasonable for the latter to have relied on what [D] 
+said and unless [D] should reasonably have foreseen that 
+[C] would do so. These are, as I have shown, two 
+ingredients of the general liability in tort for negligent 
+misrepresentation”. (Lord Wilson, NRAM v Steel [2018] 
+UKSC 13, [32])
+LAW OF TORT
+D. PEL outside of assumption of 
+responsibility? 
+“although it may be decisive in many situations, the presence or absence of a 
+voluntary assumption of responsibility does not necessarily provide the 
+answer in all cases” (Lord Rodger, [20])
+“it is correct to regard an assumption of responsibility as a suﬃcient but not a 
+necessary condition of liability, a ﬁrst test which, if answered positively, may 
+obviate the need for further inquiry. If answered negatively, further 
+consideration is called for.” (Lord Bingham, [4])
+(Customs and Excise Commissioners v Barclays Bank plc [2006] UKHL 28)
+N.b. some of the cases where D was liable for PEL seem to lack the basic 
+features of assumption of responsibility – e.g. White v Jones
+LAW OF TORT
+5. Speciﬁc aspects of the 
+doctrine
+LAW OF TORT
+A. Reasonable reliance
+Reeman v Department of Transport [1997] EWCA Civ 1355
+D negligently issued certiﬁcate of seaworthiness for a ship
+Certiﬁcates were issued for the purpose of safety at sea, 
+not for the purposes of ensuring C did not make an 
+economic loss
+D had no DoC for PEL
+Similar to Caparo: statements made for purpose X, cannot 
+reasonably be relied on for very diﬀerent purpose Y
+LAW OF TORT
+A. Reasonable reliance
+NRAM v Steel [2018] UKSC 13
+Facts:
+C loaned money to T as part of C’s business as a commercial lender. 
+During dealings between C and T, C suﬀered PEL as a result of acting on 
+negligent information in an email sent to them by D (T’s solicitors). 
+C did not check the accuracy of the information themselves. 
+Held:
+No DoC because reliance not reasonable in the circumstances
+LAW OF TORT
+A. Reasonable reliance
+NRAM v Steel [2018] UKSC 13
+“We should accept that a commercial lender about to 
+implement an agreement with its borrower referable to its 
+security does not act reasonably if it proceeds upon no more 
+than a description of its terms put forward by or on behalf of 
+the borrower. … No authority has been cited to the court, nor 
+discovered by me in preparing this judgment, in which it has 
+been held that there was an assumption of responsibility for a 
+careless misrepresentation about a fact wholly within the 
+knowledge of the representee.” (Lord Wilson, [38])
+LAW OF TORT
+A. Reasonable reliance
+Scullion v Bank of Scotland [2011] EWCA Civ 693
+Negligent valuation of property led to losses for 
+commercial by-to-let purchaser
+Essentially commercial nature of the relationship meant 
+there was no reasonable reliance on the bank’s survey 
+report
+Contrast with Smith v Eric Bush, where the relationship 
+was between a professional and a normal purchaser who 
+would live in the house
+LAW OF TORT
+A. Reasonable reliance
+So, at least in misstatement cases:
+If it was reasonable for C to rely on D’s statement, there will be a 
+DoC
+If it was unreasonable for C to rely on D’s statement, there will be no 
+DoC
+“The test is not simply reliance in fact. The test is whether [C] 
+could reasonably rely on an assumption of personal responsibility by 
+the individual who performed the services on behalf of the 
+company…” (Lord Steyn, Williams v Natural Life Health Foods, p.837)
+LAW OF TORT
+B. An objective test
+“The touchstone of liability is not the state of mind of the 
+defendant. An objective test means that the primary focus must 
+be on things said or done by the defendant or on his behalf in 
+dealings with the plaintiﬀ. Obviously, the impact of what a 
+defendant says or does must be judged in the light of the relevant 
+contextual scene. Subject to this qualiﬁcation the primary focus 
+must be on exchanges (in which term I include statements and 
+conduct) which cross the line between the defendant and the 
+plaintiﬀ.” 
+(Lord Steyn, Williams v Natural Life Health Foods [1998] 1 WLR 
+830, p.835) 
+LAW OF TORT
+B. An objective test
+“In these cases in which the loss has been caused by the claimant’s 
+reliance on information provided by the defendant, it is critical to 
+decide whether the defendant (rather than someone else) assumed 
+responsibility for the accuracy of the information to the claimant 
+(rather than to someone else) or for its use by the claimant for one 
+purpose (rather than another). The answer does not depend upon 
+what the defendant intended but … upon what would reasonably be 
+inferred from his conduct against the background of all the 
+circumstances of the case.” 
+(Lord Hoﬀmann, in Customs and Excise Commissioners v Barclays Bank 
+plc [2006] UKHL 28, [35])
+LAW OF TORT
+B. An objective test
+“I do not think that voluntary assumption of responsibility is a 
+helpful or realistic test for liability. … Obviously, if an adviser 
+expressly assumes responsibility for his advice, a duty of care 
+will arise, but such is extremely unlikely in the ordinary course 
+of events. …[In most cases if D] had actually been asked if he 
+was voluntarily assuming responsibility for his advice to the 
+mortgagee or the purchaser of the shares, I have little doubt he 
+would have replied, ‘Certainly not. My responsibility is limited 
+to the person who employs me.’”
+(Lord Griﬃths, in Smith v Eric Bush, p.862)
+LAW OF TORT
+C. Assumption must be 
+voluntary
+Customs and Excise Commissioners v Barclays Bank plc [2006] UKHL 
+28
+Facts:
+C issued a freezing injunction
+D negligently failed to freeze assets
+C lost the money
+Held:
+No DoC because not ‘voluntary’ assumption
+LAW OF TORT
+C. Assumption must be 
+voluntary
+Customs and Excise Commissioners v Barclays Bank plc [2006] 
+UKHL 28
+“Indeed the bank and [C] are about as far from being in a 
+relationship “equivalent to contract” as they could be. The bank 
+has to act, but merely because the court order compels it to do so 
+ultimately on pain of punishment. It gets its reasonable costs, but 
+makes no proﬁt out of performing its duty. Moreover, its duty to 
+respect the order and to act accordingly does not arise out of any 
+relationship with [C].”
+(Lord Rodger, [65])
+LAW OF TORT
+C. Assumption must be 
+voluntary
+Customs and Excise Commissioners v Barclays Bank plc [2006] UKHL 
+28
+“As the law has developed (and in the ﬁeld of pure economic loss) 
+liability is imposed because of the voluntary assumption of 
+responsibility. But in the modern context the word “voluntary” is being 
+used, it seems to me, with the connotation of “conscious”, 
+“considered” or “deliberate”. … In this case the appellant bank has not, 
+in any meaningful sense, made a voluntary assumption of 
+responsibility. It has by the freezing order had responsibility thrust 
+upon it.”
+(Lord Walker, [73-74])
+LAW OF TORT
+C. Assumption must be 
+voluntary
+SO … the assumption does not have to be ‘voluntary’ in a 
+strong sense
+“A’s decision to buy the last remaining bottle of Dow’s 1871 
+Vintage Port from B is still binding even if A has previously 
+contracted to sell such a bottle to C, and so has no real choice 
+but to enter the transaction.” (Nolan, ‘Assumption of 
+Responsibility: Four Questions’)
+What is required, is that D undertook a task for C, rather than 
+D being forced to do something which would incidentally 
+beneﬁt C
+LAW OF TORT
+D. Not limited to PEL!!
+Although the assumption of responsibility doctrine has its 
+foundations in Hedley Byrne, which concerned PEL, it is 
+not limited to this domain.
+As you will see in the coming weeks, the doctrine can be 
+the basis for the imposition of liability in lots of other 
+situations where there would not be a duty of care 
+otherwise – especially omissions cases
+The concept is important for understanding the law of 
+negligence as a whole
+LAW OF TORT
+E. Closing thoughts
+“At least four diﬀerent schools of thought are discernible in the academic 
+writings on assumption of responsibility, …: 
+1.
+that the concept as employed by the courts is essentially meaningless, and 
+either a foil for policy arguments or for an alternative, allegedly more 
+meaningful concept, such as ‘proximity’; 
+2.
+that cases of assumption of responsibility are really just instances of liability 
+in contract, minus consideration; 
+3.
+that in the cases where the assumption of responsibility concept is employed 
+no liability should have been imposed at all; and 
+4.
+that assumption of responsibility is a distinctive sui generis basis of legal 
+obligation, separate from both core negligence law and the law of contract.”
+(Nolan, ‘Assumption of Responsibility: Four Questions’)
+LAW OF TORT
+A couple of examples
+LAW OF TORT
+Esso Petroleum v Mardon 
+[1976] QB 901
+Facts:
+C was thinking of leasing a petrol station
+D, an employee of Esso whose job was assessing potential sales, 
+advised C that the station would sell at least 200,000 gallons a 
+year
+C leased the station, and sold on 78,000 gallons in the ﬁrst 15 
+months
+Held: 
+D had assumed responsibility to C
+LAW OF TORT
+Thwaytes v Sotheby’s [2015] EWHC 36 
+Sotheby’s owed a DoC to C, to 
+ensure reasonable care was taken in 
+the valuing of the painting
+Assumption of responsibility – if 
+Sotheby’s was negligent, they would 
+be liable for PEL due to painting 
+being sold for less than it was worth
+BUT … in this case there was no 
+BoD, because Sotheby’s had taken 
+reasonable care in valuation

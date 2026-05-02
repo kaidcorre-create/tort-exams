@@ -1,0 +1,2586 @@
+17. Defamation
+Page 1 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Tort Law (9th edn)
+Kirsty Horsey and Erika Rackley
+17. Defamation
+Kirsty Horsey and Erika Rackley
+https://doi.org/10.1093/he/9780198925231.003.0017
+Published in print: 15 August 2025
+Published online: August 2025
+Abstract
+This chapter discusses the tort of defamation. This area of law has undergone significant legislative change following the 
+enactment of the Defamation Act 2013. The chapter considers the elements to a claim in defamation and key defences, 
+including honest opinion, publication on a matter of public interest and privilege (where the statement is made in the 
+performance of a duty). Remedies include an injunction to prevent publication, and a permanent injunction to prevent further 
+publication and damages.
+Keywords: 
+tort law, Defamation Act 2013, libel, slander, defences, remedies
+Problem question
+Read this problem question carefully and keep it in mind while you are working through the 
+chapter that follows. At the end of the chapter you will be able to apply what you have learnt to the 
+problem question and advise the relevant parties.
+The latest edition of The Horsechester News, the student newspaper, arrives on the Horsechester 
+University campus. The front-page headline is ‘Suspected sex offender caught!’ To one side of the 
+headline is a large photo of Maverick, a senior law professor at Horsechester University. In fact, 
+Maverick is not the suspect described in the headline, as the detail of the story makes clear, and his 
+photo is on the front page only because there is a lengthy interview with him inside the newspaper. 
+But a number of students see the headline and picture without reading the story and think that the 
+headline refers to Maverick.
+p. 481
+17. Defamation
+Page 2 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+→
+→
+→
+→
+→
+On seeing the headline, Kit messages her tort law WhatsApp group ‘Why is Top Gun trending? 
+*Innocent face*’.1 The group has 130 members.
+In the interview published in the newspaper, Maverick reflects on his career. He recounts how Bruno, 
+the head of the law department when he first joined Horsechester University, ‘was an outstanding 
+scholar, which is all the more remarkable considering that he seemed to be drunk half the time’. 
+Maverick is less complimentary about some of his colleagues: ‘the lecturers appointed in the 1990s 
+were, without exception, unequivocally useless’. Raya, one of the ten law lecturers appointed in the 
+1990s, is unhappy about how this comment reflects on her.
+Discuss any possible claims that may be brought by Maverick, Bruno, Kit and Raya.
+17.1  Introduction
+Consider the following examples:
+A national newspaper suggests that a well-known public figure has ‘cynically’ tried to manipulate 
+public opinion following a very public falling out with his family.
+A newly married TV presenter is revealed live on-air by her co-presenter as having had an affair with 
+her dance partner while filming a TV show.
+A TV ‘self-help’ guru is accused of plagiarism.
+The CEO of a multinational company is ‘exposed’ as engaging in sadomasochistic sexual activities with 
+allegedly fascist overtones.
+A presenter on BBC Radio 5’s Test Match Special accuses an England cricketer of fixing matches in 
+return for significant sums of money.
+In each of these examples there is a potential claim in the tort of defamation. In contrast with, say, the torts of 
+trespass to the person and negligence, which protect an individual’s bodily or physical integrity, defamation 
+protects a person’s reputation. The law of defamation enables an individual (or, more controversially, a 
+company) to prevent the publication of, or recover damages for, public statements which make, or are likely 
+to make, people think less of them. As such, many of the cases involve people in the public eye—celebrities, 
+politicians and so on—and/or multinational corporations who are inevitably not only more aware of, but 
+perhaps have a greater interest in, what other people think of them. However, defamation is not a tort 
+exclusively for the rich and famous—we all have an interest in our reputation being maintained. The 
+principles of defamation are applicable to everyone—though the high costs of bringing a claim, combined 
+with the absence of legal aid to support such claims, may mean that its universality is more theoretical than 
+real.
+1
+p. 482
+17. Defamation
+Page 3 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+The torts of defamation: libel and slander
+While we might refer to the (singular) tort of defamation, it comes in two forms: libel and slander. A 
+distinction is drawn at common law between libel (a defamatory statement in permanent form, 
+typically writing, but also including, for example, ‘a statue, a caricature, an effigy, chalk marks on a 
+wall, signs, or pictures’ (Monson v Tussauds Ltd [1894] at 692)) and slander (statements that are 
+temporary or transitory, usually speech but also mimicry, gestures and sign language). The test is one 
+of ‘permanence’ rather than form.2 Thus, not all spoken insults or ‘speech’ are treated as slander—for 
+example, defamatory song lyrics are libellous, despite the fact they are spoken. Ultimately, the 
+question of classification is largely a matter of common sense. Clearly, there are 
+↵
+borderline cases 
+—an insult written in sand on a beach, for example. However, such cases arise more often in the 
+imagination of tort textbook writers than in the courtroom.3
+Although the distinction between the torts of libel and slander had long been criticised as an 
+unnecessarily historical relic,4 the Defamation Act 2013 did not abolish it. Rather, section 1(1) makes 
+clear that in all cases of defamation the claimant needs to demonstrate that the publication of the 
+defamatory statement has ‘caused or is likely to cause serious harm’—or injury—‘to the reputation of 
+the claimant’. And that, on top of this, in the case of slander the claimant must demonstrate some sort 
+of material loss flowing from this (mirroring the common law position): for example, by losing money 
+as a result of being shunned by business clients—with the exception of cases of imputation of 
+criminal conduct and incompetence in business dealings where, reflecting the previous common law 
+position, there is no need to demonstrate special damage.5
+In the tort of defamation an individual’s reputation is said to be pitted against freedom of expression. At its 
+heart lies the question as to when an individual’s interest in what people think of them should trump or 
+silence the freedom of others to be able to say what they know, or think they know, about them. Freedom of 
+expression is considered so important that (in contrast with one’s interest in one’s reputation) it is protected 
+under the European Convention on Human Rights (ECHR) and the Human Rights Act 1998. However, as both 
+make clear, one’s right to freedom of expression is not unlimited. Individuals do not have complete freedom 
+to say whatever they like, whenever they like. Article 10(2) provides that an individual’s ability to exercise 
+this right can be restricted in the interests of a democratic society including ‘for the protection of the rights 
+and freedoms of others’. Accordingly, one of the fundamental questions that the tort of defamation has to 
+resolve is where to strike the balance between the right to freedom of expression and an individual’s desire to 
+protect their reputation.
+Inevitably there is disagreement as to whether and when the courts have struck the right balance. Certainly 
+there are examples where defamation has been used by individuals and companies to suppress criticism with 
+disquieting effect. And, certainly, until relatively recently the tort of defamation essentially allowed an 
+individual to sue another who said anything that might make a third party think less of the claimant without 
+2
+p. 483
+3
+4
+5
+17. Defamation
+Page 4 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+having to show that what was said was untrue, that it caused them harm or that the speaker was 
+unreasonable or at fault. This has now changed. Section 1 of the Defamation Act 2013 introduced a ‘serious 
+harm’ requirement intended to ensure that only the most egregious cases are brought.6
+Pause for reflection
+Despite the changes introduced by the 2013 Act, the tort of defamation provides an individual or 
+company with relatively heavy-duty tools with which to protect their reputation against another’s 
+fundamental right to free speech and expression. However, does an individual’s reputation really 
+require this much protection? Tony Weir suggests:
+[T]he protection may be thought to be all the odder in that the only kinds of harm apt to 
+result from being badmouthed are emotional upset and financial loss, neither of which is 
+very readily redressed in the law even where the defendant’s negligence has been 
+demonstrated.7
+Do you agree? Think again about the purposes of tort law (discussed in section 1.3).
+The Defamation Act 2013 was the result of a long campaign arguing that the common law on defamation was 
+not fit for purpose. The Act was touted as turning ‘English libel laws from an international laughing stock to 
+an international blueprint’.8 Certainly the Act introduced wide-ranging reforms including the seriousness 
+threshold, ‘new’ statutory defences of responsible publication on matters of public interest, truth (replacing 
+the common law defence of justification) and honest opinion (replacing the common law defence of honest 
+comment) as well as changes to the multiple publication rule and measures designed to inhibit so-called ‘libel 
+tourism’.
+Crucially, however, the Act did not replace the common law (in the sense that the earlier common law is now 
+irrelevant). The Act not only develops many common law principles but is intended (in places) to mirror the 
+previous common law position. The Act, to adopt Matthew Collins’s analogy, is:
+Frankenstein’s monster: countless complications and piecemeal reforms riveted to the rusting hulk 
+of a centuries’ old cause of action … No-one [he concludes] starting from scratch, would devise 
+defamation laws of the kind with which England and Wales, and the rest of the common law world, 
+have been saddled.9
+What this means for our purposes is that it is necessary to understand both the common law and new Act.10
+17.2  Establishing a claim in defamation
+In order to establish a claim in the tort of defamation four questions need to be addressed:
+6
+p. 484
+7
+8
+9
+10
+p. 485
+17. Defamation
+Page 5 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(1)
+(2)
+(3)
+(4)
+Is the statement defamatory?
+Does the statement refer to the claimant?
+Has the statement been published or communicated to a third party?
+Are there any applicable defences?
+We shall take each question in turn. However, before we do so there is one further point to address: who can 
+bring a claim in defamation.
+17.2.1  Who can sue?
+A defamation claim can be brought by any living human being. Whatever other reasons there may be for 
+adhering to the old adage not to speak ill of the dead, the fear of a defamation claim is not one of them—an 
+action does not survive the death of either party (Law Reform (Miscellaneous Provisions) Act 1934, s 1(1)). 
+More controversially, companies are also able to bring a defamation claim (South Hetton Coal Co v North- 
+Eastern News Association Ltd [1894]). After all, as Lord Bingham noted in Jameel v Wall Street Journal Europe 
+[2007], they too have a reputation to protect:
+the good name of a company, as that of an individual, is a thing of value. A damaging libel may lower 
+its standing in the eyes of the public and even its own staff and make people less ready to deal with 
+it, less willing and less proud to work for it … I find nothing repugnant in the notion that this is a 
+value which the law should protect. (at [26])11
+This may be true. However, it is not immediately obvious why a company’s reputation needs quite as much 
+protection as that of an individual. This has been (partly) addressed in section 1 of the Defamation Act 2013. 
+As with any other defamation claimant, a company (or any other ‘body that trades for profit’) now needs to 
+establish that the defamatory statement has caused, or is likely to cause, ‘serious harm’ to its reputation 
+(discussed in section 17.3). In addition, section 1(2) requires that, in relation to companies, this harm is 
+manifested as ‘serious financial loss’ (rather than, say, the company’s goodwill or public image). Though, in 
+truth, this is not a particularly high hurdle—not least because it extends to potential (as well as actual) 
+losses.12
+Others go even further and argue that companies should not be able to bring defamation claims at all. 
+Allowing them to do so, it is suggested, ignores the power of big business and can have a ‘chilling effect’ upon 
+potential critics and challengers.13 Limiting companies’ 
+↵
+ability to claim in defamation would, it is 
+argued, be in line with the decision in Derbyshire County Council v Times Newspapers Ltd [1993] in which the 
+House of Lords recognised that restricting an individual’s ability to openly criticise national and local 
+government would be contrary to the democratic process and would ‘place an undesirable fetter on freedom 
+of speech’ (at 549).
+11
+12
+13
+p. 486
+17. Defamation
+Page 6 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Derbyshire County Council v Times Newspapers Ltd [1993] AC 534 (HL)
+Derbyshire County Council sued The Times newspaper over two articles which had questioned the 
+propriety of its financial dealings. However, before the case could proceed, the court had first to decide 
+whether the council was able to bring an action. The House of Lords unanimously held that the 
+council was unable to sue in defamation:
+It is of the highest public importance that a democratically elected governmental body, or 
+indeed any governmental body, should be open to uninhibited public criticism. The threat of 
+a civil action for defamation must inevitably have an inhibiting effect on freedom of speech. 
+(Lord Keith at 547)
+The reasoning in Derbyshire was applied to political parties in Goldsmith v Bhoyrul [1997]. However, crucially, 
+these decisions do not prevent politicians and parliamentarians from bringing defamation claims (see e.g. 
+Lord McAlpine’s defamation claims against a number of high-profile tweeters, including comedian Alan 
+Davies and Sally Bercow, for tweets linking him to child sex abuse).14 An argument can be made that this 
+ability to bring, or threaten to bring, defamation proceedings has the same ‘chilling effect’ on political debate 
+and commentary and that, at least in relation to comments about their performance as MPs, this should 
+similarly be restricted.15
+The 2013 Act introduced a further restriction on who can sue. Purporting to address so-called ‘libel 
+tourism’,16 section 9 of the Defamation Act 2013 creates a ‘threshold test’ for actions against non-domiciled 
+persons (i.e. persons not living in the UK, EU or in a Lugano Convention state). In such cases, the courts in 
+England and Wales lack jurisdiction unless they are ‘satisfied that, of all the places in the world in which the 
+statement complained of has been published, England and Wales is clearly the most appropriate place in 
+which to bring an action in respect of the statement’ (s 9(2); Wright v Ver [2020]).
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-17-2>.
+17.3  Is the statement defamatory?
+A statement is defamatory if it is likely to make others think less of the person referred to: the words or 
+statement must tend to ‘lower the claimant in the estimation of right-thinking members of society in 
+general’, causing them to be shunned or avoided (Sim v Stretch [1936] at 1240). The meaning of the 
+defamatory statement is not, then, that which the claimant—or even the defendant—may actually have 
+attached to it, but rather that derived from an objective assessment to be determined by ‘right-thinking 
+14
+15
+16
+p. 487
+17. Defamation
+Page 7 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+members of society’. But who are these right-thinking members of society? The answer, of course, is the 
+ubiquitous reasonable person—here the reasonable reader, viewer or listener—described by Lord Reid in 
+Lewis v Daily Telegraph [1964] as ‘someone who is fair-minded, who is not avid for scandal, nor overly 
+suspicious nor unduly naïve, nor bound to select one defamatory meaning when non-defamatory meanings 
+are possible’ (at 260).
+This is a relatively low threshold. Where a statement, for example, suggests that the claimant has broken or 
+ignored the beliefs or practices of a particular group to which they belong, it is the implication of hypocrisy or 
+disloyalty which is actionable, even if the ordinary person is indifferent to the claims made in the original 
+statement. And so while to suggest that someone places the occasional bet is not in itself defamatory, to 
+suggest this of a local vicar who has campaigned vociferously against a new bingo hall may be. The point here 
+is not whether people generally think badly of occasional gamblers, but rather the implication of double 
+standards which could have a significant negative impact on an individual’s reputation.17
+Counterpoint
+The tort of defamation treads a thin line. There are certain things which in the eyes of most ‘right- 
+minded people’ will not lower their estimation of an individual. Being gay, for example, or having 
+been raped or having a serious contagious illness or disease, no longer will (or should) make people 
+generally think badly of the person involved.18 The claimant—and then the law—is faced with a 
+problem. While such allegations should not be considered damaging, and in the minds of properly 
+right-thinking people are not, sadly they often are. Not all people are right-minded (however much we 
+might wish otherwise). Given this, statements which should not negatively impact on people’s views 
+of the claimant will nonetheless do so, sometimes seriously. The dilemma here is that if we take the 
+requirement that the statement must lower the claimant’s standing in the eyes of right-minded 
+people seriously, there will be situations where 
+↵
+a claimant’s reputation is unfairly damaged but 
+for which the law provides no remedy. However, if the law is to recognise a claim in these 
+circumstances then the law risks lending its support to the view that being gay, having been raped, 
+suffering from a serious contagious illness and the like are negative attributes.
+Historically, libel was actionable per se. While the courts had gone some way in ‘raising the bar’ to restrict 
+claims by adding a ‘seriousness’ requirement to considerations as to whether a statement is defamatory 
+(Jameel v Dow Jones & Co Inc [2005]; Thornton v Telegraph Media Group Ltd [2010]), section 1(1) of the 
+Defamation Act 2013 raises it further still. A defamatory statement is only actionable if it causes, or is likely to 
+cause, serious harm to the claimant’s reputation. As with any new statutory requirement, there has been a 
+period of ‘bedding in’ as judges interpret and apply it and the interpretation of section 1 finally reached the 
+Supreme Court in Lachaux v Independent Print Ltd [2019].
+17
+18
+p. 488
+17. Defamation
+Page 8 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Lachaux v Independent Print Ltd [2019] UKSC 27 (SC)
+The case involved a series of articles published in The Independent, i, the Evening Standard and 
+Huffington Post, about events that had taken place in the United Arab Emirates, including details of 
+allegations that the claimant had kidnapped his and his ex-wife’s son, as well as allegations of 
+domestic violence made by the claimant’s ex-wife. In the High Court, Warby J held that Lachaux had 
+demonstrated, by evidence, that the harm caused by the defamatory publications complained of was 
+‘serious’, within the meaning of section 1(1). The Court of Appeal, while agreeing with Warby J’s 
+conclusion on the substance of the case, thought that he had gone too far in his interpretation of 
+‘serious harm’. The question for the Supreme Court was therefore how section 1(1) should be 
+interpreted.
+Unanimously dismissing the newspapers’ appeal, the Supreme Court held that section 1:
+not only raises the threshold of seriousness above that envisaged in Jameel (Yousef) and 
+Thornton, but requires its application to be determined by reference to the actual facts about 
+its impact and not just to the meaning of the words. (at [12])
+To find otherwise, Lord Sumption continued, would mean that section 1 did nothing to alter the 
+common law, which was clearly contrary to Parliament’s intention:
+[S]ection 1 necessarily means that a statement which would previously have been regarded 
+as defamatory, because of its inherent tendency to cause some harm to reputation, is not to 
+be so regarded unless it ‘has caused or is likely to cause’ harm which is ‘serious’. The 
+reference to a situation where the statement ‘has caused’ serious harm is to the 
+consequences of the publication, and not the publication itself. It points to some historic 
+harm, which is shown to have actually occurred. This is a proposition of fact which can be 
+established only by reference to the impact which the statement is shown actually to have 
+had. It depends on a combination of the inherent tendency of the words and their actual 
+impact on those to whom they were communicated. (at [14])
+↵
+On the facts, the court largely adopted Warby J’s approach to determining whether the harm 
+caused, or likely to be caused, was ‘serious’:
+p. 489
+17. Defamation
+Page 9 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+[Warby J] based his finding of serious harm on (i) the scale of the publications; (ii) the fact 
+that the statements complained of had come to the attention of at least one identifiable 
+person in the United Kingdom who knew Mr Lachaux and (iii) that they were likely to have 
+come to the attention of others who either knew him or would come to know him in future; 
+and (iv) the gravity of the statements themselves, according to the meaning attributed to 
+them. … Mr Lachaux would have been entitled to produce evidence from those who had read 
+the statements about its impact on them. But I do not accept, any more than the judge did, 
+that his case must necessarily fail for want of such evidence. The judge’s finding was based 
+on a combination of the meaning of the words, the situation of Mr Lachaux, the 
+circumstances of publication and the inherent probabilities. There is no reason why 
+inferences of fact as to the seriousness of the harm done to Mr Lachaux’s reputation should 
+not be drawn from considerations of this kind.19
+In deciding whether the statement is defamatory, the courts will look at the statements in context including 
+the scale of the publications, actual and potential readership (and their relationship to the claimant) and the 
+gravity of the statements themselves.20 It is not enough for the claimant to point to the headline or a 
+particular sentence or paragraph in isolation from the piece as a whole in order to ground a claim. As Nicklin J 
+noted in Koutsogiannis v The Random House Group Ltd [2019]:
+The publication must be read as a whole, and any ‘bane and antidote’ taken together. Sometimes, the 
+context will clothe the words in a more serious defamatory meaning (for example the classic 
+‘rogues’ gallery’ case). In other cases, the context will weaken (even extinguish altogether) the 
+defamatory meaning that the words would bear if they were read in isolation (e.g. bane and antidote 
+cases). (at [12])
+These ‘well-established and uncontroversial principles’ were applied in Riley v Murray [2022].
+Riley v Murray [2022] EWCA Civ 1146 (CA)
+The case involved a series of tweets by Rachel Riley, a well-known TV personality (who has spoken 
+publicly to condemn what she regards as the fostering of anti-Semitism in the Labour Party under its 
+former leader, Jeremy Corbyn), Owen Jones, a Guardian journalist, and the defendant, Murray, who 
+worked in Corbyn’s political office. In January 2019, Jones had posted a tweet in response to an egg 
+being thrown at Nick Griffin, the former leader of the British National Party: ‘… I think sound life 
+advice is, if you don’t want eggs thrown at you, don’t be a Nazi. Seems fair to me’. Following a report 
+that an egg had been thrown at Corbyn, Riley screenshot Jones’s tweet and posted it with the 
+comment ‘Good advice’, accompanied by pictures of a red rose and an egg. This was subsequently 
+referred to as the ‘Good Advice Tweet’. The defendant responded with the following tweet:
+19
+20
+p. 490
+17. Defamation
+Page 10 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(i)
+(1)
+(2)
+(3)
+(ii)
+(iii)
+Today Jeremy Corbyn went to his local mosque for Visit My Mosque Day, and was attacked 
+by a Brexiteer. Rachel Riley tweets that Corbyn deserves to be violently attacked because he is 
+a Nazi. This woman is as dangerous as she is stupid. Nobody should engage with her. Ever.
+This was held to be defamatory. The Court of Appeal, agreeing with the determination of Nicklin J, 
+held:
+An important aspect of these for present purposes is the ‘single meaning rule’ explained in 
+Koutsogiannis [(at [11])]:–
+The Court’s task is to determine the single natural and ordinary meaning of the 
+words complained of, which is the meaning that the hypothetical reasonable reader 
+would understand the words bear. It is well recognised that there is an artificiality in 
+this process because individual readers may understand words in different ways: 
+Slim v Daily Telegraph Ltd [1968] …
+The process of identifying the single natural and ordinary meaning of a statement is an 
+objective one. The intention of the publisher is irrelevant and no evidence is admissible other 
+than the publication complained of itself …
+Applying these principles Nicklin J determined that:
+The natural and ordinary meaning of the tweet is:
+Jeremy Corbyn had been attacked when he visited a mosque.
+The claimant had publicly stated in a tweet that he deserved to be violently 
+attacked.
+By so doing, the claimant has shown herself to be a dangerous and stupid person 
+who risked inciting unlawful violence. People should not engage with her.
+Paragraphs (1) and (2) are statements of fact. Paragraph (3) is an expression of 
+opinion.
+Paragraphs (2) and (3) are defamatory at common law. (Warby LJ at [11]–[13])
+The Court of Appeal also upheld Nicklin J’s findings in relation to the statutory defences of truth, 
+honest opinion and publication on a matter of public interest. Riley’s original award of £10,000, 
+which had been reduced by the trial judge to reflect the ‘provocative, even mischievous’ nature of her 
+conduct in posting her Good Advice Tweet, was upheld (at [16]).
+17. Defamation
+Page 11 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+↵
+In Charleston v News Group Newspapers Ltd [1995] the House of Lords held that the defendants were not 
+liable in defamation for an article featuring degrading, faked photographs of the claimants—two popular 
+Australian TV soap actors in the early 1990s—as the accompanying text made it clear that the photographs 
+were not real. The decision as to whether the material was capable of being defamatory must be determined 
+according to the meaning an ordinary, reasonable, fair-minded reader would understand from it, rather than 
+on its effect on a sub-group of limited readers who looked only at pictures and headlines.21
+More recently, in Spicer v Commissioner of Police of the Metropolis [2019] the headline on the Metropolitan 
+Police website stating ‘Two guilty of killing a woman while racing their cars’ was not found to be defamatory 
+against the driver of one of the cars who had been acquitted of causing death and causing injury by dangerous 
+driving:
+The headline is inconsistent with the text. It is not true that two men were ‘guilty of killing a 
+woman’. But ordinary reasonable readers would not allow the headline to distort the meaning they 
+took from the article as a whole. Readers are familiar with discordance between headlines and 
+articles. Here, the more detailed explanation of events was in the article itself. It clearly stated that 
+one man had been convicted of killing and another acquitted. Reading the headline and article 
+together a reasonable reader would conclude that the headline was wrong. Some readers might 
+think this odd, or sloppy, and move on. Discordance between headline and text is hardly unknown. 
+But whatever conclusion (if any) the reader drew about the reasons for it, I am confident the reader 
+would not see the claimant as a convicted killer. (Warby J at [35])
+But what about where the meaning of the potentially defamatory statement is unclear? How should a judge 
+go about determining the meaning of what has been said?
+Stocker v Stocker [2019] UKSC 17 (SC)
+The defendant, Nicola Stocker, had posted a number of comments on the Facebook wall of her ex- 
+husband’s new partner in which she claimed her ex-husband, Ronald Stocker, had ‘tried to strangle 
+me’. She also made a number of allegations about threats, ‘gun issues’ and the breach of a non- 
+molestation order, all of which contributed a ‘picture of acute marital breakdown’ (at [4]). Mr Stocker 
+began proceedings against her for defamation. The question for the court was what the words ‘He 
+tried to strangle me’ conveyed to the ‘ordinary reasonable reader’ of a Facebook post? (at [1]).
+At trial (finding for Mr Stocker) the judge, Mitting J, relied (in error) on the Oxford English Dictionary 
+in his determination of meaning: either Mr Stocker had tried to kill his wife, or he had constricted her 
+neck or throat painfully. On this view, the fact that Mrs Stocker said that her husband had tried to 
+strangle her precluded the possibility of the latter meaning 
+↵
+being attributed (as he had in fact 
+done this): the only possible meaning of Mrs Stocker’s posts was that Mr Stocker had tried to kill her, 
+something which Mrs Stocker was unable to justify.
+p. 491
+21
+p. 492
+17. Defamation
+Page 12 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Despite his success in the lower courts, Mr Stocker lost in the Supreme Court. The trial judge, a 
+unanimous Supreme Court held, had simply got it wrong in law:
+Mitting J fell into legal error by relying upon the dictionary definition of the verb ‘to strangle’ 
+as dictating the meaning of Mrs Stocker’s Facebook post, rather than as (as Sharp LJ [in the 
+Court of Appeal] suggested) a check. In consequence, he failed to conduct a realistic 
+exploration of how the ordinary reader of the post would have understood it. Readers of 
+Facebook posts do not subject them to close analysis. They do not have someone by their 
+side pointing out the possible meanings that might, theoretically, be given to the post. … 
+Taking a broad, overarching view, and keeping in mind that only one meaning could be 
+chosen, the choice to be made between the meaning of the words being that Mr Stocker 
+grasped his wife by the neck or that he tried to kill her is, in my opinion, a clear one. If Mrs 
+Stocker had meant to convey that her husband had attempted to kill her, why would she not 
+say so explicitly? And, given that she made no such allegation, what would the ordinary 
+reasonable reader, the casual viewer of this Facebook post, think that it meant? In my view, 
+giving due consideration to the context in which the message was posted, the interpretation 
+that Mr Stocker had grasped his wife by the neck is the obvious, indeed the inescapable, 
+choice of meaning. (Lord Kerr at [47]–[48])
+Lord Kerr went on to consider the defence of justification22:
+In light of my conclusion as to the correct meaning to be given to the words, ‘tried to strangle 
+me’, section 5 of the Defamation Act 195223 must occupy centre stage. It is beyond dispute 
+that Mr Stocker grasped his wife by the throat so tightly as to leave red marks on her neck 
+visible to police officers two hours after the attack on her took place. It is not disputed that he 
+breached a non-molestation order. Nor has it been asserted that he did not utter threats to 
+Mrs Stocker. Many would consider these to be sufficient to establish that he was a dangerous 
+and disreputable man, which is the justification which Mrs Stocker sought to establish. … 
+Even if all her allegations were considered not to have been established to the letter, there is 
+more than enough to satisfy the provision in section 5 of the 1952 Act that her defence of 
+justification should not fail by reason only that the truth of every charge is not proved, 
+having regard to the truth of what has been proved. (at [61]–[62])
+Pause for reflection
+↵
+In the age of #MeToo, traditional and social media have become an important way for women 
+(and some men) to expose, challenge and seek acknowledgement for harms they have suffered. In a 
+world where we continue to see high levels of sexism, misogyny and systemic institutional failings— 
+22
+23
+p. 493
+17. Defamation
+Page 13 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+not least within the legal system itself—the media has played a vital role in validating the remarkably 
+similar stories of routine violence and abuse perpetrated on women in the workplace, on the streets 
+and in their homes. Public reporting of all forms of violence against women and girls (VAWG) can not 
+only lead to investigation and redress for individuals concerned, it can also encourage other victims to 
+come forward, contributing to a much-needed overthrow of public stereotypes, myths and attitudes 
+surrounding violence against women.24
+However, lined up against this is the full force of defamation laws, non-disclosure agreements and 
+super-injunctions which remain usually, though not always, in the hands of rich men.25 Harriet 
+Wistrich, from the Centre for Women’s Justice, has suggested that what we are seeing is:
+a worrying trend where wealthy men who are accused of abuse are able to buy victims’ 
+silence.26 Libel proceedings are extremely costly and few can risk speaking out for fear of 
+punitive costs awards against them despite the huge public interest in exposing serious 
+wrongdoing. In libel, serious harm to reputation seems to be valued more highly than the 
+serious harm of violence against women that may be exposed by victims speaking out.27
+So viewed, cases like Stocker then are about far more than statutory interpretation. They are about 
+(abuse of) power. They are about freedom of expression. They are about the role of the media in aiding 
+—and hindering—the pursuit of justice.
+↵
+In 2021, UN special rapporteur on the promotion and protection of the right to freedom of opinion and 
+expression, Irene Khan, noted that, ‘[i]n a perverse twist in the #MeToo age’ the justice system is 
+increasingly being ‘weaponized … to silence women’: women who publicly denounce alleged perpetrators of 
+sexual violence online are increasingly subject to defamation suits.28
+In our video ‘Where money talks: defamation, sexual violence and gendered power’ we explore this further, 
+focusing on another key characteristics of many of these cases: the wealth of the defendant. Is it that, when it 
+comes to bringing a defamation case in the context of sexual violence, money talks?
+Video playback is not supported in this format.
+Video 17: Where money talks: defamation, sexual violence and gendered power
+It is also no excuse for the defendant to say that they did not intend the words to be defamatory (although 
+intention may be relevant to possible defences and may reduce the award of damages). The tort of defamation 
+protects an individual’s reputation, and a statement can damage an individual’s reputation, even where it 
+turns out that the defendant did not mean what they said. However, a defendant may argue that the words 
+were ‘mere abuse’, uttered in rage and not intended to be taken seriously. Mere abuse is not (usually) 
+24
+25
+26
+27
+p. 494
+28
+17. Defamation
+Page 14 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+defamatory. The line between mere abuse and a defamatory statement is a fine one. In Berkoff v Burchill 
+[1996], for example, Steven Berkoff, an actor and film director, sued Julie Burchill, a well-known journalist, 
+for libel over two comments made about him in her column in the Sunday Times in which she referred to him 
+as ‘hideously ugly’ and, on the second occasion, a review of a production of Frankenstein compared him to 
+Frankenstein’s monster. The defendants argued that the essence of the tort of defamation was damage to 
+reputation, not hurt feelings or annoyance, and that while the statement may have caused the latter, it had 
+not caused the former. This was rejected by the majority of the Court of Appeal. Holding that the word 
+‘reputation’ is to be interpreted ‘in the broad sense as comprehending all aspects of a person’s standing in the 
+community’ (at 151), Neill LJ went on to hold that the words ‘hideously ugly’ could be defamatory ‘even 
+though they neither impute disgraceful conduct to the [claimant] nor any lack of skill or efficiency in the 
+conduct of his trade or business or professional activity, if they hold him up to contempt, scorn, or ridicule or 
+tend to exclude him from society’ (at 146).29 Millett LJ dissented, pointing out that Burchill’s words were an 
+attack on Berkoff’s appearance rather than reputation. Burchill had simply made a cheap joke at Berkoff’s 
+expense: ‘it is [he argued] one thing to ridicule a man; it is another to expose him to ridicule … people must be 
+able to poke fun at each other without fear of litigation’ (at 153).
+More recently in Vine v Barton [2024], a series of posts by former Premier League footballer, Joey Barton, on X 
+calling radio and TV presenter Jeremy Vine a ‘bike nonce’ and ‘pedo defender’ were held to be defamatory and 
+not—as Barton contended—‘mere vulgar abuse’: ‘The hypothetical reader would not have gained the 
+impression that this was meaningless invective hurled in the heat of the moment’ but rather that ‘the 
+claimant has a sexual interest in children, and he defends paedophiles’ (Steyn J at [58], [202]).
+17.3.1  Innuendo
+The tort of defamation is not confined to openly defamatory statements. This makes sense—were the law 
+otherwise it would be possible to frame an attack on an individual’s reputation indirectly, in the knowledge 
+that they would be unable to do anything about it. The detrimental impact on a person’s reputation is the 
+same whether one says ‘there was a miscarriage of justice when X was cleared of murder’ or ‘X is a 
+murderer’ (Lewis v Daily Telegraph [1964] at 258).
+Monson v Tussauds Ltd [1894] QB 671 (CA)
+The claimant had been tried for murder in Scotland and released on a verdict of ‘Not Proven’, a form of 
+acquittal. The defendants placed a waxwork of the claimant with a gun in a room adjoining the 
+‘Chamber of Horrors’. The Court of Appeal held that the scene was capable of being defamatory.
+These implied or veiled attacks on someone’s reputation are called innuendo. Innuendo is a mechanism 
+through which the courts are able to attribute to a statement its legal meaning. It typically arises in relation to 
+statements that do not appear defamatory, but which, because of background knowledge or information, 
+29
+p. 495
+17. Defamation
+Page 15 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(1)
+(2)
+nevertheless make people think worse of the claimant. The test for determining whether the ascribed 
+meaning is capable of being defamatory remains an objective one: what view would right-thinking people 
+knowing the additional information make of the statement?
+Traditionally there are said to be two types of innuendo, although the line between them may, at times, be 
+difficult to draw:
+false or popular innuendo—where the reader needs to simply read between the lines to uncover the 
+true meaning of the defamatory statement;
+true or legal innuendo—where the defamatory nature of the statement is not apparent on its face but 
+depends on facts or circumstances known to those to whom the statement is published.
+An example of false or popular innuendo can be seen in Lewis v Daily Telegraph [1964]. The Daily Telegraph 
+reported that the company (of which Lewis was the chairman) was being investigated by the Fraud Squad. It 
+included reference to the claimant’s name. After the investigation the company was absolved of all 
+wrongdoing. The claimant sued in defamation claiming that ordinary readers would ‘read between the lines’ 
+and assume that the company’s affairs had been conducted dishonestly. The defendants admitted the articles 
+were defamatory, but argued that they didn’t go so far as to include actual guilt of fraud and so could be 
+defended on the grounds of truth. The majority of the House of Lords agreed:
+[w]hat the ordinary man, not avid for scandal, would read into the words complained of must be a 
+matter of impression. I can only say that I do not think that he would infer guilt of fraud merely 
+because an inquiry is on foot. (Lord Reid at 260)
+Indeed, were it otherwise it would be impossible to report any criminal investigation.
+↵
+Legal or true innuendo relies on some additional information known only to those to whom the 
+statement is published. So, for example, the statement that the claimant ‘is no Florence Nightingale’ might 
+imply to the ordinary reader that the claimant lacks compassion—as Florence Nightingale is well known for 
+her compassion—whereas to say that the claimant was seen having an intimate dinner with her dance 
+partner is not in itself defamatory, it becomes so only in relation to people who know that she is recently 
+married, to whom it might carry the implication that she is having an affair (see e.g. Fullam v Newcastle 
+Chronicle & Journal Ltd [1977]).
+A discussion of innuendo arose in the context of a high-profile ‘Twibel’ (Twitter libel) case involving a 
+defamatory tweet sent by Sally Bercow about former Deputy Chairman and Treasurer of the Conservative 
+Party, Lord McAlpine (McAlpine v Bercow [2013]).
+p. 496
+17. Defamation
+Page 16 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+McAlpine v Bercow [2013] EWHC 1342 (QB)
+In November 2012, the defendant sent a tweet: ‘Why is Lord McAlpine trending? *Innocent face*’. At 
+the time, Bercow had over 56,000 followers. It followed a BBC Newsnight report which included a 
+serious allegation of child abuse and references to ‘a leading Conservative politician from the 
+Thatcher years’ and ‘a prominent Tory politician at the time’. Following the broadcast there was 
+intense media speculation as to the politician’s identity, as well as on Twitter which led to McAlpine’s 
+name ‘trending’. Unfortunately, it was a case of mistaken identity: it was quickly accepted that Lord 
+McAlpine was entirely innocent.
+In deciding the meaning of the tweet, Tugendhat J stated:
+In respect of an innuendo meaning, a claimant must, in addition to identifying the meaning 
+complained of, prove the extrinsic facts relied upon and prove that these facts were known to 
+readers … The claimant will have been defamed in the minds of those readers, but not in the 
+minds of the readers who did not know the extrinsic facts. (at [50])
+He continued:
+The legal principles to be applied when determining the question of meaning are in part 
+derived from the [Lewis v Daily Telegraph] case. They were summarised by Sir Anthony 
+Clarke MR in Jeynes v News Magazines Ltd [2008] at [14]–[15] (where ‘he’ means ‘he or she’):
+The legal principles relevant to meaning have been summarised many times and are 
+not in dispute. … They may be summarised in this way: (1) The governing principle 
+is reasonableness. (2) The hypothetical reasonable reader is not naïve but he is not 
+unduly suspicious. He can read between the lines. He can read in an implication 
+more readily than a lawyer and may indulge in a certain amount of loose thinking 
+but he must be treated as being a man who is not avid for scandal and someone who 
+does not, and should not, select one bad meaning where other non-defamatory 
+meanings are available. (3) Over-elaborate analysis is best avoided. (4) The 
+intention of the publisher is irrelevant. (5) The article must be read as a whole, and 
+any ‘bane and antidote’ taken together. (6) The hypothetical reader is taken to be 
+representative of those who would read the publication in question.
+↵
+It is important in this case to stress point (6). The tweet was not a publication to the 
+world at large, such as a daily newspaper or broadcast. It was a publication on Twitter. The 
+hypothetical reader must be taken to be a reasonable representative of users of Twitter who 
+follow the Defendant. (at [57]–[58])
+p. 497
+17. Defamation
+Page 17 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Tugendhat J rejected the defendant’s claim that she was simply asking for information, and found 
+that the tweet meant ‘in its natural and ordinary defamatory meaning, that the claimant was a 
+paedophile who was guilty of sexually abusing boys living in care’ (at [90]). However, he continued, ‘If 
+I were wrong about that, I would find that the tweet bore an innuendo meaning to the same effect. But 
+if it is an innuendo meaning it is one that was understood by that small number of readers who, 
+before reading the tweet on 4 November, either remembered, or had learnt, that the Claimant had 
+been a prominent Conservative politician in the Thatcher years’ (at [91]), that is to those people who 
+had the additional knowledge to interpret the meaning of the tweet.30
+The defendant later apologised for her ‘irresponsible use of Twitter’ and agreed to pay the claimant 
+undisclosed damages.
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-17-3>.
+17.4  Does the statement refer to the claimant?
+The defamatory statement must refer to the claimant. The question to be asked is this: would a reasonable 
+person understand the statement as referring to the claimant? Where the claimant is named—including by a 
+nickname, initials or even job title (e.g. ‘Home Secretary’)—there is usually no difficulty. However, the more 
+obscure the reference, the more need there is for a ‘peg or pointer’ in the statement itself or to be provided by 
+the context in which the statement was made that identifies the claimant. In such cases, the test is whether 
+the hypothetical reasonable reader, having knowledge of the circumstances, would believe that the article 
+was referring to the claimant (Morgan v Odhams Press Ltd [1971]).
+If the claimant is not clearly identified in the statement, and so where one would need to know certain 
+additional background information to connect the claimant to the statement made by the defendant, the 
+claimant must show that the statement was actually published to people who knew the additional 
+information—that is, to people who could have made the connection between the statement and the 
+claimant. Otherwise all there is is a statement which might have defamed the claimant if addressed to the 
+right people, but which, in the end, did not.
+What about statements that unintentionally refer to the claimant? For instance, certain names are common, 
+and so a statement referring to, say, Joe Bloggs, may refer to any potential number of individuals who share 
+that name. Can the author be liable in defamation, even where they did not intend their statement to refer to 
+the claimant, and indeed intended it to identify someone else? The short answer is yes. The tort of defamation 
+30
+17. Defamation
+Page 18 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+is not concerned with whether the defendant intended to harm an individual’s reputation, but rather whether 
+↵
+their words are capable of causing this outcome. Thus, a defendant may be liable even when they 
+intended their statement as a piece of fiction (Hulton & Co v Jones [1910]).31
+Hulton & Co v Jones [1910] AC 20 (HL)
+The defendants (a newspaper company) published a fictional account of a motor festival in Dieppe 
+featuring ‘Artemus Jones’, a church warden from Peckham. The claimant was a barrister also called 
+Artemus Jones. He was unknown to the author of the story and his editor (although he had once 
+worked for the newspaper). He was not a church warden. He did not live in Peckham, nor had he 
+attended the motor festival in Dieppe. Nevertheless, he sued in libel, claiming that a number of his 
+friends had read the story and believed it to refer to him. The House of Lords agreed. There was 
+sufficient evidence to suggest that a jury could reasonably conclude that a reasonable person would 
+believe that the story referred to the claimant.
+Similarly, in Newstead v London Express Newspaper Ltd [1940], the defendant newspaper published an account 
+of the trial for bigamy of ‘Harold Newstead, a thirty year old Camberwell man’. Unfortunately for the 
+newspaper, this description was true of more than one man. Another Harold Newstead, a non-bigamist who 
+also lived in Camberwell and who was about the same age as the other Harold Newstead, successfully sued for 
+libel. Although recognising the considerable burden their decision would place on newspapers, the Court of 
+Appeal held that it was not unreasonable, given the significant consequences for the ‘wrong’ man, to expect 
+the party who publishes such statements to make sure they identify the person so closely that little or no 
+confusion arises.32
+However, not every unintentional reference will ground a claim. In O’Shea v MGN Ltd [2001], the Sunday 
+Mirror ran an advertisement for an adult internet service featuring a model who closely resembled the 
+claimant. O’Shea sued in libel claiming that people who did not realise that the model in the advert was not in 
+fact her would conclude that she had consented to appear on a highly pornographic website. Rejecting her 
+claim, Morland J held that although the image was at common law defamatory, to hold the newspaper liable 
+in defamation would be contrary to Article 10 ECHR. Distinguishing Hulton and Newstead as cases where the 
+claimant could have more easily been identified, Morland J suggested it would impose an ‘impossible burden 
+on a publisher if he were required to check if the true picture of someone resembled someone else who 
+because of the context of the picture was defamed’ (at [43]).
+p. 498
+31
+32
+17. Defamation
+Page 19 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Pause for reflection
+↵
+O’Shea appears to create a distinction between unintentional defamation in photographs and 
+unintentional defamation in writing, with only the latter being actionable. Is this distinction 
+sustainable?
+Morland J’s point is that it would be virtually impossible for defendants to ensure that the individuals 
+in photos they publish could not be wrongly identified—after all most, if not all, of us look more or 
+less like someone else. By contrast, when writing, there is more scope for ensuring that the correct 
+person is identified, simply by including more information. So while there may be any number of 
+people named Joe Bloggs, there are likely to be fewer who live in, say, Oadby, Leicester, and even fewer 
+aged 24 and so on. In the end, by providing enough information, it will be possible to ensure that no 
+mis-identification can occur.
+However, is this a realistic demand to make of publishers? Though we could demand that every time 
+someone is named in a newspaper article, sufficient information is included to ensure that no one else 
+will be wrongly identified, this would also appear to impose a significant burden on publishers, and 
+one which jars with the demands of newspaper and television reporting. This is, of course, the point 
+that was made and rejected in Newstead, where the court reasserted that liability in defamation was 
+strict and that it was no defence that the defendant acted reasonably and never intended to identify 
+the claimant.
+But it seems to be precisely this argument that is accepted by the court in O’Shea. The fact that O’Shea 
+concerned pictures and Newstead words allowed Morland J to distinguish the decision and rule in 
+Newstead. However, in substance both cases seem to raise the same basic question: should a publisher 
+who acts entirely reasonably and innocently, not intending their statement or story to identify the 
+claimant, be held liable in defamation? It may be that mis-identification is more likely to occur where 
+pictures are used, but, as cases such as Newstead show, the same problems can arise with words.
+As such, to treat O’Shea as an exception to the general rule of strict liability, which applies to visual 
+images only, may not be a satisfactory solution. If so, which way should the law go? Should we view 
+O’Shea as wrongly decided or, alternatively, should the reasoning be extended to cases such as Hulton 
+and Newstead? Do you think the reasoning in Hulton and Newstead would be likely to withstand an 
+Article 10 challenge? Think again about the balance the courts need to strike between the right to 
+freedom of expression and an individual’s desire to protect their reputation.33
+17.4.1  References to a group or class
+Where the defamatory statement refers to a class or group of people, there is no liability unless the class or 
+group is so small that the claimant can establish that the statement must apply to every member of the class 
+or, alternatively, that the statement refers to them directly: ‘In order to be actionable the defamatory words 
+p. 499
+33
+17. Defamation
+Page 20 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+must be understood to be published of and 
+↵
+concerning the [claimant]’ (Lord Atkin, Knupffer v London 
+Express Newspaper Ltd [1944] at 121). So, for example, the statement that ‘all MPs are liars’ is not actionable. 
+However, a statement suggesting that ‘all the candidates for London Mayor are corrupt’—where there were 
+only ten people in the running—may be. While there is no clear guidance on just how small the group needs 
+to be it is suggested that the best approach is to apply the Hulton test—that is, would a reasonable person 
+believe that the statement referred to the claimant?
+Knupffer v London Express Newspaper Ltd [1944] AC 116 (HL)
+During the Second World War the defendant newspaper referred to the ‘quisling activities’ (meaning 
+they were colluding or sympathising with Hitler and the Nazi Party) of the Young Russian political 
+party, Mlado Russ (or Young Russia). As there were only 24 British members of the party, the 
+claimant, a Russian resident in London, argued that, as head of the British branch of the party, British 
+readers would assume that the remarks referred to him.
+This was rejected by the House of Lords. The article referred only to the party’s activities in France 
+and the United States. Since there were several thousand international members, there was no 
+evidence that the claimant had been singled out: ‘No doubt it is true to say that a class cannot be 
+defamed as a class, nor can an individual be defamed by a general reference to the class to which he 
+belongs’ (Lord Porter at 124).
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-17-4>.
+17.5  Has the statement been ‘published’?
+The third element of a claim in defamation is the requirement that the defamatory statement has been 
+published. The term ‘publication’ can be misleading. The requirement is better understood as a need for 
+‘communication’—the defamatory statement must be communicated to a third party. A private conversation 
+or correspondence between the defendant and the claimant—however insulting or hurtful it may be to the 
+claimant—cannot give rise to a claim in defamation.34 The wrong remedied by the tort of defamation is the 
+injury to an individual’s reputation—that is, to what others think of them—so if no one but the claimant 
+hears or understands what the defendant says there is no risk of this sort of harm. Though traditionally the 
+statement need only be published to one person, this now needs to be considered in light of the section 1 
+‘serious harm’ requirement. In Webb v Jones [2021], the claimant failed to prove not only that a series of 
+Facebook posts had been substantially ‘published’ but also that the posts had caused ‘serious harm’.
+p. 500
+34
+17. Defamation
+Page 21 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+The fact that the statement is visible on the interest is not enough to establish substantial 
+publication … [nor] … it is … enough that someone has read it. If the reading is so rapid and 
+superficial as to leave no impression, or no more than a fleeting impression which is of no 
+consequence … Most of the reactions consisted only of an emoji click. It is not clear from the 
+reactions or any 
+↵
+other evidence that the person reacting knew that the claimant was the 
+person referred to, or knew who she was. It is vanishingly unlikely, on the only evidence available or 
+obtainable, that the claimant’s reputation in the real world was damaged at all in the eyes of anyone 
+by these posts; let alone to an extent which could conceivably be characterised as serious harm. This 
+was confused and confusing ephemeral internet chatter, down thread, and swiftly lost in the 
+surrounding hubbub. It is exactly the sort of case that section 1 of the Defamation Act 2013 was 
+designed to stop. (Griffiths J at [47]–[48], [69])
+Pause for reflection
+While the outcome of the case is plainly correct, as Hugh Tomlinson notes, the judge’s reasoning is 
+less convincing. In particular, the suggestion that substantial publication could not be inferred from 
+the number of Facebook members of the group (approx 16,000) is at odds with the decision in Stocker 
+where publication was accepted on the basis of visibility to 110 Facebook friends.35 Similarly, 
+Tomlinson continues, it is well established that, contrary to Griffiths J’s view, serious harm can be 
+inferred by reference to the gravity of the allegation only:
+Depending on the circumstances of the case, the claimant may be able to satisfy section 1 
+without calling any evidence, by relying on the inferences of serious harm to reputation 
+properly to be drawn from the level of the defamatory meaning of the words and the nature 
+and extent of their publication (Warby J, Doyle v Smith [2019] at [117] referring to HHJ 
+Moloney QC in Theedom v Nourish Training (trading as CSP Recruitment [2016])).
+As Webb v Jones demonstrates, ‘publication’ extends beyond the print media to include websites (Godfrey v 
+Demon Internet [2001]; Johnson v Steele [2014]), tweets, including retweets (Cairns v Modi [2012]; McAlpine v 
+Bercow [2013]; Monroe v Hopkins [2017]), blogs (Cruddas v Adams [2013]) and posts on Facebook (Stocker v 
+Stocker [2018]). The burden falls on the claimant to prove publication and, in the context of multiple posts or 
+tweets (or similar), whether they are ‘sufficiently closely connected as to be regarded as a single 
+publication’ (Sharp J, Dee v Telegraph Media Group Ltd [2010] at [29]).36
+But what about where the publication is unintentional? Where the defendant did not intend anyone to read/ 
+hear what they wrote/said? Here the test is one of reasonable foreseeability. If it was reasonably foreseeable 
+that a third party would see/hear the statement the defendant will be liable (Theaker v Richardson [1962]).
+p. 501
+35
+36
+17. Defamation
+Page 22 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Theaker v Richardson [1962] 1 WLR 151 (CA)
+The defendant wrote to the claimant accusing her of shoplifting and being ‘a very dirty whore’ and ‘a 
+lying low-down brothel-keeping whore and thief’. He put it in an envelope on which he typed the 
+claimant’s name and address and put it through her letter-box. Her husband opened it, thinking it 
+was an election address. The claimant sued for libel. Allowing her claim and awarding her £500 
+damages, the jury found that it was reasonably foreseeable that someone other than the claimant 
+might open the envelope.
+The decision in Theaker v Richardson can be contrasted with that in Huth v Huth [1915], where a man sent his 
+wife a letter which was defamatory of both his wife and their children. It was opened and read by the butler. 
+The children sued (at the time, a wife was prohibited in law from suing her husband). The Court of Appeal 
+held that it was not foreseeable that a butler would open his employer’s mail: ‘it is no part of a butler’s duties 
+to open letters … addressed to his master or mistress’ (Lord Reading CJ at 38). While publication can be 
+avoided by marking the mail ‘private and confidential’, messages on the back of postcards sent through the 
+post are always treated as published, as are documents (if read) left open, for example, on a desk (in both 
+paper and electronic form) or dictated to a personal assistant or secretary (Osborn v Thomas Boulter & Son 
+[1930]).
+Conversely, it is not possible to publish information you are unaware of and have no control over. In Bunt v 
+Tilley [2006], an Internet Service Provider (ISP) was held not to have ‘published’ allegedly defamatory 
+postings made in internet chat rooms. While Tamiz v Google Inc [2013] suggested that, once it had been 
+drawn to its attention, Google was the ‘second publisher’ of the blog by a third party,37 the ‘operators of 
+website’ defence in section 5 of the Defamation Act 2013 (alongside the Defamation (Operators of Websites) 
+Regulations 2013) provide websites with complete immunity where they have in place and follow a procedure 
+for dealing with potentially defamatory posts by third parties.38
+17.5.1  Republication
+At common law, a new cause of action arises every time a defamatory statement is republished (Duke of 
+Brunswick v Harmer [1849]; confirmed by the Court of Appeal in Banks v Cadwalladr [2023]). A single 
+statement may, therefore, have a number of different ‘publishers’.
+Section 8 of the Defamation Act 2013 introduces an exception to this. The single publication rule introduces a 
+12-month limitation period, from the date of the first publication of that material to the public or a section of 
+the public. This prevents an action being brought in relation to publication of the same material or a 
+statement which is ‘substantially the same’ by the same publisher. The rule only applies once the material is 
+published to the public, or 
+↵
+section of the public and does not apply when the defamatory material is 
+published in a different manner (e.g. if it is moved from an obscure part of a website to the front page) or by 
+someone else. One clear application of the rule is in relation to newspaper archives. Under the common law, 
+p. 502
+37
+38
+p. 503
+17. Defamation
+Page 23 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+each time a user accessed an archive a new course of action arose (Loutchansky v Times Newspapers (No 2) 
+[2001]). There was a concern that this was having ‘chilling effect’ restricting the creation of such archives 
+(though a claim that this amounted to a violation of the newspaper’s Article 10 rights was rejected in Times 
+Newspapers (Nos 1 and 2) v UK [2009] on the basis that the publisher could place a note warning of the 
+veracity of the article).
+But when is a statement ‘substantially’ similar enough to set the limitation clock running? In Parish v 
+Wikimedia Foundation, Inc [2024], the claimant, a well-known international lawyer, sought to bring a claim in 
+defamation for various statements which had been made over a period of time on his Wikipedia page relating 
+to his criminal conviction. Steyn J rejected his claim finding both versions to be ‘substantially the same’ as 
+each other:
+Both versions of the Wikipedia Page refer to the conviction, the three-year prison sentence, and the 
+ban on practising law in Switzerland. In the 10 January Wikipedia Page the arbitration is described as 
+‘fake’, whereas in the later version it is described as ‘fraudulent’. However, I agree with the defendant 
+that in context this distinction is without substance. The gravamen of the offence, and the resulting 
+sentence and ban, is precisely the same. (at 82)
+And as such, the earlier version had set the clock running and so the claim—which he issued just short of a 
+year out of time—fell outside the one-year limitation period: ‘That is a long delay in the context of a one-year 
+limitation period imposed in recognition of the fact that normally a person whose name has been traduced 
+can be expected to pursue legal redress promptly and energetically’ (Steyn J at [86]).
+Pause for reflection
+The limitation period established by section 8 can be seen as at odds with the serious harm 
+requirement in section 1. As Wilson et al have argued:
+a claimant is required to get on and sue, but they must also show that the statement has 
+caused or is likely to cause serious harm. In many instances they will not know what the 
+ultimate effect of a publication will be, much less be able to foresee to what extent events will 
+enable them to evidence it. This issue was touched upon in an abstract sense by Lord 
+Sumption in the Supreme Court’s decision in Lachaux (at [18]) (though not, in our view, 
+resolved).39
+We may well, therefore, see this issue return to the courts in due course.
+But what if your defamatory statement is repeated by someone else? Certainly the person repeating the 
+statement will be potentially liable, subject to the operation of section 10 (in relation to secondary publishers) 
+or the neutral reporting without adoption public interest defence (s 4(3)). It is no defence that defendant was 
+39
+17. Defamation
+Page 24 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+simply repeating what someone else said. However, a person will not usually be liable for another’s voluntary 
+republication of the original publication unless: (a) they have authorised the repetition or intended that the 
+statement 
+↵
+be repeated (e.g. by speaking at a press conference); or (b) the person who repeated the 
+statement was under a legal or moral duty to do so; or (c) the republication is, on the facts, reasonably 
+foreseeable (Slipper v BBC [1991]).
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-17-5>.
+17.6  Defences
+The tort of defamation is framed very broadly. A claimant may sue in respect of any statement which might 
+cause right-thinking people to think less of them and that is likely to cause them serious harm, irrespective 
+of fault on the part of the defendant, whether or not the statement was intended to refer to the claimant, and 
+—subject to a few exceptions—they can sue anyone who played a role in its publication. Liability is limited 
+through the operation of a number of defences specific to defamation: truth, absolute and qualified privilege, 
+honest opinion and responsible publication on a matter of public interest. In addition, there are also rules 
+relating to the operators of websites and the defendant may, in certain circumstances, choose to apologise 
+and make an offer of amends—rather than fight the action through the courts.40 We shall look at each of 
+these in turn.
+17.6.1  Truth
+Not all defamatory statements are untrue. Calling a thief a thief may damage their reputation but this is 
+hardly something the thief can complain about. Unsurprisingly, therefore, it has long been the case that 
+establishing the truth of a defamatory statement is a defence in defamation: ‘the law will not permit a man to 
+recover damages in respect of an injury to a character which he does not or ought not possess’ (McPherson v 
+Daniels [1829] at 272).41
+Section 2 of the Defamation Act 2013 put the common law truth defence (sometimes referred to as 
+justification) on a statutory footing (replacing the common law). It applies to statements of fact, not opinion. 
+The motive of the defendant is irrelevant, as is whether the statement is in the public interest. In order to rely 
+on the defence, the defendant needs to show that the imputation of the statement is ‘substantially true’. The 
+burden of proof rests on the defendant to demonstrate that it is more likely than not that the statement was 
+substantially true in the meaning that it bore.42 It is not necessary, however, for the defendant to 
+demonstrate that everything they said was true. This reflects the position at common law: 
+↵
+‘the 
+defendant does not have to prove that every word he/she published was true. He/she has to establish the 
+“essential” or “substantial” truth of the sting of the libel’ (Brooke LJ, Chase v News Group Newspapers Ltd 
+[2002] at [34]).
+p. 504
+40
+41
+42
+p. 505
+17. Defamation
+Page 25 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+However, identifying the ‘sting’ of the defamation—the imputation of the statement—can be tricky. What 
+matters is whether the defamation of the defendant can be shown to be true, not whether the statement can 
+be shown to be true in some other sense or for some other purpose. For example, in Newstead the statement 
+about Harold Newstead was true of the other Harold Newstead but not the claimant. Similarly, in Lewis v Daily 
+Telegraph the paper accurately reported that the company was being investigated for fraud. For the defence to 
+succeed, it was not enough to show that there was indeed such an investigation, nor was it necessary to show 
+that the claimant had indeed been fraudulent. Rather, what needed to be shown to be true was that right- 
+thinking people would assume that the claimant had conducted his affairs in such a way as to raise a 
+suspicion of fraud.43
+Where a number of defamatory statements have been made the claimant may choose only to sue in relation 
+to one. Here it seems likely that, as in the common law, the defendant will not be able to defend themselves by 
+establishing the truth of the other claims: ‘it is no defence to a charge that “you called me A” to say “Yes, but I 
+also called you B on the same occasion, and that was true”’ (Brooke LJ, Cruise (and Kidman) v Express 
+Newspapers [1999] at 954). Though the defendant may seek to argue that together the various statements had 
+a common ‘sting’ and that the ‘sting’ is true (Khashoggi v IPC Magazines Ltd [1986]).
+This was one of the issues in the much-discussed Depp II v News Group Newspapers Ltd [2020]. Billed as the 
+libel trial of the century (though Vardy v Rooney [2022] may challenge that title), it adds little to the legal 
+development of libel law, but is nonetheless a useful example of where the truth defence has been successfully 
+used.
+Depp II v News Group Newspapers Ltd [2020] EWHC 2911 (QB)
+Johnny Depp, an American actor, sued the publisher and author of an article which made several 
+allegations that Depp had been violent towards his ex-wife, actor Amber Heard, during their 
+relationship. Though there was some disagreement as to meaning, it was common ground that the 
+natural and ordinary meaning of the words complained of was that ‘(i) the claimant had committed 
+physical violence against Ms Heard; (ii) this had caused her to suffer significant injury; and (iii) on 
+occasion it caused Ms Heard to fear for her life’ (at [80]–[81]). Without an effective defence, the 
+articles were clearly defamatory (at [585]).
+After a 14-day trial conducted during the coronavirus pandemic, in which both Depp and Heard gave 
+evidence in person, Nicol J reviewed each incident before ‘stepping back’ to consider the evidence ‘in a 
+more global sense’ (at [108]). He found that 12 of the 14 incidents of assault raised at trial were 
+proven, with the result that the defendants had ‘established the substantial truth of the words that 
+they published in the meanings which I have held those words to bear’ (at [575]).
+↵
+In March 2021, the Court of Appeal refused Depp’s request to present future evidence or appeal 
+on the basis that neither had a real prospect of success (Depp II v News Group Newspapers Ltd [2021]). 
+He was ordered to make an initial payment towards costs of £630,000.44
+43
+p. 506
+44
+17. Defamation
+Page 26 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Pause for reflection
+Nicol J’s judgment was welcomed by Refuge and other women’s organisations as sending a ‘powerful 
+message’:
+Every single survivor of domestic abuse should be listened to and should be heard. No 
+survivor should ever have her voice silenced. A common tactic used by perpetrators of 
+domestic abuse is to repeatedly tell victims that no one will believe them—and to use power 
+and control to try and silence them. What we have seen today is that power, fame and 
+financial resources cannot be used to silence women. That is a welcome message for 
+survivors of domestic abuse around the world.45
+However, beyond the Hollywood cast, extensive media coverage and eye-watering costs, at its heart 
+Depp is yet another case involving a rich, powerful man seeking to harness the might of defamation 
+law to silence a victim-survivor of domestic abuse. As others have noted:
+In this case, the defendants were able to rely Ms Heard’s evidence of the abuse she endured in 
+her marriage to Mr Depp. Without Ms Heard’s participation, a [section] 2 truth defence was 
+unlikely to succeed. Not all victims of domestic abuse will be so willing to have their private 
+lives forensically examined in a courtroom by lawyers and available to be reported in the 
+press and on social media.46
+For some (many?) victim-survivors it is likely that this—understandably—will be too high a price to 
+pay.
+While the onus is on the defendant to prove that the sting of a defamatory statement is true (the claimant 
+only needs to show that the statement was defamatory, not that it was untrue), pursuing an action in 
+defamation for something you know to be true, on the assumption that the defendant will be unable to prove 
+it, is often a dangerous ploy—as Oscar Wilde, Jonathan Aitken, Neil Hamilton, Jeffrey Archer, Johnny Depp 
+and more recently Rebekah Vardy have learnt to their cost. Even if they are successful, and that is not always 
+the case, it’s unlikely 
+↵
+that they will leave court completely vindicated. They may have been awarded 
+substantial damages, but they will not have proved that the statement was false—simply that the defendant 
+has been unable to produce sufficient evidence to prove the truth of the allegation. Given the additional 
+damage a prolonged court case may do to their reputation, it’s not always clear whether it is worth the risk.
+45
+46
+p. 507
+17. Defamation
+Page 27 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Counterpoint
+In Serafin v Malkiewicz and others [2017] Jay J commented:
+The claimant observed somewhat wistfully towards the conclusion of the trial that had he 
+anticipated what was entailed, he would not have brought this claim in the first place. … It is 
+… [perhaps] a modern morality tale: a cautionary warning that litigation of this sort, having 
+regard to the nature of the issues at stake, should not be initiated out of almost unbounded 
+self-confidence and lack of judgment, coupled with a misplaced belief that the court will 
+surely succumb to the same charm and eloquence that has worked so effectively in the world 
+outside. (at [354])47
+Rebekah Vardy may well have thought much the same thing.
+Vardy v Rooney [2022]—known as the ‘Wagatha Christie’ case—has been the subject of numerous 
+newspaper articles, podcasts, TV dramas and documentaries and even a West End stage show.48 
+Rebekah Vardy and Coleen Rooney are well-known media and television personalities, both married 
+to former England football players. Vardy v Rooney revolved around an Instagram post by Rooney, a 
+public figure, stating that her former friend, Vardy, had leaked private stories about Rooney and her 
+family to the press in return for payment—a claim which Vardy denied, but which Steyn J found to be 
+‘substantially true’ (at [287]). Rooney did not seek any compensation; however in October 2022, 
+Vardy was ordered to pay up to £1.5 million of Rooney’s legal fees.
+↵
+But why did Vardy decide to sue? After all, Rooney reportedly offered to settle the case three 
+times before it went to trial. Given the way things turned out, it’s hard to resist the conclusion of Jim 
+Waterson in The Guardian that ‘not only did Vardy voluntarily bring a libel case that destroyed her 
+own reputation, she will also have paid millions of pounds for the privilege of being publicly 
+humiliated’.49
+But we should. As David Allen Green notes:
+judgments can seem one more one-sided than the reality of the case. If Vardy’s case was 
+inherently weak then it would not require a 75-page judgment with 290 paragraphs. In the 
+end, the judge went with Rooney’s case on each disputed point—but had some of those 
+points gone differently Rooney may have failed in her defence—and it was for Rooney to 
+prove her defence, and not for Vardy to disprove it. Despite the PR disaster of the hearing for 
+Vardy, it was not obvious that Vardy would lose until the judgment was handed down.50
+Why did she do it? We will never really know for sure. But what we can say is that Rebekah Vardy has 
+joined Johnny Depp, Oscar Wilde and others in finding that, whatever the result, pursuing a 
+defamation claim can be a double-edged sword.
+47
+48 
+p. 508
+49
+50
+17. Defamation
+Page 28 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(1)
+(2)
+(3)
+17.6.2  Privilege
+The defence of privilege allows people to speak and, crucially, publish without fear of defamation proceedings 
+in circumstances where it is important that people are able to speak freely. In such situations—described as 
+‘privileged’—freedom of expression takes priority over an individual’s right to protect their reputation.
+The defence of privilege comes in two forms: absolute and qualified. Absolute privilege covers situations 
+where it is crucial that people are able to speak with complete freedom. In such circumstances, it is not 
+possible to bring a claim in defamation, however outrageous or false the statement and however malicious 
+the speaker. In contrast, qualified privilege only protects the maker of a defamatory statement who speaks 
+honestly and without malice.51 Here it falls to the claimant to prove malice, once the privilege has been 
+established. Section 7 of the Defamation Act 2013 extends the circumstances in which both forms of the 
+defence can be used.
+17.6.2.1  Absolute privilege
+Where the defence of absolute privilege operates it ensures that no action can be taken against a person who 
+makes a defamatory statement. Key situations which are absolutely privileged include:
+parliamentary proceedings, including statements in Parliament and in reports published by 
+Parliament;
+contemporaneous reports of judicial proceedings;
+court proceedings—including those before the UK and international domestic courts, the Court of 
+Justice of the European Union, the ECtHR and UN international tribunals.
+No statement in Parliament has ever led to liability in court: ‘the freedom of speech and debate or proceedings 
+in Parliament ought not to be impeached or questioned in any court or place out of Parliament’ (Article 9 of 
+the Bill of Rights 1688). This means that anything said in either House (statements made by parliamentarians 
+outside the House are not privileged)—however ludicrous or false—is absolutely privileged and, as such, 
+cannot give rise to a claim in defamation.52
+17.6.2.2  Qualified privilege
+Qualified privilege is much wider in scope than absolute privilege. It offers a defence:
+on an occasion where the person who makes a communication has an interest or duty, legal, social 
+or moral, to make it to the person to whom it is made, and the person to whom it is made has a 
+corresponding interest or duty to receive it. The reciprocity is essential. (Lord Atkinson, Adam v 
+Ward [1917] at 334)
+It protects the publisher of a defamatory statement where the defendant is under a duty to communicate the 
+relevant information (if it were true) and the recipient has an interest in receiving it. A straightforward 
+example is the provision of a reference concerning a prospective employee to his potential employer. Here the 
+51
+p. 509
+52
+17. Defamation
+Page 29 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+employer has a clear interest in hearing the honest views of the referee as to the qualities and failings of the 
+prospective employee. Of course, what this means is that even if the reference turns out to be inaccurate, the 
+subject of that reference will have no claim in defamation as long as the referee has acted without malice. 
+This meant that traditionally claimants who lost out on jobs because of inaccurate and bad references could 
+obtain no remedy in law, unless they could show that the referee had acted dishonestly. However, their 
+position has been improved—and the protection afforded by the defence of qualified privilege undercut—by 
+recent developments in the tort of negligence (Spring v Guardian Assurance [1995]).
+Qualified privilege only applies in situations where the statement is made without malice. A defendant acts 
+maliciously, in this context, if they use ‘the occasion … for an indirect or wrong motive’ (Clarke v Molyneux 
+[1877])—for instance, if the statement is made with the intention of damaging the claimant’s reputation—or 
+where the defendant does not believe that the statement is true, or makes the statement without caring 
+whether it is true or not. 
+↵
+However, where the defendant honestly believes in the truth of the statement 
+they are entitled to the protection of qualified privilege however unreasonable or prejudiced the defendant 
+was in coming to the conclusion that the statement was true:
+In ordinary life it is rare indeed for people to form their beliefs by a process of logical deduction from 
+facts ascertained by a rigorous search for all available evidence and a judicious assessment of its 
+probative value. In greater or in less degree according to their temperaments, their training, their 
+intelligence, they are swayed by prejudice, rely on intuition instead of reasoning, leap to conclusions 
+on inadequate evidence and fail to recognise the cogency of material which might cast doubt on the 
+validity of the conclusions they reach. But despite the imperfection of the mental process by which 
+the belief is arrived at it may still be ‘honest’, that is, a positive belief that the conclusions they have 
+reached are true. The law demands no more. (Lord Diplock, Horrocks v Lowe [1975] at 150)
+Similarly, while we might be interested in hearing all sorts of idle and frivolous gossip, the question is not 
+whether the recipient would be ‘interested’ in receiving the information, it is whether the recipient has ‘an 
+interest’ in receiving such information which is sufficiently strong that the law should protect the maker of 
+the statement even if the information is wrong, as long as they do not act maliciously.
+In Watt v Longsdon [1930], for example, the defendant, a company director, received information suggesting 
+that the claimant, who was employed overseas, was acting immorally and dishonestly and, in particular, that 
+he was misbehaving with women. Without waiting for the information to be verified, the defendant informed 
+the chairman of the company and the employee’s wife. The information was not true, and the claimant sued. 
+The Court of Appeal held that although the defendant’s communication of the information to the chairman of 
+the company was privileged (there being a common interest in the affairs of company), this privilege did not 
+attach to his telling the employee’s wife. While she may have been ‘interested’ in knowing the information, 
+the company director was under no duty to tell her—which is to say that the public interest in wives learning 
+of their husband’s ‘misbehaviour’ is not sufficiently great as to merit the protection of qualified privilege.53
+p. 510
+53
+17. Defamation
+Page 30 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Peer-reviewed statement in scientific or academic journal
+Section 6 of the Defamation Act 2013 introduces an entirely new category of qualified privilege, that of a ‘peer 
+reviewed statement in a scientific or academic journal etc’. This is aimed at facilitating academic debate and 
+its introduction is likely due to a small number of cause célèbre cases which were influential in the campaigns 
+surrounding the enactment of the new Act, most notably British Chiropractic Association v Singh [2010] in 
+which the British Chiropractic Association sued Singh, a journalist, for critical statements made in a 
+newspaper article. Though this action was ultimately unsuccessful (see the discussion in section 17.6.4.1), it 
+was a stark example of the difficulties individuals may face in defending defamation claims. The defence only 
+applies to statements relating to scientific or academic matter (s 6(2)), that have been independently peer- 
+reviewed by the editor of the 
+↵
+journal and one or more experts (s 6(3)).54 Where such statements are 
+privileged, ‘the publication of a fair and accurate copy of, extract from or summary of the statement or 
+assessment is also privileged’ (s 6(5)). As with all forms of qualified privilege, the defence is defeated by 
+malice (s 6(6)).
+The defence was considered in Harcombe v Associated Newspapers [2022] which involved a series of articles 
+published by the Daily Mail and Mail on Sunday about the use of statins (a drug used to lower cholesterol levels 
+in blood), including one with the headline ‘The Deadly Propaganda of Statin Deniers’. The publishers sought 
+to defend the case brought by two doctors using the section 4, publication in matter of public interest, defence 
+and section 6. While Nicklin J dismissed the section 4 defence, he upheld the section 6 defence in respect of 
+certain passages in the articles that referred to scientific papers published by the London School of Hygiene 
+and Tropical Medicine. Nicklin J continued:
+what might deserve the adjective ‘absurd’ would be for Parliament to have provided a new defence of 
+qualified privilege for statements published in peer‑reviewed scientific journals, but then to limit 
+that privilege only to the original publisher(s); thereby leaving any wider discussion of these 
+statements without any protection. As is clear from statements made by promoters of the bill, the 
+Government intended s 6 to protect and encourage ‘robust and open scientific debate’; an open 
+debate where all people ‘should be at liberty to debate a subject without fear or favour’. Statements 
+published in peer-reviewed academic or scientific journals do not generally represent such a debate, 
+they inform, contribute to, or stimulate that debate. The safeguards provided in the section, before 
+privilege attaches to the relevant journal publication, were regarded by the Government as sufficient 
+to ensure that the relevant publication would be ‘responsible’ (i.e. deserving of protection). In other 
+words, having established the academic or scientific value of the statement, its publication to the 
+wider public should be privileged, and thereafter available to contribute to important public debate. 
+(at 347)
+17.6.3  Publication in a matter of public interest
+Section 4 of the Defamation Act 2013 introduces an entirely new defence of ‘publication in a matter of public 
+interest’. It is based on—though also abolishes (by virtue of s 4(6))—the so-called Reynolds defence, which 
+itself was a development of qualified privilege in the case of Reynolds v Times Newspapers [2001].
+p. 511
+54
+17. Defamation
+Page 31 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Reynolds v Times Newspapers [2001] 2 AC 127 (HL)
+Libel proceedings were brought against the Sunday Times for an article suggesting that Albert 
+Reynolds, the former Prime Minister of the Republic of Ireland, had misled the Irish Parliament. The 
+article made no attempt to put his side of the story. Reynolds sued in defamation and The Times 
+argued that it was protected by qualified privilege.
+In the House of Lords, the defendants argued that the common law should recognise a separate 
+category of qualified privilege for ‘political information’ covering all reporting of such matters, except 
+where motivated by malice. This was unanimously rejected by the court, with the 
+↵
+majority 
+holding that the existing protection provided by the defences of privilege and honest comment was 
+adequate when dealing with matters of public interest and it would be wrong to single out political 
+debate from other matters of public importance.
+The appeal therefore failed. Though there was a public interest in the reasons for the claimant’s 
+resignation, it was not established that the public interest in the particular story published by the 
+defendants, given how it was presented, was such as to attract the protection of qualified privilege: 
+‘[t]he publisher must show that the publication was in the public interest and he does not do this by 
+merely showing that the subject matter was of public interest’ (Lord Hobhouse at 239).
+Though the defendant newspaper lost in Reynolds it nonetheless marked a significant shift in the law of 
+defamation in favour of media freedom most notably through Lord Nicholls’s ‘responsible journalism’ test in 
+which he listed ten (non-exhaustive) factors to be taken into account when determining whether publication 
+of the relevant information is in the public interest and hence whether the defence of qualified privilege will 
+be available. He held that, when balancing the competing interests of an individual in protecting their 
+reputation against freedom of expression, the court should take into account the following factors:
+p. 512
+17. Defamation
+Page 32 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+1. The seriousness of the allegation. The more serious the charge, the more the public is 
+misinformed and the individual harmed, if the allegation is not true. 2. The nature of the 
+information, and the extent to which the subject matter is a matter of public concern. 3. The source 
+of the information. Some informants have no direct knowledge of the events. Some have their own 
+axes to grind, or are being paid for their stories. 4. The steps taken to verify the information. 5. The 
+status of the information. The allegation may have already been the subject of an investigation 
+which commands respect. 6. The urgency of the matter. News is often a perishable commodity. 7. 
+Whether comment was sought from the plaintiff. He may have information others do not possess or 
+have not disclosed. An approach to the plaintiff will not always be necessary. 8. Whether the article 
+contained the gist of the plaintiff’s side of the story. 9. The tone of the article. A newspaper can raise 
+queries or call for an investigation. It need not adopt allegations as statements of fact. 10. The 
+circumstances of the publication, including the timing …
+The weight to be given to these and any other relevant factors will vary from case to case … In 
+general, a newspaper’s unwillingness to disclose the identity of its sources should not weigh against 
+it. Further, it should always be remembered that journalists act without the benefit of the clear light 
+of hindsight. Matters which are obvious in retrospect may have been far from clear in the heat of the 
+moment. Above all, the court should have particular regard to the importance of freedom of 
+expression. The press discharges vital functions as a bloodhound as well as a watchdog. The court 
+should be slow to conclude that a publication was not in the public interest and, therefore, the public 
+had no right to know, especially when the information is in the field of political discussion. Any 
+lingering doubts should be resolved in favour of publication. (at 205)
+Pause for reflection
+As early as 2002, the Master of the Rolls, in Loutchansky v Times Newspapers Ltd (No 2) [2002], 
+suggested that ‘Reynolds privilege’ is ‘a different jurisprudential creature from the traditional form of 
+privilege from which it sprang’ (at 806). This was endorsed by Lord Hoffmann 
+↵
+and Baroness 
+Hale in Jameel v Wall Street Journal Europe [2007], who suggested ‘[i]t might more appropriately be 
+called the Reynolds public interest defence rather than privilege’ (Lord Hoffmann at 46).
+Traditional forms of privilege attach to the occasion on which the statement is made. These are 
+occasions marked out by a reciprocity of duty (on the part of the maker of the statement) and interest 
+(on the part of its recipient)—such as statements made in court, the provision of references and so on. 
+The privilege then attaches to any statements made on such occasions, unless in turn that privilege 
+was abused by demonstrating malice on the part of the defendant. As such, there is, as Lord Hoffmann 
+described it, a ‘two-stage process’ (at [50]): first, we ask if the statement was made on a privileged 
+occasion; and, secondly, if so, we ask whether that privilege is defeated by the defendant’s malice.
+p. 513
+17. Defamation
+Page 33 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+By contrast, the defence outlined in Reynolds works differently. Here what is privileged is not the 
+occasion on which the statement is made but the material that is communicated. And whether this 
+material is privileged depends not simply on the occasion on which the statement is made, but also on 
+the contents of the statement and the conduct of the parties in publishing this material in that form. 
+Accordingly, there is no need for a separate inquiry into the possibility of the privilege being removed 
+on the basis of the defendant’s malice since ‘the propriety of the conduct of the defendant is built into 
+the conditions under which the material is privileged’ (at [46]).
+In transplanting the new public interest defence as a separate defence away from its roots in qualified 
+privilege, section 4 brings with it the possibility of some much needed conceptual clarity to both 
+defences.55 Though the break might not be as clean as we might have hoped.
+Parliament’s intention in section 4 was to essentially ‘codify’ and ‘reflect’ the current common law defence as 
+developed from Reynolds and affirmed by the Supreme Court in Flood v Times Newspapers [2012]. The test 
+mirrors the common law, incorporating ‘both a subjective element—what the defendant believed was in the 
+public interest at the time of publication—and an objective element—whether the belief was a reasonable one 
+for the defendant to hold in all the circumstances’.56 And so ‘public interest’ is used in different ways in each 
+limb of 
+↵
+the test. In the first, it is directed to the subject matter of the statement—was it a matter of 
+public interest? While in the second it goes to whether, in all the circumstances, it was in the public interest 
+for the defamatory statement to be published.57
+Surprisingly, perhaps, ‘public interest’ is not defined in the Act, though section 4(2) requires the court when 
+determining whether the defence has been made out to ‘have regard to all the circumstances of the case’, 
+subject to the conditions relating to ‘reportage’ (s 4(3)) and ‘editorial discretion’ (s 4(4)). Section 4(3) makes 
+it clear that when determining whether the defamatory statement is on a matter of public interest, the 
+statement may be considered on its own or in the wider context of the article or document in which it was 
+published, thereby incorporating the common law doctrine of ‘reportage’ (see e.g. Roberts v Gamble [2007]), 
+which allows for the disregarding of a defendant’s failure to verify the truth of the imputation behind the 
+statement where it is presented as, or forms part of, ‘an accurate and impartial account of a dispute to which 
+the claimant was a party’. Section 4(4) requires the court ‘when determining whether it was reasonable for 
+the defendant to believe that publishing the statement complained of was in the public interest … [to] make 
+such allowance for editorial judgment as it considers appropriate’.
+Of course, exercising editorial judgement is not limited to newspaper editors. Nevertheless, the purpose of 
+section 4(4) is to expressly recognise the importance of editorial judgement and discretion as affirmed in 
+Flood (decided as the draft Defamation Bill was before Parliament), in which the Supreme Court agreed with 
+Lord Hoffmann’s observation in Jameel v Wall Street Journal Europe [2007] that the intention of Reynolds was 
+to promote ‘greater freedom for the press to publish stories of genuine public interest’ (Lord Brown at [118]) 
+and the role of editors in setting boundaries around this:
+55
+56
+p. 514
+57
+17. Defamation
+Page 34 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+The courts … give weight to the judgment of journalist and editors not merely as to the nature and 
+degree of the steps to be taken before publishing the material, but also as to the content of the 
+material to be published in the public interest. The courts must have the last word in setting the 
+boundaries of what can properly be regarded as acceptable journalism, but within those boundaries 
+the judgment of responsible journalists and editors merits respect. (Lord Mance, Flood at [137])
+An early case on the application of section 4 was Barron v Vines [2016], in which two Labour MPs brought a 
+defamation claim against a UKIP counsellor who alleged during a Sky News interview that they knew for 
+years of the large-scale sexual abuse of children in Rotherham, and that they were still failing to ensure the 
+perpetrators were brought to justice. Finding for the claimants, Warby J offered a ‘tentative and provisional 
+view’ on potential application of the defence that ‘a reasonable belief that it is in the public interest to make 
+statement A could be the basis for the defence, even if the words used unintentionally convey meaning B’ (at 
+[63]).58 He explored this further in Economou v de Freitas [2018].
+Economou v de Freitas [2018] EWCA Civ 2591 (CA)
+The claimant, Alexander Economou, was the ex-boyfriend of Eleanor de Freitas, the late daughter of 
+the defendant. Ms de Freitas had accused Economou of raping her. Economou was arrested but not 
+charged. Eight months later, he brought a private prosecution (which the CPS subsequently took 
+over) against Ms de Freitas claiming she had sought to pervert the course of justice by falsely 
+accusing him of rape. Four days before the trial started, Ms de Freitas, who suffered from bipolar 
+affective disorder, committed suicide. Mr de Freitas wanted the inquest into his daughter’s death 
+expanded to include an examination of the role of the CPS. He was advised to raise the issues publicly, 
+which he did, authoring—or authorising to be written—seven articles. It is these articles which 
+formed the basis of Economou’s claim.
+At first instance, Warby J held that only two of the seven articles were actionable (the others failing to 
+meet the ‘serious harm’ threshold) and that the public interest defence was made out in relation to all 
+of them. The central issue was not simply whether the articles raised issues of public importance 
+(which they did), but whether Mr de Freitas ‘reasonably believed that the publication of the particular 
+statement was in the public interest’. Referring extensively to Reynolds, Warby J concluded:
+I would consider a belief to be reasonable for the purposes of s 4 only if it is one arrived at 
+after conducting such enquiries and checks as it is reasonable to expect of the particular 
+defendant in all the circumstances of the case. Among the circumstances relevant to the 
+question of what enquiries and checks are needed, the subject-matter needs consideration, 
+as do the particular words used, the range of meanings the defendant ought reasonably to 
+have considered they might convey, and the particular role of the defendant in question. (at 
+[241])
+58
+p. 515
+17. Defamation
+Page 35 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+In addition, Mr de Freitas’s role was ‘closer to that of a source or contributor than that of a 
+journalist’ (at [242]). As such, it would be ‘wrong in principle’ to require him to undertake inquiries 
+expected of a journalist (at [246]).59
+The Court of Appeal rejected the claimant’s argument that Warby J had effectively conferred 
+‘contributor immunity’ on the defendant. Recognising that the case raised difficult and important 
+↵
+issues of free speech on the one hand, and reputation on the other, Sharp LJ reaffirmed the 
+importance of Reynolds when assessing the reasonableness of the defendant’s belief.
+Section 4 requires the court to have regard to all the circumstances of the case when 
+determining the all-important question arising under section 4(1)(b) … In my judgment, all 
+the circumstances of the case must include the sort of factors carefully identified by the 
+judge, including, importantly, the particular role of the defendant in question. The statute 
+could have made reference to the Reynolds factors in this connection, but it did not do so. 
+That is not to say however, that the matters identified in the non-exhaustive checklist may 
+not be relevant to the outcome of a public interest defence, or that, on the facts of the 
+individual case, the failure to comply with one or some of the factors, may not tell decisively 
+against a defendant. However, even under the Reynolds regime, as Lord Nicholls made clear, 
+the weight to be given to those factors, and any other relevant factors, would vary from case 
+to case. As with Reynolds therefore, with its emphasis on practicality and flexibility, all will 
+depend on the facts. (at [110])
+Pause for reflection
+What is clear from Economou v de Freitas is that ‘mere contributors’ (and by extension bloggers and 
+others who have not practised traditional journalism) will not be held to the same standards as 
+professional journalists in order to qualify for the public interest defence.60 Do you think this strikes a 
+fair balance between freedom of expression and the protection of an individual’s reputation? Should 
+where—and by whom—the defamatory statement is published make a difference? After all, as Lord 
+Hobhouse stated in Reynolds ‘No public interest is served by publishing or communicating 
+misinformation’ (at 128). Indeed, as Sharp LJ noted in Economou v de Freitas:
+59
+p. 516
+60
+17. Defamation
+Page 36 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+The implications of the publication of false information are, if anything, more serious now 
+than they were when Reynolds was decided. The fact that information is present on the 
+Internet, gives it permanence and reach, which may have profound implications for the life 
+and future prospects of the person defamed. A successful public interest defence leaves a 
+claimant whose reputation is damaged without vindication, damages or the ability to obtain 
+injunctive relief … It might also be said, that in an era of distrust and ‘fake news’, it is more 
+important than ever that the public should, so far as possible, be put in the picture as to 
+where the truth, or some approximation of it, lies. (at [109])61
+↵
+Following Economou v de Freitas, two other cases have considered the application of section 4 in a non- 
+journalist context. Both involved allegations of serious sexual misconduct. In Hay v Creswell [2023], the 
+defendant published allegations stating that the claimant had violently sexually assaulted her. Not only did 
+the judge find the allegations to be substantially true, but also it was found that the section 4 defence was 
+made out:
+The defendant was writing from her own first-hand knowledge and experience. There were no other 
+checks or inquiries that standards of reasonableness required her to conduct to verify the 
+information that she proposed to publish before she did so … she has shown that: the statements 
+complained of were on a matter of public interest; that she believed this to be the case at the time of 
+publishing them; and that her belief was reasonable in all the circumstances. (Williams J at [210], 
+[215])
+In Aaronson v Stones [2023], the defendant posted a number of tweets and featured in a YouTube video 
+alleging that the claimant was a serial rapist. Both worked (or had worked) in the adult entertainment 
+industry in the US. The defendant sought to argue that his defamatory claims were on a matter of public 
+interest and made in the public interest. In particular, he stated that there was a broader public interest in 
+‘speaking out about racism, sexual violence and harassment in order to be able to end impunity and prevent 
+future violence, abuse and harassment’, especially in light of the #MeToo movement and ‘the historic 
+prejudice and discrimination against adult sex performers in the policing of sexual abuse’ (at [40]). The judge 
+held that while ‘discussion of rape and sexual abuse (or abuse in general) in any industry will likely be a 
+matter of public interest’, this was not the case here. Rather, the statements amounted to ‘public accusations 
+of rape against a named individual’ (at [344]):
+Viewed objectively … they were little more than a public, specific and targeted attack on the claimant; 
+the allegations were not, for example, contextualised as illustrative examples of a generally 
+recognised problem of rape and abuse in the adult entertainment industry. (Knowles J at [345])
+61
+p. 517
+17. Defamation
+Page 37 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Nor, suggested Knowles J (referring to but not applying the Reynolds checklist), was there any attempt made 
+to verify the story (at [395]) or to put it to the claimant (at [407]). The claimant was awarded £110,000 in 
+damages, which included an amount for aggravation in recognition of the fact that the claimant had been 
+subjected to ‘a campaign of defamation of an extremely serious type which directly impacted upon many 
+aspects of the claimant’s life, including his reputation; his business; and his mental well-being’ (at [434]).
+But what about more ‘responsible’ journalists? Here too defendants found it difficult to make out the defence. 
+The bar is set high. The section 4 defence failed when Bruno Lachaux (the claimant in Lachaux v Independent 
+Print Ltd [2019]) returned to court in July 2021. Nicklin J was clear in his view:
+Fundamentally, I have no hesitation in finding that it was not in the public interest to publish the … 
+[articles], which contained allegations that were seriously defamatory of the claimant, without 
+having given him an opportunity to respond to them. The decision not to contact the claimant was 
+not a result of any careful editorial consideration, it was a mistake that was belatedly recognised, but 
+not corrected, prior to publication. (Lachaux v Independent Print Ltd [2020] at [190])
+↵
+It is the publisher’s responsibility, if they are wanting later to rely on section 4, to ensure that accurate 
+notes and records are kept. He continued:
+journalists and those in professional publishing organisations should be able to demonstrate, not 
+only that they reasonably believed that publication would be in the public interest, but also how and 
+with whom this was established at the time … Of course, the Court has no power to require a 
+journalist—or any other professional—to maintain records. But, as the burden of establishing a 
+public interest defence under s 4 Defamation Act 2013 lies upon the defendant, a defendant seeking 
+to prove that s/he reasonably believed that publishing the statement complained of was in the public 
+interest is likely to find that the prospects of success are enhanced by being able to produce 
+contemporaneous records of the decision(s) taken. (at [120], [122])
+Certainly, the comprehensiveness and rigour of journalist Carole Cadwalladr’s research and record keeping 
+was a key component in her reliance on the public interest defence in Banks v Cadwalladr [2023].
+Banks v Cadwalladr [2023] EWCA Civ 219 (CA)
+Arron Banks is a high-profile businessman and was the main funder of the Leave.EU campaign. 
+During a TED (technology, entertainment and design) talk in 2019 titled ‘Facebook’s role in Brexit— 
+and the threat to democracy’, Cadwalladr made the following comment: ‘And I am not even going to 
+get into the lies that Arron Banks has told about his covert relationship with the Russian 
+Government’. She later tweeted a link to the talk with a further comment: ‘Oh Arron. This is too 
+p. 518
+17. Defamation
+Page 38 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+tragic. Nigel Farage’s secret funder Arron Banks has sent me a pre-action letter this morning: he’s 
+suing me over this TED talk. If you haven’t watched it please do. I say he lied about his contact with 
+the Russian govt. Because he did’.
+Banks sued Cadwalladr in defamation. The meaning of both comments was held by Saini J, in a 
+previous trial to determine the meaning, to be ‘On more than one occasion Mr Banks told untruths 
+about a secret relationship he had with the Russian government in relation to acceptance of foreign 
+funding of electoral campaigns in breach of the law on such funding’ (at [6]). A National Crime 
+Agency/Electoral Commission investigation into the matter had cleared Mr Banks of any wrongdoing 
+and so, as a result, Cadwalladr did not contend that this meaning was true and had stated that 
+unequivocally to Banks in a letter of apology. Rather, she sought to rely on the defence in section 4: 
+that the publication was a matter of public interest. The trial judge found that the TED talk was 
+defamatory, but in the public interest (notwithstanding the fact that people could still view it after the 
+publication of the National Crime Agency/Electoral Commission investigation). Cadwalladr believed 
+that publishing the statement was in the public interest and this belief was reasonable. The latter 
+point was supported by the lengthy and extensive investigations Cadwalladr had carried out leading 
+up to the TED talk.62
+↵
+The Court of Appeal disagreed. Commenting on the application of section 4, Warby LJ stated:
+a public interest defence, once established, does not necessarily endure for ever. A defendant 
+has to show that at the time of each and every publication, he or she continued to believe that 
+it was in the public interest to publish the statement and that this belief remained reasonable 
+when those particular publications were made. The approach is a granular one. The public 
+interest defence is not available in respect of publications made after the defendant ceases to 
+hold the belief in question or such a belief ceases to be reasonable. By parity of reasoning, and 
+for the purposes of consistency and fairness, a claimant cannot succeed in establishing 
+liability in respect of publications which do not cause serious harm, because there is some 
+other publication that does, or because serious harm is caused by the ‘publication’ taken as a 
+whole. Likewise, it would be unprincipled to treat serious harm caused by conduct which is 
+not actionable because a defence has been made out as a sufficient reason to grant a remedy 
+in respect of other conduct which, viewed in isolation, is not harmful enough to justify this.
+The assessment of whether the defamatory statement had caused the claimant ‘serious harm’ had to 
+be made again, once the section 4 defence fell away. Warby LJ continued:
+62
+p. 519
+17. Defamation
+Page 39 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+[the] publication of the TED Talk after 29 April 2020 [the date the National Crime Agency/ 
+Electoral Commission investigation published its report] caused serious harm to the 
+reputation of the claimant. There was little direct evidence of harm, but as the [trial] judge 
+held this was ‘unsurprising’ given the well-known difficulties of obtaining such evidence. … 
+This was, as the judge also held, ‘a serious talk on a serious subject’ given by ‘an award- 
+winning journalist’ on an ‘authoritative and credible international platform’. In these 
+circumstances the inference that serious harm was caused flows from the inherent gravity of 
+the allegation and its natural tendency to cause serious reputational harm, coupled with the 
+judge’s own findings as to the scale of publication in this phase, taken at its lowest. (Warby J 
+at [67])
+Warby LJ also rejected the ‘echo chamber’ argument—whereby most of the publishees were people 
+who already disliked or had a generally low opinion of the claimant—as ‘irrelevant’ to the 
+determination of serious harm (at [7]).63
+17.6.4  Honest opinion
+Section 3 replaces the common law defence of honest or fair comment with the statutory defence of honest 
+opinion. As Sharp LJ notes in Butt v The Secretary of State for the Home Department [2019], ‘the defence of 
+honest opinion, or fair comment as it was known at common law, has long been regarded as an essential part 
+of the protection afforded to freedom of expression in this jurisdiction’ (at [25]). Unlike in the common law 
+defence, there is no need for the statement to be on a matter of public opinion, nor does it depend on malice.
+17.6.4.1  An opinion not fact …
+There is a fine line between a comment on facts as opposed to a statement of fact and to suggest that 
+comment is restricted to statements of opinion risks oversimplification. A basic rule of thumb is that facts are 
+simply descriptive, whereas comments and opinions are evaluative. So to say, for example, that the ninth 
+edition of this book has 21 chapters is a statement of fact; to say that it is the best yet (which of course may be 
+true!) is a statement of opinion. The veracity of statements of fact is not dependent on the perspectives and 
+values of the person who makes the statement: there is in such cases a fact of the matter, and this is the case 
+even if people disagree over what this is. By contrast, opinions are necessarily dependent on an individual’s 
+values and preferences.
+Though sound in principle, drawing this distinction in practice can be difficult. Indeed, the courts have on 
+occasion suggested that the same statement could be either a statement of fact or a statement of opinion 
+depending on the context. A famous example of this was given by Ferguson J in the New South Wales case of 
+Myerson v Smith’s Weekly [1923]: ‘To say that a man’s conduct was dishonourable is not a comment, it is a 
+statement of fact. To say that he did certain specific things and that his conduct was dishonourable is a 
+statement of fact coupled with a comment’. As noted by the Supreme Court in Joseph v Spiller [2010], this 
+63
+p. 520
+17. Defamation
+Page 40 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+cannot be right. To say that a man’s conduct was dishonourable is not a simple statement of fact. It is a 
+comment coupled with an allegation of unspecified conduct upon which the comment is based. In fact (no 
+pun intended), a defamatory comment about a person will almost always be based, either expressly or 
+inferentially, on conduct on the part of that person (Lord Phillips at [5]). So, while comments that do not 
+identify the conduct on which they are based have sometimes been treated as if they were statements of fact, 
+the better view is that they remain statements of opinion.
+What is clear, however, is that the defence of honest opinion (as with the common law defence) will not 
+succeed in such cases. Instead, only the defence of truth would be open to the defendant, which requires that 
+they prove the existence of facts that justify the comment. Singh highlights the difficulties of distinguishing 
+fact and opinion.
+British Chiropractic Association v Singh [2010] EWCA Civ 350 (CA)
+The defendant published a newspaper article containing the following statement:
+The British Chiropractic Association claims that their members can treat children with colic, 
+sleeping and feeding problems, frequent ear infections, asthma and prolonged crying, even 
+though there is not a jot of evidence. This organisation is the respectable face of the 
+chiropractic profession and yet it happily promotes bogus treatments.
+The British Chiropractic Association sued in libel and the defendant sought to rely on the defence of 
+fair comment. The question for the court was whether these were assertions of fact (in which case the 
+defence would not be available) or statements of opinion. The trial judge, Eady J, held that they were 
+statements of fact, but the Court of Appeal allowed the defendant’s appeal.
+Though the words ‘not a jot of evidence’ may be thought to involve a question of fact—either such 
+evidence exists or it does not—the court said that the words should be read as meaning there is ‘no 
+worthwhile or reliable evidence’. And whether evidence not only exists but is worthwhile is a value 
+judgement, and so a matter of opinion. The claim that the treatments were ‘bogus’ was to be 
+understood in the same light.
+Pause for reflection
+↵
+Some of the cases have been prepared to treat inferences of fact as amounting to comment for the 
+purposes of fair comment, as long as the facts from which the inference is drawn are identified and 
+true. An inference of fact is a statement of fact which is drawn (inferred) from other factual material. 
+So one might infer from the fact that a married TV presenter has a private dinner with her dance 
+p. 521
+17. Defamation
+Page 41 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+partner a further fact: that they are having an affair. Singh appears to endorse this view, at least 
+insofar as we are concerned with scientific or medical matters where the question of what inferences 
+(of fact) can be drawn from the available evidence is contested.
+The Supreme Court in Joseph v Spiller noted that one possible reform of the common law defence of 
+honest comment would be to extend it to inferences of fact. However, Lord Phillips was unconvinced 
+by the merits of such a reform:
+Some decisions have gone further and treated allegations of verifiable fact as comment … It is 
+questionable whether this is satisfactory. Prejudiced commentators can draw honest 
+inferences of fact, such as that a man charged with fraud is guilty of fraud. Should the 
+defence of fair comment apply to such inferences? Allegations of fact can be far more 
+damaging, even if plainly based on inference, than comments on true facts. (at [114])
+Do you agree? Is it correct to say that allegations of fact will typically be taken more seriously and 
+hence will cause more damage than comments and statements of opinion? Can we maintain the line 
+between statements (including inferences) of fact and statements of opinion without severely 
+limiting individuals’ freedom to challenge (potentially) bogus scientific claims?
+17.6.4.2  … that indicates the basis of the opinion
+The defence of honest opinion is available only where the statement is one of opinion rather than fact and the 
+facts on which that opinion is based are sufficiently identified, whether in general or specific terms. This 
+reflects the test approached by the Supreme Court in Joseph v Spiller.
+Joseph v Spiller [2010] UKSC 53 (SC)
+The claimants were musicians who had entered into a contract with the defendant booking agency. 
+The contract included a ‘re-engagement clause’, which provided that if the claimants were to perform 
+at a venue for a second time within a 12-month period, this second booking was to be arranged 
+through the defendant. The defendant wrote to the claimants complaining that they had breached 
+this clause by arranging a second booking directly with the venue. In their reply by email, the 
+claimants wrote: ‘your contract … holds no water in legal terms’. The defendant then posted a notice 
+on their website stating that they would no longer accept bookings for the claimants as ‘following a 
+breach of contract’ they had advised that ‘the terms and conditions of “contracts hold no water in 
+legal terms”’.
+17. Defamation
+Page 42 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+In response to the claimants’ defamation claim, the defendant pleaded fair comment. The claimants 
+applied to have this defence struck out on, among other things, the basis that the facts 
+↵
+to which 
+the comments were directed were not identified with sufficient particularity in the notice on their 
+website, since the details of the alleged breach of contract were not specified. The application 
+succeeded at first instance and in the Court of Appeal, but not before the Supreme Court.
+Giving the leading judgment, Lord Phillips held that for the defence to be available:
+the comment [need not] identify the matters on which it is based with sufficient 
+particularity to enable the reader to judge for himself whether it was well founded. The 
+comment must, however, identify at least in general terms what it is that has led the 
+commentator to make the comment, so that the reader can understand what the comment is 
+about and the commentator can, if challenged, explain by giving particulars of the subject 
+matter of his comment why he expressed the views that he did. A fair balance must be struck 
+between allowing a critic the freedom to express himself as he will and requiring him to 
+identify to his readers why it is that he is making the criticism. (at [104])
+More generally, he noted the need for the defence of fair—or, as the Supreme Court preferred, honest 
+—comment to develop to fit modern modes of communication.
+Today the internet has made it possible for the man in the street to make public comment 
+about others in a manner that did not exist when the principles of the law of fair comment 
+were developed, and millions take advantage of that opportunity. Where the comments that 
+they make are derogatory it will often be impossible for other readers to evaluate them 
+without detailed information about the facts that have given rise to the comments. 
+Frequently these will not be set out. If [the defendant were required to provide sufficient 
+facts as to enable a reader to judge if the comments are well founded] the defence of fair 
+comment will be robbed of much if its efficacy. (at [99])
+Lord Walker echoed these sentiments:
+The creation of a common base of information shared by those who watch television and use 
+the internet has had an effect which can hardly be overstated. Millions now talk, and 
+thousands comment in electronically transmitted words, about recent events of which they 
+have learned from television or the internet. Many of the events and the comments on them 
+are no doubt trivial and ephemeral but from time to time (as the present appeal shows) libel 
+law has to engage with them. The test for identifying the factual basis of honest comment 
+must be flexible enough to allow for this type of case, in which a passing reference to the 
+previous night’s celebrity show would be regarded by most of the public, and may sometimes 
+have to be regarded by the law, as a sufficient factual basis. (at [131])
+p. 522
+17. Defamation
+Page 43 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+17.6.4.3  … and could be—and is—honestly held
+The defendant must prove that there is a true factual basis to form a sufficient basis for the comment such 
+that an honest person could have held the opinion. The defendant need not prove that all the facts on which 
+his opinion is based are true, just enough to make it possible to hold the opinion in question.64 This is an 
+objective test and asks whether an honest person could have held the opinion either ‘on the basis of any fact 
+which existed at the time the 
+↵
+statement complained of was published’ (s 3(4)(a)), or ‘on the basis of 
+anything asserted to be a fact in a privileged statement published before the statement complained of’ (s 3(4) 
+(b)). The test then is not one of reasonableness, but rather whether the view is one that an honest person 
+might hold. To use Lord Nicholls’s formulation in Tse Wei Chun v Cheng [2001] it asks whether the comment 
+was ‘one which could have been made by an honest person, however prejudiced he might be, and however 
+exaggerated or obstinate his views’ (at [20]). Thus, while the defendant cannot rely on an honestly held 
+opinion if that opinion was based on incorrect facts and there were no other facts which could have supported 
+it, it may be possible for the defendant to rely on the defence where the opinion is based on a honest but 
+distorted view of the underlying facts or event where an honest person shared their view by reference to facts 
+of which the defendant was not aware at the time the defamatory statement was published (and so upon 
+which the opinion was not based).
+Finally, as with the common law defence, there will be no defence if the defamatory opinion offered by the 
+defendant is not an opinion they in fact hold or, where the statement is said by someone other than the 
+defendant, where the defendant knew or ought to have known that the author did not hold the opinion.
+Honest opinion was applied in Butt v The Secretary of State for the Home Department [2019].
+Butt v The Secretary of State for the Home Department [2019] EWCA Civ 
+933 (CA)
+In September 2015 the Home Office published a press release detailing updates to the Government’s 
+Prevent duty guidance titled: ‘PM’s Extremist Task Force: Tackling Extremism in Universities and 
+Colleges Top of the Agenda’. The claimant, Salman Butt, chief editor of a website called Islam21C, was 
+named in a list of guest speakers who had previously spoken at universities and who were ‘on record 
+as expressing views contrary to British values’ (at [8]). Butt sued the Home Secretary in defamation 
+arguing the natural and ordinary meaning of the words were that he was an extremist hate speaker 
+and was likely to radicalise students. At trial Nicol J found that while the natural and ordinary 
+meaning of the press release to be that ‘the claimant is an extreme hate speaker who legitimises 
+terrorism and from whose pernicious and poisonous influence students should be protected’ and, as 
+such, was defamatory, the Home Secretary was able to rely on the defence of honest opinion under 
+section 3 of the Defamation Act 2013: ‘… the statement complained of was a statement of opinion; and 
+… indicated in general terms the basis of the opinion, namely the views of Dr Butt which were in the 
+public domain’ (at [9]). Butt appealed.
+64
+p. 523
+17. Defamation
+Page 44 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(a)
+(b)
+The question for the Court of Appeal was whether the statement complained of was one of opinion or 
+fact. Finding for the Home Office, Sharp LJ held the relevant test to be ‘how the statement would 
+strike the ordinary reader’ and that in determining this ‘the subject matter, the nature of the 
+allegation and the context of the relevant words may well be important’ (at [39]) before going on to 
+conclude that, on this basis, the ordinary reader would understand the statement about Butt in the 
+press release to be an evaluative ‘value judgment or expression of opinion’ (at [39]).
+In Dyson v MGN Ltd [2023], the defendant had published an article in which it claimed:
+the vacuum cleaner tycoon who championed Vote Leave due to the economic opportunities it would 
+bring British industry before moving his global head office to Singapore. In other words kids, talk 
+the talk, then screw your country, and if anyone complains tell them to suck it up. (at [5])
+↵
+Nicklin J determined the natural ordinary meaning of the article as follows:
+the Claimant had publicly supported the benefits of Brexit to British industry, yet following 
+Brexit he had moved the global head office of his business to Singapore. [An allegation of 
+fact]
+by so doing, the Claimant was a hypocrite who had screwed the country and who set a poor 
+moral example to young people. [An expression of opinion]
+(Dyson v MGN Ltd [2022] at [21])
+The defendant sought to rely on the defence of honest opinion. While ultimately the case failed, on the basis 
+that it had not caused the claimant serious harm, the judge considered section 3(4)(a) of the Act. The first 
+issue for the court was whether when seeking to make out this defence, the defendant could rely on facts 
+other than the single fact mentioned in the article. Jay J held that they could: on the assumption that the fact 
+is true, there is ‘no basis for confining a defendant to that bare fact, excluding from account related and 
+connected facts’ (at [106]). Nor, Jay J continued, was it necessary for the defendant to include contextual facts 
+so long as the omission did not ‘falsify or contradict the basic factual allegation: that Dyson moved part of its 
+business out of the jurisdiction’ (at [131]). Finally, in assessing whether an honest commentator could have 
+held the opinion expressed in the article, the correct test, as set out by Lord Esher in Merivale v Carson [1887], 
+was whether ‘any fair man, however prejudiced he may be, however exaggerated or obstinate his views, 
+[would] have said that which this criticism has said of the work which is criticised’ (at [134]). On this basis, 
+the defendant’s statement that the claimant’s actions were ‘hypocritical and highly symbolic … [and] could 
+undermine the confidence of others in the UK and [is] … a poor moral example to young people’ fell within 
+the scope of honest opinion, and the defence was made out (meaning that the claimant was able to rely on it).
+p. 524
+17. Defamation
+Page 45 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-17-6>.
+17.7  Distributors, including operators of websites
+A distinction is drawn between those who publish and republish defamatory material—authors, editors, 
+publishers and so on—and mechanical distributors—those who simply disseminate the material (usually 
+booksellers, libraries, newsagents). Section 1 of the Defamation Act 1996 provides the latter with a defence of 
+‘innocent defamation’ if he is able to show (1) he was not the author, editor or publisher of the statement 
+complained of; (2) he took reasonable care in relation to its publication; and (3) he did not know, or had no 
+reason to believe, that what he did caused and contributed to the publication of a defamatory statement.
+It extends the defence to ‘mechanical distributors’ to include ‘printers, producers, distributors and sellers of 
+material containing the statement’ (s 1(3)(a)) as well as to broadcasters of live programmes where they have 
+no effective control over the person making the statement (s 1(3)(d)). The latter claim is comparatively rare. 
+Most potentially defamatory programmes are either pre-recorded or, in order to meet the requirement of 
+reasonable care (s 1(1)(b)), shown ‘as live’ where transmission is slightly delayed. It also extends to ‘operators 
+of or providers of access to a communications system by means of which the statement is 
+↵
+transmitted, or made available, by a person over whom he has no effective control’ (s 1(3)(e)), that is, 
+ISPs or Twitter where the quantity of material means that it may have limited awareness of what is being 
+added to the system.
+Section 10(1) of the 2013 Act adds a further layer of protection for ‘secondary’ publishers. It states that:
+A court does not have jurisdiction to hear and determine an action for defamation brought against a 
+person who was not the author, editor, or publisher of the statement complained of unless the court 
+is satisfied that it is not reasonably practicable for an action to be brought against the author, editor 
+or publisher.
+Section 5 of the 2013 Act extends the protection offered to website operators, making it ‘a defence for the 
+operator to show that it was not the operator who posted the statement on the website’ (s 5(2)). The defence 
+is limited in section 5(3) where (a) it is not possible for the claimant to identify the person who posted the 
+statement; (b) the claimant gave the operator a notice of complaint in relation to the statement; and (c) the 
+operator failed to respond to the notice in line with the Defamation (Operators of Websites) Regulations 2013. 
+The defence is also defeated by malice on the part of the operator (s 5(11)). While the effect of this defence 
+means that website operators will not be automatically liable in defamation (even if they moderate 
+comments), they may become liable if they do not act in accordance with the regulations and where users use 
+pseudonyms (thus preventing the claimant from identifying the poster directly).
+p. 525
+17. Defamation
+Page 46 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-17-7>.
+17.8  Offer of amends
+Where the defamatory statement is unintentional—for example, where the defendant knows that the 
+statement refers to the claimant but honestly and reasonably believes that it is true or where (as in cases of 
+mistaken identity described earlier) the defendant never intends to refer to the claimant—the defendant can 
+choose to make an offer of amends (usually an apology and correction, and appropriate damages) under 
+section 2 of the Defamation Act 1996. An offer of amends is not strictly a defence. Its purpose is not to allow 
+the defendant to claim that the defamatory statement was justified or excusable, rather it provides an 
+opportunity for the defendant to acknowledge they were wrong and to prevent the claim from going any 
+further.
+Timing is crucial here. The offer must be made before the service of a defence to the claim; that is, the 
+defendant must choose whether they are going to fight the defamation action or admit they were wrong. This 
+is to ensure the effectiveness of the apology. As Judge LCJ noted in Cairns v Modi [2012]:
+It is virtually self-evident that in most cases publication of a defamatory statement to one person 
+will cause infinitely less damage than publication to the world at large, and that publication on a 
+single occasion is likely to cause less damage than repeated publication and consequent publicity on 
+social media. By the same token, rapid publication of the withdrawal of a defamatory statement, 
+accompanied by an apology, together with an admission of its falsity given as wide publicity as the 
+original libel diminishes its impact more effectively than an apology extracted after endless 
+vacillation while the libel remains in the public domain, unregretted and insidiously achieving 
+greater credibility. (at [24])
+↵
+If the defendant’s offer is accepted, the action stops and damages are agreed by the parties.65 If damages 
+cannot be agreed, then damages will be assessed by the court. If the offer is not accepted, the defendant can 
+use the fact that the offer was made in their defence (unless the claimant is able to show that the defendant 
+knew that the comments referred to the claimant and were false and defamatory) (Defamation Act 1996, s 4).
+There are many examples of an offer of amends in practice—see, for example, the Daily Express and Daily 
+Star’s front-page apology to the parents of Madeleine McCann for suggestions that they had in some way 
+contributed to her death,66 The People’s apology to the father of Baby P, whom the paper had falsely accused 
+of being a convicted rapist (Cairns v Modi [2012]), the Metropolitan Police’s apology to a man who was 
+wrongly pictured on ‘wanted posters’ following the London Riots in 2011,67 the Daily Telegraph’s apology (and 
+payment of ‘substantial damages’) to Melania Trump68 and former MEP Jacqueline Foster’s apology to Melika 
+Gorgianeh, a contestant on the BBC quiz show ‘University Challenge’, for suggesting that she had chosen an 
+antisemitic symbol as her team’s mascot.69
+p. 526
+65
+66
+67
+68
+69
+17. Defamation
+Page 47 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+An example where a defendant failed to take up the opportunity of an offer of amends is Monroe v Hopkins 
+[2017]. Katie Hopkins, a journalist who then wrote for the MailOnline, posted a tweet which accused Jack 
+Monroe, a food blogger and writer, ‘of vandalising a war memorial and desecrating the memory of those who 
+fought for her freedom, or of approving or condoning such behaviour’ (at [2]). Following further exchanges 
+relating to Hopkins’s original tweet, Monroe tweeted Hopkins saying ‘Dear @KTHopkins, public apology + 
+£5k to migrant rescue & I won’t sue. It’ll be cheaper for you and v. satisfying for me’ (at [17]). The offer was 
+later repeated in a letter from Monroe’s solicitor. However, it was not taken up. In his concluding comments, 
+Warby J, the trial judge, noted: ‘The case could easily have been resolved at an early stage. There was an open 
+offer to settle for £5,000. It was a reasonable offer’ (at [83]). Instead, Monroe was awarded £24,000 in 
+compensation and costs were reported to be £300,000.70
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-17-8>.
+17.9  Remedies: Damages and injunctions
+An award of damages is the primary remedy in defamation. The amount of damages awarded in defamation 
+cases often appears out of proportion with those awarded for personal injuries. This is partly because an 
+action in defamation is one of the few times in tort law where a compensatory award may be supplemented 
+by aggravated or 
+↵
+exemplary damages.71 In Hijazi v Yaxley-Lennon [2021], for example, a schoolboy 
+victim of a racist attack72 was falsely and deliberately presented by the defendant, Stephen Yaxley-Lennon 
+(also known as Tommy Robinson, a well-known public figure on the political right), in two videos on his 
+Facebook account as the violent aggressor after the original video of the attack went viral. The result was 
+described by the judge as ‘entirely predictable’ (at [162]). The claimant became the target of abuse, he and his 
+family having to leave their home, and the claimant left education. Awarding the claimant £100,000 in 
+damages, Nicklin J continued:
+The defendant is responsible for this harm, some of the scars of which, particularly the impact on 
+the Claimant’s education, are likely to last for many years, if not a lifetime. The most significant 
+element of the damages award that I fix will be the need for vindication. This judgment—but more 
+importantly—the award of damages will mark clearly that the defendant has failed to demonstrate 
+the truth of his allegations. The defendant took on the burden of proving his allegations to be true. 
+He has failed. In reality, and for the reasons I have explained, his evidence fell woefully short. He has, 
+however, persisted with the serious allegations he originally made, and has even added to them 
+during the proceedings. The claimant has had to face them in the full glare and publicity of a High 
+Court trial. It is my responsibility to make clear that the defendant has failed in his defence of truth, 
+to vindicate the claimant and to award him a sum in damages that represents fair compensation. (at 
+[162]–[163])73
+70
+p. 527
+71
+72
+73
+17. Defamation
+Page 48 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Thus, while the purpose of personal injury damages is primarily compensatory, damages for defamation (as 
+well as being compensatory in respect of hurt feelings and distress as well as material losses caused by the 
+defamatory statement) incorporate the additional purposes of vindication (repairing and re-establishing the 
+claimant’s reputation), and—to a lesser extent—punishment and deterrence (John v MGN Ltd [1997] at 607). 
+In addition, in Cairns v Modi the Court of Appeal recognised the potential of the so-called ‘percolation 
+phenomenon’ to increase the amount of damages awarded where the defamatory statement has ‘gone viral’:
+we recognise that as a consequence of modern technology and communication systems any such 
+stories will have the capacity to ‘go viral’ more widely and more quickly than ever before. Indeed it is 
+obvious that today, with the ready availability of the world wide web and of social networking sites, 
+the scale of this problem has been immeasurably enhanced, especially for libel claimants who are 
+already, for whatever reason, in the public eye. In our judgment, in agreement with the judge, this 
+percolation phenomenon is a legitimate factor to be taken into account in the assessment of damage. 
+(Judge LCJ at [27])
+↵
+Traditionally damages were assessed by the jury. This led to a wide variety in level of awards 
+particularly when compared to those for personal injury as the jurors were, in Bingham MR’s words, left ‘in 
+the position of sheep loosed on an unfenced common, with no shepherd’ (John v MGN at 608).74 Since the 
+Court of Appeal’s decision in John v MGN, judges had been able to inform juries of the level of damages in 
+personal injury cases as a way of trying to guide their decision and prevent disproportionate libel awards. 
+And, of course, now that the presumption of a jury trial has been abolished (Defamation Act 2013, s 11), this is 
+now a matter for the judge.
+An award of damages can be accompanied by a final injunction prohibiting further publication of the 
+defamatory material. An injunction is an immediate court order preventing someone from taking certain 
+steps, and a defendant who fails to comply can be imprisoned for contempt of court. An injunction can be 
+obtained before a case is heard to prevent the further dissemination of potentially defamatory material in a 
+matter of days or, in extremely urgent cases, a matter of hours. More often an injunction is awarded after a 
+statement has been accepted by the courts as defamatory. This is relatively uncontroversial.
+Section 13 of the Defamation Act 2013 provides a further avenue for the removal of defamatory material 
+requiring (a) the website operator to remove the statement or (b) any other person to ‘stop distributing, 
+selling or exhibiting material containing the statement’. In Blackledge v Person(s) Unknown (Being the Authors, 
+Editors and Publishers of the Website https://metooucu.blogspot.com) <https://metooucu.blogspot.com> [2021], 
+false and seriously defamatory allegations of sexual misconduct by the claimant, a politics and ethics 
+academic, were anonymously posted on a website. The defendant’s identity remained unknown throughout 
+the case and to this day. In light of the significant impact of the defamatory statements on the claimant and 
+his credibility and career, as well as the manner and reach of their publication, the claimant was awarded 
+£70,000 in damages. He is unlikely to recover these. Given that the defendant is unlikely to comply with the 
+injunction (awarded nonetheless to remove the posts) the judge held:
+p. 528
+74
+17. Defamation
+Page 49 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+an order requiring Google to remove the Website is justified and wholly appropriate. … Where an 
+injunction may not be effective, as in the instant case, an order under section 13 is an appropriate 
+and proportionate remedy. On the facts of this case, where D has hidden their identity, a section 13 
+order is likely to be the only remedy that is capable of providing effective and meaningful protection 
+to C’s civil rights. (Saini J at [61])
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-17-9>.
+17.10  The Defamation Act 2013—Annotated
+In Figure 17.1 we have annotated extracts from the Defamation Act 2013, highlighting the key issues which 
+have been discussed in this chapter.
+Access an interactive annotated copy of the Act <https://iws.oupsupport.com/embed/access/content/horsey9e-  
+student-resources/horsey9e-chapter-17-annotated-statute-defamation-act-2013-interactive> and click on the 
+highlighted phrases for author commentary. You can also download a non-interactive copy of the annotated 
+extract <https://iws.oupsupport.com/embed/access/content/horsey9e-student-resources/horsey9e-chapter-17-  
+annotated-statute-defamation-act-2013>.
+17. Defamation
+Page 50 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+17. Defamation
+Page 51 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+17. Defamation
+Page 52 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+17. Defamation
+Page 53 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+17. Defamation
+Page 54 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+17. Defamation
+Page 55 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Figure 17.1 The Defamation Act 2013
+17.11  Conclusion
+Defamation protects an individual’s or a company’s reputation by allowing them to prevent the publication 
+of, or recover damages for, public statements that have caused or are likely to cause serious harm to the 
+reputation of the claimant. In so doing, the courts have to decide whether an individual’s interest in what 
+people think of them should trump the freedom of others to be able to say what they know, or think they 
+know, about them.
+In order to bring a claim, the statement must be defamatory (as opposed to simply insulting), it must refer to 
+the claimant and must be published. The defendant can, however, defeat a claim in defamation by virtue of a 
+number of defences, many of which have been put on a statutory footing in the Defamation Act 2013.
+Decision Tree 17.1 shows the elements of a claim in defamation and common defences. For the purposes of 
+this decision tree:
+C must be domiciled in the UK or a member state (under s 9 courts have no jurisdiction unless 
+England and Wales is the ‘most appropriate place’ to bring a claim).
+All section references are to the Defamation Act 2013 unless stated otherwise.
+p. 529
+p. 530
+p. 531
+p. 532
+p. 533
+p. 534
+17. Defamation
+Page 56 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Explore the elements a claim and relevant defences using the interactive version of this decision tree <https://  
+iws.oupsupport.com/embed/access/content/horsey9e-student-resources/horsey9e-chapter-17-interactive- 
+decision-tree-17-1>.
+17. Defamation
+Page 57 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+17. Defamation
+Page 58 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Decision Tree 17.1 Defamation claims and defences
+17. Defamation
+Page 59 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+1
+2
+3
+→
+→
+→
+→
+→
+End-of-chapter questions
+After reading the chapter carefully, try answering the questions which follow.
+Who can and who cannot sue in defamation? Explain the reasons for this.
+When will defendants who disseminate or host a defamatory statement made by another escape liability? Do 
+you think this provides sufficient protection for victims of defamatory statements posted online?
+The Defamation Act 2013 has done much to clarify and improve the balance between protecting an 
+individual’s reputation and the freedom of speech of others. Do you agree?
+If you would like to know what we think, check the answer guidance <https://iws.oupsupport.com/ebook/  
+access/content/horsey9e-student-resources/horsey9e-chapter-17-answers-to-end-of-chapter-questions? 
+options=showName>.
+Answering the problem question
+Consider again the problem question at the start of this chapter. Now having read about the topic, what 
+would be your advice to the various parties?
+Here are some pointers to get you started:
+The headline clearly wasn’t intended to refer to Maverick, but how would the reasonable reader interpret 
+the headline and image?
+Does Maverick’s statement about the ability of his colleagues ‘appointed in the 1990s’ refer to Raya?
+Has Kit’s WhatsApp message caused, or is likely to cause, Maverick serious harm?
+If you need some more guidance:
+See the annotated version of the problem with issues and cases to consider <https://  
+iws.oupsupport.com/embed/access/content/horsey9e-student-resources/horsey9e-chapter-17-annotated- 
+problem-question-interactive>.
+Check your answer against the suggested outline answer <https://iws.oupsupport.com/embed/access/  
+content/horsey9e-student-resources/horsey9e-chapter-17-answers-to-problem-question>.
+p. 535
+p. 536
+p. 537
+17. Defamation
+Page 60 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Further reading
+In addition to the academic articles listed, the Inforrm blog (www.inforrm.wordpress.com <http://  
+www.inforrm.wordpress.com>) is an excellent source of authoritative commentary on recent case law.
+Barendt, Eric ‘Libel and Freedom of Speech in English Law’ [1993] Public Law 449
+Collins, Matthew ‘Reflections on the Defamation Act 2013, one year after Royal Assent’ Inforrm’s blog 25 April 2014
+Dee, Juliet ‘Fighting Back: Is Defamation Law a Double-Edged Sword for #MeToo Victims?’ 55(2) First Amendment 
+Studies 148
+Erdos, David ‘Serious Harm to Reputation Rights? Defamation in the Supreme Court’ [2019] Cambridge Law Journal 
+510
+Gibbons, Thomas ‘Defamation Reconsidered’ (1996) 16 Oxford Journal of Legal Studies 587
+Howarth, David ‘Libel: Its Purpose and Reform’ (2011) 74 Modern Law Review 845
+↵
+McNamara, Lawrence Reputation and Defamation (OUP 2007)
+Mullis, Alastair and Andrew Scott ‘Something Rotten in the State of English Libel Law? A Rejoinder to the Clamour for 
+Reform of Defamation’ (2009) 14 Communications Law 173
+Mullis, Alastair and Andrew Scott ‘Tilting at Windmills: The Defamation Act 2013’ (2014) 77 Modern Law Review 87
+O’Callaghan, Patrick ‘The Law of Defamation—Part 1 and Part II’ in Butterworths Common Law Series: The Law of Tort 
+(Butterworths 2014) chs 25 and 26
+Price, James and Felicity McMahon (eds) Blackstone’s Guide to the Defamation Act 2013 (OUP 2013)
+Additional suggestions for further reading can be found in this chapter’s web links <https://iws.oupsupport.com/  
+ebook/access/content/horsey9e-student-resources/horsey9e-chapter-17-web-links?options=showName>.
+Notes
+ 
+1. For information: Maverick is the name of the main character in the 2022 film Top Gun: Maverick (www.imdb.com/ 
+title/tt1745960/ <http://www.imdb.com/title/tt1745960/>). This information is not contained in the original message.
+ 
+2. Though some non-permanent forms of publication are treated as libel by virtue of various statutory provisions—e.g. 
+radio and television (Broadcasting Act 1990, s 166) and public theatre performances (Theatres Act 1968, s 4).
+ 
+3. See e.g. Griffin v North Cumbria Integrated Care NHS Foundation Trust [2024] which involved a reference given over 
+the telephone (‘Judgment in rare slander trial’ 5rb.com 8 February 2024).
+ 
+4. See e.g. Faulks Committee Report of the Committee on Defamation (Cmnd 5909, 1975) [91]; J M Kaye ‘Libel or 
+Slander: Two Torts or One?’ (1972) 91 Law Quarterly Review 524.
+p. 538
+1.
+2.
+3.
+4.
+17. Defamation
+Page 61 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+5. Until the 2013 Act there were four exceptions to the need to prove special damage in cases of slander: where the 
+statement imputed: (a) criminal conduct (Webb v Beavan [1883]); (b) that the claimant has a contagious disease 
+(Bloodworth v Gray [1844]); (c) incompetence in business dealings (as clarified by the Defamation Act 1952, s 2); and (d) 
+a lack of chastity in a woman (Slander of Women Act 1891, s 1). However, s 14 of the 2013 Act abolished the dated and 
+potentially discriminatory (b) (‘contagious diseases’) and (d) (‘lack of chastity in a woman’) exceptions.
+ 
+6. The most recent annual judicial statistics for 2023, published in July 2024, stated there were 250 defamation claims 
+issued in 2023. It has been suggested that this is the result of a mis-categorisation by the Ministry of Justice and that 
+the true figure is closer to 111 new cases (‘Judicial Statistics, 2023: “A 60% decrease in issued defamation claims but 
+doubts remain over the reliability of the figures”’ Inforrm’s blog 30 July 2024).
+ 
+7. Tony Weir An Introduction to Tort Law (2nd edn OUP 2006) 176.
+ 
+8. Patrick Wintor ‘ “Laughing stock” libel laws to be reformed, says Nick Clegg’ The Guardian 6 January 2011.
+ 
+9. Matthew Collins ‘Reflections on the Defamation Act 2013: One Year after Royal Assent’ Inforrm’s blog 25 April 2014. 
+For a helpful overview and assessment of the Act ten years on, see Iain Wilson, Max Campbell, Tom Double and Percy 
+Preston ‘Defamation Act 2013: A summary and overview 10 years on’ Inforrm’s blog 30 December 2024.
+ 
+10. You may find it helpful to refer to the annotated version of the Defamation Act 2013 (section 17.10 You can also 
+download this from the online resources.).
+ 
+11. Though he went on to say that where the company has suffered no financial loss, damages should be kept within 
+modest bounds (at [27]).
+ 
+12. As seen in Brett Wilson LLP v Persons Unknown [2015]; Gubarev v Orbis Business Intelligence [2020].
+ 
+13. For some time now there have been calls for new legislation to ‘stamp out’ so-called SLAPPs (strategic lawsuits 
+against public protection) which include but are not limited to defamation claims and which are increasingly being 
+used by the super-rich to stifle legitimate reporting and debate. In November 2024, the justice minister, Heidi 
+Alexander MP, confirmed that such legislation would not be introduced in the current parliamentary session. Of 
+course, the use of the threat—and reality—of defamation (and other legal) actions is not new. See e.g. the so-called 
+‘McLibel’ trial, the longest running libel case in England, in which two environmental activists were sued by 
+McDonald’s over critical claims they had made in a six-page leaflet titled: ‘What’s wrong with McDonald’s: everything 
+they don’t want you to know’ (www.mcspotlight.org <http://www.mcspotlight.org>A case study on the McLibel trial 
+can be found in the online resources.).
+ 
+14. Ben Dowell ‘McAlpine libel: 20 tweeters including Sally Bercow pursued for damages’ The Guardian 23 November 
+2012; McAlpine v Bercow [2013] is discussed in section 17.3.1.
+ 
+15. See e.g. Owen Bowcott ‘Complaints to solicitors’ regulator over libel demands from Galloway’s lawyers’ The 
+Guardian 4 March 2015. Although there are other times when an MP’s ability to bring defamation claims is right and 
+proper. See e.g. Richard Burgon MP’s successful claim—amounting to £30,000—against The Sun newspaper suggesting 
+he had joined a band which ‘delights in Nazi symbols’ (at [1]) (Burgon v News Group Newspapers [2019]).
+ 
+16. Though cf Gavin Phillipson ‘London: the capital of libel tourism?’ The Guardian 29 March 2010.
+ 
+17. See e.g. Jason Donovan and Robbie Williams’s successful claims against The Face magazine (in 1992) and The 
+People newspaper (in 2005) over suggestions they were homosexual. In each case, the defamatory statement was not, 
+it was argued, being called ‘gay’, but rather the implication of hypocrisy in the suggestion that they were lying to their 
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+17. Defamation
+Page 62 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+fans about their sexuality, discussed in Vincent Graff ‘Gay? Not gay? So what! Why should it be a matter for the libel 
+lawyers?’ The Independent, 11 December 2005. See further Alexandros Antoniouin and Dimitris Akrivos 
+‘Homosexuality, Defamatory Meaning and Reputational Injury in English Law’ in Kirsty Horsey (ed) Diverse Voices in 
+Tort Law (Bristol University Press 2024) 175.
+ 
+18. Compare e.g. Kerr v Kennedy [1942] 1 KB 409; Liberace v Daily Mirror Newspapers (1959) The Times, 17 and 18 June 
+(discussed in Roy Greenslade ‘Liberace, the Daily Mirror and a libel trial fiasco …’ The Guardian 12 June 2013) and 
+Youssoupoff v Metro-Goldwyn-Mayer Pictures Ltd [1934].
+ 
+19. The case returned to the High Court in July 2022 (eight years after the articles were first published) where Nicklin J 
+dismissed the newspaper’s public interest defence (see section 17.6.3) and ordered the publishers to pay £120,000 in 
+damages (Lachaux v Independent Print Ltd and others [2021]). For an application of s 1(1) post-Lachaux, see Tom 
+Double ‘Where are we now with serious harm? Understanding section 1 of the Defamation Act 2013’ Inforrm’s Blog 25 
+October 2023 and Blake v Fox [2024a] in which Collins Rice J found two tweets in which actor Laurence Fox had falsely 
+called the claimants ‘paedophiles’ was ‘on the evidence, probabilities and facts of this case, seriously harmful, 
+defamatory and baseless’ (at [166]). Both claimants were awarded £90,000 in damages and a permanent injunction 
+(Blake v Fox [2024b]). The preliminary issues were determined for reasons set out in judgments of Nicklin J (Blake v Fox 
+[2022b]) and the Court of Appeal (Blake v Fox [2023]).
+ 
+20. Each case will depend on its own facts. In Dyson v MGN Ltd [2023], the judge declined to find that the contested 
+statement had caused serious harm despite being published in a national newspaper.
+ 
+21. Charleston might be considered an early example of ‘deep-fake’ imagery. Technological advances now mean that it 
+is extremely difficult (if not impossible for the untrained viewer) to know that what they are viewing is not real. This is 
+particularly prevalent in the context of image-based sexual abuse, where the images are often referred to as 
+‘fakeporn’. Such images are clearly defamatory (and in some instances criminal) (Rackley et al ‘Seeking Justice and 
+Redress for Victim-Survivors of Image-Based Sexual Abuse’ (2021) 29 Feminist Legal Studies 293).
+ 
+22. Stocker predates the 2013 Act and so refers to the common law defence of ‘justification’ (as amended by s 5 of the 
+Defamation Act 1952) which is abolished by s 2 of the 2013 Act which broadly reflects the same defence (discussed 
+further in section 17.6.1).
+ 
+23. Which has since been replaced by s 2(3) of the Defamation Act 2013.
+ 
+24. See e.g. in the cases of the so-called ‘Black Cab Rapist’ (DSD v The Commissioner of Police for the Metropolis [2014] 
+discussed in section 6.3.1) and Jimmy Savile.
+ 
+25. See e.g. BBC News ‘Rape social media posts: How speaking out got twin sisters sued’ 24 February 2021. In Starr v 
+Ward [2015], a woman who said she was groped by comedian Freddie Starr in 1974 behind the scenes of Jimmy 
+Savile’s Clunk Click TV show when she was 15 successfully defended a defamation claim brought by Starr against her. 
+It was reported that Starr faced a £1 million costs bill and lost £300,000 from shows being cancelled over the 
+allegations (BBC News ‘Freddie Starr loses groping defamation case’ 10 July 2015). See further Brett Wilson, ‘#MeToo, 
+naming and shaming: a risky business?’ Inforrm’s blog 2 November 2017; Julie Bindel ‘Women who allege abuse 
+mustn’t be silenced by rich men’s libel threats’ The Guardian 23 January 2019.
+ 
+26. The wealth of the claimant is important. In Lee v Brown [2022], a former partner unsuccessfully attempted to sue his 
+former partner for comments she had made on Facebook stating that she was ‘repeatedly and consistently … 
+subjected by Mr Lee to serious abuse of a controlling and coercive nature throughout their cohabitation’ (at [25]). 
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+17. Defamation
+Page 63 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+While the comments were clearly defamatory, Lee, who represented himself, had not established that they had 
+caused, or were likely to cause, ‘serious harm’. Collins Rice J continued: ‘It is notoriously difficult for a litigant in 
+person, however informed and articulate, to bring a successful defamation action. That is because the law is detailed 
+and complex, highly fact-sensitive, sometimes counter-intuitive, and contains traps for the inexperienced. It is an area 
+of expert legal practice, daunting even for other legal professionals’ (at [31]). Had Lee been able to, or had chosen to, 
+instruct counsel, he might well have been successful.
+ 
+27. Harriet Wistrich, Centre for Women’s Justice in Southall Black Sisters ‘Press Release: Lachaux v Independent News 
+Print Ltd and Another’ (no date): www.southallblacksisters.org.uk/news/press-release-lachaux-v-independent- 
+news-print-limited-and-another <http://www.southallblacksisters.org.uk/news/press-release-lachaux-v-  
+independent-news-print-limited-and-another>.
+ 
+28. ‘Promotion and protection of the right to freedom of opinion and expression’ A/76/258, 30 July 2021, [22].
+ 
+29. Once the judge had held that a statement was capable of being defamatory as a matter of law, it was for a jury to 
+decide whether it was in fact defamatory. The presumption in favour of a jury trial was removed by s 11 of the 
+Defamation Act 2013 which states that a trial is to be ‘without a jury unless the court orders otherwise’. The 
+circumstances in which a defamation case might be heard with a jury was considered in Tim Yeo MP v Times 
+Newspapers [2014]. Refusing the application in the instant case, Walby J held that there were no ‘skills, knowledge, 
+aptitudes or other attributes likely to be possessed by a jury which would make it better equipped than a judge to 
+grapple with the issues that arise and may need to be tried’. Nor is it the case ‘that the verdict or judgment in this case 
+could have consequences so profound for public life that it would be appropriate to involve a jury’. Indeed, the greater 
+the public interest, the more need there was for the case to be heard by judge alone, ‘with the reasoned judgment that 
+only such a mode of trial would bring. There are real risks of a jury verdict being unclear or misunderstood or both’ (at 
+[53]). On this reasoning a jury trial in the near future seems unlikely. This is further underlined by Nicklin J’s refusal to 
+allow for a jury trial as requested by actor Laurence Fox in Blake v Fox [2022a].
+ 
+30. See also discussion in Monroe v Hopkins [2017] at [44]–[59].
+ 
+31. Or even if the defendant had no knowledge of the defamatory statement at the time it was published. In Monir v 
+Wood [2018], the former chairman on UKIP’s Bristol branch was liable for a defamatory tweet posted by the then Vice 
+Chairman. It was no excuse to say that he had delegated responsibility for its Twitter account to him who in turn was 
+acting as his ‘agent’.
+ 
+32. For a recent example, see Lena Durham’s post on Buzzfeed in which she apologises to the man mistakenly 
+identified as her rapist after matching the pseudonym she used in her book Not that Kind of Girl (‘Why I choose to 
+speak out’ 9 December 2014).
+ 
+33. What if, e.g. a man is wrongly identified in the local and national press as a rapist? In April 2014, it was reported that 
+the police paid ‘substantial damages’ to a man who was wrongly identified as a rapist on the BBC News website and in 
+the Oxford Mail newspaper. In this case, the police had supplied the press with the wrong photo, and so there was a 
+straightforward claim against them (the case was settled). Following O’Shea, what do you think are the chances of a 
+successful claim against the BBC and Oxford Mail? (Dominic Ponsford ‘Police pay substantial damages to man wrongly 
+identified in the press as a rapist’ Press Gazette 22 April 2014.)
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+17. Defamation
+Page 64 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+34. Similarly, statements exchanged between married couples are not regarded as being published. One’s spouse is not 
+a third party. Insofar as there is good sense in allowing partners to be able to communicate as they wish without fear 
+of legal consequences, so as to avoid ‘disastrous results to social life’ (Wennhak v Morgan [1888] at 639) this should 
+apply to all partners, married or otherwise.
+ 
+35. Hugh Tomlinson ‘Case Law: Webb v Jones, Facebook libel claimants beware!’ Inforrm’s blog 26 June 2021.
+ 
+36. See further Monroe v Hopkins (based on two tweets posted within a couple of hours of each other, and a further five 
+within the next 24 hours which were assessed together) and Webb v Jones (where seven Facebook posts, within a 
+thread running to 150 pages and 382 comments, were treated as separate publications).
+ 
+37. The action was ultimately struck out on the facts on the basis that the damage to the claimant’s reputation was not 
+sufficiently serious.
+ 
+38. To date, there have been no reported cases using a s 5 reflection. Wilson et al argue of the ‘complicated and 
+onerous’ process which is ‘probably unattractive to website operators who will often have no interest in the matter 
+and/or be able rely on other substantive defences’ (n9).
+ 
+39. N9.
+ 
+40. Also where the claimant has consented (either expressly or impliedly) to the publication of the defamatory 
+material, this will be a defence (Cookson v Harewood [1932]).
+ 
+41. The Rehabilitation of Offenders Act 1974, s 8 provides a statutory exception to this. When referring to a spent 
+conviction, the defendant must show both that it is true and an absence of malice in publishing the information (s 
+8(5)).
+ 
+42. The burden of proof is lower in civil cases as the claimant in Coker v Nwkanma [2021] learned to his cost. He sued 
+his friend over an allegation that he had sexually assaulted a woman at the defendant’s house. The judge found that 
+‘on the balance of probabilities’ (which while flexible in its application, the more serious the allegation or the more 
+serious the consequences if the allegation is proved, ‘the stronger must be the evidence before a court will find the 
+allegation proved on the balance of probabilities’ (at [14]) is a lower standard than the criminal standard of 
+reasonable doubt) the allegation was true (at [57]). As Max Campbell notes: ‘Saini J’s observation about the apparent 
+“flexibility” in the application of the civil standard of proof is a doubled-edged sword: whilst it means that a judge will 
+be less quick to make findings of serious criminality, it also means that the reputational damage arising from such 
+findings, if made, is worse (because the findings, whilst on the balance of probabilities, have expressly not been made 
+lightly)’ (‘Case Law, Coker v Nwkanma, Search for vindication backfires, court finds serious sexual assault committed’ 
+Inforrm’s blog 4 June 2021).
+ 
+43. Consider again the BBC Radio 5 presenter’s comment in the examples at the beginning of the chapter. His 
+statement is clearly defamatory. But could he rely on the defence of truth? This will depends on how the specific 
+allegations are interpreted.
+ 
+44. In June 2022, a jury in Virginia awarded Depp compensatory damages of US$10 million, as well as punitive damages 
+for defamatory statements made by Amber Heard in the Washington Post. In December 2022, it was reported that 
+Amber Heard had agreed to a legal settlement with Depp. For a detailed comparison of the UK and US cases, see 
+Matthew Scott ‘Depp v Heard: Why did an American jury reach a different decision than the English judge?’ 
+BarristerBlog 2 June 2022.
+ 
+45. Refuge responds to Johnny Depp losing his libel case, 2 November 2020.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+17. Defamation
+Page 65 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+46. Tamsin Allen and Daniel Shaw ‘Case Comment: Depp v NGN—an analysis of the judgment’, Bindmans website, 14 
+December 2020.
+ 
+47. These comments must now be read in light of the Court of Appeal’s comprehensive reversal of Jay J’s decision: ‘In 
+our view, the Judge not only seriously transgressed the core principle that a judge remains neutral during the 
+evidence, but he also acted in a manner which was, at times, manifestly unfair and hostile to the claimant … the 
+nature, tenor and frequency of the Judge’s interventions were such as to render this libel trial unfair’ (Serafin v 
+Malkiewicz and others [2019] at [119]). The case was ultimately considered by the Supreme Court, which agreed with 
+the Court of Appeal in relation to Jay J’s treatment of the claimant but found, ‘with a degree of embarrassment in 
+relation to respected colleagues’ (at [78]), the Court of Appeal to have wrongly applied the law in relation to s 4 of the 
+Act (see further section 17.6.3) and remitted the case for a full retrial (rather than simply on the determination of 
+costs as ordered by the Court of Appeal) (Serafin v Malkiewicz and others [2020]).
+ 
+48. See e.g. collection of BBC News stories tagged as ‘Wagatha Christie trial’: www.bbc.co.uk/news/topics/ 
+cxy7xky2047t <https://www.bbc.co.uk/news/topics/cxy7xky2047t>; ‘Rooney v Vardy: The Breakdown’, a podcast 
+hosted by Coleen Rooney’s lawyers, Paul Lunt and Jamie Hurworth from Brabners LLP and Nick Curtis ‘Vardy v 
+Rooney: The Wagatha Christie Trial at Wyndham’s Theatre review—hilarious and gripping’ Evening Standard 23 
+November 2022You may find it interesting to watch BBC journalist, Ros Atkins, ‘On the Wagatha Christie Trial’, 
+recorded before the judgment was handed down, which details how the case unfolded in the High Court..
+ 
+49. Vardy will, of course, also have to pay her own legal costs. Lawyers for Vardy and Rooney are set to return to court 
+to determine costs in 2025; in the meantime Vardy has been ordered to pay Rooney £100,000 towards the money she 
+owes her (Jessica Rawnsley ‘Vardy ordered to pay £100,000 towards Rooney costs’ BBC News 9 October 2024).
+ 
+50. David Allen Green ‘What Rebekah Vardy got wrong’ Prospect Magazine 2 August 2022.
+ 
+51. Qualified privilege was often relied on by the media in the form of the so-called Reynolds defence. As we will see in 
+section 17.6.3, s 4 abolishes the common law Reynolds defence; however, the defence of qualified privilege extends 
+beyond the category of privilege recognised in Reynolds.
+ 
+52. This has been used by MPs and members of the House of Lords to circumvent reporting restrictions imposed by the 
+courts. For example, in October 2018, Lord Hain relied on privilege in order to name Sir Philip Green as the 
+businessman at the centre of an injunction linked to allegations known as the ‘British #MeToo scandal’. (See further 
+Jessica Elgot ‘Sir Philip Green named as man at heart of “UK #MeToo scandal”’ The Guardian 26 October 2018.)
+ 
+53. For an application of the defence of qualified privilege, see ABC (A Mother) v The Chief Constable of West Yorkshire 
+Police [2017] where it was held that a defamatory statement made in the context of an allegation of child sexual abuse 
+was privileged. The police had a duty to communicate with Social Services who have a corresponding duty to receive 
+it. In any event, the case failed on the basis that the claimant had failed to prove the publication of the defamatory 
+statement had, or was likely to, cause the claimant serious harm.
+ 
+54. Leaving open the question as to whether the defence would have been successful in Singh (cf James Price and 
+Felicity McMahon (eds) Blackstone’s Guide to the Defamation Act 2013 (OUP 2013) 102).
+ 
+55. See e.g. Serafin v Malkiewicz [2020] in which the Supreme Court, approving the decision of the Court of Appeal in 
+Economou v de Freitas, emphasised the material difference between the Reynolds defence and that in s 4 and that 
+they should not be equated, nor should the Reynolds factors be used as a checklist in the context of s 4:
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+17. Defamation
+Page 66 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+… the Bill, as introduced, did in effect make reference to the Reynolds factors but later they were 
+deliberately omitted. Subject to what some may regard as only a quibble, the observations of Sharp LJ [in 
+Economou v de Freitas] are valid. The quibble, if such it be, relates to her use of the word ‘checklist’. I 
+suggest that a check list is a list of factors to which reference ought to be made, in particular in order to 
+check whether a preliminary conclusion should be confirmed. … But, in removing the listed matters from 
+the Bill and in proceeding to substitute a reference to all the circumstances, Parliament made clear its 
+intention that the Reynolds factors, upon which the list had been based, were not to be used as a check list. 
+Even if, at the time of the decision in the Reynolds case, it was appropriate to describe the factors identified 
+by Lord Nicholls as a check list, it is clearly inappropriate so to regard them in the context of the statutory 
+defence. But, as Sharp LJ proceeded to explain, that is not to deny that one or more of them may well be 
+relevant to whether the defendant’s belief was reasonable within the meaning of subsection (1)(b). (at [69])
+ 
+56. Explanatory Notes at [29].
+ 
+57. Price and McMahon n54 75.
+ 
+58. This had not been raised by the defendant—he had received inadequate legal advice. The judge adjourned the 
+claimants’ summary judgment application, to enable him to take advice and, if so advised, raise the defence at a later 
+hearing. The defendant chose not to do this. He was later ordered to pay £80,000 in damages and the claimant’s costs.
+ 
+59. This case is another example of the extent to which bringing a defamation claim can be a double-edged sword. As 
+Oliver Lock notes:
+Being accused of a sexual crime is, of course, one of the most damaging accusations that can be made 
+against an individual and, if that allegation is false, he or she will want to do all in their power to fight it. 
+However, this case … should be a warning against taking such robust action when doing so may harm your 
+reputation further. In pursuing a libel case against the Defendant, Mr Economou has found his name at the 
+centre of a widely publicised libel judgment. The particular sensitivities of this case also called for 
+thoughtfulness when Mr Economou was deciding how to deal with the allegations that had been made 
+against him. Perhaps it would have been more prudent to take action against the publishers of the story, 
+rather than a grieving father.
+⤴(‘Case Law: Economou v de Freitas, Is it interesting? New judgment considers the scope of the “public interest” 
+defence’ Inforrm’s blog 28 September 2016.)
+ 
+60. Though they will still be held to some standards. In Riley v Sivier [2022], Rachel Riley won £50,000 over claims she 
+was a ‘serial abuser’ and had bullied a teenager. While the defendant was held to have published on a matter of public 
+interest, and to have believed it to be in the public interest, his belief was:
+‘manifestly unreasonable’ … he failed to make such enquiries as were reasonably required in the 
+circumstances; he had no reasonable grounds for making the factual allegations that he did, which 
+misrepresented the evidential picture; and the article was wholly unbalanced. (at [163], [180])
+⤴Sivier is reported to have appealed.
+56.
+57.
+58.
+59.
+⤴
+60.
+⤴
+17. Defamation
+Page 67 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+61. See further and compare Doyle v Smith [2018] and discussion in Jacob Rowbottom ‘Citizen journalists, standards of 
+care, and the public interest defence in defamation’ Inforrm’s blog 18 December 2018.
+ 
+62. The trial judge also found that the tweet did not cause serious harm to Mr Banks’s reputation. This was upheld by 
+the Court of Appeal (at [10]).
+ 
+63. In May 2023, Cadwalladr was ordered to pay legal costs of around £1.2 million to Banks.
+ 
+64. In Riley v Murray, the Court of Appeal confirmed that where the opinion defended is based on a single specific fact, 
+the s 3 defence will fail if that fact is untrue (at [59]).
+ 
+65. See e.g. Archie Bland ‘Julie Burchill agrees to pay Ash Sarkar “substantial damages” in libel case’ The Guardian, 16 
+March 2021.
+ 
+66. BBC News ‘McCanns welcome papers’ apology’ 19 March 2008.
+ 
+67. Press Association ‘Riots Good Samaritan wins poster libel payout from Met police’ The Guardian 3 May 2013.
+ 
+68. ‘Melania Trump—An Apology’ Daily Telegraph 26 January 2019.
+ 
+69. Peter Walker ‘Tory peer pays damages after alleging University Challenge mascot was antisemitic’ The Guardian 6 
+March 2024.
+ 
+70. Harry Cockburn ‘Katie Hopkins’ legal bills to top £300,000 after losing High Court battle to Jack Monroe’ The 
+Independent 10 March 2017. In January 2018, Hopkins’s application for appeal was refused and in September 2018 she 
+was reported as filing for an insolvency agreement to avoid bankruptcy.
+ 
+71. The judge may also choose to award nominal damages. In Wright v McCormack [2022], the judge awarded just £1 to 
+the claimant (a computer scientist and ‘self-proclaimed inventor of bitcoin’) in a defamation case against a blogger 
+who had accused him of fraud. Though he won his case, his damages were reduced on the basis that ‘he advanced a 
+deliberately false case and put forward deliberately false evidence until days before trial’ (at 149). The award was 
+upheld on appeal (Wright v McCormack [2023]).
+ 
+72. The perpetrator was subsequently expelled from school and received a caution for common assault.
+ 
+73. Yaxley-Lennon declared himself bankrupt before the trial. In October 2024, he was jailed for 18 months for 
+contempt of court in relation to ten breaches of a High Court order relating to the case.
+ 
+74. See further and compare the award of ‘top bracket’ damages (£185,000) in Shakil-Ur-Rahman v ARY Network Ltd 
+[2016] with the award of just £10 (reflecting the claimant’s ‘disgraceful’ behaviour before and during the litigation) in 
+Flymenow Ltd v Quick Air Jet Charter GmbH [2016].
+© Kirsty Horsey & Erika Rackley 2025
+Related Books
+View the Essential Cases in tort law
+61.
+62.
+63.
+64.
+65.
+66.
+67.
+68.
+69.
+70.
+71.
+72.
+73.
+74.
+17. Defamation
+Page 68 of 68
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Related Links
+Test yourself: Multiple choice questions with instant feedback <https://learninglink.oup.com/access/content/brennan-  
+concentrate6e-student-resources/brennan-concentrate6e-diagnostic-test>
+Find This Title
+In the OUP print catalogue <https://global.oup.com/academic/product/9780198925231>

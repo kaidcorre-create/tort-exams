@@ -1,0 +1,354 @@
+LAW OF TORT
+Omissions (1)
+LAW OF TORT
+Topics outline
+1. Acts vs omissions
+2. Exceptions to the exclusionary rule
+3. The general approach for public authorities
+4. The development of the modern approach for public 
+authorities
+5. Case studies
+LAW OF TORT
+1. Acts vs Omissions
+LAW OF TORT
+Acts v omissions
+“the distinction between acts and omissions is [not] meaningless or 
+illogical. One must have regard to the purpose of the distinction as it is 
+used in the law of negligence, which is to distinguish between regulating 
+the way in which an activity may be conducted and imposing a duty to act 
+upon a person who is not carrying on any relevant activity.” (Lord 
+Hoﬀmann, p.945)
+“The distinction between liability for acts and liability for omissions is … 
+not free from controversy. In some cases the distinction is not clear cut. The 
+categorisation may depend upon how broadly one looks when deciding 
+whether the omission is a 'pure' omission or is part of a larger course of 
+activity set in motion by the defendant.” (Lord Nicholls, p.930)
+(Stovin v Wise [1996] AC 923)
+LAW OF TORT
+Example of acts v omissions
+Rushbond Plc v JS Design Partnership LLP [2021] EWCA 
+Civ 1889
+D, an architect, visited C’s building and left door unlocked 
+and alarm deactivated 
+Burglar got in and started ﬁre
+High Court: this was an omission case
+Court of Appeal: this was an act case
+LAW OF TORT
+The exclusionary rule
+“under our law two persons can stand aside and watch a third 
+jump to his death: there is no legal duty to rescue.” (Schiemann 
+LJ, Vellino v CC of Greater Machester [2001] EWCA Civ 1249, 
+[13])
+“The very parable of the good Samaritan…illustrates, in the 
+conduct of the priest and of the Levite who passed by on the 
+other side, an omission which was likely to have, as its 
+reasonable and probable consequence, damage to the health of 
+the victim of the thieves but for which the priest and the Levite 
+would have incurred no civil liability in English law.” (Lord 
+Diplock, Home Oﬃce v Dorset Yacht Co Ltd, p.1177)
+LAW OF TORT
+Justiﬁcation for the 
+exclusionary rule
+“One can put the matter in political, moral or economic terms. In political terms it is less of an 
+invasion of an individual's freedom for the law to require him to consider the safety of others in 
+his actions than to impose upon him a duty to rescue or protect. A moral version of this point 
+may be called the “why pick on me?” argument. A duty to prevent harm to others or to render 
+assistance to a person in danger or distress may apply to a large and indeterminate class of 
+people who happen to be able to do something. Why should one be held liable rather than 
+another? In economic terms, the eﬃcient allocation of resources usually requires an activity 
+should bear its own costs. If it beneﬁts from being able to impose some of its costs on other 
+people (what economists call “externalities”,) the market is distorted because the activity 
+appears cheaper than it really is. So liability to pay compensation for loss caused by negligent 
+conduct acts as a deterrent against increasing the cost of the activity to the community and 
+reduces externalities. But there is no similar justiﬁcation for requiring a person who is not 
+doing anything to spend money on behalf of someone else.”
+(Lord Hoﬀmann, Stovin v Wise, p.943-944)
+LAW OF TORT
+Justiﬁcation for the 
+exclusionary rule
+1. Why pick on me?
+• Strong where D is just one of a large class of people who could have helped C, but C 
+chooses to sue D
+• Weaker where D is the only person who can help C
+2. Freedom/personal autonomy
+• Forcing someone to act is much more intrusive than forcing them not to act
+3. Legal certainty
+• If there were duties to rescue, we would get into very diﬃcult questions about how 
+serious and imminent that danger needs to be for a duty to be to be imposed
+• Current law is relatively simple – no duty for omissions outside special circumstances
+LAW OF TORT
+Justiﬁcation for the 
+exclusionary rule
+4. Value of altruism
+• It is valuable for people to choose whether to help others in need
+• If the law forced people to help others, we would lose the value of making the purely 
+moral choice
+5. Absence of a right
+• Arguably no moral obligation to help others – helping others is ‘supererogatory’ not 
+obligatory
+• N.b. this is a broadly ‘Kantian’ position – utilitarians might disagree with this
+6. Individual responsibility
+• In a case where a TP or C themselves is responsible for the situation, it would erode 
+individual responsibility to make a bystander liable
+LAW OF TORT
+Omissions: third parties 
+and public bodies
+Same basic idea as all omissions cases
+Best treated as applications of the general rule about 
+omissions, rather than as their own special categories
+No special rules apply to cases involving third 
+parties/public bodies
+However, in a problem question, it is still best to use the 
+authorities which are most speciﬁc to the situation, rather 
+than only using general omissions cases
+LAW OF TORT
+2. Exceptions to The 
+Exclusionary Rule
+LAW OF TORT
+The exceptions
+“In the tort of negligence, a person A is not under a duty to take care to prevent 
+harm occurring to person B through a source of danger not created by A unless: 
+A.
+A has assumed a responsibility to protect B from that danger, 
+B.
+A has done something which prevents another from protecting B from that 
+danger, 
+C.
+A has a special level of control over that source of danger, or 
+D.
+A’s status creates an obligation to protect B from that danger.”
+(Tofaris and Steel, ‘Negligence Liability for Omissions and the Police’ – aﬃrmed 
+in Robinson [34] and N v Poole [76])
+LAW OF TORT
+Other ways of 
+categorising exceptions
+(1) creation of the risk, (2) special relationship, (3) 
+occupier’s liability, (4) assumption of responsibility (Lord 
+Scott, Mitchell v Glasgow County Council [2009] UKHL 11, 
+[40])
+(1) control, (2) assumption of responsibility, (3) creation (or 
+adoption) of risks (H&R, p.85)
+(1) special relationship between D and C, (2) special 
+relationship between D and TP, (3) creation of source of 
+danger, (4) failure to abate known danger (Lord Goﬀ, Smith 
+v Littlewoods)
+LAW OF TORT
+Creation of risk: treating 
+omissions as acts
+E.g. a driver’s failure to break will be treated as an act
+E.g. a motorist who has to leave his vehicle must warn others
+“One must have regard to the purpose of the distinction as it is used in the 
+law of negligence, which is to distinguish between 
+[i] regulating the way in which an activity may be conducted and 
+[ii] imposing a duty to act upon a person who is not carrying on 
+any relevant activity.” 
+(Lord Hoﬀmann, Stovin v Wise, p.945)
+LAW OF TORT
+Creation of risk: treating 
+omissions as acts
+Dorset Yacht Co Ltd v Home Oﬃce [1970] AC 1004
+Prison oﬃcers brought young oﬀenders to an island and then left them 
+unsupervised.
+Reasonably foreseeable that they would attempt to escape and cause 
+damage to property.
+“All members of the House plainly did not regard the [Dorset Yacht] 
+case as one in which the alleged breach of duty was merely an 
+omission. … The negligence was caused by something which [D] did, 
+namely to use their statutory powers of custody to bring the trainees 
+onto the island, where they constituted a foreseeable risk to boat 
+owners, and then take no care to prevent them escaping in the night.” 
+(Lord Hoﬀmann, Stovin v Wise, p.948)
+LAW OF TORT
+Creation of risk: treating 
+omissions as acts
+Haynes v Harwood [1935] 1 KB 146
+D left horses untethered on a busy street
+They bolted when kids threw stones at them
+C was injured
+Held: D was liable as he had created the risk
+LAW OF TORT
+Creation of risk: treating 
+omissions as acts
+“Dorset Yacht and Haynes v Harwood are examples of cases 
+where [D] acted in such a way as to create a risk of injury to 
+others: in other words, they are not, on analysis, ‘omission’ 
+cases at all, but cases where [D] undertook a positive activity 
+which carried the risk of causing damage to others.” 
+(Lord Reed, in Mitchell v Glasgow CC [2008] SC 351, [97])
+LAW OF TORT
+Creation of risk: treating 
+omissions as acts
+Topp v London Country Bus [1993] 1 WLR 976
+D left bus with keys in ignition
+TP stole bus and killed C
+Held: D not liable
+LAW OF TORT
+A. Assumption of 
+responsibility to C
+“The assumption of responsibility is an undertaking that 
+reasonable care will be taken, either express or more 
+commonly implied, usually from the reasonable 
+foreseeability of reliance on the exercise of such care. Thus … 
+a hospital undertakes to exercise reasonable care in the 
+medical treatment of its patients. The same is true, mutatis 
+mutandis, of an education authority accepting pupils into its 
+schools.” 
+(Lord Reed, N v Poole BC, [80])
+LAW OF TORT
+A. Assumption of 
+responsibility to C
+Barrett v MOD [1995] 1 WLR 1217
+Facts:
+C was an oﬃcer on a naval base
+He became very drunk, collapsed and was put to bed
+No one stayed watch over C
+C choked on his own vomit and died
+LAW OF TORT
+A. Assumption of 
+responsibility to C 
+Barrett v MOD [1995] 1 WLR 1217
+Held:
+“I would reverse the judge's ﬁnding that the defendant was under a duty to 
+take reasonable care to prevent the deceased from abusing alcohol to the 
+extent he did. Until he collapsed, I would hold that the deceased was in law 
+alone responsible for his condition. Thereafter, when the defendant assumed 
+responsibility for him, it accepts that the measures taken fell short of the 
+standard reasonably to be expected. It did not summon medical assistance and 
+its supervision of him was inadequate.” (Beldam LJ, p.1225)
+N.b. can also be understood as category B case – by taking him to bed, D cut C 
+oﬀ from sources of support which could have ensured he did not die during 
+the night 
+LAW OF TORT
+A. Assumption of 
+responsibility to C 
+Costello v CC of Northumbria [1999] 1 All ER 550
+Facts:
+C, a police oﬃcer attacked in cell. Fellow oﬃcers failed to come to her 
+aid.
+Held:
+Police oﬃcers assume a responsibility to one another to ‘watch each 
+other’s back’. 
+N.b. can also be understood as a category D case – because oﬃcers owe 
+a duty to one another in virtue of their status
+LAW OF TORT
+A. Assumption of 
+responsibility to C 
+Swinney v CC of Northumbria [1997] QB 464
+Facts:
+C was a police informant
+Documents including C’s name were stolen from a police car
+C was then threatened by the person they had informed on
+Held:
+D had assumed responsibility to ensure C’s identity was not revealed 
+unnecessarily
+LAW OF TORT
+A. Assumption of 
+responsibility to C 
+Cases where no assumption of responsibility
+Stovin v Wise
+Gorringe v Calderdale Metropolitan BC
+Michael v CC of S Wales Police
+N v Poole BC
+(We will look at all of these in the next lecture)
+LAW OF TORT
+B. Preventing another 
+from protecting C 
+Kent v Griﬃths [2001] QB 36
+Facts:
+
+C suﬀered an asthma attack.
+
+When C’s husband called ambulance, he was told that an ambulance was well on the way and should 
+arrive in seven or eight minutes. 
+
+It did not arrive for 40 minutes. 
+
+If C had been told that it would take the ambulance service 40 minutes to come, she would have driven 
+to hospital. 
+Held:
+
+D owed a duty to C, in party because D’s act prevented C’s husband from driving her to the hospital.
+LAW OF TORT
+B. Preventing another 
+from protecting C 
+Tindall v CC of Thames Valley Police [2024] UKSC 33
+Facts:
+T crashed because of some ice on the road, but was ﬁne.
+T was warning other motorists about the ice, but the police (D) arrived and took T away.
+Later, C crashed and died because of the ice.
+Held:
+The police did make matters worse.
+However, no liability because the police did not know that T had been warning other 
+motorists about the ice
+LAW OF TORT
+C. Control over source of 
+danger
+Yetkin v Mahmood [2010] EWCA Civ 776
+Facts:
+D, a highway authority, had planted various shrubs, bushes and plants on central 
+reservation. They failed to keep them trimmed.
+C stepped out from central reservation without waiting for the lights to change in 
+her favour. Her view of traﬃc was obscured by overgrown plants. C was hit by a 
+car.
+Held:
+“This highway authority owed a duty to all road users … to use reasonable care in 
+the manner in which it exercised its powers when it created and maintained the 
+crossing facility.” (Smith LJ, [33])
+LAW OF TORT
+C. Control over source of 
+danger
+Sumner v Colborne [2018] EWCA Civ 1006
+Facts:
+C was a cyclist hit by a car. 
+Visibility at the junction was severely restricted by the presence of vegetation on land next to the 
+highway, for which D, a county council, had responsibility.
+Held:
+“Although work of cutting back the vegetation was included … in the Council’s maintenance 
+operations, in no sense could the obstruction to visibility at the time of the accident be said to 
+have been the result of a positive act by the Council. The most that could be said against the 
+Council is that it failed to cut back the vegetation so as to prevent it from obstructing visibility at 
+the material time. … [I]t is clear … that such a failure does not give rise to a liability in 
+negligence; and that position is not aﬀected by the fact that the Council had carried out work of 
+maintenance on the vegetation in the past” (Richards J, [23])
+LAW OF TORT
+C. Control over source of 
+danger
+Reeves v Commissioner of Police of the Metropolis [2000] 1 AC 360 
+Facts:
+C’s partner was in police custody.
+A doctor had found him to be of sound mind, but he committed suicide.
+Held:
+The police have a duty of care to take reasonable steps to assess whether prisoners pose a 
+suicide risk. 
+D was 50% responsible for the suicide.
+N.b. can also be understood as a case in category B – by taking C into custody, the police cut 
+him oﬀ from sources of support which might have helped him overcome suicidal 
+tendencies.
+LAW OF TORT
+D. D’s status creates an 
+obligation to protect C 
+Gower v LB Bromley [1999] ELR 356
+“A headteacher and teachers have a duty to take such care of 
+pupils in their charge as a careful parent would have in like 
+circumstances, including a duty to take positive steps to 
+protect their well-being … The duty is to exercise the skill 
+and care of a reasonable headteacher and/or teachers, 
+applying the Bolam test …”
+(Auld LJ, [359])
+LAW OF TORT
+D. D’s status creates an 
+obligation to protect C 
+Occupiers’ Liability
+To be covered in the Lent Term
+Essentially, occupiers owe people on their property a duty 
+of care in respect of omissions
+LAW OF TORT
+Summary
+Diﬃcult to establish a DoC for a ‘pure’ omission
+Where D creates the dangerous situation, then there is not 
+a ‘pure’ omission
+In cases of a ‘pure’ omission, D will only owe C a DoC if 
+one of the four exceptions mentioned in N v Poole BC 
+applies
+The four exceptions often overlap and are not neatly 
+delineated

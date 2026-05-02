@@ -1,0 +1,312 @@
+LAW OF TORT
+Intentional Torts 
+(3)
+LAW OF TORT
+Topics outline
+1. Introduction to intentional torts
+2. Battery
+3. Assault
+4. False Imprisonment
+5. Defences
+6. The tort in Wilkinson v Downton
+7. The Protection from Harassment Act 1997
+LAW OF TORT
+6. The tort in Wilkinson v 
+Downton
+LAW OF TORT
+Wilkinson v Downton [1897] 
+EWHC 1
+Facts
+As a practical joke, D told C that her husband, who had been away on a 
+journey, had been involved in a terrible accident. 
+This caused C immense distress.
+Held
+“The defendant has … wilfully done an act calculated to cause 
+physical harm to the plaintiﬀ – that is to say, to infringe her legal right 
+to personal safety, and has in fact thereby caused physical harm to her. 
+That proposition without more appears to me to state a good cause of 
+action, there being no justiﬁcation alleged for the act.”
+LAW OF TORT
+O (A Child) v Rhodes [2015] 
+UKSC 32
+Facts:
+D, a celebrity, wanted to publish an autobiography 
+detailing sexual abuse he suﬀered as a child.
+D’s ex-wife worried that the publication of the book would 
+harm their son, C, who was psychologically vulnerable. 
+On C’s behalf, a claim was brought against D under the 
+tort in Wilkinson v Downton.
+The Court of Appeal granted C an injunction.
+LAW OF TORT
+O (A Child) v Rhodes [2015] 
+UKSC 32
+‘Wilful infringement of another’s right to personal safety’
+A. Conduct element: ‘words or conduct directed at the 
+claimant for which there is no justiﬁcation or excuse’
+B. Mental element: ‘an intention to cause at least severe 
+mental or emotional distress’
+C. Consequence element: ‘physical harm or recognised 
+psychiatric illness’
+LAW OF TORT
+A. Conduct element
+‘Words or conduct directed to the claimant for which there 
+is no justiﬁcation or excuse’
+The CoA had thought the book was ‘conduct directed to C’ 
+because the book was dedicated to him. The Supreme 
+Court disagreed: the book was directed to a wide 
+audience.
+CoA said there was no justiﬁcation. The Supreme Court 
+disagreed: D had a legitimate interest in telling his story, 
+and the public had an interest in hearing it. This was not 
+‘gratuitous’.
+LAW OF TORT
+B. Mental element 
+‘An intention to cause at least severe mental or emotional 
+distress’
+D must intend to cause severe distress.
+An intention to cause psychiatric illness is not necessary.
+Recklessness will not suﬃce for intention.
+Here, there was no intention to cause distress at all.
+LAW OF TORT
+C. Consequence Element
+‘Physical harm or recognised psychiatric illness’
+The majority thought that the tort was only complete 
+where a recognised psychiatric injury occurred. [88]
+Lord Neuberger thought that if the required intention was 
+just causing severe distress, this should be the required 
+consequence too – not recognised psychiatric injury. [119]
+LAW OF TORT
+O (A Child) v Rhodes [2015] 
+UKSC 32
+“the only proper conclusion is that there is every justiﬁcation for 
+the publication. A person who has suﬀered in the way that the 
+father has suﬀered, and has struggled to cope with the 
+consequences of his suﬀered in the way that he has struggled, has 
+the right to tell the world about it. And there is a corresponding 
+public interest in others being able to listen to his life story in all 
+its searing detail.” [76]
+“His writing contains dark descriptions of emotional hell, self-
+hatred and rage … The reader gains an insight into his pain but 
+also his resilience and achievements. To lighten the darkness 
+would reduce its eﬀect.” [78]
+LAW OF TORT
+7. The Protection from 
+Harassment Act 1997 
+LAW OF TORT
+PfHA 1997
+1.— Prohibition of harassment
+(1) A person must not pursue a course of conduct—
+(a) which amounts to harassment of another, and
+(b) which he knows or ought to know amounts to harassment of the other.
+…
+(2) For the purposes of this section … the person whose course of conduct is in 
+question ought to know that it amounts to or involves harassment of another if a 
+reasonable person in possession of the same information would think the course 
+of conduct amounted to or involved harassment of the other.
+LAW OF TORT
+PfHA 1997
+1.— Prohibition of harassment
+(3) Subsection (1) … does not apply to a course of conduct if the person 
+who pursued it shows—
+(a) that it was pursued for the purpose of preventing or detecting 
+crime,
+(b) that it was pursued under any enactment or rule of law or to 
+comply with any condition or requirement imposed by 
+any person 
+under any enactment, or
+(c) that in the particular circumstances the pursuit of the 
+course of conduct was reasonable.
+LAW OF TORT
+PfHA 1997
+3.— Civil remedy
+(1) An actual or apprehended breach of section 1(1) may be the 
+subject of a claim in civil proceedings by the person who is or 
+may be the victim of the course of conduct in question.
+(2) On such a claim, damages may be awarded for (among other 
+things) any anxiety caused by the harassment and any ﬁnancial 
+loss resulting from the harassment.
+LAW OF TORT
+PfHA 1997
+7.— Interpretation
+(2) References to harassing a person include alarming the 
+person or causing the person distress.
+(3) A “course of conduct” must involve … (a) … conduct on 
+at least two occasions …
+LAW OF TORT
+An objective standard
+DPP v Hardy [2008] EWHC 2874 (Admin)
+Facts
+D called a business owner, A, requesting to be put through to B. A refused to 
+put the call through to B.
+D thought this was unreasonable. So D kept calling back for over 4 hours, 
+demanding to be put through to B.
+Held
+S.1(2) says a course of conduct is harassment “if a reasonable person” would 
+think it was.
+So, D’s belief that he was acting reasonably was no defence – the test is 
+objective not subjective.
+LAW OF TORT
+Harassment of ‘another’
+Levi v Bates [2015] EWCA Civ 206
+Facts
+C2 sued D for publishing a number of articles about C1, her husband. 
+Held
+The Act did not require D to target C speciﬁcally, although someone does have to be 
+‘targeted’. 
+C must be the ‘victim’ of the harassment (s.3(1)) and it must be foreseeable that C will 
+be harassed by the conduct (s.1(1)(b)).
+Here, C1 was the ‘target’ – but it C2 was still a victim, and it was foreseeable she would 
+be harassed by the conduct too.
+LAW OF TORT
+Harassment v annoyance
+Majrowski v Guy's and St Thomas's NHS Trust [2006] UKHL 34
+“[C]ourts will have in mind that irritations, annoyances, even a 
+measure of upset, arise at times in everybody's day-to-day 
+dealings with other people. Courts are well able to recognise 
+the boundary between conduct which is unattractive, even 
+unreasonable, and conduct which is oppressive and 
+unacceptable.” (Lord Nicholls, [30])
+“A great deal is left to the wisdom of the courts to draw 
+sensible lines between the ordinary banter and badinage of life 
+and genuinely oﬀensive and unacceptable behaviour” (Lady 
+Hale, [66]) 
+LAW OF TORT
+Harassment v annoyance
+Ferguson v British Gas [2009] EWCA Civ 46
+Facts
+C moved gas suppliers. 
+For ﬁve months, D sent (via automatically generated mail) a 
+stream of threatening letters.
+“It is one of the glories of this country that every now and then 
+one of its citizens is prepared to take a stand against the big 
+battalions of government or industry. Such a person is Lisa 
+Ferguson …” (Jacob LJ, [1])
+LAW OF TORT
+Harassment v annoyance
+Ferguson v British Gas [2009] EWCA Civ 46
+ Even for a civil claim under section 3 PfHA, the conduct 
+must be “of such gravity as to justify the sanctions of the 
+criminal law” (see Sunderland v Conn [2008] EWCA Civ 
+148, Gaje LJ, [12])
+“the only real diﬀerence between the crime of s.2 and the 
+tort of s.3 is standard of proof” (Jacob LJ, [17])
+LAW OF TORT
+Harassment v annoyance
+Ferguson v British Gas [2009] EWCA Civ 46
+“I think, at the very least, that it is strongly arguable that 
+[British Gas’ conduct does satisfy the test]. I ask myself 
+whether … the persistent and continued conduct here 
+pleaded was on the wrong side of the line, as amounting to 
+‘oppressive and unacceptable conduct’. I am bound to say 
+that I think they could. … What British Gas was threatening 
+was undoubtedly serious.” 
+(Jacob LJ, [19-20])
+LAW OF TORT
+Harassment v annoyance
+Ferguson v British Gas [2009] EWCA Civ 46
+“[A] real person is unlikely to take comfort from knowing that 
+the claims and threats are unjustiﬁed or that they were sent by a 
+computer system: that will not necessarily allay the fear that the 
+threats will not be carried out. How is a consumer such as Ms 
+Ferguson to know whether or not, for instance, a threat such as 
+‘we will tell a credit reference agency in the next 10 days that you 
+have not paid’ … will not be carried out by the same computer 
+system which sent the unjustiﬁed letter and all its predecessor 
+bills and threats?”
+(Jacob LJ, [19-22])
+LAW OF TORT
+Harassment v annoyance
+“To be sure, a vague test has its advantages. It avoids under-
+inclusion. It allows judges to take into account unusual 
+circumstances and to adjust the standard to diﬀerent contexts. But 
+that is an argument against clarity in all tests. It is an argument for 
+an unpredictable legal system. To obey the law, we need to know 
+what it is. This is all-the-more true for prohibitions. If the state tells 
+us not to do something, on pain of punishment, we are at the very 
+least entitled to know what we cannot do. As regards harassment, I 
+am not sure we do.”
+(L Schmilovits, ‘Harassment: an elephant in the corner’ (2019) 135 
+LQR 27)
+LAW OF TORT
+Harassment and freedom of 
+expression
+Sube v News Group Newspapers Ltd [2020] EWHC 1125
+Facts
+‘Jobless dad whines about P15k-a-year council home—and 
+turns down ﬁve bedroom house’
+Held
+Not harassment 
+“nothing short of conscious or negligent abuse of media 
+freedom will justify a ﬁnding of harassment”
+LAW OF TORT
+‘Course of conduct’
+S.7(3) says “a ‘course of conduct’ must involve conduct on 
+at least two occasions”
+A single publication online can amount to a ‘course of 
+conduct’ where “such publications will inevitably come to 
+[C’s] attention on more than one occasion and on each 
+occasion cause them alarm and distress” (Law 
+Society v Kordowski [2011] EWHC 3185, [61])
+LAW OF TORT
+‘Course of conduct’
+Iqbal v Dean Manson Solicitors [2011] EWCA Civ 123 
+Facts
+D sent three letters to C, a solicitor, questioning C’s ability 
+and the propriety of C acting for a client.
+Held
+Even though one of the letters taken alone might not 
+amount to harassment, taken together they did.
+LAW OF TORT
+‘Course of conduct’
+Iqbal v Dean Manson Solicitors [2011] EWCA Civ 123 
+“The course of conduct cannot be reduced to or 
+deconstructed into the individual acts, taken solely one by 
+one. So it is with a course of communications such as letters. 
+A ﬁrst letter, by itself, may appear innocent and may even 
+cause no alarm, or at most a slight unease. However, in the 
+light of subsequent letters, that ﬁrst letter may be seen as part 
+of a campaign of harassment.”
+(Rix LJ, [45])
+LAW OF TORT
+Defences
+Hayes v Willoughby [2013] UKSC 17
+Facts
+D carried out an extended campaign to convince 
+authorities to take action against C for fraud and 
+embezzlement.
+An investigation found no basis in the allegations, however 
+D continued with his campaign.
+LAW OF TORT
+Defences
+Hayes v Willoughby [2013] UKSC 17
+Held
+Section 1(3)(a) provides a defence where the course of 
+conduct is “pursued for the purpose of preventing or 
+detecting crime”.
+But that conduct must be rational.
+Once the investigation found no basis for the allegations, D’s 
+campaign against C became irrational.
+D was liable for harassment.
+LAW OF TORT
+Defences
+Hayes v Willoughby [2013] UKSC 17 (per Lord Sumption)
+The test under s.1(3)(a) is not ‘objective’ reasonableness: if it 
+were, “it would have been unnecessary because it would 
+have been subsumed in the general defence of 
+reasonableness provided by section 1(3)(c).” [11]
+Nor is the test wholly subjective: “A large proportion [of 
+harassers are] obsessives and cranks, who will commonly 
+believe themselves to be entitled to act as they do” [12]
+The test is party subjective and partly objective: rationality.
+LAW OF TORT
+Defences
+Hayes v Willoughby [2013] UKSC 17 (per Lord Sumption)
+“after June 2007 Mr Willoughby’s vendetta against Mr Hayes 
+was more than objectively unreasonable. It was irrational. 
+His persistence was obsessive. He was no longer guided by 
+any objective assessment of the evidence of Mr Hayes’s 
+supposed criminality and there was no longer any logical 
+connection between his supposed purpose and his acts. …He 
+was proceeding with his campaign for its own sake, 
+regardless of the prospect of detecting any crimes of Mr 
+Hayes.” [16]

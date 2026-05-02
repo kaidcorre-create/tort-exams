@@ -1,0 +1,1979 @@
+9. Causation and remoteness of damage
+Page 1 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Tort Law (9th edn)
+Kirsty Horsey and Erika Rackley
+9. Causation and remoteness of damage
+Kirsty Horsey and Erika Rackley
+https://doi.org/10.1093/he/9780198925231.003.0009
+Published in print: 15 August 2025
+Published online: August 2025
+Abstract
+This chapter discusses the final ‘hurdle’ for the claimant to overcome in the tort of negligence—causation. The claimant must 
+prove that their injuries were caused by the defendant’s actions in both fact and law. To establish cause in fact, the claimant 
+must show, on the balance of probabilities, that the defendant’s breach caused their harm. Tests for cause in law encompass a 
+remoteness test (which involves establishing whether the damage that occurred was foreseeable to the defendant at the time 
+of the negligence). It is the type of harm that must be foreseeable, not its extent. The last part of the test is to ask whether any 
+intervening acts (acts that occurred after the defendant’s breach) broke the chain of causation. If so, the defendant will not be 
+liable.
+Keywords: 
+tort law, causation, negligence, injuries, liability, intervening act, material increase in risk, material contribution 
+to harm
+Problem question
+Read this problem question carefully and keep it in mind while you are working through the 
+chapter that follows. At the end of the chapter you will be able to apply what you have learnt to the 
+problem question and advise the relevant parties.
+Stefaan and Gavin spend the evening drinking in the pub. Stefaan offers Gavin a lift home in his car, 
+assuring Gavin that this will be fine as he is ‘probably only just over the limit’. Driving home, Stefaan 
+swerves to avoid a fox and crashes the car. The paramedics who arrive at the scene find that Gavin has 
+broken his arm but otherwise only has minor cuts and bruises. Gavin is taken to hospital to be 
+checked by a doctor.
+p. 247
+9. Causation and remoteness of damage
+Page 2 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+→
+→
+→
+→
+At the hospital Gavin is seen by Cheluchi, the doctor on duty. Cheluchi disagrees with the paramedics’ 
+opinion and, deciding Gavin’s arm is not broken but only sprained, puts it in a sling, without setting it 
+in a cast. As she was so busy that evening, she decided not to bother sending him for an X-ray first. 
+Gavin returns to hospital the following month with pain in his arm. It transpires that his arm was in 
+fact broken and, because it was not set in the proper cast, the bones have fused together wrongly, 
+resulting in a permanent disability. An expert witness says that there was a chance this might have 
+happened anyway, even if Cheluchi had not been negligent. Gavin has to have an operation to try and 
+re-set the bones, but this will not improve his arm to the condition it was in before the accident.
+A week later Gavin is knocked down by a speeding motorist who fails to stop and cannot be traced. His 
+right arm is so badly injured that it must be amputated.
+Advise Gavin in relation to the claims in negligence he may bring.
+9.1  Introduction
+Consider the following examples:
+Peter goes to hospital complaining of stomach pains after eating some badly prepared fish. A doctor 
+negligently examines him and sends him home. Later, he dies from severe food poisoning. Medical 
+evidence showed that there was nothing the doctor could have done to save him.
+David negligently causes a collision on a motorway. Babatunde, who was driving one of the other 
+vehicles, was dazed by the collision and went to sit on the hard shoulder. A police car, rushing to the scene 
+of the accident, hit and seriously injured Babatunde.
+Sriya had pains in her chest and went to hospital. A doctor gave her a cursory examination and told her 
+to stay in the waiting room, where she later had a heart attack and died. Medical evidence suggested that 
+even if the doctor had treated her properly, she would still have had only a 30 per cent chance of living.
+Bern contracts lung cancer as a result of exposure to asbestos. Medical evidence has proved that the 
+type of cancer he has is caused by a single asbestos fibre entering the lung. Two of Bern’s previous 
+employers negligently exposed him to asbestos.
+Once a duty of care and breach are established, claimants must also show that the defendant’s breach caused 
+their harm. Causation is central to any negligence claim, as it links the defendant’s breach to the claimant’s 
+harm. The purpose of establishing causation is to allocate responsibility for (the costs of) harm and, to some 
+extent, risks. Causation has two aspects: ‘factual’ and ‘legal’. The first of these is analysed almost 
+mathematically, using a balance of probabilities test (though some exceptions exist, as we will see later) to 
+p. 248
+9. Causation and remoteness of damage
+Page 3 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(1)
+(2)
+(1)
+(2)
+(3)
+(1)
+(2)
+(3)
+(1)
+(2)
+(3)
+establish whether the defendant in fact caused the harm. The ‘legal’ aspect of causation (including a test of 
+‘remoteness’) simply asks whether any of the factual causes should be excluded from being seen as a cause in 
+law. If either causation test ‘fails’, the defendant escapes liability.
+Although we use causal language in everyday speech, our meaning is not always clear. The answer to a 
+question about the cause of something often depends on who we ask, or why we ask the question in the first 
+place—different people see causes in different ways, particularly when cause is associated with responsibility. 
+Any given event has numerous (often infinite) causes—that is, factors without which it could not have 
+happened. The same is true of a tort or harm. The problem of multiple potential causes runs through 
+causation, leaving the courts having to pin down or ‘find’ the ‘real’ cause from one of several factors. In so 
+doing, two questions must be addressed (see Table 9.1).
+What are the prerequisite conditions for the harm (factual causation)?
+What is the ‘relevant’ or ‘real’ cause of it (legal causation)?1
+Table 9.1 Considering factual and legal causation in negligence
+‘Cause in fact’
+‘Cause in law’
+The 
+questions 
+being 
+asked
+What happened factually in the situation as 
+it occurred?
+On the balance of probabilities, did the 
+breach cause the harm alleged (‘but for’ the 
+negligence, would the harm have been 
+suffered)?
+If not, have the courts created an exception 
+to the usual rule?
+Even if the breach was the cause in fact of 
+the harm suffered, what is the legal 
+interpretation of the facts—was the harm 
+too remote?
+Are there any policy or other reasons to 
+justify denying liability?
+Was there a break in the chain of causation?
+↵
+In law as in life, it is not always possible to pinpoint the single factual cause of a harm. A road accident, 
+for example, may have many ‘real’ causes—two drivers may each have been going too fast on a winding 
+country lane in the fog, in which case there are at least three potential causal factors—the speed of each 
+driver and the weather conditions.
+Pause for reflection
+A stolen and abandoned car is set on fire. Consider this list of potential causes:
+Adam, who stole the car, didn’t tell his parents where he was going.
+Adam’s parents did not check where he was going when he left the house earlier that evening.
+The area lacks recreational facilities for teenagers.
+1
+p. 249
+9. Causation and remoteness of damage
+Page 4 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+(10)
+(11)
+(1)
+(2)
+The police have failed to catch car thieves in the area.
+Adam and the police were involved in a chase; Adam abandoned the car so that he could get 
+away.
+The police failed to notify the Highway Authority that the car was abandoned.
+No one removed the car from the side of the road.
+Bhavna, who set the car on fire, is only 12, but was out unsupervised at night.
+Bhavna’s parents don’t know that she has left the house.
+Bhavna is sold cigarettes and matches at a local newsagent.
+Bhavna thinks it will be fun to throw lit matches in the abandoned car.
+Which of these is/are the cause/causes of the harm?
+Don’t worry if you don’t know the ‘legal’ answer at this stage. The purpose of this exercise is for you 
+to think quickly about which of these facts, if any, you would consider to be causes (and which you 
+would not). Thinking through the issues in this way will help you prepare for the material to follow.
+As this example helps to illustrate, the process of determining factual causation comes down to one of 
+elimination rather than inclusion. How do we go about reducing the list of possible causes? Put another way, 
+are some causes more likely to be legally relevant than others? The answer, it seems, is yes. HLA Hart and AH 
+Honoré suggest that we are more likely to find a 
+↵
+cause in something out of the ordinary or unusual and 
+that where both natural factors and human actions are involved, we will tend to focus on the human actions.2 
+Similarly, positive actions, rather than omissions, are more likely to be considered causative and, when 
+deciding between human actions, we are more likely to focus on voluntary rather than involuntary actions 
+and those that we deem unreasonable rather than reasonable.
+In tort law, the question is more sharply focused than simply asking ‘what caused the injury or harm?’ After 
+all, if this were the question, then any or all the potential reasons given in the list in the previous box could be 
+said to be a ‘cause’ of the car burning: the car would not have burnt without—or ‘but for’—each of the listed 
+facts. Rather, when seeking to establish a claim in negligence, the question is: ‘Did the defendant’s negligence 
+(i.e. their breach of duty) cause this harm?’ Or, more precisely, ‘Can we say that the act or omission that we 
+have identified as negligent is a “real” cause (it may be one of many) of the harm?’ The law approaches this 
+wider question in two stages:
+was the defendant’s action/inaction a necessary pre-condition for the harm to occur and, if so;
+is it therefore the cause of the harm?
+These two stages are known as factual causation (or ‘cause in fact’) and legal causation (or ‘cause in law’), 
+respectively, and, as each contains different principles and tests, will be dealt with separately in this chapter.
+p. 250
+2 
+9. Causation and remoteness of damage
+Page 5 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+9.2  Factual causation—The ‘but for’ test
+In determining liability for a breach of duty we must first decide whether the defendant’s wrong in fact 
+caused the claimant’s harm. At first glance, this may seem to be a question of common sense. If we ask 
+whether the harm was a consequence of the defendant’s breach then we can reach a yes or no answer quite 
+easily. However, in law, the question of causation is actually more difficult, in part due to the fact that there 
+are various legal meanings of the word ‘cause’ which differ from its ordinary meanings.
+9.2.1  Explaining the test
+Sometimes, liability is established simply by showing that the defendant’s actions caused the harm. This is 
+how strict liability systems work. In fault-based systems like negligence, however, this is not enough. We 
+must establish that the defendant’s breach of duty, as opposed to simply their actions, caused the harm. In 
+other words, the harm suffered by the claimant must be caused by the fact that the defendant’s actions fell 
+below the appropriate standard of care for liability to arise.3
+The cause in fact question asks whether the defendant’s negligent action or omission was a necessary 
+condition for the harm to occur.4 Put differently, if the harm would have occurred 
+↵
+without the 
+defendant’s carelessness, there is no cause in fact. This is often expressed in the form of a ‘but for’ test: we ask 
+the question ‘But for the defendant’s carelessness (breach), would the claimant have escaped harm?’ If the 
+answer is ‘yes’, the cause in fact is identified: no harm would have come to the claimant without the 
+defendant’s carelessness.
+Almost all answers to the factual causation question, however, retain an element of uncertainty. It is probably 
+fair to say that we can never be entirely sure how events would have turned out—for example, whether a 
+particular loss would have been suffered—if the circumstances had been different—for instance, if the 
+defendant had exercised reasonable care. Confusingly, we are asking what would have happened in an 
+alternative situation, and yet how can we know, since, by definition, this is not what did happen? We deal with 
+this through the ‘burden of proof’. Unlike criminal law, where the burden of proof must be established 
+beyond reasonable doubt, in tort law the claimant must only establish that a breach was, on the balance of 
+probabilities, a necessary condition for the harm occurring. This is a lower standard. To succeed, the claimant 
+need only show that it was more likely than not that the defendant’s breach caused their harm. If they cannot 
+establish that the defendant’s negligence made the likely difference between something happening and not 
+happening, then it cannot be a cause of their injuries.
+The classic example of the ‘but for’ test is found in Barnett v Chelsea and Kensington Hospital Management 
+Committee [1969].
+3
+4
+p. 251
+9. Causation and remoteness of damage
+Page 6 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Barnett v Chelsea and Kensington Hospital Management Committee 
+[1969] 1 QB 428 (QBD)
+A doctor failed to properly examine a man who presented himself at the hospital’s emergency 
+department. It transpired that the man was suffering from arsenic poisoning from which he 
+subsequently died. The doctor admitted negligence but said that he had not caused the man’s death. 
+Even if he had have acted properly, the man would have died anyway as it was too late to do anything to 
+save him. It could not be said that ‘but for’ the doctor’s negligence the man would have survived.
+The court held that as the doctor’s negligence was not a necessary condition for the man’s death, he 
+could not be held liable for it.5
+In Nyang v G4S Care & Justice Services Ltd and others [2013], a similar issue arose. Mr Nyang, detained at an 
+immigration removal centre pending deportation to Gambia, tried to kill himself by running head-first into a 
+concrete wall at speed. He broke his spine and rendered himself tetraplegic. Some of the actions (and 
+inactions) of the detention and medical staff at the centre, particularly in respect of failures to determine his 
+psychological condition, were found to be breaches of duty. However, Lewis J determined that ‘but for’ the 
+breaches the claimant would have suffered the same harm.6 For similar reasoning in different contexts, 
+↵
+see Chubb Fire Ltd v Vicar of Spalding [2010] (property damage) and Kirk v Culina Group Ltd [2024] (death 
+of pedestrian hit by negligently driven heavy goods vehicle).
+9.2.2  Problems with the test
+Establishing or disproving cause in fact is not always as easy as in Barnett.7 We cannot always imagine what 
+would have happened had the defendant not been negligent. Two situations make dealing with factual 
+causation particularly complicated. Here, various policy reasons have led to judicially devised exceptions to 
+the usual ‘but for’ test.
+The first problem is situations where there are multiple potential causes of the harm and a lack of, for 
+example, scientific or forensic knowledge making it too difficult (or even impossible) to establish what would 
+have happened in the absence of negligence. Complex medical situations or accidents involving multiple 
+vehicles are obvious examples of situations where this might lead to an unclear outcome. The second 
+problem, perhaps more contentiously, covers situations where we can work out the factual cause, but the 
+result appears unjust and we therefore want to reject it.
+This, of course, prompts questions as to exactly when such exceptions to the ‘but for’ test of factual causation 
+are to be recognised. Answers can be found in careful analysis of the difficult and often seemingly 
+contradictory case law and it is to this that we now turn.
+5
+6
+p. 252
+7
+9. Causation and remoteness of damage
+Page 7 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+9.2.2.1  Multiple potential causes
+Where there is more than one potential cause of harm, it becomes hard to establish, in the absence of clear 
+evidence or proof, that any of the potential causes is more likely than any other to be the cause. For example, 
+where there are two competing potential causes, each seeming equally plausible, each will only be 50 per cent 
+likely to be the cause of the harm suffered, thus neither would satisfy the ‘but for’ test. Where there are three 
+competing potential causes, each will only be 33.3 per cent likely to be the cause, and so on. A good example is 
+found in Wilsher v Essex Area Health Authority [1988].
+Wilsher v Essex Area Health Authority [1988] 1 AC 1074 (HL)
+Martin Wilsher was born prematurely and cared for in the special care baby unit of a hospital. A doctor 
+was negligent in monitoring his blood. Consequently, Wilsher was, on two separate occasions, given 
+too much oxygen. He developed retrolental fibroplasia (RLF)—an incurable retinal condition—which 
+left him blind in one eye and with seriously impaired vision in the other. Too much oxygen in the 
+blood is a known possible cause of RLF. The defence contended that there were several other 
+‘innocent’ potential causes, including his premature birth (RLF is a known risk to premature babies). 
+In total, there were five competing causes, each equally probable.
+Wilsher’s claim against the negligent doctor succeeded in the lower court and by a majority in the 
+Court of Appeal. However, the House of Lords was not persuaded that, on the balance of probabilities, 
+the doctor’s negligence and not any other factor had caused the harm.
+↵
+From Wilsher, even where there is a clearly negligent act that common sense tells us potentially caused 
+someone’s harm, if there are alternative possible causes of that harm, especially ‘natural’ ones, we cannot 
+establish that ‘but for’ the negligent act, the claimant would not have suffered harm. Consequently, the 
+defendant will escape liability.8 The practical problem in multiple potential cause cases is always whether 
+enough evidence can be gathered to ‘prove’ that the defendant’s negligence caused the harm. Variants of the 
+‘alternatives’ issue arise all the time, but this does not always mean that the claimant will be unsuccessful, as 
+the courts have sometimes deviated from the ‘but for’ test in such situations, as we illustrate next.
+Material contribution to harm
+In Bonnington Castings Ltd v Wardlaw [1956] (predating Wilsher), a factory employee contracted 
+pneumoconiosis, a lung condition, from the inhalation of silica dust. He sued his employer in negligence. 
+Some dust inhalation was an inevitable consequence of the work being done (this dust was therefore deemed 
+to be ‘innocent’ dust). However, there was a higher level of dust in the air than there should have been, due to 
+the employer’s negligence in not adequately ventilating the factory (the law lords deemed this ‘guilty’ dust). 
+The question was whether the ‘guilty’ dust made any difference to the claimant’s chance of contracting the 
+disease.
+p. 253
+8
+9. Causation and remoteness of damage
+Page 8 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Crucially, medical evidence established that pneumoconiosis was a progressive, or cumulative disease— 
+caused by the build-up of silica dust in the lungs. It could not be established exactly at what point the disease 
+occurred. As the question was not how much dust was in the lungs or how long it had been there, it could not 
+be established, on the balance of probabilities, whether the ‘guilty’ dust was the cause. That is, it could not be 
+said that ‘but for’ the defendant’s negligence in allowing the ‘guilty’ dust into the air, the defendant would not 
+have suffered the harm.9 However, the House of Lords found that because cumulatively the ‘innocent’ and 
+‘guilty’ dust were more likely to cause harm, it was enough to show that the defendant’s negligence made a 
+material (‘more than negligible’10) contribution to the condition. Effectively, when the ‘but for’ test produced 
+—according to the law lords—unsatisfactory results, they manufactured a way around it.11
+Types of injury: divisible or indivisible?
+The distinction between divisible and indivisible injuries is based on the idea that in some conditions/ 
+illnesses it is known that greater exposure to the harmful agent in question will likely worsen the 
+condition (a ‘divisible’ injury); whereas in others it cannot be shown that greater exposure will make 
+the condition worse (an ‘indivisible’ injury).12
+An example of a ‘divisible’ injury would be pneumoconiosis, as in Bonnington: the more dust the 
+claimant inhaled, the worse their lungs got. An example often used for ‘indivisible’ injuries is cancer. 
+Cancer either does or does not develop, and does not become more severe if someone is exposed to a 
+greater amount of any agent that caused it.
+Following Bonnington, where a disease is contracted because of cumulative exposure to toxins (divisible), it 
+need only be proved that the negligent part of that exposure would likely materially contribute to the 
+condition, and not that the negligent exposure was the probable cause of the condition. In such cases, the 
+claimant will receive full compensation. The effect of this diversion from the ‘but for’ test was somewhat 
+diluted by Holtby v Brigham & Cowan (Hull) Ltd [2000].13 The claimant was negligently exposed to asbestos by 
+several employers over a period of years, contracting asbestosis (a cumulative condition) as a result. The 
+Court of Appeal ruled that claimants in such situations may only recover damages proportionate to each 
+defendant’s negligence, based on the extent of exposure (time plus intensity) under each negligent 
+employer.14 The decision can be viewed as significant because the asbestosis was treated as divisible, but the 
+material contribution was made by multiple tortfeasors (unlike in Bonnington).
+Pause for reflection
+Why do you think the Court of Appeal treated asbestosis as divisible in Holtby? What would have been 
+the position regarding damages had they not done so? Was the court looking for the ‘fairest’ outcome 
+for both the claimant (who would receive full compensation) and the defendants (so all of them 
+9
+10
+11
+p. 254
+12
+13
+14
+9. Causation and remoteness of damage
+Page 9 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+became liable to pay at least something, but none would be liable for the full amount)? See the 
+judgment of Stuart-Smith LJ: ‘in my view the court must do the best it can to achieve justice, not only 
+to the claimant but the defendant, and among defendants’ (at [20]).
+↵
+On the other hand, consider the position of the claimant in this kind of divisible claim who 
+cannot locate one of his previous employers, or who finds that one of them has gone bankrupt. Does 
+the decision to award proportionate damages seem as fair then, particularly when compared with the 
+claimant’s position in Bonnington, or those where the harm is ‘indivisible’? See Carder v The University 
+of Exeter [2016], a case illustrating not only the potential perils of apportionment but also the ‘justice’ 
+that may or may not be done. Recognising the award eventually received by the claimant (just over 
+£1,500) was small, especially when compared to his litigation costs, Lord Dyson MR recommended 
+that similar future claims should be settled early (at [43]).
+Williams v The Bermuda Hospitals Board (Bermuda) [2016] UKPC 4 
+(PC)
+Mr Williams went to hospital with severe abdominal pain. The doctor who examined him ordered a 
+CT scan to determine whether he had appendicitis. There was a 4–5-hour delay in performing the 
+scan. Williams’s appendix ruptured and he developed sepsis, leading to myocardial ischemia (reduced 
+blood flow to the heart) and his needing life support. He could not prove that ‘but for’ the hospital’s 
+failure to provide adequate diagnosis and treatment, his condition would have been avoided—his 
+claim initially failed for this reason. On appeal, the court found that the negligent diagnosis and 
+subsequent treatment delay had materially contributed to the injury. Bermuda Hospitals Board 
+appealed to the Privy Council.
+Lord Toulson applied Bonnington, finding the ‘parallel with the present case … obvious’ (at [35]), that 
+there had been both ‘innocent’ (already beginning to occur before the scan) and ‘guilty’ (attributable 
+to the negligence) sepsis. Crucially, he found that the ischemia resulted from the effect of both. 
+Therefore, the hospital’s negligence had materially contributed to the harm.
+In Williams, the hospital board (with the NHS Litigation Authority intervening) pursued the appeal because it 
+wanted to see ‘orthodox legal principles’ restored in medical cases (see [3]). However, though non-binding 
+on domestic courts, the Privy Council’s judgment indicated that despite some ‘distaste’ for the idea after 
+Bailey, material contribution to harm can apply to medical cases even where the claim relates to an indivisible 
+injury.
+Some post-Williams cases added to the uncertainty in this area. It was applied in the High Court in John v 
+Central Manchester and Manchester Children’s University Hospitals NHS Foundation Trust [2016], in the context 
+of a brain injury suffered in part because of a fall, compounded by a double delay in diagnosis and treatment 
+p. 255
+9. Causation and remoteness of damage
+Page 10 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+at hospital. Later, in Davies v Frimley Health NHS Foundation Trust [2021] it was held that where an indivisible 
+injury is caused by a single tortfeasor, causation by material contribution is barred. This was approved in 
+Thorley v Sandwell & West Birmingham Hospitals NHS Trust [2021]. Soole J noted that although the Williams 
+decision (Privy Council) supports the indivisible injury/single tortfeasor idea, he was not bound by it, but he 
+was bound by the Court of Appeal decisions in Ministry of Defence v AB and others [2010] and Heneghan v 
+Manchester Dry Docks Ltd and others [2016], where such claims were refused. This lack of clarity, he said, 
+meant the law was ‘ripe’ for authoritative review (at [151]).
+That may now have occurred, in a recent case decided by the Court of Appeal.
+Michael Holmes v Poeton Holdings Ltd [2023] EWCA Civ 1377 (CA)
+Mr Holmes worked for Poeton Holdings for nearly 40 years before retiring for health reasons in 2020. 
+He was diagnosed with Parkinson’s disease, an indivisible disease, in 2014. Holmes claimed Poeton 
+Holdings negligently exposed him to unsafe levels of trichloroethylene—known to be harmful, 
+including by damaging the dopaminergic neurons—this being an accepted cause of Parkinson’s 
+disease—in the earlier part of his employment. In the County Court, HHJ Harrison found that both 
+breach and causation were established and, accordingly, that Poeton Holdings was liable for the full 
+extent of the Parkinson’s disease.
+Poeton Holdings appealed on the causation issue, submitting that the wrong legal test for establishing 
+causation in an indivisible disease had been applied, and that the judge failed to consider whether 
+Holmes would have developed Parkinson’s disease in any event, so the trichloroethylene exposure 
+made no difference. Further, they contended that the evidence showed only that trichloroethylene 
+increased the risk of contracting Parkinson’s disease; not that trichloroethylene exposure was capable 
+of causing Parkinson’s disease or that Holmes’s exposure had caused the disease.
+The Court of Appeal revisited the ‘material contribution’ test in the context of indivisible injury. 
+Having comprehensively reviewed the authorities, the court found that the material contribution test 
+can apply to cases of indivisible injury/disease but found that on the expert evidence in this case it 
+could not be shown that the defendant’s breach had materially contributed to the claimant developing 
+Parkinson’s disease. Stuart-Smith LJ noted the criticism that the reasoning in Bailey v Ministry of 
+Defence [2008] has been subject to. However, he stated:
+we are bound in the light of Bailey to find that the Bonnington ‘material contribution’ 
+principle applies to cases of indivisible injury and that, where the principle applies, the 
+claimant does not have to show that the injury would not have happened but for the tortious 
+exposure for which the defendant is responsible. (at [63])
+p. 256
+9. Causation and remoteness of damage
+Page 11 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Thus it seems that we now have authority that the ‘material contribution to harm’ principle applies to both 
+divisible and indivisible injuries, where the evidence supports this.15 However, we should be cautious: in 
+situations where claimants have difficulty proving factual causation on ‘but for’ grounds, the material 
+contribution option may not be easier (as in Holmes); particularly given that it arises in claims at the edge of 
+what medical/scientific evidence can tell us. Even where a material contribution argument is raised, scientific 
+knowledge still may not be able to show that it is more likely than not that the alleged negligence did in fact 
+materially contribute to the harm.16
+Material increase in risk
+The rigidity of the ‘but for’ test was revisited in a different way in McGhee v National Coal Board [1973]. The 
+facts were similar to Bonnington but with an important difference. Again, scientific evidence could not 
+determine whether ‘innocent’ or ‘guilty’ causes were to blame for the claimant’s condition, a kind of 
+dermatitis related to exposure to brick dust. The claimant encountered ‘innocent’ dust at work, but this same 
+dust became ‘guilty’ after work (it stayed on him longer than it should have done, as the employers 
+negligently failed to provide adequate washing facilities). The question was whether the extra time the dust 
+was on the claimant’s skin caused the dermatitis. Unlike pneumoconiosis, dermatitis was not a cumulative 
+condition—it could be triggered by a single exposure to the dust—it may, therefore, have occurred from 
+working with ‘innocent’ dust. Thus, the ‘guilty’ dust did not materially contribute to the harm, but rather only 
+to the risk of harm occurring.
+The question became whether the claimant’s condition was caused by his innocent exposure to dust or by the 
+‘guilty’ dust. Only if it could be shown to be the latter would the employer’s negligence be the factual cause of 
+the claimant’s condition. As in Bonnington, the evidence could not establish this. However, what could be 
+shown was that the longer the dust lay on someone’s skin, the greater risk that person had of contracting 
+dermatitis. The House of Lords held that this was enough—the fact that the risk of the claimant developing 
+the condition was materially increased was enough to establish causation.
+In McGhee, material increase in risk was treated as equivalent to material contribution. It should be noted, 
+however, that there is still a ‘but for’ calculation involved. To succeed, a claimant must show, on the balance of 
+probabilities, that the alleged negligence materially increased the risk of the harm being suffered.
+Pause for reflection
+The decisions in Bonnington and McGhee may seem like logical developments to a rigid rule that can 
+produce harsh results. However, look again at the dates of the two cases, and then at Wilsher.
+Both cases predate (and, importantly, survive) Wilsher. In fact, the McGhee argument was rejected by 
+the House of Lords in Wilsher, which did not think that McGhee had established a new test for 
+causation.17 They said that although there was a materially increased risk of blindness caused by the 
+doctor’s negligence, this was not enough to establish factual causation. There were four other possible 
+15
+16
+p. 257
+17
+9. Causation and remoteness of damage
+Page 12 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+‘innocent’ causes, any of which may have led to the condition. Why was there a difference in this case? 
+Does the fact that there was more than one other potential cause make the difference? Or is the 
+decision in Wilsher based purely in policy, showing (as is often the case in relation to establishing 
+breach—see Chapter 8) undue deference to the medical profession? If so, is the Court of Appeal’s 
+decision in Bailey v Ministry of Defence [2008] consistent?18 For a visual outline of the judicially 
+created exceptions to the normal causation rules, see Figure 9.1 later.
+18
+9. Causation and remoteness of damage
+Page 13 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+9. Causation and remoteness of damage
+Page 14 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Figure 9.1 Problems and solutions to multiple potential cause claims
+↵
+A key development in this area came with the House of Lords’ decision in Fairchild v Glenhaven Funeral 
+Services [2002]. However, despite it being a case of ‘material increase in risk’, this case also fits into another 
+category: that where the court feels the result of using the ‘but for’ test is an unjust one.
+9.2.2.2  ‘Unjust’ results 1: The mesothelioma exception
+Fairchild v Glenhaven Funeral Services [2002] UKHL 22 (HL)
+A group of claims were made against multiple defendants by three employees who developed 
+mesothelioma (an inevitably fatal type of lung cancer), caused by exposure to asbestos. Two of the 
+claims failed at first instance, as the claimants could not show where the asbestos that caused their 
+mesothelioma had come from.
+In relation to the claim in Fairchild, however, there was no problem in establishing that the employer 
+negligently allowed the claimant to be exposed to asbestos—the problem was that the employee had 
+been exposed by a series of negligent employers, not just one. As in McGhee, the experts agreed that 
+mesothelioma could be caused in a single moment—for example, even by a single asbestos fibre 
+entering the lung—and not necessarily by prolonged exposure.19 The difficulty was that the claimants 
+could not show when that causative exposure occurred, so they could not show, on the balance of 
+probabilities, which of the employers was the factual cause. On that basis, strictly following the ‘but 
+for’ test, the Court of Appeal dismissed the claim, and the claimant appealed to the House of Lords.
+The law lords held that the ‘but for’ test produced an unjust result. The idea that no defendant would 
+be liable for the claimant’s harm, when there was no doubt that the cause had been negligence, sat 
+uncomfortably with them. Accordingly, they resurrected McGhee, approving the ‘material increase in 
+risk’ interpretation and stating that in this exceptional type of case (perhaps defined as employment/ 
+industry)20 this would be enough to establish factual causation; the defendants were therefore 
+liable.21
+In finding in Fairchild that each defendant had materially increased the risk of the claimant contracting 
+mesothelioma, the House of Lords did not overrule Wilsher, which seemed to potentially stand in the way of 
+this interpretation. Instead, they distinguished it, holding that Wilsher had been correctly decided on its 
+facts.22 The law lords stressed that Fairchild was an exception to normal causation principles. The outcome of 
+Fairchild was that each negligent employer was held jointly and severally liable. It would therefore be up to 
+the employers who had been brought before the court to seek contributions from others who had not (under 
+s 1(1) of the Civil Liability (Contribution) Act 1978).
+p. 258
+19
+20
+21
+22
+9. Causation and remoteness of damage
+Page 15 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Pause for reflection
+Does the fact that Wilsher and Fairchild are both good law have any impact on the type of case the 
+‘material increase in risk’ test can be applied to in the future? We do not find the explanation that 
+Wilsher should be confined to its facts convincing, and would rather have seen a more carefully stated 
+exposition of the policy and other distinguishing arguments behind the decision to depart from what 
+seemed to be binding authority. Was it, for example, the difference between finding employers (who 
+were likely to be insured) liable and the NHS? Did the shorter timescale in Wilsher indicate a different 
+outcome—the claimants in Fairchild had worked and were exposed to asbestos over a long period of 
+time, followed by the slow onset of their disease and the inevitable nature of their death?
+A clearer explanation might be found in Ministry of Defence v AB and others [2012], a test case 
+involving claims relating to around 1,000 people harmed (including various cancers) by nuclear 
+testing in the Pacific in the 1950s. Evidence showed there were several potential causes of the cancers 
+other than radiation. While the judge at first instance thought that the higher courts might be happy 
+to extend the Fairchild exception to this kind of case ‘as a matter of policy’, the Court of Appeal found 
+‘no foreseeable possibility that the Supreme Court would be willing to extend the Fairchild exception’ 
+in cases where multiple potential causes exist, some of which were impossible to identify.23 And they 
+were right: in the Supreme Court Lord Phillips observed that, in light of the observations made in 
+Sienkiewicz v Greif (UK) Ltd [2011], the Court of Appeal’s conclusion that the Fairchild exception would 
+not be extended was correct (at [157]). There is clearly ‘no appetite in the appellate courts for 
+extending the Fairchild exception to cases involving diseases other than mesothelioma’.24
+In Barker v Corus UK Ltd [2006], the House of Lords revisited similar issues, though with the added 
+complication of a period of self-exposure and a new question regarding apportionment of damages.
+Barker v Corus UK Ltd [2006] UKHL 20 (HL)
+Various claims were made on behalf of people who died from mesothelioma contracted due to 
+exposure to asbestos dust at work. Some exposure was negligent on the part of the employers 
+concerned and the claims were brought against them (those that had not gone bankrupt since the 
+injury occurred). In one claim, the exposure could be clearly broken down to three distinct periods of 
+time: a period when the claimant was working for a now insolvent employer (who therefore could not 
+be sued); a period when working for the defendant; and a period of self-employment. At both first 
+instance and in the Court of Appeal, following Fairchild, the defendants were held jointly and severally 
+liable.
+p. 259
+23
+24
+9. Causation and remoteness of damage
+Page 16 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+↵
+However, to reflect the claimant’s own negligence during the period of self-employment, 
+contributory negligence (a partial defence, see Chapter 10) was found, with damages reduced by 20 
+per cent to take this into account. The defendants appealed the finding of joint and several liability to 
+the House of Lords, arguing that liability should be proportionately divided to reflect the actual risk 
+that was caused by their negligence (e.g. based on the proportion of time that the claimant was 
+negligently exposed to asbestos by the employer).
+A majority of the House of Lords agreed that the damages should be apportioned among the 
+defendants according to their contribution to the increased risk.25 They agreed that the most 
+‘practical’ method of apportionment would be based on the amount of time the claimant was 
+negligently exposed to asbestos by each employer, Lord Hoffmann noting that ‘allowance may have to 
+be made for the intensity of the exposure and the type of asbestos’ (at [48]).
+In Barker, the House of Lords departed from the idea that the employers, all of whom had contributed by their 
+negligence to an increased risk of the claimant contracting a fatal lung cancer, should be jointly and severally 
+liable. Instead, they preferred the idea that compensation should be based on the period of time (and intensity 
+of exposure, etc) that the claimant worked for the employer and was negligently exposed to asbestos.26 This 
+issue was never raised in Fairchild. In practice, this means that, for example, in a situation where an employee 
+was negligently exposed to asbestos by a series of four employers and one of these employers had 
+subsequently gone bankrupt, compensation—but not full compensation—would be divided between the 
+remaining three solvent employers according to the period of time the claimant was employed by them. This 
+means that the claimant cannot fully recover the damages that have been calculated according to their (or 
+their dependants’) need. This principle is illustrated in Table 9.2.
+p. 260
+25
+26
+9. Causation and remoteness of damage
+Page 17 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Table 9.2 Division of damages between a series of employers (following Barker)
+Risk increased by negligent 
+defendant
+Period of time employed by 
+defendant
+Defendant solvent or 
+bankrupt
+Proportion of damages 
+paid
+Harm suffered by 
+claimant (e.g. 
+mesothelioma)
+A
+10 years
+Solvent
+20%
+B
+20 years
+Bankrupt
+None
+C
+15 years
+Solvent
+30%
+D
+5 years
+Solvent
+10%
+Total proportion of (full) damages recoverable by claimant
+60%
+9. Causation and remoteness of damage
+Page 18 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Pause for reflection
+In Fairchild, the Court of Appeal found none of the defendants liable, as it could not be established, on 
+the balance of probabilities, that any one of them had caused the claimants’ harm. They said that the 
+required ‘leap over the evidential gap’ would not only defy logic but would be ‘susceptible of unjust 
+results’:
+If we were to accede to the claimants’ arguments, we would be distorting the law to 
+accommodate the exigencies of a very hard case. We would be yielding to a contention that 
+all those who have suffered injury after being exposed to a risk of that injury from which 
+someone else should have protected them should be able to recover compensation even 
+when they are quite unable to prove who was the culprit. (Brooke LJ at [103])
+The House of Lords disagreed. Lord Bingham, dealing with this exact point, explained:
+There is a strong policy argument in favour of compensating those who have suffered grave 
+harm, at the expense of their employers who owed them a duty to protect them against that 
+very harm and failed to do so, when the harm can only have been caused by breach of that 
+duty and when science does not permit the victim accurately to attribute, as between several 
+employers, the precise responsibility for the harm he has suffered. I am of the opinion that 
+such injustice as may be involved in imposing liability on a duty-breaking employer in these 
+circumstances is heavily outweighed by the injustice of denying redress to a victim. (at [33])
+Which of the opinions do you agree with most? How does your opinion fit with the result of Barker?27
+Dissenting in Barker, Lord Rodger said that redefining the harm to justify apportioning damages between 
+defendants would unfairly shift the risk that defendants had gone bankrupt, or were otherwise untraceable, 
+onto claimants, who had been negligently injured by the defendants in the first place. Barker, unsurprisingly, 
+caused great concern among workers who had been negligently exposed to asbestos during their 
+employment.28 These concerns were recognised by Parliament which, at the time, was debating the (then 
+unrelated) Compensation Bill. As a result of the hostility to Barker, the Bill was amended to legislatively 
+reverse Barker’s effect. Section 3 of the Compensation Act 2006 provides that, where the conditions for 
+applying Fairchild are met (i.e. where negligent exposure to asbestos by a series of employers causes 
+mesothelioma, but it cannot be shown which of the employers 
+↵
+actually, or most likely, caused the 
+disease), any or all employers will be liable for the whole sum of damages.29 This applies even where other 
+sources of exposure existed, including self-employment or other (non-negligent) sources (though damages 
+may still be reduced for the claimant’s own contributory negligence under section 3(3)(b)). It is, of course, 
+open to the liable defendant to seek contributions from others under the principles governing joint and 
+several liability.30
+p. 261
+27
+28
+p. 262
+29
+30
+9. Causation and remoteness of damage
+Page 19 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Counterpoint
+Had section 3 of the Compensation Act 2006 not been enacted, we would, in our opinion, have been 
+left in an undesirable and contradictory position regarding House of Lords’ decisions on asbestos- 
+related claims. In Fairchild, the position was that claimants should be allowed to recover full damages 
+for the harm (and it must be remembered that mesothelioma is a fatal lung cancer), even though they 
+could not possibly have established which of the defendants was the likely cause. In this sense, the 
+Fairchild decision is claimant-centred and is based on the fact that the claimant would receive 
+nothing if the ‘material increase in risk’ exception to the usual ‘but for’ rule was not used.
+In contrast, Holtby, while a good result for the actual claimant in that case, means that in future 
+claimants suffering from asbestosis (as opposed to mesothelioma) may not recover in full if one or 
+more of their previous employers has become insolvent.31 This is less claimant friendly. The same can 
+be seen in the House of Lords’ decision in Barker on the same point regarding mesothelioma.
+In Barker, Lord Rodger pointed out that while it may seem harsh that a single defendant becomes 
+liable for the total sum of a claimant’s damages, purely because his negligence made a material 
+contribution to the risk that the claimant would suffer mesothelioma, this was also settled law. He 
+went on to say that this principle ‘is a form of rough justice which the law has not hitherto sought to 
+smooth, preferring instead, as a matter of policy, to place the risk of insolvency of a wrongdoer or his 
+insurer on the other wrongdoers or their insurers’ (at [90]). Barker, he claimed, meant that this risk 
+must be ‘shouldered entirely by the innocent claimant’ (at [90]). This does not appear consistent with 
+the policy-orientated decision made by the House of Lords that sometimes wrongdoers should pay 
+even where it cannot be proved that it was their wrong that caused the harm. As Lord Rodger found in 
+Barker, ‘the desirability of the courts, rather than Parliament, throwing this lifeline to wrongdoers 
+and their insurers at the expense of claimants is not obvious’ (at [90]). This is particularly true given 
+the fact that a claimant who contracted mesothelioma and was only ever employed by one negligent 
+employer over the course of their working life would be able to recover full damages based on the ‘but 
+for’ principle. Claimants should not be hindered by the fact that they have worked for more than one 
+negligent employer.
+↵
+Clearly Parliament agreed and section 3 of the Compensation Act 2006 removes this risk from 
+claimants who have contracted or died from mesothelioma.32 What section 3 does not legislate is 
+what would happen if Fairchild is applied outside a claim for mesothelioma. It seems in that instance 
+that Barker’s proportionate liability will still apply.33
+Watch our video ‘Disease, causation and government policy’ where we discuss whether there is a continuing 
+case for judicial exceptions to tort principles to be made for some diseases but not others.
+Video playback is not supported in this format.
+31
+p. 263
+32
+33
+9. Causation and remoteness of damage
+Page 20 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Video 9: Disease, causation and government policy
+Because the effect of the interaction of the decisions in Fairchild and Barker was not immediately clear, a 
+flurry of causation cases based on the idea of material increase in risk emerged. Few succeeded.34 Later, the 
+Supreme Court indicated that the idea that there is a separate claim for material increase in risk outside of 
+mesothelioma is wrong.35
+Though Fairchild will apply in mesothelioma cases where there have been multiple negligent exposures to 
+asbestos, there remained a question about what happens when there has only been a single (negligent) 
+exposure coupled with ‘ordinary’ environmental exposure. The impact of section 3 of the Compensation Act 
+2006 was called into question in this respect in Sienkiewicz.
+Sienkiewicz v Greif (UK) Ltd [2011] UKSC 10 (SC)
+An action was brought on behalf of Mrs Costello, who died from mesothelioma in 2006. Mrs Costello 
+worked in offices at the defendant’s factory in Ellesmere Port in Cheshire for nearly 20 years until 
+1984. Her job required her to enter areas of the factory that were contaminated with asbestos. At first 
+instance, this exposure was found to be negligent. However, the judge also found that the claimant 
+had been exposed to low levels of asbestos in the general atmosphere around Ellesmere Port, which 
+might also have been significant enough to have caused mesothelioma.
+The defendants argued that where there was only one employer, the correct test was the ‘but for’ test, 
+not the Fairchild exception. They contended that the claimant had to prove on 
+↵
+the balance of 
+probabilities that the negligent exposure caused the disease and that to do this she would need to 
+establish that the negligent exposure more than doubled the risk.36 The judge accepted this 
+argument, finding also that the doubling of risk could not be established on the facts—the negligent 
+exposure had only increased the risk by 18 per cent. The claimant appealed, arguing that the correct 
+test was whether the (negligent) occupational exposure had materially increased the risk: the increase 
+did not have to be twofold, only more than minimal. The Court of Appeal agreed.37 On the issue of 
+apportionment, Smith LJ first acknowledged that the Fairchild judges might not have thought the 
+exception appropriate where there was only one negligent employer and the other asbestos source 
+was environmental. However, whether this was the case or not, she found that section 3 of the 
+Compensation Act 2006 rendered this irrelevant.38 Lord Clarke thought the case was clearly the type 
+of case considered in Fairchild, as interpreted in Barker (as the non-occupational exposure could be 
+viewed in a similar way to the period of self-employment in Barker). Unanimously, the appeal was 
+allowed.
+The defendants appealed to the Supreme Court. The seven-member court considered the ‘Fairchild 
+exception’, the effect of section 3 of the Compensation Act 2006, how ‘material’ a material increase in 
+risk has to be (rejecting the so-called ‘doubling of risk’ idea), as well as the importance of 
+epidemiological evidence, eventually dismissing the appeal unanimously.39 Lord Phillips (at [98]– 
+34
+35
+p. 264
+36
+37
+38
+39
+9. Causation and remoteness of damage
+Page 21 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+[106]) explained that a continuing justification for maintaining the exception is that the gaps in our 
+knowledge as to how mesothelioma is triggered ‘justifies the adoption of the special rule of causation 
+that the House of Lords applied in Fairchild and Barker’ (at [103]).40
+This decision tells us that the ‘Fairchild exception’ also applies in mesothelioma cases where only one 
+defendant is proved to have negligently exposed the victim to asbestos, even though there was a risk of 
+developing the disease from a non-negligent exposure.41 The Supreme Court found that proof that the injury 
+would not have happened ‘but for’ the defendant’s negligence is unnecessary: a material increase in risk is 
+enough. It also confirmed that section 3 only applies when the defendant has committed a tort.42 As 
+confirmed in Zurich [2015], and taking us back to the question of what exactly ‘cause’ means, we now know 
+that under Fairchild, as confirmed in ‘Trigger Litigation’ [2012], mesothelioma is ‘caused’ in any 
+↵
+↵
+period in which exposure occurs which materially increased the risk of contracting it.43 The Court 
+of Appeal has more recently determined that Fairchild also applies to lung cancer caused by exposure to 
+asbestos.44
+9.2.2.3  ‘Unjust’ results 2: Failure to inform
+Outside asbestos-related litigation, the courts have departed from ordinary ‘but for’ causation to secure just 
+results in medical negligence cases involving ‘informed consent’. In Sidaway v Board of Governors of the 
+Bethlem Royal Hospital [1985], a surgeon failed to disclose a 1–2 per cent risk of spinal damage to a patient 
+undergoing a spinal operation, which later materialised. In all probability, the House of Lords agreed, he had 
+failed to disclose the risks. However, other experts said they would not have disclosed the risks in the same 
+situation either, so counsel for Sidaway tried to invoke the transatlantic informed consent doctrine. The law 
+lords refused to entertain this (Lord Scarman dissenting), declaring the doctrine impractical and stating that 
+the time was not right to substantially change the rules on informing of risks. However, Lord Templeman 
+noted that if Sidaway had asked about the specific risks, she should have been informed of them.
+Chester v Afshar [2005] UKHL 41 (HL)
+The claimant developed a serious spinal condition (cauda equina syndrome) following an operation 
+on her spine, which she had been advised to undergo by the defendant. The claimant had reluctantly 
+agreed to the operation. The defendant had not warned her of the small risk that she might develop 
+the condition, even if the operation was performed without negligence. When this risk materialised, 
+the claimant sued in negligence arguing that had she been aware of the risk she would have sought 
+advice on alternatives to surgery and the operation would not have taken place when it did (although 
+it may well have taken place at a later date). The trial judge found that the possibility that the claimant 
+might have consented to surgery in the future was not sufficient to break the causal link between the 
+defendant’s failure to warn and the damage sustained by the claimant. The Court of Appeal agreed.
+40
+41
+42
+p. 265
+p. 266
+43
+44
+9. Causation and remoteness of damage
+Page 22 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+So did the majority of the House of Lords. They found that the claimant was not able to establish 
+sufficient causation on conventional principles. Because she may well have had the operation later, 
+the defendant’s failure to warn neither affected the risk nor was the effective cause of the injury she 
+sustained.45 However, the law lords went on to modify these principles. The defendant doctor owed 
+her a duty to advise her of the disadvantages of the treatment he proposed and this was closely 
+connected with her ability to give consent and make an informed choice about whether to have 
+treatment. Since the injury she sustained was within the scope of the defendant’s duty to warn and 
+was the result of the risk of which she was entitled to be warned, the defendant’s failure to warn the 
+claimant was a breach of this duty and the cause of the claimant’s injury: ‘Her right of autonomy and 
+dignity can and ought to be vindicated by a narrow and modest departure from traditional causation 
+principles’ (Lord Steyn at [24]).
+Counterpoint
+Note that Sidaway was decided at a time when medical paternalism was rife, whereas Chester came at 
+a time when patient rights were more carefully considered (following the implementation of the 
+Human Rights Act 1998) and, despite not being argued this way, Carole Chester’s human rights 
+certainly seem to have been championed (also see McGlone v Greater Glasgow Health Board [2011], a 
+Scottish case). That said, Chester did not get rid of the breach question in relation to informed consent, 
+merely sidestepped it. There remained a question about what risks it was legitimate for a doctor to tell 
+or not tell, without falling below the standard of care expected of them. On this, see Montgomery v 
+Lanarkshire Health Board [2015], discussed in section 8.3.2.1 and subsequent cases in this area.
+Though the law lords viewed Chester as a departure from ordinary ‘but for’ principles, another interpretation 
+is that it represents merely a (less than) straightforward application of the ‘but for’ test. But for the 
+defendant’s negligent advice, Ms Chester would have avoided injury (on the balance of probabilities) as she 
+would either not have had the operation at all or, even if she had had the operation on another day, there 
+would only have been a 1–2 per cent chance of the risk materialising. That is, it was 98–99 per cent unlikely 
+that she would have suffered the injury. Indeed, this had been the view of the Court of Appeal,46 and has since 
+been interpreted as the correct view by the High Court of Australia.47
+In Correia v University Hospital of North Staffordshire NHS Trust [2017] the Court of Appeal emphasised that if 
+Chester is to be relied upon it remains necessary for the claimant to prove that, if correctly warned of the risk, 
+they would have declined or deferred the operation. This was confirmed in Duce v Worcestershire Acute 
+Hospitals NHS Trust [2018] and Diamond v Royal Devon & Exeter NHS Foundation Trust [2019]. In Duce, it was 
+found that the claimant could not establish that she would not have gone ahead with the operation, which 
+had left her with nerve damage, had she been warned of the risks. In Diamond, it was established that the 
+claimant would have proceeded with abdominal mesh surgery even if she had been informed of the risks in 
+relation to potential future pregnancies. An example of a case where it was established that, had the claimant 
+45
+p. 267
+46
+47
+9. Causation and remoteness of damage
+Page 23 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+been warned of the risks of her surgery, she would not have undergone the operation (which left her 
+paralysed) is Hassell v Hillingdon Hospitals NHS Foundation Trust [2018].48 In Khan v Meadows [2021] it was 
+confirmed that only the risk that it was the duty to be warned against was actionable, not the risk of any 
+additional harms that might materialise.49
+9.2.2.4  Indeterminate causes
+What is the situation when there is more than one negligent defendant, but neither can be proved to be the 
+cause of the harm suffered? This is what is known as an ‘indeterminate cause’. If it is accepted that 
+mesothelioma, for example, is caused by a single fibre of asbestos entering the lung, then Fairchild becomes a 
+case of indeterminate causes, because each 
+↵
+negligent employer was equally likely to have exposed the 
+claimants to the asbestos that caused the disease. Neither satisfies the ‘but for’ test. By contrast, McGhee, on 
+which the decision in Fairchild rests, is not a case of indeterminate cause, as the dust all came from the same 
+place, albeit some ‘innocent’ and some ‘guilty’.
+In cases from other jurisdictions raising the issue of the inability to prove which of two negligent defendants 
+actually caused the harm, courts found another novel way to circumvent the ‘but for’ test. In the US case of 
+Summers v Tice [1948] and the similar Canadian case of Cook v Lewis [1951], the court shifted the burden of 
+proof to the defendants. In both cases, the issue was which of two negligent hunters fired the shot that hit the 
+claimant (and hence who should be liable). Both had fired their guns at approximately the same moment. 
+Evidence could show only that the shot fired came from one of their two guns—applying the ‘but for’ test the 
+claimant could never win, as neither defendant would be more than 50 per cent likely to have fired the 
+offending shot. Shifting the burden of proof meant that the court asked the defendant to prove that he was 
+not responsible—if neither could do this then they should be jointly and severally liable. In Fairchild, the 
+House of Lords, discussing the ‘two hunters’ scenario, explicitly rejected the idea of reversing the burden of 
+proof, deeming it artificial: proof was the problem in the first place (Lord Hutton at [110]).
+Similar to the ‘two hunters’ problem is Fitzgerald v Lane [1987], where a pedestrian crossing a road was hit 
+first by one negligent driver and then almost immediately by another, rendering him tetraplegic. It was 
+impossible to establish which impact actually caused the tetraplegia (and it may well have been both) and 
+applying the ‘but for’ test would therefore have rendered each of the negligent drivers equally (50:50) 
+responsible but, crucially, neither liable for the harm. The Court of Appeal, using the McGhee ‘material 
+increase in risk’ principle, found each defendant liable.50
+Pause for reflection
+In another US case, Sindell v Abbot Laboratories [1980], the problem of indeterminate causes was 
+resolved differently. Five pharmaceutical companies were all held liable for supplying a drug that 
+caused vaginal cancer in women even though, because the cancer developed a long time after the 
+drugs had been taken, it could not be established by any of the claimants which company supplied the 
+particular drug that caused their harm. Any of the five companies could have been responsible, as the 
+48
+49
+p. 268
+50
+9. Causation and remoteness of damage
+Page 24 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+problem was in the design of the drug itself, rather than a manufacturing error. Had the ‘but for’ test 
+been applied, none of the companies would have been liable. The court surmounted this problem by 
+adapting the rule from Summers v Tice and apportioning liability on the basis of each defendant’s 
+market share. Therefore, all the companies were liable (and so all had to pay), but the court also 
+decided that the amount each should pay should be based on that company’s share of the market.
+Do you think this is a justifiable decision? Is apportioning the damages to be paid in this way more 
+appropriate when the harm is caused by a product (rather than employers), particularly when all 
+companies posed an equal risk of causing vaginal cancer?
+9.2.2.5  Uncertain actions
+So far we have considered cases where it has been difficult to show what has actually happened, thus making 
+the application of the ‘but for’ test problematic. A different problematic situation arises in circumstances 
+when either the claim being made relates to something that has not been done, but should have been (an 
+omission), or—more precisely—when we cannot be quite sure what would or should have been done in a 
+given situation.
+In Bolitho v City and Hackney Health Authority [1998], it was alleged that a hospital consultant was negligent in 
+failing to respond promptly to her pager, as a result of which the 2-year-old claimant died. In seeking to 
+establish a causal link, the House of Lords had to consider what the consultant would have done had she 
+responded. The consultant gave evidence that even if she had attended the child, she would not have 
+intubated him. Expert evidence showed that this was the only course of action that could have saved him at 
+that time. So viewed, on the balance of probabilities, the child would have died whether the consultant 
+responded or not. However, the law lords approached the case differently, finding that it must first be 
+established whether the doctor’s failure to intubate would also have been negligent (applying the test from 
+Bolam v Friern Hospital Management Committee [1957]). If it was, legal causation was also established because 
+it could be said that what the doctor should have done, but negligently did not do, was the likely cause of the 
+child’s death.51
+9.2.2.6  Loss of chance
+There has been an interesting and different response to another type of causation problem, sometimes 
+referred to as ‘loss of chance’.
+p. 269
+51
+9. Causation and remoteness of damage
+Page 25 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Hotson v East Berkshire Health Authority [1987] AC 750 (HL)
+A boy fell from a tree, injuring his hip. In hospital, he was negligently diagnosed: the doctors who saw 
+him failed to notice that vascular necrosis (a condition where blood vessels die) had developed and he 
+was sent home without adequate treatment. Five days later he returned to hospital and his condition 
+was correctly diagnosed, though by this time nothing could be done and paralysis was inevitable. 
+Expert medical evidence indicated that had the initial diagnosis been made correctly, there would 
+have been a 25 per cent chance that the condition could have been prevented. However, five days later, 
+that chance had gone.
+The House of Lords found that it could not be shown on the balance of probabilities that Hotson would 
+have avoided the condition had the doctors not been negligent: it was more likely than not that he 
+would have developed the condition even with proper diagnosis. Therefore, his claim failed.
+Hotson, like Barnett, perfectly illustrates exactly what a claimant needs to pass the ‘but for’ test: it must be 
+more likely than not that the defendant’s negligent actions caused the damage. Though Hotson is ultimately a 
+straightforward application of the ‘but for’ test, the case 
+↵
+raised further interesting issues. Both lower 
+courts accepted an alternative argument (or an alternative definition of the harm) that the claimant could 
+have established that he had ‘lost a chance’—the 25 per cent chance of not having the condition—and that 
+this harm was definitely caused (on the balance of probabilities) by the negligence. Therefore, they had 
+awarded him 25 per cent of the total damages he would have received had he been successful in his initial 
+claim. However, this ‘lost chance’ idea was rejected by the House of Lords.52 They thought the question was 
+whether Hotson was ‘doomed’ when he first came to the hospital (as in Barnett). It was most likely that he 
+was, so the negligent treatment made no difference. Translating percentages into legal certainties, he had no 
+chance of recovery.53
+Pause for reflection
+Is it right that if a claimant can show a 51 per cent likelihood that negligence caused their harm it will 
+be treated as a legal certainty that it did (and 100 per cent of the damages will be recoverable), 
+whereas if you can show only a 49 per cent likelihood that the negligence caused the harm it will be 
+treated as a legal certainty that it did not (and no damages will be recoverable)? This is known as the 
+‘all or nothing’ rule. It might seem fairer if we were talking about certainties, rather than 
+probabilities.
+p. 270
+52
+53
+9. Causation and remoteness of damage
+Page 26 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+It is unclear whether in Hotson the law lords meant to rule out permanently the possibility of ‘lost chance’ 
+claims in medical/personal injury cases. Several cases post-Hotson recognised ‘lost chance’ when the claim 
+was for economic loss,54 so clearly the type of loss is recognised within the law of negligence (damages for 
+lost chance are also recognised in contract law). In relation to medical negligence, the issue was revisited in 
+Gregg v Scott [2005].
+Gregg v Scott [2005] UKHL 2 (HL)
+The claimant consulted a doctor complaining about a lump under his arm, which the doctor failed to 
+accurately diagnose as cancerous. As a result, the treatment the claimant received was delayed by nine 
+months, and his chance of survival decreased.
+Evidence showed that 17 in every 100 people with the same kind of cancer could be cured by prompt 
+treatment (within one year of the tumour appearing) and a further 25 in every 100 people would be 
+cured even with a delay of one year. The other 58 would be incurable, no matter when the cancer was 
+diagnosed or treated. Using these figures, the claimant contended that he initially had a 42 per cent 
+chance of being cured, had his treatment not been delayed, which decreased to 25 per cent because of 
+the delay.
+↵
+A 3:2 split House of Lords rejected his claim, the majority stating that the claimant needed to 
+show that the doctor’s negligence made it more likely than not that he could not be cured. Since, at 
+the outset, he was 58 per cent likely to die anyway, this was not possible.
+In the alternative, the claimant argued that he had lost a 17 per cent chance of survival (the difference 
+between 42 per cent and 25 per cent). This claim was also rejected, the majority holding that loss of 
+chance could not form the basis of a medical negligence claim.
+The ‘lost chance’ argument in Gregg differs from that in Hotson in an important way—in Hotson there was an 
+either/or situation: when he reached hospital the first time it was either too late to do something about his 
+hip, or it was not (see also JD v Mather [2012]). In Gregg, the situation was different: even when the claimant 
+first went to the doctor the chances of survival were against him and, on balance, he was 58 per cent likely to 
+die from the cancer. The delay in diagnosis had reduced his chance of survival, not eradicated it, raising the 
+straightforward issue of whether a calculable lost chance is recoverable.55
+Counterpoint
+Lord Nicholls, in the opening paragraph of his powerful dissent in Gregg, described the issue as 
+follows:
+54
+p. 271
+55
+9. Causation and remoteness of damage
+Page 27 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+This appeal raises a question which has divided courts and commentators throughout the 
+common law world. The division derives essentially from different perceptions of what 
+constitutes injustice in a common type of medical negligence case. Some believe a remedy is 
+essential and that a principled ground for providing an appropriate remedy can be found. 
+Others are not persuaded. I am in the former camp. (at [1])
+Arguably, this passage sums up most of the law on factual causation—or at least those cases where an 
+unorthodox approach has been taken or departure from the ‘but for’ test has been suggested. Lord 
+Nicholls goes on to describe the idea that a patient can only recover damages if his original chance of 
+recovery had been more than 50 per cent as not only ‘irrational and indefensible’ (at [3]) but makes 
+the duty of care a doctor owes their patients to take reasonable care ‘hollow’ (at [4]). We would agree.
+Baroness Hale (in the majority in Gregg), on lost chance, pointed out that if it could be concluded that 
+a doctor’s negligence had affected a claimant’s chances to some calculable extent, then we would have 
+‘a “heads you lose everything, tails I win something” situation’, operating in favour of the claimant (at 
+[224]). We suggest this is better than a ‘heads 
+↵
+I win something, tails I win nothing’ situation, 
+operating wholly in favour of defendants, particularly when they are clearly negligent.56 The policy 
+arguments supporting a claimant-favouring system stem from the underlying aims of the tort 
+system itself, not least the desire to compensate those who have suffered harm due to the wrongs of 
+another, but also in the more ‘practical’ aspects such as making people (in this example, doctors) act 
+more carefully than they might otherwise, reducing the number of future potential claimants. Crudely, 
+as the law stands, the ‘chance’ of the claimant making a financial gain (or avoiding an economic loss) 
+is seemingly valued more highly than the chance of the claimant not suffering physical harm or even 
+death.
+Furthermore, the type of calculation that the court is asked to make in a loss of chance claim is not 
+one that is wholly unknown to them (not only because lost chance is recognised in other types of 
+claim, outside medical negligence or other personal injury). When damages for an ‘ordinary’ personal 
+injury are calculated, reductions and increases in the amount to be awarded can be based on the 
+‘chance’ of something happening in the future.57
+More information on this is available in this chapter’s web links <https://iws.oupsupport.com/ebook/  
+access/content/horsey9e-student-resources/horsey9e-chapter-9-pointers-to-pause-for-reflection-and- 
+counterpoint-boxes?options=showName>.
+After Gregg it seems that claims for lost chance in personal injury/medical negligence are ruled out.58
+p. 272
+56
+57
+58
+9. Causation and remoteness of damage
+Page 28 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Pause for reflection
+Do you think that the fact that Gregg was still alive at the time of the House of Lords decision counted 
+against him? Had he actually lost the chance of survival (by dying), might the decision have gone the 
+other way? Lord Phillips, who was in the majority, seemed to indicate that he might have ruled the 
+other way (thus making the outcome 3:2 in favour of the claimant), had Gregg in fact died (at [188]).
+9.2.3  Multiple sufficient causes
+We have already considered problems encountered where a claim involves multiple defendants who each 
+could have caused the harm complained of, but cannot be proven to have done so, according to the ‘but for’ 
+test. A similar but different problem arises where there is more than one defendant, each of whom does pass 
+the ‘but for’ test, but where one of their actions comes later than that of the other. Or, the later action may be 
+non-tortious, but still capable of giving rise to the harm. Here, instead of indeterminate or multiple potential 
+causes, we have what are known as multiple sufficient causes; the question is whether the action of the second 
+party (negligent or otherwise) absolves the original tortfeasor from blame. Put another way, should the 
+original defendant, who is clearly liable for some harm, remain liable after the unrelated actions of another 
+party?
+Baker v Willoughby [1970] AC 467 (HL)
+The claimant’s leg was injured in a car accident negligently caused by the defendant. Resulting pain 
+and stiffness meant that he had to find alternative employment. Later, while working in a scrap- 
+metal yard, but before the case went to trial, he was shot in the same leg by armed robbers. His leg was 
+later amputated. The question for the House of Lords was whether the negligent driver should pay 
+compensation for the effect of his negligence (the pain and stiffness) for the rest of the claimant’s life, 
+or whether his liability ended when the claimant was shot. The defendant argued that the shooting 
+‘obliterated’ the effect of the injury he had caused. This argument had been accepted by the Court of 
+Appeal, which awarded damages for the leg injury only up until the time of the shooting. It was not in 
+dispute that the robbers would have been liable for the additional extent of the injury they caused, but 
+they were never found, so could not be sued.
+The House of Lords felt that this would lead to a gap in damages. If the original defendant was liable 
+for the original injury only to the point in time that a later injury caused by another party occurred 
+and that party was only liable for the additional harm caused, then there would be no compensation 
+for the continuing effects of the first injury. Therefore, they said that the original defendant’s 
+negligence continued to operate even after the additional harm caused by the gunshot.59
+p. 273
+59
+9. Causation and remoteness of damage
+Page 29 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+What is the position when the later event is either non-tortious or even naturally occurring? In such a 
+situation, no one would be liable for the additional harm caused by the later event.
+Jobling v Associated Dairies Ltd [1982] AC 794 (HL)
+The claimant injured his back at work, due to the negligence of his employer. Before trial, he 
+contracted an unrelated back disease which rendered him completely incapable of work. As in Baker, 
+the question for the House of Lords was whether the defendant should remain liable for the original 
+injury and the loss of earnings associated with it past the point where the later (and greater) harm 
+was suffered.
+The House of Lords refused this claim, relying on the fact that when assessing damages account can 
+be taken of the ordinary ‘vicissitudes of life’ (hardships) that a person might be expected to 
+encounter, and that damages are usually reduced accordingly to take account of these. This meant 
+that Jobling could only be compensated up until the point that he contracted the disease, which would 
+have happened anyway.
+Jobling is a case where the later ‘sufficient cause’ of the harm complained of overtakes or supersedes the 
+original cause. When this happens, the defendant will be liable only for the damages relating to the extent of 
+the injury they caused, up until the time of the superseding event. The point is that the superseding event, 
+such as the disease in Jobling, would have happened anyway, whether the claimant was previously injured or 
+not.
+While Jobling did not explicitly overrule Baker, it is probable that Baker is now ‘confined to its facts’. It is 
+therefore possible that if a similar situation arose today, the later event, even if tortious or criminal, would 
+supersede the first.60 The question whether or not Baker ‘survives’ Jobling may in part be answered by Murrell 
+v Healy [2001]. The claimant was injured in a car accident, for which he received £58,500 compensation from 
+the other driver in an out-of-court settlement. Later the same year, he was involved in another accident—the 
+court was asked whether the defendant should pay a reduced sum of damages to make allowance for the fact 
+that the claimant had already been compensated for some injury. The Court of Appeal held that the defendant 
+should compensate Murrell only for additional damage caused by the accident (the reverse of Baker, where 
+the second tortfeasors were unable to be sued) and that if the first defendant’s liability was unaffected by the 
+second tort, the second defendant cannot be liable for any of the original losses. Murrell also developed joint 
+problems in his legs which were unattributable to either of the accidents—following Jobling and the 
+‘vicissitudes of life’ idea, the damages he had been awarded were then reduced.61
+p. 274
+60
+61
+9. Causation and remoteness of damage
+Page 30 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Pause for reflection
+Note that the question whether something is a supervening cause is very similar to the question 
+whether the actions of a later tortfeasor (or otherwise) break the chain of causation back to the 
+original defendant (thereby absolving them entirely from liability). Where the line is drawn between 
+these two points is very hard to define, and people have different opinions—where do you think it is? 
+Is Murrell a case where the chain of causation would have broken, but the claimant was lucky enough 
+to have already settled out of court with the first defendant?
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-9-2>.
+9.3  Legal causation
+Once factual causation has been established, the ‘real’ or ‘operative’ cause in law (legal causation) must still 
+be determined. This involves two distinct tests, the first asking whether the harm was too ‘remote’ a 
+consequence of the defendant’s negligence, and the second asking whether any subsequent event could be 
+said to have broken the chain of causation stemming from the defendant’s breach. Each test represents a 
+value judgement about how far we think defendants’ liabilities should extend—that is, regarding the final 
+question about to whom responsibility for harm is appropriately allocated.
+9.3.1  Remoteness of damage
+When a court asks whether a harm was too remote a consequence of the defendant’s negligence, it is 
+essentially asking whether the consequences of the breach were so far removed from it as to have been 
+unforeseeable by the defendant (judged by the standard of the ‘reasonable person’) at the time. Put another 
+way, the defendant may argue that the consequences of their action were not foreseeable—that is, that they 
+were too remote.62 If so, cause in law is not established and the claimant’s case fails. Whether something is 
+too remote is judged considering what was known at the time the breach occurred; that is, with foresight, not 
+hindsight.
+p. 275
+62
+9. Causation and remoteness of damage
+Page 31 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Overseas Tankship (UK) Ltd v Morts Dock and Engineering Co (The 
+Wagon Mound) (No 1) [1961] AC 388 (PC)
+The defendants were responsible for a ship that had been loading in Sydney Harbour, Australia. Due to 
+the negligence of a crew member, oil leaked into the water and formed a thin film over its surface, 
+spreading to a neighbouring wharf owned by the claimants, where welders were working repairing 
+another ship. Some days later, sparks from the welding ignited the oil—the resulting fire caused 
+serious damage to the wharf and other nearby ships.
+At first instance, the damage caused by the oil itself (e.g. to the slipway of the wharf) was deemed 
+reasonably foreseeable but, because evidence showed that oil spread thinly on water is difficult to 
+ignite, damage to the claimant’s property caused by fire would not have been foreseeable to a 
+reasonable person (at the time the oil was spilt). The Privy Council agreed, finding that a reasonable 
+person could not have foreseen fire damage as a possible consequence of the negligent act.63
+↵
+Before The Wagon Mound (No 1), a defendant was liable for all direct physical consequences of their 
+negligent act (Re Polemis and Furness, Withy & Co Ltd [1921]). This meant that defendants would be liable for 
+any direct consequences of their breach, whether or not these could have been foreseen, even if the 
+consequences may have been substantially different from those a reasonable person might expect, and even if 
+they ended up being far more serious than could have been anticipated. The Wagon Mound (No 1) 
+substantially narrowed the Re Polemis test (indeed, the Privy Council stated that Re Polemis was no longer 
+good law), establishing a far more defendant-friendly test. Following The Wagon Mound (No 1), the question 
+asked to establish whether the claimant’s harm is too remote is: ‘Was the kind of damage suffered by the 
+claimant reasonably foreseeable at the time the breach occurred?’ This remains the primary test for 
+remoteness of damage in negligence—and indeed extends further into other torts.64 The Wagon Mound (No 2) 
+[1967] did not change the nature of this test—it is simply that on the new evidence presented to the court by 
+this time, the Privy Council could conclude that even a thin film of oil on water would ignite—although the 
+risk of damage by fire was small, it still existed.
+The way the remoteness test is formulated means that only the type of damage must be foreseeable, not the 
+extent. So, if some physical damage is a foreseeable consequence of the breach, the amount of physical damage 
+suffered need not be.65 Take a simple example of driving a car. It is clear to any reasonable person that if a car 
+is driven negligently, physical injury to other road users (including other drivers, passengers, cyclists, 
+pedestrians and so on) is foreseeable, as would be property damage to any other vehicle. So, it does not matter 
+in law that, even with a small amount of carelessness (e.g. a momentary lapse of concentration), a pedestrian 
+is seriously injured or even killed. The equation is:
+NEGLIGENT DRIVING=FORESEEABLE RISK OF PHYSICAL INJURY=LIABLE FORALLPHY
+63
+p. 276
+64
+65
+9. Causation and remoteness of damage
+Page 32 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Similarly, if a negligent driver hits another person’s vehicle, it is evident that damage to the vehicle itself 
+would be foreseeable, as would be damage to the vehicle’s contents. It would not matter what the contents of 
+the vehicle are—so if a truck was transporting cheap beans or expensive designer clothing, the negligent 
+driver would be liable for the full cost of whatever was damaged.
+While this distinction (type versus extent of damage) appears relatively straightforward, it has not always 
+proved to be so. In Doughty v Turner Manufacturing Co [1964], a factory worker suffered serious burns when 
+an asbestos lid was knocked into a vat of hot liquid, causing a chemical reaction that made the liquid boil up 
+over the edge. The specific chemical reaction was not foreseeable to the reasonable person—but the claimant 
+contended that as it would be foreseeable that the lid falling in would cause some liquid to splash out, and that 
+the likely result of this would be that the claimant would be burnt, the type of injury he had suffered was 
+foreseeable. However, the court disagreed with this interpretation, finding that an eruption of boiling liquid 
+was different from being splashed by liquid.
+Another case, however, appears to tell a different story. In Hughes v Lord Advocate [1963], an 8-year-old boy 
+fell down a manhole in the street which had been left open by Post Office 
+↵
+employees earlier that day. 
+Upon finishing work, the men had covered the hole with a canvas tent and surrounded this with paraffin 
+lamps to alert to the danger. The boy picked up a lamp and took it into the tent. While playing, he knocked the 
+lamp into the manhole, which caused an explosion of paraffin vapour, and the boy fell into the hole and was 
+badly burnt. The defendants claimed that they could not have foreseen that the boy would enter the tent with 
+the lamp and be burnt by a subsequent explosion. The House of Lords disagreed. Finding the defendants 
+liable, they held that it was reasonably foreseeable that the type of damage would be burns, therefore the exact 
+means by which the burns occurred did not matter (see also Jolley v Sutton London Borough Council [2000]; ST 
+v Maidstone and Tunbridge Wells NHS Trust [2015]; Hicks v Young [2015]).
+Pause for reflection
+How can the difference between the two previous cases be explained? Do you think the fact that both 
+cases were decided in the two years immediately after The Wagon Mound (No 1), which created a ‘new’ 
+test, could have anything to do with it? Perhaps the judges were struggling to implement the new test. 
+Or perhaps the court was simply more sympathetic towards a child?
+In the years following the reformulation of the remoteness test in The Wagon Mound (No 1), there were 
+numerous inconsistencies in attempts to convince a court that physical damage suffered was too remote to be 
+attributed to the defendant. For example, in Tremain v Pike [1969], a defendant negligently allowed his farm 
+to become infested with rats. The claimant farm worker contracted Weil’s disease because of exposure to rats’ 
+urine. Although clearly arguable that physical injury from rats is foreseeable, the claimant lost because the 
+court held that while injury from rat bites would be foreseeable, Weil’s disease was not. However, in Vacwell 
+Engineering Co Ltd v BDH Chemicals Ltd [1971], it was held that because a small chemical explosion might be 
+foreseeable, all damage caused by a large explosion that occurred when ampoules of chemicals were being 
+washed in water was foreseeable even though no one could have predicted this happening.
+p. 277
+9. Causation and remoteness of damage
+Page 33 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Pause for reflection
+It seems unlikely that a court today would follow the ‘version’ of the foreseeability test seen in 
+Doughty. Mark Lunney, Donal Nolan and Ken Oliphant suggest that the ‘modern trend’, at least in 
+relation to personal injuries, seems to be to interpret the type of injury in a broad sense (see e.g. Smith 
+v Leech Brain [1962], discussed later), so the extent of the harm or the exact way in which it was 
+caused poses no problems to claimants.66 This may also explain the decision to include psychiatric 
+harm with physical injury under the more generous heading of ‘personal injury’ in Page v Smith 
+[1996] and Simmons v British Steel plc [2004].67
+9.3.1.1  The ‘egg shell skull’ rule
+We have seen that the remoteness test dictates that once the type of harm is judged foreseeable, the 
+defendant incurs liability for all damage caused, even where its extent was not foreseeable. A further rule has 
+been developed to protect even those claimants who suffer what may be called ‘extreme’ damage because 
+they already have some kind of susceptibility or ‘weakness’.
+The ‘egg shell skull’ rule, as it has become known, is simply a principle that states that a defendant will be 
+liable for the full extent of the harm they caused, even if the person harmed suffered more harm than might 
+be expected, due to existing weaknesses or frailty. The maxim is expressed as ‘the defendant must take the 
+victim as they find them’. The classic example comes from Smith v Leech Brain & Co Ltd [1962] where, because 
+of the defendant’s negligence, the claimant was burnt on the lip. The claimant had a pre-cancerous skin 
+condition, which became cancerous because of the burn, and he eventually died. The defendant was held 
+liable for the full consequences of his negligence (i.e. all the physical damage (type), so this included the 
+cancer (extent)). The court held that because physical injury had been foreseeable, it did not matter what the 
+extent of this was, or that the claimant was already more susceptible to a greater level of harm. This approach 
+was followed in Reaney v University Hospital of North Staffordshire NHS Trust [2014], but on appeal the Court of 
+Appeal described the correct approach as objectively determining whether the claimant’s needs before and 
+after the negligently caused injury were ‘quantitatively’ or ‘qualitatively’ different (see [19]). If quantitatively 
+different (i.e. more of the same), then a defendant is only liable for any additional needs flowing from their 
+negligent act. If qualitatively different (i.e. different in kind), then a claimant may recover in full.68
+In Lagden v O’Connor [2003] it was confirmed that the ‘egg shell skull’ principle also applies to economic 
+harms. Thus, if a claimant suffers heightened economic loss because of already weak economic 
+circumstances, a defendant will be liable for the full extent of that loss.
+66
+67
+p. 278
+68
+9. Causation and remoteness of damage
+Page 34 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+9.3.2  Intervening acts
+Even if the defendant ‘causes’ an accident by starting a sequence or chain of events, a later event might be 
+held to be the ‘real’ cause of the eventuating harm. In such circumstances, the ‘chain of causation’ (which 
+began with the defendant’s breach) is said to be ‘broken’, leaving the defendant not liable for the claimant’s 
+harm. The later event is known as a novus actus interveniens (literally, a new intervening act, already familiar 
+to those who have studied criminal law).
+This is the second aspect to establishing cause in law (the first being to assess whether the harm was not too 
+remote). However, there is a very fine line between ‘supervening’ events (as seen in Jobling and which go to 
+questions of cause in fact) and later ‘intervening’ acts (which involve questions relating to cause in law).
+9.3.2.1  Later negligent acts
+One question is what kind of later act is required for the chain of causation to be broken. It is clear that 
+subsequent deliberately wrongful acts (e.g. crimes) will be sufficient (Weld-Blundell v Stephens [1920]).69 
+Beyond this, the question remains whether a later act must be negligent 
+↵
+in order to break the chain of 
+causation. Whether what happens subsequently is foreseeable is also relevant—if it is something that is 
+clearly likely to happen because of the defendant’s negligence then it is unlikely to break the chain. This was 
+plainly expressed by Lord Reid in Home Office v Dorset Yacht Co Ltd [1970], who said that a subsequent 
+negligent act of a third party must ‘have been something very likely to happen if it is not to be regarded as a 
+novus actus interveniens breaking the chain of causation. I do not think a mere foreseeable possibility is or 
+should be sufficient’ (at 1030).70
+In Webb v Barclays Bank and Portsmouth Hospitals NHS Trust [2001] it was established that later medical 
+negligence will not usually break a chain of causation back to an original defendant’s breach unless it is ‘so 
+grossly negligent as to be a completely inappropriate response to the injury by the defendant’. The Court of 
+Appeal in Webb held that the original wrongdoing remained a causative force. An intervening act must be 
+something very unforeseeable (Dorset Yacht) and the usual position (sadly) is that ‘ordinary’ medical 
+negligence is not unforeseeable. However, this position was challenged in Jenkinson v Hertfordshire County 
+Council [2023], where Baker J in the High Court said that medical negligence did not need to be gross to break 
+the chain of causation (overruling a District Judge who had relied on Webb). He found that there was no 
+logical justification for creating a specific rule for medical negligence—instead the question was whether the 
+‘claimant’s initial injury, admittedly the result of the defendant’s negligence, was so badly mistreated that the 
+defendant ought not, in fairness, to be considered responsible for the consequences of that mistreatment’ (at 
+[44]). Whether this displaces the principle from Webb remains to be seen.
+In Rouse v Squires [1973] a lorry driver negligently caused his lorry to jack-knife and block part of a 
+motorway. A car subsequently drove into the rear of the lorry. A second lorry driver stopped to assist, pulling 
+over some distance in front of the accident. A third lorry driver stopped before the accident scene, leaving his 
+headlights on for illumination. The driver of a fourth lorry was less careful and did not see the accident until 
+he was almost upon it. He skidded into the third lorry, killing its driver. The question for the court was which 
+negligent lorry driver caused the death. At first instance, the trial judge held the fourth lorry driver wholly 
+69 
+p. 279
+70
+9. Causation and remoteness of damage
+Page 35 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+responsible as his negligent driving had broken the chain of causation in relation to the original negligent 
+lorry driver. However, the Court of Appeal found that the chain of causation had not been broken. Both drivers 
+were therefore responsible, and damages were apportioned between them.
+Knightley v Johns [1982] 1 WLR 349 (CA)
+A serious traffic accident in a one-way tunnel was caused by the defendant’s negligent driving and 
+police were called to the scene. Having forgotten to stop traffic entering the tunnel, the police 
+inspector in charge sent two officers on motorcycles, one of whom was the claimant, against the 
+direction of the oncoming traffic to go back and close the tunnel. Both the instruction and driving 
+against the flow of traffic were expressly contrary to police standing orders, but nevertheless the two 
+officers complied with the instruction. Near the entrance to the tunnel, the claimant suffered injury 
+when he was hit by a car.
+↵
+At first instance, the judge found that neither the inspector’s instruction nor the claimant had 
+been negligent and that their actions did not break the chain of causation back to the original 
+defendant (the driver), who would therefore be liable for the claimant’s injuries in full. However, the 
+Court of Appeal found that the inspector’s instruction had been negligent and that this was sufficient 
+to break the chain of causation between the defendant car driver’s original negligence and the 
+claimant’s injuries. As a result, no claim could succeed against the defendant.
+Where more than one party can be said to be responsible for causing harm, it is unusual for the courts to find 
+only one of them legally responsible. The Civil Liability (Contribution) Act 1978 means that the court can 
+apportion damages between the parties responsible (or leave them to do this for themselves). Because of this, 
+it is not common for a court to find that a later negligent act breaks the chain of causation back to the original 
+defendant.71
+In Wright v Lodge [1993],72 the first defendant’s Mini broke down on a dual carriageway and she negligently 
+failed to move it to the hard shoulder. While she was trying to restart the car, it was hit by a lorry being driven 
+negligently over the speed limit, injuring a passenger in the car as a result. The lorry skidded across the 
+central reservation, tipped on its side and collided with oncoming vehicles on the other side of the 
+carriageway, injuring two drivers, one fatally. The injured parties sued the driver of the lorry, who joined 
+(using the Civil Liability (Contribution) Act 1978) the driver of the Mini as a co-defendant. For her 
+negligence, she was ordered to pay 10 per cent of her passenger’s damages (the lorry driver paid the 
+remainder). However, with respect to the injuries to the other claimants, the lorry driver was found to have 
+broken the chain of causation from her negligence and, as a result, was wholly liable.73
+p. 280
+71
+72
+73
+9. Causation and remoteness of damage
+Page 36 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+9.3.2.2  Acts of the claimant
+Can the claimant’s own negligence break the chain of causation? It is rare for this to be the case, because 
+generally if a claimant negligently contributes to their own injuries, this can be dealt with via the defence of 
+contributory negligence.74 Since 1945 this has been only a ‘partial’ defence, meaning that the claimant’s 
+contribution to their own harm can be assessed and their damages reduced accordingly.75 We know that 
+‘mere unreasonable conduct on a claimant’s part’ is unlikely to break the chain.76 However, there may still be 
+occasions where the claimant’s own actions after the defendant’s original negligence are considered so 
+careless that they should remove all responsibility from the defendant. In McKew v Holland and Hannen and 
+Cubitts (Scotland) Ltd [1969], the claimant suffered a leg injury at work due to his employer’s negligence, 
+which resulted in stiffness and impaired mobility. Subsequently, 
+↵
+he went to inspect a flat in the course 
+of his work, which could only be accessed by descending a steep staircase without a handrail. As he was about 
+to descend the stairs, his leg buckled and to avoid falling down the stairs and landing on his head, he threw 
+himself forwards, breaking his ankle. McKew claimed that the defendant should be liable for this damage, as 
+it was an extension of the original injury. However, the House of Lords rejected his claim. The claimant had 
+negligently thrown himself down the stairs and had broken the chain of causation. The defendant was not, 
+therefore, liable for his broken ankle.
+McKew can be contrasted with Wieland v Cyril Lord Carpets [1969] where, because of the defendant’s 
+negligence, the claimant had to wear a neck brace. This restricted her ability to use her bifocal glasses 
+properly with the result that she fell down some stairs, injuring her ankle. The court found that she had been 
+as careful as she could have been and therefore her actions could not break the chain of causation and her 
+ankle injury was also caused by the defendant’s negligence.
+Pause for reflection
+Do you think the difference between the two cases just described can be attributed to the amount of 
+care the claimants took for themselves after they had sustained their original injury? Was it not 
+reasonable for McKew to choose to fall in the way he did rather than risk suffering a different type of 
+injury? What do you think the situation would have been if McKew’s injured leg had buckled 
+completely while on his way down the stairs? See Spencer v Wincanton Holdings Ltd [2009], where the 
+claimant, who had failed to secure his prosthetic leg when he stopped to refuel his car, fell over, 
+exacerbating an existing serious injury. The Court of Appeal found that Spencer had not acted so 
+unreasonably that he had broken the chain of causation; contributory negligence was appropriate to 
+deal with the sharing of responsibility.77
+A claimant’s own actions in committing suicide while imprisoned (Kirkham v Chief Constable of Greater 
+Manchester Police [1990]) or while being held in police custody (Reeves v Commissioner of Police for the 
+Metropolis [2000]) have been found not to break the chain of causation back to the defendant. While this 
+might seem surprising, as suicide is a deliberate act, the reasoning of the courts was that because the police 
+had a duty of care to protect the specific claimant from suicide (in Kirkham by passing on the information 
+74
+75
+76
+p. 281
+77
+9. Causation and remoteness of damage
+Page 37 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+that the prisoner was depressed and may become a suicide risk), the claimant doing exactly what may be 
+expected of them should not negate that duty. In Reeves, however, the damages awarded were reduced for the 
+contributory negligence of the claimant.
+In Corr v IBC Vehicles Ltd [2008], a similar question arose. A man was seriously injured and almost killed in an 
+accident at work. The accident and injuries led to him suffering clinical depression, and he later committed 
+suicide. His employers (the defendants) did not, as in Reeves and Kirkham, owe him a specific duty of care to 
+prevent suicide. Instead, the question 
+↵
+was whether the suicide had been caused by the original breach of 
+duty (to keep employees reasonably safe) or whether the claimant’s deliberate action had broken the chain of 
+causation. The House of Lords found that the chain of causation was not broken; Lord Bingham in particular 
+was swayed by the idea that the suicide was not a free and voluntary choice because of the effect of the 
+accident on the mind of the claimant (at [16]). In contrast, the House of Lords found in Gray v Thames Trains 
+[2009], discussed in Chapter 10, that a later criminal act committed by the claimant, who had sustained both 
+physical and psychiatric injuries in a train crash negligently caused by the defendants, did break the chain.
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-9-3>.
+9.4  Conclusion
+After a claimant establishes breach of a duty of care owed to them by the defendant, the next ‘hurdle’ is 
+establishing causation. This has two aspects: cause ‘in fact’ and cause ‘in law’.
+To establish cause in fact, the claimant must show, on the balance of probabilities, that the defendant’s breach 
+caused their harm. This is often expressed as a ‘but for’ test: can the claimant establish that ‘but for’ the 
+defendant’s negligent act, they would not have suffered harm? There are many flaws with this test. Its 
+inflexibility can cause unjust outcomes, especially when there are multiple potential causes of the harm. The 
+courts have therefore devised exceptions to the test, used in specific types of exceptional case, usually where 
+the outcome that would be generated by the ‘but for’ test is deemed to be unsatisfactory in some way. 
+However, it should be remembered that the principal exceptions to the ‘but for’ test detailed here do not and 
+cannot apply in all cases. To a very large extent they are limited to the type of case in which the decision was 
+first made (e.g. the material contribution test originated from industrial cases, and is only now beginning to 
+apply in some medical negligence cases; and ‘lost chance’ claims seem limited to claims for economic loss, 
+having been ruled out in medical claims).
+The second aspect of causation is cause in law, which has two parts (though it may be that only one of them is 
+relevant/arguable in a particular scenario). They encompass a remoteness test (which involves establishing 
+whether the damage that occurred was foreseeable to the defendant at the time of the negligence) where it is 
+the type of harm (e.g. personal injury) that must be foreseeable, not its extent. The second test is to ask 
+whether any intervening acts (acts that occurred after the defendant’s breach) broke the chain of causation. If 
+so, the defendant will not be liable.
+p. 282
+9. Causation and remoteness of damage
+Page 38 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Decision Trees 9.1 and 9.2 show how you work through cause in fact and cause in law questions.
+Explore the elements of and difficult pathways through causation using the interactive versions of Decision 
+Trees 9.1 <https://iws.oupsupport.com/embed/access/content/horsey9e-student-resources/horsey9e-chapter-9-  
+interactive-decision-tree-9-1> and 9.2 <https://iws.oupsupport.com/embed/access/content/horsey9e-student-  
+resources/horsey9e-chapter-9-interactive-decision-tree-9-2>.
+9. Causation and remoteness of damage
+Page 39 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Decision Tree 9.1 Establishing cause in fact
+9. Causation and remoteness of damage
+Page 40 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+1
+2
+3
+Decision Tree 9.2 Establishing cause in law
+End-of-chapter questions
+After reading the chapter carefully, try answering the questions which follow.
+Is there a coherent way of explaining the difference between supervening and intervening acts?
+Does the remoteness test lose some of its impact or validity with the incorporation of the ‘egg shell skull’ rule?
+What policy reasons can you identify that have affected the courts’ decisions in asbestos-related injury cases? 
+Are they consistent?
+p. 283
+p. 284
+9. Causation and remoteness of damage
+Page 41 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+4
+→
+→
+→
+→
+→
+→
+To what extent do the rules on factual and legal causation help to achieve the general aims of tort law?
+If you would like to know what we think, check the answer guidance <https://iws.oupsupport.com/ebook/  
+access/content/horsey9e-student-resources/horsey9e-chapter-9-answers-to-end-of-chapter-questions? 
+options=showName>.
+Answering the problem question
+Consider again the problem question at the start of this chapter. Now having read about the topic, what 
+would be your advice to Gavin?
+Here are some pointers to get you started:
+It seems obvious that S will owe G a duty of care and has breached this. The question is whether G’s 
+broken arm is a ‘but for’ cause (cause in fact) of S’s negligence.
+G will also sue C. If a breach could be established, this claim raises causation points similar to those seen 
+in Bolitho. There is also a ‘but for’ issue raised by the evidence of the expert witness.
+If the ‘but for’ test can be satisfied in the previous claims, the issue of foreseeability of harm will arise 
+(cause in law), as will potential intervening acts. Did, for example, C’s treatment of G break the chain of 
+causation back to S?
+Another question is how the later injury caused by the speeding motorist affects any claim. Is this a 
+supervening event which obliterates any earlier causes (see Jobling)?
+If you need some more guidance:
+See the annotated version of the problem with issues and cases to consider <https://  
+iws.oupsupport.com/embed/access/content/horsey9e-student-resources/horsey9e-chapter-9-annotated- 
+problem-question-interactive>.
+Check your answer against the suggested outline answer <https://iws.oupsupport.com/embed/access/  
+content/horsey9e-student-resources/horsey9e-chapter-9-answers-to-problem-question>.
+Further reading
+Reading on causation is often quite difficult, and many articles focus solely on one or two cases. Reading these—and 
+case notes—is good to gain a detailed understanding of some of the more difficult or controversial cases. Many of the 
+articles and case notes listed below focus on a particular case or cases.
+Bailey, Stephen ‘Causation in Negligence: What is a Material Contribution?’ (2010) 30 Legal Studies 167
+p. 285
+9. Causation and remoteness of damage
+Page 42 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Hoffmann, Lord ‘Fairchild and After’ in Andrew Burrows, David Johnston and Reinhard Zimmermann (eds) Judge and 
+Jurist: Essays in Memory of Lord Rodger of Earlsferry (OUP 2013)
+Laleng, Per ‘Causal Responsibility for Uncertainty and Risk in Toxic Torts’ (2010) 18 Tort Law Review 102
+Laleng, Per ‘Sienkiewicz v Greif (UK) Ltd and Willmore v Knowsley Metropolitan Borough Council: A Material Contribution 
+to Uncertainty?’ (2011) 74 Modern Law Review 777
+Laleng, Per ‘Is Fairchild a Leading Case of the Common Law?’ (2014) The Honourable Society of the Inner Temple 
+Lecture Series
+Lee, James ‘Causation in Negligence: Another Fine Mess’ (2008) 24 Professional Negligence 194
+Miller, Chris ‘Causation in Personal Injury After (and Before) Sienkiewicz’ (2012) 32 Legal Studies 396
+Morgan, Jonathan, ‘Reinterpreting the Reinterpretation of the Reinterpretation of Fairchild’ [2015] Cambridge Law 
+Journal 395
+↵
+Morgan, Jonathan, Great Debates in Tort Law (Hart 2022) chs 4 and 5
+Stapleton, Jane ‘The Fairchild Doctrine: Arguments on Breach and Materiality’ [2012] Cambridge Law Journal 32
+Stapleton, Jane ‘Unnecessary Causes’ (2013) 129 Law Quarterly Review 39
+Stapleton, Jane ‘An “Extended But-For” Test for the Causal Relation in the Law of Obligations’ (2015) 35 Oxford 
+Journal of Legal Studies 697
+Stapleton, Jane ‘Unnecessary and Insufficient Factual Causes’ [2023] Journal of Tort Law 351
+Steel, Sandy ‘Justifying Exceptions to Proof of Causation in Tort Law’ (2015) 78 Modern Law Review 729
+Steele, Jenny ‘Breach of Duty Causing Harm? Recent Encounters Between Negligence and Risk’ (2007) 60 Current 
+Legal Problems 296
+Voyiakis, Emmanuel ‘Causation and Opportunity in Tort’ (2018) 38 Oxford Journal of Legal Studies 26
+Wellington, Kate ‘Beyond Single Causative Agents: The Scope of the Fairchild Exception Post-Sienkiewicz’ (2013) 20 
+Torts Law Journal 208
+Additional suggestions for further reading can be found in this chapter’s web links <https://iws.oupsupport.com/  
+ebook/access/content/horsey9e-student-resources/horsey9e-chapter-9-web-links?options=showName>.
+Notes
+ 
+1. Note, however, the recent decisions (handed down jointly) of the Supreme Court in Manchester Building Society v 
+Grant Thornton [2021] and Khan v Meadows [2021] which sought to set out clearly the ‘steps’ to be taken in analysing 
+any claim in negligence (the specific decisions are more relevant to the concept of ‘scope of duty’, considered in 
+section 2.5.4). There is some difference in the way the tests for causation (i.e. the questions that must be asked) are 
+p. 286
+1.
+9. Causation and remoteness of damage
+Page 43 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+formulated in the separate judgments. We prefer the approach of Lord Burrows (at [79]–[80]) to that in the main 
+judgment (at [28]), though it must be noted that, unlike us, he treats ‘remoteness’ as a separate question from ‘legal 
+causation’ (our questions 2 and 3 in Table 9.1).
+ 
+2. HLA Hart and AH Honoré Causation in the Law (2nd edn OUP 1985).
+ 
+3. The same rule applies in every tort where proof of harm or damage is required, so what is said in this chapter about 
+causation as it relates to negligence should also be remembered in the context of other fault-based torts, as well as 
+some strict liability ones (e.g. claims under the Consumer Protection Act 1987).
+ 
+4. Questions of cause in relation to a defendant’s failure to do something only arise if there was a duty to act—see 
+Chapter 4.
+ 
+6. See also Cunningham v Rochdale Metropolitan Borough Council [2021], where the Court of Appeal found that despite 
+a breach of duty of care owed by a school to one of its employees, the claimant could not establish that the harm (an 
+attack by a pupil) would not have happened anyway.
+ 
+5. Thus we would arrive at the same outcome in respect of Peter and his food poisoning in the chapter-opening 
+scenario. Also, although the facts seem different on first glance, the same would apply to Sriya (see Hotson).
+ 
+7. See e.g. Schembri v Marshall [2020], in particular at [51]–[56].
+ 
+8. Though see the Court of Appeal decision in Bailey v Ministry of Defence [2008]. Here, there were two potential causes 
+of the claimant’s cardiac arrest and brain damage—one negligent and one ‘natural’—and it could not be established 
+which was the ‘but for’ cause. Following Wilsher, there should have been no liability. However, the Court of Appeal, 
+treating the case as one of cumulative (indivisible) cause (see later), found that the hospital’s negligence made a 
+‘material contribution’ to the harm. See also Leigh v London Ambulance Service [2014], Kennedy v London Ambulance 
+Service NHS Trust [2016] and Leach v North East Ambulance Service NHS Foundation Trust [2020] EWHC 2914 (QB).
+ 
+9. In fact, the medical evidence said that it made a difference; but because the case was argued as ‘all or nothing’, what 
+it could not say was whether the entire disease would have been avoided in the absence of the ‘guilty’ dust. This case 
+makes much more sense if the language of ‘divisible vs indivisible injury’ is used (which was not the language used in 
+the 1950s).
+ 
+10. Bailey v Ministry of Defence [2008] (at [46]). Confirmed in Garner v Salford County Council [2013] where the claim 
+failed for lack of evidence that the defendant’s negligence exposed the claimant to more than minimal levels of 
+asbestos. The opposite conclusion was reached, in relation to a small proportion of total exposure, in Carder v The 
+University of Exeter [2016].
+ 
+11. See also section 9.2.2.2.
+ 
+12. A good recent definition was given by Stuart-Smith LJ in Holmes v Poeton Holdings Ltd [2023] at [31].
+ 
+13. See also Ellis v Environment Agency [2008]. Cf Simmons v British Steel [2004] in which the Bonnington test was used 
+to hold the defendant fully liable for the (psychiatric) injury suffered by the claimant.
+ 
+14. See also Allen v British Rail Engineering [2001], a case relating to ‘vibration white finger’, Wright (a child) v 
+Cambridge Medical Group [2011] (baby with severe chicken pox symptoms negligently not referred to hospital by 
+doctor, then negligently treated when eventually admitted to hospital, resulting in permanent hip damage); Rahman v 
+2.
+3.
+4.
+6.
+5.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+9. Causation and remoteness of damage
+Page 44 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Arearose Ltd [2001] (claimant beaten then later receiving negligent medical treatment, both cumulatively found to 
+have caused him psychiatric harm); and Hatton v Sutherland [2002] (a stress-at-work case) (obiter). This approach to 
+apportionment in relation to psychiatric harm was later doubted: see Dickins v O2 plc [2008].
+ 
+15. This issue has also been recently considered by the Court of Appeal in the context of a medical negligence claim. 
+Handed down just over one week before Holmes, CDE v Surrey and Sussex Healthcare NHS Trust [2023] allowed an 
+appeal and directed a rehearing based on the question whether a revised finding of fact that a consultant would have 
+attended a difficult birth one minute earlier could make a material difference to causation in that case. Similarly, in 
+CNZ v Royal Bath Hospitals NHS Foundation Trust [2023], an appeal was allowed by Ritchie J ‘due to the significant 
+public interest and effect on the public purse potentially caused by his findings on material contribution’—an appeal 
+decision is awaited.
+ 
+16. Also it should be remembered that, following Holtby, defendants will only be liable for the extent of their 
+contribution to a divisible injury. Where the harm is indivisible, if material contribution can be shown, the defendant 
+will be liable for the full extent.
+ 
+17. See e.g. Lord Bridge at 1090.
+ 
+18. Also see Swift J in ST v Maidstone and Tunbridge Wells NHS Trust [2015] at [195]–[198].
+ 
+19. Note, however, that the ‘single fibre’ theory has since been discredited by experts (Sienkiewicz v Grief (UK) Ltd 
+[2011]; Durham v BAI (EL Trigger Litigation) [2008], later BAI (Run Off) Ltd and others v Durham and others [2012]). It is 
+enough that the harm is ‘indivisible’ and that the state of scientific knowledge renders proof of causation impossible.
+ 
+20. Though now cf Willmore v Knowsley Metropolitan Borough Council [2011].
+ 
+21. This may mean that Bern, in the scenario at the start of this chapter, would have a successful claim.
+ 
+22. Perhaps it is the small difference in the facts—that there were only two potential causes, rather than five—that led 
+to the Court of Appeal’s finding (distinguishing Wilsher) that there could be liability based on ‘material contribution’ in 
+Bailey v Ministry of Defence [2008]. Though cf Jones and others v Secretary of State for Energy and Climate Change and 
+another [2012].
+ 
+23. Ministry of Defence v AB and others [2010] at [154].
+ 
+24. Jones and others v Secretary of State for Energy and Climate Change and another [2012] (at [6.18]). As WE Peel and 
+James Goudkamp point out, however, ‘one obstacle is the decision in McGhee, which was not a mesothelioma 
+case’ (Winfield & Jolowicz on Tort (19th edn Sweet & Maxwell 2014) [7-021]).
+ 
+25. The point is that although mesothelioma is indivisible, if the harm is construed as ‘risk of damage’, that is divisible.
+ 
+26. A principle confirmed in Equitas Insurance Ltd v Municipal Mutual Insurance Ltd [2019].
+ 
+27. See also Peel and Goudkamp n24 [7-022], who say ‘given the uncertainty surrounding the Fairchild exception and 
+the quixotic process it unleashed, it may be that the law should have been left unaltered while the state of scientific 
+knowledge was left to develop, notwithstanding the policy based impulse for alteration’. A similar view was expressed 
+by the Court of Appeal in Equitas Insurance Ltd v Municipal Mutual Insurance Ltd [2019]. Males LJ said that ‘once the 
+courts can be confident that the objective of ensuring victim protection has been achieved, it is desirable that the 
+anomalies should be corrected and that the law should return to the fundamental principles of the common law. Put 
+shortly, once unorthodoxy has served its purpose, we should revert to orthodoxy’ (at [91]).
+ 
+28. Or, more importantly perhaps, to claimant lawyers and unions.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+9. Causation and remoteness of damage
+Page 45 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+29. Section 3(1)(a)–(d). Thus, in the scenarios at the beginning of this chapter, Bern’s claim will not be unduly affected 
+by Barker.
+ 
+30. See Chapter 21.
+ 
+31. Though they may have recourse to some damages via the Financial Services Compensation Scheme.
+ 
+32. Compare two decisions of the High Court of Australia, however: Amaca Pty Ltd v Ellis [2010] (where the claimant was 
+also a smoker), distinguished in Amaca Pty Ltd v Booth [2011].
+ 
+33. Though see the comments (obiter) of Smith LJ in Novartis Grimsby Ltd v Cookson [2007], a bladder cancer case, in 
+which she indicates that she would have applied the Fairchild principle in the absence of an (almost straightforward) 
+application of the ‘but for’ test, as the two potentially causative agents ‘act on the body in the same way’ (at [72]).
+ 
+34. See e.g. Clough v First Choice Holidays [2006]; Sanderson v Hull [2008]; Wootton v J Docter Ltd [2008]. Note that it has 
+been confirmed that the Fairchild test does not change how the duty is formulated and, to get to the stage of applying 
+it, the duty and breach elements of a claim must be established in the ordinary way: Williams v University of 
+Birmingham [2011].
+ 
+35. In Employers’ Liability Insurance ‘Trigger’ Litigation: BAI (Run Off) Ltd and others v Durham and others [2012] (‘Trigger 
+Litigation’). In International Energy Group Ltd v Zurich Insurance plc [2013], the claimants contended that Barker 
+should continue to be applied to a claim arising in Guernsey (where s 3 of the Compensation Act 2006 does not apply). 
+The Court of Appeal ruled that the approach of the Supreme Court in BAI (Run Off) (based on Lord Rodger’s approach 
+in Barker) was to be preferred. Following an appeal heard in July 2014, with further submissions in January 2015, a 
+seven-member Supreme Court confirmed that this is the position (Zurich Insurance plc UK Branch v International 
+Energy Group Ltd [2015]).
+ 
+36. This principle was used in Novartis Grimsby Ltd v Cookson [2007]—but this was not a mesothelioma case.
+ 
+37. Sienkiewicz v Grief (UK) Ltd [2009]. Also see Willmore v Knowsley Metropolitan Borough Council [2009].
+ 
+38. Section 3(1)(d) was the point of contention, as the conditions in s 3(1)(a)–(c) were clearly made out.
+ 
+39. Alongside the defendant’s appeal in Willmore v Knowsley Metropolitan Borough Council [2011], which was heard at 
+the same time.
+ 
+40. The implication appears to be that if the evidential uncertainties disappear by future findings that fill the scientific 
+gaps in our knowledge, the mesothelioma exception would also disappear.
+ 
+41. This fits more closely with McGhee v National Coal Board [1973], upon which Fairchild was originally based (see 
+section 9.2.2.1).
+ 
+42. Reflecting further an attempt to do justice for those who contract mesothelioma due to negligent employers, the 
+Mesothelioma Act 2014 established the Diffuse Mesothelioma Payment Scheme, which allows parties who contracted 
+the disease after 25 July 2012, but who have no one to sue (as the employer(s) who negligently exposed them, or their 
+insurers, have become insolvent), to claim from a compensation fund paid for by levies from the insurance industry 
+(though only for 80 per cent of the amount of the average damages obtainable via legal action).
+ 
+43. See the opinion of Lord Mance, especially at [45]–[49].
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+9. Causation and remoteness of damage
+Page 46 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+44. Heneghan v Manchester Dry Docks Ltd and others [2016]. Part of the reasoning was based on the fact that in Zurich, 
+Lords Neuberger and Reed said that the Fairchild exception was ‘applicable to any disease which has the unusual 
+features of mesothelioma’ (at [191]). Note, however, that the Barker rule on apportionment would apply.
+ 
+45. Compare Meiklejohn v St George’s Healthcare NHS Trust and another [2014].
+ 
+46. See Chester v Afshar [2002] (CA) (at [40]).
+ 
+47. Wallace v Kam [2013].
+ 
+48. See also Thefaut v Johnston [2017]; Webster (A Child) v Burton Hospitals NHS Foundation Trust [2017].
+ 
+49. See also Pomphrey v Secretary of State for Health and another [2019]. Khan v Meadows [2021] and the ‘scope of duty’ 
+is discussed further in section 2.5.4.
+ 
+50. Notably, this case was decided before Wilsher reached the House of Lords, as recognised by Lord Bingham in 
+Fairchild at [28].
+ 
+51. See also Gouldsmith v Mid-Staffordshire General Hospitals Trust [2007], Ganz v Childs and others [2011], Less & Carter 
+v Hussain [2012] and Palmer v Portsmouth Hospitals NHS Trust [2017].
+ 
+52. Applying Hotson, Sriya’s claim in the scenarios outlined at the beginning of the chapter would also fail.
+ 
+53. The difference is that in Barnett the claimant was 100 per cent certain to die from the original arsenic poisoning: he 
+literally had ‘no chance’.
+ 
+54. See e.g. Allied Maples Group v Simmons and Simmons [1995], Dixon v Clement Jones Solicitors [2004], Wellesley 
+Partners LLP v Withers LLP [2015] (in relation to concurrent liability in contract and tort), McGill v The Sports and 
+Entertainment Media Group and others [2016]; Wright v Lewis Silkin LLP [2016], Perry v Raleys Solicitors [2019] and King 
+v Royal United Hospitals Bath NHS Foundation Trust [2021] EWHC 1576 (QB).
+ 
+55. On an alternative view, the ‘loss’ that the claimant identified in Gregg is essentially fictional. On this view it is 
+inaccurate to say that the claimant lost a chance—either the claimant was one of the 42 people out of 100 who would 
+have survived with immediate treatment, or he was one of the 58 who would not. As one of the former group, the 
+claimant had a 100 per cent chance of survival, if in the latter they had no chance. The difficulty is that we cannot 
+know which group the claimant fell into so we are thrown back onto the statistical probability (58:42) that he fell 
+within the latter class. Importantly, just because 42 out of 100 people survive in such a situation, it does not mean that 
+each one of those people had a 42 per cent chance of survival; rather 42 of them had a 100 per cent chance of survival 
+and 58 had no chance.
+ 
+56. However, an alternative view should again be noted, which suggests that recognising loss of chance claims would 
+potentially change the outcome of almost every negligence claim. As discussed earlier, as things stand, if a claimant 
+can establish on the balance of probabilities that the defendant’s negligence caused their loss, they recover all of their 
+losses. Where claimants cannot prove this, they recover nothing. However, very rarely are we 100 per cent sure that 
+the claimant would have been harmed even without the breach, so almost every claimant could argue that they lost 
+some chance of escaping unharmed. Moreover, where negligence claims succeed, we are rarely 100 per cent certain 
+that the harm would not have been suffered but for the breach, because the question is necessarily hypothetical. 
+Would acceptance of the loss of chance argument entail reductions in claimants’ damages to reflect the fact that there 
+was a chance that the harm would have been suffered anyway? The lost chance approach involves a shift away from 
+the all or nothing approach we currently have. If so, cases like Hotson, Wilsher and even Fairchild (where 100 per cent 
+44.
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+9. Causation and remoteness of damage
+Page 47 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+of the loss was recoverable despite the uncertainties) would have to be overruled, unless we could say that, in some 
+situations, the all or nothing approach applies, whereas in others, the lost chance approach does. This would be 
+difficult to do without arbitrariness and inconsistency, though Lord Nicholls in his dissent sought to do just this.
+ 
+57. This is simply a question of apportionment. See e.g. Rothwell v Chemical and Insulating Co Ltd [2007].
+ 
+58. Opinions differ as to whether Gregg rules out this type of claim entirely or merely restricts it to as yet undefined 
+situations (Lord Phillips and, possibly, Baroness Hale refused to rule out lost chance claims in other contexts). See 
+Lord Neuberger MR in Wright (A Child) v Cambridge Medical Group [2011] at [82]–[84].
+ 
+59. One tenuous way of putting this is that the decision could be justified on the ground that the claimant would not 
+have been working in the scrap-metal yard (so would not have been shot) had it not been for the negligence of the first 
+defendant. For a more concrete exposition of this idea (though rejected), see Gray v Thames Trains [2009], where 
+Baker was doubted, and also Ecila Henderson (A Protected Party, by her litigation friend, The Official Solicitor) v Dorset 
+Healthcare University NHS Foundation Trust [2020] UKSC (these cases are considered further in the context of the 
+defence of illegality in section 10.3).
+ 
+60. Though see Lord Brown, Gray v Thames Trains [2009] at [96]–[97]. Cf Corr v IBC Vehicles Ltd [2008].
+ 
+61. In Performance Cars v Abraham [1962], the same idea is used in a case concerning property damage. See also 
+Reaney v University Hospital of North Staffordshire NHS Trust and another [2015], discussed in section 9.3.1.1.
+ 
+62. And it has recently been confirmed by the Supreme Court that the burden of proving that a loss is too remote falls 
+on defendants: Armstead v Royal & Sun Alliance Insurance Co Ltd [2024].
+ 
+63. By the time of The Wagon Mound (No 2), evidence showed that though unlikely, it was quite possible for oil spread 
+thinly on the surface of water to be ignited if a certain temperature was reached, such as if a welder’s spark fell onto 
+something floating in the oily water and smouldered for a while (as had, in fact, happened in this case). Therefore, the 
+issue in that case was not about foreseeability but whether, given that the damage could now be considered 
+foreseeable, a reasonable person would have taken steps to prevent it—a breach issue (section 8.5).
+ 
+64. See e.g. section 19.3.1. Jenny Steele, however, says that it is perhaps ‘time to update’ The Wagon Mound (No 1) 
+test (Tort Law (4th edn OUP 2017) 209).
+ 
+65. Confirmed in Conarken Group Ltd v Network Rail Infrastructure Ltd [2011], Taylor v Chief Constable of Hampshire 
+Police [2013], Hicks v Young [2015] and by the Court of Appeal in Goldscheider v Royal Opera House Covent Garden 
+Foundation [2019]. In the context of financial losses, see Rubenstein v HSBC Bank plc [2012].
+ 
+66. Mark Lunney, Donal Nolan and Ken Oliphant Tort Law: Text and Materials (6th edn OUP 2017) 280.
+ 
+67. See section 5.5.
+ 
+68. Reaney v University Hospital of North Staffordshire NHS Trust and another [2015]. The matter was reverted to a 
+further trial applying that test: see Reaney v University Hospital of North Staffordshire NHS Trust and another (No 2) 
+[2016].
+ 
+69. This obviously has links to the situations in which a duty in respect of the acts of a third party can arise (see Chapter 
+4, but contrast Topp v London Country Bus (South West) Ltd [1993], section 4.5.3).
+ 
+70. Contrast Wilkin-Shaw v Fuller [2013], where the actions of the intervening third party regarding a party of 
+schoolchildren in difficulty on a moor were at the very least well-meaning.
+57.
+58.
+59.
+60.
+61.
+62.
+63.
+64.
+65.
+66.
+67.
+68.
+69.
+70.
+9. Causation and remoteness of damage
+Page 48 of 48
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+71. Unless it is considerably negligent or ‘egregious’: see Lord Neuberger MR’s discussion of this in Wright (A Child) v 
+Cambridge Medical Group [2011] at [37].
+ 
+72. Contrast to Rouse v Squires [1973].
+ 
+73. Consider this in relation to Babatunde’s claim against David. Did the police break the chain of causation? Compare 
+Knightley v Johns [1982], Rouse v Squires [1973] and Wright v Lodge [1993]. Also see Robinson v Post Office [1974].
+ 
+74. See section 10.4.
+ 
+75. Law Reform (Contributory Negligence) Act 1945.
+ 
+76. Borealis AB v Geogas Trading SA [2010], applied in Flanagan and another v Greenbanks Ltd (t/a Lazenby Insulation) 
+and Cross [2013].
+ 
+77. See also Smith v Youth Justice Board for England and Wales and another [2010] where the claimant’s own 
+contribution to the post-traumatic stress disorder she suffered after the death of a 15-year-old boy in custody who she 
+was involved in forcibly restraining in effect broke the chain of causation (on grounds of ‘fairness’): see Sedley LJ at 
+[29]–[37].
+© Kirsty Horsey & Erika Rackley 2025
+Related Books
+View the Essential Cases in tort law
+Related Links
+Test yourself: Multiple choice questions with instant feedback <https://learninglink.oup.com/access/content/brennan-  
+concentrate6e-student-resources/brennan-concentrate6e-diagnostic-test>
+Find This Title
+In the OUP print catalogue <https://global.oup.com/academic/product/9780198925231>
+71.
+72.
+73.
+74.
+75.
+76.
+77.

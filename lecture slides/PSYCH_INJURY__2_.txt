@@ -1,0 +1,266 @@
+LAW OF TORT
+Psychiatric Injury 
+(2)
+LAW OF TORT
+Topics outline
+1. The general exclusionary rule
+2. Primary v secondary victims
+3. Requirements for primary victims
+4. Requirements for secondary victims
+5. Employees
+6. Summary and critique
+LAW OF TORT
+4. Requirements for 
+Secondary Victims (cont.)
+LAW OF TORT
+The requirements
+A. Recognised psychiatric illness
+B. Foreseeable psychiatric illness in a person of ordinary 
+fortitude
+C. Resulting from an accident 
+D. The 3 elements of proximity: 
+i.
+Close ties of love and aﬀection
+ii.
+Proximity in time and space to the accident or its aftermath
+iii. Sight or hearing of the accident or its aftermath
+LAW OF TORT
+D. The three elements of 
+proximity
+“[Alcock] established that a person who suﬀers reasonably 
+foreseeable psychiatric illness as a result of another person's 
+death or injury cannot recover damages unless he can satisfy 
+three requirements: (i) that he had a close tie of love and 
+aﬀection with the person killed, injured or imperilled; (ii) 
+that he was close to the incident in time and space; (iii) that 
+he directly perceived the incident rather than, for example, 
+hearing about it from a third person.”
+(White v CC of S Yorks [1999] 1 All ER 1, Lord Steyn, p.496)
+LAW OF TORT
+D(i) Close ties of love 
+and aﬀection
+Alcock v Chief Constable of South Yorkshire [1992] 1 AC 388 
+Brothers were not close enough, on the facts.
+Parents and ﬁancé were close enough.
+“Whether the degree of love and aﬀection in any given relationship, be it 
+that of relative or friend, is such that the defendant … should reasonably 
+have foreseen the shock-induced psychiatric illness, has to be decided on a 
+case by case basis.” (Lord Ackner, p.404)
+“I think it suﬃcient that reasonable foreseeability should be the guide. I 
+would not seek to limit the class by reference to particular relationships 
+such as husband and wife or parent and child. The kinds of relationship 
+which may involve close ties of love and aﬀection are numerous …” (Lord 
+Keith, p.397)
+LAW OF TORT
+D(ii + iii) Proximity in 
+time and space + sight or 
+hearing
+McLoughlin v O’Brian [1943] AC 92
+Facts:
+C’s husband and children were in a car accident, in which one daughter was 
+killed.
+She arrived at the hospital just over 1 hour later, and found her remaining 
+family bruised and covered in grime – in the same condition as they would 
+have been had she found them at the scene of the accident. 
+C developed psychiatric illness.
+Held:
+D owed C a DoC. Although C was not proximate to the accident itself, she did 
+witness its ‘immediate aftermath’.
+LAW OF TORT
+D(ii + iii) Proximity in 
+time and space + sight or 
+hearing
+Alcock v Chief Constable of South Yorkshire [1992] 1 AC 388
+“The necessary element of proximity between plaintiﬀ and 
+defendant is furnished, at least in part, by both physical and 
+temporal propinquity and also by the sudden and direct visual 
+impression on the plaintiﬀs mind of actually witnessing the event 
+or its immediate aftermath. To use Lord Wilberforce's words in 
+McLoughlin's case [1983] 1 A.C. 410, 422-423: ‘As regards 
+proximity to the accident, it is obvious that this must be close in 
+both time and space. . . . The shock must come through sight or 
+hearing of the event or of its immediate aftermath.’” 
+(Lord Oliver, p.416)
+LAW OF TORT
+D(ii + iii) Proximity in 
+time and space + sight or 
+hearing
+Alcock v Chief Constable of South Yorkshire [1992] 1 AC 388
+Although the parents and the ﬁancé had close ties of love and 
+aﬀection, their claims still failed because they only saw the 
+events on TV.
+“the televised images seen by the various plaintiﬀs cannot be 
+equiparated with ‘sight or hearing of the event.’ … [T]he shock 
+in each case arose not from the original impact of the 
+transmitted image which did not, as has been pointed out, 
+depict the suﬀering of recognisable individuals.” (Lord Oliver, 
+p.417)
+LAW OF TORT
+D(ii + iii) Proximity in 
+time and space + sight or 
+hearing
+C must see the shocking event itself (or its immediate aftermath), 
+rather than being told about it or seeing the ‘general scene’
+“simultaneous broadcasts of a disaster cannot in all cases be ruled out 
+as providing the equivalent of the actual sight or hearing of the event or 
+its immediate aftermath … situations could be imagined where the 
+impact of the simultaneous television pictures would be as great, if not 
+greater, than the actual sight of the accident.” (Lord Ackner, Alcock, 
+p.405)
+Taylor v Somerset [1993] 4 Med. L.R. 34 – Being told of death and seeing 
+a body later is not the same as seeing the accident or its immediate 
+aftermath – no DoC
+LAW OF TORT
+5. Employees
+LAW OF TORT
+The requirements
+A. Foreseeable psychiatric illness
+B. Relationship of employment
+C. Psychiatric illness results from stress at work rather than 
+from witnessing the injury of another
+LAW OF TORT
+White v CC of S Yorks 
+[1998] 2 AC 455 (aka 
+Frost)
+Facts:
+Cs were police oﬃcers at Hillsborough disaster who helped 
+rescue victims, and developed psychiatric illnesses after the 
+event.
+Held:
+Cs not primary victims, nor did they meet the secondary 
+victim requirements, nor did their status as employees mean 
+they could recover – no DoC 
+LAW OF TORT
+White v CC of S Yorks 
+[1998] 2 AC 455 (aka 
+Frost)
+There is no special rule for employees when it comes to psychiatric 
+injury caused by witnessing shocking events – if they are to recover, 
+then they must meet the ordinary requirements of primary or 
+secondary victims.
+BUT … things are diﬀerent when an employee’s psychiatric injury 
+results not from witnessing shocking events, but from stress at work.
+“The control mechanisms were plainly never intended to apply to all 
+cases of psychiatric injury. They contemplate that the injury has been 
+caused in consequence of death or injury suﬀered … by someone else.” 
+(Lord Hoﬀmann, p.504)
+LAW OF TORT
+Hatton v Sutherland 
+[2002] EWCA Civ 76
+“There are … no special control mechanisms applying to claims for psychiatric 
+… illness arising from the stress of doing the work which the employee is 
+required to do”. (Hale LJ, [22])
+“The threshold question is whether [psychiatric] harm to this particular 
+employee was reasonably foreseeable … : this has two components (a) an 
+injury to health (as distinct from occupational stress) which (b) is attributable 
+to stress at work (as distinct from other factors)”. (Hale LJ, [43])
+“Foreseeability depends upon what the employer knows (or ought reasonably 
+to know) about the individual employee. … An employer is usually entitled to 
+assume that the employee can withstand the normal pressures of the job 
+unless he knows of some particular problem or vulnerability”. (Hale LJ, [43])
+LAW OF TORT
+Barber v Somerset CC 
+[2004] UKHL 13
+Facts:
+C was a teacher who had been under a lot of stress, which was largely ignored by his 
+employer.
+Held:
+D owed C a DoC
+“the Court of Appeal failed to give adequate weight to … the fact that Mr Barber, an 
+experienced and conscientious teacher, had been oﬀ work for three weeks … with no 
+physical ailment or injury. His absence was certiﬁed by his doctor to be due to stress 
+and depression. The senior management team should have made inquiries about his 
+problems and seen what they could do to ease them … instead of brushing him oﬀ 
+unsympathetically … or sympathising but simply telling him to prioritise his work”. 
+(Lord Walker, [67])
+LAW OF TORT
+6. Summary and 
+Critique
+LAW OF TORT
+Cheat sheet
+Primary victims
+A. Foreseeable 
+personal injury 
+(or ‘unwilling 
+participant’)
+B. Recognised 
+psychiatric 
+illness 
+Employees
+A. Foreseeable 
+psychiatric illness
+B.
+Relationship of 
+employment
+C.
+Psychiatric illness 
+results from stress 
+at work rather than 
+from witnessing a 
+shocking event
+A.
+Recognised 
+psychiatric illness
+B.
+Foreseeable 
+psychiatric illness in 
+a person of ordinary 
+fortitude
+C.
+Resulting from an 
+accident 
+D.
+The 3 elements of 
+proximity 
+Secondary victims
+LAW OF TORT
+Criticism
+“My Lords, the law on the recovery of compensation for pure psychiatric 
+harm is a patchwork quilt of distinctions which are diﬃcult to justify. 
+There are two theoretical solutions. The ﬁrst is to wipe out recovery in tort 
+for pure psychiatric injury. … But that would be contrary to precedent … 
+The second solution is to abolish all the special limiting rules applicable to 
+psychiatric harm. … Precedent rules out this course … In my view the only 
+sensible general strategy for the courts is to say thus far and no further. 
+The only prudent course is to treat the pragmatic categories … as settled 
+for the time being but by and large to leave any expansion or development 
+in this corner of the law to Parliament. In reality there are no reﬁned 
+analytical tools which will enable the courts to draw lines by way of 
+compromise solution in a way which is coherent and morally defensible.”
+(Lord Steyn, White, p.500)
+LAW OF TORT
+Criticism
+“It seems to me that in this area of the law, the search for 
+principle was called oﬀ in Alcock … No one can pretend 
+that the existing law, which your Lordships have to accept, 
+is founded upon principle.” (Lord Hoﬀmann, White, 
+p.511)
+“The control mechanisms now in force are those 
+established in Alcock's case … These rules, being arbitrary 
+in nature, are widely perceived to create unjust and 
+unacceptable distinctions.”(Lord Goﬀ, White, p.487)
+LAW OF TORT
+Criticism
+“We believe that the imposition of all three proximity 
+requirements [in Alcock] is unduly restrictive, and that it is the 
+last two limitations that have resulted in the most arbitrary 
+decisions. … We consider that so long as special control 
+mechanisms over and above foreseeability are required in order 
+to limit the potential number of claimants, the most acceptable 
+method of achieving this is to restrict the claimants by 
+reference [only] to their connection with the immediate 
+victim.” 
+(Law Commission Report No. 249, para 6.10)
+LAW OF TORT
+Criticism
+“In the context of secondary victims … the tort of negligence draws 
+distinctions that are diﬃcult to defend. It is arguable that the only 
+truly principled solution, which would avoid any arbitrary line 
+drawing, would be to impose a duty of care where, in general terms, 
+it was reasonably foreseeable that psychiatric illness would be 
+caused to the secondary victim … But policy concerns … mean that 
+adoption of that principled solution would constitute a radical and 
+giant leap forward for the common law. For that reason, at the 
+present stage of development, that solution is not a realistic option 
+open to the courts.”
+(Lord Burrows, Paul, [144])

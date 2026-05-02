@@ -1,0 +1,311 @@
+LAW OF TORT
+Pure Economic Loss 
+(1)
+LAW OF TORT
+Pure economic loss (‘PEL’)
+Easy to show DoC in cases of an act which reasonably 
+foreseeably causes physical injury or property damage
+Harder to show DoC in cases of PEL, pure psychiatric 
+injury, or omissions – ‘special duty problems’
+Something more needed in PEL cases to create a DoC: 
+normally this is an “assumption of responsibility”
+LAW OF TORT
+Justiﬁcations for the 
+exclusionary rule
+Economic loss lower in the hierarchy of interests than 
+physical injury/property damage
+Floodgates: judges do not want to create “liability in an 
+indeterminate amount for an indeterminate time to an 
+indeterminate class” (Cadozo CJ in Ultramares) 
+Liability would often be disproportionate to the wrong
+Important to protect freedom of economic activity
+Simple rules create legal certainty/predictability
+LAW OF TORT
+Justiﬁcations for the 
+exclusionary rule
+“One of the most important distinctions always to be 
+observed lies in the law's essentially diﬀerent approach to the 
+diﬀerent kinds of damage which one party may have 
+suﬀered in consequence of the acts or omissions of another. It 
+is one thing to owe a duty of care to avoid causing injury to 
+the person or property of others. It is quite another to avoid 
+causing others to suﬀer purely economic loss.”
+(Lord Bridge, Caparo v Dickman)
+LAW OF TORT
+PEL outline
+1. What counts as PEL?
+2. Assumption of responsibility
+3. The extension of Hedley Byrne
+4. The limits of the doctrine
+5. Speciﬁc aspects of the doctrine
+LAW OF TORT
+1. What Counts as PEL?
+LAW OF TORT
+Spartan Steel v Martin 
+& Co [1973] 1 QB 27 
+Facts:
+D negligently damaged a power cable owned by T that was critical to 
+C’s factory, leaving C without power for 14 hours
+3 kinds of damage: 
+(i) damage to steel in furnace at time of power cut 
+which had 
+to be poured away; 
+(ii) loss of proﬁt from the sale of that steel; and 
+(iii) loss of proﬁt from other steel which could have been 
+made 
+during the rest of the 14 hours.
+LAW OF TORT
+Spartan Steel v Martin 
+& Co [1973] 1 QB 27 
+Held:
+C can recover for damage types (i) and (ii), but not for 
+(iii)
+(i) was damage to property
+(ii) was economic loss consequent on property damage
+(iii) was pure economic loss
+LAW OF TORT
+Spartan Steel v Martin 
+& Co [1973] 1 QB 27 
+“the cutting of the supply of electricity … is a hazard which we all run. … Such a 
+hazard is regarded by most people as a thing they must put up with—without seeking 
+compensation from anyone. … When the supply is cut oﬀ, they do not go running 
+round to their solicitor. … They just put up with it. They try to make up the economic 
+loss by doing more work next day. This is a healthy attitude which the law should 
+encourage.”
+“if claims for economic loss were permitted for this particular hazard, there would be 
+no end of claims.”
+“the risk of economic loss should be suﬀered by the whole community who suﬀer the 
+losses—usually many but comparatively small losses—rather than on the one pair of 
+shoulders, that is, on the contractor on whom the total of them, all added together, 
+might be very heavy.” 
+(Denning LJ, p.38)
+LAW OF TORT
+Murphy v Brentwood DC 
+[1991] 1 AC 398 
+Facts:
+D approved building plans for house purchased by C
+The foundations of the house cracked, causing damage to 
+the walls and pipes of the house
+Held:
+D not liable – pure economic loss
+LAW OF TORT
+Murphy v Brentwood DC 
+[1991] 1 AC 398 
+“there is no liability in tort upon a manufacturer towards the purchaser from a 
+retailer of an article which turns out to be useless or valueless through defects 
+due to careless manufacture. The loss is economic.” (Lord Keith, p.465)
+“if such a duty is incumbent upon the local authority, a similar duty must 
+necessarily be incumbent also upon the builder of the house. If the builder of 
+the house is to be so subject, there can be grounds in logic or in principle for 
+not extending liability upon like grounds to the manufacturer of a chattel. 
+That would open on an exceedingly wide ﬁeld of claims. …” (Lord Keith, 
+p.469)
+“it is necessary to search for and ﬁnd something more than the mere 
+reasonable foreseeability of damage …[to provide] the degree of ‘proximity’ 
+necessary” (Lord Oliver, p.486)
+LAW OF TORT
+Car scenario #1
+C buys a car from D with a faulty wheel
+The faulty wheel causes C to crash and break his leg
+C is self-employed and cannot work for a few weeks as a 
+result of his broken leg, and loses MX
+Result: C can recover MX. This is not ‘pure’ economic loss – it 
+is economic loss consequent on personal injury.
+LAW OF TORT
+Car scenario #2
+C buys a car from D with a faulty wheel
+The faulty wheel damages the drivetrain and engine of the 
+car
+Result: D liable only in contract not in tort – damage is PEL
+See Lord Keith in Murhpy v Brentwood DC, p.470
+LAW OF TORT
+Car scenario #3
+C buys a car from A
+C purchases a new wheel from D, which is faulty 
+The faulty wheel damages the drivetrain and engine of the 
+car
+Result: D liable – property damage, not PEL
+See Lord Keith in Murhpy v Brentwood DC, p.470
+LAW OF TORT
+2. Assumption of 
+responsibility 
+LAW OF TORT
+The exception: assumption of 
+responsibility
+To establish that that D owes C a duty of care for pure 
+economic loss, C must usually show that:
+there was a relationship of trust and conﬁdence between D 
+and C;
+that D voluntarily assumed responsibility for the risk to C; 
+and 
+that in negligent misstatement cases, C reasonably relied 
+on D’s advice or information.
+LAW OF TORT
+Hedley Byrne v Heller 
+[1964] AC 465 
+Facts:
+C wanted to know if T was creditworthy
+D (T’s bank) negligently provided a reference for C, saying 
+T was creditworthy
+D clariﬁed that references were being given ‘without 
+responsibility’ 
+T went bankrupt, and C made a loss as a result
+LAW OF TORT
+Hedley Byrne v Heller 
+[1964] AC 465 
+Held:
+D owed C a duty of care in relation to the PEL
+BUT … the disclaimer – that references were being given 
+‘without responsibility’ – meant D was not liable in the 
+end
+LAW OF TORT
+Hedley Byrne v Heller 
+[1964] AC 465 
+Justiﬁcation 
+“A reasonable man, knowing that he was being trusted or that his skill 
+and judgment were being relied on, would, I think, have three courses 
+open to him. [1] He could keep silent or decline to give the information 
+or advice sought: or [2] he could give an answer with a clear 
+qualiﬁcation that he accepted no responsibility for it …: or [3] he could 
+simply answer without any such qualiﬁcation. If he chooses to adopt 
+the last course he must, I think, be held to have accepted some 
+responsibility for his answer being given carefully, or to have accepted 
+a relation ship with the inquirer which requires him to exercise such 
+care as the circumstances require.” (Lord Reid, p.486) 
+LAW OF TORT
+Hedley Byrne v Heller 
+[1964] AC 465 
+Justiﬁcation 
+“the categories of special relationships which may give rise 
+to a duty to take care … are not limited to contractual 
+relationships … but include also relationships which …  are 
+“equivalent to contract”, that is, where there is an 
+assumption of responsibility in circumstances in which, but 
+for the absence of consideration, there would be a contract.” 
+(Lord Devlin, p.528-529)
+LAW OF TORT
+3. The extension of 
+Hedley Byrne
+LAW OF TORT
+A. Extension to third 
+parties
+Smith v Eric S Bush (a ﬁrm) [1990] 1 AC 831
+Facts:
+
+Cs were purchasers of properties 
+
+They paid their mortgagees for a valuation of the properties
+
+The mortgagees’ valuers, D, negligently overvalued the properties
+
+Cs didn’t get their own further survey and suﬀered loss when the valuations each turned out to be 
+negligent 
+Held:
+
+D owed a DoC to C in respect of the PEL, even though C‘s relationship was only with their mortgagee, 
+not with D
+LAW OF TORT
+A. Extension to third 
+parties
+Smith v Eric S Bush (a ﬁrm) [1990] 1 AC 831
+“In the present appeals, the relationship between the valuer 
+and the purchaser is “akin to contract.” The valuer knows 
+that the consideration which he receives derives from the 
+purchaser and is passed on by the mortgagee, and the valuer 
+also knows that the valuation will determine whether or not 
+the purchaser buys the house.” 
+(Lord Templeman, p.846)
+LAW OF TORT
+A. Extension to third 
+parties
+Smith v Eric S Bush (a ﬁrm) [1990] 1 AC 831
+“The four critical facts are that [D] knew from the outset: 
+(1) that the report would be shown to [C]; 
+(2) that [C] would probably rely on the valuation contained therein in deciding 
+whether to buy the house without obtaining an independent valuation; 
+(3) that if, in these circumstances, the valuation was, having regard to the actual 
+condition of the house, excessive, [C] would be likely to suﬀer loss; and 
+(4) that [C] had paid to the building society a sum to defray [D’s] fee.”
+(Lord Jauncey, p.871 )
+LAW OF TORT
+B. Extension to the 
+provision of services
+“although Hedley Byrne itself was concerned with the 
+provision of information and advice, it is clear that the 
+principle in the case is not so limited and extends to include 
+the performance of other services, as for example the 
+professional services rendered by a solicitor to his client” 
+(Lord Goﬀ in Spring v Guardian Assurance [1995] 2 AC 296, 
+p.318)
+LAW OF TORT
+B. Extension to the 
+provision of services
+Henderson v Merrett Syndicates Ltd [1995] 2 AC 145 
+Facts: 
+Cs invested money in the Lloyds of London insurance market and 
+lost it as a result of Ds’ alleged negligence in managing their 
+aﬀairs
+Held:
+Ds owed a duty of care on the basis of their assumption of 
+responsibility 
+LAW OF TORT
+B. Extension to the 
+provision of services
+Subjective reliance not necessary in provision of services cases?
+“where [C] entrusts the defendant with the conduct of his aﬀairs, in general or in 
+particular, the defendant may be held to have assumed responsibility to [C], and 
+[C] to have relied on the defendant to exercise due skill and care, in respect of 
+such conduct.” (Lord Goﬀ in Spring v Guardian Assurance [1995] 2 AC 296, p.318)
+“although, in the case of the provision of information and advice, reliance upon it 
+by the other party will be necessary to establish a cause of action … nevertheless 
+there may be other circumstances in which there will be the necessary reliance … 
+In particular, as cases concerned with solicitor and client demonstrate, where [C] 
+entrusts the defendant with the conduct of his aﬀairs, in general or in 
+particular, he may be held to have relied on the defendant to exercise due skill 
+and care in such conduct.” (Lord Goﬀ in Henderson, p.180)
+LAW OF TORT
+C. Special extension: 
+wills
+White v Jones [1995] 2 AC 207
+Facts:
+D instructed by A to put Cs, his daughters, in his will. 
+D negligently failed to include Cs in the will, and A died.
+C then discovered the will had not been changed. 
+C claimed against D for the money they would have had if 
+the will had been changed
+LAW OF TORT
+C. Special extension: 
+wills
+White v Jones [1995] 2 AC 207
+Problems:
+No relationship at all between D and C
+D never assumed any responsibility to C
+C did not rely on anything D did or did not do
+D’s negligence was an omission, not an act
+LAW OF TORT
+C. Special extension: 
+wills
+White v Jones [1995] 2 AC 207
+Held (3-2):
+D liable for C’s loss!!
+LAW OF TORT
+C. Special extension: 
+wills
+White v Jones [1995] 2 AC 207
+Lord Goﬀ’s reasoning (majority):
+1. “if such a duty is not recognised, the only persons who 
+might have a valid claim … have suﬀered no loss, and the 
+only person who has suﬀered a loss … has no claim.” 
+(p.259)
+2. Importance of legacies in society
+3. No injustice done to solicitors
+4. Role of solicitors in society an important factor
+LAW OF TORT
+C. Special extension: 
+wills
+White v Jones [1995] 2 AC 207
+Dissent:
+The essential ingredient of ‘mutuality’ is lacking
+No relationship between C and D – opens the ﬂoodgates to 
+all claims where A asks B to perform a service for the 
+beneﬁt of C

@@ -1,0 +1,361 @@
+Private Nuisance
+Week 15
+Week 16
+Lecture 29 (Part B)
+Lecture 31 
+(Part A)
+Lecture 30
+Dr Sarah Gilmartin
+Drop-in Hours: make an appointment
+s.gilmartin@lancaster.ac.uk
+Private Nuisance – A definition
+‘Private nuisance is defined as any substantial and unreasonable interference with the claimant’s 
+land, or with his rights to peaceful enjoyment of that land and any right that exists in connection 
+with it. It need not result from “direct” or “intentional” interference; it is sufÏcient that the 
+defendant have “adopted or continued” a state of affairs that constitutes an unreasonable 
+interference.’  
+Zoe Adams, Markesinis and Deakin’s Tort Law (8th edn, OUP 2019)
+‘The function of the tort, in the context of private nuisance, is to control the activities of the owner 
+or occupier of property within the boundaries of his own land which may harm the interests of the 
+owner or occupier of other land.’
+Hunter v Canary Wharf [1997] A.C. 655
+Elements 
+of the Tort
+1) Unlawful and indirect 
+interference by D with C’s use 
+and enjoyment of land (amenity 
+damage/property damage)
+2) D is an unreasonable user (is 
+the use common and ordinary?)
+3) Causation/Remoteness
+4) Defences
+5) Remedies
+Types of Private Nuisance
+Indirect interference examples 
+(not limited to):
+• Blocking natural light
+• Insect attraction (failure to 
+abate)
+• Noxious fumes
+• Interference with leisure 
+activities
+• Offensive smells or noise 
+(animals/industrial)
+• Not all environmental 
+‘nuisances’ are actionable
+Limits:
+• Injurious activity for 
+community benefit (still a 
+protection of private rights in 
+land; eg motor raceway that 
+benefits community)
+• Statutory frameworks 
+regarding environmental 
+damage
+Distinguishing 
+Private 
+Nuisance from 
+the other 
+Land-Based 
+Torts
+Private nuisance gives rise to an 
+action in tort, but is not a criminal 
+offence
+An interest in land is required to 
+take an action
+Private nuisance is DISTINCT from 
+public nuisance
+Not actionable per se (as 
+trespass to land is). There has to 
+be a type of legally recognised 
+damage. 
+Additional Reading
+Read: 
+Horsey & Rackley, 
+Private Nuisance, Chap. 
+18.3.1 – 18.3.3
+Cases on Reading List
+Who is the Claimant?
+• C must have standing
+• Standing = exclusive possessory or proprietary interest 
+in the land
+• Hunter v Canary Wharf [1997] A.C. 655
+• Rule has been criticised
+• Is it fair?
+• Issues for: children, non-named spouses 
+(Malone v Laskey [1907] 2 KB 141), lodgers, 
+au pairs, caregivers.. 
+• Why does this rule exist? 
+N.B. Human Rights Act 1998 incorporation of European Convention on Human Rights 
+Article 8 -  ‘everyone has the right to respect for his private and family life [and] his 
+home.’
+Read: H&R, Ch 18, 18.4.3 for discussion of private nuisance and its interaction 
+with the HRA 1998 and be aware of some of the human rights and 
+environmental arguments; BUT note that
+Who is the Defendant?
+Creator of the nuisance
+• Must be created 
+through use of land 
+• Even a continued 
+campaign of 
+harassment is not a 
+private nuisance 
+(Hussain v Lancaster 
+CC [1999] 4 All ER 
+125);
+Consider: how else 
+could these acts 
+result in tortious 
+liability?
+Occupier of the land 
+(and permitting 
+nuisance to occur)
+• Lawfully on premises 
+(vicarious liability 
+issues; any negligent 
+special danger)
+• Trespasser or natural 
+disaster (with actual or 
+constructive 
+knowledge and failure 
+to take reasonably 
+prompt and efÏcient 
+steps to abate)
+Owner/landlord
+• If authorised
+• Knew or should have 
+known before letting
+Unlawful and indirect 
+interference
+In order to bring an action in nuisance, the recognised right/interest in land 
+must be the subject of an unlawful interference 
+Example interferences: fumes, smells, vibrations, etc.
+Unlawful – Is D an unreasonable user?
+Locality (may be relevant depending on the type of harm)
+Sensitivity of the Claimant
+Malice
+Duration/Extent of the interference
+Public interest? 
+Unreasonable Interference?
+Locality (1/2)
+Sturges v Bridgman (1879) 11 Ch D 852
+“whether anything is a nuisance or not is a question to be determined, 
+not merely by an abstract consideration of the thing itself, but in 
+reference to its circumstances; what would be a nuisance in Belgrave 
+Square would not necessarily be so in Bermondsey; and where a locality 
+is devoted to a particular trade or manufacture carried on by the traders 
+or manufacturers in a particular and established manner not constituting 
+a public nuisance, Judges and juries would be justified in finding, and 
+may be trusted to find, that the trade or manufacture so carried on in 
+that locality is not a private or actionable wrong.” 
+per Thesiger LJ at 865
+Key takeaways: 
+
+Location matters to amenity 
+damage; and
+
+C
+i
+t
+i
+i
+Unreasonable 
+Interference?
+Locality (2/2)
+a) What if the damage complained 
+of is physical damage to property 
+rather than amenity damage?
+St Helen’s Smelting Co v Tipping 
+[1865] 11 HLC 642
+b) 
+What 
+if 
+the 
+nature 
+of 
+the 
+neighbourhood changes over time?
+Gillingham v Medway [1993] QB 343
+Coventry v Lawrence [2014] UKSC 
+13
+Unreasonable 
+Interference?
+Sensitivity of 
+Claimant/Foreseea
+bility
+Is the Claimant abnormally 
+sensitive?
+• Robinson v Kilvert (1889) 41 
+Ch D 88
+• Network Rail Infrastructure v 
+Morris [2004] EWCA Civ 172 
+Unreasonabl
+e 
+Interference?
+Malice
+Christie v Davey 
+[1893] 1 Ch. 316
+Unreasonable Interference?
+Time/Duration
+Halsey v Esso 
+[1961] 1 W.L.R. 683
+N.B. A good case to look at as well to 
+see the interaction of the land-based 
+torts: private nuisance, public 
+nuisance, and the rule in Rylands v 
+Fletcher
+Unreasonable Interference?
+Recent Developments (1/2)
+Network Rail Infrastructure v Williams [2018] EWCA Civ 1514
+• NRI had knowledge of Japanese Knotweed (JK) on their 
+property
+• Risk of encroachment interfered with C’s use and 
+enjoyment of property
+• COA rejected pure financial loss/diminution in value 
+(reduction in property price due to presence of JK BUT 
+“..the diminution in value of the properties, combined 
+with the fact that any owner would have to live with the 
+concerns and adverse consequences of a devalued 
+property, is properly characterised as an aspect of the 
+amenity of the land protected by the tort of private 
+nuisance.”
+Unreasonable Interference?
+Recent Developments (2/2)
+Fearn v Board of Trustees of the Tate Gallery [2023] UKSC 4
+• D art gallery opened a viewing platform
+• The platform overlooked C’s residence opposite
+• 500,000-600,000 visitors per year
+• The stages:
+• High court: Dismissed claim - ‘Common and 
+ordinary use’ of building.
+• Court of Appeal: Dismissed appeal. ‘Mere 
+overlooking’ not a nuisance, fails substantial 
+threshold.
+• UKSC: Allowed appeal. ‘Substantial’ or ‘intense’ 
+interference with owners’ use and enjoyment.
+• Remitted to lower court for remedy 
+The Tate Modern Has R
+eopened Its Viewing G
+allery as Level 10
+Fearn v Board of Trustees of the Tate 
+Gallery [2023] UKSC 4 and its 
+interpretation so far…
+N.B. No specific cases of visual intrusion since
+• MBR Acres Ltd v Curtin [2025] EWHC 331
+• Nuisance: drone use 
+• Reference to Fearn: [72] GrifÏths J's observations [in Lord Bernstein [1978]] about 
+whether repeated photographing of a person's property, amounting effectively to 
+surveillance, might ground a cause of action were very much rooted in the notion that 
+such behaviour might be found to be an actionable nuisance (cf. Fearn…). 
+• Cooper v Ludgate House Limited [2025] EWHC 1724 (Ch) 
+• Nuisance: interference with right to light
+• References to Fearn
+• [38]: An owner of property is expected to put up with a certain amount of disturbance 
+and not sue for a small, temporary or inconsequential infringement… 
+• [43]: The interest protected by the law of nuisance is the utility of land, and whether 
+there is or is no substantial interference is to be assessed objectively on that basis 
+[Fearn, per Lord Legatt [22]-[23]]
+Fearn v Board of Trustees of the Tate 
+Gallery [2023] UKSC 4 and its 
+interpretation so far…
+• Bakhaty v Hampshire CC [2025] EWHC 1175 
+(KB) 
+• Nuisance: noise from adjacent school play area 
+and footballs in claimant’s garden
+• Reference to Fearn: 
+[12] …I derive the following principles from the judgments in 
+that case:
+i)  The right protected by the law of nuisance is the 
+utility and amenity value of the claimant's land, not the 
+personal comfort of its occupiers.
+ii)  The overriding principle behind the law is the need 
+to strike a balance between the conflicting interests of 
+neighbouring landowners.
+iii)  The touchstone is not some overriding and 
+unprincipled test of reasonableness. Instead, the 
+question of whether any particular activity is a 
+nuisance has to be approached in a structured manner 
+as established by the authorities.
+iv)  The first question must always be whether the 
+activities complained of amount to a substantial 
+interference with ordinary user of the claimant's land. 
+This is an objective test to be judged by the standards
+v)  If the interference is substantial, the next question 
+is whether the user complained of is part of the 
+ordinary or normal user of the defendant's land. This 
+has to be considered in the context of the character of 
+the neighbourhood or locality. The parties' respective 
+properties do not in themselves or together constitute 
+a 'locality'. A neighbourhood or locality encompasses a 
+wider area and its actual extent depends on the 
+context. 
+vi)  Even if the defendant's use of their land is an 
+ordinary one, it must still be 'conveniently done'. This 
+requires 'proper consideration for the interests of 
+neighbouring occupiers' (Fearn @ [27]) . It is in this 
+respect alone that the concept of reasonableness 
+arises, having regard to the nature, effect, duration and 
+frequency of the activity complained of and the need 
+for give and take.
+vii)  The public interest cannot justify the commission 
+of a private law nuisance, although it may be of some 
+limited relevance when considering the grant of a 
+Defence
+s
+Read: H&R Ch 18, 
+18.3.4
+Locality – 
+not a “true” 
+defence but 
+see 
+Coventry v 
+Lawrence 
+Coming to 
+the nuisance 
+is not a 
+defence 
+Nuisance 
+result of 
+statutory 
+authority
+Natural 
+Disaster/Act 
+of God
+Independent 
+contractors 
+Prescription
+Contributory 
+negligence 
+and consent 
+Remedi
+es
+Abatement 
+Damages
+Injunction
+Damages in lieu of an injunction
+Coventry v Lawrence [2014] UKSC 13
+Dennis v Ministry of Defence [2003] EWHC 793 
+(QB)
+Skeleton outline/conclusion
+Prerequisites:
+• C capacity to sue
+• D capacity to be sued
+• Threshold of ‘inconvenience’ (also ‘intensity’ or substantial 
+interference)
+Elements:
+1) Interference by D with C’s use and enjoyment of land
+2) D: unreasonable user (is the use common and ordinary?)
+3) Causation/Remoteness
+4) Defences
+5) Remedies
+Private Nuisance 
+(End)
+Week 15
+Week 16
+Lecture 29 (Part B)
+Lecture 31 (Part 
+A)
+Lecture 30
+Dr Sarah Gilmartin
+Drop-in Hours: make an appointment
+s.gilmartin@lancaster.ac.uk

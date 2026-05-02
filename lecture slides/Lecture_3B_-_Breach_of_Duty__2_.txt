@@ -1,0 +1,240 @@
+LAW OF TORT
+Breach of Duty (2)
+LAW OF TORT
+Factors aﬀecting the 
+standard of care  
+Attributes of D
+1. Children
+2. Incapacity
+3. Profession
+4. Common practice
+Balancing external factors
+1. Probability of harm
+2. Gravity of harm
+3. Cost of precautions
+4. Social utility of D’s 
+conduct
+5. Context
+LAW OF TORT
+Tort poll 3B(i)
+LAW OF TORT
+Taking into account D’s 
+attributes
+LAW OF TORT
+1. Children
+Mullin v Richards [1998] 1 WLR 1304
+Facts:
+C and D were both 15-year-old schoolgirls. 
+They were fencing with plastic rulers during a class when 
+one of the rulers snapped and a fragment of plastic entered 
+C’s eye, causing her to lose all sight in that eye.
+LAW OF TORT
+1. Children
+Mullin v Richards [1998] 1 WLR 1304
+“The test of foreseeability is an objective one; but the fact that the 
+ﬁrst defendant was at the time a 15-year-old schoolgirl is not 
+irrelevant. The question for the judge is not whether the actions of 
+the defendant were such as an ordinarily prudent and reasonable 
+adult in the defendant’s situation would have realised gave rise to 
+a risk of injury, it is whether an ordinarily prudent and 
+reasonable 15-year-old schoolgirl in the defendant’s situation 
+would have realised as much.”
+(Hutchinson LJ) 
+LAW OF TORT
+1. Children
+Mullin v Richards [1998] 1 WLR 1304
+“This was in truth nothing more than a schoolgirls’ game 
+such as on the evidence was commonplace in this school” 
+(Hutchinson LJ)
+“I would say that girls of 15 playing together may play as 
+somewhat irresponsible girls of 15…” (Butler-Schloss LJ)
+LAW OF TORT
+2. Incapacity
+Mansﬁeld v Weetabix [1998] 1 WLR 1263
+D crashed his lorry into C’s shop as a result of a 
+hypoglycemic state caused by a medical condition of which 
+D was unaware.
+“the standard of care … was that which is to be expected of 
+a reasonably competent driver unaware that he is or may 
+be suﬀering from a condition that impairs his ability to 
+drive. To apply an objective standard …would be to impose 
+strict liability. But that is not the law.” (Leggat LJ)
+LAW OF TORT
+2. Incapacity
+Dunnage v Randall [2015] EWCA Civ 673 
+D was schizophrenic, and set himself on ﬁre, injuring C.
+“only defendants whose attack or medical incapacity has the eﬀect of 
+entirely eliminating any fault or responsibility for the injury can be 
+excused.” (Vos LJ)
+“It would … be open to a person who knows he has reduced abilities to 
+take account of those abilities in what he does … there will be hard 
+cases … where a person does not know what action to take to avoid 
+injury to others. However, his liability is no doubt treated in law as the 
+price for being able to move freely within society despite his 
+schizophrenia.” (Arden LJ) 
+LAW OF TORT
+3. Profession
+Issue 1: which special grouping if any ought D to be 
+regarded as belonging to?
+Depends on how D is ‘holding themselves out’ to the 
+world, and what C can reasonably expect of D
+• E.g. junior doctor same standard as experienced doctor (Wilsher)
+• E.g. unqualiﬁed legal advisor held to standard of professional lawyer (Wright)
+• E.g. ear-piercing in jewelry store – standard is reasonably competent jeweler, not surgeon 
+(Phillips)
+LAW OF TORT
+3. Profession
+Issue 1: which special grouping if any ought D to be regarded as 
+belonging to?
+“Where you get a situation which involves the use of some special skill 
+or competence, then the test as to whether there has been negligence or 
+not is not the test of the man on top of a Clapham omnibus, because he 
+has not got this special skill. The test is the standard of the ordinary 
+skilled man exercising and professing to have that special skill.” 
+(Bolam)
+The rule applies to any “profession or calling which requires special 
+skill, knowledge or experience.” (Gold v Haringey HA (1987))
+LAW OF TORT
+3. Profession
+Issue 2: what standard applies?
+“The test is the standard of the ordinary skilled man 
+exercising and professing to have that special skill.” (‘the 
+Bolam test’)
+C must show that “the error was one which no reasonably 
+competent member of the relevant profession would have 
+made.” (Lady Hale, in Moy v Pettman Smith)
+LAW OF TORT
+3. Profession
+The limits of Bolam: in Bolam itself
+D does not breach their duty of care if they act “in accordance with a 
+practice accepted as proper by a responsible body of medical opinion”.
+“a man is not negligent, if he is acting in accordance with such a 
+practice, merely because there is a body of opinion who would take a 
+contrary view.”
+“At the same time, that does not mean that a medical man can 
+obstinately and pig-headedly carry on with some old technique if it has 
+been proved to be contrary to what is really substantially the whole of 
+informed medical opinion.”
+(McNair J, Bolam v Friern [1957] 1 WLR 582 (QB))
+LAW OF TORT
+3. Profession
+The limits of Bolam: in Bolitho
+“if, in a rare case, it can be demonstrated that the 
+professional opinion is not capable of withstanding logical 
+analysis, the judge is entitled to hold that the body of 
+opinion is not reasonable or responsible.”
+The court “has to be satisﬁed that the exponents of the body 
+of opinion relied upon can demonstrate that such opinion 
+has a logical basis.”
+(Bolitho v City and Hackney Health Authority [1998] AC 232)
+LAW OF TORT
+3. Profession
+The limits of Bolam: in Montgomery [2015] UKSC 11
+Facts:
+D doctor did not disclose to C, who was short and diabetic, 
+the risks associated with a vaginal delivery.
+As a result, C suﬀered serious brain damage when the 
+baby became stuck in the birth canal.
+C claimed that the risk ought to have been disclosed and 
+she should have been oﬀered a caesarean delivery. 
+LAW OF TORT
+3. Profession
+The limits of Bolam: in Montgomery [2015] UKSC 11
+Old law: 
+In Sidaway the Court had held that a doctor’s choice to 
+provide, or not to provide information to patients was to 
+be judged by reference to the Bolam test.
+So essentially, if a bunch of doctors thought patients 
+shouldn’t be given some information, that was ﬁne!
+LAW OF TORT
+3. Profession
+The limits of Bolam: in Montgomery [2015] UKSC 11
+Held:
+Fundamental distinction between: (a) doctors considering 
+treatment options, and (b) doctors discussing treatments 
+and alternatives with patients.
+Bolam applies to (a) but not to (b). 
+LAW OF TORT
+3. Profession
+The limits of Bolam: in Montgomery [2015] UKSC 11
+Held:
+When discussing treatments and alternatives with 
+patients, doctors are “under a duty to take reasonable care 
+to ensure that the patient is aware of any material risks 
+involved in any recommended treatment, and of any 
+reasonable alternative or variant treatments.” 
+(Lords Kerr & Reed, [87])
+LAW OF TORT
+3. Profession
+The limits of Bolam: in Montgomery [2015] UKSC 11
+Held:
+“Material risk” means a reasonable person would attach 
+signiﬁcance to it, or the doctor ought reasonably to know 
+this particular patient would.
+Exception where patients cannot be told of risk because it 
+would be seriously detrimental to their health.
+LAW OF TORT
+3. Profession
+The limits of Bolam: in Montgomery [2015] UKSC 11
+“Whatever Dr McLellan may have had in mind, this does not look 
+like a purely medical judgment. It looks like a judgment that 
+vaginal delivery is in some way morally preferable to a caesarean 
+section: so much so that it justiﬁes depriving the pregnant woman 
+of the information needed for her to make a free choice in the 
+matter. Giving birth vaginally is indeed a unique and wonderful 
+experience, but it has not been suggested that it inevitably leads 
+to a closer and better relationship between mother and child than 
+does a caesarean section.”
+(Lady Hale, [114])
+LAW OF TORT
+4. Common Practice
+The general rule:
+Industry guidelines and general practice can act as good 
+evidence of reasonable care
+D does not normally breach its duty of care where it acts in 
+accordance with recognised and established industry 
+practice 
+BUT … not necessarily decisive
+LAW OF TORT
+4. Common Practice
+Baker v Quantum Clothing [2011] UKSC 17
+“two qualiﬁcations on the extent to which an employer can 
+rely upon a recognised and established practice to exonerate 
+itself from liability in negligence for failing to take further 
+steps: one where the practice is “clearly bad”, the other 
+where, in the light of developing knowledge about the risks 
+involved in some location or operation, a particular employer 
+has acquired “greater than average knowledge of the risks”. 
+(Lord Mance, [21])
+LAW OF TORT
+Tort Poll 3B(ii)
+LAW OF TORT
+A subjective element to 
+the reasonable person?
+Various ways the law uses some ‘subjective element’. E.g.:
+Customary standards: “the law helps itself to the customary standards of a 
+speciﬁc trade or profession, such as plumbing or medicine. To determine 
+what those standards are, expert evidence is called …”
+“Sometimes … the law converts the reasonable person into the reasonable 
+child … But what does this mean? Does it mean that being a child is a role 
+that comes with its own specialized standards of justiﬁcation, like that of 
+electrician, public authority, or car-driver? Or does it mean that children, 
+although we might wish that they would live up to adult standards of 
+justiﬁcation, are often incapable of doing so, and therefore get a special 
+dispensation in the form of a limited personalization of the reasonable 
+person, now endowed with a measure of childishness?”
+LAW OF TORT
+Factors aﬀecting the 
+standard of care  
+Attributes of D
+1. Children
+2. Incapacity
+3. Profession
+4. Common practice
+Balancing external factors
+1. Probability of harm
+2. Gravity of harm
+3. Cost of precautions
+4. Social utility of D’s 
+conduct
+5. Context

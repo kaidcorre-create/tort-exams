@@ -1,0 +1,548 @@
+13. Employers’ liability
+Page 1 of 14
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Tort Law (9th edn)
+Kirsty Horsey and Erika Rackley
+13. Employers’ liability
+Kirsty Horsey and Erika Rackley
+https://doi.org/10.1093/he/9780198925231.003.0013
+Published in print: 15 August 2025
+Published online: August 2025
+Abstract
+This chapter discusses employers’ liability and, in particular, the non-delegable duty of care, which employers owe to their 
+employees to ensure that they are reasonably safe when at work. The duty ensures that an employer remains responsible for 
+key tasks even when their obligations have been delegated to another. The duty of care is typically said to have four 
+components (building on Lord Wright’s statement in Wilsons & Clyde Coal Co Ltd [1938]) comprising the provision of: a 
+competent workforce; adequate material and equipment; a safe system of working (including effective supervision); and a safe 
+workplace.
+Keywords: 
+Keywords, tort law, liability, duty of care, employee safety, negligence
+Problem question
+Read this problem question carefully and keep it in mind while you are working through the 
+chapter that follows. At the end of the chapter you will be able to apply what you have learnt to the 
+problem question and advise the relevant parties.
+Every Tuesday, Thursday and Friday evening there is a drop-in centre for young people between the 
+ages of 11 and 16 at Kings Wharf, a local community centre. It is run by a team of youth workers 
+employed by River.
+p. 381
+13. Employers’ liability
+Page 2 of 14
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+→
+→
+→
+→
+(1)
+(2)
+(3)
+Peony is youth counsellor at the centre. She is busy setting up the hall for the evening’s activities 
+when she slips on a puddle of greasy water from a leaking radiator and breaks her wrist. She had 
+reported the leak to her supervisor, Dougie, over a week earlier and it had not been fixed. Tom, a youth 
+worker at the centre and Peony’s partner, sees her fall. Frustrated by Dougie’s lack of action, Tom 
+punches him on the nose.
+Aodhán works in the centre kitchen, making snacks and drinks for the young people. He is using a 
+food processor to make some cookies when a fragment of metal is thrown off by the machine and 
+enters his eye. The food processor had been serviced two weeks earlier in accordance with the 
+provisions of the Kitchens Safety Act 2003 [a fictitious statute] which states that ‘all moving parts on 
+food-mixers must be maintained’.
+Advise the parties.
+13.1  Introduction
+Consider the following situations:
+A factory worker is seriously injured when a piece of metal breaks off the machine he is using and hits 
+him in the eye.
+A window cleaner falls from her ladder. Her supervisor had not told her about the safety harness 
+provided by her employers.
+An employee working in a fast-food restaurant accidentally slips on a pool of grease, which has seeped 
+from a poorly maintained deep-fat fryer, breaking his ankle.
+A customer at a local nightclub is seriously injured when the club’s bouncer beats him up for (wrongly) 
+suspecting that he was attempting to jump the queue.
+↵
+In all these cases, tortious liability might arise. The common law and various statutory provisions 
+governing liability in the workplace impose a heavy burden on employers not only to ensure the safety of 
+their workforce but also in relation to torts committed by their employees against others in the course of 
+their employment. An employer will typically be liable in tort in one of three ways:
+An employer owes a non-delegable common law duty of care to their employees and therefore may be 
+personally liable for harm caused to their employees.1
+An employer may also be personally liable for the breach of a specific statutory duty, such as that 
+arising out of the Employer’s Liability (Defective Equipment) Act 1969.2
+An employer may be liable vicariously for injuries caused by an employee’s tort committed in the 
+course of their employment.
+p. 382
+1
+2
+13. Employers’ liability
+Page 3 of 14
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+This chapter focuses on an employer’s non-delegable duty of care. An employer’s personal liability for breach 
+of a specific statutory duty is discussed in Chapter 14 and vicarious liability is discussed in Chapter 20.3
+Watch our video ‘Three sides of a triangle’ where we explore how the various ways in which an employer may 
+be liable fit together.
+Video playback is not supported in this format.
+Video 13: Three sides of a triangle
+Pause for reflection
+Historically it was extremely difficult for employees to recover for injuries suffered at work. The 
+‘unholy trinity’—comprising the doctrine of common employment (which prevented an employee 
+from suing their employer for injury negligently inflicted by a fellow employee (Priestly v Fowler 
+[1837])),4 the defences of contributory negligence (an absolute bar to recovery until the Law Reform 
+(Contributory Negligence) Act 1945) and volenti non fit injuria—effectively insulated employers from 
+liability with the result that responsibility for safety in the workplace rested primarily with those least 
+able to ensure it—the employees. The situation began to change towards the end of the nineteenth 
+century as a combination of the growth in the power of trade unions, greater awareness of hazardous 
+working conditions (particularly on the railways) and the increasing availability of employers’ 
+liability insurance encouraged the judiciary and the legislature to mitigate the harshness of these 
+rules. And, by the mid-twentieth century, all three obstacles had been either abolished or strictly 
+confined.5
+↵
+Until recently employees were in a stronger position than many other accident victims.6 As a 
+result, workplace litigation (which includes actions for vicarious liability against employers) has 
+generated a large number of tort claims.7 The threat of adverse publicity and a desire to maintain 
+labour/public relations means that many employers are likely to settle out of court and the 
+Employers’ Liability (Compulsory Insurance) Act 1969, which makes it compulsory for employers to 
+insure against workplace accidents, means that employers are likely to be able to meet any award of 
+damages. As a result, someone injured at work (or by an employee acting ‘in the course of their 
+employment’) is more likely to be able to claim and, importantly, recover than someone who suffers 
+the same injury outside the workplace.
+Do you think this is fair on employers? Consider the following justifications: (a) employees often have 
+limited control over the situations they find themselves in at work, while employers are in a position 
+to ensure that the conditions they provide are safe; (b) imposing liability on employers encourages 
+them to improve working conditions (something they are uniquely able to do); and (c) employers are 
+3
+4
+5
+p. 383
+6
+7
+13. Employers’ liability
+Page 4 of 14
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(or at least should be) better informed about the various hazards of the working environment (e.g. the 
+machinery or chemicals they use), unlike an employee who may be inexperienced in the industry and 
+may not be aware of the risks and, therefore, know how to take care. Do you agree?
+13.2  An employer’s personal non-delegable duty of care
+An employer’s personal non-delegable duty of care, established in Wilsons & Clyde Coal Co Ltd v English 
+[1938], requires an employer to see that reasonable care is taken for their employees’ safety.
+Wilsons & Clyde Coal Co Ltd v English [1938] AC 57 (HL)
+A miner was crushed in a mining accident after haulage equipment was set in motion as he was 
+travelling through the pit at the end of the day (contrary to recognised mining practice). He sued the 
+mine owners on the basis that they had failed to provide a reasonably safe system of work. The 
+defendant employers claimed they had discharged their duty by appointing (as required by statute) a 
+competent and qualified manager to control the machinery.
+↵
+The House of Lords unanimously rejected the employer’s argument. Finding the employer 
+personally liable, Lord Wright said:
+[T]he [employer’s] obligation is fulfilled by the exercise of due care and skill. But it is not 
+fulfilled by entrusting its fulfilment to employees, even though selected with due care and 
+skill. The obligation is threefold, the provision of a competent staff of men, adequate 
+material, and a proper system and effective supervision. (at 78)
+The failure of the manager to ensure the health and safety of the claimant had put the employer, the 
+defendant mine company, in breach of its duty of care.8
+That an employer owes their employees a personal duty to take reasonable care to ensure their health and 
+safety at work, competent work colleagues and so on is perhaps unremarkable. What is more remarkable is 
+the form this duty takes. Unusually, this duty is non-delegable in nature.9 This means that when the duty is 
+breached, the defendant has committed the wrong whether or not they performed the action. The action is 
+attributed to the defendant because responsibility for it cannot be delegated to anyone else. In other words, it 
+is not enough for the employer themselves to take reasonable care to see that their employees are safe. Rather, 
+their duty is to ensure that reasonable care is taken, whoever is entrusted with this duty. This is an important 
+difference, especially when we consider that in many businesses it is simply not feasible for the owner 
+themselves to supervise all aspects of the day-to-day running of the business. In practice, all we can expect 
+p. 384
+8
+9
+13. Employers’ liability
+Page 5 of 14
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+most employers to do is to take reasonable care to ensure that the people they choose to delegate these jobs to 
+are capable of doing so. However, the consequence of an employer’s duty of care being non-delegable means 
+that an employer will have breached their duty if those they have entrusted with responsibility fail to exercise 
+reasonable care in respect of the employees’ safety, even if the employer has exercised reasonable care in the 
+appointment of those they entrusted. Nor can employers escape liability by showing that they acted reasonably 
+in delegating this task to the relevant person. While factual responsibility for employees’ safety may (and 
+often will have to) be delegated, legal responsibility cannot be. If reasonable care is not taken to ensure that 
+employees are reasonably safe when at work, the employer will be held to have breached their duty of care.10 
+It makes no difference that it was not the employer but rather the person to whom they had delegated this 
+responsibility who had acted carelessly.
+↵
+An employer’s non-delegable duty is typically said to have four components (building on Lord Wright’s 
+statement in Wilsons & Clyde Coal Co Ltd) comprising the provision of:
+a competent workforce;
+adequate material and equipment;
+a safe system of working (including effective supervision);
+a safe workplace.
+Although often considered separately for the sake of convenience (as sections 13.2.1 to 13.2.4), these 
+components are better regarded as manifestations of a single duty on the part of an employer to take 
+reasonable care to ensure the safety of their workforce. As noted by Pearce LJ in Wilson v Tyneside Window 
+Cleaning Co [1958]:
+10 
+p. 385
+13. Employers’ liability
+Page 6 of 14
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Now it is true that in Wilsons & Clyde Coal Co Ltd v English [1938] Lord Wright divided up the duty of 
+a master into three main headings, for convenience of definition or argument; but all three are 
+ultimately only manifestations of the same duty of the master to take reasonable care so to carry out 
+his operations as not to subject those employed by him to unnecessary risk. Whether the servant is 
+working on the premises of the master or those of a stranger, that duty is still, as it seems to me, the 
+same; but as a matter of common sense its performance and discharge will probably be vastly 
+different in the two cases. The master’s own premises are under his control: if they are dangerously 
+in need of repair he can and must rectify the fault at once if he is to escape the censure of negligence. 
+But if a master sends his plumber to mend a leak in a respectable private house, no one could hold 
+him negligent for not visiting the house himself to see if the carpet in the hall creates a trap. 
+Between these extremes are countless possible examples in which the court may have to decide the 
+question of fact: Did the master take reasonable care so to carry out his operations as not to subject 
+those employed by him to unnecessary risk? Precautions dictated by reasonable care when the 
+servant works on the master’s premises may be wholly prevented or greatly circumscribed by the 
+fact that the place of work is under the control of a stranger. Additional safeguards intended to 
+reinforce the man’s own knowledge and skill in surmounting difficulties or dangers may be 
+reasonable in the former case but impracticable and unreasonable in the latter. So viewed, the 
+question whether the master was in control of the premises ceases to be a matter of technicality and 
+becomes merely one of the ingredients, albeit a very important one, in a consideration of the 
+question of fact whether, in all the circumstances, the master took reasonable care. (at 266–7)
+Once an employer is found to be in breach of their non-delegable or statutory duty of care (i.e. to have fallen 
+below the standard of a ‘reasonable and prudent employer’),11 and that there is a causal link between this 
+breach and the claimant’s harm. The latter can be more easily stated than done (see e.g. Fairchild v Glenhaven 
+Funeral Services Ltd [2002] and related litigation). Finally, it is necessary to consider any potential defences 
+(usually contributory negligence).
+13.2.1  Competent workforce
+An employer owes their employees a duty to ensure that they employ competent colleagues, including 
+effective supervision and training. This extends to the bullying, victimisation or harassment of an employee 
+by another employee (Waters v Commissioner of Police for the 
+↵
+Metropolis [2000]).12 While this aspect of 
+an employer’s personal non-delegable duty is of less importance following the abolition of the doctrine of 
+common employment, it may still be useful in circumstances where an employer is not vicariously liable. In 
+Hudson v Ridge Manufacturing Co [1957], for example, an employee was injured when a colleague, who had a 
+reputation for being a practical joker, tripped him up. Though the joker had been officially reprimanded for 
+his behaviour by his employer, the court nevertheless held that given the seriousness of his conduct the 
+employer should have done more to deter it, and in failing to do so, was in breach of their duty of care to the 
+injured employee.
+11
+p. 386
+12
+13. Employers’ liability
+Page 7 of 14
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+13.2.2  Adequate material and equipment
+An employer also has a duty to take reasonable care to provide all necessary equipment (including safety 
+equipment), as well as instructions on how to use it and to maintain it in a reasonable condition.
+Here the common law has been supplemented by the Employer’s Liability (Defective Equipment) Act 1969. 
+Section 1(1) establishes that if an employee is injured in the course of employment by a defect in equipment 
+provided by their employer, and the employee can prove that the defect was (wholly or partly) caused by the 
+fault of a third party (usually the manufacturer), then the employer will be liable. The Act was introduced in 
+order to ameliorate the effects of Davie v New Merton Board Mills Ltd [1959]. In this case, an employee was 
+blinded in one eye when a piece of metal chipped off the tool he was using. The tool had been negligently 
+manufactured (causing it to become too hard for its purpose), although externally it appeared to be in good 
+condition. Rejecting the claimant’s claim for compensation from his employer, the House of Lords held that 
+the employers had discharged their responsibility to provide proper tools by purchasing them from a 
+reputable supplier. The practical effect of this decision was to leave the employee without compensation 
+where the supplier or manufacturer could not be identified or was bankrupt.
+Counterpoint
+Unfortunately, the Employer’s Liability (Defective Equipment) Act 1969 does not completely remedy 
+the problems posed by Davie v New Merton Board Mills Ltd As well as establishing causation—that is, 
+that the defect in the equipment caused the accident—the employee needs to prove ‘fault’ against the 
+third party—that is, that on the balance of probabilities the defect was due to the fault of some other 
+person (usually during its manufacture). Both can be difficult to establish. However, potential 
+claimants may be helped in this by the Consumer Protection Act 1987 (discussed in section 12.3) as 
+the definition of fault in the 1969 Act includes ‘breach of statutory duty or other act or omission which 
+gives rise to liability in tort’.13
+↵
+Despite its limitations, the Employer’s Liability (Defective Equipment) Act 1969 is likely to have 
+a new lease of life following the enactment of section 69 of the Enterprise and Regulatory Reform Act 
+2013. As Nigel Tomkins notes:
+‘The purpose of the Act was manifestly to saddle the employer with liability for defective 
+plant of every sort with which the employee is compelled to work in the course of his 
+employment …’ [Lord Oliver in Coltman v Bibby Tankers Ltd (The Derbyshire) [1988]]. I have 
+no doubt that the 1969 Act is about to be dusted off and used again. This is just one of the 
+inevitable consequences of [section 69].14
+13
+p. 387
+14
+13. Employers’ liability
+Page 8 of 14
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Equipment, defined by section 1(3) of the 1969 Act as ‘any plant and machinery, vehicle, aircraft or clothing’, 
+has been construed relatively broadly, extending in Coltman v Bibby Tankers Ltd (The Derbyshire) to include a 
+ship provided by the employer for the purposes of employment. In Knowles v Liverpool City Council [1993], the 
+House of Lords held that ‘equipment’ also included any material used by the employee for the purposes of the 
+business—in that case a paving stone which the claimant was laying and was injured by.
+However, an employer may be able to avoid liability in relation to a failure to provide safety equipment if they 
+can establish that, even if such equipment had been provided, the employee would not have used it. The 
+argument here is one of causation: the employer is in clear breach of their duty, but as the claimant would 
+have suffered the same injury in any case, their failure to provide safe equipment cannot be said to have been 
+a cause of the employee’s injuries.
+McWilliam v Sir William Arrol & Co Ltd [1962] 1 WLR 295 (HL)
+The claimant, a steel erector, fell to his death at work. He was not wearing a safety harness. His 
+employers had failed (in breach of their statutory duty) to provide safety equipment. However, the 
+House of Lords held that they were not liable for the claimant’s death. The employers were able to 
+provide strong evidence that the employee rarely, if ever, used a safety harness and so, even if one had 
+been provided, it was reasonable to infer that he would not have worn it. As such, he would have 
+suffered the same injury even if the employers had provided the necessary equipment.
+13.2.3  A proper system of working (including effective supervision)
+An employer has a duty to ensure a reasonably safe system of working and to give employees general safety 
+instructions about their job. This includes the physical layout of the workplace, the sequence in which work 
+is carried out and the provision, where appropriate, of warnings and notices. In Pape v Cumbria County Council 
+[1992], for example, a part-time 
+↵
+cleaner who contracted dermatitis after working with various 
+detergents and chemical cleaning products was able to recover as, although the defendants had provided 
+rubber gloves, they did not warn her of the possibility of developing dermatitis, nor instruct her to wear 
+them. It was not enough to simply provide the rubber gloves; the employer should also have taken reasonable 
+steps to ensure that the safety equipment was properly understood and used by the claimant.
+p. 388
+13. Employers’ liability
+Page 9 of 14
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Pause for reflection
+Pape seems at odds with current trends away from imposing liability on employers for ‘health and 
+safety’ violations. However, even at the time, it could be argued that it makes the employer liable for 
+something which is really the employee’s responsibility: after all, should employees really need to be 
+told when to use the safety equipment provided? Why do you think the court came to this decision? 
+Do you agree with it?
+The employer must not only ensure that there is a safe system of work, they must also take care to see that 
+the system is implemented (Mullaney v Chief Constable of West Midlands Police [2001]). In so doing, they are 
+expected to be aware that employees are often careless about taking safety precautions and that dangerous 
+working practices can develop. In General Cleaning Contractors v Christmas [1953], a window cleaner was 
+standing on the sill outside a first-floor window when the window unexpectedly closed. The court held that 
+the employer should have given the employee clearer instructions so as to ensure such accidents did not 
+happen and in failing to do so they had not provided a safe system of work.
+An employer remains under a duty to ensure a safe system of work for an employee even when the employee 
+is temporarily posted elsewhere. In McDermid v Nash Dredging & Reclamation Co Ltd [1987], an 18-year-old 
+deckhand was instructed by his employer, the defendant company, to work on a tug owned by the 
+defendants’ parent company. He suffered serious injuries to his leg as a result of the captain of the tug’s 
+negligence. The issue was whether the deckhand’s employer was liable for the captain’s failure to operate a 
+safe system of work. The House of Lords held that the defendants were liable on the basis that they retained 
+personal responsibility for the deckhand’s safety notwithstanding that he was working outside their 
+workplace:
+It matters not whether one says that there was no ‘system’ in operation at all, or whether one says 
+that the system provided was unsafe, or whether one says that the system in fact provided was not 
+in use at the crucial stage. In any event the defendants had delegated their duty to the plaintiff to 
+Captain Sas [the captain of the tug], the duty had not been performed, and the defendants must pay 
+for the breach of their ‘non-delegable’ obligation. (Lord Hailsham at 911)
+The nature and extent of an employer’s supervision was extended even further in Jebson v Ministry of Defence 
+[2000]. A group of soldiers had gone for a night out. Anticipating that they would be worse for wear, the 
+defendants—the soldiers’ employer—sent a lorry to pick them up and bring them back to barracks. The 
+claimant, who was very drunk, fell and injured himself as he attempted to climb onto the roof of the lorry on 
+its way home. In allowing his claim for compensation, the Court of Appeal held that the defendants had failed 
+to 
+↵
+ensure an effective system of supervision. Knowing the soldiers’ drunken state, the defendants ought 
+to have had a supervisor in the back of the lorry to ensure that none of them injured themselves.
+p. 389
+13. Employers’ liability
+Page 10 of 14
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+However, despite appearances to the contrary, an employer’s duty to ensure a safe system of work is not 
+unlimited. Where an employer is on another’s premises, their liability will depend on what is reasonable in 
+the circumstances—including the place of work, the nature of the building, the experience of the employee, 
+the nature of the work, the degree of control exercised by the employer and their knowledge of the premises. 
+Thus, in Cook v Square D Ltd [1992], the Court of Appeal held that though the employer is under a duty to take 
+reasonable steps to ensure the safety of their employee, they could not reasonably be expected to be 
+responsible for daily events on a site in Saudi Arabia and so were not in breach of their duty when the 
+employee was injured after slipping on a raised floor tile.
+In recent years, the courts have recognised that as well as ensuring an employee’s physical safety, an 
+employer’s duty also encompasses (at least in some cases) that reasonable care is taken to prevent psychiatric 
+injury, including workplace stress15 and suicide (Corr v IBC Vehicles Ltd [2008]; Waters v Commissioner of 
+Police for the Metropolis [2000]). It may also extend to some aspects of an employee’s economic wellbeing— 
+such as writing a reference (Spring v Guardian Assurance [1995])—though this does not extend to protection 
+of an employee’s property (Deyong v Shenburn [1946]) or economic or reputational harm suffered in the 
+conduct of litigation (James-Bowen and others v Commissioner of Police for the Metropolis [2016]).
+13.2.4  A safe workplace
+An employer must take reasonable care to provide a safe place of work. However, this does not mean that the 
+employer must ensure that the workplace is completely safe.
+Latimer v AEC Ltd [1953] AC 643 (HL)
+Heavy rainfall flooded the defendant’s factory. The rainwater mixed with an oily liquid, which usually 
+collected in channels in the floor. This meant that when the water drained away the floor became very 
+slippery. The defendants put down sawdust to remedy this. However there was insufficient sawdust 
+to cover the entire floor, though the majority of the floor was covered. The claimant slipped on part of 
+the untreated floor and broke his ankle.
+The House of Lords held that the defendants were not liable. They had done everything that could 
+reasonably be expected of them. The danger of injury to their employees was not such as to impose on 
+the employer further costly and inconvenient measures, for example closing the factory until the 
+floor had completely dried out.16
+↵
+Similarly in Nicholls v Ladbrokes Betting and Gambling Ltd [2013] the claimant suffered psychiatric harm 
+as a result of being traumatised during an armed raid at the betting shop where she worked as a cashier. The 
+employer was held not to be in breach of his duty of care in failing to instruct the employee to use the 
+15
+16
+p. 390
+13. Employers’ liability
+Page 11 of 14
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+1
+→
+magnetic lock on the premises: ‘In my view it cannot ordinarily be negligent to fail to ensure that a safety or 
+security device is used if it would not have been negligent not to have installed the device in the first 
+place’ (Tomlinson LJ at [77]).
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-13-2>.
+13.3  Conclusion
+In this chapter we have considered ways in which an employer may be personally liable in tort for injury 
+suffered by one of their employees. An employer owes a personal non-delegable duty of care to their 
+employees to ensure a safe workplace for their employees. This sees that the employer remains responsible 
+for key tasks even when the performance of them has been delegated to another. The duty arises from the 
+direct nature of the relationship between the claimant and the defendant—the conduct of the delegated 
+employee is used to establish breach. An employee may also recover compensation for losses caused by the 
+employer’s failure to comply with a statutory obligation.
+End-of-chapter questions
+After reading the chapter carefully, try answering the following question.
+Critically evaluate the development of the common law duty of care employers owe to their employees.
+If you would like to know what we think, check the answer guidance <https://iws.oupsupport.com/ebook/  
+access/content/horsey9e-student-resources/horsey9e-chapter-13-answers-to-end-of-chapter-questions? 
+options=showName>.
+Answering the problem question
+Consider again the problem question at the start of this chapter. Now having read about the topic, what 
+would be your advice to the various parties?
+Here are some pointers to get you started:
+13. Employers’ liability
+Page 12 of 14
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+→
+→
+→
+→
+The potential claim between Peony and River raises an almost classic case of an employer’s non-delegable 
+duty of care.
+Aodhán has two potential actions: one relying on the Employer’s Liability (Defective Equipment) Act 1969 
+and one for breach of statutory duty (under the fictitious Kitchens Safety Act 2003).
+River will be vicariously liable for Tom’s actions—see further discussion in Chapter 20.
+If you need some more guidance:
+See the annotated version of the problem with issues and cases to consider <https://  
+iws.oupsupport.com/embed/access/content/horsey9e-student-resources/horsey9e-chapter-13-annotated- 
+problem-question-interactive>.
+Check your answer against the suggested outline answer <https://iws.oupsupport.com/embed/access/  
+content/horsey9e-student-resources/horsey9e-chapter-13-answers-to-problem-question>.
+Further reading
+The best place to start your further reading is with Tomkins’ 2010 article which explores the evolution of an employer’s 
+common law duty of care.
+Collins, Hugh Employment Law (2nd edn OUP 2010)
+Patten, Keith ‘Personal Injury: Step Back in Time’ (2013) 163 New Law Journal 62
+Tomkins, Nigel ‘First Principles in Employers’ Liability’ [2010] Journal of Personal Injury Law 131
+Tomkins, Nigel ‘Civil Health and Safety Law after the Enterprise and Regulatory Reform Act 2013’ [2013] Journal of 
+Personal Injury Law 203
+Additional suggestions for further reading can be found in this chapter’s web links <https://iws.oupsupport.com/  
+ebook/access/content/horsey9e-student-resources/horsey9e-chapter-13-web-links?options=showName>.
+Notes
+ 
+1. Non-delegable duties do not only arise in an employment context or between employers and employees. See e.g. 
+Woodland v Essex County Council [2013] which established that a school owed a non-delegable duty of care towards its 
+pupils, as do hospitals towards their patients (discussed in section 20.2).
+ 
+2. Until recently an employer could also be liable in the tort of breach of statutory duty (discussed in Chapter 14), 
+which enables a claimant in certain circumstances to recover compensation for losses caused by the defendant’s 
+failure to comply with a statutory obligation. However, s 69 of the Enterprise and Regulatory Reform Act 2013 prevents 
+p. 391
+1.
+2.
+13. Employers’ liability
+Page 13 of 14
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+claims from being brought against an employer unless specifically provided for by the statute or where it can be 
+proven, on ordinarily common law principles, that the employer has been negligent (see further section 14.2). The 
+Employer’s Liability (Defective Equipment) Act 1969 is unaffected because it is not classified as ‘health and safety 
+legislation’ under the Health and Safety at Work etc Act 1974.
+ 
+3. The nightclub owner in the example at the start of the chapter may be both personally liable to the injured customer 
+(e.g. if they were negligent in their selection and/or control of the bouncer) and vicariously liable (see further Mattis v 
+Pollock (t/a Flamingos Nightclub) [2003] and discussion in Chapter 20).
+ 
+4. See AWB Simpson ‘A Case of First Impression: Priestley v Fowler (1837)’ in Leading Cases in the Common Law 
+(Clarendon Press 1995) 128.
+ 
+5. The doctrine of common employment was abolished by the Law Reform (Personal Injuries) Act 1948, s 1.
+ 
+6. See discussion of s 69 of the Enterprise and Regulatory Reform Act 2013 in sections 13.2.2 and 14.2.
+ 
+7. In 2023–4, compensation claims against employers comprised the third highest number of claims registered with the 
+Department for Work and Pensions Compensation Recovery Unit amounting to 9.3 per cent of claims overall (n = 
+44,547), down from 10.3 per cent (105,291 claims) in 2013–14. This is likely to be, at least in part, a result of the 
+Enterprise and Regulatory Reform Act 2013, s 69, though it may be that an increase in working from home may also be 
+playing a part as well as an overall downward trend in claims generally: 477,200 claims in 2023–4 compared to 
+1,048,309 in 2012–13.
+ 
+8. The claimant was unable to argue that their employer was vicariously liable for the actions of the manager due to 
+the doctrine of ‘common employment’ (abolished in 1948). An employee was deemed to have assumed the risk of 
+negligence by their fellow employees (provided they had been selected with reasonable care by their employer) as 
+one of the terms of their employment contract. Were similar facts to Wilsons & Clyde Coal Co Ltd to arise today, 
+employees would be able to argue that their employer is both personally and vicariously liable for the actions of their 
+manager.
+ 
+9. Though see Robert Stevens ‘Non-Delegable Duties and Vicarious Liability’ in Jason Neyers, Erika Chamberlain and 
+Stephen Pitel (eds) Emerging Issues in Tort Law (Hart 2007).
+ 
+10. Conversely, if reasonable care is taken the employer will not be liable. An example of this is the Supreme Court’s 
+decision in Baker v Quantum Clothing Group [2011] in which the claimants had suffered hearing loss as a result of 
+industrial noise before the Noise at Work Regulations were introduced in 1989. On the employer’s common law duty in 
+negligence, the majority held that until the regulations were introduced (and allowing a period for implementation) 
+the harm suffered by the claimants was not foreseeable, and hence there was no liability in negligence.
+ 
+11. See e.g. Stokes v Guest, Keene and Nettlefold (Bolts and Nuts) Ltd [1968] and also the discussion in section 8.4.
+ 
+12. An employer may also find themselves vicariously liable in respect of such behaviour (see Majrowski v Guy’s and St 
+Thomas’ NHS Trust [2006] discussed in Chapter 20).
+ 
+13. The provision also ensures that where an employee is able to successfully establish a claim against both a third 
+party manufacturer and their employee, the latter will usually be able to seek an indemnity and/or contribution from 
+the third party.
+ 
+14. Nigel Tomkins ‘Civil Health and Safety Law after the Enterprise and Regulatory Reform Act 2013’ [2013] Journal of 
+Personal Injury Law 203, 211.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+13. Employers’ liability
+Page 14 of 14
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+15. See further discussion in section 5.4.
+ 
+16. Are the facts of Latimer distinguishable from those of the example at the beginning of the chapter where the 
+employee slips on a pool of grease in a fast-food restaurant? The answer depends on whether efforts have been made 
+to make the floor safe. As you are told that the machine is poorly maintained it is likely that the manager would have 
+had an opportunity to put this right (unlike the sudden effects of the heavy rainfall in Latimer).
+© Kirsty Horsey & Erika Rackley 2025
+Related Books
+View the Essential Cases in tort law
+Related Links
+Test yourself: Multiple choice questions with instant feedback <https://learninglink.oup.com/access/content/brennan-  
+concentrate6e-student-resources/brennan-concentrate6e-diagnostic-test>
+Find This Title
+In the OUP print catalogue <https://global.oup.com/academic/product/9780198925231>
+15.
+16.

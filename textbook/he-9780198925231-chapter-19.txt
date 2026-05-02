@@ -1,0 +1,1085 @@
+19. Actions under the rule of Rylands v Fletcher
+Page 1 of 26
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Tort Law (9th edn)
+Kirsty Horsey and Erika Rackley
+19. Actions under the rule of Rylands v Fletcher
+Kirsty Horsey and Erika Rackley
+https://doi.org/10.1093/he/9780198925231.003.0019
+Published in print: 15 August 2025
+Published online: August 2025
+Abstract
+This chapter examines the rule from Rylands v Fletcher [1868]. The rule holds that where there has been an escape of a 
+dangerous thing in the course of a non-natural use of land, the occupier of that land is liable for the damage to another caused 
+as a result of the escape, irrespective of fault. The rule today is best understood through a trilogy of cases: Rylands v Fletcher, 
+Cambridge Water Co Ltd v Eastern Counties Leather plc [1994] and Transco v Stockport Metropolitan Borough Council [2004]. The 
+development of the rule has led to an increased overlap with ideas from nuisance and negligence.
+Keywords: 
+tort law, Rylands v Fletcher, land use, liability
+Problem question
+Read this problem question carefully and keep it in mind while you are working through the 
+chapter that follows. At the end of the chapter you will be able to apply what you have learnt to the 
+problem question and advise the relevant parties.
+Rack-and-Horse supermarket owns land on which it has built a huge two-storey metal-framed 
+customer car park. One day, after extremely stormy weather with strong winds and heavy rain, the 
+top level of the car park buckles; some of the metal railing breaks free and falls onto the neighbouring 
+petrol station owned by Low-Price-Pumps. The impact damages the pumps and injures one of Low- 
+Price-Pumps’ customers. Furthermore, water that had collected on the upper level of the car park due 
+to an inadequate drainage system pours on to Low-Price-Pumps, flooding the forecourt of the petrol 
+station. The station has had to close for two days, causing £10,000 loss of profit.
+p. 586
+19. Actions under the rule of Rylands v Fletcher
+Page 2 of 26
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+→
+→
+→
+Low-Price-Pumps spends £50,000 having the forecourt cleaned and making safe the pumps. Rack- 
+and-Horse argues that damage to the pumps caused by high winds is something that Low-Price- 
+Pumps could and should have insured against.
+Advise the parties.
+19.1  Introduction
+Consider the following examples:
+Horsechester Council’s outdoor swimming pool has to be closed after an adjacent ornamental lake 
+bursts its banks after heavy rainfall and lake water floods into the pool, making it unsafe.
+A gas pipe owned by Racksco and supplying gas for domestic use is exposed after a tap is left on 
+accidentally by an old lady living in a warden-assisted flat provided for her by Horsechester Council. Over 
+time, water seeps from her premises to an embankment supporting the pipe, causing it to weaken and 
+eventually crumble.
+↵
+ A large pile of wood and other materials is collected on land belonging to Horsechester Fire 
+Service, in preparation for its annual bonfire party on 5 November, to which all residents of the town are 
+invited. A group of youths is caught trying to set the pile of wood alight, and fire officers dampen the wood 
+down until they are ready to light it themselves. However, wind transports some still smouldering pieces of 
+wood to the neighbouring property, where they burn down a garden shed.
+We have already considered the way in which trespass, private nuisance and, to a lesser extent, public 
+nuisance protect people’s ability to exercise their rights to enjoy land without undue or unreasonable 
+interference. In this chapter, we consider a particular cause of action, a variation on the nuisance theme—the 
+rule from Rylands v Fletcher [1868]. This protects an occupier against interference due to an isolated escape 
+from (as opposed to an ongoing interference with) neighbouring land. This action is rare. It has been shaped 
+over time by three key cases: Rylands v Fletcher, Cambridge Water Co Ltd v Eastern Counties Leather plc [1994] 
+and Transco v Stockport Metropolitan Borough Council [2003].
+The Rylands rule is another method for regulating land use. It emerged out of the Industrial Revolution’s 
+widespread impact on society, beginning in the eighteenth century, changing the face of the country by the 
+mid-nineteenth century—becoming far less agricultural and increasingly industrial. With industry came 
+increased risk of harm from things such as water, noxious chemicals and so on ‘escaping’ from reservoirs, 
+factories and the like. Rylands was a direct legal response to some of these risks. It created so-called ‘strict 
+liability’ for such escapes—that is, liability without fault.1 Owners of factories, reservoirs and so on would be 
+liable even if they had taken all reasonable care to ensure that escapes did not occur. As in the previous 
+chapter, we will also look here at the contribution the Rylands rule makes, or could make, to the protection of 
+p. 587
+1
+19. Actions under the rule of Rylands v Fletcher
+Page 3 of 26
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+the environment—given its very nature it perhaps has a clearer role to play in this respect than nuisance. 
+However, we will see not only that the rule appears to have limited use in the modern day2 but also that the 
+strictness of its liability appears to have become somewhat diluted.
+19.2  The rule in Rylands v Fletcher
+The rule in Rylands holds that where there has been an escape of a dangerous thing in the context of a non- 
+natural use of land, the occupier of that land is liable for the damage to another caused as a result of the 
+escape, irrespective of fault. A strict liability rule seems somewhat incongruous against the increasing 
+incidence of fault-based considerations in modern nuisance cases.3 That said, liability under the rule, while 
+strict, is not absolute. There are defences to the action and the courts have decided that defendants should be 
+liable only for foreseeable consequences of escapes. In fact, until relatively recently, the rule was largely 
+considered to be of little real significance—an interesting relic of legal history. As we shall 
+↵
+see, the 
+action has been rarely used. Though the decision in Cambridge Water reawakened interest (particularly 
+academic), any enthusiastic revival of the rule seems overly ambitious given that Cambridge Water further 
+limits the scope of Rylands actions and arguably, therefore, its usefulness. In Transco, Lord Hoffmann 
+remarked that ‘it is perhaps not surprising that counsel could not find a reported case since the Second World 
+War in which anyone had succeeded in a claim under the rule’ (at [39]). The rarity of success in a Rylands 
+claim seems unlikely to change following further limitations from Transco.
+Rylands v Fletcher (1868) LR 3 HL 330 (HL)
+The defendant mill owner employed independent contractors to build a reservoir on his land to 
+provide water for his mill. During construction, the contractors discovered disused shafts from an old 
+coal mine on the defendant’s land, which they assumed had been blocked up. However, when the 
+reservoir was filled, the water in it burst through the old shafts, flooding the claimant’s operating 
+mine. The claimant sought compensation from the mill owner for the damage caused.
+The independent contractors had clearly been negligent in failing to ensure that the mineshafts were 
+properly blocked up, but the claimant’s action was against his neighbour, and he had not (and could 
+not reasonably have) known of the existence of the shafts on his land and so could not be shown to be 
+negligent (nor was he vicariously liable for the contractors’ negligence). The court also doubted 
+whether an isolated escape of something from one area of land to another (as opposed to an ongoing 
+emanation) could found an action in nuisance. Nevertheless, the claim succeeded.
+Although the case went to the House of Lords, it was Blackburn J in the Court of Exchequer Chamber 
+(Fletcher v Rylands and another [1866]) who has long been considered to have given the classic 
+statement of principle, finding that:
+2
+3
+p. 588
+19. Actions under the rule of Rylands v Fletcher
+Page 4 of 26
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(1)
+(2)
+(3)
+(4)
+the true rule of law is that the person who for his own purposes brings on his land and 
+collects and keeps there anything likely to do mischief if it escapes, must keep it in at his 
+peril, and, if he does not do so, is prima facie answerable for all the damage which is the 
+natural consequence of its escape.
+The House of Lords approved this principle (at 339–40), Lord Cairns adding the stipulation that the 
+defendant must also be engaged in a ‘non-natural’ use of land (at 338).
+In Rylands, the defendant was strictly liable for all the damage caused by the escape of the water from the 
+reservoir, even though he was in no way to blame for it.4 While this may not, at first glance, seem very ‘fair’, 
+like many cases it is a product of its time. It was decided in a climate of rising social and political concern 
+about the dangers of reservoirs and other processes of industrialisation at a time when another serious 
+reservoir incident had recently occurred, causing severe loss of life. This may have persuaded the courts that 
+strict liability 
+↵
+in such circumstances was necessary to ensure ‘social justice’ in the sense of protecting 
+people against the ravages of industrialisation.5
+Claimants must establish four requirements to succeed under the rule. The first three derive from Rylands 
+itself; the first two from Blackburn J’s often-quoted statement in the Court of Exchequer and the third added 
+by Lord Cairns in the House of Lords. The fourth requirement was not added until much later and comes from 
+the leading opinion of Lord Goff in Cambridge Water.
+The defendant brings on his land for his own purposes something likely to do mischief …
+… if it escapes …
+… which represents a non-natural use of land …
+and which causes foreseeable damage of the relevant type.
+We will look at each of the requirements in turn.
+19.2.1  ‘The defendant brings on his land for his own purposes something likely 
+to do mischief …’
+This requires a voluntary act of bringing something on the land, and is perhaps the natural result of concern 
+about industrial practices. Blackburn J justified his rule by explaining that it could deal with the effect of 
+industry on those who had no control over it, saying:
+the person whose grass or corn is eaten down by the escaping cattle of his neighbour, or whose mine 
+is flooded by the water from his neighbour’s reservoir, or whose cellar is invaded by the filth of his 
+neighbour’s privy, or whose habitation is made unhealthy by the fumes and noisome vapours of his 
+neighbour’s alkali works, is damnified without any fault of his own. (at 280)
+4
+p. 589
+5
+19. Actions under the rule of Rylands v Fletcher
+Page 5 of 26
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+The interesting question, however, is what constitutes things that can be brought onto land that are ‘likely to 
+do mischief’—though ‘brought onto’ in this sense probably means ‘kept on’. Notably, most of the things the 
+cases have been concerned with would be perfectly harmless in and of themselves if they were not allowed to 
+escape. In Rylands, water (collected in large volume in one area) was obviously within the ‘likely to do 
+mischief’ category and, since then, other cases have determined that electricity (National Telephone Co v 
+Baker [1893]), gas (Batchellor v Tunbridge Wells Gas Co [1901]), noxious fumes (West v Bristol Tramways Co 
+[1908]) and even a flagpole (Shiffman v Order of St John [1936]) or part of a fairground ride (Hale v Jennings 
+[1938]) also fit the description. Put simply, the thing or substance brought onto land need not be ultra- 
+hazardous but must be capable of causing damage—and therefore be dangerous—if it escapes.
+This requirement seems to have been reinforced and made harder to satisfy by the House of Lords in Transco.
+Transco v Stockport Metropolitan Borough Council [2003] UKHL 61 (HL)
+The defendant owned a block of flats next to a disused railway embankment, which it also owned. A 
+pipe carrying water to the flats from the water main leaked and a large quantity of water travelled 
+through a crack in the ground to the embankment, over time saturating it and causing it to collapse. 
+There was no evidence that the leak was due to any carelessness on the part of the defendant. When 
+the embankment collapsed it exposed and left unsupported a high-pressure gas pipeline owned by 
+Transco (formerly part of British Gas), who had to act promptly to prevent the pipe fracturing. Their 
+preventative actions cost about £94,000.
+The first question for the court was whether the defendant had ‘brought something on to his land 
+likely to do mischief’. In answering, Lord Bingham said:
+I do not think that the mischief or danger test should be at all easily satisfied. It must be 
+shown that the defendant has done something which he recognised, or judged by the 
+standards appropriate at the relevant place and time, he ought reasonably to have 
+recognised, as giving rise to an exceptionally high risk of danger or mischief if there should 
+be an escape however unlikely an escape may have been thought of. (at [10])
+This set a very high threshold, which the law lords found was not satisfied in Transco. In addition, 
+Lord Scott stated that Transco’s claim should fail because there had been no ‘escape’ from the 
+defendant’s land (see section 19.2.2)—the water from the leaking pipe had simply moved from one 
+part of the defendant’s land to another; it had not exited the land or gone over any boundary.
+This means that the test as to what is ‘likely to do mischief if it escapes’ is in fact quite strict. Only when it can 
+be shown that the defendant recognised (or should have recognised) that an exceptionally high risk of danger 
+arose if the thing or substance accumulated on their land was able to escape will there be any possibility of 
+liability arising. This would not change even if the risk of an escape taking place was low.6
+p. 590
+6
+19. Actions under the rule of Rylands v Fletcher
+Page 6 of 26
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Counterpoint
+Essentially, the ‘likely to do mischief’ test was transformed into a foreseeability test by Transco. A 
+defendant will not now incur liability if they could not have foreseen an exceptionally high risk of 
+danger should whatever was brought onto their land escape. As we indicated in our discussion of 
+private nuisance (section 18.3.3.3), foreseeability, as a requirement in land torts (traditionally 
+understood as distinct from the tort of negligence), seems rather misplaced—it hints at there being a 
+requirement of fault. This is particularly troubling in relation to Rylands liability, which is supposed to 
+be strict. So, it should not matter whether the defendant could or should have ‘recognised’ (foreseen) 
+that a thing would give rise to an exceptionally high risk of danger if it escaped.
+19.2.2  ‘… if it escapes …’
+The Rylands rule was established to deal with isolated escapes from land and therefore proof of an actual 
+escape of a ‘thing likely to do mischief’ is vital. In Read v Lyons [1947], a munitions inspector was injured 
+while visiting a munitions factory when an artillery shell exploded during the manufacturing process. As 
+there was no indication that the manufacturers had been negligent, the claimant brought an action in 
+Rylands. The House of Lords rejected her claim. There had been no ‘escape’—the shell had not left the 
+defendant’s premises. Crucially, the claimant was still on the property when she was injured: had she stepped 
+over the threshold, she would have succeeded. The law lords held that an escape occurs only when the 
+substance or item causing damage actually moves from the defendant’s premises to a place outside the 
+defendant’s occupation or control. This was confirmed by the Court of Appeal in Stannard (t/a Wyvern Tyres) v 
+Gore [2012]. Tyres stored on the defendant’s land caught fire, subsequently destroying both the claimant’s 
+and the defendant’s premises. While agreeing that it would be possible for Rylands liability to be based on fire, 
+the court found that this would be rare, as it would need to be the fire itself that was brought onto land and 
+then escaped. As the tyres themselves had not escaped, there could be no liability.7
+Pause for reflection
+Lord Macmillan held (obiter) in Read v Lyons that he was not prepared to allow personal injury claims 
+under Rylands. He said that ‘as the law now stands an allegation of negligence is in general essential 
+to the relevancy of an action of reparation for personal injuries’ (at 16–17).8 Do you agree? Should 
+liability be confined to property damage or do you think that when people keep ‘dangerous’ things or 
+substances on their land which injure someone if they escape, they should pay compensation?
+There has been some debate as to whether intentionally releasing something from one’s land is capable of 
+being viewed as an ‘escape’ and therefore falling within the Rylands sphere of liability. In Rigby v Chief 
+Constable of Northamptonshire [1985], police officers, in an attempt to catch a criminal hiding in a shop, fired 
+p. 591
+7
+8
+19. Actions under the rule of Rylands v Fletcher
+Page 7 of 26
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+CS gas into the premises to ‘flush’ the man out. This resulted in a fire which damaged the shop. The court 
+held that where direct harm had been caused by an intentional act, trespass would be the correct action. 
+However, in Crown River Cruises Ltd v Kimbolton Fireworks Ltd [1996], Potter J suggested that intentional 
+releases (in this case fireworks) could be deemed to be ‘escapes’ if not deliberately aimed in the direction of 
+the claimant or their property.
+19.2.3  ‘… which represents a non-natural use of land …’
+As we have seen, the third requirement that there be a ‘non-natural’ use of land was added by Lord Cairns in 
+the House of Lords in Rylands. This was his interpretation of the original formulation from Blackburn J in the 
+lower court, who referred to the defendant bringing onto or accumulating on the property something ‘which 
+was not naturally there’. This means that the rule does not apply to things that are naturally to be found on a 
+particular area of land. However, what is naturally on land—or what is ‘non-natural use’—has been variously 
+interpreted over time.
+It appears clear, for example, that no liability can arise in respect of trees, shrubs or other plants that are 
+naturally found on the defendant’s land, even if some part of these ‘escapes’ onto the claimant’s property 
+(Giles v Walker [1890]).9 It might be different, however, if the trees or plants in question were introduced by 
+the defendant. The classic definition of ‘non-natural use’ is found in Rickards v Lothian [1913]:
+It is not every use to which land is put that brings into play [the] principle. It must be some special 
+use bringing with it increased danger to others, and must not merely be the ordinary use of land or 
+such use as is proper for the general benefit of the community. (Lord Moulton at 280)
+In Rickards, a tap was left running by an unknown party in the part of a building leased by the defendant. This 
+caused a flood, damaging the claimant’s goods stored on the floor below. Despite there being an escape, no 
+liability was found as the defendant was found to have been using the premises in an ordinary way.
+Counterpoint
+‘Non-natural’ use appears to have become ‘non-ordinary’ use—a much narrower definition, as many 
+things that are not ‘natural’ on land will in fact be quite ordinary. Further, what is ‘ordinary’ will 
+depend on the time, place and context of the use of the land in question. This definition makes the test 
+look a little like negligence (or like the reasonable user test in nuisance) and has allowed the courts to 
+decide that various industrial activities are in fact ‘natural’ uses of land. This not only goes against the 
+rule’s strict liability origins but would seemingly water down any impact that it could have on 
+environmental protection.
+p. 592
+9
+19. Actions under the rule of Rylands v Fletcher
+Page 8 of 26
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+In British Celanese v Hunt [1969], strips of metal escaped from a factory where the defendants 
+manufactured electrical components. These hit overhead power lines, causing a power failure to the 
+claimant’s factory. However, because the area in which both factories were sited was given over to an 
+industrial estate, the defendants escaped liability under Rylands (although they were on other 
+grounds found liable in both negligence and nuisance). The substance in question was certainly not 
+‘naturally’ on the land: it had been brought there by the defendants and had escaped—but the use of 
+the land was ‘ordinary’ in the context of industry, as well as being beneficial to the community (in the 
+sense of providing a necessary commodity, creating employment, etc). Similarly, in Read v Lyons, the 
+manufacture of artillery shells in wartime was found to be a natural use of land given the political/ 
+social context (although it should be noted 
+↵
+that the Read decision was later doubted in Transco). 
+The most recent interpretations of ‘non-natural’ use come from the Court of Appeal. In Stannard (t/a 
+Wyvern Tyres) v Gore [2012], the storage of around 3,000 tyres was deemed natural use of land, despite 
+them igniting and the fire escaping, destroying the neighbouring premises, and even though the 
+capacity of a typical storage facility was exceeded and the stacking of the tyres was done ‘haphazardly 
+and untidily’.10 In Northumbrian Water Ltd v McAlpine Ltd [2014], in the context of large quantities of 
+wet concrete escaping into a water drain (later setting, causing extensive damage), Moore-Bick LJ 
+stated that ‘redevelopment of land in an urban setting cannot in my view be regarded as other than 
+normal and reasonable, unless it involves the use of unusual methods of working’ (at [19]).
+The definition of ‘ordinary’ use of land will inevitably change with time (for example, keeping a car 
+was ‘non-natural’ in 1919, but would not be regarded as so today) and context. Having such a broadly 
+interpretable rule allows courts considerable flexibility when deciding whether to apply the rule in a 
+new case. Overall, in our view, this had a negative effect on the use of the rule in Rylands as it means 
+that claimants are far less likely to succeed in any claim taken against general industrialised activity, 
+which, of course, are the very activities likely to do the most damage (and the very activities from 
+which the strict liability principle arose). There is no real explanation why the courts felt that this 
+change of direction was necessary. Perhaps it was to limit the number of claims in a similar way to the 
+duty of care in negligence, which may in turn be a consequence of changed emphasis in the law of tort 
+and whose interests it is used to protect.
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-19-2>.
+p. 593
+10
+19. Actions under the rule of Rylands v Fletcher
+Page 9 of 26
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+19.3  Cambridge Water v Eastern Counties Leather plc
+Cambridge Water was a major case that substantially changed the meaning of ‘non-natural use’ (or ‘non- 
+ordinary use’) of land. In the background to this case sit a number of common law decisions (e.g. Ballard v 
+Tomlinson [1885]) which recognised that downstream landowners hold a ‘natural right’ to receive water in its 
+‘natural quality and quantity’.11
+Cambridge Water Co Ltd v Eastern Counties Leather plc [1994] 2 AC 264 
+(HL)
+The defendants owned and operated a tannery and, in the process of degreasing leather pelts, used a 
+particular chemical solvent—perchloroethylene (PCE)—for many years, until 1976. In the tanning 
+process, large quantities of PCE had been spilled onto the concrete floor of the tannery. Over time, this 
+seeped through the concrete and into the soil below, from where it ‘travelled’, eventually entering the 
+watercourse and polluting a well situated 1.3 miles away and owned by the claimants for extracting 
+drinking water for the city of Cambridge. The PCE pollution in the water was only discovered in 1983 
+when the water company became obliged by a European Directive to test for certain chemicals. 
+Cambridge Water was forced to move its well, 
+↵
+at a cost of more than £1 million, and sued the 
+defendants for the costs associated with the relocation in negligence, nuisance and under the rule in 
+Rylands.
+By the time the case reached the House of Lords, the claims in negligence and nuisance had failed, 
+largely because the harm that had occurred had been unforeseeable to the defendants. This left only 
+the Rylands action. Giving the leading opinion in the House of Lords, Lord Goff felt bound to say that 
+‘the storage of substantial quantities of chemicals on industrial premises should be regarded as an 
+almost classic case of non-natural use’ (at 309), notwithstanding any benefit to the community that 
+is served by the industry or the fact that this might be seen (especially in a tannery) to be an ‘ordinary 
+use’ of the land in question. He also found that the PCE entering the watercourse could be viewed as 
+an isolated escape, despite the fact it had happened over a period of time and was caused by many 
+separate spillages. However, despite these liberal interpretations, the claimants could not recover 
+because the damage was ultimately too remote.
+19.3.1  ‘… and which causes foreseeable damage of the relevant type’
+Lord Goff’s view on the ‘escape’ and the issue of ‘non-natural’ use of land appears to contradict the direction 
+taken by the courts in the mid-twentieth century. While this may be viewed as a good thing, in that courts 
+would subsequently be more able and therefore more likely to find ‘non-natural’ uses of land (a triumph for 
+environmentalists),12 the reason for the changed approach shows that this is not indeed the case. As we 
+mentioned earlier, a fourth requirement to the Rylands test was added in Cambridge Water—what prevented 
+11
+p. 594
+12
+19. Actions under the rule of Rylands v Fletcher
+Page 10 of 26
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+the claimant’s recovery of damages was the fact that the harm suffered was regarded as too remote. Lord Goff 
+added the requirement that any damage caused by the escape must be foreseeable and, in considering this, 
+held that it was not foreseeable even to the skilled person that quantities of chemical spilt on concrete would 
+ultimately cause damage to the claimant’s well. Although some damage from the spillage of the PCE might be 
+imagined, the damage to the claimant’s well could not be, particularly given that the European Directive had 
+not been in force.
+Lord Goff justified his findings by analogy to nuisance (which, as discussed in section 18.3.3.3, also has a 
+foreseeability requirement) and by allusion to Blackburn J’s original formulation in Rylands, in which he 
+referred to ‘anything likely to do mischief if it escapes’. In fact, it is said that as a student at Oxford Lord Goff 
+had read and been very impressed by an article by FH Newark which argued against the separation of Rylands 
+liability and private nuisance.13 Cambridge Water provided him with the opportunity to put this into practice. 
+He closed the gap between Rylands and nuisance in two ways. First, by equating non-natural use with 
+reasonable use he essentially established the rule as an application of nuisance to one-off escapes (a position 
+later confirmed by the House of Lords in Transco). Secondly, he introduced the remoteness principle from 
+The Wagon Mound (No 1) [1961].14
+↵
+As we have already indicated, ‘non-natural use’ had come to be interpreted so as to limit liability under 
+Rylands where the courts felt it necessary or appropriate to do so. However, Lord Goff recognised that the 
+addition of the foreseeability requirement would sufficiently limit the scope of liability, so there remained no 
+need to do so with the ‘ordinary use’ test.
+Pause for reflection
+Why do you think the courts felt it necessary to try and rein in liability under the rule in Rylands? If 
+the objective was originally to protect claimants (or society as a whole) from the negative 
+environmental and other effects of industry, do such limitations seem appropriate? And for whose 
+benefit do these limitations exist?
+There has been some discussion as to how far the foreseeability test extends and about what exactly must be 
+foreseeable—the harm alone or also the escape in the first place? Lord Goff’s opinion is not entirely clear on 
+these points (perhaps a reflection of his priorities at the time), but the commonly held view is that it is not 
+the escape that must be foreseeable, merely the damage resulting from the escape. As Joanne Conaghan and 
+Wade Mansell point out:
+authority for this position can be derived from the Rylands decision itself: Blackburn J’s allusion, for 
+example, to ‘anything likely to do mischief’ suggests that the defendant must reasonably recognise 
+the dangerous nature of the substance under his control but, having done so, he ‘must keep it at his 
+peril’, implying liability regardless of whether or not he could reasonably have foreseen and/or 
+guarded against an escape.15
+13
+14
+p. 595
+15
+19. Actions under the rule of Rylands v Fletcher
+Page 11 of 26
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Therefore, the correct question is: once there has been an escape, is the damage suffered by the claimant of a 
+type or kind that was a reasonably foreseeable consequence of such an escape?16
+Lord Goff also considered the ongoing position. There was still clearly PCE pollution affecting the well—once 
+the testing of the water included tests for PCE, the problem was known. On this point, Cambridge Water 
+argued that, even though the damage (pollution by PCE) may have been unforeseeable when it was spilt, it had 
+clearly become foreseeable by the time the case reached the court, and the PCE was still escaping. Could the 
+defendant therefore be liable for continuing escapes? Lord Goff dismissed this argument, holding that because 
+the defendants could not possibly have foreseen the fact that the well would become polluted at the date of 
+the spillages, strict liability for the damage (which became foreseeable later, but by which time nothing could 
+be done to prevent the escapes continuing) should not be imposed upon them. The PCE had escaped beyond 
+the defendants’ control (even though it would have been possible—but expensive—for them to clean up the 
+water).17
+Counterpoint
+Before leaving Cambridge Water, consider the following passage from Conaghan and Mansell:
+[T]he interesting question is not whether Cambridge Water was correctly decided but rather 
+why the Law Lords chose to decide the case as they did. To some extent, the result can be 
+attributed to good housekeeping instincts—Lord Goff considered that the application of a 
+foreseeability criterion to the determination of liability in Rylands would lead to ‘a more 
+coherent body of common law principles’ (at 76) … More generally, however, it is instructive 
+to consider the broader social and political context within which Cambridge Water was 
+decided. [Eastern Counties Leather] is judicially perceived as a model company which excites 
+the admiration of right-thinking people. Mann LJ notes that it is of ‘high repute’ locally, 
+taking a proper ‘pride in its history’ as a business which was first incorporated in 1879 (at 
+56). Lord Goff commends the company’s ‘good standard of housekeeping’ and its ‘modern 
+and spacious’ accommodation (at 63). Into this idyllic scene of industrial industriousness 
+comes a European regulation which, for no demonstrable health reason, renders water from 
+the Sawston borehole no longer ‘wholesome’ and thereby threatens the whole future of this 
+well-established business with a damages bill of almost £1,000,000. Anyone could be 
+forgiven for thinking that this offends justice and common sense, particularly in 
+circumstances where the alleged polluters couldn’t possibly have known that their activities 
+would have such expensive consequences … However the effect of placing the cost of 
+pollution on Cambridge Water is equally disquieting—they will inevitably recoup their loss 
+through raised water rates, but in what sense is it more just to require the residents of 
+Cambridge to foot the bill?18
+16
+17
+p. 596
+18
+19. Actions under the rule of Rylands v Fletcher
+Page 12 of 26
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+In economic and environmental terms, then, the Cambridge Water decision favours industry over 
+society (and distributive rather than corrective justice); the losses or costs are spread among the 
+citizens who pay for their water. The question is whether this is a better solution than one requiring 
+polluters to pay. An environmental perspective may reflect an entirely different outcome—making 
+polluters pay is surely preferable to making society pay for both the environmental and social cost of 
+industry, and may operate as a deterrent against future polluting practices. Lord Goff considered the 
+environmental question—and whether this should be a policy consideration that weighed heavily 
+against Eastern Counties Leather—but thought that the creation of mechanisms for protecting 
+society from pollution was more properly the role of Parliament, not the judiciary through the 
+development of one small rule in tort. Put simply, he believed that pollution should be regulated by 
+public, not private, law.
+It is also questionable just how much ‘development’ of the tort the imposition of liability on Eastern 
+Counties Leather would involve. In Rylands, the defendant landowner could not possibly have 
+foreseen that one potential consequence of his erection of a reservoir would be the flooding of his 
+neighbour’s mine. The point was that despite the unforeseeable nature of the harm, he should be held 
+strictly liable for it happening, as by building the reservoir he had assumed the risk of all harms that 
+might be caused by the water escaping, whether foreseeable to him or not. Why should this be any 
+different when we are faced with a modern ‘model company’?
+Pause for reflection
+Do you think that Cambridge Water was correct? Could it have been decided differently? Remember 
+that the House of Lords found major disagreements on some points thought to be determinative by 
+the Court of Appeal (which had found in favour of Cambridge Water). Does this mean the House of 
+Lords was necessarily right and the Court of Appeal was necessarily wrong? You may like to consider 
+the fact that although PCE was not known to have any deleterious health consequences to humans, it 
+had, by the time Cambridge Water was decided, been found to cause liver cancer in mice.
+Also consider what the damages claim in Cambridge Water was for. The costs incurred related to the 
+finding of a new site for a water borehole and the sinking of a new well. What this means is that the 
+old well was never cleaned up. Should there have been an obligation on one of the parties to clean up 
+the PCE from the old well? If so, which party, and why?
+Check our pointers <https://iws.oupsupport.com/ebook/access/content/horsey9e-student-  
+resources/horsey9e-chapter-19-pointers-to-pause-for-reflection-and-counterpoint-boxes? 
+options=showName> on how to answer the questions posed in this ‘Pause for reflection’.
+p. 597
+19. Actions under the rule of Rylands v Fletcher
+Page 13 of 26
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-19-3>.
+19.4  Transco v Stockport MBC
+The final requirement of Rylands comes from the House of Lords in Transco, which approved and expanded 
+upon Lord Goff’s opinion in Cambridge Water. Dealing with what could be considered to be ‘non-natural’ land 
+use, the law lords found that the provision of a piped water supply from the mains to a block of flats was a 
+totally natural use of land. Transco now makes it even harder for claimants to establish a defendant’s liability. 
+Not only will the ‘mischief test’ be harder to satisfy, the ‘non-natural use’ test will also be. The House of Lords 
+noted the link between these two concepts and all five law lords thought that a correct redefinition or re- 
+interpretation of ‘non-natural use’ should require there to be some use that is ‘extraordinary and unusual’ 
+according to the standards of the day.19 Piping water to a block of flats in an urban area clearly does not fit 
+this definition, therefore there would have been no liability in Transco on this point.20 Typically, Lord 
+Hoffmann reverted to economic analysis, suggesting that the role of insurance in cases of this type was also 
+relevant, saying that ‘a useful guide in deciding whether the risk has been created by a “non-natural” user of 
+land is to ask whether the damage which eventuated was something against which the occupier could 
+reasonably be expected to have insured himself’ (at [46]).
+Pause for reflection
+Should it matter whether the party was—or is considered by the court to ought to have been— 
+insured? The question, when it comes down to economic analysis, is about which party is better 
+placed to bear the costs. If Transco had to bear the cost, it could then redistribute this cost by 
+increasing the prices paid by all its customers. Similarly, if Stockport MBC had to pay, an 
+↵
+increase in council tax for local residents would cover the cost. Similar points arise if we 
+consider payment ‘in advance’, via the payment of insurance premiums. Do you think it should be 
+councils who insure themselves against eventualities of this type, or the companies who provide the 
+services (e.g. gas), usually in the interests of making profit? Or, more accurately, should citizens in a 
+particular area bear the costs, or the customers of a profit-making enterprise?
+Lord Hoffmann seems to suggest that if an occupier of land could have foreseen such an eventuality, they 
+should (a) have insurance and (b) the use of land would be classified as ‘ordinary’ so the Rylands test would 
+not be satisfied. This puts the insurance burden firmly upon occupiers (potential claimants). Put simply, on 
+this view a claimant cannot say that they thought that there might be a risk of harm occurring, but they 
+19
+20
+p. 598
+19. Actions under the rule of Rylands v Fletcher
+Page 14 of 26
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+chose not to insure, and then go to court seeking damages under the rule in Rylands. Lord Hoffmann’s 
+approach, however, was not favoured by the other law lords and was in fact explicitly rejected by Lord 
+Hobhouse (at [60]).
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-19-4>.
+19.5  Standing and defences
+19.5.1  Who can sue?
+Cambridge Water seemed to move the Rylands rule closer to nuisance, with the addition of the foreseeability 
+requirement. Indeed, this was Lord Goff’s intention. Only a few years later, the House of Lords’ decision in 
+Hunter v Canary Wharf Ltd [1997] made having a proprietary interest in land a prerequisite to a claim in 
+nuisance. This meant that the question arose as to whether this would extend to those taking claims in 
+Rylands. It is clear that others have successfully claimed under the rule in the past (Perry v Kendrick’s 
+Transport Ltd [1956]), though this was criticised in Read v Lyons. However, if the focus of both actions is the 
+same, namely the protection of rights to and over land, as Lord Goff suggested, it would seem logical that the 
+right to be able to take a claim would be the same for each. This position was confirmed by the House of Lords 
+in Transco;21 therefore only parties with ownership or exclusive possession of the land concerned have 
+standing to claim under Rylands.
+Counterpoint
+Following Transco it is clearly no longer possible to claim for personal injury under the rule in Rylands 
+(in the same way that it is not technically possible in nuisance).22 This limitation has, however, been 
+criticised by some scholars as being at odds with the House of Lords’ belief that there may be ‘a 
+category of case, however small … in which it seems just to impose liability even in the absence of 
+fault’ (Lord Bingham, Transco at [6]).
+↵
+Roderick Bagshaw argues that it is strange to limit the rule to damage to real property especially 
+given that one of the reasons for the rule in the first place was as a response to a loss of life in a 
+number of disasters. For example, Lord Walker in his speech in Transco refers to the Aberfan tragedy 
+in which 144 people (including 116 school children) were killed when on 21 October 1966 thousands of 
+tons of colliery waste from the Merthyr Vale Colliery slid down a mountain side above the village of 
+Aberfan in south Wales, destroying 20 houses and the village school. To suggest (in the absence of 
+21
+22
+p. 599
+19. Actions under the rule of Rylands v Fletcher
+Page 15 of 26
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+negligence) there would only have been good reason to compensate the property owners and not for 
+the deaths and personal injuries of those involved seems extraordinary. This, however, is the result of 
+subsuming Rylands within nuisance.
+Watch our video ‘Rylands underwhelms’ in the context of its history and missed potential in the 
+context of personal or environmental disaster.
+Video playback is not supported in this format.
+Video 19: Rylands underwhelms
+Read additional commentary on this Counterpoint. <https://iws.oupsupport.com/ebook/  
+access/content/horsey9e-student-resources/horsey9e-chapter-19-pointers-to-pause-for- 
+reflection-and-counterpoint-boxes?options=showName>
+It also appears that other losses are excluded from the rule, now it has been subsumed into private 
+nuisance and (see section 19.6) more closely aligned with negligence. In D Pride & Partners (A Firm) v 
+Institute for Animal Health [2009],23 for example, Tugendhat J excluded claims for pure economic loss 
+from both nuisance and Rylands actions.
+19.5.2  Defences
+The initial defences available under the rule in Rylands come from Blackburn J’s original judgment. He 
+indicated that there should be only three defences to the (strict) liability. These are outlined in Table 19.1.
+Table 19.1 Defences to a claim under the rule in Rylands v Fletcher
+Defence
+Examples
+Fault of the claimant 
+or express or implied 
+consent
+Ponting v Noakes [1894]
+The claimant’s horse died after it reached over a fence to eat poisonous leaves from a tree on the 
+defendant’s land. The defendant was not liable as the harm suffered was due to the horse’s own 
+intrusion
+Escape caused by the 
+unforeseeable act of a 
+stranger
+Box v Jubb [1879]
+23
+19. Actions under the rule of Rylands v Fletcher
+Page 16 of 26
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Defence
+Examples
+A reservoir overflowed onto the claimant’s land, but this was the result of another neighbouring 
+reservoir owner’s actions, over which the defendant had no control and of which he had no 
+knowledge; the defendant was therefore not liable
+Rickards v Lothian [1913]
+The claimant’s premises were flooded due to a continuous overflow of water from a sink on the 
+top floor of the building. This was caused by a tap being turned on full and the wastepipe 
+plugged by the deliberate act of a third party. The defendant was not liable as he could not 
+reasonably have known of the act so as to do anything to prevent the harm
+Perry v Kendricks Transport Ltd [1956]
+A disused motorcoach in the defendant’s car park was set alight by young boys, causing injury to 
+a 10-year-old. However, it had not been left in such a condition by the defendant that it was 
+reasonable to expect that children might meddle with it and cause the fire.
+The act of the third party must be unforeseeable. If the defendant should have foreseen the 
+intervention, the defence will not be established
+Northwestern Utilities Ltd v London Guarantee Co [1936]
+The claimant’s hotel was destroyed by fire after a gas leak ignited. It was foreseeable that works 
+undertaken by a third party near the defendant’s gas mains might cause damage and require 
+remedial work. It was therefore no defence to argue that the fire was caused by the acts of a 
+third party
+Escape caused by an 
+‘act of God’
+Nichols v Marsland [1876]
+The defendant had ornamental pools on his land, which contained large quantities of water and 
+which had been formed by damming up a stream that ran through his property. Extraordinarily 
+high rainfall caused the banks of the pools to collapse and the escaping water destroyed four 
+bridges on the claimant’s land. The court ruled that the defendant should not be found liable for 
+an extraordinary act of nature, which he could not have reasonably foreseen
+Greenock Corporation v Caledonian Railway [1917]
+A concrete paddling pool for children had been constructed by the local authority in the bed of a 
+stream, requiring an alteration of its natural course. An extraordinary level of rainfall caused the 
+pool to overflow. Due to its construction, water which would have ordinarily flowed downstream 
+flowed down a public street. The House of Lords held that such an event did not qualify as an 
+‘act of God’
+19. Actions under the rule of Rylands v Fletcher
+Page 17 of 26
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Pause for reflection
+The defendant will not be liable where an escape happens solely because of natural causes, in 
+circumstances where no human foresight or prudence could reasonably recognise the possibility of 
+such an occurrence and take preventative measures. Arguably, however, modern technological and 
+scientific advances render this defence largely defunct. Do you think that exceptionally heavy rains or 
+violent winds would be unforeseeable today? What kind of exceptional situations would now be 
+considered (after Greenock) an ‘act of God’?
+↵
+Blackburn J’s defences are not the only ones applicable to Rylands claims; others more familiar from 
+nuisance can also arise. Statutory authority is the primary example and the approach to this is the same as is 
+taken in nuisance.24 Contributory negligence and volenti non fit injuria are also applicable.25 The fact that 
+defences are available at all is somewhat controversial—they essentially suggest that an element of fault 
+resides in an area of tort that is supposed to have created strict liability. This, in our opinion, weakens the 
+action’s potential use in environmental protection. The subsuming of the action into nuisance has also 
+created doubt about its usefulness in the modern day and, as we shall see in the following section, it appears 
+that to some extent any residual application of Rylands is edging closer and closer to a fault-based land tort.
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-19-5>.
+19.6  The nuisance/Rylands v Fletcher/negligence overlap
+Lord Walker, in Transco, suggested that liability in nuisance (and presumably, therefore, under Rylands) 
+‘overlaps with (indeed, is a sort of condominium with) that of negligence’ (at [96]). A series of cases supports 
+this—that is, cases in which there is clearly fault on the part of the defendant, but where the harm is to the 
+claimant’s interest in land and liability has been found in nuisance or Rylands.26 These cases started within a 
+category known as ‘continuing or adopting a nuisance’, and refer to those situations where a pre-existing 
+nuisance (created usually by a third party) was allowed to continue by the defendant, resulting in the ‘escape’ 
+of something from the defendant’s land. Furthermore, in Burnie Port Authority v General Jones Pty Ltd [1994], 
+the Australian High Court expressly incorporated the Rylands rule into negligence. In Cambridge Water, a 
+foreseeability requirement—more familiar from negligence and considerations of fault—was added to claims 
+in both private nuisance and under Rylands. Lord Walker, in Transco, thought that the scope of the action had 
+been restricted by developments in negligence (at [99]). Thus, it seems that questions must now be asked 
+about the role of fault within these types of claim, particularly in those cases that seem, on their facts, to 
+straddle private nuisance and Rylands.
+p. 600
+p. 601
+24
+25
+26
+19. Actions under the rule of Rylands v Fletcher
+Page 18 of 26
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Sedleigh-Denfield v O’Callaghan [1940] AC 880 (HL)
+A drainage pipe on the defendants’ land had been constructed by the local authority without the 
+defendants’ knowledge. When it was built, its end should have been covered with a grille or grate to 
+stop debris blocking it and causing flooding. A grate had been provided but was put in the wrong 
+place, rendering it useless. The claimant’s land was flooded and damaged on more than one occasion 
+when the pipe became blocked following heavy rainfall.
+↵
+The House of Lords held the defendants (an order of monks) liable on the ground that they had 
+‘continued or adopted’ an existing nuisance. While it was clear that the nuisance itself—that is, the 
+problem—had been created by the local authority in its negligent construction of the pipe, the 
+defendants had done nothing to rectify the problem. Because at least one of the monks was found to 
+have known about the existence of the pipe, and the problem would have been easy to rectify, it was 
+held that the defendants had not taken reasonable steps to stop the nuisance continuing.
+This clearly illustrates what we mean by a claim ‘straddling’ the tort of private nuisance and an action under 
+Rylands. The applicability of a particular action turns on what is categorised as the ‘nuisance’ or problem in 
+the first place. If it is the pipe, this is an ongoing situation (at least, the risk created would be) and would fall 
+in the private nuisance category. However, if it is the flooding of the claimant’s land then it could be viewed 
+that the water, once accumulated behind the blockage in the pipe, had ‘escaped’, making this a Rylands 
+situation. However, it also seems eminently possible that this is, in fact, negligence—the defendants did not 
+act reasonably or failed to take reasonable steps to do something about the grate and the potential problem 
+that the pipe could become blocked. This is clearly a fault-based consideration and shows how the three 
+different tort actions overlap. Is what is being said that there is a duty to do something about a known and 
+existing state of affairs, if it could pose a potential problem?27 If so, this is clearly breached by not doing so, 
+and is what causes the damage complained of, subject to any foreseeability considerations. Conor Gearty 
+argues that ‘[t]his was negligence pure and simple, confused by an ill-fitting and woolly disguise of 
+nuisance’.28
+The harm in Sedleigh-Denfield originated from a third party’s actions, but similar effects arise in situations 
+caused by acts of nature. In Goldman v Hargrave [1967], a gum tree on the defendant’s property was struck by 
+lightning. The defendant took what turned out to be inadequate steps to alleviate the risk that the tree would 
+catch fire. The tree continued to smoulder, eventually igniting, the fire travelling to the neighbouring 
+property and causing damage. The Privy Council followed Sedleigh-Denfield, finding the defendant liable for 
+the damage, based on his knowledge of the foreseeable danger.29 Again, this seems both like an escape (of 
+fire) and a fault-based consideration, aligning it more closely with negligence, and indeed the Privy Council 
+treated it as such, though it refused to state whether the case could also be decided under nuisance.
+p. 602
+27
+28
+29
+19. Actions under the rule of Rylands v Fletcher
+Page 19 of 26
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+19.6.1  The ‘measured duty of care’
+The cases in this area seem to involve an escape of one sort or another and without the added limitations to 
+the Rylands rule would appear to be almost classic examples of the type of harm that Blackburn J imagined 
+would attract strict liability. In relation to them a new term 
+↵
+of art emerged: a ‘measured duty of care’ in 
+nuisance, in which positive duties are owed by landowners to act to prevent damage to others.30
+In Leakey v National Trust [1980], a portion of a large mound of earth on the defendant’s ground collapsed (as 
+exposure to weather conditions had weakened it over time), damaging two houses owned by the claimant 
+which were situated at the bottom of the mound. As the defendants had long been aware of the effect of the 
+weathering on the earth, they were found liable. Here, again, the Court of Appeal explicitly considered the 
+relationship between nuisance and negligence in claims of this type, essentially coming to the point that the 
+two actions were one and the same in these situations. We would add that given the ‘type’ of nuisance being 
+considered, Rylands is subsumed in these claims as well, by virtue of the ‘escapes’ that cause the damage in all 
+of them. The result of Leakey is that a claim can now be taken in nuisance or negligence, but cases since have 
+tended to rely on nuisance, possibly because it is easier to do so than to go back to ‘duty, breach, cause’ 
+formulations. It is also perhaps arguable that where the only harm is to amenity interests, the claim must by 
+its very nature be framed in nuisance and, therefore, all claims of this type might as well be.31 However, at 
+least where there is actual damage to property, the claims seem as though they would equally as easily 
+succeed in negligence if framed in that way (see e.g. Holbeck Hall Hotel Ltd v Scarborough Borough Council 
+[2000]; Lippiatt v South Gloucestershire Council [2000]; Bybrook Barn Centre Ltd v Kent County Council [2001]; 
+Delaware Mansions Ltd v Westminster City Council [2002]; Vernon Knight Associates v Cornwall Council [2013]), 
+yet all are considered nuisance actions. Indeed, in Delaware Mansions, Lord Cooke went as far as to say that 
+the nuisance/negligence distinction in these cases ‘is treated as of no real significance’ (at [31]).
+That said, in Lambert and others v Barratt Homes Ltd and another [2010], a local authority succeeded in its 
+appeal against a finding that it should have prevented the flooding of the claimant’s land from surface water 
+that accumulated on its own land by constructing a catch pit and drainage system for the water at 
+considerable cost. This indicates that the scope of the duty may be used to limit claims even where a measured 
+duty of care seems appropriate. As the accumulation of the surface water had in fact been caused by Barratt 
+(by blocking a drainage ditch and culvert on land adjacent to the local authority’s)—and because Lambert 
+could recover the entire cost of drainage work from Barratt in nuisance—the scope of the authority’s 
+‘measured duty’ extended only to cooperation and to allowing others to facilitate the drainage of water from 
+its land.32
+Pause for reflection
+Given the arguments made earlier, and the cases cited, do you think there is any continuing role for 
+the action in Rylands, or would it be better to do as Australia has done and completely subsume the 
+action into the tort of negligence?
+p. 603
+30
+31
+32
+19. Actions under the rule of Rylands v Fletcher
+Page 20 of 26
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-19-6>.
+19.7  Where does Rylands v Fletcher fit today?
+In Cambridge Water, Lord Goff questioned whether Rylands was best seen as analytically distinct from 
+nuisance or if they should be viewed as two parts of the same thing. Even though the Rylands rule had 
+developed out of a desire to protect landowners from the risks of isolated escapes from industry and other 
+risky activities, he held that ‘it would … lead to a more coherent body of common law principles if the rule 
+were to be regarded as essentially an extension of the law of nuisance to isolated escapes from land’ (at 306). 
+In Transco, the House of Lords confirmed that Rylands actions should be viewed as a sub-species of private 
+nuisance. This, to a large extent, ended a long period of uncertainty and academic speculation on the matter. 
+Their lordships also reviewed the scope, relevance and application of the rule in the modern day and provided 
+guidance as to its future application.
+In particular the House of Lords in Transco:
+rejected the suggestion that the rule should be absorbed into negligence as in Australia and Scotland;
+rejected the suggestion that the rule should be more generously applied, confining it to ‘exceptional’ 
+circumstances where the occupier has brought something onto his land which poses an ‘exceptionally 
+high risk’ to neighbouring property should it escape and which amounts to an ‘extraordinary and 
+unusual use of land’ given the place and time in which it occurs; and
+clarified that only those with rights to land could sue, bringing the action into line with private 
+nuisance, following Hunter, and confirming that no claim for personal injury could be brought under it.
+Transco limits the rule in Rylands to a role in the protection of interests in land (as in nuisance). In so doing, it 
+prevents it from taking on a broader role in ensuring that those who wish to indulge in ultra-hazardous (but 
+socially beneficial) activities make appropriate provision for absorbing the inevitable costs of occasional 
+catastrophes and environmental harms. In this respect, the function or purpose of this area of tort law as a 
+regulatory system—if it ever had one—is lost.
+The Rylands rule has always been difficult to rationalise, and particularly so in the modern day, where it 
+seems largely unnecessary to hold on to it. It was judicially created to deal with dangers caused by large-scale 
+building of reservoirs and other rapid industrial development, making it seem like an exception to nuisance 
+through its dealing with one-off events via the imposition of strict liability. However, by the mid-1990s, as 
+Cambridge Water shows, its impact and potential as a tool for environmental protection was constrained— 
+again, a product of the time in which a Conservative government prioritised business concerns. Furthermore, 
+many of the practices on which it may have impacted had, by this time, been regulated in other ways— 
+reservoirs, for example, by then coming under the Reservoirs Act 1975. Sadly, things have not really improved 
+following the reconsideration of the action by the House of Lords in Transco, as to all intents and purposes 
+p. 604
+19. Actions under the rule of Rylands v Fletcher
+Page 21 of 26
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Rylands is now merely a form of nuisance and, as we argued in the previous section, potentially more 
+accurately viewed as a sub-species of negligence. As a result, its deliberate differences from nuisance, 
+including the ability to recover for personal injury and ‘wrongful’ conduct—as well as most of its 
+↵
+environmental potential—have either been lost or become (unintentional) inconsistencies.33 Roderick 
+Bagshaw contends that:
+[i]t is often asserted that ‘hard cases make bad law’, but Transco confirms that bad law is also easily 
+made when a case is too straightforward. Perhaps it was because it was so clear to their Lordships 
+that the claim should not succeed (the defendant’s activity being too commonplace, insufficiently 
+risky, there being no escape and the claimant’s loss being easily insurable) that they allowed 
+inconsistencies and controversial propositions to stray into their speeches. But given that very few 
+claims rely on the rule in Rylands v Fletcher and Transco did nothing to encourage greater use of the 
+rule, the main effect of these imperfections will probably be to challenge law students and textbook 
+writers.34
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-19-7>.
+19.8  Conclusion
+In this chapter, we considered the rule from Rylands, a judicially created action allowing claims against those 
+who allow substances to escape from their land and cause damage to others’ property. This rule was 
+completely a product of the time—there were societal concerns about the effects of mass industrialisation, 
+including, as in the case itself, the building of artificial reservoirs.
+Due to its historical context, the rule has been (and can be) used only in limited circumstances and the 
+primary bulk of case law comes from the late nineteenth and early twentieth century. But it should be 
+remembered that the tort of nuisance was already in existence before Rylands, and this would allow people to 
+sue for uses of land that interfered with their own interests on a more frequent or ongoing basis. It should 
+also be noted that the tort of negligence emerged as a separate entity in the early twentieth century, and 
+many of the cases brought under Rylands could, in some ways, be construed as negligence actions. These 
+days, it is only those situations where a completely accidental escape occurs that could be said to fall outside 
+the bounds of negligence.
+The rule today is best understood through a trilogy of cases: Rylands itself, then Cambridge Water in the 
+mid-1990s, followed by Transco early this century. These three House of Lords’ decisions have in their own 
+way shaped the way the rule can be used, either by adding new requirements (Cambridge Water), or 
+redefining the way the existing requirements should be interpreted (Transco). That said, there is potential— 
+subject to its now stringent requirements—to use the rule to help to protect the environment from one-off 
+p. 605
+33
+34
+19. Actions under the rule of Rylands v Fletcher
+Page 22 of 26
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+1
+2
+3
+→
+→
+→
+catastrophes, not in a preventative sense but perhaps with more regard to clean-up measures when things go 
+wrong. Whether this was what was intended when the rule was created is debatable—it was more likely 
+intended as a vehicle to compensate (wealthy) landowners than to protect the land itself.
+The usefulness of the rule is certainly questionable in the modern day—it appears from Cambridge Water and 
+also the nuisance case of Hunter that its scope (particularly as a tool for environmentalists) has been severely 
+restricted. The rule has moved closer to nuisance (and negligence), with all that that entails, including 
+requirements of foreseeability and 
+↵
+proprietary interest in land to be able to claim. In other jurisdictions, 
+the rule has been swallowed by negligence. Without doubt, this is a rule now very limited in scope and 
+application—potentially having more historical interest than practical application in the twenty-first 
+century.
+End-of-chapter questions
+After reading the chapter carefully, try answering the questions which follow.
+How could the action under Rylands be used to help to solve environmental problems?
+Does the action under Rylands serve any useful purpose in the modern day?
+Should we follow the Australian High Court and formally view the action under Rylands as a species of 
+negligence?
+If you would like to know what we think, check the answer guidance <https://iws.oupsupport.com/ebook/  
+access/content/horsey9e-student-resources/horsey9e-chapter-19-answers-to-end-of-chapter-questions? 
+options=showName>.
+Answering the problem question
+Consider again the problem question at the start of this chapter. Now having read about the topic, what 
+would be your advice to Low-Price-Pumps?
+Here are some pointers to get you started:
+The first issue is whether Low-Price-Pumps has standing to take a claim (Transco).
+Their first claim is for property damage to the pumps and the economic loss suffered because of the 
+closure.
+p. 606
+19. Actions under the rule of Rylands v Fletcher
+Page 23 of 26
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+→
+→
+→
+They would need to satisfy the four criteria for a successful claim under Rylands, as modified by Transco, 
+including establishing whether each harm is damage ‘of the relevant type’ and whether it was foreseeable 
+(Cambridge Water), as well as whether Rack-and-Horse brought onto or accumulated something on its land 
+that carried with it ‘exceptional’ danger.
+Consider also whether, should the claim be otherwise successful, Rack-and-Horse might be able to avail 
+itself of one of the defences to the Rylands claim.
+If you need some more guidance:
+See the annotated version of the problem with issues and cases to consider <https://  
+iws.oupsupport.com/embed/access/content/horsey9e-student-resources/horsey9e-chapter-19-annotated- 
+problem-question-interactive>.
+Check your answer against the suggested outline answer <https://iws.oupsupport.com/embed/access/  
+content/horsey9e-student-resources/horsey9e-chapter-19-answers-to-problem-question>.
+Further reading
+A good place to start your further reading is the chapter by AW Brian Simpson, which helps to contextualise the 
+Rylands litigation. More up-to-date and insightful interpretations are provided in numerous other articles, particularly 
+by Roderick Bagshaw and Donal Nolan, and an interesting discussion of the potential usefulness of the claim in 
+relation to fracking is provided by Costello.
+Amirthalingam, Kumaralingam ‘Rylands Lives’ [2004] Cambridge Law Journal 273
+↵
+Bagshaw, Roderick ‘Rylands Confined’ (2004) 120 Law Quarterly Review 388
+Costello, Roisin ‘Reviving Rylands: How the Doctrine Could Be Used to Claim Compensation for Environmental 
+Damages Caused by Fracking’ (2014) available at http://dx.doi.org/10.2139/ssrn.3058635 <http://dx.doi.org/  
+10.2139/ssrn.3058635>
+Nolan, Donal ‘The Distinctiveness of Rylands v Fletcher’ (2005) 121 Law Quarterly Review 421
+Simpson, AW Brian ‘Bursting Reservoirs and Victorian Tort Law: Rylands and Horrocks v Fletcher (1868)’ in Leading 
+Cases in the Common Law (OUP 1995)
+Wightman, John ‘Liability for Landslips’ [2000] Environmental Law Review 285
+Additional suggestions for further reading can be found in this chapter’s web links <https://iws.oupsupport.com/  
+ebook/access/content/horsey9e-student-resources/horsey9e-chapter-19-web-links?options=showName>.
+p. 607
+19. Actions under the rule of Rylands v Fletcher
+Page 24 of 26
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Notes
+ 
+1. We have previously encountered the idea of strict liability in relation to defective products in Chapter 12.
+ 
+2. That is not to say it is not argued—see e.g. Jalla v Royal Dutch Shell Plc [2020].
+ 
+3. See e.g. Network Rail Infrastructure Ltd v Morris (t/a Soundstar Studio) [2004] discussed in section 18.3.3.3.
+ 
+4. So, would the owner of the ornamental lake in the first scenario at the beginning of this chapter be liable to 
+Horsechester Council? The question now will be whether the modern requirements of a claim under Rylands have 
+been met—have they?
+ 
+5. Though it is interesting to note that the reservoir bursting in Rylands—essentially an accident, albeit large-scale, 
+causing only property damage—convinced the courts to act to create a strict liability rule. This stands in stark 
+comparison to other ‘large-scale’ accidents and personal tragedies we have seen in tort (e.g. the Hillsborough Stadium 
+disaster, see further section 5.6), following which the courts have sought to restrict liability. For more on the 
+background context to Rylands, you might like to read this famous article by legal historian AW Brian Simpson, ‘Legal 
+Liability for Bursting Reservoirs: The Historical Context of Rylands v Fletcher <https://doi.org/10.1086/467740>’ (1984) 
+13(2) Journal of Legal Studies 209.
+ 
+6. Have you now changed your mind about whether Horsechester Council would be able to recover damages from the 
+owner of the ornamental lake? Similarly, would Racksco have any claim since the Transco decision?
+ 
+7. Note also that the storage of tyres in this case was held to be a ‘natural use’ of land, meaning no liability could have 
+arisen even if there had been an escape. See, however, LMS International Ltd and others v Styrene Packaging and 
+Insulation Ltd and others [2005], especially [26]–[33].
+ 
+8. Confirmation that personal injury claims can also be made in public nuisance was given in Corby Group Litigation v 
+Corby Borough Council [2008], discussed in section 18.5.
+ 
+9. Though this might be trespass.
+ 
+10. cf Harooni and another v Rustins Ltd [2011].
+ 
+11. Though note that the decision in Ballard was not about the reasonableness or otherwise of upstream use but was 
+more a policy decision reflecting the fact that people downstream tend to suffer more from pollution.
+ 
+12. Though the trend may now be back in the other direction: see Stannard (t/a Wyvern Tyres) v Gore [2012] and 
+Northumbrian Water Ltd v McAlpine Ltd [2014].
+ 
+13. FH Newark ‘The Boundaries of Nuisance’ (1949) 65 Law Quarterly Review 480.
+ 
+14. Section 9.3.1.
+ 
+15. Joanne Conaghan and Wade Mansell The Wrongs of Tort (2nd edn Pluto Press 1999) 144.
+ 
+16. Might it be argued, therefore, that the factory owners in the scenarios outlined at the beginning of the chapter 
+would be liable, unlike Eastern Counties Leather, as such pollution is foreseeable since Cambridge Water itself?
+ 
+17. Note, then, that the decision goes against the environmental principle that the ‘polluter should pay’. See also Jalla 
+v Shell International Trading and Shipping Co [2023].
+ 
+18. Conaghan and Mansell n15 146–7.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19. Actions under the rule of Rylands v Fletcher
+Page 25 of 26
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+19. Lord Bingham at [11]. Lord Walker agreed, also adding the word ‘special’ to the requirement (at [106]).
+ 
+20. See also Ward LJ in Stannard (t/a Wyvern Tyres) v Gore [2012] who found that tyres are not ‘exceptionally dangerous 
+or mischievous’ things and use of land as a tyre-fitting business neither ‘extraordinary’ nor ‘unusual’ (at [50]), and 
+Moore-Bick LJ in Northumbrian Water Ltd v McAlpine Ltd [2014] (at [19]).
+ 
+21. See e.g. Lord Hoffmann (at [46]), in the context of who is best placed to insure against property damage, Lord 
+Hobhouse (at [52]) who indicates that ‘other parts of the law of torts’ cover personal injuries and, perhaps most 
+conclusively, Lord Bingham (at [9]).
+ 
+22. In the past personal injury claims had been included without question: Hale v Jennings [1938]; Perry v Kendrick’s 
+Transport Ltd [1956].
+ 
+23. Discussed in section 7.2. Also see Colour Quest v Total Downstream UK plc [2010].
+ 
+24. Section 18.3.4.1.
+ 
+25. As was indicated in Colour Quest v Total Downstream UK plc [2010]. Jenny Steele argues that ‘consent’ in this form 
+must mean something closer to ‘shared benefit’ if it is to be consistent with the purpose of the rule (Tort Law: Text, 
+Cases and Materials (4th edn OUP 2017) 689). See further Chapter 10.
+ 
+26. Steele states that Rylands ‘provides a direct alternative to negligence in some circumstances’, adding: ‘In terms of 
+long-term survival, that has been its problem’ (n25 679).
+ 
+27. In negligence this would be dealt with as a question of duty regarding the actions of a third party which then cause 
+damage to the claimant—see, for an example of a case with no real discernible difference, Smith v Littlewoods [1987], 
+section 4.5.4.
+ 
+28. Conor Gearty ‘The Place of Private Nuisance in a Modern Law of Torts’ [1989] Cambridge Law Journal 214, 237.
+ 
+29. Thus it seems that Horsechester Fire Service, in the scenarios outlined earlier, could also be liable.
+ 
+30. Steele points out that the notion of ‘duty’ is alien to nuisance, but also that the analysis of these cases is not typical 
+of negligence, either, due to their subjective rather than objective standard (n25 620).
+ 
+31. Though as we have seen, to claim for personal injury, a claim would have to be formulated in negligence.
+ 
+32. cf Vernon Knight Associates v Cornwall Council [2013].
+ 
+33. e.g. the potential of a Rylands claim seems to have been lost in Jalla v Shell International Trading and Shipping Co 
+Ltd [2023], despite the Supreme Court categorising the problem as a one-off escape.
+ 
+34. Roderick Bagshaw ‘Rylands Confined’ (2004) 120 Law Quarterly Review 388, 392.
+© Kirsty Horsey & Erika Rackley 2025
+Related Books
+View the Essential Cases in tort law
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+19. Actions under the rule of Rylands v Fletcher
+Page 26 of 26
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Related Links
+Test yourself: Multiple choice questions with instant feedback <https://learninglink.oup.com/access/content/brennan-  
+concentrate6e-student-resources/brennan-concentrate6e-diagnostic-test>
+Find This Title
+In the OUP print catalogue <https://global.oup.com/academic/product/9780198925231>

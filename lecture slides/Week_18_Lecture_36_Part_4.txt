@@ -1,0 +1,300 @@
+Employer’s Liability 
+(or relationships 
+akin to 
+employment)
+Non-Delegable Duties 
+and Vicarious Liability
+Part 4/4
+Week 18
+Dr Sarah Gilmartin 
+s.gilmartin@lancaster.ac.uk
+Problem Questions
+Top Tips
+Non-Delegable Duty: You must always identify the non-delegable duty or the tort
+Vicarious Liability: You must always identify the tort or there’s nothing for the 
+Defendant to be vicariously liable for
+N.B. 
+You can usually keep any analysis of the elements of any tortious actions brief, 
+because a question on VL/NDD is really a question about these and will take up 
+most of your analysis.
+Don’t forget IPAC (Issue, Principle, Application, Conclusion)
+Problem Question 1 - Answer
+X, the driver of the Defendant’s (D) petrol tanker lit a cigarette with a match and threw 
+the match on the floor where petrol from the tanker was being transferred to petrol 
+pumps owned by the Claimant (C). As a result of X’s negligence there was an explosion 
+causing damage to C’s property.
+Is D liable?
+•
+X’s negligence already identified
+•
+Is D in breach of a non-delegable duty of 
+care? 
+o Provision of competent staff?
+•
+Is D vicariously liable for X?
+o In the course of X’s employment?
+o Close connection?
+Century Insurance Co Ltd v Northern Ireland Road 
+Transport Board [1942] AC 509, 519
+‘The duty of the workman to his employer is so to 
+conduct himself in doing his work as not negligently 
+to cause damage either to the employer himself or 
+his property or to third persons or their property, and 
+thus to impose the same liability on the employer as 
+if he had been doing the work himself and committed 
+the negligent act.’
+D held vicariously liable.
+Problem Question 2 – spot the 
+difference - Answer
+Scenario 1
+Sheila and Anton work for Bicycle Plus Limited 
+(BPL). They had spent the preceding day and 
+evening in lengthy meetings at a client’s ofÏces 
+and stayed overnight in a hotel. Sheila was 
+driving them both home in her own car the 
+next morning so they could go into their usual 
+place of work at BPL headquarters the 
+following day. They were paid for their 
+travelling time like a normal work day. They 
+were in Sheila’s car which was involved in an 
+accident for which she was admittedly 
+negligent. Anton was injured. 
+Is BPL liable?
+Smith v Stages [1989] AC 928, 956
+‘The paramount rule is that an employee travelling 
+on the highway will be acting in the course of his 
+employment if, and only if, he is at the material time 
+going about his employer's business. One must not 
+confuse the duty to turn up for one's work with the 
+concept of already being "on duty" while travelling to 
+it.’
+Scenario 2
+Sheila and Anton work for Bicycle Plus Limited. 
+Sheila always picks Anton up on her way to 
+work as she passes the end of his street. They 
+were in Sheila’s car which was involved in an 
+accident for which she was admittedly 
+negligent. Anton was injured. 
+Is BPL liable?
+Problem Question 3 – spot the 
+difference - Answer
+Scenario 1
+Nina works for Bluepool Horse Taxi Services (BHTS) 
+driving a horse and cart used often by tourists in the 
+town of Bluepool. She is told she is not to leave the 
+horse and cart unattended at any time and when 
+going for lunch should return to BHTS’ warehouse. 
+On leaving her horse and cart unattended to grab a 
+bite to eat at a local restaurant, the horses spooked 
+due to a car backfire, broke their tether, and charged 
+into the road causing several cars to collide and 
+some pedestrians to be injured. 
+Is BHTS liable?
+Scenario 2
+Nina works for Bluepool Horse Taxi Services (BHTS) 
+driving a horse and cart for their new novel delivery 
+service in the town of Bluepool. On the way back to 
+BHTS’ warehouse following completion of a delivery, 
+another member of staff with her, Marissa, 
+persuaded Nina to take her to her mum’s house on 
+the other side of town to show her the horses. On 
+the way to Marissa’s mum’s house, and as a result of 
+Nina’s negligence, they were involved in an accident 
+with a pedestrian who was injured.
+Is BHTS liable?
+Whatman v Pearson (1867) LR 3 CP 422 – liable 
+Storey v Ashton (1868) LR 4 QB 476 – not liable
+Applying Joel v Morison (1834) 172 ER 1338 – ‘If he was going out of his way, against his master's implied commands, when 
+driving on his master's business, he will make his master liable; but if he was going on a frolic of his own, without being at all 
+on his master's business, the master will not be liable.’
+Problem Question 4 – Incident 1
+Gordon owns a factory. He has been notified of three incidents.
+Advise Gordon on his prospective liability.
+Incident 1: Sheryl works full time for Gordon as a forklift truck driver in the delivery 
+bay of the factory.
+A stack of heavy boxes being carried on Sheryl’s forklift truck fell off and injured 
+Marvin. Sheryl admits that she had been careless in the way she was manoeuvring 
+the forklift truck at the time.  
+Problem Question 4 – Incident 1 
+- ANSWER
+Parties: 
+1.
+Claimant (Marvin)
+2.
+Defendant (Gordon)
+3.
+Tortfeasor (Sheryl)
+Tortious Liability
+•
+Tort – negligence
+•
+Duty of care owed by S to M?
+•
+S admits breach
+•
+Did that breach cause M’s injury?
+•
+Foreseeable?
+•
+Defence?
+•
+S liable?
+•
+If yes, is G vicariously liable?
+Vicarious Liability:
+•
+S is a full-time employee of G
+•
+Close connection between 
+employment and tort?
+•
+Furtherance of business?
+•
+Fair and just to hold G liable?
+Case Law:
+•
+Lister
+•
+Mohamud
+Problem Question 4 – Incident 2
+Gordon owns a factory. He has been notified of three incidents.
+Advise Gordon on his prospective liability.
+Incident 2: Kim, a student studying Business Management at Larchborough 
+University, is doing a two-week placement at Gordon’s factory to gain experience of 
+management methods in a modern factory. Kim receives no wage, but she is 
+granted access to the works canteen and the staff common room. Kim’s placement 
+involves her supervising the workers engaged in packaging.   
+Kim got into a heated argument with Jeffrey, a machine technician, who had been 
+called in to repair one of the packaging machines. The argument boiled over and 
+Kim punched Jeffrey breaking his nose.
+Problem Question 4 – Incident 2 
+- Answer
+Parties: 
+1.
+Claimant (Jeffrey)
+2.
+Defendant (Gordon)
+3.
+Tortfeasor (Kim)
+Tortious Liability
+•
+Battery? Intent and direct 
+application of force 
+•
+K intended to apply force
+•
+K applied direct force
+•
+Did that application of force cause 
+J’s injury?
+•
+Foreseeable?
+•
+Defence?
+•
+K liable?
+•
+If yes, is G vicariously liable?
+Vicarious Liability
+•
+Unpaid student
+•
+Employment or akin to 
+employment?
+•
+Independent contractor?
+•
+Intentional criminal acts:
+•
+Acting in course of 
+employment or furthering 
+G’s purpose?
+•
+Personal vendetta?
+Case Law:
+•Catholic Child 
+Welfare
+•MXX
+•Armes
+•Cox
+•Barclays
+•Mohamud
+•MatÝs v Pollock (t/a 
+Flamingos Nightclub) 
+[2003] EWCA Civ 887
+•WM Morrison 
+Supermarkets [2020]
+•Barry
+Problem Question 4 – Incident 3 
+Gordon owns a factory. He has been notified of three incidents.
+Advise Gordon on his prospective liability.
+Incident 3: Archie, usually employed at a local gym, called Healthies, comes into the 
+factory every day to lead a lunch-time fitness session for the production-line 
+employees. Gordon thinks this helps to break up the very tedious work that they 
+do.  Archie receives all of his wages from Fit-R-We but Gordon pays Healthies for the 
+hour he spends at the factory each day. 
+Archie failed to check the safety of the weights he brought for the employees to use. 
+As a consequence, Liz, a member of the production-line staff, suffered a broken toe 
+when one of the dumbbells came apart and a 5kg weight fell onto her foot.
+Problem Question 4 – Incident 3 
+- Answer
+Parties: 
+1.
+Claimant (Liz)
+2.
+Defendant (Gordon and/or Healthies 
+and/or Fit-R-We)
+3.
+Tortfeasor (Archie)
+Tortious Liability
+•
+Duty of care owed by A to L?
+•
+Breach?
+•
+Did that breach cause L’s injury?
+•
+Foreseeable?
+•
+Defence?
+•
+A liable?
+•
+If yes, is G and/or H liable?
+Non-Delegable Duty
+•
+Safe Systems
+•
+Vulnerable?
+Vicarious Liability
+•
+Employment?
+•
+Akin to employment?
+•
+Independent contractor?
+•
+Dual VL?
+o Control
+o Integration
+Case Law:
+•
+Woodland
+•
+Via Systems
+•
+Mersey Docks
+•
+Barclays
+Employer’s Liability 
+(or relationships 
+akin to 
+employment) 
+End of Lecture
+Non-Delegable Duties and 
+Vicarious Liability
+Part 4/4
+Week 18
+END OF LECTURE
+Dr Sarah Gilmartin 
+s.gilmartin@lancaster.ac.uk

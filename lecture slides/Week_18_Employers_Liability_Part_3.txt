@@ -1,0 +1,231 @@
+Employers’ 
+Liability 
+(or 
+relationships 
+akin to 
+employment
+)
+Non-Delegable Duties and Vicarious 
+Liability
+(Independent Contractors, Dual VL and 
+Summary)
+Part 3/4
+Week 18
+Dr Sarah Gilmartin 
+s.gilmartin@lancaster.ac.uk
+Vicarious Liability – Independent 
+Contractors 
+Contract of service = employee 
+Contract for services = independent contractor
+Barclays Bank Plc v Various Claimants [2020] UKSC 13
+•
+‘Two elements have to be shown before one person can be made 
+vicariously liable for the torts committed by another. The first is a 
+relationship between the two persons which makes it proper for 
+the law to make the one pay for the fault of the other … The 
+second is the connection between that relationship and the 
+tortfeasor's wrongdoing.’ per Lady Hale [1] 
+•
+'in business on his own account’ [28]
+Nassir Kafagi v Jbw Group Ltd
+[2018] EWCA Civ 1157
+•
+Contract one for services, but 
+no vicarious liability
+Ready Mixed Concrete (South 
+East) Ltd v Minister of Pensions 
+and National Insurance [1968] 2 
+QB 497 
+•
+Entrepreneur Test
+JXJ v The Province of Great 
+Britain of the Institute of 
+Brothers of the Christian Schools 
+[2020] EWHC 1914
+•
+applied Barclays – different 
+decision to Various Claimants. 
+Vicarious Liability – 
+Dual vicarious liability
+Via Systems (Tyneside) Ltd v Thermal Transfer (Northern) Ltd and Others [2005] EWCA Civ 1151
+1.
+The Control Test: ‘If, on the facts of a particular case, the core question is who was entitled, and in 
+theory obliged, to control the employee's relevant negligent act so as to prevent it, there will be 
+some cases in which the sensible answer would be each of two “employers”. The present is such a 
+case.’  per May LJ [79]
+2.
+The Business Integration Test: ‘what one is looking for is a situation where the employee in 
+question, at any rate for relevant purposes, is so much a part of the work, business or organisation 
+of both employers that it is just to make both employers answer for his negligence.’ per Rix LJ [79]
+See also: Mersey Docks and Harbour Board v Coggins and GrifÏth (Liverpool) Ltd [1947] AC 1
+Vicarious Liability – How the ‘New’ Tests have 
+been applied (some additional cases)…
+• TVZ v Manchester City Football Club Ltd [2022] 
+EWHC 7 (QB) followed Blackpool FC Ltd (below) – 
+sexual abuse by football coach – not employed 
+by club and not akin to employment – no 
+vicarious liability applying Various Claimants, 
+Cox, and Barclays. 
+• Blackpool Football Club Ltd v DSN [2021] EWCA 
+Civ 1352 – Sexual abuse – club originally found 
+vicariously liable – appeal allowed – no vicarious 
+liability as did not satisfy the test in Various 
+Claimants – not a relationship akin to 
+employment and ‘there was a complete absence 
+even of a vestigial degree of control’ by the club 
+over the tortfeasor.
+Vicarious Liability – How the ‘New’ Tests have 
+been applied (some additional cases)…
+•
+Hughes v Rattan [2022] EWCA Civ 107 – dental practice – self-employed dentists within the 
+practice providing negligent treatment – Question of NDD and VL – Was dentist ‘under a 
+non-delegable duty of care to the claimant in respect of the treatment she received at the 
+Practice[?] She was a patient of his Practice, not just in layman's language but as a matter of 
+law.’ Bean LJ [68] – Dentist liable under NDD.
+o N.B. ‘Although the relationship between the defendant and the Associate Dentists was 
+closer to the “akin to employment” line than that between Barclays and Dr Bates, I 
+consider that the Barclays test for vicarious liability is not met in the present case.’ Bean 
+LJ [88] – Dentist NOT liable under VL.
+•
+MXX v A Secondary School [2023] EWCA Civ 996 (see slide at end of Part 2 as well re: Barry 
+connection) – work experience student convicted subsequently of sexual activity with a child 
+he met during his work experience placement – assault and battery took place post-work 
+experience – was the school vicariously liable for the torts? No. Appeal issues:
+The elements of the tort of intentional infliction of harm were present during the work 
+experience (Wilkinson v Downton); AND
+The relationship between T and D was one akin to employment; HOWEVER
+There was not a sufÏcient close connection between the grooming and the employment 
+- D not liable for grooming under tort in Wilkinson v Downton.
+Revision/Consolidation of 
+Knowledge
+A reminder of the tests: 
+NDD
+•Consider D's common law and statutory duties e.g. provision of 
+safe systems of work, competent employees, and adequate 
+material.
+•
+Woodland Test:
+1)
+C is vulnerable
+2)
+Prior relationship between C and D (positive duty) 
+3)
+C has no control over how D chooses to control the 
+obligation (whether personally, through employees, or 
+through third parties)
+4)
+D has delegated to a third party something integral to 
+their positive duty of care toward C
+5)
+Third party is negligent
+A reminder of the tests: 
+VL 1/2
+•3 parties – T, D and C
+•There must be a tort for D to be held vicariously liable
+•Salmond Test = In the course of employment (authorised or 
+unauthorised mode)
+•Close Connection Test:
+o is the tort so closely connected with T’s employment that it 
+is fair and just to hold D vicariously liable?
+o is the tort done in furtherance of D’s business?
+A reminder of the tests: 
+VL 2/2
+•Various Claimants Test in detail:
+1)
+D is more likely to have the means to compensate C than the immediate 
+wrongdoer, T;
+2)
+The tort has been committed as a result of activity being taken by the 
+employee on behalf of D (who will usually be an employer);
+3)
+T’s activity is likely to be part of the business activity of D;
+4)
+D, by entrusting T to carry on the activity will have created the risk of the 
+tort committed by T; and
+5)
+T, to a greater or lesser degree, has been under the control of D.
+•Independent contractor test and dual vicarious liability tests:
+o Control
+o Integration
+o In business on his own account
+o The Entrepreneur Test
+Non-Delegable Duties 
+vs 
+Vicarious Liability        
+ 1/3
+'Juridically, the two routes are very different. In the case of 
+vicarious liability, the human person must commit a tort. 
+The liability of the corporate person is strict once a 
+sufÏcient connection between the tort and the 
+organisation is established. In the case of the non-
+delegable duty, there is no need to find an individual tort. 
+The tort is personal to the corporate entity, and requires 
+fault. This tends to mean, in practice, that it relates to a 
+managerial or organisational failure of some kind. In 
+employer's liability this can take the form of a failure, for 
+example, to provide a safe working environment.'
+Simon Deakin 'Organisational Torts: Vicarious Liability Versus 
+Non-Delegable Duties' (2018) Vol 77(1) Cambridge Law Journal 
+15, 16
+Non-Delegable Duties 
+vs 
+Vicarious Liability      
+ 2/3
+Question
+There is a liquid spillage on the floor at Boss’ 
+factory. Boss tells an employee, Lackey, to clean up 
+the spillage. Lackey fails to do so for no good 
+reason. Another employee, Unlucky, slips on the 
+liquid and breaks his leg.
+N McBride and R Bagshaw, Tort Law, (6th edn, Pearson 2018)
+Non-delegable duty or vicarious liability?
+Non-Delegable Duties vs Vicarious 
+Liability 3/3
+Personal Liability (NDD)
+Vicarious Liability
+Breach of duty (common/statutory/contractual)
+Employee's breach
+Tort of employer not necessary (e.g. contractor)
+Tort of employee
+Positive Duty (special relationship)
+Negative Duty (common duty of care)
+Claimant must prove breach
+Claimant must prove breach
+Cannot delegate away personal liability (Wilson and 
+Clyde Coal Co Ltd v English [1938] A.C. 57)
+Employer liable where employee tort arises ‘in the 
+course of employment’ meaning ‘closely connected 
+with employment’ (Lister v Hesley Hall [2001] 2 WLR 
+1311)
+ 
+2 parties (Master and Claimant) or 3 parties
+3 parties only (Master, Servant, Claimant)
+DEFENCES & REMEDIES
+Causation and Remoteness
+D has taken all reasonable steps (the best defence 
+is no defence) - NDD
+C’s contributory negligence
+Volenti non fit injuria
+No close connection between T’s actions and D’s 
+activities (JXJ v Institute of Brothers and Trustees of 
+the Barry Congregation of Jehovah's Witnesses v 
+BXB)
+Damages
+MCQ Practice
+•Click this link: MCQ Employers' Liability Part 3 
+•Or scan QR code:
+Employers’ 
+Liability 
+(or 
+relationships 
+akin to 
+employment
+)
+Non-Delegable Duties and Vicarious 
+Liability
+(Independent Contractors, Dual VL and 
+Summary)
+Part 3/4
+Week 18
+Dr Sarah Gilmartin 
+s.gilmartin@lancaster.ac.uk

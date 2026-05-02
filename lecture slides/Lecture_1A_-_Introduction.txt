@@ -1,0 +1,252 @@
+LAW OF TORT
+Introduction to Tort 
+Law
+LAW OF TORT
+Housekeeping
+LAW OF TORT
+The Module Handbook
+Crucial to read this properly
+This is your ﬁrst port of call for any questions regarding 
+the course as a whole
+LAW OF TORT
+Teaching Team
+Dr. Jeremy Letwin 
+Dr. Megan Blakely 
+Dr. Sarah Gilmartin
+Your ﬁrst point of contact is your Workshop Leader
+LAW OF TORT
+Contact Rules
+1. Check the handbook, lectures, and relevant Moodle 
+pages. 
+2. Carefully craft your emails and make them as clear as 
+possible.
+3. Speciﬁc questions only 
+A.
+‘Do you have any advice on topic X?’ 
+B.
+‘I missed the tutorial, can I have some notes for it?’ 
+C.
+‘Do you have any tips on the exam?’ 
+LAW OF TORT
+Reading
+E Horsey and E Rackley, Tort Law (9th edn, Oxford 
+University Press, 2025) (‘H&R’ for short)
+Cases (!!) – Westlaw
+Journal articles – OneSearch Lancaster
+Other textbooks – Winﬁeld & Jolowicz/McBride and 
+Bagshaw
+Weekly reading lists + workshop reading
+LAW OF TORT
+Summative Assessment 
+1. MCQ 30%
+• Test overall knowledge
+• Example MCQs in workshops 
+2. Exam 70%
+• A choice of three problem questions and three essay questions 
+• Answer one problem question and one essay question
+• There will be some overlap of topics. This does not mean you have to learn everything in 
+the same level of detail. We avoid putting together disconnected topics and try to create 
+genuine options. However, lots of topics are necessarily interlinked. 
+LAW OF TORT
+THE EXAM IS 
+ABOUT THE STUFF 
+IN THE 
+WORKSHOPS
+LAW OF TORT
+GO TO 
+WORKSHOPS
+LAW OF TORT
+PREPARE FOR 
+WORKSHOPS
+LAW OF TORT
+Formative Assessment 
+Not compulsory 
+Do not do it unless you want to
+Between the ﬁrst and second terms
+LAW OF TORT
+How to Fail in Tort 
+Use AI in your assessment
+Do not use recommended sources
+Use out-of-date materials
+Do not use what you have paid for
+Expect what you have paid for to be enough alone
+LAW OF TORT
+How to Succeed in Tort
+Start with the most recent UKSC cases
+Understand which parts are science and which are art
+Be systematic, create lists, memorize tests
+The value of paper over screens (printing isn’t selﬁsh)
+Law as a great equalizer
+LAW OF TORT
+What is Tort Law?
+LAW OF TORT
+Some deﬁnitions
+Tort = civil wrong
+Tortfeasor = initial wrongdoer
+Tortious = conduct constituting a tort [n.b. not ‘tortuous’] 
+Plaintiﬀ = claimant
+LAW OF TORT
+Working deﬁnitions of Tort
+“A tort is a species of wrong. A wrong is a breach of a duty 
+owed to someone else. A breach of a duty owed to 
+someone else is an infringement of a right they have 
+against the tortfeasor.” (R Stevens)
+“In tort law, a claimant, C, will have a cause of action if 
+either (i) she has had her rights wrongly infringed or (ii) 
+she has incurred a non-trivial loss, injury or damage that 
+was caused by certain wrongful conduct on the part of a 
+defendant, D.” (J Murphy)
+LAW OF TORT
+Tort v the other stuﬀ
+Tort v Criminal
+• Overlap (e.g. assault and battery)
+• Ingredients of a crime v elements of a tort
+• Compensation not sanction
+• Diﬀerent courts, burdens of proof, etc.
+Tort v Contract
+• Overlap (e.g. concurrent liability)
+• Source of duty: ‘general’ not ‘special’ rights
+• Content of duty: ﬁxed by law not contract
+• Aims: compensation not protecting expectations
+LAW OF TORT
+Some typical tort cases
+A pedestrian was injured when she was 
+caught up in the arrest of a suspect by the 
+police – Robinson v Chief Constable of  West 
+Yorkshire [2018] UKSC 4
+Owners of ﬂats next to Tate Modern 
+Gallery claimed that ‘overlooking’ by 
+people on the viewing gallery was a 
+nuisance – Fearn v Tate Gallery [2023] 
+UKSC 4
+LAW OF TORT
+Some typical tort cases
+C injured crossing road because local 
+authority failed to keep bushes on central 
+reservation in good nick – Yetkin v 
+Mahmood [2010] EWCA Civ 776
+Teacher developed depression due to 
+stress at work where employer had 
+brushed him oﬀ – Barber v Somerset CC 
+[2004] UKHL13
+LAW OF TORT
+Woodroﬀe-Hedley v 
+Cuthbertson (1997)
+Alpine guide (D) climbing 
+with a client (C). D placed only 
+one ice screw while leading. D 
+fell, ice screw popped, dragged 
+C oﬀ too. C died, but D lived.
+D found liable in negligence.
+N.b. D later exonerated by 
+British Mountain Guides 
+Association. 
+LAW OF TORT
+LAW OF TORT
+LAW OF TORT
+Examples of Torts
+Negligence
+Nuisance
+Intentional interferences with the person (assault, battery, false 
+imprisonment)
+Defamation
+Misuse of private information
+Occupiers’ liability
+Product liability
+LAW OF TORT
+Organised by a hierarchy of 
+protected interests?
+1. Bodily autonomy/integrity
+2. Property interests
+3. Mental integrity
+4. Economic interests
+5. Reputation
+6. Privacy
+LAW OF TORT
+Other ways of organising?
+Basis of liability?
+1. Intentional
+2. Negligent
+3. Strict Liability
+Consequences suﬀered by C?
+•
+Actionable per se
+•
+Actionable only if damage suﬀered
+Alphabetically?
+•
+“Tort is what is in the tort books, and the only thing holding it together is in their binding” 
+(T Weir)
+LAW OF TORT
+What is the Purpose of 
+Tort Law? 
+LAW OF TORT
+Why bother with theories? 
+“[W]e deepen our understanding when we learn that 
+disparate phenomena are linked together. In physics, for 
+example, the theory of thermodynamics showed us the 
+relationship between mechanics and heat. In economics, the 
+theory of the ﬁrm showed us that, across industries that look 
+nothing alike, a simple principle helps explain the 
+organization of economic activity. … [A]bsent such a theory, 
+our understanding of the way the world works seems 
+incomplete.” (S Hershovitz)
+LAW OF TORT
+Theories with diﬀerent aims
+Interpretive theories
+• Does the theory ﬁt with and justify the body of law?
+• Does the theory have ‘explanatory power’?
+• Allows us to understand what the law is, to predict developments, and to assess how far a 
+body of law is coherent
+Prescriptive theories 
+• Is the theory internally coherent?
+• Does the theory ﬁt with our basic moral intuitions?
+• Can the theory achieve its aims in practice?
+• Allows us to argue rationally about what the law ought to be
+LAW OF TORT
+Corrective Justice
+“Individuals who are responsible for the wrongful losses 
+of others have a duty to repair the loss”. (J Coleman)
+“Corrective justice is … an interpersonal or bipolar justice. 
+Questions of corrective justice are answered, not by 
+looking at individuals in isolation or at societies as a 
+whole, but by examining interactions between 
+individuals.” (A Beever)
+‘Relational wrongs’
+LAW OF TORT
+Rights Theory
+“Before a defendant can be characterized as a tortfeasor the 
+anterior question of whether the claimant had a right against 
+him must be answered. The law of torts is concerned with 
+the secondary obligations generated by the infringement of 
+primary rights. The infringement of rights, not the inﬂiction 
+of loss, is the gist of the law of torts. This conception of the 
+law of torts I shall call the ‘rights model’.” (R Stevens)
+LAW OF TORT
+Compensation & Deterrence 
+Not about justice between individuals, but rather, 
+achieving policy goals for society as a whole
+Deterrence of antisocial conduct, and compensation for 
+those who have been injured
+LAW OF TORT
+Enterprise Liability/Risk
+Loss-spreading
+“Tort law … has the potential to transform a burden that 
+would be crushing if borne by one individual or family 
+into a relatively small cost borne by many.” (J Goldberg)
+LAW OF TORT
+Economic Deterrence 
+Theory
+Loss-prevention and the maximisation of well-being
+People should internalise negative externalities
+Tort should achieve the optimal balance of precautions and 
+accidents
+LAW OF TORT
+No grand uniﬁed theory?
+“The internet would have us believe that every 
+problem can be solved by "one weird trick." 
+That's always a scam, and most of us know not 
+to fall for it. But when it comes to legal theory, 
+too many of us are tempted to sign up for that 
+one weird trick that explains all of tort (or 
+contract, or law in general).” (S Hershovitz)

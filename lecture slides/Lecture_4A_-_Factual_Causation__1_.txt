@@ -1,0 +1,300 @@
+LAW OF TORT
+Factual Causation 
+(1)
+All images used are licensed under CC-BY-NC
+LAW OF TORT
+Recap
+Negligence has three elements:
+1. D owed C a duty of care;
+2. D breached that duty;
+3. D’s breach caused damage which is not too remote.
+LAW OF TORT
+The ‘but-for’ test
+LAW OF TORT
+Barnett v Chelsea & Kensington 
+Hospital [1969] 1 QB 428
+During the night a hospital Emergency Department doctor 
+sent a patient away without examining or treating him. 
+He told the patient to see his own doctor the next morning.
+The patient died shortly afterwards.
+Doctor clearly negligent. BUT … even if the doctor had 
+seen the patient, he would have died anyway.
+Held: no causation, because ‘but-for’ D’s negligence C 
+would still have been injured
+LAW OF TORT
+Robbins v LB Bexley 
+[2013] EWCA (Civ) 1233 
+Facts:
+Council negligently failed to chop down trees which 
+damaged C’s property. 
+Had they chopped down 25% they would not have been 
+negligent, but the damage would still have occurred.
+In reality, if they did any chopping, they would have 
+chopped down at least 70%, which would have prevented 
+the damage.
+LAW OF TORT
+Robbins v LB Bexley 
+[2013] EWCA (Civ) 1233 
+Held:
+Council liable.
+Question for the court is NOT: ‘if D had done what was 
+required not to be negligent would the damage have 
+occurred?’
+Question for the court IS: ‘if D had done what they were 
+likely to do if they had not been negligent, then would the 
+damage have occurred?’
+LAW OF TORT
+Problem cases
+1. Material contribution to injury
+2. Material contribution to the risk of injury
+3. Loss of a chance
+LAW OF TORT
+Two crucial distinctions
+Contribution to injury v 
+contribution to risk of injury
+Contribution to injury = it 
+is possible to know 
+whether D’s negligence 
+was one of the causes of 
+C’s injury
+Contribution to risk = it is 
+impossible to know 
+whether D’s negligence 
+was one of the causes of 
+C’s injury
+Divisible v indivisible injuries
+Divisible injury = rational 
+basis for apportionment of 
+causal responsibility
+Indivisible  injury = no 
+rational basis for 
+apportionment of causal 
+responsibility
+LAW OF TORT
+1. Material 
+Contribution to Injury
+LAW OF TORT
+The setup: material contribution 
+to injury
+All cases in this category share common features:
+We know that D’s negligence was one of the material 
+causes of C’s injury
+BUT … there are also other material causes of C’s injury 
+which would have been enough to cause some injury on 
+their own
+LAW OF TORT
+1(a): material 
+contribution to divisible 
+injury
+Divisible = we know how much worse the injury gets as a 
+result of its diﬀerent causes
+In these cases, D is only liable to the extent they 
+contributed to the injury
+LAW OF TORT
+1(a): Bonnington Castings 
+v Wardlaw [1956] AC 613
+Facts:
+C exposed to dust at work, leading to lung disease
+Some of the dust was non-negligent (innocent dust)
+Some of the dust was negligent (guilty dust)
+Held:
+D liable, because material contribution to injury
+LAW OF TORT
+1(a): Holtby v Brigham & 
+Cowan [2000] 3 All ER 421
+C negligently exposed to asbestos by several employers, 
+developing asbestosis
+Held: D liable only for their contribution, not the whole thing
+Eﬀect:
+1.
+Where D materially contributes to C’s injury; 
+2.
+and the injury is divisible (i.e. we know how much worse it 
+gets as a result of its diﬀerent causes);
+3.
+then, D is only liable to the extent they contributed to the 
+injury.
+LAW OF TORT
+1(a): really just the
+standard ‘but-for’ test
+“Though the language of ‘material contribution to damage’ 
+is sometimes used here, this is unhelpful in so far as it may 
+give the impression that a departure from the but-for test is 
+being recognised in this type of case.”
+“In short, where the ﬁnal condition is divisible there is no 
+problem with establishing that a contribution is a necessary, 
+that is but-for cause of part of that condition. The only 
+problem here is forensic and has to do with the quantum of 
+damages …”
+(Stapleton & Steel, ‘Causes and Contributions’)
+LAW OF TORT
+1(b): material 
+contribution to indivisible 
+injury
+Indivisible = no rational basis for apportionment of causal 
+responsibility
+In these cases D is liable in full
+This is a departure from the ordinary ‘but-for’ principles
+LAW OF TORT
+1(b): Bailey v MOD 
+[2008] EWCA Civ 883
+Facts:
+D’s negligence caused C to be particularly weak after an 
+operation. 
+As a result of this tortious weakness combined with 
+‘innocent’ weakness from her existing condition, C choked 
+on her own vomit. 
+This caused a heart attack, which led to C suﬀering brain 
+damage.
+LAW OF TORT
+1(b): Bailey v MOD 
+[2008] EWCA Civ 883
+Held:
+D materially contributed to C’s weakness, which led to C’s 
+injury
+C’s injury was indivisible – i.e. impossible know how 
+much worse the injury gets as a result of its diﬀerent 
+causes
+D liable in full
+LAW OF TORT
+1(b): Williams v Bermuda 
+Hospitals [2016] UKPC 4
+Facts:
+C suﬀered injury to their heart and lungs as the result of 
+complications in surgery. 
+These complications were caused by an infection, which 
+had been worsened by D’s negligence in delaying 
+treatment.
+LAW OF TORT
+1(b): Williams v Bermuda 
+Hospitals [2016] UKPC 4
+Held:
+D’s delay in treatment had materially contributed to C’s 
+infection, which led to C’s injury 
+C’s injury was indivisible – i.e. impossible know how 
+much worse the injury gets as a result of its diﬀerent 
+causes
+D liable in full
+LAW OF TORT
+1(b): not the standard ‘but-
+for’ test
+“since … the court is not holding that the negligence was a 
+but for cause of the damage (but only that it contributed to a 
+condition or state of aﬀairs that was) there is then no 
+escaping the conclusion that in this context the material 
+contribution test is not merely an adaptation of the but for 
+test but a departure from it.”
+(Winﬁeld & Jolowicz, Tort)
+LAW OF TORT
+Tea scenario #1
+D1, D2, and D3 each add a drop of salmonella to C’s tea
+Suppose that for each drop of salmonella, C will have 
+another week of food poisoning
+C drinks the tea and get food poisoning for 3 weeks
+Result: each D is liable only for one week of food poisoning, 
+as that is what they each caused (standard ‘but-for’)
+LAW OF TORT
+Tea scenario #2
+D1, D2, and D3 each add a drop of deadly poison to C’s tea
+Suppose that each drop of poison would, alone, kill C
+C drinks the tea and dies
+Result: each D is liable entirely for C’s death (departure from 
+‘but-for’)
+LAW OF TORT
+Criticism of Bailey and Williams
+“What is in any case clear is that these decisions [Bailey and 
+Williams] have given rise to signiﬁcant confusion and 
+threaten unnecessarily to complicate the law in this area. It is 
+to be hoped that before long the Supreme Court will be given 
+an opportunity to conduct a full review of this question.”
+(Winﬁeld & Jolowicz, Tort)
+LAW OF TORT
+2. Material Contribution 
+to Risk of Injury
+LAW OF TORT
+The setup: material contribution 
+to risk of injury
+Contribution to injury = it is possible to know whether D’s 
+negligence was one of the causes of C’s injury
+Contribution to risk = it is impossible to know whether D’s 
+negligence was one of the causes of C’s injury
+So, in all these cases, although we know D’s negligence 
+increased the chance of C’s injury, it is impossible to know 
+whether D’s negligence actually was the cause
+LAW OF TORT
+Tea scenario #3???
+D1, D2, and D3 each add a drop of kryptonite to C’s tea
+Suppose that each time you drink a drop of kryptonite you 
+have a 1% chance of being poisoned. Sometimes you are 
+ﬁne, but 1% of the time you die.
+C drinks the tea, and dies
+Who is liable???
+LAW OF TORT
+McGhee v National Coal 
+Board [1973] 1 WLR 1 
+C exposed to brick dust, which can cause dermatitis
+Some of the exposure was non-negligent (innocent 
+exposure)
+Some of the exposure was negligent (guilty exposure)
+Impossible to know which bit of brick dust causes 
+dermatitis – whether innocent or guilty exposure
+Held: D liable in full
+LAW OF TORT
+Fairchild v Glenhaven 
+Funeral Services Ltd [2003] 
+1 AC 32 
+Facts:
+Cs had worked for various Ds all of whom had negligently exposed Cs to 
+asbestos. 
+Cs contracted mesothelioma, a fatal disease with a long latency period caused 
+by asbestos. 
+Mesothelioma might have been caused by an accumulation of ﬁbres, or just a 
+single ﬁbre, this was not medically known, but once caused it did not get 
+worse. 
+Held:
+Ds all liable in full (joint and several liability)
+LAW OF TORT
+Fairchild v Glenhaven 
+Funeral Services Ltd [2003] 
+1 AC 32 
+“There is no way of identifying, even on a balance of 
+probabilities, the source of the ﬁbre or ﬁbres which initiated 
+the genetic process which culminated in the malignant 
+tumour” – “rock of uncertainty” (Lord Bingham, [7])
+“Were the law otherwise, an employer exposing his 
+employee to asbestos dust could obtain complete immunity 
+against mesothelioma … claims by employing only those 
+who had previously been exposed to excessive quantities of 
+asbestos dust. Such a result would reﬂect no credit on the 
+law.” (Lord Bingham, [33])
+LAW OF TORT
+Barker v Corus [2006] 
+UKHL 20
+C exposed to asbestos by D1, by D2, and while self-
+employed
+C contracted mesothelioma
+Held: 
+Ds only liable in proportion to the extent they increased 
+the risk
+LAW OF TORT
+Barker v Corus [2006] 
+UKHL 20
+“Consistency of approach would suggest that if the basis of liability is the 
+wrongful creation of a risk or chance of causing the disease, the damage 
+which the defendant should be regarded as having caused is the creation of 
+such a risk or chance. If that is the right way to characterise the damage, then 
+it does not matter that the disease as such would be indivisible damage. 
+Chances are inﬁnitely divisible and diﬀerent people can be separately 
+responsible to a greater or lesser degree for the chances of an event 
+happening, in the way that a person who buys a whole book of tickets in 
+a raﬄe has a separate and larger chance of winning the prize than a person 
+who has bought a single ticket.”
+(Lord Hoﬀmann, [35])
+LAW OF TORT
+Tea scenario #3
+D1, D2, and D3 each add a drop of kryptonite to C’s tea
+Suppose that each time you drink a drop of kryptonite you 
+have a 1% chance of being poisoned. Sometimes you are 
+ﬁne, but 1% of the time you die.
+C drinks the tea, and dies
+Result: D1, D2, and D3 each liable for 1/3 of damages

@@ -1,0 +1,275 @@
+Privacy
+in Tort Law
+DR. MEGAN RAE BLAKELY
+LANCASTER UNIVERSITY 
+1
+Signposts
+What is privacy in tort?
+Common law basis
+Balance of human rights
+2
+No overarching privacy tort….
+Many historical legislative attempts failed. 
+Why?
+‘To draft a law defining a right to privacy which is both specific in its guidance but also flexible 
+enough to apply fairly to each case which would be tested against it could be almost 
+impossible. Many people would not want to seek redress through the law, for reasons of cost 
+and risk. In any case, we are not persuaded that there is significant public support for a 
+privacy law.’
+- Culture, Media and Sport Committee ‘Self Regulation of the Press’ Seventh Report 
+of Session 2006–
+2007 (HC 375, July 2007) [53].
+3
+Kaye v Robertson and Sport 
+Newspapers Ltd [1991] FSR 
+62 (CA)
+- Kaye (‘Allo ‘Allo) hospitalised with brain injuries due 
+to a billboard falling on his car.
+- He was ‘interviewed’ in hospital when semi-
+conscious by Sunday Sport, which published the 
+interview as a ‘scoop’.  The story stated Kaye had 
+consented to the interview.
+- He had no memory of the interview or 
+photographs.
+- Alleging ‘invasion of privacy’ but sought injunction 
+under: defamation, passing off, malicious falsehood, 
+and trespass to the person.
+Image: Gordon Kaye dead: Actor famous for 
+René in 'Allo 'Allo dies aged 75, The 
+Independent, 23 Jan. 2017.
+4
+Kaye, cont’d
+Defamation, passing off, and trespass to the person failed; 
+no right to privacy.
+
+NB: ONLY malicious falsehood succeeded, but we do not cover that tort this year.
+Claims must fit in existing ‘boxes of liability’ 
+(ie, avoiding judicial intervention/activism)
+‘If ever a person has a right to be let alone by strangers with no public interest 
+to pursue, it must surely be when he lies in hospital recovering from brain 
+surgery and in no more than partial command of his faculties. It is this invasion 
+of his privacy which underlies the [claimant’s] complaint. Yet it alone, however 
+gross, does not entitle him to relief in English law. (Bingham LJ at 70)
+5
+The Leveson Inquiry 2011-12
+(report into media practices)
+Press was ‘self-regulated’ under the Press Complaints Commission (PCC, dissolved in 
+2014); no ‘teeth’.
+Recommendations around respect for privacy, factual accuracy, freedom of 
+expression, and public interest.
+Backed by sanctions, apologies/corrections, and financial penalties.
+Created the Independent Press Standards Organisation (IPSO).
+Effectiveness?
+Scheduled ‘Leveson 2’ has been repeatedly set aside by successive governments
+6
+Privacy?
+‘…no overarching, all-encompassing cause of action 
+for “invasion of privacy.” (Lord Nicholls, dissenting in 
+Campbell v MGN).
+However….
+HRA 1998
+Breach of confidence
+New(ish) tort of misuse of private information
+7
+HRA 1998Summary
+Art. 8(1):   Everyone has the right to respect for his private and family life, his home 
+and his correspondence.
+Art. 10(1)-(2):  Freedom of expression (more upcoming).
+s. 12(1): This section applies if a court is considering whether to grant any relief which, 
+if granted, might affect the exercise of the Convention right to freedom of expression.
+12(4) is our relevant provision (more upcoming). 
+HRA Can’t create new cause of action for individuals but "if there is a relevant cause of 
+action, the court as a public authority must act compatibly with both parties' Convention 
+rights.’ – Campbell v MGN [2004] UKHL 27
+‘horizontal effect’
+8
+Art. 10, HRA 1998
+
+(1) Everyone has the right to freedom of expression. This right shall include freedom to hold 
+opinions and to receive and impart information and ideas without interference by public authority 
+and regardless of frontiers. This Article shall not prevent States from requiring the licensing of 
+broadcasting, television or cinema enterprises.
+(2) The exercise of these freedoms, since it carries with it duties and responsibilities, may be 
+subject to such formalities, conditions, restrictions or penalties as are prescribed by law and are 
+necessary in a democratic society, in the interests of national security, territorial integrity or public 
+safety, for the prevention of disorder or crime, for the protection of health or morals, for the 
+protection of the reputation or rights of others, for preventing the disclosure of information 
+received in confidence, or for maintaining the authority and impartiality of the judiciary.
+9
+s. 12 HRA 1998
+(4)The court must have particular regard to the importance of the 
+Convention right to freedom of expression and, where the proceedings 
+relate to material which the respondent claims, or which appears to the 
+court, to be journalistic, literary or artistic material (or to conduct 
+connected with such material), to—
+(a)the extent to which—
+(i)the material has, or is about to, become available to the public; or
+(ii)it is, or would be, in the public interest for the material to be 
+published;
+(b)any relevant privacy code.
+10
+Breach of Confidence Development
+1) information exists which has ‘the 
+necessary element of confidence about 
+it’;
+2) the defendant could be said to be 
+obliged to keep the information 
+confidential; and
+3) ‘unauthorised use’ of the information 
+was made by the defendant.
+Coco v AN Clark (Engineers) 
+Ltd [1968] (duty required)
+‘…confidential information comes to the 
+knowledge of a person … in circumstances 
+where he has notice or is held to have 
+agreed that the information is confidential 
+with the effect that it would be just in all 
+the circumstances that he should be 
+precluded from disclosing the information 
+to others. ’
+Attorney General v Guardian 
+Newspapers 
+Ltd (No 2) [1990] 
+(expanded how duty 
+could arise)
+11
+Douglas, Zeta-Jones and 
+Northern & Shell plc v Hello! 
+Ltd [2005] EWCA Civ 595 (CA)
+Unpublished location and date of wedding with £1m contract for OK! magazine to 
+exclusively publish photos.
+Freelance photographer sneaked past security, took photos, and sold them to Hello!
+Did not matter the number at reception so long as it was known to be private.
+Breach of confidence found based on Coco, and Hello! Should have realised there was 
+an ‘obligation of confidence.’
+NB: CoA states the HRA did not create a new ‘privacy’ law
+Financial damages awarded to Douglas and later to OK!
+12
+13
+Campbell v MGN [2004] UKHL 22
+‘Naomi: I am a drug addict’ (2001 The Mirror)
+Claim framed as breach of confidence, as any ‘reasonable person’ would 
+understand treatment details were confidential (although her drug addition 
+was not as she brought this information forward herself).
+£3,500 in damages and costs to Campbell
+If ‘a person receives information he knows or ought to know is fairly and 
+reasonably to be regarded as confidential’, this creates the tort of ‘misuse of 
+private information’. Campbell.
+14
+Misuse of private information
+1) Did the claimant have a ‘reasonable expectation of 
+privacy’ regarding the information? If so;
+2) Does the claimant’s interest in maintaining their 
+right to privacy outweigh the defendant’s interest in 
+freedom of expression (i.e., the ability to publish the 
+information)?
+15
+1. ‘Reasonable expectation of 
+privacy’
+Should be ‘obvious’, offensive to a ‘person of ordinary 
+sensibilities.
+Sexual activities
+Password protected photo storage
+Evictions
+May lose reasonable expectation with public knowledge.
+NB: unlikely any reasonable expectation for work 
+emails/storage
+16
+2. Balance privacy with freedom of 
+expression
+Public interest, e.g.:
+Law enforcement?
+Publicly elected ofÏcials?
+17
+Duke of Sussex & Lord Watson v News Group 
+Newspapers (The Sun & News of the World) [settled 
+2025]
+18
+Workshop 7 Preview:
+-Long running legal battle due to be heard in High 
+Court has settled
+‘Prince Harry's team hailed the deal that stopped the 
+trial as a "monumental victory", receiving an 
+undisclosed amount of "substantial damages" and an 
+"unequivocal apology“’ 
+https://www.bbc.co.uk/news/live/cd9qqj3gvv1t
+- Read and consider: is settlement the best outcome 
+for legal claims for misuse of private information? 
+Why would they apologise [for the first time in any 
+litigation] and settle?
+Img: Reuters/BBC, 2025
+Modern approach: children
+Murray v Express [2008] EWCA 446 (CA)
+Rowling (Murray) sought damages and injunction for long lens photos 
+of her 18 mo. old son, David, in public.  High Court case fails as there is 
+no ‘press-free zone’ in‘an area of routine activity which, when 
+conducted in a public place, carries no guarantee of privacy’.
+Overturned at CoA, finding children may have a reasonable 
+expectation of privacy even in public, especially if interest is solely 
+based on celebrity status of parents.  Variety of relevant factors 
+including nature of activity.
+Best interests of the child should be considered.
+19
+Modern approach: 
+limits
+
+ is it a ‘big deal’? Aka how identifiable or 
+damaging 
+
+Mosley v News Group Newspapers Ltd [2008]: 
+‘‘In public he rejects his father’s evil past but 
+secretly he plays Nazi sex games’.  Posted video 
+of ‘sick Nazi orgy,’ viewed by 3.5 m people. 
+no public interest or other justification for the 
+clandestine recording…such behaviour is 
+viewed by some people with distaste and 
+moral disapproval, but in the light of modern 
+rights-based jurisprudence that does not 
+provide any justification for the intrusion on 
+the personal privacy of the claimant. (at 
+[233]).
+20
+Modern approach: Limits
+(aka, is this not ‘invasion of privacy’?)
+Wainwright v Home OfÏce [2003]: ‘sloppily 
+performed’ strip search on woman (other recourse 
+was available)
+no ‘information’ – bodily autonomy is not a cause of 
+action
+non-celebrity, non-publication.
+21
+Contemporary challenges: for 
+thought
+
+GDPR (General Data Protection Regulations)
+
+AI Act
+Smartphones?
+Voice recognition?
+Locations?
+Self-driving vehicles?
+Virtual spaces? 
+AI-generated art and content?
+The unknown!
+22
+Reluctance to create additional 
+remedy
+Kaye: Existing ‘boxes’ liability
+Douglas: breach of confidence (‘obligation of 
+confidence’)
+Wainwright: limits to misuse of information
+Campbell v MGN ‘… cannot, even if it 
+wanted to, develop a general tort of 
+invasion of privacy.’ Lady Hale
+23
+Privacy is….
+Underpinned by HRA 1998 Arts 8 and 10, via s. 12.
+Breach of confidence or
+Misuse of private information
+Two-stage test:
+1) Did the claimant have a ‘reasonable expectation of privacy’ regarding the 
+information? If so;
+2) Does the claimant’s interest in maintaining their right to privacy outweigh 
+the defendant’s interest in freedom of expression (i.e., the ability to publish the 
+information)?
+24

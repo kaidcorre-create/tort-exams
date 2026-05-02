@@ -1,0 +1,297 @@
+LAW OF TORT
+Psychiatric Injury 
+(1)
+LAW OF TORT
+Topics outline
+1. The general exclusionary rule
+2. Primary v secondary victims
+3. Requirements for primary victims
+4. Requirements for secondary victims
+5. Employees
+6. Summary and critique
+LAW OF TORT
+1. The General 
+Exclusionary Rule
+LAW OF TORT
+The general rule
+D does not normally owe C a duty of care in respect of psychiatric 
+injury unless that injury is consequent upon physical injury or 
+property damage.
+Consequent on physical injury:
+• D runs over C in car, and C’s leg is injured.
+• C can no longer climb mountains, which is one of his favourite hobbies, and C is very sad. 
+• Result: C can recover for his mental anguish – PSLA damages. 
+Not consequent on physical injury:
+• D, a law lecturer, tells his tort law students about the shocking events at Hillsborough stadium in graphic 
+detail, and shows them horriﬁc photos of the event. 
+• One of his students, C, develops PTSD after the lecture.
+• Result: D owes C no duty of care in respect of pure psychiatric injury. 
+LAW OF TORT
+The general rule
+Attia v British Gas [1988] QB 304 
+Facts:
+D’s negligence installing central heating system led to C’s house 
+burning down.
+Watching her house burn down led to C becoming anxious and 
+depressed.
+Held: 
+D was liable for C’s psychiatric injury, because it was simply a 
+consequence of the property damage.
+LAW OF TORT
+Justiﬁcations for the 
+exclusionary rule
+1.
+“greater diagnostic uncertainty in psychiatric injury cases than in 
+physical injury cases. The classiﬁcation of emotional injury is often 
+controversial. In order to establish psychiatric harm expert evidence is 
+required.”
+2.
+“litigation is sometimes an unconscious disincentive to rehabilitation”
+3.
+Floodgates: “in cases of pure psychiatric harm there is potentially a 
+wide class of plaintiﬀs involved”
+4.
+“a burden of liability on defendants which may be disproportionate to 
+tortious conduct involving perhaps momentary lapses of 
+concentration”
+(Lord Steyn in White)
+LAW OF TORT
+2. Primary v Secondary 
+Victims
+LAW OF TORT
+Deﬁnition of primary 
+victims
+Page v Smith [1996] 1 AC 155 
+Facts:
+C suﬀered from chronic fatigue (‘ME’).
+C was in a car crash, caused by D’s negligent driving.
+C not physically injured, but his ME worsened signiﬁcantly. 
+Held:
+D was liable for C’s ME worsening, because C was within the “zone of 
+physical danger”. 
+LAW OF TORT
+Deﬁnition of primary 
+victims
+Page v Smith [1996] 1 AC 155 
+“In the present case … [C] was a participant. He was 
+himself directly involved in the accident, and well within 
+the range of foreseeable physical injury. He was the 
+primary victim.” 
+“those who are involved in an accident [are] the primary 
+victims, and … those who are not directly involved, but 
+who suﬀer from what they see or hear, [are] the secondary 
+victims.”
+(Lord Lloyd, p.184)
+LAW OF TORT
+Deﬁnition of primary 
+victims
+Monk v PC Harrington Ltd [2008] EWHC 1879
+Facts:
+C was a foreman working on Wembley stadium.
+Platform fell and killed a worker.
+C felt responsible for the accident and developed 
+psychiatric illness. 
+LAW OF TORT
+Deﬁnition of primary 
+victims
+Monk v PC Harrington Ltd [2008] EWHC 1879
+Three categories of primary victims from Alcock (at [11-12]):
+1.
+“cases where the claimant was within the actual area of physical danger when the 
+accident occurred and was directly at risk of bodily injury or reasonably believed that 
+this was so.”
+2.
+“rescuers who go to the aid of others involved in the accident. … in order to be 
+regarded as primary victims, rescuers must also have been exposed to danger or 
+reasonably believed that they were in danger.”
+3.
+“where the claimant was an ‘unwilling participant’ in the accident, in the sense that: 
+‘the negligent act of the defendant has put the plaintiﬀ in the position of being, or of 
+thinking that he is about to be or has been, the involuntary cause of another's death 
+or injury and the illness complained of stems from the shock to the plaintiﬀ of the 
+consciousness of this supposed fact.’”
+LAW OF TORT
+Deﬁnition of primary 
+victims
+Monk v PC Harrington Ltd [2008] EWHC 1879
+Held:
+“Mr Monk's belief that he might have somehow caused the 
+accident in which his fellow workmen suﬀered injury was 
+unreasonable in the circumstances. It was therefore not 
+reasonably foreseeable that someone in his position would 
+suﬀer psychiatric injury as a result of such a belief.” [49]
+LAW OF TORT
+Deﬁnition of primary 
+victims
+W v Essex CC [2001] 2 AC 592
+Facts:
+Cs were parents of foster children, placed in their care by local authority, D.
+Cs told the council they were not willing to accept any child who was known or suspected of 
+being a sexual abuser.
+D gave them such a child anyway, without their knowledge, and the child sexually abused C’s 
+other children. 
+Cs became severely depressed and developed PTSD. 
+Held:
+Physical injury to Cs was not foreseeable – so not primary victims in the Page v Smith sense. BUT 
+… they might be considered primary victims anyway, as ‘unwilling participants’. 
+LAW OF TORT
+Deﬁnition of primary 
+victims
+W v Essex CC [2001] 2 AC 592, Lord Slynn, p.601
+“the categorisation of those claiming to be included as primary 
+or secondary victims is not as I read the cases ﬁnally closed. It 
+is a concept still to be developed in diﬀerent factual situations.”
+“I do not consider that any of the cases to which your 
+Lordships have been referred conclusively shows that, if the 
+psychiatric injury suﬀered by the parents ﬂows from a feeling 
+that they brought the abuser and the abused together or that 
+they have a feeling of responsibility that they did not detect 
+earlier what was happening, they are prevented from being 
+primary victims.”
+LAW OF TORT
+Deﬁnition of secondary victim?
+Anyone who is not a primary victim, or does not ﬁt into 
+one of the ‘other’ special victim categories
+Normally people who have witnessed something bad 
+happen to someone else and develop psychiatric injury as 
+a result
+LAW OF TORT
+Making psychiatric injury 
+simple
+Primary victims
+A. Foreseeable personal 
+injury (or ‘unwilling 
+participant’)
+B. Recognised psychiatric 
+illness 
+Secondary victims
+A. Recognised psychiatric 
+illness
+B. Foreseeable psychiatric 
+illness in a person of 
+ordinary fortitude 
+C. Resulting from an accident 
+D. The 3 elements of 
+proximity
+LAW OF TORT
+3. Requirements for 
+Primary Victims
+LAW OF TORT
+Primary Victim requirements
+A. Foreseeable personal injury (or ‘unwilling participant’)
+B. Recognised psychiatric illness 
+LAW OF TORT
+B. Recognised psychiatric 
+illness
+Recognised psychiatric illnesses: PTSD, ME, OCD, 
+schizophrenia, depression etc.
+Not recognised: grief, sorrow, regret, fear, sadness and 
+other normal human emotions.
+LAW OF TORT
+4. Requirements for 
+Secondary Victims
+LAW OF TORT
+Secondary victim requirements
+A. Recognised psychiatric illness
+B. Foreseeable psychiatric illness in a person of ordinary 
+fortitude 
+C. Resulting from an accident 
+D. The 3 elements of proximity: 
+i.
+Close ties of love and aﬀection
+ii.
+Proximity in time and space to the accident or its aftermath
+iii. Sight or hearing of the accident or its aftermath
+LAW OF TORT
+B. Foreseeable psychiatric 
+illness
+“Foreseeability of psychiatric injury remains a crucial 
+ingredient when the plaintiﬀ is the secondary victim, for the 
+very reason that the secondary victim is almost always 
+outside the area of physical impact, and therefore outside the 
+range of foreseeable physical injury.” 
+(Lord Lloyd, Page v Smith, p.187)
+LAW OF TORT
+B. Foreseeable psychiatric 
+illness
+Bourhill v Young [1943] AC 92
+Facts:
+C, a pregnant woman, witnessed a motorbike accident.
+C did not see the accident but heard it and saw blood.
+C suﬀered psychiatric illness.
+Held:
+D owed no duty of care because not foreseeable that she would suﬀer 
+psychiatric illness.
+LAW OF TORT
+B. Foreseeable psychiatric 
+illness
+Bourhill v Young [1943] AC 92
+“It is not every emotional disturbance or every shock which 
+should have been foreseen. The driver of a car or vehicle, even 
+though careless, is entitled to assume that the ordinary frequenter 
+of the streets has suﬃcient fortitude to endure such incidents as 
+may from time to time be expected to occur in them, including 
+the noise of a collision and the sight of injury to others, and is not 
+to be considered negligent towards one who does not possess the 
+customary phlegm.”
+(Lord Porter, p.117)
+LAW OF TORT
+B. Foreseeable psychiatric 
+illness
+Bourhill v Young [1943] AC 92
+“The appellant was completely outside the range of the 
+collision. She merely heard a noise, which upset her, without 
+her having any deﬁnite idea at all. .. She saw nothing of the 
+actual accident, or, indeed, any marks of blood until later. I 
+cannot accept that … the reasonable hypothetical observer 
+could reasonably have foreseen, the likelihood that anyone 
+placed as the appellant was, could be aﬀected in the manner in 
+which she was.”
+(Lord Wright, p.111)
+LAW OF TORT
+C. Resulting from an accident 
+Paul v Wolverhampton NHS Trust [2024] UKSC 1
+Facts:
+Victims were given negligent treatment by D (healthcare services), and 
+then died months/years later as a result.
+Cs witnessed the deaths and developed psychiatric illnesses. 
+Held:
+D owed no DoC to Cs, because they did not involve an ‘accident’, but 
+rather a ‘medical crisis’. 
+LAW OF TORT
+C. Resulting from an accident 
+Paul v Wolverhampton NHS Trust [2024] UKSC 1
+“The question raised by these appeals is whether witnessing a 
+negligently caused medical crisis (or its aftermath) can in principle 
+found a claim for damages by a secondary victim or whether such a 
+claim can lie only where the triggering event is an accident …” [53]
+“we do not consider that an analogy can reasonably be drawn 
+between the situation with which McLoughlin, Alcock and Frost [a.k.a. 
+White] were concerned where illness is caused by witnessing an 
+accident … and situations where the claimant does not witness an 
+accident but suﬀers illness as a result of witnessing such a person 
+suﬀering a medical crisis.” [115]
+LAW OF TORT
+C. Resulting from an accident 
+Paul v Wolverhampton NHS Trust [2024] UKSC 1
+“An accident is an external event which causes, or has the potential to 
+cause, injury: it is not the injury, if there is one, caused by that event.” [105]
+“[A]n accident is, by deﬁnition, a discrete event in the ordinary sense of 
+that word, meaning something which happens at a particular time, at a 
+particular place, in a particular way. Whether someone was present at the 
+scene and whether they directly perceived an accident are in most cases 
+questions which admit of a clear and straightforward answer. These criteria 
+for determining whether a person is eligible to claim compensation as a 
+secondary victim therefore have the great merit of providing legal 
+certainty.” [108]
+LAW OF TORT
+C. Resulting from an accident 
+Paul v Wolverhampton NHS Trust [2024] UKSC 1
+“[W]e would not accept that our society has yet reached a 
+point where the experience of witnessing the death of a close 
+family member from disease is something from which a 
+person can reasonably expect to be shielded by the medical 
+profession. … [S]uch an experience is not an insult to health 
+from which we expect doctors to take care to protect us but a 
+vicissitude of life which is part of the human condition.” 
+[139]

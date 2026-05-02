@@ -1,0 +1,294 @@
+LAW OF TORT
+Breach of Duty (1)
+LAW OF TORT
+Recap
+Negligence has three elements:
+1. D owed C a duty of care;
+2. D breached that duty;
+3. D’s breach caused damage which is not too remote.
+LAW OF TORT
+Breach of Duty: 
+Overview
+LAW OF TORT
+The reasonable person
+“Negligence is the omission to do something which a 
+reasonable man … would do, or doing something which a . 
+. . reasonable man would not do” (Blyth v Birmingham 
+Waterworks (1856) 11 Ex 781)
+“the man on the Clapham omnibus” (McQuire v Western 
+Mornings News Co Ltd [1903] 2 KB 100)
+“the reasonable person is capable of making mistakes and 
+errors of judgment, of being selﬁsh, of being afraid” 
+(Harper, James, & Gray, The Law of Torts)
+LAW OF TORT
+The function of the 
+reasonable person
+“a legally deregulated zone in which the many and varied 
+underlying reasons are to be confronted by the decision-maker in 
+their ordinary form, and applied direct, unmediated by law”
+“The reasonable person embodies no particular standard of 
+justiﬁcation, not even a socially prevailing standard.”
+“[I]n most cases reasonable prudence is in fact common prudence; 
+but strictly it is never its measure. . . . Courts must in the end say 
+what is required; there are precautions so imperative that even their 
+universal disregard will not excuse their omission” (Learned Hand 
+J)
+(J Gardner, ‘The Many Faces of the Reasonable Person’)
+LAW OF TORT
+The objective standard
+Nettleship v Weston [1971] 2 QB 691
+D, a learner driver, crashed the car, injuring the driving 
+instructor, C. 
+“The standard of care … is measured objectively by the 
+skill to be expected of an experienced, skilled and careful 
+driver” (Denning LJ)
+“The learner driver may be doing his best, but his 
+incompetent best is not good enough” (Denning LJ)
+LAW OF TORT
+The objective standard
+Wilsher v Essex Health Authority [1987] 1 QB 73
+Standard of care for a junior doctor is the same as any 
+other doctor.
+A person holding themselves out to the world as a ‘doctor’ 
+or a ‘driver’ is held to the same standards, regardless of 
+their level of experience.
+LAW OF TORT
+Justifying the objective 
+standard
+“If, for instance, a man is born hasty and 
+awkward, is always having accidents and 
+hurting himself or his neighbors, no doubt his 
+congenital defects will be allowed for in the 
+courts of heaven, but his slips are no less 
+troublesome to his neighbors than if they 
+sprang from guilty neglect.” (OW Holmes)
+“According to corrective justice theory, the point 
+of [the objective] standard is to judge the 
+behaviour of the defendant … in terms of a 
+standard fair as between the parties.”(A Beever)
+LAW OF TORT
+Factors aﬀecting the 
+standard of care  
+Attributes of D
+1. Children
+2. Incapacity
+3. Profession
+4. Common practice
+Balancing external factors
+1. Probability of harm
+2. Gravity of harm
+3. Cost of precautions
+4. Social utility of D’s 
+conduct
+5. Context
+LAW OF TORT
+Balancing External 
+Factors
+LAW OF TORT
+Balancing
+“[T]he question of what amounts to “such care as in all the 
+circumstances of the case is reasonable” depends upon 
+assessing … not only the likelihood that someone may be 
+injured and the seriousness of the injury which may occur, 
+but also the social value of the activity which gives rise to the 
+risk and the cost of preventative measures. These factors 
+have to be balanced against each other.” 
+(Lord Hoﬀmann, Tomlinson v Congleton BC)
+LAW OF TORT
+The factors
+1. Probability of harm
+2. Gravity of harm
+3. Cost of precautions
+4. Social utility of D’s conduct
+5. Context
+LAW OF TORT
+1. Probability of harm
+Bolton v Stone [1951] AC 850
+Balls hit out of grounds only 6 times in 30 years
+“An ordinarily careful man does not take precautions 
+against every foreseeable risk … He takes precautions 
+against risks which are reasonably likely to happen” (Lord 
+Oakley)
+LAW OF TORT
+1. Probability of harm
+The Wagon Mound (No 2) [1967] 1 A.C. 617
+D allowed oil to spill into Sydney Harbour while refueling. 
+Very small chance of ﬁre. But a ﬁre happened. 
+“[T]here was no justiﬁcation whatever for discharging the oil 
+into Sydney Harbour. … [T]here could have been no 
+question of balancing the advantages and disadvantages.”
+Even a very remote risk should be eliminated if doing so 
+“presented no diﬃculty, involved no disadvantage, and 
+required no expense.”
+LAW OF TORT
+2. Gravity of harm
+Paris v Stepney BC [1951]  AC 367
+D had one eye. He was not given goggles for work. He lost 
+the one good eye.
+Goggles were “obviously necessary when a one-eyed man 
+was put to [this] kind of work”.
+The reasonable man considers all foreseeable 
+consequences, including the known characteristics of C, 
+and the gravity of harm.
+LAW OF TORT
+3. Cost of precautions
+Bolton v Stone [1951] AC 850
+“It seems to me that a reasonable man, taking account of 
+the chances against an accident happening, would not have 
+felt himself called upon either to abandon the use of the 
+ground for cricket or to increase the height of his 
+surrounding fences” (Lord Radcliﬀe)
+“The only practical way in which the possibility of danger 
+could have been avoided would have been to stop playing 
+cricket on this ground.” (Lord Normand)
+LAW OF TORT
+3. Cost of precautions
+Latimer v AEC Ltd [1953] AC 643
+Facts:
+D’s factory ﬂooded, making the ﬂoor slippery. 
+D spread sawdust over most of the ﬂoor, but did not have enough 
+sawdust to cover the whole ﬂoor.
+D was faced with closing the factory until extra sawdust arrived, or 
+taking the risk that someone might slip and be injured on the 
+unprotected part of the ﬂoor.
+D decided to keep the factory open. C slipped and was injured.
+LAW OF TORT
+3. Cost of precautions
+Latimer v AEC Ltd [1953] AC 643
+Held:
+“The absence of any evidence that anyone in the factory 
+during the afternoon or night shift, other than the plaintiﬀ, 
+slipped or experienced any diﬃculty or that any complaint 
+was made by or on behalf of the workers all points to the 
+conclusion that the danger was in fact not such as to 
+impose upon a reasonable employer the obligation [to 
+close the factory].” (Lord Tucker)
+LAW OF TORT
+4. Utility of conduct
+Watt v Hertfordshire County Council [1954] 1 WLR 835
+‘Lifting jack’ needed in emergency for ﬁreﬁghting. Only vehicle 
+available was ordinary lorry to which the jack couldn’t be 
+properly secured. Jack slipped and injured C.
+“[Y]ou must balance the risk against the end to be achieved. If 
+this accident had occurred in a commercial enterprise without 
+any emergency there could be no doubt that [C] would 
+succeed. But the commercial end to make proﬁt is very 
+diﬀerent from the human end to save life or limb. The saving of 
+life or limb justiﬁes taking considerable risk…” (Denning LJ)
+LAW OF TORT
+4. Utility of conduct
+Tomlinson v Congleton Borough Council [2003] UKHL 47
+Facts:
+D (a BC) owned a lake. 
+Notices reading “dangerous water: no swimming”.
+Swimming was known to continue anyway, notices 
+ignored.
+C dove into shallow water and broke his neck. 
+LAW OF TORT
+4. Utility of conduct
+Tomlinson v Congleton Borough Council [2003] UKHL 47, per 
+Lord Hoﬀmann
+“The majority of people who went to the beaches to sunbathe, 
+paddle and play with their children were enjoying themselves 
+in a way which gave them pleasure and caused no risk to 
+themselves or anyone else. This must be something to be taken 
+into account in deciding whether it was reasonable to expect 
+the council to destroy the beaches.”
+“If people want to climb mountains, go hang-gliding or swim 
+or dive in ponds or lakes, that is their aﬀair.”
+LAW OF TORT
+4. Utility of conduct
+Tomlinson v Congleton Borough Council [2003] UKHL 47, per Lord 
+Hoﬀmann
+“It is of course understandable that organisations like the Royal 
+Society for the Prevention of Accidents should favour policies which 
+require people to be prevented from taking risks. … But they do not 
+have to consider the cost, not only in money but also in deprivation 
+of liberty, which such restrictions entail…the balance between risk 
+on the one hand and individual autonomy on the other is not a 
+matter of expert opinion. It is a judgment which the courts must 
+make and which in England reﬂects the individualist values of the 
+common law.”
+LAW OF TORT
+4. Utility of conduct
+Compensation Act 2006
+“Section 1 - Deterrent eﬀect of potential liability
+A court considering a claim in negligence … may, in determining 
+whether the defendant should have taken particular steps to meet a 
+standard of care … have regard to whether a requirement to take those 
+steps might—
+(a) prevent a desirable activity from being undertaken at 
+all, to 
+a particular extent or in a particular way, or
+(b) discourage persons from undertaking functions in 
+connection with a desirable activity.”
+LAW OF TORT
+4. Utility of conduct
+Social Action, Responsibility and Heroism Act 
+2015
+“s1 - When this Act applies
+This Act applies when a court, in considering a 
+claim that a person was negligent or in breach of 
+statutory duty, is determining the steps that the 
+person was required to take to meet a standard 
+of care.
+s2 - Social action
+The court must have regard to whether the 
+alleged negligence or breach of statutory duty 
+occurred when the person was acting for the 
+beneﬁt of society or any of its members.
+s3 - Responsibility
+The court must have regard to whether the 
+person, in carrying out the activity in the 
+course of which the alleged negligence or 
+breach of statutory duty occurred, 
+demonstrated a predominantly responsible 
+approach towards protecting the safety or 
+other interests of others.
+s4 - Heroism
+The court must have regard to whether the 
+alleged negligence or breach of statutory duty 
+occurred when the person was acting 
+heroically by intervening in an emergency to 
+assist an individual in danger.”
+LAW OF TORT
+5. Context
+Wooldridge v Sumner [1963] 2 QB 43
+Facts:
+During a horserace, D, a jockey, rode his horse very fast 
+around a corner.
+While trying to rescue someone from the horse’s path, C 
+was hit by the horse and suﬀered serious injury. 
+C claimed D had ridden negligently fast. 
+LAW OF TORT
+5. Context
+Wooldridge v Sumner [1963] 2 QB 43
+“A person attending a game or competition takes the risk of 
+any damage caused to him by any act of any participant done 
+in the course of the game, notwithstanding that such an act 
+may involve an error of judgment, unless the participant’s 
+conduct is … reckless” 
+(Diplock LJ)
+LAW OF TORT
+5. Context
+Wooldridge v Sumner [1963] 2 QB 43
+“In my opinion "too fast" in these circumstances would only be an error of 
+judgment of a highly competent rider all out to succeed. It is no doubt a misfortune 
+for a skilled batsman to be bowled or caught in a supreme eﬀort to hit a six. It is 
+also a misfortune if, on the other hand, he succeeds in hitting a six and the ball hits 
+someone over the boundary. The three-quarter who dives at speed over the line for 
+a try at Twickenham, or on occasions at Wembley, or the opponent who dives into a 
+tackle to prevent a try may and sometimes does roll over and come into heavy 
+contact with the surrounding barrier sometimes to his own hurt and to the possible 
+injury of an adjacent spectator. No court or jury would, I think, condemn such 
+endeavour as negligent.”
+(Sellers LJ)
+LAW OF TORT
+The factors
+You need to balance these factors against one another:
+1. Probability of harm
+2. Gravity of harm
+3. Cost of precautions
+4. Social utility of D’s conduct
+5. Context
+LAW OF TORT

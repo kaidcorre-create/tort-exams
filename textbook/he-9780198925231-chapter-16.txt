@@ -1,0 +1,1984 @@
+16. Invasion of privacy
+Page 1 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Tort Law (9th edn)
+Kirsty Horsey and Erika Rackley
+16. Invasion of privacy
+Kirsty Horsey and Erika Rackley
+https://doi.org/10.1093/he/9780198925231.003.0016
+Published in print: 15 August 2025
+Published online: August 2025
+Abstract
+This chapter examines the nascent ‘tort’ of invasion of privacy. It first considers why no free-standing tort of invasion of privacy 
+exists, before looking at breach of confidence—a legal concept straddling tort and equity and concerned with ‘secrets’ and 
+judicially adapted to protect privacy by developing the new tort of misuse of private information. The chapter then asks 
+whether developments in the law protecting privacy—particularly in the wake of the Human Rights Act 1998—threaten 
+freedom of expression and therefore the general public’s ‘right’ to information, particularly about celebrities, including royalty 
+and politicians.
+Keywords: 
+Keywords, tort law, invasion of privacy, breach of confidence, misuse of private information, Human Rights Act, 
+freedom of expression, damages
+Problem question
+Read this problem question carefully and keep it in mind while you are working through the 
+chapter that follows. At the end of the chapter you will be able to apply what you have learnt to the 
+problem question and advise the relevant parties.
+Elizabeth is the fiancée of a Premiership footballer, Alessandro Talentti. She has always been happy to 
+be photographed with Alessandro at awards evenings, film premieres and charity events and also 
+while out with her girlfriends shopping or lunching, or with other footballers’ wives and girlfriends 
+watching football matches.
+p. 446
+16. Invasion of privacy
+Page 2 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+→
+→
+→
+→
+→
+Recently, as she has started to organise her wedding, which she wants to be intimate and private, 
+Elizabeth has found the media attention intrusive and has had several arguments with photographers 
+wanting to take her picture whilst out shopping or in small, quiet restaurants. One photographer, 
+Chris, is particularly persistent and takes photographs when she is leaving a hospital after visiting her 
+mother who is very ill. He also photographed her (using a long-range lens) going in to a small London 
+bridal boutique when she was shopping for bridesmaids’ dresses with her young sister and niece.
+On the wedding day—the press having been successfully excluded from the venue—one of the 
+caterers secretly takes some pictures of the ceremony and the reception, where there were many 
+famous guests. He sells these pictures to Peachy!, a well-known celebrity glossy magazine; the 
+pictures are published in the following week’s issue and online as an ‘exclusive’. Meanwhile, a 
+journalist contacts Alessandro saying he has found out that he had a brief affair the previous year 
+while away at a football tournament and that this information is going to be published the following 
+day.
+Advise Elizabeth and Alessandro as to any legal actions they might be able to pursue.
+16.1  Introduction
+Consider the following examples:
+A famous pop singer is photographed entering an eating disorders treatment centre and the pictures 
+are published in a tabloid newspaper.
+Long-range photographs are taken of a television newsreader, with her children on holiday, 
+sunbathing and swimming in the sea. These are published on the website of a tabloid newspaper.
+A British actress marries a Hollywood actor. They agreed to sell their wedding photos to Look and See! 
+magazine but secret photos of the ceremony are published in Look Here! magazine.
+A teenager is caught on CCTV vandalising a shop front. Images of him are published in a local 
+newspaper and put on the local TV news.
+An Olympic gold-medallist is discovered to be having an extramarital affair by a reporter who wants to 
+publish this information ‘in the public interest’.
+In each of these examples the parties’ privacy has, in some way, been invaded. Privacy is consistently a ‘hot 
+topic’, from the 2012 Leveson Report into media practices, to the treatment of Prince Harry and Meghan 
+Markle, Duke and Duchess of Sussex, by sections of the British media.1 In modern society, there are obviously 
+many ways in which information about others can be collected and transmitted, meaning that the protection 
+of privacy is more relevant than ever.
+p. 447
+1
+16. Invasion of privacy
+Page 3 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+That said, it took a long time for privacy to be protected by tort—and really this was driven by developments 
+following the Human Rights Act (HRA) 1998. Limited protection was always possible: torts of trespass (to 
+person and land), private nuisance, malicious falsehood and defamation all protect some aspects of privacy. 
+Further protection comes from property rights, equity and copyright laws, as well as, inter alia, the Protection 
+from Harassment Act 1997 and the Data Protection Act 1998.2 However, it was not until 2014 that we could 
+say there was an actual privacy tort—this is when the court first confirmed the tort of misuse of private 
+information.3
+Many (but not all) claims regarding privacy violations are made by ‘celebrities’—alleging (usually but not 
+always) media intrusion into their private lives. ‘Privacy’ has therefore become somewhat contentious. When 
+asking whether someone should have the right to remain private in a particular situation, regard is often had 
+to their fame, notoriety or their 
+↵
+own self-exposure. Some believe that celebrities should accept the 
+inevitable media and other interference fame brings. However, celebrity cases set precedents that apply for 
+everyone and, while many of us will never be intruded upon by the media, others are (see e.g. Venables v News 
+Group Newspapers [2001]; X (a woman formerly known as Mary Bell) v SO [2003]) and there are numerous 
+other ways our privacy can be invaded (see e.g. Wainwright v Home Office [2003]; Peck v UK [2003]; Rhodes v 
+OPO [2015]). Considering findings from the Leveson Inquiry, including about illegal phone hacking of 
+teenage murder victim Milly Dowler and others’ mobile telephones, as well as high-profile sports, music, 
+television, political and business personalities and others seeking injunctions and super-injunctions to 
+prevent information about them being published, media intrusion and the consequent invasions of privacy it 
+causes are rarely not in the spotlight.
+This chapter considers how tort protects against invasions of privacy, by looking at the development of 
+breach of confidence, a legal concept straddling tort and equity, once concerned with ‘secrets’ and now 
+judicially adapted to protect privacy, in the form of ‘misuse of private information’. We consider whether 
+developments in the law protecting privacy threaten freedom of expression and therefore the public’s ‘right’ 
+to information, particularly about celebrities, including royalty and politicians.
+16.2  A tort of invasion of privacy?
+Successive Parliaments have been unwilling to create a privacy tort—despite numerous calls to do so. This 
+legislative reluctance can be illustrated with a short review of Committee Reports and Bills presented to 
+Parliament and parliamentary opinion thereafter.
+2
+3
+p. 448
+16. Invasion of privacy
+Page 4 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Attempts to regulate privacy
+In the 1960s three Bills directly relating to privacy were presented before Parliament; two of which 
+expressly provided for an actionable right for citizens to claim that their privacy had been infringed. 
+Each failed. Lord Mancroft’s Bill (1961) was withdrawn due to lack of governmental support; Mr 
+Alexander Lyon’s Bill (1967) was rejected for being too limited; and Mr Brian Walden’s Bill (1969) was 
+rejected for encroaching too far into freedom of expression.4
+Soon after, the Younger Committee presented its Report on Privacy,5 which concluded that there was 
+‘no need to extend the law of privacy further’. The principal objection related to defining ‘privacy’, but 
+it was also thought that sufficient remedies already existed, and preferred self-regulation of media 
+outlets. Similar views were advocated by the McGregor Commission in 1977.6 These reports were 
+followed by two Bills presented within the 1988–9 parliamentary sessions—again, both failed.7
+↵
+In 1990, the Calcutt Committee again rejected the creation of a tort of privacy in favour of press 
+self-regulation through the Press Complaints Commission.8 Even after reviewing the laws of France, 
+Germany and the United States, the Committee could not satisfactorily define ‘privacy’. Its final 
+statement expressing the government’s view was presented in 1995. Once again self-regulation was 
+preferred and no intention to introduce a tort of privacy was expressed.9 Although in 2004 the House 
+of Commons Culture, Media and Sport Committee advocated a specific right of privacy,10 it later 
+acknowledged that:
+To draft a law defining a right to privacy which is both specific in its guidance but also 
+flexible enough to apply fairly to each case which would be tested against it could be almost 
+impossible. Many people would not want to seek redress through the law, for reasons of cost 
+and risk. In any case, we are not persuaded that there is significant public support for a 
+privacy law.11
+As already noted, a key problem has been the lack of a coherent definition of what privacy is. One reason for 
+this may be that ‘privacy’ is not the same for all people. It has variously been described as ‘the right to be let 
+alone’,12 to be free from an ‘unwanted gaze’ or ‘unauthorised interference with a person’s seclusion of 
+himself’13 or to have unfettered control of information about or images of oneself.14
+Other nations have well-established privacy protection, suggesting that workable definitions are possible.15 
+However, these protections vary in their intensity, which may be one of the factors making finding a 
+universal definition so difficult. In France, for example, invasion of privacy is a crime, supported by civil 
+injunctions; therefore people, including ‘celebrities’, can keep their private lives very private indeed.16 
+German law offers less protection but its Constitution protects information about citizens’ personal and 
+private lives, a concept developed by the courts over time in a flexible way.
+4
+5
+6
+7
+p. 449
+8
+9
+10
+11
+12
+13
+14
+15 
+16 
+16. Invasion of privacy
+Page 5 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+As early as 1931, Percy H Winfield said that he hoped the House of Lords would develop a new tort to protect 
+privacy. However, 60 years later, the common law still had no defined privacy protection, clearly illustrated 
+by Kaye v Robertson and Sport Newspapers Ltd [1991].
+Kaye v Robertson and Sport Newspapers Ltd [1991] FSR 62 (CA)
+Gorden Kaye (at the time a well-known TV personality) suffered extensive brain injuries when a 
+billboard collapsed onto his car. An editor and photographer from the Sunday Sport newspaper gained 
+entry to his hospital room, photographing him semi-conscious in bed and conducting an ‘interview’, 
+later marketing these as a ‘scoop’. His injuries meant Kaye had no memory of this occurring. Kaye’s 
+agent sought an injunction to prevent the pictures and story being published. As there was no specific 
+privacy tort to claim under, he resorted to other torts, including defamation, passing off, malicious 
+falsehood and trespass to the person.
+All but the malicious falsehood claim failed. This meant only that the newspaper had to remove any 
+references that said Kaye had consented to being interviewed or photographed—the photos were still 
+published. The Court of Appeal recognised that it was a clear invasion of privacy to be photographed 
+in a hospital bed, particularly when one had no power to prevent this, but nothing more could be 
+done. English tort law had created various ‘boxes’ of liability which, if a claim does not fit into them, 
+leave no redress:
+If ever a person has a right to be let alone by strangers with no public interest to pursue, it 
+must surely be when he lies in hospital recovering from brain surgery and in no more than 
+partial command of his faculties. It is this invasion of his privacy which underlies the 
+[claimant’s] complaint. Yet it alone, however gross, does not entitle him to relief in English 
+law. (Bingham LJ at 70)
+In Kaye, the Court of Appeal recognised the need for a tort of invasion of privacy but deferred responsibility 
+for this to Parliament: ‘The facts of the present case are a graphic illustration of the desirability of Parliament 
+considering whether and in what circumstances statutory provision can be made to protect the privacy of 
+individuals’ (Glidewell LJ at 66).
+Similarly, in Malone v Metropolitan Police Commissioner (No 2) [1979], a case concerning telephone tapping, 
+Sir Robert Megarry V-C emphasised that the courts should not ‘legislate’ where no right has been created. He 
+stated that ‘where Parliament has abstained from legislating on a point that is plainly suitable for legislation, 
+it is indeed difficult for the court to lay down new rules of common law or equity that will carry out the 
+Crown’s treaty obligations’ (at 373, referring to the state’s obligations under the ECHR). This desire to refrain 
+from judicial intervention in favour of legislative action was also acknowledged in Wainwright. Lord 
+Hoffmann (with whom the other law lords all agreed) explicitly agreed with Sir Robert Megarry V-C, 
+rejecting any ‘broad brush approach’ of the common law (at [33]) and stated that English law neither 
+p. 450
+16. Invasion of privacy
+Page 6 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+contained nor needed a specific privacy tort, and might even be unable to create one (at [18]). A year later, in 
+Campbell v Mirror Group Newspapers [2004], Lady Hale said: ‘our law cannot, even if it wanted to, develop a 
+general tort of invasion of privacy’ (at [133]).17
+↵
+Thus, both the judiciary and Parliament have long been averse to the idea of creating a privacy tort, for 
+various reasons, including lack of precedent or a suitable definition of privacy, concerns about frivolous 
+claims, the appropriate remedy (and whether any remedy could be effective, especially after the event) and 
+concern about restraints on freedom of expression.
+Counterpoint
+In our view, none of these reasons are convincing. Lack of precedent does not prevent Parliament 
+enacting legislation nor, in other areas, has it stopped the courts ‘creating law’ (see e.g. the tort in 
+Wilkinson v Downton [1897] or the action under Rylands v Fletcher [1868]). Definition may be 
+problematic, but it is not insurmountable. The 1972 Younger Committee report described privacy as 
+‘privacy of information, that is the right to determine for oneself how and to what extent information 
+about oneself is communicated to others’.18 This interpretation fits well with the majority of the cases 
+we discuss shortly—perhaps indicating that defining privacy has never really been problematic or 
+that a definition is in fact relatively unimportant.
+The concern about frivolous claims surfaces each time a potential new harm is identified in tort. Yet 
+the ‘floodgates’ that the judiciary seem so concerned to avoid opening do not seem to have opened in 
+other jurisdictions and, given the personal and financial cost of bringing any legal claim (particularly 
+as legal aid would not be available), few could bring so-called frivolous claims. If the courts are 
+concerned that there will be more claims, this is a different issue—but more claims may simply reflect 
+more invasions of privacy, which may indicate that those who continuously infringe individuals’ 
+personal and private lives (e.g. the press) ought to be reined in by private law.
+Remedies are more problematic. Most claimants wish to prevent information reaching, or to have 
+information withdrawn from, the public sphere (e.g. in the form of an injunction prohibiting 
+publication). Often it will be too late to do this. However, this difficulty is not used as a reason to deny 
+remedies in other areas: for personal injuries caused by negligence there is no remedy that can give a 
+claimant back a lost limb, yet the ‘appropriateness’ of the remedy, which must be monetary, does not 
+prevent actionable claims. In any case, damages can be awarded in lieu of an injunction in appropriate 
+cases.
+Concerns about infringements on the right to freedom of expression are more valid. It is right in a 
+democratic society that people, including the media, are free to form and speak their opinions. 
+However, again (and as the cases discussed later show) the problem is not insurmountable: a 
+balancing exercise is undertaken and in fact the development of this balancing exercise is what 
+opened the door for the courts’ acknowledgement that a tort exists.
+17
+p. 451
+18
+16. Invasion of privacy
+Page 7 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-16-2>.
+16.3  How has privacy been protected?
+As indicated earlier, the legislature, not wanting to be seen to be curbing the important right to freedom of 
+expression, has long favoured self-regulation of the press.
+16.3.1  Self-regulation
+The Culture, Media and Sport Select Committee, in its 2007 report Self-Regulation of the Press, concluded that 
+significant progress had been made to ensure the correct balance between protecting privacy and the right to 
+publish—so much so that any statutory regulation would, in its view, ‘represent a very dangerous 
+interference with the freedom of the press’, adding ‘[w]e continue to believe that statutory regulation of the 
+press is a hallmark of authoritarianism and risks undermining democracy’.19 More authority was instead 
+given to the Press Complaints Commission (PCC), an organisation that supposedly monitored British press 
+adherence to ethical guidelines. The PCC was closed down in September 2014.20
+Pause for reflection
+The PCC marketed itself as ‘fast, free and fair’—its main advantage supposedly that it was quicker to 
+achieve adjudication than through the court system. People who considered that their privacy had 
+been violated by the print media could complain to the PCC, which could obtain a retraction and an 
+apology, but could provide no further remedies.
+Sara Cox, the radio DJ and TV presenter, complained to the PCC after a tabloid newspaper published 
+long-range photographs of her sunbathing topless on a private beach on honeymoon. She 
+complained that the photographs were taken when she was in a place where she had a reasonable 
+expectation of privacy and were published in breach of her right to respect for her private life. 
+Following adjudication by the PCC, the newspaper’s editor published a prominent apology and wrote 
+privately to Ms Cox, but she sued anyway,21 later settling out of court.
+Why did Sara Cox sue even after an apology was obtained? Once private photographs have been 
+published, they cannot be retracted—is an apology enough? Do you think the fact that the newspaper 
+settled out of court is an indication or an admission of wrongdoing?
+As Sara Cox’s case illustrates, the PCC lacked ‘teeth’. Its board was composed mainly of press 
+representatives, including editors of national newspapers—so it had a vested interest in what was and 
+was not published.
+p. 452
+19
+20
+21
+16. Invasion of privacy
+Page 8 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(1)
+(2)
+(3)
+(4)
+(5)
+The Leveson Inquiry
+The PCC’s ineffectiveness was something that vexed Lord Justice Leveson in his important inquiry 
+into the culture, practices and ethics of the press in 2011–12.22 While not specifically concerned with 
+privacy (it was ordered by then Prime Minister David Cameron in the wake of public outrage 
+surrounding the newspaper phone-hacking scandal), many of the recommendations 
+↵
+from the 
+2,000-page report have affected the law in some way and are likely to continue to do so.23 The 
+recommendations included the following:
+Dissolution of the PCC and the creation of a new, wholly independent regulatory body 
+comprised of people with media experience but no serving editor, government minister or 
+politician.
+This body should create a Standards Code recognising the importance of freedom of speech 
+and of publishing matters in the public interest, such as the exposure of serious impropriety or 
+crime, particularly of public figures.
+The Code should address the way individuals are treated by the press, especially regarding 
+accuracy, avoiding misrepresentation of facts and maintaining appropriate respect for their 
+privacy.
+The body should be empowered to grant appropriate remedial action for breach of its 
+standards, to direct the nature and placement of apologies/corrections and to impose 
+sanctions including financial penalties (Leveson envisaged fines of up to 1 per cent of annual 
+turnover up to a maximum of £1 million for serious systemic violations).
+Legislation should ‘underpin’ the proposed system of self-regulation.
+Welcoming the Leveson Report, David Cameron agreed that a new and independent regulator of the press, 
+with a new code of standards, was required. However, he viewed using legislation to underpin this as 
+‘crossing the Rubicon’ and political opinion on the matter was very much divided.24 The government 
+nonetheless committed to implementing Leveson’s key recommendation: the media should regulate itself 
+but there should be independent verification (or ‘recognition’) of those regulatory arrangements. The three 
+major parties eventually reached agreement on establishing an independent regulator backed by Royal 
+Charter.25 In November 2014 the Press Recognition Panel (PRP) was established to independently verify the 
+media’s new self-regulatory body: the Independent Press Standards Organisation (IPSO).26
+IPSO was established 8 September 2014, replacing the discredited PCC. More independent of media interests 
+than the PCC, under the terms of its Editors’ Code of Practice it can deal with inaccurate reporting, invasion of 
+privacy, intrusion into grief or shock and 
+↵
+harassment by the press.27 It has the power to obtain 
+apologies and corrections, but may also issue fines in sufficiently serious cases.28
+Clause 2 of IPSO’s Editors’ Code of Practice, the current version of which came into effect on 1 January 2025, 
+says:
+22
+p. 453
+23
+24
+25
+26
+p. 454
+27
+28
+16. Invasion of privacy
+Page 9 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+i)
+ii)
+iii)
+2 *Privacy
+Everyone is entitled to respect for their private and family life, home, physical and 
+mental health, and correspondence, including digital communications.
+Editors will be expected to justify intrusions into any individual’s private life without 
+consent. In considering an individual’s reasonable expectation of privacy, account 
+will be taken of the complainant’s own public disclosures of information and the 
+extent to which the material complained about is already in the public domain or will 
+become so.
+It is unacceptable to photograph individuals, without their consent, in public or 
+private places where there is a reasonable expectation of privacy.
+The asterisk denotes a section of the Code from which IPSO allows derogation if it is in ‘the public interest’ to 
+do so. This is defined at the end of the Code:
+16. Invasion of privacy
+Page 10 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+1.
+2.
+3.
+4.
+5.
+The Public Interest
+The public interest includes, but is not confined to:
+Detecting or exposing crime, or the threat of crime, or serious impropriety.
+Protecting public health or safety.
+Protecting the public from being misled by an action or statement of an 
+individual or organisation.
+Disclosing a person or organisation’s failure or likely failure to comply with any 
+obligation to which they are subject.
+Disclosing a miscarriage of justice.
+Raising or contributing to a matter of public debate, including serious cases of 
+impropriety, unethical conduct or incompetence concerning the public.
+Disclosing concealment, or likely concealment, of any of the above.
+There is a public interest in freedom of expression itself.
+The regulator will consider the extent to which material is already in the public 
+domain or will become so.
+↵
+ Editors invoking the public interest will need to demonstrate that they 
+reasonably believed publication—or journalistic activity taken with a view to 
+publication—would both serve, and be proportionate to, the public interest and 
+explain how they reached that decision at the time.
+An exceptional public interest would need to be demonstrated to over-ride the 
+normally paramount interests of children under 16.
+Pause for reflection
+It is hard to establish how effective IPSO is, especially as some major news publishers have opted out 
+of its system and it refuses to apply for recognition by the PRP. Further, in October 2016 another 
+regulator—IMPRESS (the Independent Monitor for the Press)—was established in ‘opposition’ to 
+IPSO, claiming to be ‘the first truly independent press regulator in the UK’. It has its own Standards 
+Code, with different (broader) definitions of privacy and public interest, and is said to be ‘Leveson 
+compliant’.29 As you read further, consider whether these Codes are likely to alter the way the press 
+operates, especially given these internal disagreements.30
+p. 455
+29
+30
+16. Invasion of privacy
+Page 11 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(1)
+(2)
+(3)
+Also consider the fact that Leveson paid little attention to the burgeoning sphere of social media, the 
+development of which he viewed as ‘largely irrelevant to his considerations’ and not lending itself to 
+regulation. What role do you think the expansion of social media has played in the privacy debate? 
+Can the mainstream press be effectively regulated (and should it be) while others are free to post 
+almost anything (subject to criminal law) online?31
+Existing ‘boxes’ of liability (Kaye), as well as self-regulatory bodies, have had limited effect when an 
+individual claims infringement of their privacy. However, the courts developed another route which offers 
+greater protection of privacy: actions for breach of confidence.
+16.3.2  Development of breach of confidence
+Breach of confidence stems from equity and is designed to protect ‘secrets’ or confidential information. In 
+Coco v AN Clark (Engineers) Ltd [1968], the duty was said to be breached when:
+information exists which has ‘the necessary element of confidence about it’;
+the defendant could be said to be obliged to keep the information confidential; and
+‘unauthorised use’ of the information was made by the defendant.
+↵
+Thus, it can be used only when a duty of confidentiality is established. As it was primarily used to 
+protect commercial secrets, it would initially appear to have little application to the type of privacy cases we 
+are concerned with.32 Conventionally, a pre-existing relationship was required to bring about the duty. So, 
+there would only be limited application in the context of personal secrets, for example in a marital 
+relationship or between a party and someone taken into their confidence.
+In Attorney General v Guardian Newspapers Ltd (No 2) [1990], a case relating to the publication of the 
+controversial Spycatcher book, Lord Goff declared that a duty of confidentiality exists when:
+confidential information comes to the knowledge of a person … in circumstances where he has notice 
+or is held to have agreed that the information is confidential with the effect that it would be just in all 
+the circumstances that he should be precluded from disclosing the information to others. (at 281, 
+emphasis added)
+Thus, a pre-existing relationship is not necessarily required. A duty will arise if a party gains information and 
+knows (or ought to know) that they would be expected to keep it confidential. This has far broader 
+implications for the protection of privacy, particularly in relation to press intrusion into people’s personal 
+lives, as clearly illustrated by Venables v News Group Newspapers [2001] and X (A woman formerly known as 
+Mary Bell) v SO [2003].33 In Venables an injunction was imposed contra mundum (against the whole world) to 
+prevent disclosure of information that might reveal the identity or whereabouts of the killers (who had 
+themselves been children at the time of the murder) of toddler Jamie Bulger. The justification for this was 
+31
+p. 456
+32
+33
+16. Invasion of privacy
+Page 12 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+that another right was at issue—the right to life of the claimant—who might suffer at the hands of members 
+of the public if his identity was revealed.34 Similarly, in X, an injunction was imposed to prevent the 
+publication of information that might identify Mary Bell (who had also killed children when she was a child 
+herself) and also her own, now adult, daughter. More recently, a contra mundum injunction prohibiting 
+publication of the new identities of a police informant and his relatives was granted, in order to protect their 
+physical safety and right to life.35
+Pause for reflection
+Following these cases, do you think that what might make information confidential depends on how 
+much harm would be caused to the parties concerned if the information was leaked? As you read 
+through the chapter, think how a harm-based analysis fits with other cases decided in favour of the 
+claimants. Do you think this is an appropriate test? Photographs of holidays or weddings being 
+published without consent can be viewed as causing little or no real harm when compared to a risk to 
+the right to life. But, on the other hand, it depends what we consider ‘harm’ to be—if the harm is the 
+invasion of privacy itself then are all claimants in these cases equally deserving?
+The defence to a breach of confidence claim is to show that disclosure of the information, though confidential 
+in nature, is justified in the public interest. That is, the public interest in disclosure must be weighed against 
+the interest of the claimant in maintaining confidentiality (Attorney General v Guardian Newspapers Ltd (No 
+2)).36
+In Douglas, Zeta-Jones and Northern & Shell plc v Hello! Ltd [2005] breach of confidence essentially became a 
+privacy action in all but name.
+Douglas, Zeta-Jones and Northern & Shell plc v Hello! Ltd [2005] EWCA 
+Civ 595 (CA)
+The celebrity couple Michael Douglas and Catherine Zeta-Jones married in a New York hotel. They 
+entered a £1 million contract with OK! magazine to publish exclusive photographs of the wedding and 
+it was a term of the contract that the couple would have the final say regarding which photographs 
+could be used. The wedding was otherwise private. Its location had not been made public and guests 
+were asked not to bring cameras. Despite the security provided by the couple, a freelance 
+photographer managed to get into the wedding and take covert pictures, which he then sold to rival 
+magazine Hello! The couple sought and failed to achieve an interim injunction to prevent Hello! 
+publishing the pictures, relying in part on breach of confidence and the new ‘privacy’ law (which they 
+argued had been created by the HRA).
+34
+35
+p. 457
+36
+16. Invasion of privacy
+Page 13 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+The court disagreed with the claimants’ submission that the HRA had created a new action in law on 
+the basis that existing law was enough to protect people’s privacy interests. It found that there had 
+been a breach of confidence, relying on Coco. It said that Hello! should clearly have realised that ‘an 
+obligation of confidence’ existed in relation to the photographs (otherwise the photographer would 
+not have had to obtain them secretly) and that there was no authority for their use, as it had been 
+widely publicised that the wedding was to be a private event. The couple was awarded £14,500 
+damages for interference with the remaining right of privacy they had after selling the photographic 
+rights in the first place. (OK! magazine was also awarded more than £1 million for lost profit; this 
+award was overturned by the Court of Appeal but later restored by the House of Lords in 2007.)
+Pause for reflection
+If hundreds of people were at the wedding anyway, and the photographs were to be sold to a 
+publication that would be seen by millions, was this really a private affair? What made the 
+unauthorised photographs an invasion of the claimants’ privacy, when they had already contracted to 
+share their wedding day with the world? Does this case fit with the ‘harm’ analysis mentioned earlier? 
+The claimants would presumably feel saddened to know that covert photography had taken place on 
+their wedding day by someone seeking to make a profit—but is this harmful?
+Do you agree with the decision? If not, is this because the couple had entered a contract that was 
+designed for them to have control over which information (photographs) stayed private and which 
+was made public?
+The court in Douglas found that it did not matter that there were so many people at the wedding as everyone 
+there knew it was private. So understood, the photographs, because of the design of the contract with OK!, 
+were confidential precisely because of their commercial value. In effect, the Court of Appeal was simply 
+applying the normal rules on breach of confidence. As in Kaye, the court made it clear that it was for 
+Parliament to create a tort of invasion of privacy, not judges, who could only work with existing laws. 
+However, because of the nature of the case—and who brought it—it was seen as establishing, even for people 
+in the public eye, a (limited) right to privacy.
+Breach of confidence resurfaced again in ABC and others v Telegraph Media Group Ltd [2018]. In this 
+controversial case, the Court of Appeal granted an interim injunction to the claimants (one a prominent 
+businessman) in relation to allegations made by five previous employees about his ‘discreditable conduct’. A 
+journalist had approached the claimants, informing them that details of the allegations were to be published, 
+including the fact that the complainants had all signed non-disclosure agreements (NDAs), for which they 
+had received substantial monetary payments. The claimants (two companies and the businessman 
+concerned) immediately sought an injunction preventing them from being named, or information about the 
+p. 458
+16. Invasion of privacy
+Page 14 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+allegations or NDAs being published. The Court of Appeal (overturning an earlier judgment of the High 
+Court) found that an interim injunction should be granted, as the information carried the necessary degree of 
+confidence. It recognised the importance of protecting duties of confidence and was not persuaded that the 
+‘public interest in publication outweighs the confidentiality attaching to the information pending a speedy 
+trial’ (at [31]). The Court of Appeal essentially made it clear that this was not a test of whether the 
+information was in the public interest, but whether it is in the public interest that the duty of confidence 
+should be breached. The case was later discontinued by the claimants in February 2019, reportedly leaving 
+them with a £3 million legal bill. This also meant that the Court of Appeal’s injunction was discharged, and 
+the Daily Telegraph immediately published its allegations that the businessman concerned was Sir Philip 
+Green (owner of Topshop/Topman stores, among others), and had subjected five individuals to racial, 
+physical and sexual abuse and other bullying behaviour.37
+Pause for reflection
+The ABC decision had meant that an interim injunction would be in place—until the point of a full trial 
+that would decide whether a permanent injunction should be granted. This meant that the 
+information may still have come to light, after a proper trial of the facts, which the Court of Appeal 
+had ordered to be expedited in recognition of the undesirability of delay in the publication of matters 
+of potential public interest. However, the Court of Appeal’s decision was overtaken by the actions of 
+Lord Hain who, exercising parliamentary privilege, named Sir Philip Green in the House of Lords in 
+October 2018, undoubtedly leading to the claimants’ later discontinuation of the case.
+Notwithstanding the rights and wrongs of naming the claimant at that stage in the proceedings, the 
+case should make us think. Presumably, there is a public interest in the disclosure of multiple 
+allegations of sexual harassment, bullying and racial abuse by a senior executive who then paid large 
+sums to prevent victim-survivors telling their stories publicly. The use of NDAs in this respect should 
+give us cause for concern.38 Strong criticism was voiced against them by The Telegraph in response to 
+the judgment. Though this was not unexpected, given that it was the defendant in this case (and had 
+spent eight months researching the story), the criticism referred to concerns about NDAs being used 
+to cover up potential wrongdoing, particularly by powerful individuals, saying it would ‘reignite the 
+#MeToo movement against the mistreatment of women, minorities and others by powerful 
+employers’. Maria Miller MP, then chair of the House of Commons’ Women and Equality Committee, 
+said it was ‘shocking’ that NDAs were being used to gag victims and that they should not be used 
+‘where there are accusations of sexual misconduct and wider bullying’.39
+Linklaters LLP and another v Mellish [2019] concerned the issue of how large ‘Magic Circle’ law firms 
+deal with workplace sexual harassment. Mellish, who had left Linklaters after a short period of 
+employment, emailed the senior partners announcing that he intended to share his ‘impressions of 
+the current culture at Linklaters’, especially ‘the ongoing struggle Linklaters has with women in the 
+workplace’. He highlighted three incidents in particular, saying he would go on record about how the 
+37
+p. 459
+38
+39
+16. Invasion of privacy
+Page 15 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+company had handled them. Mr Justice Warby, granting an interim injunction, ruled Linklaters had a 
+‘legitimate interest’ in maintaining confidentiality over such matters, and that this outweighed the 
+public interest in the conduct of large firms. Commenting on the decision, Richard Moorhead says:
+He [Warby J] does not consider the possibility that stifling a discussion of firm culture is 
+more likely to inhibit the coming forward of complainants. Judges need to think more 
+carefully if protecting the reputation of men, whilst claiming to protect the interests of 
+women.40
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-16-3>.
+16.4  A new tort: ‘Misuse of private information’
+Douglas opened the door for other privacy claims, most involving high-profile claimants. The major turning 
+point—and the genesis of a new tort—came when supermodel Naomi Campbell tried to suppress publication 
+of details of her rehabilitation from drug addiction.
+Campbell v Mirror Group Newspapers (MGN) [2004] UKHL 22 (HL)
+The Daily Mirror published stories about Naomi Campbell seeking treatment for drug addiction. On 
+one occasion it published a photograph showing her leaving a Narcotics Anonymous meeting in 
+London and details about what her treatment might entail. Having tried and failed to sue for invasion 
+of privacy, Campbell framed her action as a claim for breach of confidence, arguing that any 
+‘reasonable person’ would realise that details of her treatment and where this was taking place were 
+clearly confidential.
+A bare majority of the House of Lords upheld her claim—in part. Because she had previously denied 
+having a drugs problem, despite acknowledging that many models did take drugs, the law lords held 
+that the story detailing the fact that she did in fact use illegal drugs, and was attending Narcotics 
+Anonymous for help in overcoming this problem, could be published, as this was correcting an 
+inaccurate image she had portrayed of herself. However, they went on to hold that the details of her 
+treatment as well as the photograph of her leaving the meeting could not be published. Medical 
+information is always a confidential matter, and publishing the photograph may allow people to 
+discover where her treatment was taking place. Both things, if published, could have negative effects 
+on the treatment itself.
+40
+p. 460
+16. Invasion of privacy
+Page 16 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(1)
+(2)
+Campbell is significant.41 In Campbell, their lordships clarified the relationship between breach of confidence 
+and invasion of privacy. Lord Nicholls (dissenting), while accepting that the nature of breach of confidence 
+had changed once the pre-existing relationship requirement was removed, maintained that there was ‘no 
+over-arching, all-embracing cause of action for “invasion of privacy” ’ (at [11]). However, he acknowledged 
+that developments in the law, particularly regarding breach of confidence, had been prompted by the HRA 
+and that because the duty of confidence now arose where ‘a person receives information he knows or ought 
+to know is fairly and reasonably to be regarded as confidential’ this had in 
+↵
+essence created a tort of 
+‘misuse of private information’ (at [14]). Furthermore, the HRA, plus European Court of Human Rights 
+(ECtHR) jurisprudence, prompted him to acknowledge that ‘the values enshrined in Articles 8 and 10 [ECHR] 
+are now part of the cause of action for breach of confidence’ (at [17]). Thus, future cases—now understood as 
+‘misuse of private information’ claims—would need to concentrate more on confidential/private information 
+and the balance of the claimant’s right to private, home and family life (Art 8 ECHR) against the defendant’s 
+right to freedom of expression (Art 10 ECHR).
+That there is a tort of misuse of private information was confirmed by the High Court in Vidal-Hall and others 
+v Google Inc [2014] in the context of Google’s misuse of personal data obtained via the Safari browser. 
+Tugendhat J cited Lord Nicholls in Douglas and others v Hello! Ltd and others [2007] as authority that ‘breach 
+of confidence, or misuse of confidential information, now covers two distinct causes of action, protecting two 
+different interests: privacy, and secret (“confidential”) information’ (at [255]). He concluded that a distinct 
+‘tort of misuse of private information’ exists (at [70]). This was upheld by the Court of Appeal in Google Inc v 
+Vidal-Hall and others [2015]. Also in 2014—though this part of the claim was ultimately unsuccessful—it was 
+considered a tort by the Court of Appeal in OPO v MLA [2014], where a child sought to prevent publication of 
+his father’s (a successful musician and public figure) autobiography.42 The Supreme Court confirmed the tort 
+in PJS v News Group Newspapers Ltd [2016].
+Since Campbell, a two-stage test is used to determine whether ‘misuse of private information’ has occurred.43 
+The test is as follows.
+Did the claimant have a ‘reasonable expectation of privacy’ regarding the information? If so,
+Does their interest in maintaining their right to privacy outweigh the defendant’s interest in freedom 
+of expression (i.e. the ability to publish the information)?
+This inevitably leaves us with a question: what is a reasonable expectation of privacy?
+16.4.1  What is a ‘reasonable expectation of privacy’?
+In Campbell, it was held that a reasonable expectation of privacy would arise when it was ‘obvious’ that the 
+information being disclosed was private.44 While the majority of the law lords thought that information 
+about treatment for drug addiction was obviously private, they did not think the same of the photograph, as 
+this was taken on a public street.
+41
+p. 461
+42
+43 
+44
+16. Invasion of privacy
+Page 17 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Pause for reflection
+Lord Nicholls (dissenting in Campbell) argued that treatment for addiction at Narcotics Anonymous 
+followed a well-known pattern and as such the disclosure of information about this was no more 
+significant than ‘saying a person who has fractured a limb has his limb in plaster or that a person 
+suffering from cancer is undergoing a course of chemotherapy’ (at [26]).
+Do you agree? Or does the fact that drug addiction relates to a person’s mental wellbeing and is 
+associated with judgements that can be made about their personality and private life, as well as their 
+physical health, distinguish the two examples?
+A secondary test was proposed for situations—like the photo—where it is not ‘obvious’ that information was 
+private. Then, we must ask whether disclosure of the information would cause offence to a ‘person of 
+ordinary sensibilities’ if it was about them.45 This is a fairly bizarre subjective–objective test, particularly as 
+the courts must put themselves into the minds of a ‘person of ordinary sensibilities’ in the same situation as 
+the claimant—often situations that are unlikely to happen to most ‘ordinary people’. Because on this 
+secondary test it could be harmful to Naomi Campbell’s treatment of and recovery from addiction to publish a 
+photograph from which the location of her treatment could be identified, publication was prevented. In other 
+words, because to publish a photograph which could enable people to find out where an obviously private 
+medical treatment was taking place might cause offence to ‘a person of ordinary sensibilities’, she could also 
+establish a ‘reasonable expectation of privacy’ in relation to the photographs. As Baroness Hale noted, it 
+would have been different if Campbell was merely ‘going about her business in a private street’ because:
+she makes a substantial part of her living out of being photographed looking stunning in designer 
+clothing. Readers will obviously be interested to see how she looks if and when she pops out to the 
+shops for a bottle of milk. (at [154])
+Pause for reflection
+Look again at Kaye. If the same events happened today, would the case be decided differently? The 
+images of him in hospital would have a ‘reasonable expectation of privacy’ attached (as photographs 
+of a person in hospital, unable to give their consent, can easily be considered ‘obviously’ private) and 
+it would be unlikely that the photographs of him would be in the public interest, even if the public was 
+interested in the fact that he had been injured. The question is about where the line should be drawn 
+about what information the public should be given about the private lives of others.
+p. 462
+45
+16. Invasion of privacy
+Page 18 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Compare Elton John v Associated Newspapers [2006], where Sir Elton John complained that a picture taken of 
+him walking away from his car with his driver was an invasion of privacy. 
+↵
+The court found that the 
+picture contained no obviously private information and was merely a snapshot of him going about his 
+ordinary life. Similarly, in Serafin v Malkiewicz and others [2017] a photograph of the claimant (who was 
+engaged in a more detailed defamation claim and argued that the photograph showed him in a negative light) 
+gesticulating with two fingers was found to be ‘no big deal’ in the modern age (at [351]) and did not engage a 
+reasonable expectation of privacy.46
+A ‘reasonable expectation’ of privacy will, therefore, generally be quite ‘obvious’.47 The test was confirmed by 
+the Court of Appeal in Murray (discussed later) to be:
+a broad one, which takes account of all the circumstances of the case. They include the attributes of 
+the claimant, the nature of the activity in which the claimant was engaged, the places at which it was 
+happening, the nature and purpose of the intrusion, the absence of consent and whether it was 
+known or could be inferred, the effect on the claimant and the circumstances in which and the 
+purposes for which the information came into the hands of the publisher. (at [36])
+In Middleton and another v Person or Persons Unknown [2016], Pippa Middleton (sister of Catherine, Princess of 
+Wales), was granted an injunction preventing publication of some 3,000 photographs stolen from her iCloud 
+account. In Ali and another v Channel 5 Broadcast Ltd [2018], the claimants were found to have a reasonable 
+expectation of privacy in relation to the filming and broadcast of their eviction from their privately rented 
+home on the TV programme Can’t Pay? We’ll Take it Away.48 In contrast, it seems that sending private emails 
+from a work account will not always attract a reasonable expectation of privacy.49 In Stoute & Stoute v News 
+Group Newspapers [2023] the Court of Appeal confirmed that ‘case law recognises that photographs require 
+special consideration’ because they are uniquely ‘private’ and vulnerable to misuse (at [35]).50 In terms of 
+considering ‘all the circumstances of the case’, LCG and others v OVD and others [2023] confirms that the 
+‘Murray factors’ are not exhaustive and ‘other relevant factors would also include the content of the pictures, 
+the circumstances in which they were created and held, and how and why any claimant had and asserted an 
+entitlement to prevent or control their accessibility’ (at [16]).
+That said, there are several types of case that can be grouped together to see whether general principles in 
+respect of a reasonable expectation of privacy arise, including where claimants are under investigation, where 
+the information is of a sexual or intimate nature, where children are involved or where there is iniquity on the 
+part of the claimant.
+16.4.1.1  Subjects of investigations
+Being the subject of a police investigation appears to attract a reasonable expectation of privacy.51 This was 
+reiterated in Richard v BBC and another [2018], even once the information (about investigations being 
+conducted into historic child sex abuse allegations under 
+↵
+Operation Yewtree) had come into the hands 
+of the media. Likewise, in XKF v BBC [2018] the claimant, an ex-police officer who had been imprisoned for 
+corruption, successfully prevented the BBC from showing an interview with him on its Panorama 
+programme. Though there might not be a reasonable expectation of privacy in relation to his initial conviction 
+p. 463
+46
+47
+48
+49
+50
+51
+p. 464
+16. Invasion of privacy
+Page 19 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(even though it was by then spent), there was in respect of his rehabilitation (including his change of 
+identity).52 In ZXC v Bloomberg [2022] the Supreme Court confirmed that ‘as a legitimate starting point, a 
+person under a criminal investigation has, prior to being charged, a reasonable expectation of privacy in 
+respect of information relating to that investigation’ (at [146]). In contrast, no reasonable expectation of 
+privacy was found in Axon v Ministry of Defence [2016] in the context of leaks to a national newspaper about a 
+former Royal Navy commanding officer who had been removed from command following allegations of 
+bullying.
+16.4.1.2  Intimate or sexual information
+In Elizabeth Jagger v John Darling [2005], Elizabeth Jagger (the daughter of Mick Jagger) obtained an 
+injunction preventing the publication of pictures and CCTV footage of her and Calum Best (the son of 
+footballer George Best) engaged in ‘sexual activities’ in the doorway of a nightclub. Mr Justice Bell found that 
+she had a reasonable expectation of privacy as, although in a public space, she was unaware of being 
+observed. In Mosley v NGN [2008], it was confirmed that one’s sexual activities are generally to be considered 
+private.
+Mosley v News Group Newspapers Ltd [2008] EWHC 1777 (QB)
+The late Max Mosley, son of 1930s British Fascist leader Sir Oswald Mosley, and the then head of the 
+International Automobile Federation (FIA), was covertly filmed by the News of the World with five 
+prostitutes in a London basement flat. The now defunct newspaper described a ‘sick Nazi orgy’ and a 
+‘truly grotesque and depraved’ event, posting the film on its website and alleging that Mosley had 
+assumed the role of a concentration camp commandant, saying: ‘In public he rejects his father’s evil 
+past but secretly he plays Nazi sex games’.53 The film was viewed by 
+↵
+3.5 million people. In court, 
+Mosley admitted involvement in sadomasochistic extramarital sex, but denied the link to Nazism. Mr 
+Justice Eady ruled that Mosley had a reasonable expectation of privacy in relation to his sexual 
+activities, though unconventional, if they took place between consenting adults on private property 
+(at [232]). He said that the authorities tend to show that ‘people’s sex lives are to be regarded as 
+essentially their own business—provided at least that the participants are genuinely consenting 
+adults and there is no question of exploiting the young or vulnerable’ (at [100]).54 Given that the link 
+to Nazism was not proved, Mr Justice Eady further concluded that there was:
+no public interest or other justification for the clandestine recording, for the publication of 
+the resulting information and still photographs, or for the placing of the video extracts on 
+the News of the World website—all of this on a massive scale. Of course, I accept that such 
+behaviour is viewed by some people with distaste and moral disapproval, but in the light of 
+modern rights-based jurisprudence that does not provide any justification for the intrusion 
+on the personal privacy of the claimant. (at [233])
+52
+53
+p. 465
+54
+16. Invasion of privacy
+Page 20 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Notably, Eady J stressed that this was not a ‘landmark’ decision (at [234]), but one that applied 
+‘recently developed but established principles’ to an unusual set of facts.55
+That private intimate relationships attract a reasonable expectation of privacy was restated in AMC and 
+another v News Group Newspapers Ltd [2015], a case about an affair conducted by a ‘prominent and successful 
+professional sportsman, who has, from time to time held positions of responsibility in his sport’ (at [6]).56 In 
+Wan-Bissaka and another v Bentley [2020] the Premiership footballer succeeded in a claim against his former 
+partner to prevent her disclosing details of their relationship, including text conversations. The principle 
+holds in a non-celebrity context too: ZYT and another v Associated Newspapers Ltd [2015] and Bull v Desporte 
+[2019].
+When there is already some public awareness of the information, a ‘reasonable expectation’ of privacy may be 
+lost. In Theakston v MGN Ltd [2002], for example, an attempt by a radio and television presenter to prevent 
+publication of information about his visit to a brothel failed due to knowledge of the event already being in 
+the public domain.57 However, what is considered to be in the public domain is a fine line—for example, Ned 
+Rocknroll (now known as Edward Abel Smith, the husband of actress Kate Winslet and nephew of Virgin’s Sir 
+Richard Branson) succeeded in preventing a national newspaper publishing 
+↵
+partially naked 
+photographs of him, despite them having been visible for some time on his friend’s Facebook page.58 In PJS 
+[2016] a majority of the Supreme Court—somewhat controversially—upheld an injunction preventing 
+publication of the names of a celebrity and his partner allegedly involved in an extramarital threesome, 
+despite widespread knowledge of who the celebrity might be following publication of the information outside 
+the jurisdiction and on social media.59
+16.4.1.3  Children
+The Court of Appeal in Murray v Express Newspapers plc [2008] considered the approach to be taken in 
+relation to children.
+Murray v Express Newspapers plc [2008] EWCA Civ 446 (CA)
+JK Rowling, the author of the Harry Potter books, claimed on behalf of her then 18-month-old son 
+David, after a long-lens photograph of him in his pushchair was published in 2004. Rowling (whose 
+married name is Murray), sought damages for the infringement of David’s right to privacy as well as 
+an injunction to prevent further publication of similar pictures. Her case failed in the High Court. Mr 
+Justice Patten said that the law did not provide for a ‘press-free zone’ (at [66]) for celebrities and their 
+children in respect of everything that they do, adding that ‘an area of routine activity which, when 
+conducted in a public place, carries no guarantee of privacy’.
+55
+56
+57
+p. 466
+58
+59
+16. Invasion of privacy
+Page 21 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+The Court of Appeal overturned the decision, finding that David had a legitimate expectation of 
+privacy, even while on a public street.
+Interestingly, Express Newspapers settled out of court when the claim was still at the High Court—the action 
+survived only against the picture agency that took and supplied the photographs to the newspaper. Giving the 
+judgment of the Court of Appeal, Sir Anthony Clarke said:
+As we see it, the question whether there is a reasonable expectation of privacy is a broad one, which 
+takes account of all the circumstances of the case. They include the attributes of the claimant, the 
+nature of the activity in which the claimant was engaged, the place at which it was happening, the 
+nature and purpose of the intrusion, the absence of consent and whether it was known or could be 
+inferred, the effect on the claimant and the circumstances in which and the purposes for which the 
+information came into the hands of the publisher. (at [36])
+This interpretation allowed the court to find that the High Court judge had not given enough consideration to 
+the fact that the claimant was a child. Sir Anthony Clarke found that:
+if a child of parents who are not in the public eye could reasonably expect not to have photographs of 
+him published in the media, so too should the child of a famous parent. In our 
+↵
+opinion, it is at 
+least arguable that a child of ‘ordinary’ parents could reasonably expect that the press would not 
+target him and publish photographs of him. The same is true of David, especially since on the alleged 
+facts here the photograph would not have been taken or published if he had not been the son of JK 
+Rowling. (at [46])
+Murray suggested that there will always be a legitimate expectation of privacy if you are the (young) child of a 
+famous person, because you cannot be said to have sought celebrity status for yourself.60 This argument was 
+used in AAA v Associated Newspapers Ltd [2013], where pictures of the infant child claimant were published 
+alongside claims that her father was a famous (even perhaps notorious) politician. The claim was ultimately 
+unsuccessful, largely due to the mother’s inconsistent approach to the level of privacy to be afforded the 
+information; it also raised a matter of general public interest. While children’s interests do not have 
+automatic precedence over others, not only should their best interests be considered, but courts should also 
+accord particular weight to the Article 8 rights of any children likely to be affected by a publication, a 
+principle confirmed by the Court of Appeal in ETK v Newsgroup Newspapers [2011].61 Weller and others v 
+Associated Newspapers Ltd [2015] confirmed that children may have different expectations regarding their 
+privacy when compared to adults and that these expectations could, in fact, be affected by the actions of the 
+parents, as had been the case in AAA.62 In PJS [2016], the Supreme Court found that the Court of Appeal had 
+failed to adequately consider the impact that the publication of the information would have on PJS’s 
+children.63 The principles are, however, not confined to the children of celebrities.64
+p. 467
+60
+61
+62
+63
+64
+16. Invasion of privacy
+Page 22 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Whether celebrity parents are equally deserving of protection from being photographed going about their 
+ordinary lives is more debatable. Some people feel strongly about this, arguing that if you become famous, 
+you should expect what comes with the territory. As Lady Hale reminded us in Campbell, many people are 
+interested in what celebrities look like when they pop to the shops for a pint of milk. With regard to adults, it 
+has seemed that only when to publish photographs or news stories might cause tangible harm does the 
+question of protecting privacy seem to arise.65 This appears to include harm to the wider family unit, 
+particularly where children are involved.66 Ward LJ in ETK v Newsgroup Newspapers [2011] 
+↵
+confirmed 
+this in the context of a claim to protect information about an adulterous affair between two ‘entertainment 
+industry’ personalities from being made public (at [22]).67 He was prepared to protect their identities because 
+children were involved and because:
+there is no political edge to the publication. The organisation of the economic, social and political life 
+of the country, so crucial to democracy, is not enhanced by publication. The intellectual, artistic or 
+personal development of members of society is not stunted by ignorance of the sexual frolics of 
+figures known to the public … (at [21])
+16.4.1.4  Iniquity
+When the claimant has done something they shouldn’t (e.g. something illegal) this may justify publication of 
+information which may otherwise seem to be an invasion of privacy.68 Jagger, Contostavlos, Mosley and PJS 
+show that adult sexual activity—even extramarital—is generally considered private.69 Cases involving 
+anonymity orders and so-called ‘super-injunctions’70—in particular in relation to the sexual activities of 
+famous people—support the idea that the public’s interest (as opposed to public interest) will not always be 
+enough to warrant publication of such stories (or even the names of the individuals concerned): something 
+more is required.71 The idea of exposing iniquity may also have to be balanced against the risk of intrusion 
+and harassment.72
+In John Terry v Persons Unknown [2010], this ‘something more’ was the public interest in exposing the affair 
+the claimant was having with his team-mate’s girlfriend, particularly 
+↵
+when he was seen as a ‘role 
+model’.73 Terry’s counsel argued, relying on an interpretation of Mosley, that private conduct must have been 
+unlawful before it was able to be publicly criticised, but this was rejected.74 In Hutcheson (Formerly Known As 
+‘KGM’) v News Group Newspapers Ltd and others [2011], Gross LJ found that information about chef Gordon 
+Ramsay’s father-in-law and business colleague was publishable ‘in the public interest’ where both family and 
+commercial matters were intertwined. Hutcheson had for years maintained a secret second family—one issue 
+was whether he had inappropriately used Ramsay company money to fund the second family and that this, 
+apparently, was one of the reasons his employment had been terminated.
+In contrast, the Court of Appeal granted anonymity to ‘a well known sportsman’ (at [7]), though not an 
+injunction protecting the disclosure of certain facts about his infidelities (JIH v NGN Ltd [2011]).75 Lord 
+Neuberger, giving the judgment of the court, said:
+65
+66
+p. 468
+67
+68
+69
+70
+71
+72
+p. 469
+73
+74
+75
+16. Invasion of privacy
+Page 23 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+There is obvious force in the contention that the public interest would be better served by 
+publication of the fact that the court has granted an injunction to an anonymous well known 
+sportsman … than by being told it has granted an injunction to an identified person to restrain 
+publication of unspecified information of an allegedly private nature. (at [33])
+In JIH the Court of Appeal was apparently swayed that an injunction granting anonymity would better 
+balance the claimant’s and public’s interests because information was already in the public domain relating 
+to an earlier, similar story about the claimant. Lord Neuberger said that if his identity but not the information 
+was disclosed, the public and the media would easily be able to work out what information the injunction was 
+designed to protect, thus defeating its purpose—it would be a ‘classic, if not very difficult, jigsaw exercise’ (at 
+[40]).
+Pause for reflection
+The Supreme Court has found that the right of freedom of expression in relation to legal proceedings 
+means to be able to report them, providing that the reporting is fair and accurate. From Re Guardian 
+News and Media Ltd [2010], that right includes being able to name those involved rather than simply 
+referring to anonymous people in a disembodied way.76 Lord Rodger said: ‘if newspapers can identify 
+the people concerned they may be able to give a more vivid and compelling account which will 
+stimulate discussion … Concealing identities simply casts a shadow over entire communities’ (at 
+[65]).
+↵
+In CDE v MGN Ltd [2010] Eady J considered a case brought by a married man who ‘often appears 
+on television’ and his wife, seeking to protect their family from the revelation of a ‘virtual’ (i.e. via text 
+message, email, etc) affair he had briefly conducted with another woman (the second defendant in 
+this case—who had been persuaded by a journalist to sell her story to the Sunday Mirror). The 
+claimants had always, it was found, ‘guarded their private lives closely’ and ‘never sought publicity’.77 
+They were granted anonymity, though this was also extended to several individuals not actually party 
+to the case, including the couple’s teenage children, the child of the second defendant and one of the 
+journalists on the defendant newspaper, the second defendant’s solicitor and her ‘publicity advisor’! Is 
+this taking anonymity too far?
+Concealing one or other feature of a case may, however, be more favourable in the interests of ‘open 
+justice’ than the granting of ‘super-injunctions’.78 Surely allowing the press to publish something is 
+preferable to restrictions on publishing anything?79 This was addressed by a committee chaired by 
+Lord Neuberger MR which considered the use of super-injunctions (as well as interim injunctions 
+and anonymity orders) in the wake of concerns expressed in Parliament, the media, the courts and by 
+the public following the Trafigura80 and John Terry super-injunctions.81 It recommended that:
+76
+p. 470
+77 
+78
+79
+80
+81
+16. Invasion of privacy
+Page 24 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+exceptions to the principle of open justice will only be allowed when they are strictly 
+necessary in the interests of justice, and that when allowed they will go no further than is 
+strictly necessary. This should mean that super-injunctions will only be granted in very 
+limited circumstances and, at least normally, for very short periods of time. (p ii)
+Further, any derogations from the principles of open justice would have to be justified by the claimant 
+and it was envisaged that this would be ‘a heavy burden’.82 That said, in February 2017, reports 
+emerged of a new super-injunction, preventing publication of any information which might lead to 
+the identity of the celebrity involved, including their gender and what they are famous for.83 The 
+Sunday Times reported that it had initiated legal proceedings. Nevertheless, the identity of the 
+celebrity concerned was leaked by overseas media outlets.84
+16.4.2  Does the claimant’s interest in maintaining their right to privacy out­
+weigh the defendant’s interest in freedom of expression?
+Once reasonable expectation of privacy is established, the second part of the test asks whether the claimant’s 
+interest in maintaining their right to privacy outweighs the defendant’s interest in freedom of expression (i.e. 
+the ability to publish the information). In Jagger, Bell J said there was ‘no legitimate public interest in further 
+dissemination of the images which could serve only to humiliate the claimant for the prurient interests of 
+others’ (at [14]).85 Similarly, in ABK v KDT and another [2013], in the context of a ‘revenge porn’ harassment 
+claim, the female claimant was granted an injunction in respect of personal photographs and information 
+held (and threatened to be disclosed to friends, family and her employer) by the defendant, with whom she 
+had had an extramarital affair. In AJS v News Group Newspapers Ltd [2017], Nicol J granted an injunction to 
+prevent The Sun newspaper from naming a famous individual (AJS), a witness in a serious police 
+investigation into allegations of a ‘serious criminal offence’ that took place at AJS’s home in February 2017,86 
+finding there to be no public interest in publishing AJS’s private details.
+In ZXC v Bloomberg LP [2020], the Court of Appeal upheld a decision preventing the publication of 
+confidential information obtained from a law enforcement agency investigating the activities of a 
+businessman. Giving judgment for the Court of Appeal, Simon LJ said:
+I would take the opportunity to make clear that those who have simply come under suspicion by an 
+organ of the state have, in general, a reasonable and objectively founded expectation of privacy in 
+relation to that fact and an expressed basis for that suspicion. The suspicion may ultimately be 
+shown to be well-founded or ill-founded, but until that point the law should recognise the human 
+characteristic to assume the worst (that there is no smoke without fire); and to overlook the 
+fundamental legal principle that those who are accused of an offence are deemed to be innocent until 
+they are proven guilty. (at [82])
+82
+83
+84
+p. 471
+85
+86 
+16. Invasion of privacy
+Page 25 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(a)
+(i)
+(ii)
+(b)
+In what proved to be a defining case in this contentious area, an appeal by Bloomberg to the Supreme Court 
+was dismissed.87 This confirms the approach that, as a matter of general principle, investigations by law 
+enforcement agencies may only be reported where there is a proven public interest justification.88
+Essentially this becomes a battle between privacy and freedom of expression: these concepts must be 
+balanced to determine the outcome. The following section explores the way misuse of private information 
+claims have developed, as affected by human rights considerations.
+16.4.3  The Human Rights Act 1998 and European case law
+Lord Irvine (then the Lord Chancellor) said, during parliamentary debate on the Human Rights Bill, that:
+judges are pen-poised regardless of the incorporation of the Convention to develop a right of privacy 
+to be protected by the common law … it will be a better law if the judges develop it after 
+incorporation because they will have regards to Articles 8 and 10, giving Article 10 its due high value 
+… I believe that the true view is that the courts will be able to adapt and develop the existing 
+domestic principles in the laws of trespass, nuisance, copyright, confidence and the like to fashion a 
+common law right to privacy.89
+Human Rights Act 1998, s 12(4)
+The court must have particular regard to the importance of the Convention right to freedom 
+of expression and, where the proceedings relate to material which the respondent claims, or 
+which appears to the court, to be journalistic, literary or artistic material (or to conduct 
+connected with such material), to—
+the extent to which—
+the material has, or is about to, become available to the public; or
+it is, or would be, in the public interest for the material to be published;
+any relevant privacy code.
+Section 12(4) of the HRA requires courts to undertake a balancing exercise when considering the competing 
+rights from Articles 8 and 10 ECHR. Section 12 is, however, headed ‘freedom of expression’ and applies when 
+‘a court is considering whether to grant any relief which, if granted, might affect the exercise of the 
+Convention right to freedom of expression’ (s 12(1)). Clearly, granting someone a remedy for infringement of 
+their privacy (e.g. by the press) may have an effect on freedom of expression. Section 12 appears to prioritise 
+this freedom above the right to privacy, by assigning it special status.90 However, later cases tell us that the 
+two rights are to be treated equally.91
+87
+88
+p. 472
+89
+90
+91
+16. Invasion of privacy
+Page 26 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Section 6(1) of the HRA makes it ‘unlawful for a public authority to act in a way which is incompatible with a 
+Convention right’. Courts and tribunals are ‘public authorities’ (s 6(3)), as is ‘any person certain of whose 
+functions are functions of a public nature’, which may include organisations such as IPSO and Ofcom. 
+Furthermore, section 7 of the HRA allows individuals to bring proceedings in domestic courts against any 
+public authority that has acted in contravention of a Convention right. This means that citizens may claim in 
+domestic courts that their right to private and family life, granted by Article 8(1) ECHR, has been infringed by 
+a public authority or other who falls within the definition in section 6. However, 
+↵
+when proceedings 
+relate to ‘journalistic, literary or artistic material’ (i.e. information about someone’s private life being 
+published in some way),92 section 12 comes into play, and the court must weigh up whether giving relief for 
+the invasion of privacy would unjustifiably impact on freedom of expression.
+Pause for reflection
+In Wainwright Lord Hoffmann, referring to ECtHR jurisprudence, remained unconvinced that a 
+general privacy principle was required. Instead, he said, domestic courts could provide an adequate 
+remedy for invasions of privacy made contrary to Article 8 ECHR. In this context, he described 
+sections 6 and 7 of the HRA as ‘substantial gap fillers’ (at [34]), suggesting that in conjunction with 
+Article 8(1) the job of protecting privacy could be done adequately, without the need to create a free- 
+standing tort.
+He concluded his speech saying that:
+a finding that there was a breach of Article 8 will only demonstrate that there was a gap in 
+the English remedies for invasion of privacy which has since been filled by sections 6 and 7 
+of the 1998 Act. It does not require that the courts should provide an alternative remedy 
+which distorts the principles of the common law. (at [52])
+Lord Hoffmann seems to suggest that invasion of privacy is a harm that has always been recognised 
+—but that the law had not always provided suitable remedies when the harm occurred, and it is this 
+remedial gap that was filled by the HRA. Do you agree? Consider cases decided since the coming into 
+force of the Act—have the decisions become any easier for judges to make? Are they making the right 
+decisions and providing the right remedies for the right claimants?
+Check our pointers <https://iws.oupsupport.com/ebook/access/content/horsey9e-student-  
+resources/horsey9e-chapter-16-pointers-to-pause-for-reflection-and-counterpoint-boxes? 
+options=showName> on how to answer the questions posed in this ‘pause for reflection’.
+p. 473
+92
+16. Invasion of privacy
+Page 27 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+The most notable ECtHR decision in the context of evolving judicial attitudes to privacy came in Von 
+Hannover v Germany [2004]. This judgment was handed down a short time after Campbell and remains 
+influential in determining how judges should balance Article 8 and 10 rights.
+Von Hannover v Germany (App No 59320/00) [2004] EMLR 21 (ECtHR)
+Princess Caroline of Monaco alleged that media intrusions into her daily routine violated her rights 
+under Article 8. Princess Caroline has celebrity status in much of Europe—she is the daughter of the 
+late Prince Rainier III of Monaco and his wife, the late American film actress Grace Kelly, and was the 
+presumptive heir to the throne of Monaco. She claimed that paparazzi photographs of her 
+undertaking daily activities, including some which showed her children, were an invasion of her right 
+to private, home and family life. She had previously claimed in the 
+↵
+German courts, but had failed 
+on the grounds that, as a public figure par excellence, she should expect members of the public to take 
+an interest in her daily life.
+The ECtHR upheld her claim, holding that the key issue when weighing up the rights under Articles 8 
+and 10 was to ask how far the information being published would be in the ‘public interest’, which the 
+judges found was different from what the public might genuinely be interested in. They also 
+distinguished between Princess Caroline’s public functions and private life. Clearly, they said, when 
+performing or attending a public function, there would be a legitimate public interest in pictures of 
+her being published but, when going about her private life, she had a ‘reasonable expectation’ of 
+privacy.93
+Both the Article 8(1) ECHR right to private and family life, home and correspondence and the Article 10(1) 
+ECHR right to freedom of expression are ‘qualified’ rights, meaning that while they must be protected by the 
+state, certain things (listed in Arts 10(2) and 8(2), respectively) are considered legitimate infringements of a 
+person’s exercise of that right. Among other things, Article 10(2) states that the right to freedom of 
+expression may be curtailed in the public interest (e.g. in the interests of national security) or where other, 
+competing, individual rights are at stake (e.g. the right of people to protect their reputations or to prevent the 
+disclosure of information given in confidence). So, at the outset, neither right is absolute. Each right 
+impinges on the other, particularly in the context of claims about media invasions of privacy. The media, as 
+part of a democratic society, has a vital role to play in disseminating information. The question is how far the 
+press can go—especially into someone’s ‘private’ affairs—before they are deemed to have gone ‘too far’.94
+Pause for reflection
+What does ‘private and family life’ encompass? In Niemietz v Germany [1993] the ECtHR deemed it 
+neither ‘possible nor necessary to’ attempt an exhaustive definition (at [29]). The Court added:
+p. 474
+93
+94
+16. Invasion of privacy
+Page 28 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+However, it would be too restrictive to limit the notion to an ‘inner circle’ in which the 
+individual may live his own personal life as he chooses and to exclude therefrom entirely 
+↵
+the outside world not encompassed within that circle. Respect for private life must also 
+comprise to a certain degree the right to establish and develop relationships with other 
+human beings.
+Thus, it seems that one’s ‘inner circle’, at least, may be protected, as well as—to a degree—one’s 
+relationships with others, but each case will be decided on its own facts.
+How far do you think one’s private and family life extends? Is this the same for ordinary citizens and 
+for celebrities? Clearly there is no right or wrong answer to this—people have their own perceptions 
+about how far celebrities open themselves up to invasions of privacy. It is likely that there is a 
+‘spectrum’ of private information: ranging from the very private (e.g. an evening spent at home with 
+one’s young children) to less private (e.g. being seen at a public event). But celebrity lifestyles make 
+for difficult cases. For instance, where on the spectrum would a celebrity’s wedding sit if the kind of 
+measures Michael Douglas and Catherine Zeta-Jones took to try and keep it private were not used? 
+What about Prince Harry and Meghan Markle’s private lives, after the televised interview on Oprah 
+and the publication of Prince Harry’s memoir?95
+Watch our video ‘Why what happens with Harry and Meghan matters’ for a brief history of privacy, 
+royalty and being human.
+Video playback is not supported in this format.
+Video 16: Why what happens with Harry and Meghan matters
+Lord Hoffmann once described freedom of expression as ‘the trump card that always wins’ (R v Central 
+Independent Television plc [1994] at 203). It appears highly unlikely that the statement is true today—if it was 
+then. In a fresh look at the balance of freedom of expression against privacy, in Campbell, he said that there is 
+‘no question of automatic priority. Nor is there a presumption in favour of one rather than the other’ (at [55]). 
+The House of Lords in Re S [2005] found the correct approach when both Article 8 and Article 10 rights are 
+involved to be:
+[f]irst, neither Article as such has precedence over the other. Secondly, where the values under the 
+two Articles are in conflict, an intense focus on the comparative importance of the specific rights 
+being claimed in the individual case is necessary. Thirdly, the justifications for interfering with or 
+restricting each right must be taken into account. Finally, the proportionality test—or ‘ultimate 
+balancing test’—must be applied to each. (Lord Steyn at [17])
+p. 475
+95
+16. Invasion of privacy
+Page 29 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+By 2006, in McKennitt v Ash, it was acknowledged that both Articles 8 and 10 ECHR are ‘now the very content 
+of the domestic tort that the English court must enforce’ (at [11]). In PJS [2016], the Supreme Court restated 
+that neither Article takes precedence—justifications for and the proportionality of interfering with each 
+Article should be considered on the facts. In Ali and another v Channel 5 Broadcast Ltd [2018], for example, 
+though the broadcast complained of highlighted a debate of general public interest,96 this was considered to 
+be 
+↵
+outweighed by the invasion of private life suffered by the claimants.97 Similarly, in Richard v BBC 
+[2018], Mann J found that:
+It does not follow that, because an investigation at a general level was a matter of public interest, the 
+identity of the subject of the investigation also attracted that characterisation. I do not think that it 
+did. Knowing that Sir Cliff was under investigation might be of interest to the gossip-mongers, but 
+it does not contribute materially to the genuine public interest in the existence of police 
+investigations in this area. (at [282])
+The BBC’s interest in freedom of expression was not found to have outweighed the claimant’s right to 
+privacy. This was in part because reporting on allegations against someone in Sir Cliff Richard’s position 
+would cause ‘very serious’ consequences for him, particularly bearing in mind:
+the failure of the public to keep the presumption of innocence in mind at all times [which] means 
+that there is inevitably going to be stigma attached to the revelation, which is magnified in this case 
+by the nature of the allegations against him, which were allegations (especially in the then climate) 
+of extreme seriousness. (at [316])
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-16-4>.
+16.5  Limits to the current protection
+Today, our right to privacy is protected by the tort of misuse of private information underpinned by the Article 8 
+ECHR right to privacy, balanced against competing considerations of freedom of expression from Article 10 
+ECHR. Cases must always entail a careful balancing of these interests, as has been discussed earlier.98 
+However, despite the developments outlined, the limits to the protection that can be offered remain clear. 
+This is particularly evident in non-celebrity, non-publication cases, for example Wainwright and Peck.
+In Wainwright, the claimants sued the Home Office for invasion of their privacy (as well as in trespass to the 
+person),99 following a ‘sloppily’ performed strip-search conducted when visiting a family member in prison. 
+The House of Lords stated categorically that no tort of invasion of privacy exists,100 reiterating the feeling of 
+the time that it was an interest that could, and should, only be protected by using other existing legal 
+mechanisms (as in Kaye). Wainwright failed because there was no question of there being any private 
+information (or photographs) being disclosed: it did not fall into the same category of ‘privacy’ (or 
+96
+p. 476
+97
+98 
+99
+100
+16. Invasion of privacy
+Page 30 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+confidence) that had by then been recognised, even though what happened to Mrs Wainwright 
+↵
+was a 
+clear invasion of her privacy (in terms of personal autonomy) in the commonly understood sense. Note, 
+however, that if prison visitors were treated the same way today, an action would lie directly against the 
+Home Office under the HRA—this was later confirmed by the ECtHR in Wainwright v UK [2006], where 
+violations of Articles 8 and 13 ECHR were found.
+Peck v UK (App No 44647/98) (2003) 36 EHRR 41 (ECtHR)
+Peck was filmed on CCTV in a town centre trying to commit suicide with a knife. The police detained 
+him under the Mental Health Act. He was later released. His claim arose after the CCTV footage of him 
+was used by the local authority and passed to TV and newspapers to demonstrate the effectiveness of 
+the CCTV system. Although his face was somewhat obscured when the images of him were published, 
+people who knew him could recognise him, and he alleged this infringed his right to privacy. He 
+complained to the predecessor of Ofcom and to the local authority but his claims were dismissed. He 
+then took his case to the ECtHR alleging breaches of his Article 8 and 13 rights.101 The government 
+relied on the fact that the information had lost any characteristic of confidentiality as it was already in 
+the public domain—that is, Mr Peck’s actions were committed in public.
+The ECtHR found that Article 8 had been violated as, although his actions were in a public place, 
+showing him on TV and in newspapers was not the same as him being seen by passers-by. The 
+relevant moment was judged to have been ‘viewed to an extent which far exceeded any exposure to a 
+passer-by or security observation’ (at [53]). Consequently, as no remedy had been provided in UK law, 
+there was also a breach of Article 13.102
+Thus, it appears that even where breach of confidence or misuse of private information is an inadequate 
+means of providing a remedy for invasion of privacy, a human rights claim may still be fruitful.
+Counterpoint
+It is arguable that a gendered issue exists in the developed domestic law relating to privacy. While it 
+has become apparent that a perceived ‘harm’ will attract judicial protection under what can loosely be 
+termed Article 8 principles—in that privacy appears to override freedom of expression when to invade 
+the private sphere would or could cause ‘harm’ in some way (e.g. a set-back in drug rehabilitation or 
+health (Campbell), right to life issues (Venables; Peck), breach of a contractual obligation (Douglas), 
+concern for children (Bell; Murray))—these are all harms that the law might find it fairly easy to 
+recognise and, as such, deem ‘deserving’ of protection.
+p. 477
+101
+102
+16. Invasion of privacy
+Page 31 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+1
+2
+↵
+But when the claimant’s harm becomes less tangible, such as the mere ‘distress’ suffered by Mrs 
+Wainwright, the sympathetic application of Article 8 by the domestic courts seems to greatly 
+diminish.103 As with other areas of tort law, who is protected turns on what is understood as ‘harm’104: 
+‘[p]erceptions of harm are closely linked to law, and legal recognition—in the form of a right to 
+redress—is a key signifier that harm has been incurred’.105 Moreover, judicial reluctance to widen the 
+scope of the nascent privacy laws—to include privacy-related harms such as those suffered by Mrs 
+Wainwright—may well have gender implications, as restrictions are placed on recovery in relation to 
+harms which (historically at least) tend to be associated with (although, of course, not exclusively 
+suffered by) women (especially mothers).106
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-16-5>.
+16.6  Conclusion
+As we have seen, there was a long-standing reluctance on the part of both Parliament and the judiciary to 
+create a specific tort of invasion of privacy. Early cases had to be moulded into legal actions that did not 
+necessarily fit and, it seems, could offer little protection even when they did (Kaye). Largely, the problems 
+stemmed from difficulty in defining (or unwillingness to define) what the right to protect one’s privacy 
+would encapsulate.
+However, cases such as Douglas and Campbell shaped the (equitable) principle of breach of confidence into a 
+tort of misuse of private information (as confirmed in Google Inc v Vidal-Hall and others [2015]). To establish 
+the tort, a claimant must establish that they had a legitimate expectation of privacy and this must be balanced 
+against the defendant’s interests. This brings into sharp focus (and in fact the development of the law has 
+been shaped by) human rights considerations. A right to private life is enshrined in the ECHR and by the HRA 
+in domestic law. However, rights must be balanced against competing rights and here the right to freedom of 
+expression becomes important (HRA, s 12(4)). Each must be weighed against the other, according to the facts 
+of each case.
+End-of-chapter questions
+After reading the chapter carefully, try answering the questions which follow.
+Why do you think the judiciary and various governments in the UK have been so reluctant to formulate a 
+specific law relating to the invasion of privacy?
+p. 478
+103
+104
+105
+106
+16. Invasion of privacy
+Page 32 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+3
+→
+→
+→
+→
+→
+Look at the cases that revolve around invasions of privacy (e.g. Von Hannover, Douglas, Campbell, Murray, 
+Mosley, Richard, Duchess of Sussex). How many of the claimants in these cases really had a ‘reasonable 
+expectation of privacy’ in respect of the information they did not want to be in the press? Can you define ‘a 
+reasonable expectation of privacy’ any more easily than ‘privacy’?
+What harm(s) does the law find should be recognised as invasion of privacy? Is there any common element 
+among the successful cases?
+If you would like to know what we think, check the answer guidance <https://iws.oupsupport.com/ebook/  
+access/content/horsey9e-student-resources/horsey9e-chapter-16-answers-to-end-of-chapter-questions? 
+options=showName>.
+Answering the problem question
+Consider again the problem question at the start of this chapter. Now having read about the topic, what 
+would be your advice to Elizabeth and Alessandro?
+Here are some pointers to get you started:
+E will want to claim against the photographer for the invasive photographs (perhaps also on behalf of her 
+sister and niece). Following Campbell, the first issue is whether she (and the others) can be said to have had a 
+reasonable expectation of privacy in that situation. There is much case law (including Campbell itself) that 
+can be used in the analysis. It may be different for E and for the children (Murray; Weller). If there is a 
+reasonable expectation of privacy then her interest in keeping the information private (derived from Art 8 
+ECHR) must be weighed against any potential public interest in publication (derived from Art 10 ECHR).
+E and A will want to claim against Peachy! The situation is similar but not the same as that in Douglas v 
+Hello! The question is still whether there was a reasonable expectation of privacy—this was demonstrated in 
+Douglas. But would it be here?
+A may want to seek an injunction to prevent publication of the story about his alleged affair. The purpose 
+of injunctions must be considered against the implications for freedom of speech. Many cases are similar and 
+relevant (particularly in the context of private sexual relationships) and should be analysed to come to a 
+conclusion on whether or not an injunction would be justified.
+If you need some more guidance:
+See the annotated version of the problem with issues and cases to consider <https://  
+iws.oupsupport.com/embed/access/content/horsey9e-student-resources/horsey9e-chapter-16-annotated- 
+problem-question-interactive>.
+p. 479
+16. Invasion of privacy
+Page 33 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Check your answer against the suggested outline answer <https://iws.oupsupport.com/embed/access/  
+content/horsey9e-student-resources/horsey9e-chapter-16-answers-to-problem-question>.
+Further reading
+Much has been written on the subject of privacy in recent years, many articles focusing on a particular case or cases. A 
+good place to start is with some of the general comment pieces, such as by Aplin or McLean, or with Bennett’s 
+theoretical explorations of ‘horizontal privacy’ post-Campbell. Hargreaves writes an interesting article focusing on 
+relational harm in the privacy context. Phillipson and Craig bring us right up to date analysing the controversial case of 
+ZXC v Bloomberg. Unfortunately, as the law in this area moves so fast, some of the writing, even the more recent 
+articles, may need updating!
+↵
+Aplin, Tanya ‘The Development of the Action for Breach of Confidence in a Post-HRA Era’ [2007] Intellectual Property 
+Quarterly 19
+Bennett, Thomas ‘Corrective Justice and Horizontal Privacy: A Leaf out of Wright J’s Book’ (2010) 7 The Journal 
+Jurisprudence 545
+Bennett, Thomas ‘Horizontality’s New Horizons—Re-Examining Horizontal Effect: Privacy, Defamation and the Human 
+Rights Act: Part 1’ (2010) 21 Entertainment Law Review 96
+Bennett, Thomas ‘Horizontality’s New Horizons—Re-Examining Horizontal Effect: Privacy, Defamation and the Human 
+Rights Act: Part 2’ (2010) 21 Entertainment Law Review 145
+Eady, Mr Justice, Speech at University of Hertfordshire, 10 November 2009 (available from Judiciary of England and 
+Wales website)
+Hargreaves, Stuart ‘“Relational Privacy” and Tort’ (2017) 23 William & Mary Journal of Women and the Law 433
+Martin, Steve, ‘Mud Sticks: Publication of Information About Pre-Charge Criminal Investigations and the Tort of Misuse 
+of Private Information’ [2022] Cambridge Law Journal 232
+McLean, Angus and Claire Mackey ‘Is there a Law of Privacy in the UK? A Consideration of Recent Legal 
+Developments’ (2007) 29 European Intellectual Property Review 389
+Moreham, Nicole ‘Privacy in Public Places’ [2006] Cambridge Law Journal 606
+Moreham, Nicole ‘Unpacking the Reasonable Expectation of Privacy Test’ (2018) 134 Law Quarterly Review 651
+Moreham, Nicole ‘Privacy and Police Investigations: ZXC v Bloomberg’ [2021] Cambridge Law Journal 5
+Morgan, Jonathan ‘Privacy in the House of Lords, Again’ (2004) 120 Law Quarterly Review 563
+Neuberger, Lord PSC ‘“What’s in a name?”—Privacy and anonymous speech on the Internet’ Conference 5RB Keynote 
+speech, 30 September 2014
+p. 480
+16. Invasion of privacy
+Page 34 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Phillipson, Gavin and Robert, Craig ‘Privacy, Reputation and Anonymity Until Charge’ (2022) 13 Journal of Media Law 
+153
+Richardson, Janice ‘If I Cannot Have Her Everybody Can: Sexual Disclosure and Privacy Law’ in Janice Richardson and 
+Erika Rackley (eds) Feminist Perspectives on Tort Law (Routledge 2012) 145–62
+Schreiber, Arye ‘Confidence, Crisis, Privacy Phobia: Why Invasion of Privacy Should Be Independently Recognised in 
+English Law’ [2006] 2 Intellectual Property Quarterly 160
+Additional suggestions for further reading can be found in this chapter’s web links <https://iws.oupsupport.com/  
+ebook/access/content/horsey9e-student-resources/horsey9e-chapter-16-web-links?options=showName>.
+Notes
+ 
+1. See BBC News ‘Prince Harry to be paid “substantial damages” by Sun owner as it apologises for “serious intrusion”’ 
+22 January 2025; Jonathan Coad ‘Prince Harry vs News UK: who won?’ Inforrm’s blog 28 January 2025; HRH The 
+Duchess of Sussex v Associated Newspapers Ltd [2021]; The Duke of Sussex and others v MGN Ltd [2023].
+ 
+2. However, none of these protects an individual’s privacy per se and all are limited in the protection offered. E.g. 
+despite protectionist in-roads made in Khorasandjian v Bush [1993], since Hunter v Canary Wharf [1997] individuals 
+require a proprietary interest in land to claim in private nuisance (section 18.3.2). Similarly, for recovery under the 
+1997 Act, there must be a ‘course of conduct’ that amounts to harassment (section 15.6.2).
+ 
+3. Vidal-Hall and others v Google Inc [2014].
+ 
+4. The complete text of the Bills is available in the appendix of the Younger Report.
+ 
+5. Report of the Committee on Privacy, Chairman: Kenneth Younger (Cmnd 5012, 1972).
+ 
+6. (Third) Royal Commission on the Press (Cmnd 6810, July 1977).
+ 
+7. Bill on Protection of Privacy and Right of Reply introduced by John Browne MP and Tony Worthington MP.
+ 
+8. Committee on Privacy and Related Matters Report of the Committee on Privacy and Related Matters, Chairman: David 
+Calcutt (Cm 1102, June 1990).
+ 
+9. Privacy and Media Intrusion (Cm 2918, July 1995).
+ 
+10. This was rejected by the government at the time (Privacy and Media Intrusion: Replies to the Committee’s Fifth 
+Report 2002–2003, First Special Report (HC 213, February 2004)).
+ 
+11. Culture, Media and Sport Committee ‘Self Regulation of the Press’ Seventh Report of Session 2006–2007 (HC 375, 
+July 2007) [53].
+ 
+12. Thomas Cooley Cooley on Torts (2nd edn 1888) 29; SD Warren and LD Brandeis ‘The Right to Privacy’ (1890) 4 
+Harvard Law Review 193, 205.
+ 
+13. Percy H Winfield ‘Privacy’ (1931) 47 Law Quarterly Review 23.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+16. Invasion of privacy
+Page 35 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+14. William L Prosser ‘Privacy’ (1960) 48 California Law Review 383, 389. See Fenty and others v Arcadia Group Brands 
+Ltd and others [2015]—otherwise known as Rihanna v Topshop—where the singer successfully sued the retailer for 
+unauthorised use of her image on a vest top.
+ 
+15. See e.g. the US Restatement (Second) of Torts (2010), especially s 652B.
+ 
+16. See Lisa O’Carroll and Caroline Davies ‘William and Kate win French injunction over topless photos’ The Guardian 18 
+September 2012.
+ 
+17. Interestingly, other common law jurisdictions do not seem to have the same problem. The Ontario Court of Appeal 
+recognised a common law tort of invasion of privacy in Jones v Tsige [2012]. Other Canadian provinces have statutory 
+privacy torts. In Doe 464533 v ND [2016], the Ontario Superior Court of Justice recognised a tort of ‘publication of 
+embarrassing private facts’. In New Zealand, the tort was recognised in Hosking v Runting [2004] as was a further tort 
+of ‘intrusion on seclusion’ in C v Holland [2012].
+ 
+18. At 10.
+ 
+19. At [54].
+ 
+20. The PCC operated an Editors’ Code of Practice addressing invasions of privacy (clause 3), including, e.g. guidance 
+restricting the use of long-range lenses and in relation to people grieving, children and people in hospital.
+ 
+21. Sara Cox v MGN Ltd [2003].
+ 
+22. Lord Justice Leveson, Report into the Culture, Practices and Ethics of the Press (2012). See especially from p 219 (and 
+in the Executive Summary from p 12).
+ 
+23. This was Part 1 of the Leveson Inquiry—Part 2, also requested by David Cameron, cannot begin until criminal 
+proceedings stemming from Part 1 are concluded. From November 2016 to January 2017 the Department for Culture, 
+Media & Sport and the Home Office opened a new consultation asking in part ‘whether it is still appropriate, 
+proportionate and in the public interest’ to go ahead with Part 2. In March 2018, the government controversially 
+confirmed that Part 2 of the Inquiry would not go ahead.
+ 
+24. See e.g. Patrick Wintour and Dan Sabbagh ‘Leveson Report: David Cameron refuses to “cross Rubicon” and write 
+press law’ The Guardian 29 November 2012; Lisa O’Carroll ‘Leveson debate prompts criticism over “draconian” 
+punitive damages plan’ The Guardian 11 January 2013.
+ 
+25. Department for Culture, Media and Sport ‘Leveson Report: Final draft Royal Charter for proposed body to recognise 
+press industry self-regulator’ (Policy paper) 11 October 2013. See also Patrick Wintour ‘Press regulation: a back- 
+channel deal sealed with a 3am text message’ The Guardian 18 March 2013; Patrick Wintour, Lisa O’Carroll and 
+Nicholas Watt ‘Press regulation: newspapers bridle at “historic” deal’ The Guardian 19 March 2013.
+ 
+26. Royal Charter, art 2.2.
+ 
+27. e.g. in September 2016 it upheld a breach of privacy complaint from the Duchess of Cambridge (now Princess of 
+Wales) after she objected to online publications about herself and Prince George (Press Association ‘Duchess of 
+Cambridge has privacy breach complaints upheld’ The Guardian 15 September 2016).
+ 
+28. Ofcom, the independent regulator for the UK communications industries—with responsibilities across television, 
+radio, telecommunications and wireless communications services—has similar powers in that it can issue fines and 
+withdraw licences from repeat offenders. One principal duty, established under statute (Communications Act 2003), is 
+maintaining ‘adequate protection for audiences against unfairness or the infringement of privacy’.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+16. Invasion of privacy
+Page 36 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+29. IMPRESS was recognised by the Press Recognition Panel in 2016.
+ 
+30. Note that unless or until the government decides to implement s 40 of the Crime and Courts Act 2013, there is no 
+sanction for publishers who do not sign up as members of a formally recognised regulator.
+ 
+31. IMPRESS has more guidance on the use of social media by journalists than IPSO. An interesting take on this is the 
+use of social media as a source of information, especially by regional publications. See e.g. Hold the Front Page ‘Law 
+Column: IPSO and the use of social media as a source’ 31 January 2017. Two courts in Northern Ireland have given 
+potentially significant judgments on the civil liability of social media companies for content posted by users: see J20 v 
+Facebook Ireland [2016] and CG v Facebook Ireland & McCloskey [2015]. However, a data protection/misuse of private 
+information claim brought by a child claimant against social media platform TikTok, which passed the first procedural 
+hurdles (SMO v TikTok Inc and others [2022]) has since been discontinued.
+ 
+32. See Kerry Ingredients (UK) Ltd v Bakkavor Group Ltd and others [2016], concerning the recipes for flavour-infused 
+cooking oils. Cf Wade & Perry v British Sky Broadcasting Ltd [2016] where the Court of Appeal found that Sky did not 
+misuse confidential information in commissioning a music talent show with multiple similarities to one pitched to it 
+previously by the claimants. See also Brevan Howard Asset Management LLP v Reuters Ltd and another [2017] where 
+the Court of Appeal upheld the confidential nature of information provided to potential hedge fund investors.
+ 
+33. See also British Broadcasting Corporation & Eight Other Media Organisations, R (on the application of) v F & D [2016], 
+regarding anonymity of the teenage girls who murdered Angela Wrightson and a clampdown on social media 
+reporting of the trial (by news agencies and members of the public). In December 2016, two brothers who tortured 
+three other children in South Yorkshire (when they were aged only 10 and 11) were granted lifelong anonymity, also 
+for their own protection (see BBC News ‘Edlington boy torturers granted anonymity’ 9 December 2016 and A & B v 
+Persons Unknown [2016]).
+ 
+34. See, in respect of criminal penalties that can be applied for violation of the injunction, ‘Two narrowly avoid jail after 
+sharing “photos of James Bulger killer” online’ The Telegraph 31 January 2019. In 2019, an application to vary the 
+confidentiality order from 2001 (preventing Venables’ identification) was refused by Sir Andrew MacFarlane, President 
+of the Family Division, on the grounds that Venables’ Arts 2 and 3 rights outweighed the applicant’s Arts 8 and 10 
+rights: Venables and another v News Group Papers Ltd and others [2019].
+ 
+35. Persons formerly known as Winch and others (application for contra mundum injunction) [2021].
+ 
+36. See further discussion of ‘responsible publication on a matter of public interest’ in the context of defamation 
+(section 17.6.3).
+ 
+37. See Robert Mendick ‘Sir Philip Green backs down: the inside story of the court case that never was’ 8 February 2019; 
+Arcadia Group Ltd and others v Telegraph Media Group Ltd [2019].
+ 
+38. Similar issues arise in relation to defamation claims—see section 17.3 and the Pause for reflection box there.
+ 
+39. Claire Newell ‘The British #MeToo scandal which cannot be revealed’ The Telegraph 25 October 2018.
+ 
+40. Richard Moorhead, ‘New York, London, Paris,* Munich,. [sic] Everyone’s talking about … Linklaters’ LawyerWatch 6 
+February 2019.
+ 
+41. Though, ironically perhaps, the ECtHR ruled that the Daily Mirror’s right to freedom of expression was violated by 
+having to pay the £1 million legal costs (partly lawyers’ ‘success fees’) when it lost the original case (MGN Ltd v UK 
+[2011]). Similar arguments have arisen in other cases considering Conditional Fee Agreements (CFAs) and After the 
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+16. Invasion of privacy
+Page 37 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Event (ATE) insurance (see Chapter 21). In 8 Representative Claimants and others v MGN Ltd [2016] (The Mirror ‘phone 
+hacking’ case), Mann J found that the regime permitting the recovery of the additional liabilities was compatible with 
+Art 10 ECHR (see also Miller v Associated Newspapers [2016]). Both defendants were granted ‘leapfrog’ permission to 
+appeal so that the issues could be considered by the Supreme Court alongside the appeal of Flood v Times Newspapers 
+[2014] (considering whether having to pay the entire costs of the other side, including success fees and ATE premiums 
+arising from a CFA (amounting to nearly £1.7 million, before interest), in a libel case in which it was partly successful, 
+violated the defendant’s Arts 6 and 10 rights). In April 2017, the Supreme Court unanimously dismissed all three 
+appeals (Times Newspapers Ltd and others v Flood and others [2017]).
+ 
+42. Arden LJ (at [12]). What defeated OPO’s claim on this point was that the information to be published, though it 
+would potentially affect him, was not about him (at [45]). A Supreme Court decision ultimately allowed full publication 
+of the book (Rhodes v OPO (by his litigation friend BHM) and another [2015]; see further section 15.6.1).
+ 
+43. This ‘two-stage test’ was recently explicitly confirmed by the Supreme Court in Bloomberg LP (Appellant) v ZXC 
+(Respondent) [2022].
+ 
+44. See also e.g. Loreena McKennitt v Niema Ash [2006]; HRH Prince of Wales v Associated Newspapers Ltd [2008]. An 
+interesting issue may arise in relation to this in the context of ‘deadnaming’—see Izzy Lyons ‘Transgender lawyer 
+launches UK’s first “deadnaming” case against Father Ted writer Graham Linehan’ The Telegraph 7 October 2018.
+ 
+45. This is similar to, yet different from, the formulation in the US Second Restatement of Torts and the Australian case 
+of Australian Broadcasting Commission v Lenah Game Meats [2001]: that disclosure must be ‘highly offensive to the 
+reasonable person’ (Gleeson CJ at [42]). In Campbell, Lord Nicholls said that the phrase ‘highly offensive’ should not 
+be relied on as it suggested a stricter test than ‘reasonable expectation of privacy’ and ‘could be a recipe for 
+confusion’ (at [22]).
+ 
+46. It also seems that the identity of a secret blogger is not obviously private, particularly when the blog in question 
+criticised the internal workings of the police force from an insider’s perspective: see Author of a Blog v Times 
+Newspapers Ltd [2009].
+ 
+47. Would this be the case for the pop singer, in the scenarios outlined at the beginning of this chapter? If so, would her 
+right to privacy outweigh the newspaper’s freedom of expression? Would this depend on anything she had said/done 
+in relation to eating disorders before?
+ 
+48. See also James Gant ‘Channel 5 pays “substantial” damages to woman who appeared on “Can’t Pay? We’ll Take it 
+Away” after she took legal action over “misuse of private information” when she was filmed in row over unpaid 
+parking fine’ Mail Online, 16 November 2021.
+ 
+49. Brake v Guy and others [2022].
+ 
+50. Though in that case the application for an injunction to prevent the photographs in question being republished was 
+denied.
+ 
+51. ERY v Associated Newspapers Ltd [2016]. See also WFZ v British Broadcasting Corporation [2023].
+ 
+52. See also NT1 & NT2 v Google LLC [2018].
+ 
+53. News of the World ‘F1 boss has sick Nazi orgy with 5 hookers’ 30 March 2008. Mosley sued for both aggravated 
+(punitive) and compensatory damages (see section 21.2) but was awarded only compensatory damages, plus costs. 
+The award was £60,000, reported to be over three times higher than the previous highest privacy award (though note 
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+16. Invasion of privacy
+Page 38 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+that the BBC reported that the same judge awarded Hugh Grant, Liz Hurley and Arun Nayar £58,000 in May 2008 in a 
+case concerning long-range photographs of them on a private beach (BBC News ‘Grant and Hurley Win Privacy Payout’ 
+17 May 2008)). These awards—thought to mark the ceiling of what may be awarded in privacy claims—were overtaken 
+in Gulati and others v MGN [2016] where significant payments ranging from £72,500 to £260,250 were ordered following 
+the serious and repeated criminal invasions of privacy in the ‘celebrity’ phone-hacking cases. Now, the highest award 
+seems to have been made to Sir Cliff Richard, who was awarded £210,000 general and aggravated damages, plus an 
+amount for special damages (see Chapter 21) to be later determined (Richard v BBC and another [2018]). South 
+Yorkshire Police, the second defendant in the case, had already settled the case for £400,000 plus costs in 2017. Prince 
+Harry, one of several claimants against Mirror Group Newspapers, was awarded £140,600 in part of his ongoing 
+campaign against the tabloid press (The Duke of Sussex and others v MGN Ltd [2023]), though also in January 2025 he 
+achieved an apology and settlement said to amount to around £10 million from News Group Newspapers for ‘serious 
+intrusion’ into his private life (including obtaining information by unlawful means). In contrast, an award of just £5,000 
+was ordered in Burrell v Clifford [2016]. The case illustrates potential issues about access to justice and the fact that 
+claimants with ‘low value’ claims would find it hard to take cases if normal costs rules were not followed.
+ 
+54. See also Contostavlos v Mendahun [2012].
+ 
+55. In 2008, Mosley asked the ECtHR to uphold a right to prior notification—that is, for the government to pass a law 
+obliging newspapers, etc to warn people in advance when intimate or sexual details were about to be published. His 
+claim was rejected (Mosley v UK [2011] at [119]), though he was unwilling to concede defeat. In Mosley v Google [2015], 
+he defeated Google’s arguments that his claim under the Data Protection Act should be struck out, meaning that 
+Google must block images of the original photographs via its search engine. The case was later settled out of court.
+ 
+56. Also confirmed by the Supreme Court in PJS [2016] and reiterated in XLD v KZL [2020], BVG v LAR [2020], JRV & ARC v 
+BRG [2023] and WFZ v British Broadcasting Corporation [2023].
+ 
+57. However, publication of photographs depicting the event was prohibited. See also A v B plc [2002]; BBC v 
+HarperCollins Publishers Ltd and another [2010]; Trimingham v Associated Newspapers Ltd [2012]; AAA v Associated 
+Newspapers Ltd [2013].
+ 
+58. Rocknroll v News Group Newspapers Ltd [2013]. See also Reid v Price [2020], where some of the information about 
+the claimant’s sexual conduct that he successfully sued the defendant—Katie Price—for disclosing was already 
+publicly known.
+ 
+59. This had earlier persuaded the Court of Appeal to overturn the injunction (see [47]) and Lord Toulson in dissent. In 
+PJS v News Group Newspapers Ltd [2016], the High Court approved an agreed final order in the action. See further 
+Tommy Chen ‘PJS and the Tort of Misuse of Private Information’ (2016) 11 Journal of Intellectual Property Law and 
+Practice 892.
+ 
+60. The IPSO Editors’ Code should be remembered in this context—clause 6 applies to children specifically—part (v) 
+states that ‘editors must not use the fame, notoriety or position of a parent or guardian as sole justification for 
+publishing details of a child’s private life’. The ‘public interest’ section of the Code (discussed at section 16.3.1) may 
+apply however, though para 5 states that in ‘cases involving children under 16, editors must demonstrate an 
+exceptional public interest to over-ride the normally paramount interests of the child’.
+ 
+61. See also Rocknroll v News Group Newspapers Ltd [2013]. However, the determinant factor from von Hannover is 
+always ‘the contribution the published information will make to a debate of general interest’ (Ward LJ at [23]). See 
+also Tugendhat J in Spelman v Express Newspapers [2012] (from [55]).
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+61.
+16. Invasion of privacy
+Page 39 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+62. In March 2016, the defendants in Weller were refused leave to appeal the decision to the Supreme Court. What 
+would be the issues and likely outcome of a claim by the TV newsreader in the scenario described at the beginning of 
+the chapter?
+ 
+63. See especially Lord Mance at [35]–[37] and Lady Hale’s judgment from [72]. See also Ali and another v Channel 5 
+Broadcast Ltd [2018] (at [152]).
+ 
+64. See e.g. Bull v Desporte [2019].
+ 
+65. Though see the successful claim in Wood v Chief of Police for the Metropolis [2009], where the Court of Appeal ruled 
+that the retention of photographs taken of the claimant (an arms trade protestor) by the police was a violation of his 
+Art 8 right.
+ 
+66. cf Khuja (formerly known as PNM) v Times Newspapers Ltd [2017].
+ 
+67. Also see Rocknroll v News Group Newspapers Ltd [2013]. Contrast AAA v Associated Newspapers [2013].
+ 
+68. Conversely, the iniquitous behaviour of the defendant in NNN v D1 and another [2014] (blackmail) may have been 
+one of the reasons for granting an injunction and anonymity to the claimant. It certainly was in LJY v Persons Unknown 
+[2017] (see Warby J at [2]), where a threat was made against a well-known person ‘in the entertainment business’ that 
+information about an alleged historic offence would be disclosed to the authorities and the press, as well as in NPV v 
+QEL and another [2018] in relation to ‘a successful businessman’. In LJY, Warby J explained that ‘The blackmail 
+element strengthens the claim. Such conduct considerably reduces the weight attached [or] to be attached to any 
+freedom of expression argument and correspondingly increases the weight of the arguments in favour of restraining 
+publication’ (at [26]).
+ 
+69. Compare A v B plc [2003], a case relating to disclosure of information about Premiership footballer Garry Flitcroft’s 
+extramarital affairs. Allowing publication in ‘the public interest’, the Court of Appeal seemed keen to stress that the 
+protection afforded to information about sexual behaviour in ‘transient relationships’ should not be as great as that 
+afforded to that within marriage (see e.g. Lord Woolf CJ at [11] and [43]). How might this impact on the Olympic 
+medallist in the scenarios at the beginning of the chapter? Also consider Trimingham v Associated Newspapers Ltd 
+[2012] and AAA v Associated Newspapers Ltd [2013].
+ 
+70. Injunctions not only granting anonymity but also prohibiting publication of information about the very existence of 
+legal proceedings.
+ 
+71. See e.g. AVB v TDD [2014] and JRV & ARC v BRG [2023]. Though note, however, that the fact that details of a sexual 
+relationship are generally considered private does not necessarily mean that the ‘bare fact’ of the existence of a sexual 
+relationship is: see e.g. Ntuli v Donald [2010], Goodwin v NGN Ltd [2011]; or vice versa (details can be published but 
+anonymity granted): see e.g. JIH v NGN Ltd [2011]. Injunctions preventing the press from naming an individual may 
+also be maintained even after that individual has been named elsewhere (in one case, in Parliament and many 
+internet/social media sites): CTB v NGN Ltd and another [2011] (later Giggs (formerly known as CTB) v NGN Ltd and 
+another [2012]). In AAA v Rakoff [2019], anonymity orders were refused to nine dancers at Spearmint Rhino’s ‘sexual 
+entertainment venues’ among comments that anonymity should not be seen by claimants as an inevitability.
+ 
+72. CTB v NGN Ltd and another [2011].
+ 
+73. This was perhaps compounded by the fact that he was the captain of the England football team and the exposure of 
+his wrongdoing came in the run-up to the 2010 World Cup. Similarly, in finding nothing to substantiate Terry’s 
+application for a super-injunction, the court appeared influenced by the claimant’s desire (or that of his agent) to 
+62.
+63.
+64.
+65.
+66.
+67.
+68.
+69.
+70.
+71.
+72.
+73.
+16. Invasion of privacy
+Page 40 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+protect his commercial interests. See Sam Jones ‘John Terry case sparks government concern over super-injunctions’ 
+The Guardian 31 January 2010. See also Ferdinand v MGN Ltd (Rev 2) [2011] for similar issues raised regarding the 
+player who succeeded John Terry to the England captaincy and McClaren v News Group Newspapers Ltd [2012] in 
+relation to the former England manager.
+ 
+74. Tugendhat J at [100].
+ 
+75. The anonymity order was granted despite indications that some of the information about the claimant’s affairs was 
+already in the public domain. This seems contrary to some earlier cases, notably Theakston [2002].
+ 
+76. Note that this was in the context of preserving the anonymity or otherwise of three brothers subject to freezing 
+orders in connection with terrorism allegations. See also R (Mohamed) v Foreign Secretary (No 2) [2010], Graiseley 
+Properties Ltd and others v Barclays Bank plc and others [2013], and PNM v Times Newspapers Ltd and others [2014].
+ 
+77. At [4].
+ 
+78. In a slightly different but related context, in January 2017, a seven-member Supreme Court heard an appeal against 
+PNM v Times Newspapers [2014], an important case considering the basis of the open justice principle in the context of 
+whether information that was mentioned in open court (concerning a person who was arrested in relation to 
+grooming offences but not charged) could be reported. A 5:2 majority dismissed the appeal from the refusal of 
+Tugendhat J and the Court of Appeal to grant an injunction to prevent his name being disclosed. The man was named 
+and the case became Khuja (formerly known as PNM) v Times Newspapers [2017].
+ 
+79. e.g. in January 2017, The Times reported that it was subjected to a gagging order pursued by Ryan Giggs in relation 
+to the terms and financial aspects of his divorce.
+ 
+80. RJW & SJW v The Guardian Newspaper & Person or Persons Unknown [2009].
+ 
+81. Lord Neuberger MR ‘Report of the Committee on Super-Injunctions: Super-Injunctions, Anonymised Injunctions and 
+Open Justice’, May 2011. Interestingly, the report confirmed that from the beginning of 2010 until the date of 
+publication, there had only been two super-injunctions, one lasting only for one week (DFT v TFD [2010]) and the other 
+overturned on appeal (Ntuli v Donald [2010]). Now see AVB v TDD [2014].
+ 
+82. As an indication of the number of cases we are talking about, there were 41 privacy claims in the Media and 
+Communications list of the Queen’s Bench Division (as it then was) in 2020 (11 per cent of the total list), according to 
+Inforrm (Inforrm ‘Media and Communications List: Analysis of Claims Issued in 2020’ 2 January 2021).
+ 
+83. Mail on Sunday ‘The return of the “super injunction”: Celebrity gags press from reporting story on their “personal 
+and professional life”’ 5 February 2017.
+ 
+84. The Guardian ‘Publication of hacked David Beckham emails renders injunction worthless’ 6 February 2017.
+ 
+85. See also Ali and another v Channel 5 Broadcast Ltd [2018] where Arnold J referred to the televised footage as 
+‘voyeuristic’ in nature (at [215]).
+ 
+86. Reported in the Sun on Sunday on 12 March 2017 under the headline ‘Judge gags press’. No public judgment has 
+ever been handed down and the only details are those from the newspaper, which had been allowed to report on the 
+anonymised proceedings.
+ 
+87. Bloomberg LP (Appellant) v ZXC (Respondent) [2022].
+74.
+75.
+76.
+77.
+78.
+79.
+80.
+81.
+82.
+83.
+84.
+85.
+86.
+87.
+16. Invasion of privacy
+Page 41 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+88. Not everyone agrees that this is the correct approach—see Nicole Moreham ‘Why police investigations should not 
+be regarded as private, Part 1’ Inforrm’s blog 18 February 2020.
+ 
+89. HL Deb, 24 November 1997, vol 583, col 784.
+ 
+90. It is notable, e.g. that freedom of expression and ‘freedom of thought, conscience and religion’ are the only 
+Convention rights given this express treatment under the HRA—i.e. only these rights are singled out as deserving 
+special attention by the courts.
+ 
+91. Confirmed in Re S [2005] and reiterated by the Supreme Court in PJS [2016] at [19]–[20], [51] and [65].
+ 
+92. Exceptions include Malone v Commissioner of Police for the Metropolis (No 2) [1979], which concerned phone tapping 
+by the police, and Wainwright, concerning an intimate strip-search of visitors to a prison.
+ 
+93. Compare the ECtHR decision in von Hannover v Germany (No 2) [2012], in which Princess Caroline attempted to 
+prevent the continued use of the same pictures. This time, with a different understanding of the claimant as a ‘public 
+figure’ rather than a ‘private individual’, the Court found no violation of Art 8 and that publication of the pictures 
+alongside the article in question contributed to a debate of public interest. A similar conclusion was reached in von 
+Hannover v Germany (No 3) [2013]. Also see Lillo-Stenberg and Sæther v Norway [2014] and Hájovský v Slovakia [2021].
+ 
+94. This was essentially the question for the law lords in Campbell. It has become even more apposite in light of press 
+scandals and the increase in social media forums, blogging etc in recent years. An interesting example of where the 
+press was deemed not to have gone ‘too far’ is in the privacy/harassment claim brought by Carina Trimingham (lover 
+of married former MP Chris Huhne), who was herself formerly in a civil partnership: Trimingham v Associated 
+Newspapers Ltd [2012]. In February 2013, following the conviction of Huhne for perverting the course of justice, 
+Trimingham withdrew her appeal against this decision. See also Abbey v Gilligan and others [2012].
+ 
+95. Note that in February 2021, just weeks before the Oprah interview was televised, the Duchess of Sussex succeeded 
+in her claim for misuse of private information with respect to a series of newspaper articles reproducing parts of a 
+private letter she wrote to her father in 2018. This was upheld by the Court of Appeal later the same year: HRH The 
+Duchess of Sussex v Associated Newspapers Ltd [2021].
+ 
+96. ‘[I]ncreasing levels of personal debt, and in particular rent arrears of tenants in privately-rented accommodation; 
+the dependence of tenants on benefits, and in particular housing benefit; the effect of enforcement of writs of 
+possession by HCEAs [High Court Enforcement Agents]; and the consequences for both landlords and tenants’ (at 
+[185]).
+ 
+97. The programme was said to have had 9.65 million viewers, and clips of it were shared on Facebook and other social 
+media. The claimants were each awarded £10,000. An appeal (to increase the award of damages) and cross-appeal (on 
+the public interest) was heard in December 2018. Neither was successful (Ali and another v Channel 5 Broadcasting Ltd 
+[2019]).
+ 
+98. Though the first step to a successful claim is still to establish a ‘reasonable expectation of privacy’ so as to engage 
+Art 8: see Hutcheson (Formerly Known As ‘KGM’) v News Group Newspapers Ltd and others [2011]; Goodwin v NGN Ltd 
+[2011].
+ 
+99. The facts and other claims in Wainwright are discussed in section 15.6.1. However, it has recently been confirmed 
+that a free-standing cause of action in relation to physical privacy does not exist: Pryor v Liverpool Women’s NHS 
+Foundation Trust & Lumsden [2021].
+88.
+89.
+90.
+91.
+92.
+93.
+94.
+95.
+96.
+97.
+98.
+99.
+16. Invasion of privacy
+Page 42 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+100. See, in particular, the speech of Lord Hoffmann at [31]–[35], with whom Lords Hope and Hutton agreed. Lord 
+Hoffmann later reiterated the same point in Campbell at [43].
+ 
+101. Article 13 guarantees the right to an effective remedy.
+ 
+102. Would the same be the case for the teenager in the scenarios at the beginning of the chapter, caught on CCTV 
+committing an act of vandalism? It is not clear that it was merely the fact that publication of the pictures or also the 
+fact that his actions were inherently of a private nature that was decisive in that case. Might criminal activity be 
+different?
+ 
+103. Compare AVB v TDD [2014].
+ 
+104. Compare the decision in Rothwell v Chemical and Insulating Co Ltd [2007] on the harm caused by the 
+development of pleural plaques following negligent exposure to asbestos fibres (section 5.5) (see also Dryden and 
+others v Johnson Matthey plc [2018]) or the birth of unwanted children after a doctor’s negligent action or advice 
+(section 7.5.2).
+ 
+105. Joanne Conaghan ‘Law, Harm and Redress: A Feminist Perspective’ (2002) 22 Legal Studies 319, 322.
+ 
+106. Joanne Conaghan ‘Tort Law and Feminist Critique’ (2003) 56 Current Legal Problems 175, 186.
+© Kirsty Horsey & Erika Rackley 2025
+Related Books
+View the Essential Cases in tort law
+Related Links
+Test yourself: Multiple choice questions with instant feedback <https://learninglink.oup.com/access/content/brennan-  
+concentrate6e-student-resources/brennan-concentrate6e-diagnostic-test>
+Find This Title
+In the OUP print catalogue <https://global.oup.com/academic/product/9780198925231>
+100.
+101.
+102.
+103.
+104.
+105.
+106.

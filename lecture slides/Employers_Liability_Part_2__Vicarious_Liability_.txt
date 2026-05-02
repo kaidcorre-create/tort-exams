@@ -1,0 +1,199 @@
+Employers’ 
+Liability
+(or relationships 
+akin to 
+employment)
+Non-Delegable Duties and 
+Vicarious Liability
+Part 2/4
+Week 17
+Dr Sarah Gilmartin   s.gilmartin@lancaster.ac.uk
+Vicarious Liability – What is it?
+Liability for acts/omissions or torts of third parties
+Relationship between tortfeasor and defendant
+No fault of the person (e.g. employer) held liable to the claimant
+Tortfeasor jointly liable
+Theory – the right/wrong:
+Master’s tort theory – master stands in place of servant
+Servant’s tort theory – master is liable for the torts of servants
+Vicarious Liability – How do we decide who 
+is liable?
+We look to the relationship between:
+• Tortfeasor and Defendant (e.g. employee at fault for the tort and employer)
+• In the course of employment:
+‘Vicarious liability is a common law principle of strict, no-fault liability. Under this 
+principle a blameless employer is liable for a wrong committed by his employee while 
+the latter is about his employer's business. The time-honoured phrase is “while acting in 
+the course of his employment”. It is thus a form of secondary liability. The primary 
+liability is that of the employee who committed the wrong.’
+Majrowski v Guy’s and St Thomas’ NHS Trust [2007] 1 AC 224, 228 per Lord Nicholls
+Vicarious Liability: 
+‘within the course of a contract of 
+employment’
+to
+‘close connection’
+The “Salmond” Test – J Salmond, Law of Torts (1st edn, 1907):
+An employee’s tort will have been committed in the course of his employment if it was either:
+a)
+A wrongful act authorised by [the employee’s employer], or
+b)
+A wrongful and unauthorised mode of doing some act authorised by [the employee’s 
+employer].
+The “close connection” test - Lister v Hesley Hall Ltd [2001] UKHL 22, [28] per Lord Steyn:
+‘The question is whether the warden's torts were so closely connected with his employment that 
+it would be fair and just to hold the employers vicariously liable. On the facts of the case the 
+answer is yes.’
+Vicarious Liability – Stretching the ‘close 
+connection’ test?
+Mohamud v WM Morrison Supermarkets Plc 
+[2016] UKSC 11 
+2 stage test:
+1.
+Close connection – ‘what functions or “field of activities” 
+have been entrusted by the employer to the employee, 
+or, in everyday language, what was the nature of his job’ 
+[44]; and
+2.
+Furtherance of employer’s business – ‘whether there 
+was sufÏcient connection between the position in which 
+he was employed and his wrongful conduct to make it 
+right for the employer to be held liable under the 
+principle of social justice’. [45]
+See also: Bellman v Northampton 
+Recruitment Ltd [2018] EWCA Civ 2214 
+Vicarious Liability – Limiting the ‘close 
+connection’ test
+WM Morrison Supermarkets Plc v Various Claimants 
+[2020] UKSC 12
+[47] per Lord Reed
+‘In the present case, it is abundantly clear that [the employee] 
+was not engaged in furthering his employer's business when he 
+committed the wrongdoing in question. On the contrary, he was 
+pursuing a personal vendetta, seeking vengeance for the 
+disciplinary proceedings some months earlier. In those 
+circumstances...[the employee’s] wrongful conduct was not so 
+closely connected with acts which he was authorised to do 
+that...it can fairly and properly be regarded as done by him while 
+acting in the ordinary course of his employment.’
+See: Joel v Morison (1834) 172 ER 1338 – ‘a frolic of his own’
+Vicarious Liability: 
+‘akin to employment’ 
+1/2
+Various Claimants v The Institute of the Brothers of the Christian Schools [2012] UKSC 56
+At [35] per Lord Phillips:
+i.
+the employer is more likely to have the means to compensate the victim than the employee and can 
+be expected to have insured against that liability; 
+ii.
+the tort will have been committed as a result of activity being taken by the employee on behalf of the 
+employer; 
+iii.
+the employee's activity is likely to be part of the business activity of the employer; 
+iv.
+the employer, by employing the employee to carry on the activity will have created the risk of the tort 
+committed by the employee; [and]
+v.
+the employee will, to a greater or lesser degree, have been under the control of the employer.
+Followed in Cox v Ministry of Justice [2016] UKSC 10 and Armes v NotÝnghamshire County Council [2017] 
+UKSC 60 (see Lecture Notes Part 1)
+Vicarious Liability: 
+‘akin to employment’ 
+2/2
+Various Claimants [2012] UKSC 56, [21] per Lord 
+Phillips:
+i.
+The first stage is to consider the relationship of 
+D1 and D2 to see whether it is one that is 
+capable of giving rise to vicarious liability. 
+ii.
+What is critical at the second stage is the 
+connection that links the relationship between 
+D1 and D2 and the act or omission of D1.
+Partnership/Agency
+Cox v Ministry of Justice [2016] UKSC 10, [2] 
+per Lord Reed:
+‘The scope of vicarious liability depends upon 
+the answers to two questions. First, what sort 
+of relationship has to exist between an 
+individual and a defendant before the 
+defendant can be made vicariously liable in 
+tort for the conduct of that individual? 
+Secondly, in what manner does the conduct of 
+that individual have to be related to that 
+relationship, in order for vicarious liability to be 
+imposed on the defendant?’
+More Recent Developments:
+Sexual Assault Cases 
+Trustees of the Barry Congregation of 
+Jehovah's Witnesses (Appellant) v BXB 
+(Respondent) [2023] UKSC 15
+•
+T was an elder in the D’s church and C was a 
+member of the congregation
+•
+C & T (and their families) had been friends for 
+many years
+•
+T made C uncomfortable – but another elder 
+(T’s father) said T needed support – for this 
+reason and this reason alone C continued to 
+see T.
+•
+After a day evangelising and at T’s house, T 
+raped C
+Question for the court: were the Jehovah’s 
+Witness organisation vicariously liable for T?
+Test for VL confirmed (and applied to such cases):
+1. Was the relationship between T and the organisation 
+one capable of giving rise to VL? A contract of 
+employment or akin to employment? Yes 
+(but note: ‘The creation of the risk of rape should 
+not have been included within the criteria [by the 
+lower courts] for deciding whether the relationship 
+was akin to employment.’ [69] per Lord Burrows
+2.
+Close connection test? No 
+‘was...the wrongful conduct, the rape,...so closely 
+connected with acts that the tortfeasor...was 
+authorised to do, that the rape can fairly and 
+properly be regarded as committed by him while 
+acting in the course of his quasiemployment as an 
+elder’? [71] per Lord Burrows
+How has Barry been applied?
+See, for example: MXX v A Secondary School [2023] EWCA Civ 996
+•
+Followed Barry
+•
+C’s claim against D was successful in principle only on appeal to the CA – D was not vicariously 
+liable for the torts of T
+•
+C was a schoolchild
+•
+C came into contact with T during T’s work experience placement (WEP)
+•
+C appealed – the trial judge had found there was not a relationship akin to employment between T 
+and D
+•
+CA found that there was a relationship akin to employment between T and D (success in principle).
+•
+C was sexually assaulted by T after his WEP had ended – D was not liable for this tort (assault and 
+battery), as there was not a sufÏciently close connection between the tort and T’s employment
+•
+T had, however, groomed C during his WEP - (further success in principle), however, there was still 
+not a sufÏciently close connection between the tort (intentional infliction of injury) and T’s 
+employment for the D to be vicariously liable.
+MCQ Practice
+Click the link or scan the QR Code
+MCQ Employers' Liability Part 1 and 2
+Employers’ 
+Liability
+(or relationships 
+akin to 
+employment)
+To be 
+continued…
+Non-Delegable Duties and 
+Vicarious Liability
+Part 2/4
+Week 17
+Dr Sarah Gilmartin   s.gilmartin@lancaster.ac.uk

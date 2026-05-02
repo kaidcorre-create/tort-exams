@@ -1,0 +1,452 @@
+PRODUCT LIABILITY:
+CONSUMER PROTECTION ACT 1987 (CPA 87) 
+TORT LAW
+DR MEGAN BLAKELY
+M.BLAKELY@LANCASTER.AC.UK
+LECTURE OVERVIEW
+Claims for defective products… 2 or 3 regimes? 
+- Product liability and negligence… contracts.
+The Consumer Protection Act 1987…
+-
+CPA 1987 is available on Moodle (but can be located on 
+legislation.gov.uk.
+PRODUCT LIABILITY & NEGLIGENCE - 
+BACKGROUND…
+Pre-1932
+Manufacturer only liable if 
+the product was classified 
+as “dangerous”, or known 
+to the manufacturer to be 
+dangerous – manufacturer 
+obliged to warn the 
+recipient of the danger…
+Privity of contract fallacy…
+Donoghue v Stevenson [1932] AC 562…
+per Lord Atkin…
+“a manufacturer of products, which he sells in such 
+a form as to show that he intends them to reach the 
+ultimate consumer in the form in which they left him 
+with no reasonable possibility of intermediate 
+examination, and with the knowledge that the 
+absence of reasonable care in the preparation or 
+putting up of the products will result in an injury to 
+the consumer's life or property, owes a duty to the 
+consumer to take that reasonable care…” 
+“Manufacturer” – fitters, repairers etc…
+“Intermediate examination” – case law…
+ “Ultimate consumer” – what about bystanders? (Stennett v Hancock)
+Harm suffered: foreseeable personal injury / property damage…
+What about design defects?
+CLAIMS FOR DEFECTIVE 
+PRODUCTS – 3 REGIMES?
+Tort
+(Negligence)
+CPA 1987
+Contract
+CPA 1987 = strict liability regime in tort… draws on both contract law 
+and negligence…
+-
+NB- Strict liability ≠ absolute…
+Part 1 CPA 1987 = transposed Council Directive 85/374/EEC into 
+domestic law…
+-
+NB: the CPA has been amended post-Brexit in a multitude of ways to 
+focus on the UK, rather than EU jurisdictionally but largely retains its 
+substance.
+CONSUMER PROTECTION ACT 1987 PART I 
+– PRODUCT LIABILITY
+1. Purpose and construction of Part I.
+2.  Liability for defective products.
+3.  Meaning of “defect”.
+4.  Defences.
+5.  Damage giving rise to liability.
+6.  Application of certain enactments etc.
+7. Prohibition on exclusions from liability.
+8. Power to modify Part I.
+9. Application of Part I to Crown.
+CPA 1987: 
+CLAIMS COVERED…
+
+Who can bring a claim under the CPA87?
+
+S.2(1): liability is imposed in respect only of damage caused by a defect in a product…
+-
+NB: “defect” is defined by reference to s.3…
+S.5 – Damage giving rise to liability
+
+Death or personal injury - s.5(1)…
+
+Damage to private property which exceeds £275 – s.5(4) …
+
+Property… “loss of or damage to any property (including land)” – s.5(1)…
+-
+But not the damaged product itself (or components which are already incorporated?) - s.5(2)… (Murphy-
+type economic loss / “complex structure” type economic loss)
+-
+Property which is ordinarily intended, and intended by the person suffering the loss or damage mainly for 
+his own private use, occupation or consumption – s.5(3)(a) and (b)…
+ 
+CPA 1987 REQUIREMENTS 
+“PRODUCT”
+“…any goods or electricity” – s.1(2)(c)…
+-
+… “goods” include “substances, growing crops and things 
+comprised in land by virtue of being attached to it and any 
+ship, aircraft or vehicle”…(s.45(1) CPA 1987)
+-
+A v National Blood Authority [2001] 3 All ER 289…
+“…includes a product which is comprised in another 
+product, whether by virtue of being a component part or 
+raw material or otherwise… (s.1(2)(c)) subject to s.1(3))…
+CPA 1987: REQUIREMENTS
+DEFECTS GIVING RISE TO CLAIMS…
+
+NB: only damage caused by defects is actionable…
+
+“defect” is defined in terms of the safety of the product being below the standard of safety which one is 
+generally entitled to expect – s.3(1)…
+-
+Expectations of consumers? The manufacturing community?
+-
+(Tobacco? Alcohol?)
+-
+Definitive statement? 
+
+The safety that one can expect will vary from product to product and must be judged on a case-by-case 
+basis…
+
+S.3(2) – the court must pay particular (not exclusive) regard to:
+(a)
+The manner, and purpose for which, the product was marketed;
+(b)
+The uses to which the product might be put, and
+(c)
+The time of supply.
+STANDARD V NON-STANDARD 
+PRODUCTS
+Standard:
+
+One which performs 
+as the producer 
+intends
+
+It is unsafe because 
+of an error in design 
+or a flawed system
+NB: PRE Wilkes: too 
+‘rigid’ – in favour of 
+‘holistic’ approach.
+Non-Standard
+
+One which 
+is deficient or 
+inferior in terms of 
+safety relative to the 
+standard product
+
+The harmful 
+characteristic or 
+characteristics that 
+caused the injury are 
+present in the non-
+standard product, but 
+not in the standard 
+product
+CPA 1987 REQUIREMENTS…
+“DEFECT” DEFINED IN CASE LAW…
+Manufacturing 
+defect…
+-
+A v National Blood 
+Authority (2001)
+-
+Tesco Stores v 
+Pollard (2006)
+-
+Richardson v LRC 
+Products (2000)
+Design and marketing defects…
+-
+“standard products” (suffer from design/marketing 
+defects) A v National Blood Authority (2001)
+-
+Cost/benefit approaches…B (a child) v 
+McDonald’s Restaurants Ltd (2002); Worsley v 
+Tambrands (2000)
+-
+But see: Liebeck v McDonald’s Restaurants 
+[1994]
+-
+“standard products” in negligence and under the 
+CPA 1987: Abouzaid v Mothercare (UK) Ltd 
+(2001)
+Wilkes v Depuy International Ltd [2016] EWHC 3096
+Hastings v Finsbury Orth. [2022] UKSC 19
+LIEBECK V MCDONALD’S RESTAURANTS 
+[1994]
+Q: [Y]ou know, as a matter of fact, that coffee is a hazard, selling it at 180 to 190 
+degrees, don’t you?     
+A: I have testified before, the fact that this coffee can cause burns.     
+Q: It is hazardous at this temperature?     
+A: At that high temperature the coffee is a hazard. . . .     
+Q: If customers attempt to swallow that coffee, isn’t it a fact that it will scald their 
+throat or esophagus?     
+A: Yes, under those conditions, if they could get the coffee in their throat, that 
+could happen, yes. . . . 
+Q: So. . . when somebody buys a cup of coffee and it’s sold to them at 
+McDonald’s and they go to sit down and drink it in less than five minutes, it’s not 
+fit for consumption to drink, if consumption means to drink? . . .     
+A: It’s perfectly fit to open the top and add cream and sugar and really dilute the 
+product as far as temperature goes and it probably would be very fit for 
+consumption . . . .     
+Q: If you don’t mind getting burned it’s fit for consumption.  My question is, is it 
+fit to be drunk, actually fluid going down your esophagus?     
+A: I think I already answered that.     
+Q: And the answer is no, it’s not, isn’t it?     
+A: Yes, we answered that.
+CURRENT APPROACH
+‘1) what was the harmful characteristic that caused injury?
+2) Was the product ‘standard’ or ‘non-standard’? [But see Wilkes]
+3) What are the consumer’s legitimate expectations as to the 
+product?’
++ Causation (A[2001]) – note claimant friendliness
+___
+‘…no entitlement to absolute level of safety…[based on nature of 
+product]’
+Entitled expectation:  level of safety would not be worse if 
+another product, manufactured by another, would be used.
+Hastings [2022]
+CPA 1987: POTENTIAL DEFENDANTS (1/4)…
+PRODUCERS (S.1(2))
+Manufacturers - s.1(2)(a)…
+-
+Manufacturers of final products;
+-
+Manufacturers of component parts in 
+“complex structures”…joint and 
+several liability…
+-
+Distributors which are subsidiaries of 
+the manufacturer if the latter 
+exercises some control… O’Byrne v 
+Aventis Pasteur S A [2010] UKSC 
+23…
+Abstractors - s.1(2)(b)…
+-
+Coal / tin mining…
+Persons who carry out an 
+industrial or other process to 
+which the essential 
+characteristics of the product 
+are attributable - s.1(2)(c)…
+-
+Canned peas / frozen fish…
+-
+But not persons involved in 
+packaging?
+CPA 1987: POTENTIAL DEFENDANTS (2/4)…
+BRAND-NAMERS WHO HOLD THEMSELVES 
+OUT AS THE PRODUCER (S.2(2)(B))
+D must both
+(a) Add a brand name (e.g. St. Michael), AND
+(b) Thereby hold himself out as the producer…
+Consumer buys a 
+food processor at 
+Marks & Spencer 
+which bears the 
+brand name “St. 
+Michael”…
+Food processor 
+explodes, injuring the 
+consumer…
+Can the consumer sue 
+M&S?
+CPA 1987: POTENTIAL DEFENDANTS (3/4)…
+IMPORTERS INTO THE EU  UK (S.2(2)(C))
+European Union
+Producer 
+(outside UK)
+(UK) 
+buyer
+(Belgian)
+Importer
+(UK) 
+Importer
+(Supplier)
+BREXIT
+(SORRY, LAW STUDENTS)
+-
+Existing UK law driven largely through EU Directives (note: precedent 
+reliance);
+-
+‘Retained EU law’ for UK to UK transactions;
+-
+More challenging to enforce with EU traders;
+-
+Redress may need to be sought in the trader’s state of origin;
+-
+Lost rights to EU enforcement mechanisms (ADR and Online Dispute 
+Resolution Platform);
+-
+Need more awareness of law in EU countries;
+-
+UK does not have input into future consumer laws for EU.
+May 2021 House of Commons Briefing Paper on Brexit and UK Consumer Protection Law:
+https://researchbriefings.files.parliament.uk/documents/CBP-9126/CBP-9126.pdf
+CPA 1987: POTENTIAL DEFENDANTS (4/4)…
+DISTRIBUTORS / (“SILENT”) SUPPLIERS (S.2(3))
+Buyer
+Supplier
+Buyer asks supplier within a reasonable 
+period (etc.) after damage occurs to 
+identify the producer, brand-namer or EU 
+importer…
+Supplier liable if, within a reasonable 
+period of time, s/he fails to comply with the 
+request or identify the person who supplied 
+the product…
+NB – if supplier merely confirms that it is 
+not the manufacturer, but does not name 
+the manufacturer, it has not complied… 
+(O’Byrne v Aventis Pasteur SA)
+Producer 
+(Manufacturer)
+CPA 1987:
+DEFENCES (1/2)
+Defences under s.4(1) CPA 1987…
+
+Compliance with the rule of law – s.4(1)(a)…
+
+Product never supplied to Another – s.4(1)(b)…
+- “supply” interpreted widely - s.46…
+
+Supply was not in the course of D’s business – s.4(1)(c)…
+-
+Depends whether D falls within s.2(2) CPA 1987 or not…
+-
+Contrast selling a cake at a craft fair with selling a car to a neighbour…
+
+Defect occurring after the time of Supply – s.4(1)(d)…
+- D bears the burden…
+CPA 1987:
+DEFENCES (2/2)
+Development risks – s.4(1)(e)…
+-
+Controversy in transposing Art.7(e) of the Directive…European Commission v 
+United Kingdom [1997] All ER (EC) 481…
+-
+Abouzaid v Mothercare (UK) Ltd [2000] All ER (D) 2436…
+-
+A v National Blood Authority [2001] 3 All ER 289…
+The defect was a defect in a finished product (X) in which the product in 
+question had been comprised AND was wholly attributable to the design 
+of X or to compliance with the producer of X’s instructions– s.4(1)(f)…
+-
+Protects D who has supplied a component part and risks being found jointly 
+and severally liable under s.2(5) when a defect is found in the finished product.
+-------------------------------------
+Contributory negligence – s.6(4)… 
+RECAP / 
+WHAT DO I NEED TO KNOW?…
+Type of 
+claim?
+Personal Injury / 
+Death
+(s.5(1))
+Property damage 
+>£275
+(s.5(4))
+Damage caused by a 
+defect in a product
+(s.2(1)
+“defect”
+(s.3)
+Who might be liable?
+“Producers” 
+(s.1(2))
+Brand-namers; 
+(s.2(2))
+Distributors 
+(s.2(3))
+Are any defences 
+available to D?
+s.4(1)(a)-(f)
+Contributory negligence 
+(s.6(4))
+Property damage 
+not excluded by 
+s.5(2)
+“product”
+(s.1(2) and (3))
+TABLE 12.1 SUMMARY OF THE CONSUMER PROTECTION ACT 1987, 
+PART 1
+H&R (2023) P. 400
+*BE SURE TO REVIEW THE ANNOTATED STATUTE, PP. 396-99
+Issue
+Relevant sections
+Explanation
+Who can sue?
+Sections 2(1) and 5(1)
+A person who ‘suffers damage as a result of a defective 
+product’ (see definitions of ‘damage’ and ‘defect’)
+Who can be sued?
+Sections 1(2) and 5(2)
+Manufacturers, producers, ‘own-branders’ and 
+importers into the EU.54 Some suppliers can also be 
+sued
+What damage can be claimed 
+for?
+Section 5(1)
+See also ss 5(2) and 
+5(4)
+Death, personal injury and property damage
+Pure economic loss excluded and property damage 
+must exceed £275
+What is a ‘product’?
+Section 1(2)
+See also s 45
+Goods and electricity, component parts and raw 
+materials
+‘Goods’ includes substances, growing crops, things on 
+land and any ship, aircraft or vehicle
+What is a ‘defect’?
+Section 3(1)
+See also s 3(2)(a)–(c)
+A defect exists when ‘the safety of a product is not such 
+that persons generally are entitled to expect’—this is 
+the most analysed aspect of the legislation in case law
+Packaging, normal use, instructions and warnings may 
+be taken into account
+Are any defences 
+appropriate?
+Section 4(1)(a)–(f)
+There are six defences available under the Act
+Contributory negligence is also applicable
+OVERALL IMPACT?
+- Few cases on the CPA
+- However, does that mean ineffectiveness?
+ 
+- sophisticated defendants 
+- high incentives for compliance
+- alternative resolutions?
+SCENARIO… CPA 1987 ANALYSIS…
+ConnectedUK manufactures and assembles mobile phones, sold as YPhones. YPhones 
+have a reputation for their style, functionality and long-lasting batteries. They cost £300 a 
+piece. The phones are sold by Electronic UK.  ConnectedUK is aware of a potential battery 
+fault but does not pass on the information to ElectronicUK.
+ 
+Bob has bought YPhones for his two sons, James and Oliver. There are cheaper 
+smartphones in the market, but Bob chose the YPhones because they are described as 
+being reliable.
+ 
+A couple of months after the purchases, the battery in James’ phone discharges within 
+minutes. James attempts repeatedly to charge his phone and due to the fault the battery 
+malfunctions. James’ YPhone catches fire, but he extinguishes the flames before they do 
+any more damage. 
+Oliver was visiting his friend Tom. Oliver leaves his phone charging on top of his new 
+jacket, an expensive brand model costing £500 and goes out with Tom. The battery in the 
+YPhone fails, resulting in a fire that destroys his rucksack, his jacket and causes 
+significant damage to Tom’s room and house. Upon their return, Tom suffers some 
+injuries while trying to rescue his personal belongings from the flames. 
+ 
+Advise James, Oliver and Tom of any claims they may have.

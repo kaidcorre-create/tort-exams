@@ -1,0 +1,1828 @@
+8. Breach of duty: The standard of care
+Page 1 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Tort Law (9th edn)
+Kirsty Horsey and Erika Rackley
+8. Breach of duty: The standard of care
+Kirsty Horsey and Erika Rackley
+https://doi.org/10.1093/he/9780198925231.003.0008
+Published in print: 15 August 2025
+Published online: August 2025
+Abstract
+This chapter focuses on breach of duty. Breach occurs where a defendant has fallen below the particular standard of care 
+demanded by the law. This is largely an objective test and is determined by comparing the actions of the defendant to those 
+imagined to be done in the same circumstances by the so-called ‘reasonable man’. The questions to be answered are how the 
+defendant ought to have behaved (what was the required standard of care) and how the defendant did behave (did they in fact 
+fall below that standard).
+Keywords: 
+tort law, breach of duty, claim, negligence, standard of care
+Problem question
+Read this problem question carefully and keep it in mind while you are working through the 
+chapter that follows. At the end of the chapter you will be able to apply what you have learnt to the 
+problem question and advise the relevant parties.
+Mpho and Gabriel have spent the afternoon on a charity walk alongside Little Amal who had been 
+visiting Horsechester University.1 Gabriel, who has just passed his driving test, offers Mpho a lift 
+home. On the journey home Gabriel is distracted by fireworks celebrating the end of term. He loses 
+control of the car and crashes into a lamp post. Mpho suffers minor cuts and bruises and is taken to 
+hospital for a check-up.
+p. 212
+1
+8. Breach of duty: The standard of care
+Page 2 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+→
+→
+→
+(1)
+(2)
+At the hospital Aput is waiting to see a doctor. They have injured their right elbow. The doctor 
+recommends surgery as ‘the best possible option’. It is well known that partial paralysis is a small but 
+serious risk of the procedure. However, when Aput asks about any potential downsides, the doctor 
+fails to answer. The operation goes ahead and is performed without negligence. Aput is now unable to 
+bend their right arm.
+Advise Mpho and Aput.
+8.1  Introduction
+Consider the following examples:
+A cricketer hits a ball for six. It flies over the boundary fence hitting a passer-by on the head, causing 
+serious injury.
+A learner driver mistakes the accelerator for the brake and hits a tree, injuring her instructor.
+An overworked junior doctor misreads the instructions on the back of a packet of drugs and injects a 
+patient with 250 ml, rather than 25 ml as stated, paralysing the patient from the neck down.
+↵
+There are three vital ingredients of the tort of negligence: duty of care, breach of duty and damage 
+caused by the breach (factual and legal causation). This chapter focuses on the second of these requirements 
+—breach of duty.
+Breach occurs where the defendant falls below the particular standard of care demanded by the law. 
+Establishing this involves making a value judgement on the defendant’s behaviour—was the defendant 
+driving too fast given the particular road conditions? Did the doctor follow the correct procedure or 
+administer the correct drug? Was appropriate safety equipment provided by the employer, and so on? The key 
+issue to be addressed is how and where the courts set the acceptable standard or level of care owed towards 
+one’s neighbours. There are two questions to be considered.
+How the defendant ought to have behaved in the circumstances—what was the required standard of 
+care in these circumstances? This is often described as a matter of law.
+How the defendant did behave—did they (as a matter of fact) fall below the standard of care required?
+As the majority of cases turn largely on the facts at hand—the speed of the car and whether it was appropriate 
+for the time of day, location and so on—it is difficult (although not impossible) to make generalisations about 
+how the defendant ought to have behaved, that is where the standard of care will be set. Moreover, the relation 
+of many everyday negligence cases issues to duty and causation will be straightforward and so liability will 
+p. 213
+8. Breach of duty: The standard of care
+Page 3 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+turn on breach, on what the defendant should and did (or did not) do. As such, despite its practical 
+importance the law here is relatively limited. The most we can do is identify a few broad and rather open- 
+ended propositions. Indeed, Tony Weir argues:
+decisions on breach are not citable as authorities; they are merely illustrations of the application of the 
+indubitable rule that if one is under a duty at common law such care must be taken as is called for in 
+all the circumstances.2
+However, this only goes so far. While clearly the determination of whether a breach has occurred depends on 
+the particular facts of the case, it is nevertheless possible to identify some broad principles that the courts use 
+when seeking to define the appropriate standard of care, which give some indication as to what the law 
+requires us to do in order to avoid causing harm to others.
+Pause for reflection
+Some of the most familiar negligence cases—that is the ones most often reported in the media— 
+involve ‘freak accidents’ during entertainment events or school trips.3 These have often been followed 
+by calls for a public inquiry (to investigate the cause of the tragedy and make recommendations to 
+prevent similar accidents from happening in the future) or a review 
+↵
+of health and safety 
+guidelines,4 as well as claims for compensation.5 In deciding these claims, the courts seek to strike a 
+balance between ensuring safety and curtailing legitimate activities and/or commercial interests. The 
+balance can be a tricky one:
+Accidents happen, and sometimes they are what can be described as pure accidents in the 
+sense that the victim cannot recover damages for the resulting injury because fault cannot be 
+established. If the law were to set a higher standard of care than that which is reasonable … 
+the consequences would quickly become inhibited. There would be no fêtes, no maypole 
+dancing and none of the activities that have come to be associated with the English village 
+green for fear of what might conceivably go wrong. (Scott-Baker LJ, Cole v Davies-Gilbert at 
+[36])
+As you are reading the cases in this and other chapters, consider where you think the line should be 
+drawn. What factors do you think might have pushed the courts one way or another?
+8.2  A test of reasonableness
+The first thing to note about the standard of care in negligence is that it is not a standard of perfection. The 
+standard allows for some errors and mistakes. As Lord Atkin held in Donoghue v Stevenson [1932]: ‘You must 
+take reasonable care to avoid acts or omissions which you can reasonably foresee would be likely to injure your 
+2
+3
+p. 214
+4
+5
+8. Breach of duty: The standard of care
+Page 4 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+neighbour’ (at 580, emphasis added). The key requirement is that the defendant behaves reasonably. Of 
+course, this simply prompts the question: what is reasonable behaviour? Or, put another way, what standard 
+of care did the circumstances require?
+The courts answer this question by comparing what the defendant has done to the imagined actions of the 
+so-called ‘reasonable man’ and asking what a reasonable man in the position of the defendant would have 
+done in the circumstances, If the defendant has done something that the reasonable man would not have done 
+(or has omitted to do something that the reasonable man would have done) then they will be in breach of 
+their duty (Hazell v British Transport Commission [1958] at 171). In short,
+[n]egligence is the omission to do something which the reasonable man, guided upon those 
+considerations which ordinarily regulate the conduct of human affairs, would do, or doing 
+something which a prudent and reasonable man would not do. (Alderson B, Blyth v Birmingham 
+Waterworks (1856) at 784)
+↵
+So who is this apparent paragon of virtue against whom all others are to be judged? Over the years 
+various descriptions have been attempted, often involving some mode of transport: the reasonable man is 
+‘the man on the Clapham omnibus’ (Greer LJ, Hall v Brooklands Auto-Racing Club [1933] at 224), ‘the man who 
+in the evening pushes his lawnmower in his shirtsleeves’ (Lord Greer, Hall v Brooklands Auto-Racing Club 
+[1933] at 224), a ‘traveller on the London underground’ (Lord Steyn, McFarlane v Tayside Health Board [1999] 
+at 82) or, rather more grandly, he is ‘the anthropomorphic conception of justice’ (Lord Radcliffe, Davis 
+Contractors v Fareham Urban District Council [1956] at 728).
+Yet, while it is agreed that the reasonable man is neither all-seeing nor all-knowing and that, on occasions, 
+he makes reasonable mistakes, there is less agreement (particularly among feminist legal scholars) about 
+whether these qualities should be tied to the physical characteristics of a man. Moreover, it is clear that even if 
+we adopt the more politically correct (if not less contentious) ‘reasonable person’ terminology, questions 
+remain: what is her or his ethnicity, religion, class, sexual orientation, age, education, and so on?
+Feminist critiques of the reasonable man
+Feminist and other legal scholars have argued that despite claims to gender-neutrality, the standard 
+of the reasonable man in fact embodies a male point of view and as such holds women to a standard 
+devised without them in mind. This criticism goes beyond a dislike of the way the standard is 
+expressed: ‘his gender-specificity is not just a linguistic convention, whereby both sexes are denoted 
+by reference to the masculine: the reasonable man is, in fact, male’.6
+What does this mean? There are a number of aspects to this critique. One focuses on the fact that the 
+notion of the ‘reasonable man’ is not based on statistical evidence of what most people actually do 
+think and do. Rather, it is a conception conjured up by the judges themselves embodying a standard 
+set and considered appropriate by them. Given the continuing under-representation of women, ethnic 
+p. 215
+6
+8. Breach of duty: The standard of care
+Page 5 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+minorities and other non-traditional groups within the judiciary, particularly in its upper echelons, it 
+is likely that the ‘reasonable man’ reflects the particular perspectives, assumptions and (possibly) 
+prejudices of a subset of society—that is, those (white, middle-class men) who make up the judiciary.
+More controversially, it is argued that the standard of reasonableness not only assumes but prioritises 
+the ability to adopt a position of detached objectivity from which to weigh up the costs and benefits of 
+a particular course of action—an ability traditionally (and, perhaps, essentially) associated with men. 
+Assuming this is true, then the very idea of applying ‘a standard of reasonable care’, it is argued, 
+seems to embody a peculiarly male way of thinking and to exclude differences in the way women 
+think and act. As such, the problem is not with the language of the reasonable ‘man’, but with the very 
+notion of ‘reasonableness’. On this view, it may well be ‘dangerously misleading’ to adopt the 
+rebranding of the reasonable person—since it attributes a ‘false universality to what is in fact a partial 
+and loaded standard’.7
+↵
+The truth of the matter is, of course, that there is no such individual as the reasonable man (or indeed 
+person). The reasonable man is a judicial construct—or shorthand—through which the judges seek to 
+determine what was reasonable conduct in the circumstances of the particular case: the reasonable man is the 
+personification of the judicial view of reasonableness. This does not mean, however, that the reasonable man 
+is simply the personification of the judges themselves, or a decoy behind which they can and do pursue their 
+own preferences and prejudices.8 Not least because there is a whole series of rules, developed through the case 
+law, setting out the qualities and conduct—the ‘standard of care’—expected of the defendant. It is to these 
+that we now turn.
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-8-2>.
+8.3  An objective standard
+The first thing to note is that the standard of ‘what the reasonable man would do in the circumstances of the 
+case’ is objective. This means that the standard of care expected of the defendant is not dependent on, or 
+skewed in favour of, certain characteristics and/or capabilities of the defendant; the personal idiosyncrasies of 
+the defendant are largely (although, as we shall see, not completely) irrelevant (Glasgow Corporation v Muir 
+[1943] at 457). Put simply (except for in a very few, limited, circumstances) the appropriate question is not 
+‘what could this particular defendant have done?’ but rather ‘what level of care and skill did the activity the 
+defendant was undertaking require?’ What this means is that even though certain individuals may, due to 
+certain inherent characteristics (e.g. experience and so on), be more or less able to take care the law imposes 
+the same standard of care on everyone.9 The defendant cannot (usually) argue against, or raise as a defence in 
+7
+p. 216
+8
+9
+8. Breach of duty: The standard of care
+Page 6 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+response to, the imposition of liability on the grounds that they ‘did their best’ according to their education, 
+experience, health and so on where their best falls below the standard of care expected of the reasonable man. 
+This is clearly seen in the case of Nettleship v Weston [1971].
+Nettleship v Weston [1971] 2 QB 691 (CA)
+Mrs Weston, the defendant, was learning to drive. The claimant had agreed to give her driving 
+lessons. Mrs Weston was holding the steering wheel and controlling the pedals, while the claimant 
+moved the gear lever and handbrake. Unfortunately, after turning a corner, the defendant failed to 
+straighten the steering wheel and panicked. Despite her best efforts, and the fact that the car was only 
+travelling at walking pace, the car mounted the pavement and hit a lamp post, breaking the claimant’s 
+knee cap. The defendant was convicted of driving without due care and attention.10 The claimant sued 
+in negligence.
+The majority of the Court of Appeal held that all drivers, including those learning to drive, are held to 
+the same standard: ‘The standard of care … is measured objectively by the care to be 
+↵
+expected of 
+an experienced, skilled and careful driver’ (at 702). The standard of care in negligence is not 
+dependent on the particular defendant’s characteristics and/or capacities. The fact that, as a learner, 
+she was by definition incapable of meeting this standard was irrelevant: ‘The learner driver may be 
+doing his best, but his incompetent best is not good enough. He must drive in as good a manner as a 
+driver of skill, experience and care’ (at 699). Nevertheless, the claimant’s damages were reduced by 50 
+per cent for contributory negligence as he was jointly controlling the car at the time of the accident.11
+The decision of the Court of Appeal in Nettleship is perhaps a little harsh. As a learner driver Mrs Weston was 
+unable to reach the standard of care to which she was ultimately held. Moreover, the claimant was well aware 
+of the defendant’s limited driving capabilities—he was in the car because he had agreed to give her driving 
+lessons. As Salmon LJ, in dissent, noted, a learner driver cannot owe an instructor a duty to drive with a 
+degree of skill they both know is not possessed (at 705). However, in taking the opposite view and holding the 
+defendant to an objective standard, the majority sought to avoid the ‘endless confusion and injustice’ that 
+would follow should the standard of care be varied according to someone’s knowledge of another’s skill (at 
+700). By applying the same standard to all drivers, the decision in Nettleship ensures that victims of road 
+accidents do not lose out simply because they were unlucky enough to be injured by someone who is learning 
+to drive. The alternative is that the innocent victim of a learner driver who had driven as well as could be 
+expected (albeit to a standard somewhat lower than that expected of an experienced driver) would be denied 
+compensation.
+10
+p. 217
+11
+8. Breach of duty: The standard of care
+Page 7 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Counterpoint
+The ‘objective standard of care can be understood as the law’s attempt to strike a fair balance between 
+the competing interests in freedom of action and personal security that we all share’.12 But does the 
+decision in Nettleship strike a ‘fair balance’ between the parties? Is it fair?
+The reason we make liability in negligence conditional upon the defendant having failed to exercise 
+reasonable care (rather than, for instance, making liability strict) is the belief that it is only where the 
+defendant is at fault (and that fault causes the claimant’s injuries) that the law should require the 
+defendant to pay compensation. Corrective justice does not require that we compensate all the harms 
+we cause, only those that we cause through our fault or neglect. The problem with the decision in 
+Nettleship is that it imposes liability without genuine fault.13
+The decision in Nettleship is perhaps better understood as resting on a more pragmatic motivating 
+factor—compulsory motor insurance. The majority judges ‘see to it’ that the defendant is 
+↵
+liable so that the claimant can be compensated out of the insurance fund (at 700). In so doing, 
+the Court of Appeal elevates the function of tort as a mechanism of compensation over that of 
+achieving corrective justice, something that Lord Denning MR clearly recognises:
+Thus we are, in this branch of the law, moving away from the concept: ‘No liability without 
+fault’. We are beginning to apply the test: ‘On whom should the risk fall?’ Morally the learner 
+driver is not at fault; but legally she is liable to be because she is insured and the risk should 
+fall on her. (at 700)
+Ultimately, of course, the financial loss falls neither on the claimant nor the defendant but on the 
+defendant’s insurance company (and in turn other insurance policy holders). It is more accurate 
+therefore to suggest that in Nettleship the fault principle is subordinated not only to ensure the 
+claimant is compensated but also to the loss-shifting goals of distributive justice.
+Despite appearances (underlined by Nettleship), the objective standard of care is not a standard of perfection. 
+Take, by way of example, Birch v Paulson [2012] in which a driver was not liable for the serious injuries 
+suffered by a drunk pedestrian who stepped out in front of her car. The Court of Appeal held that:
+[while] it would have been very easy indeed for the defendant, as she approached this man on the 
+kerb, either to have taken her foot off the accelerator or to have steered towards the centre of the 
+road or both … the legal test is not a question … of perfection using hindsight. Of course it is not, and 
+drivers are not required to give absolute guarantees of safety towards pedestrians. The yardstick is 
+by reference to reasonable care … there was nothing here to require the defendant as a reasonably 
+careful driver to act in any way other than a way in which she did act given the situation in which 
+she found herself at the time. (at [32])14
+12
+13
+p. 218
+14
+8. Breach of duty: The standard of care
+Page 8 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+The willingness of the court to apply an objective standard of care, independent of the characteristics and 
+capacities of the defendant, was taken to an extreme in Roberts v Ramsbottom [1980]. In this case, the 
+defendant had (unknowingly) suffered a cerebral haemorrhage before starting to drive into town. Though he 
+realised his consciousness was impaired, he was unaware that he was unfit to drive. As he was driving along, 
+he suddenly began to feel much worse. He subsequently collided with a stationary van, narrowly avoided two 
+men working in the road and knocked a cyclist onto the pavement, before ploughing into the claimant’s car, 
+seriously injuring the claimant and damaging the car. The defendant argued that from the moment of his 
+stroke he was unable, through no fault of his own, to control his car properly or appreciate that he was unfit 
+to drive. Neill J disagreed. Though the defendant was in no way to blame morally, he was nonetheless liable in 
+the tort of negligence. He had fallen below the objective standard of the reasonable driver in relation to both 
+in his collision with the claimant and also in continuing to drive despite feeling increasingly unwell and 
+following his earlier collision with the parked van, even though he was, at the time, unable to 
+↵
+appreciate their significance. It was acknowledged that if he had suffered a complete loss of 
+consciousness he might have had a defence of ‘automatism’.
+In Nettleship and Roberts v Ramsbottom liability in negligence was imposed even though the defendant was 
+not (or may not have been) genuinely at fault. However, the relevance of fault was reasserted in another 
+dangerous driving case a few years later, Mansfield v Weetabix Ltd [1998], where the Court of Appeal held that 
+the defendant was not liable for the damage caused to a shop (and shop owner’s home) when the lorry he was 
+driving crashed into it. Unknown to the defendant, he had a medical condition (malignant insulinoma) which 
+starved his brain of glucose so that it was unable to function properly. The final accident, which formed the 
+basis of the claim, was the culmination of a gradual lowering of his blood sugar level. However, crucially, the 
+court held that at no time had the defendant been aware of his condition, despite the fact that over the course 
+of 40 miles he had been involved in three distinct incidents, one of which involved the police. Leggatt LJ 
+distinguished Nettleship on the ground that that case did not deal with the situation where the defendant was 
+unaware of his disability (the learner driver knew that she was learning to drive) (at 1267) and Roberts v 
+Ramsbottom on the basis that the defendant had ‘continued to drive when he was unfit to do so and when he 
+should have been aware of his unfitness’ (at 1266–7). The defendant had not, therefore, fallen below (ie 
+breached) the standard of care—that is of ‘a reasonably competent driver unaware that he is, or may be, 
+suffering from a condition that impairs his ability to drive’ (at 1268). Leggatt LJ continued: ‘To apply an 
+objective standard in a way that did not take account of … [the defendant’s] condition would be to impose 
+strict liability … that is not the law’ (at 1268).
+Pause for reflection
+It sometimes seems that recovery in tort can simply be a matter of luck.15 As Sarah Green and Jodi 
+Garner point out, in both Roberts v Ramsbottom and Mansfield v Weetabix the claimant was injured by a 
+driver whose ability to drive had been impaired by a medical condition. However, the specific nature 
+of their conditions meant that while one claimant was successful, the other was not.16 Moreover, the 
+p. 219
+15
+16
+8. Breach of duty: The standard of care
+Page 9 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+practical result, as acknowledged by Leggatt LJ, of Mansfield v Weetabix is that the claimants whose 
+shop and home had been destroyed were left uncompensated and the defendant’s pot of insurance 
+money remained untouched:
+the plaintiffs may well have been insured [e.g. household or business insurance]. Others in 
+their position may be less fortunate. A change in the law is, however, a matter for Parliament. 
+Meanwhile, since in my judgment … [the defendant] was in no way to blame, he was not 
+negligent. (at 1268)
+Though they were aware of the harshness of the decision to the claimants, the Court of Appeal judges 
+in Mansfield v Weetabix, unlike those in Nettleship, were unwilling to find the innocent lorry driver 
+liable simply in order to compensate the claimants—who, after all, had (or should have had) their 
+own household insurance. Responsibility for any change in the law, they argued, lay at the feet of 
+Parliament (at 1268). Which approach do you prefer? Why? Think again about the arguments made 
+earlier in relation to Nettleship.
+↵
+As Mansfield v Weetabix demonstrates the court have, on occasions, been willing to modify or vary the 
+objective standard in relation to some illness:
+Corr [v IBC Vehicles Ltd], Mansfield v Weetabix … Roberts [v Ramsbottom] recognise that whether 
+induced by severe acute and engaged symptoms of mental illness or an hypoglycaemic state, 
+coronary thrombosis, or other physically irresistible impulse, on rare occasions evidence will show 
+the alleged tortfeasor not in any meaningful sense the agent for the damage since autonomy and 
+ability to reason and act was wholly eliminated. (Rafferty LJ, Dunnage v Randall at [19])
+An example where this was not the case is Dunnage v Randall [2015]. The claimant, an undiagnosed paranoid 
+schizophrenic, set himself on fire, injuring his nephew (who was attempting to prevent the accident). He was 
+found to have fallen below the standard of care of a reasonable man. Rejecting the application of Mansfield v 
+Weetabix, the Court of Appeal held that:
+unless a defendant can establish that his condition entirely eliminates responsibility … he remains 
+vulnerable to liability if he does not meet the objective standard of care. It is the entirety of the 
+elimination which drives this conclusion, and once that entirety is eroded or diminished, he is fixed 
+with the standard. The evidence was that [the claimant’s] responsibility came very close to complete 
+elimination, but the experts stopped short of finding that it was complete. (Rafferty LJ at [114])17
+Other occasions where the courts have been willing to modify or vary the objective standard to take into 
+account certain characteristics of some defendants are where the defendant is a child or are professionals, 
+professing to have a special skill or competence.
+p. 220
+17
+8. Breach of duty: The standard of care
+Page 10 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+8.3.1  Children
+It is accepted that the capacity of children to recognise the dangers of a particular activity, take care to avoid 
+them and not hurt others varies according to the age of the child (unlike in criminal law there is no minimum 
+age for liability in tort). In cases involving children, the standard of care applied is scaled according to age so 
+that it becomes that which can be ‘objectively expected of a child of that age’ (Orchard v Lee [2009] at [9]). 
+The question for the court is, in the words of Salmon LJ, ‘whether any ordinary child of 13½ [for example] can 
+be expected to have done any more than this child did. I say “any ordinary child”. I do not mean a paragon of 
+prudence; nor do I mean a scatter-brained child; but the ordinary girl of 13½’ (Gough v Thorne [1966] at 1387).
+Orchard v Lee [2009] EWCA Civ 295 (CA)
+Two 13-year-old boys were playing a game of tag in a courtyard and walkway designated for their 
+year group during their school lunch break. During the course of the game the defendant was running 
+backwards, taunting the other boy. Unfortunately he ran into the claimant, who was working as a 
+lunchtime assistant supervisor at the school. The back of his head hit her cheek and, though the 
+injury initially seemed insignificant, it later became quite serious. The trial judge dismissed 
+↵
+the supervisor’s claim finding that ‘it was a simple accident caused by “horseplay between two 
+13-year-old boys in and around an outside court yard … boys doing what boys do”’ (at [2]).
+The Court of Appeal agreed. A child will only be held liable in negligence if their conduct is careless to 
+a very high degree or falls significantly outside the norm for a child of their age. In assessing whether 
+this is the case, ‘the question is whether a reasonable 13-year-old boy, in the situation that [the 
+defendant] was in, would have anticipated that some significant personal injury would result from his 
+actions’ (Aikens LJ at [24]). As there was nothing to suggest that the defendant was playing tag ‘in a 
+manner in which a 13-year-old boy would reasonably foresee there was likely to be injury beyond 
+that normally occurring while a game of tag was in progress’, the defendant had not fallen below the 
+standard of care required of him (Waller LJ at [12]).
+Pause for reflection
+As noted in the Australian case of McHale v Watson (1966), ‘Children, like everyone else, must accept 
+as they go about in society the risks from which ordinary care on the part of others will not suffice to 
+save them. One such risk is that boys of 12 may behave as boys of 12’ (at 216). Or, indeed, that 15-year- 
+old schoolgirls will ‘play as somewhat irresponsible girls of 15’ (Mullin v Richards [1998] at 1312).
+The ‘reasonable child’ standard invoked by the court effectively prevents a child-defendant’s action 
+being measured against a standard of care that they are unable to reach. How—if at all—can this be 
+reconciled with the Court of Appeal’s decision in Nettleship?
+p. 221
+8. Breach of duty: The standard of care
+Page 11 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+8.3.2  Professionals
+Another area where the courts modify or vary the objective standard is where a person professes to have a 
+special skill or competence. The law requires that when dealing with people in the context of a calling or 
+profession they do so with an appropriate level of competence.
+Nobody expects the passenger on the Clapham omnibus to have any skill as a surgeon, a lawyer, a 
+pilot, or a plumber, unless he is one; but if he professes to be one, then the law requires him to show 
+such a skill as any ordinary member of the profession or calling to which he belongs, or claims to 
+belong, would display.18
+In Phillips v William Whiteley [1938], for example, the court denied a claim for damages in respect of an 
+infection the claimant developed after having her ears pierced in a jewellery store. Ear-piercing is not 
+something which requires a surgical level of skill and so the claimant could expect only that her ears were 
+pierced to the standard of a reasonably competent jeweller, which they had been in this case.19 In contrast, in 
+Wright v 
+↵
+Troy Lucas (a firm) and George Rusz [2019], Eady J held an unqualified legal advisor to the 
+standards of a professional lawyer:
+I have no hesitation in finding that the defendants should be held to the duty and standard of care 
+that they had chosen to assume when holding themselves out as competent to carry out legal 
+services for the claimant in his clinical negligence litigation. (at [82])
+Though the defendant had never described himself as a solicitor, he had held himself out as having ‘extensive 
+experience’ of these types of claims and as being ‘as good as, if not better, than any solicitor or barrister’ (at 
+[18]). He was ordered to pay over £260,000 in damages to compensate the claimant for what they were likely 
+to have received had their original claim against the NHS been properly handled (on the advice of the 
+defendant, the claimant had previously settled for £20,000 and incurred £73,000 in legal costs).
+8.3.2.1  The Bolam test
+Typically, a defendant cannot escape liability in negligence simply by arguing that they followed common 
+practice: ‘Neglect of duty does not cease by repetition to be neglect of duty’ (Bank of Montreal v Dominion 
+Gresham Guarantee and Casualty Company [1930] at 666). However, there is one important exception to this 
+rule. The courts give wide latitude to professionals, acting in their professional capacity, to determine the 
+standards by which they are to be judged. In cases where the defendant has a special skill or competence (i.e. 
+a skill that the reasonable man ordinarily does not have) and the circumstances are such that they are 
+required to exercise that skill or competence, the courts have developed a different approach. In such cases, 
+the actions of the defendant are judged against those of the ordinary skilled man professing to exercise that 
+skill—the so-called Bolam test.
+18
+19
+p. 222
+8. Breach of duty: The standard of care
+Page 12 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Bolam v Friern Hospital Management Committee [1957] 1 WLR 582 
+(QBD)
+The claimant was a patient who had been given electro-convulsive therapy without being given a 
+relaxant drug and without the appropriate physical restraints. In the course of the treatment, he 
+fractured his hip, a possible consequence of the treatment about which he had not been warned. At 
+the time, the medical profession held conflicting views on whether it was necessary to administer 
+relaxant drugs before the procedure as a way of reducing the likelihood of injury and whether it was 
+necessary to warn the patient of the risk of injury. In assessing the standard of care, the court held:
+a man need not possess the highest expert skill … it is sufficient if he exercises the ordinary 
+skill of an ordinary competent man exercising that particular art … he is not guilty of 
+negligence if he has acted in accordance with a practice accepted as proper by a responsible 
+body of medical men skilled in this particular art … Putting it the other way around, a man is 
+not negligent, if he is acting in accordance with such a practice, merely because there is a 
+body of opinion that would take a contrary view. (McNair J at 586–7)
+As such, the defendant was not in breach of his duty, as other responsible doctors would have acted in 
+the same way.
+↵
+Bolam applies to all professionals exercising a special skill or competence. In Moy v Pettman Smith 
+[2005], a case involving a claim in negligence against a barrister, Baroness Hale approved Lord Hobhouse’s 
+view in Arthur JS Hall & Co v Simons [2002] that:
+the standard of care to be applied in negligence actions against an advocate is the same as that 
+applicable to any other skilled professional who has to work in an environment where decisions and 
+exercises of judgment have to be made in often difficult and time-constrained circumstances. It 
+requires a [claimant] to show that the error was one which no reasonably competent member of the 
+relevant profession would have made. (at [25])
+However, a distinction is drawn between the defendant’s own ‘rank or status’ and that of the ‘post’ they are 
+occupying at the time of the alleged breach (Wilsher v Essex Area Health Authority [1987] (CA) at 751). The 
+defendant’s conduct is assessed according to the standard reasonably expected of a reasonably competent 
+person occupying such a post. The law makes no allowances for inexperience or for the fact that everyone 
+must, to a certain extent, gain practical experience ‘on the job’. Thus in Wilsher a junior doctor was held to the 
+standards of the more senior post they were occupying at the time, notwithstanding the fact that this was 
+effectively part of their training: ‘the standard is not just that of the averagely competent and well-informed 
+junior houseman (or whatever the position of the doctor) but of such a person who fills a post in a unit 
+offering a highly specialised service’ (Mustill LJ at 751).20 Wilsher was applied in FB (Suing by her Mother and 
+p. 223
+20
+8. Breach of duty: The standard of care
+Page 13 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Litigation Friend, WAC) v Princess Alexandra Hospital NHS Trust [2017]. The defendant, a Senior House Officer 
+(SHO), was found to have fallen below the standard of care of a reasonably competent SHO in her treatment of 
+a young child:
+Dr Rushd [the defendant] in the present case must be judged by the standard of a reasonably 
+competent SHO in an accident and emergency department. The fact that Dr Rushd was aged 25 and 
+‘relatively inexperienced’ … does not diminish the required standard of skill and care. On the other 
+hand, the fact that she had spent six months in a paediatric department does not elevate the required 
+standard. Other SHOs in A&E departments will have different backgrounds and experience, but they 
+are all judged by the same standard … Thus in professional negligence, as in the general law of 
+negligence, the standard of care which the law requires is an imperfect compromise. It achieves a 
+balance between the interests of society and fairness to the individual practitioner. (at [63], [60])
+Counterpoint
+In practice, the Bolam test means that the courts generally defer to the standards of a particular 
+profession as to what is considered appropriate behaviour. This is important. As Margaret Brazier and 
+José Miola have argued, ‘judges are not qualified to make professional judgements on the practices of 
+other learned professions … A professional should not be penalised, and held to be incompetent, just 
+because a judge fancies “playing” at being architect, solicitor or doctor’.21
+↵
+A balance needs to be struck between respect for expert opinions and showing them undue 
+deference.22 It is argued that the courts have been reluctant to impose liability on members of the 
+medical profession. Traditional justifications for this include: the importance of the doctor’s 
+reputation as a member of a respectable and responsible profession, a reluctance to interfere in a 
+specialised branch of knowledge, the view that doctors are motivated by altruistic reasons and that it 
+would therefore be unfair to penalise them for every error and, finally, a fear of increased claims and 
+defensive medical practices.23
+In her exploration of the gendered dimensions of the Bolam principle and its conflation of accepted 
+with acceptable practice, Sally Sheldon suggests a number of alternative justifications pointing in the 
+opposite direction, that is for imposing liability. These include the need to compensate the victims of 
+medical misadventures, the potential of negligence claims to discourage bad practice and reinforce 
+the accountability of doctors (especially given their high status and remuneration), the current failure 
+to recognise the vulnerability of the patient in the doctor/patient relationship and, crucially, the 
+existence of liability insurance.24
+Which of these views do you find the most persuasive?
+21
+p. 224
+22
+23
+24
+8. Breach of duty: The standard of care
+Page 14 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(1)
+(2)
+While Bolam established that a doctor will not have fallen below the standard of care expected of a reasonable 
+doctor, if they have acted in accordance with a respectable body of the medical profession (even if it is a 
+minority viewpoint), it was qualified by a ‘gloss’ applied by the House of Lords in Bolitho v City and Hackney 
+Health Authority [1998]. In this case, a young boy suffered brain damage and later died of a cardiac arrest 
+following respiratory failure while in hospital. Two serious incidents of respiratory difficulties had preceded 
+his death, during which nurses had called for the doctor, who never arrived. As a result, the young boy had 
+not been intubated (which the claimant argued would have prevented his death). The doctor argued that, 
+even if she had attended, she would not have intubated the young boy and that, as a result, her failure to 
+attend had not caused his death. Ultimately, though the majority of witnesses agreed that the boy should 
+have been intubated, the House of Lords was persuaded that—as a reasonable body of opinion would have 
+acted as the defendant did—she had not fallen below the standard of care required of her. However, the court 
+went on to stress that the common practices of a profession should not go completely unchecked:
+In the vast majority of cases the fact that distinguished experts in the field are of a particular opinion 
+will demonstrate the reasonableness of that opinion … But if, in a rare case, it can be demonstrated 
+that the professional opinion is not capable of withstanding logical analysis, the judge is entitled to 
+hold that the body of opinion is not reasonable or responsible. (Lord Browne-Wilkinson at 243)
+↵
+The upshot of Bolitho is that ‘doctor knows best’ only ‘if he [sic] acts reasonably and logically and gets 
+his facts right’.25 If a particular practice, even if widely accepted within a profession, is logically 
+insupportable, a defendant cannot escape liability simply by showing that others would have acted as they 
+did.26 What this means is that the Bolam test is now better understood, to use Rachael Mulheron’s 
+formulation, as a two-stage test:
+Has the doctor acted in accordance with a practice accepted as proper by a respectable body of medical 
+opinion?
+If yes, is the practice itself ‘reasonable’ and ‘logical’?27
+However, crucially, Mulheron notes, the courts have not added a third stage in which they choose between 
+two reasonable and logical schools of thought:
+[I]t is not for the court to venture into a consideration of two contrary bodies of opinion and to 
+decide the case on the basis of which, of the patient’s and the doctor’s expert medical opinion, it 
+prefers … Once Bolam applies, the fact of differences in expert opinion cannot lead to a rejection of 
+Bolam evidence.28
+The assumption that ‘doctors know best’ (albeit qualified by the Bolitho gloss) has been especially 
+controversial in relation to warning patients of the risks of treatment and the treatment of medically 
+incapacitated adults and mature minors.29 The former now appears to have been resolved following the 
+recent case of Montgomery v Lanarkshire Health Board [2015] in which the Supreme Court rejected the 
+application of the Bolam test in cases involving the disclosure of risks in a medical context.
+p. 225
+25
+26
+27
+28
+29
+8. Breach of duty: The standard of care
+Page 15 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Until Montgomery, the leading case on the duty of doctors to inform their patients of the risks of their 
+treatment was the 30-year-old decision in Sidaway v Bethlem Royal Hospital [1985]. In Sidaway, the claimant 
+had been paralysed while undergoing an operation on her back. There was no evidence that the operation had 
+been performed negligently. However, the claimant argued that she should have been told of the known 
+(albeit very small) risk of paralysis accompanying the procedure and that, had she been told, she would not 
+have had the operation. The majority of the House of Lords, applying Bolam, held that the doctor had not 
+breached his duty of care in failing to inform her of the risks associated with her treatment as other 
+reasonable doctors would have acted in the same way. There was one caveat however. In cases where the risk 
+of ‘grave adverse consequences’ was ‘substantial’—the assessment of which was to be left to the doctor—‘in 
+the absence of some cogent clinical reason why the patient should not be informed, a doctor, recognising and 
+respecting his patient’s right of decision, could hardly fail to appreciate the necessity for an appropriate 
+warning’ (Lord Bridge, Sidaway at 24).
+↵
+The majority view has been the subject of extensive and scathing criticism, much of which has focused 
+on Lord Scarman’s dissenting opinion, in which he argued that the courts ‘cannot stand idly by if the 
+profession, by an excess of paternalism, denies its patients real choice. In a word, the law will not allow the 
+medical profession to play God’ (at 1028). Indeed, as Lords Reed and Kerr noted in Montgomery, it would be 
+‘wrong to regard Sidaway as an unqualified endorsement of the application of the Bolam test to the giving of 
+advice about treatment’ (at [57]). Over the years, the unsatisfactory nature of the majority’s analysis in 
+Sidaway has meant that the courts in England and Wales have tacitly departed from it (in favour of Lord 
+Woolf MR’s test in Pearce v United Bristol Healthcare NHS Trust [1999]): a position that ‘was effectively 
+endorsed, particularly by Lord Steyn, in the causation case Chester v Afshar [2005]’30 and was unequivocally 
+confirmed in Montgomery.
+Montgomery v Lanarkshire Health Board [2015] UKSC 11 (SC)
+In 1999, the claimant gave birth to a baby boy. As a result of complications during the birth, during 
+which the baby was starved of oxygen, the baby was born with significant disabilities. The claimant 
+sued in negligence (on behalf of her son). The claimant was a relatively small woman and diabetic. 
+Women with diabetes are more likely to have large babies and there is a 9–10 per cent risk of shoulder 
+dystocia during vaginal delivery (the baby’s shoulders being too wide to pass through the mother’s 
+pelvis). The claimant was told that she was having a larger than usual baby; however she was not told 
+about the risks of her experiencing mechanical problems during labour. Her doctor accepted that 
+there was a high risk of shoulder dystocia, but despite this, she said that her practice was not to spend 
+a lot of time, or indeed any time at all, on it ‘because, in her estimation, the risk of a grave problem for 
+the baby resulting from shoulder dystocia was very small … and that if the condition was mentioned, 
+“most women will actually say, ‘I’d rather have a caesarean section’ … and it’s not in the maternal 
+interests for women to have caesarean sections”’ (at [13]).
+p. 226
+30
+8. Breach of duty: The standard of care
+Page 16 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+The primary question for the court was whether, in failing to warn the claimant of the risk, the doctor 
+was in breach of her duty of care towards the claimant. (The lower courts had found the doctor’s 
+actions to accord with a responsible body of medical opinion (as required by Bolam) and— 
+surprisingly—not to fall within the small group of cases involving ‘a substantial risk of grave adverse 
+consequences’ where the court may substitute its own view.)
+The Supreme Court unanimously found in favour of the claimant. It held that patients have a right to 
+make their own decisions and to be given sufficient information to do so. Doctors, therefore, have a 
+corresponding duty to take reasonable care to ensure that a patient is aware of material risks inherent 
+in treatment, and of any alternatives:
+Since Sidaway, however, it has become increasingly clear that the paradigm of the doctor– 
+patient relationship implicit in the speeches in that case has ceased to reflect the 
+↵
+reality and complexity of the way in which healthcare services are provided, or the way 
+in which the providers and recipients of such services view their relationship … patients are 
+now widely regarded as persons holding rights, rather than as the passive recipients of the 
+care of the medical profession … In the law of negligence, this approach entails a duty on the 
+part of doctors to take reasonable care to ensure that a patient is aware of material risks of 
+injury that are inherent in treatment …
+An adult person of sound mind is entitled to decide which, if any, of the available forms of 
+treatment to undergo, and her consent must be obtained before treatment interfering with 
+her bodily integrity is undertaken. The doctor is therefore under a duty to take reasonable 
+care to ensure that the patient is aware of any material risks involved in any recommended 
+treatment, and of any reasonable alternative or variant treatments. The test of materiality is 
+whether, in the circumstances of the particular case, a reasonable person in the patient’s 
+position would be likely to attach significance to the risk, or the doctor is or should 
+reasonably be aware that the particular patient would be likely to attach significance to it. 
+(Lords Reed and Kerr at [75], [82], [87])
+The Justices made clear that significance of a risk is fact-sensitive and cannot be reduced to 
+percentages, and that (in line with guidance issued by the General Medical Council) in order to advise, 
+the doctor must engage in dialogue with her patient (at [89]).
+There is one important caveat (as well as the expected exceptions related to emergency treatment) to 
+the doctor’s duty to inform in the form of a ‘therapeutic exception’. This allows a doctor to withhold 
+information where ‘he reasonably considers that its disclosure would be seriously detrimental to the 
+patient’s health’ (at [88]). The court anticipates that use of this caveat will be limited: ‘it is not 
+intended to subvert that principle by enabling the doctor to prevent the patient from making an 
+informed choice where she is liable to make a choice which the doctor considers to be contrary to her 
+best interests’ (at [91]).
+p. 227
+8. Breach of duty: The standard of care
+Page 17 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+A secondary question for the court related to causation. The lower courts held that the claimant had 
+not established on the facts that she would have elected to have a caesarean section, had she been 
+properly informed. Given the evidence of the doctor herself that ‘if you were to mention shoulder 
+dystocia to every [diabetic] patient, if you were to mention to any mother who faces labour that there 
+is a very small risk of the baby dying in labour, then everyone would ask for a caesarean section’, and 
+the claimant’s own statements, it is unsurprising that the Supreme Court concluded that the claimant 
+would have chosen a caesarean section had it been offered to her.31
+Pause for reflection
+Montgomery is also—particularly in Lady Hale’s ‘footnote’ to the main judgment—a timely and 
+important recognition of patient—and in particular women’s—autonomy. It offers a ‘robust’ defence 
+of women’s choice in the context of pregnancy and childbirth.32
+… it is not possible to consider a particular medical procedure in isolation from its 
+alternatives. Most decisions about medical care are not simple yes/no answers. There are 
+choices to be made, arguments for and against each of the options to be considered, and 
+sufficient information must be given so that this can be done … Pregnancy is a particularly 
+powerful illustration [of this] … That is not necessarily to say that the doctors have to 
+volunteer the pros and cons of each option in every case, but they clearly should do so in any 
+case where either the mother or the child is at heightened risk from a vaginal delivery. In 
+this day and age, we are not only concerned about risks to the baby. We are equally, if not 
+more, concerned about risks to the mother. And those include the risks associated with 
+giving birth, as well as any after-effects. One of the problems in this case was that for too 
+long the focus was on the risks to the baby, without also taking into account what the 
+mother might face in the process of giving birth. (at [109]–[111])
+Lady Hale continued,
+31
+p. 228
+32
+8. Breach of duty: The standard of care
+Page 18 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+We do not have a full transcript of the evidence, but in the extracts we do have Dr McLellan 
+[the defendant doctor] referred to explaining to a mother who requested a caesarean section 
+‘why it may not be in the mother’s best interest’ and later expressed the view that ‘it’s not in 
+the maternal interests for women to have caesarean sections’. Whatever Dr McLellan may 
+have had in mind, this does not look like a purely medical judgment. It looks like a judgment 
+that vaginal delivery is in some way morally preferable to a caesarean section: so much so 
+that it justifies depriving the pregnant woman of the information needed for her to make a 
+free choice in the matter. Giving birth vaginally is indeed a unique and wonderful experience, 
+but it has not been suggested that it inevitably leads to a closer and better relationship 
+between mother and child than does a caesarean section.
+In any event, once the argument departs from purely medical considerations and involves 
+value judgments of this sort, it becomes clear … that the Bolam test, of conduct supported by 
+a responsible body of medical opinion, becomes quite inapposite. A patient is entitled to take 
+into account her own values, her own assessment of the comparative merits of giving birth 
+in the ‘natural’ and traditional way and of giving birth by caesarean section, whatever 
+medical opinion may say, alongside the medical evaluation of the risks to herself and her 
+baby. She may place great value on giving birth in the natural way and be prepared to take 
+the risks to herself and her baby which this entails. The medical profession must respect her 
+choice, unless she lacks the legal capacity to decide (St George’s Healthcare NHS Trust v S 
+[1999]). There is no good reason why the same should not apply in reverse, if she is prepared 
+to forgo the joys of natural childbirth in order to avoid some 
+↵
+not insignificant risks to 
+herself or her baby. She cannot force her doctor to offer treatment which he or she considers 
+futile or inappropriate. But she is at least entitled to the information which will enable her to 
+take a proper part in that decision … Gone are the days when it was thought that, on 
+becoming pregnant, a woman lost, not only her capacity, but also her right to act as a 
+genuinely autonomous human being. (at [114]–[116])33
+Lady Hale retired from the Supreme Court in January 2020. However, her comments in Montgomery 
+are indicative of what we came to expect—and welcome—from the first woman Justice on the 
+Supreme Court during her time on the court.34 Why do you think she decided to add a ‘footnote’ in 
+this case? Do you think it is important that she did so?
+p. 229
+33
+34
+8. Breach of duty: The standard of care
+Page 19 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Counterpoint
+And yet, while Montgomery calls for the opening up of lines of communication between medical 
+professionals and patients, as Kirsty Keywood notes, the effectiveness of the case in promoting and 
+protecting patient choice is—at least in part—dependent on resources being available to support their 
+choices.35 Could the decision in Montgomery itself work against this?
+After all, one consequence of the decision in Montgomery is that a substantial sum of the Lanarkshire 
+NHS Board’s budget has been taken out of the collective pot. Maternity claims already represent the 
+highest value, and the second highest number, of all NHS claims (though these represent just 0.1 per 
+cent of all births).36 However, while Lords Reed and Kerr acknowledged that the decision could lead to 
+an increase in defensive practices, as well as in claims from women claiming that they had not been 
+adequately advised, they did not expect this to be the case:
+[A]n approach to the law which, instead of treating patients as placing themselves in the 
+hands of their doctors (and then being prone to sue their doctors in the event of a 
+disappointing outcome), treats them so far as possible as adults who are capable of 
+understanding that medical treatment is uncertain of success and may involve risks, 
+accepting responsibility for the taking of risks affecting their own lives, and living with the 
+consequences of their choices … in so far as the law contributes to the incidence of litigation, 
+an approach which results in patients being aware that the outcome of treatment is 
+uncertain and potentially dangerous, and in their taking responsibility for the ultimate 
+choice to undergo that treatment, may be less likely to encourage recriminations and 
+litigation, in the event of an adverse outcome, than an approach which requires patients to 
+rely on their doctors to determine whether a risk inherent in a particular form of treatment 
+should be incurred. (at [81], [93])
+Do you agree?37
+↵
+Without doubt Montgomery is a landmark decision.38 ‘“Informed consent” has arrived’ and is now 
+‘firmly part of English law’ (Lady Hale at [107]).39 Doctors now have ‘a duty to take reasonable care to ensure 
+that the patient is aware of any material risks involved in any recommended treatment, and of any reasonable 
+alternative or variant treatments’ (at [87]). In Duce v Worcestershire Acute Hospitals NHS Trust [2018], Hamblen 
+LJ suggested the assessment of the materiality of the risk involved a two-stage test (paragraph numbers refer 
+to Montgomery):
+35
+36
+37
+p. 230
+38
+39
+8. Breach of duty: The standard of care
+Page 20 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(1)
+(2)
+What risks associated with an operation were or should have been known to the medical 
+professional in question. That is a matter falling within the expertise of medical 
+professionals [83].
+Whether the patient should have been told about such risks by reference to whether they 
+were material. That is a matter for the Court to determine [83]. This issue is not therefore the 
+subject of the Bolam test and not something that can be determined by reference to expert 
+evidence alone [84]–[85]. (Duce at [33])
+So when might a risk be ‘material’? And, more importantly, how does a doctor determine what is material to a 
+specific patient? The test of materiality, as set out in Montgomery, is ‘whether, in the circumstances of the 
+particular case, a reasonable person in the patient’s position would be likely to attach significance to the risk, 
+or the doctor is or should reasonably be aware that the particular patient would be likely to attach significance 
+to it’ (at [87]). The test is both subjective and objective. However, what is less clear is the extent to which 
+subjective factors relating to the patient are relevant:
+[T]he greater degree of subjectivity inserted into the assessment the further one departs from the 
+standard of the reasonable patient. Some characteristics of a patient are obvious: In particular that 
+person’s actual medical condition which would include its severity. Other personal factors may be 
+less self-evident: such as the patient’s tolerance for or stoicism towards pain, or the ability to 
+manage pain. Other factors might be quite remote from the medical or physiological condition of the 
+patient, such as the patient’s need to return to work, or the fact that the patient has suffered a recent 
+event in his/her life (such as a bereavement or a divorce) which renders that person unusually 
+fragile and (say) unwilling to take chances at that particular time. (Green J, Thefaut v Johnston [2017] 
+at [55])
+The test was applied by the High Court in A v East Kent Hospitals University NHS Foundation Trust [2015] 
+(which was heard just five days after the judgment in Montgomery). The claimant argued that the defendant 
+had negligently failed to warn her that the foetus she was carrying might be suffering from a chromosomal 
+abnormality. It was common ground that were the risk of such an abnormality found to be ‘material’ then it 
+ought to have been raised with the claimant. Finding for the defendant, the judge held that while a risk 
+‘somewhere in the region of 1–3 per cent’ would, in this context, be considered ‘material’ (and, as such, 
+should be raised with the claimant), ‘the decision in Montgomery … is not authority for the proposition that 
+medical practitioners need to warn about risks which are theoretical’ or ‘background’, as was the case here 
+(Dingeman J at [90], [101]).40
+↵
+But what of the availability of ‘any reasonable alternative or variant treatments’. Lords Kerr and Reed 
+left open the question as to when an alternative treatment would be considered ‘reasonable’ and, as such, 
+raised with the patient. This was addressed by the Supreme Court in McCulloch v Forth Valley Health Board 
+[2023].
+40
+p. 231
+8. Breach of duty: The standard of care
+Page 21 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+McCulloch v Forth Valley Health Board [2023] UKSC 26 (SC)
+Mr McCulloch was admitted to hospital with severe chest pains. He was diagnosed with pericarditis 
+(inflammation of the sac surrounding the heart). Following treatment, his condition improved and he 
+was discharged from hospital. Two days later, he was readmitted complaining of chest pain. He was 
+seen by a consultant who discussed with him the possibility of pericardiocentesis (a procedure to 
+drain the fluid) but, as his condition appeared to be improving, she did not think this was necessary at 
+the time. The consultant did not, however, discuss her decision not to prescribe Mr McCulloch non- 
+steroidal anti-inflammatory drugs (NSAIDs) as an alternative to the procedure. A few days later, he 
+was discharged from hospital. Sadly, Mr McCulloch died the next day following a cardiac arrest. The 
+claimant (Mr McCulloch’s widow who was bringing the claim along with other relatives) argued that 
+Mr McCulloch ought to have been prescribed NSAIDs and that had the consultant done so, Mr 
+McCulloch would have taken them and, on the balance of probabilities, would not have suffered a 
+cardiac arrest.
+The question for the court was ‘what legal test should be applied to the assessment as to whether an 
+alternative treatment is reasonable and requires to be discussed with the patient’ (at [3]). And, more 
+specifically,
+did the doctor in this case fall below the required standard of reasonable care by failing to 
+make a patient aware of an alternative treatment in a situation where the doctor’s opinion 
+was that the alternative treatment was not reasonable and that opinion was supported by a 
+responsible body of medical opinion? (at [3])
+Finding for the defendant, the court held that ‘the correct legal test to be applied to the question of 
+what constitutes a reasonable alternative treatment is the professional practice test found in … 
+Bolam’ (at [56]). Lords Hamblen and Burrows continued:
+On the facts of this case, therefore, as Dr Labinjoh [the consultant] took the view that 
+prescribing NSAIDs was not a reasonable alternative treatment because … [Mr McCulloch] 
+had no relevant pain and there was no clear diagnosis of pericarditis and, because that view 
+was supported by a responsible body of medical opinion … there was no breach of the duty of 
+care to inform required by Montgomery … [and] no basis for going behind [the] decision [of 
+the lower courts who had] reached on the evidence that Dr Labinjoh was not negligent. (at 
+[56])
+They further stated that:
+8. Breach of duty: The standard of care
+Page 22 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+A hypothetical example may help to explain, in more detail, how we regard the law as 
+working. A doctor will first seek to provide a diagnosis (which may initially be a provisional 
+diagnosis) having, for example, examined the patient, conducted tests, and having had 
+discussions with the patient. Let us then say that, in respect of that diagnosis, there are ten 
+possible treatment options and that there is a responsible body of medical 
+↵
+opinion that 
+would regard each of the ten as possible treatment options. Let us then say that the doctor, 
+exercising his or her clinical judgment, and supported by a responsible body of medical 
+opinion, decides that only four of them are reasonable. The doctor is not negligent by failing 
+to inform the patient about the other six even though they are possible alternative 
+treatments. The narrowing down from possible alternative treatments to reasonable 
+alternative treatments is an exercise of clinical judgment to which the professional practice 
+test should be applied. The duty of reasonable care would then require the doctor to inform 
+the patient not only of the treatment option that the doctor is recommending but also of the 
+other three reasonable alternative treatment options (plus no treatment if that is a 
+reasonable alternative option) indicating their respective advantages and disadvantages and 
+the material risks involved in such treatment options.
+The identification of which treatments are reasonable alternatives (ie clinically appropriate) 
+is as much a matter falling within medical expertise and professional judgment, and hence 
+governed by the professional practice test, as the identification of risks associated with any 
+treatment. Indeed, they are closely linked. The risk of any given treatment will be a 
+significant part of any analysis of alternative treatment options. The identification of 
+reasonable alternative treatments (ie clinically appropriate treatments) should therefore be 
+treated in the same way as the identification of risk in Duce. It is only once the reasonable 
+alternative treatment options have been identified that the second stage advisory role arises. 
+That is, the doctor is required at the second stage to inform the patient of the reasonable 
+alternative treatments and of the material risks of such alternative treatments. (at [57], [64])
+Though welcomed by NHS Resolution for applying ‘sound common sense’,41 as Louise Austin has noted, the 
+upshot of McCulloch is the creation of ‘two tests of disclosure dependent upon whether the information being 
+disclosed relates to risks or alternative treatments’:
+Montgomery is widely regarded as a landmark decision in informed consent because of its redefining 
+of ‘materiality’ of risk away from the Bolam reasonable doctor standard in favour of an approach 
+focused on what information the patient is likely to find significant. The courts have not adopted the 
+same patient-oriented approach in the context of reasonable alternative treatments culminating in 
+the Supreme Court’s decision to apply Bolam in McCulloch.42
+p. 232
+41
+42
+8. Breach of duty: The standard of care
+Page 23 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Inevitably, perhaps, many legal arguments have been made, and much judicial and academic ink43 has been 
+spilt since Montgomery as doctors, lawyers and their clients attempt to work 
+↵
+out its impact on clinical 
+practice.44 What is clear is that Bolam is far from dead. It continues to inform both stages of the Montgomery 
+test (see e.g. Grimstone v Epsom and St Helier University Hospitals NHS Trust [2015]; Bayley v George Eliot 
+Hospital [2017]; Duce; Diamond v Royal Devon and Exeter NHS Foundation Trust [2019]; Brady v Southend 
+University Hospital NHS Foundation Trust [2020]). Nor has Montgomery been confined to recent cases. In CNZ v 
+Royal Bath Hospitals NHS Foundation Trust [2023], for example, it was applied in respect of obstetric care 
+received by the claimant’s mother in 1996. Neither has it been confined to consent cases (as was originally 
+thought). Its principles have been applied in cases where treatment in general is in question (see e.g. Webster 
+v Burton Hospitals NHS Foundation Trust [2017]), to the duty to inform a patient of the need for follow-up 
+treatment (Gallardo v Imperial College Healthcare Trust [2017]) and outside a medical context in O’Hare v 
+Coutts & Co [2016] in which the defendant, a private bank, was found to owe a duty to take reasonable care to 
+warn its customers of risks relating to suggested investments (although, on the facts, it had not breached 
+that duty).
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-8-3>.
+8.4  Setting the standard of care
+Having determined that the courts generally apply a common standard, we now need to consider how the 
+courts go about setting that standard. While the courts do not (usually) take into account the characteristics of 
+the individual defendant, they do take into account the circumstances of the situation in which the accident 
+or injury occurred. The standard of care does not exist in the abstract: ‘The law in all cases exacts a degree of 
+care commensurate with the risk’ (Lord Macmillan, Read v Lyons Co Ltd [1947] at 173).
+So, if we ask what is a reasonable speed to drive, the answer will vary—the reasonable car driver will drive at 
+different speeds at different times and according to different circumstances.45 Some examples may help here. 
+All things being equal, it is reasonable to drive at 70 mph on a clear motorway but not on residential streets. It 
+will be reasonable to drive faster in clear weather conditions than when it is pouring with rain or foggy. Why 
+is this? The answer is straightforward. The risks posed by driving at 70 mph in a residential street are higher 
+than those on a clear motorway. Similarly, accidents are more likely to occur in adverse weather conditions. 
+The reasonable driver may be expected to take more care when driving near a school, where potential injuries 
+may not only be more likely (e.g. a child running out from behind a parked car) but more severe (a child is 
+more likely to be more seriously injured than an adult if hit by a car) than if, say, they have an injured friend 
+in the back of their car who they are rushing to hospital (where the social utility of their act may outweigh 
+the risks it creates).
+43
+p. 233
+44
+45
+8. Breach of duty: The standard of care
+Page 24 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Thus, in Wooldridge v Sumner [1963], for example, a photographer who was injured while working at the 
+National Horse Show was unable to recover for the serious injuries he suffered when one of the riders he was 
+photographing had come round the corner of the arena 
+↵
+at excessive speed causing the horse to become 
+temporarily out of control. Rejecting his claim, the Court of Appeal held that:
+[t]he law of negligence has always recognised that the standard of care which a reasonable man will 
+exercise depends upon the conditions under which the decision to avoid the act or omission relied 
+upon as negligence has to be taken. (Diplock LJ at 67)
+In the absence of recklessness or an intention to harm the claimant, the horse rider was free to concentrate 
+on winning the competition.
+When seeking to define the standard of care required of the defendant—that is, what the defendant ought to 
+have done or what is reasonable in the circumstances of the case—the courts take a number of factors into 
+account: probability or risk of the injury; the seriousness of the injury; the cost of taking precautions; and the 
+social value of the activity:
+the question of what amounts to ‘such care as is in all the circumstances of the case is reasonable’ 
+depends upon assessing … not only the likelihood that someone may be injured and the seriousness 
+of the injury which may occur, but also the social value of the activity which gives rise to the risk and 
+the cost of preventative measure. These factors have to be balanced against each other. (Lord 
+Hoffmann, Tomlinson v Congleton Borough Council [2003] at [34])
+It is, in essence, a balancing act where no one factor is viewed in isolation from the others. In each case, the 
+courts weigh up the likelihood of injury and the seriousness of harm against the cost of taking precautions 
+and the social value of the activity before coming to a decision as to what was reasonable in all the 
+circumstances of the case—that is, what the reasonable man would have done.
+Pause for reflection
+The process through which the courts distinguish between acceptable and unacceptable carelessness 
+was reduced to a quasi-mathematical formula by a US judge named Learned Hand (in United States v 
+Carroll Towing Co [1947]). The so-called ‘Learned Hand test’ holds that where the private and social 
+costs46 of taking precautions (B) is less than the probability (P) multiplied by the likelihood of injury 
+(L), the defendant will be held to have fallen below the standard of care of the reasonable person if 
+they fail to take such precautions. Conversely, where the costs of taking precautions (B) are greater 
+than the probability (P) multiplied by the seriousness of the injury (L) occurring, it would be 
+unreasonable to expect the defendant to take such precautions.
+p. 234
+46
+8. Breach of duty: The standard of care
+Page 25 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Of course, in reality few, if any, social interactions can be reduced to this formula. And while the test 
+remains a helpful illustration of the sort of balancing exercises the courts are undertaking when 
+setting the appropriate standard of care in all the circumstances of the case, 
+↵
+its purpose is 
+essentially economic: ‘If it can be shown that expenditure of £X on avoiding or minimising the risk of 
+an accident will prevent accident costs of £X + Y, then it is clearly desirable that £X should be spent. 
+On the other hand, it is said, there is no point in spending £X to prevent accident costs which are less 
+than £X.’47 This reduction of value of life and limb to a mathematical formula is described by Joanne 
+Conaghan and Wade Mansell as ‘ideologically objectionable in its shallow and impoverished view of 
+human activity’.48 Do you agree? For a real-life example consider the US case of Grimshaw v Ford 
+Motor Co [1981], discussed in section 12.2.1.1.
+8.4.1  Probability that the injury will occur
+One of the first factors the courts will take into account is likelihood of the injury occurring. The general rule 
+is the more likely—or foreseeable—the outcome, the greater the possibility that the courts will find the 
+defendants liable for failing to take steps to avoid it.
+Bolton v Stone [1951] AC 850 (HL)
+The claimant was hit on the head outside her house by a cricket ball hit by a player from an adjacent 
+cricket pitch. The hit was substantial, although possibly not exceptional. The ball had travelled some 
+100 yards (approx 91 m) and over a seven-foot fence (which, due to the slope of the pitch, was in 
+effect 17 feet high). The claimant sued in negligence and nuisance.
+The House of Lords, rejecting both claims,49 held that although there was evidence that over a period 
+of years balls had been hit out of the ground, this was, in fact, very rare. It had happened six times in 
+30 years. Thus, although the possibility of a ball being hit out of the ground was foreseeable, this was 
+not sufficient to establish negligence since the chances of the ball hitting someone were so low that a 
+reasonable person would not have taken precautions to stop it happening.
+The standard of care in the law of negligence is the standard of an ordinarily careful man, but 
+in my opinion an ordinarily careful man does not take precautions against every foreseeable 
+risk … He takes precautions against risks which are reasonably likely to happen … there are 
+many footpaths and highways adjacent to cricket grounds and golf courses on to which 
+cricket and golf balls are occasionally driven, but such risks are habitually treated both by the 
+owners and committees of such cricket and golf courses and by the pedestrians who use the 
+adjacent footpaths and highways as negligible and it is not, in my opinion, actionable 
+negligence not to take precautions to avoid such risks. (Lord Oaksey at 863)50
+p. 235
+47
+48
+49
+50
+8. Breach of duty: The standard of care
+Page 26 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+↵
+Thus, in Richards v London Borough of Bromley [2012], the Court of Appeal held that an injury suffered 
+by a school pupil (who had injured her heel when leaving the school through a pair of swing doors) was not 
+reasonably foreseeable. Though there had been one incident four months earlier, this was only superficially 
+similar to the accident in question. Moreover,
+[i]n any event the trivial nature of the earlier incident and the risk which it brought to light, seen in 
+the context of thirty years’ safe use of the doors by thousands of children and staff, rendered 
+reasonable both the nature of the remedial action which the school authorities proposed to take and 
+the timescale within which they proposed to do it’. (at [14])
+In Perry v Harris [2008], a child suffered severe and permanent injuries while using a bouncy castle at her 
+friend’s birthday party. Finding for the defendant, the parents who had hired the bouncy castle, Lord Phillips 
+CJ held that ‘the standard of care she was required to show was that which a reasonably careful parent would 
+show for her own children’ (at [37]). In setting the standard of care, what mattered was not merely whether 
+some harm was foreseeable but also the severity of the foreseeable harm:
+A reasonable parent could foresee that if children indulged in boisterous behaviour on a bouncy 
+castle, there would be a risk that, sooner or later, one child might collide with another and cause that 
+child some physical injury of a type that can be an incident of some contact sports. We do not 
+consider that it was reasonably foreseeable that such injury would be likely to be serious, let alone as 
+severe as the injury sustained by the claimant. (Lord Phillips CJ at [38])
+This was followed in the similar case of Cockbill v Riley [2013] in which the claimant fractured his spine 
+resulting in incomplete tetraplegia after entering a paddling pool (it was not clear how he had done so) while 
+at a party to celebrate the end of his GCSEs. The court held that it was not reasonably foreseeable that 
+someone would attempt to carry out a dive or a belly-flop and thus suffer grave injury and so the defendant 
+was not in breach of his duty of care to the claimant.
+It is also clear from the cases that the conduct of the defendant is assessed at the time of the alleged breach. It 
+is a test of foresight, not hindsight (Roe v Ministry of Health [1954]). If something seems to be acceptable at 
+the time—that is, if the risk of injury is low—then it is unlikely to be considered negligent.
+Roe v Ministry of Health [1954] 2 QB 66 (CA)
+The claimants were paralysed after being injected with contaminated nupercaine (a spinal 
+anaesthetic) during a routine, minor operation. The nupercaine had been contained in sealed glass 
+ampoules and stored in a solution of phenol prior to use. Unknown to the hospital, the phenol had 
+percolated into the ampoules through invisible cracks or molecular flaws, causing the claimants’ 
+paralysis.
+p. 236
+8. Breach of duty: The standard of care
+Page 27 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Rejecting the claims, the Court of Appeal held that, though it was clear in hindsight that the hospital 
+was at fault, at the time of the operation neither the anaesthetist nor any of the hospital staff knew of 
+the dangers of storing glass ampoules in the phenol solution. The test applied was the standard of 
+medical knowledge when the accident occurred in 1947: ‘We must not look at the 1947 accident with 
+1954 spectacles’ (Denning LJ at 84).
+↵
+The approach in Roe was affirmed in Williams v University of Birmingham [2011]. The widow of a former 
+physics undergraduate, who had conducted experiments in an asbestos-lagged service tunnel under the 
+science department at the University of Birmingham and who had since died of malignant mesothelioma in 
+his left lung, brought a claim against the university in negligence. The university admitted that the 
+claimant’s husband would have been exposed to asbestos as a student, but argued that the exposure was too 
+small to ground a claim. Rejecting the claim, Atkins LJ (giving the leading judgment) adapted Denning LJ’s 
+‘graphic phrase’, to argue that ‘we must not look at what happened in the tunnel in 1974 through 2009 or 
+2011 spectacles’ (at [38]). The state of the lagging was not such as should have alerted the university to a 
+reasonably foreseeable risk that people using the tunnel might be exposed to an unacceptable risk of an 
+asbestos-related injury (at [60]–[61]).
+Pause for reflection
+A leading medical textbook published in 1951 (after the accident which formed the basis of the claim 
+in Roe) warns medical practitioners to ‘never place ampoules of local anaesthetic solution in alcohol 
+or spirit. This common practice is probably responsible for some cases of permanent paralysis 
+reported after spinal analgesia’ (Roe at 86). However, despite this significant societal benefit—it was 
+the injuries suffered by the claimants in Roe which first alerted the medical profession to this 
+particular danger—the effect of the Court of Appeal’s decision was that the full cost or burden of this 
+medical advance was borne solely by the unfortunate men. This apparent injustice was rejected by 
+Denning LJ:
+[W]e should be doing a disservice to the community at large if we impose liability on 
+hospitals and doctors for everything that happens to go wrong … Initiatives would be stifled 
+and confidence shaken … We must insist on due care for the patient at every point, but we 
+must not condemn as negligence that which is only a misadventure. (at 87)
+Do you agree? Compare Denning LJ’s reasoning in Roe with that in Nettleship—why do you think he 
+adopted such a markedly different approach in this case?
+p. 237
+8. Breach of duty: The standard of care
+Page 28 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Check our pointers <https://iws.oupsupport.com/ebook/access/content/horsey9e-student-  
+resources/horsey9e-chapter-8-pointers-to-pause-for-reflection-and-counterpoint-boxes? 
+options=showName> on how to answer the questions posed in this ‘Pause for reflection’.
+8.4.2  Seriousness of the injury
+The second factor the courts take into account is the seriousness of the injury should it occur. Generally, the 
+more serious the potential injury, the more likely the defendant will be found to have fallen below the 
+required standard of care should it materialise. After all, ‘the law expects of a man a great deal more care in 
+carrying a pound of dynamite than a pound of butter’ (Singleton LJ, quoting Percy H Winfield, in Beckett v 
+Newalls Insulation Co Ltd [1953] at 15). In Paris v Stepney Borough Council [1951] the claimant, a garage hand, 
+suffered serious injury when a metal chip flew into one of his eyes while he was working. Unfortunately, he 
+was already (as his employers knew) blind in his other eye. The injury, therefore, left him effectively blind. He 
+sued his employers, claiming they were negligent in failing to provide safety goggles and to require their use 
+as part of a safe system of work.51 The majority of the 
+↵
+House of Lords agreed. Though the chance of 
+injury was low, the seriousness of the consequences should an accident occur must also be taken into account 
+when assessing the precautions a reasonable employer should take to ensure the safety of their workforce. 
+The provision of safety goggles was ‘obviously necessary when a one-eyed man was put to [this] kind of 
+work’ (at 383).
+Similarly, in Overseas Tankship (UK) Ltd v Miller Steamship Co Pty Ltd (The Wagon Mound) (No 2) [1967] the 
+defendants carelessly transferred furnace oil from a nearby wharf onto a vessel, the Wagon Mound, which was 
+moored in Sydney Harbour, causing a large quantity of the oil to spill into the harbour where it accumulated 
+around the wharf and the claimants’ vessels. The owners of the wharf were carrying out repairs on the 
+claimants’ ships which caused pieces of hot metal to fly off and into the wharf. On one such occasion it is 
+thought that the metal fell onto an object supporting a piece of inflammable material in the oil-covered 
+water, which subsequently ignited. This caused the oil to catch alight and the ensuing fire quickly destroyed 
+the wharf and the claimants’ vessels. The Privy Council held that although the chance of the oil catching fire 
+was very low it was nevertheless a real one and, given the very grave consequences should the risk 
+materialise, there was no justification for the defendant’s failure to take steps to eliminate it given how easy it 
+was for them to prevent the spillage (had they taken reasonable care in the first place when filling up the 
+vessel). On this basis, the defendants had fallen below the standard of care required—the reasonable man 
+would have taken precautions.
+If a real risk is one which would occur to the mind of a reasonable man in the position of the 
+defendant’s servant and which he would not brush aside as far-fetched … then surely he would not 
+neglect such a risk if action to eliminate it presented no difficulty, involved no disadvantage, and 
+required no expense. (at 643–4)52
+51
+p. 238
+52
+8. Breach of duty: The standard of care
+Page 29 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+8.4.3  Cost of taking precautions
+The courts also consider the cost to the defendant of taking precautions against the risk. The lower the cost— 
+whether in terms of time or money—the more reasonable it is that someone should take precautions. Thus, it 
+is likely (all things being equal) that the courts would consider a driver who fails to slow down while driving 
+near a school at the end of the school day to have fallen below the standard of care required of a reasonable 
+driver—the cost to the driver of driving more slowly is unlikely to be seen as unreasonably high. If, on the 
+other hand, the cost of taking precautions is very onerous, it is less likely that it will be considered reasonable 
+for the defendants to bear such costs—especially, but not only, when the risk of injury is low (Latimer v AEC 
+Ltd [1953]).53
+Traditionally the courts have been reluctant to interfere with the budgetary decisions made in relation to 
+limited resources by public authorities. In Knight v Home Office [1990], a mentally ill prisoner committed 
+suicide. As a known suicide risk, he had been observed every 15 minutes. The court recognised that while lack 
+of funds could never be a complete defence to insufficient safety precautions, the facilities of a prison hospital 
+were necessarily different to a specialist psychiatric hospital and so, on the facts, there was no breach of the 
+prison officers’ 
+↵
+duty of care. However, in Goldscheider v Royal Opera House Covent Garden Foundation 
+[2019] the Court of Appeal found the Royal Opera House (ROH), a charity based in Covent Garden, London, 
+liable for the injuries suffered by one of its performers. The claimant, a viola player in the orchestra of the 
+ROH, was able to recover for the damage caused to his hearing as a result by being placed too close to the 
+trumpet section in the orchestra ‘pit’. Despite undertaking a risk assessment and providing performers with 
+ear plugs and training, the ROH had failed to take ‘all reasonably practical steps’ to protect the claimant’s 
+hearing in breach of the Control of Noise at Work Regulations 2005. McCombe and Bean LJJ continued:
+It is in our judgment particularly significant that the pit was [later] reconfigured … with the brass 
+instruments being split up. There is no evidence that this caused an unacceptable reduction (or 
+indeed any reduction at all) in the artistic standards of … [the Wagner opera the claimant was 
+performing] when it came to be performed in public. Alterations made by defendants after a 
+workplace accident do not necessarily demonstrate liability retrospectively, but they do make it very 
+difficult for the defendant to prove that all reasonably practicable steps had already been taken. (at 
+[42])
+8.4.4  Social value of the activity
+While an assessment of the ‘cost of taking precautions’ goes to the private costs of adhering to a particular 
+standard of care imposed on the individual, this final factor relates to the social costs of the activity. The 
+greater the social value of the activity, the more likely the courts will find it reasonable to have dispensed with 
+safety precautions.
+While there is no special exemption for any of the emergency services from the law of negligence (the 
+question remains whether the defendant has behaved as a reasonable man), the court will take into account 
+the emergency in which the defendant is acting. The standard of care will usually therefore be lower where 
+the defendant is acting in the ‘heat of the moment’ or in an emergency or rescue situation.
+53
+p. 239
+8. Breach of duty: The standard of care
+Page 30 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Watt v Hertfordshire County Council [1954] 1 WLR 835 (CA)
+A fireman was seriously injured by heavy lifting-gear while travelling in the back of a lorry on the 
+way to an accident where a woman was trapped under a vehicle. The lorry had not been specially 
+fitted to carry the gear in an emergency.
+The Court of Appeal, rejecting the fireman’s claim, held that the public benefit justified taking the 
+risks associated with failing to adequately secure the lifting-gear in the back of the lorry:
+It is well settled that in measuring due care you must balance the risk against the measures 
+necessary to eliminate the risk. To that proposition there ought to be added this: you must 
+balance the risk against the end to be achieved … The saving of life or limb justifies taking 
+considerable risk. (Denning LJ at 838)
+If, therefore, the same accident had occurred in pursuit of a commercial end then the claimant would 
+have recovered: ‘the commercial end to make a profit is very different from the human end to save life 
+or limb’ (at 838).54
+↵
+But what about other ‘socially valuable’ activities such as sports events or games between children?
+In the context of sporting events,
+the threshold for liability is in practice inevitably high; the proof of a breach of duty will not flow 
+from proof of no more than an error of judgment or from mere proof of a momentary lapse in skill 
+(and thus care) respectively when subject to the stresses of a race [or game or match]. Such are no 
+more than incidents inherent in the nature of the sport. (HHJ Walden-Smith, Tylicki v Gibbons 
+[2021] at [26] referring to Holland J in Caldwell)
+Liability is ‘fact specific’ and ‘cannot be resolved in a vacuum’ (Caldwell v Maguire [2002] at [30]). In Condon v 
+Basi [1985], the first case to consider the standard of care relating to players in the context of competitive 
+sports, the claimant was injured by a ‘reckless and dangerous’ sliding tackle during a Sunday league football 
+game. The trial judge held that the tackle amounted to ‘serious and dangerous foul play which showed a 
+reckless disregard of the Plaintiff’s safety and which fell far below the standards which might reasonably be 
+expected in anyone pursuing the game’. Upholding this decision, Sir John Donaldson MR confirmed that the 
+objective standard of care was to be assessed in context: ‘there will of course be a higher degree of care 
+required of a player in a First Division football match than of a player in a Fourth Division football match’. 
+This was followed in Fulham Football Club v Jones [2022]. The claimant suffered a career-ending injury as the 
+result of being tackled by the defendant during an under-18 football match. Finding for the defendant, Lane J 
+held that in determining the relevant standard of care in a negligence claim in the context of sports injuries 
+54
+p. 240
+8. Breach of duty: The standard of care
+Page 31 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+the court will have regard to the context and realities of the relevant sport and that the standard of care for 
+establishing liability in negligence is ‘materially higher’ than a mere breach of the rules of the game (the 
+referee in this case had not awarded a foul and allowed play to continue).55
+This approach has also been adopted outside the context of organised sports. In Blake v Galloway [2004], for 
+example, a teenager was injured while playing a ‘game’ which involved throwing bark and twigs at each 
+other. The Court of Appeal held that there had been no breach of duty:
+If the defendant in the present case had departed from the tacit understandings or conventions of 
+the play and, for example, had thrown a stone at the claimant, or deliberately aimed the piece of bark 
+at the claimant’s head, then there might have been a breach of the duty of care. But what happened 
+here was, at its highest, ‘an error of judgment or lapse of skill’ (to quote from Diplock LJ), and that is 
+not sufficient to amount to a failure to take reasonable care in the circumstances of horseplay such 
+as that in which these youths were engaged … This was a most unfortunate accident, but it was just 
+that. Young persons will always want to play vigorous games and indulge in horseplay, and from 
+time to time accidents will occur and injuries will be caused. But, broadly speaking, the victims of 
+such accidents will usually not be able to recover damages unless they can show that the injury has 
+been caused by a failure to take care which amounts to recklessness or a very high degree of 
+carelessness, or that it was caused deliberately (i.e. with intent to cause harm). (Dyson LJ at [15], 
+[25])
+However, it is clear following Scout Association v Barnes [2010] that the social value of an activity as a whole 
+does not mean that all examples of that activity are acceptable, whatever the risk:
+Of course, the law of tort must not interfere with activities just because they carry some risk. Of 
+course, the law of tort must not stamp out socially desirable activities. But whether the social 
+↵
+benefit of an activity is such that the degree of risk it entails is acceptable is a question of fact, 
+degree and judgment, which must be decided on an individual basis and not by a broad brush 
+approach. (Smith LJ at [49])
+In Barnes, the claimant was injured while playing a game called ‘Objects in the Dark’ which involved running 
+around a pile of wooden blocks in a scout hall and attempting to grab a block once the lights were switched 
+off (with only minimal lighting provided by emergency exit lights). The majority of the Court of Appeal 
+upheld the trial judge’s decision that the defendant had breached its duty—the value of playing the game in 
+the dark as a way of adding ‘spice’ to increase the boys’ enjoyment of the game, and which ‘might well 
+encourage boys to attend scouts—a desirable objective—did not justify the increased foreseeable risk’ (Smith 
+LJ at 46).
+55
+p. 241
+8. Breach of duty: The standard of care
+Page 32 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Pause for reflection
+Though it is clear from the majority judgments in Barnes that the trial judge had appropriately 
+weighed the costs and benefits of the competing factors at issue in the case, there is considerable force 
+in Ward LJ’s dissenting opening paragraph:
+I have to confess that I have found it uncommonly difficult to reach a confident judgment in 
+this case. Here was a big strong thirteen year old lad, well-used to rough and tumble, playing 
+rugby with distinction for his county, ever ready to take the bumps and the bruises, ever 
+willingly to put his body on the line for the thrill of his sport. For him, you get hurt, you get 
+up, and you get on with it. He brought the same enthusiasm and competitive instincts to his 
+participation in his local Scout troop. He was the least likely boy to need wrapping in cotton 
+wool. So, is awarding him damages for an injury suffered playing the game, ‘Objects in the 
+Dark’, not an example of an overprotective nanny state robbing youth of fun simply because 
+there was some risk involved in the exercise? Is this a decision which emasculates those 
+responsible for caring for our children and in so doing, enfeebles the children themselves? 
+Where do you draw the line? I have found that hard to answer. (at [50])
+Do you think that the majority drew the line correctly in this case? To what extent, if at all, can it be 
+reconciled with the decision in Blake v Galloway?
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-8-4>.
+8.5  Parliamentary interventions
+In recent years, successive governments have made various (unnecessary) interventions in an effort to 
+address the perception of a growing compensation culture in the UK.56 The Compensation Act 2006 is one 
+example. Speaking in 2005, the then Prime Minister, Tony Blair, suggested its purpose was to:
+clarify the existing common law on negligence to make clear that there is no liability in negligence 
+for untoward incidents that could not be avoided by taking reasonable care or exercising 
+↵
+reasonable skill … This will send a strong signal and it will also reduce risk-averse behaviour 
+by providing reassurance to those who may be concerned about possible litigation, such as 
+volunteers, teachers and local authorities.57
+56
+p. 242
+57
+8. Breach of duty: The standard of care
+Page 33 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(1)
+To this end, section 1 determines that the courts when considering a claim in negligence or breach of 
+statutory duty may ‘have regard to’ the wider impact of their assessment of the appropriate standard of care 
+in a particular case—in particular, whether a requirement to take those steps might: (a) prevent a desirable 
+activity from being undertaken at all, to a particular extent or in a particular way; or (b) discourage persons 
+from undertaking functions in connection with a desirable activity. Of course, this adds little to our 
+understanding of the tort of negligence. As Jackson LJ in Barnes notes, it simply restates what we already 
+know, that:
+the function of the law of tort [is] to deter negligent conduct and to compensate those who are the 
+victims of such conduct. It is not the function of the law of tort to eliminate every iota of risk or to 
+stamp out socially desirable activities. (at [34])58
+Nevertheless, in 2015 the Compensation Act was joined by another unnecessary piece of legislation: the Social 
+Action, Responsibility and Heroism (SARAH) Act 2015. At just 176 words long and enacted as part of the 
+Coalition government’s ‘wider programme to encourage participation in civil society and … a specific 
+commitment to “take a range of measures to encourage volunteering and involvement in social action”’,59 
+the SARAH Act lists three matters—social action, responsibility and heroism—to which a court must have 
+regard in determining a claim in negligence or breach of statutory duty. Save for a passing reference in the 
+unrelated case of Long v Elegant Resorts Ltd [2021] it is yet to be applied in a reported case.
+Watch our video ‘Where Angels Fear to Tread: Unnecessarily law-making and the Social Action, 
+Responsibility and Heroism Act 2015’ where we look at what the 2015 Act tells us about what happens when 
+Parliament steps in to ‘fix’ a non-existent problem.
+Video playback is not supported in this format.
+Video 8: Where angels fear to tread: unnecessary law-making and the Social Action, Responsibility and Heroism Act 2015
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-8-5>.
+8.6  Establishing breach
+You will remember that in order to establish whether the defendant has breached their duty of care two 
+questions need to be considered:
+How the defendant ought to have behaved in the circumstances—what was the required standard of 
+care in these circumstances?
+58
+59 
+8. Breach of duty: The standard of care
+Page 34 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+(2)
+How the defendant did behave—did they fall below the standard of care required?
+So far, this chapter has concentrated solely on the first of these questions. The second question—that is, 
+proof of negligence—is largely a question of fact to be determined by the court on the evidence before them. 
+The burden is on the claimant to establish, on the balance of probabilities—that is, that it is more likely than 
+not—that the defendant’s actions fell below the required standard of care.60
+↵
+At times this can be extremely difficult. In many cases, the claimant will have to rely on the defendant 
+releasing certain information to them (which they are unlikely, understandably, to be willing to do) or the 
+information may be highly technical or simply very dense. The latter is particularly so in relation to litigation 
+arising out of a defective drug where it can be very time-consuming and expensive to sift through the 
+scientific and medical evidence.61 Things are slightly more straightforward in relation to road traffic 
+accidents. Section 11 of the Civil Evidence Act 1968 shifts the burden of proof onto the defendant to show that 
+he was not negligent and that his conduct (although criminal) does not amount to civil negligence. While a 
+criminal conviction (or breach of the Highway Code (Brown v Paterson [2010])) does not automatically 
+establish negligence, it is admissible in civil proceedings as prima facie evidence of negligence. It is highly 
+likely, therefore, that a driver who, for example, is convicted of injuring another by their careless driving, will 
+also be found to be negligent.62
+The courts may also infer negligence from the circumstances in which the accident or injury took place. This 
+process is usually described by the phrase res ipsa loquitur meaning ‘the thing speaks for itself’. Academics 
+disagree on the precise status of the ‘doctrine’.63 Some argue that it simply reflects the common-sense view 
+that sometimes the likelihood that the accident was caused by the defendant’s negligence is such that it is not 
+necessary to explain it, while others suggest that it is a more formal doctrine which, in certain circumstances, 
+shifts the burden of proof from the claimant to the defendant (meaning that they will be liable if they are 
+unable to prove, on the balance of probabilities, the absence of fault on their part). Most agree that this latter 
+view goes too far. We prefer the view of Jenny Steele, who describes res ipsa loquitur as not so much a doctrine 
+‘as a complex name for a common-sense inference from the facts’.64 So understood, res ipsa loquitur does not 
+shift or reverse the burden of proof onto the defendant. It simply means that sometimes the circumstances of 
+the negligence can be evidence of carelessness. As such it is a welcome and effective means of redressing the 
+balance of power between claimant and defendant where evidential difficulties make it hard for the claimant 
+to establish negligence.
+Whatever its status, the ‘doctrine’ stems from the judgment of Erle CJ in Scott v London and St Katherine Docks 
+Co [1895] in which the claimant was injured by falling bags of sugar which were being loaded by the 
+defendant’s crane. In response to the defendant’s failure to explain how the injury occurred, Erle CJ stated:
+There must be reasonable evidence of negligence, but, where the thing is shown to be under the 
+management of the defendant, or his servants, and the accident is such as, in the ordinary course of 
+things, does not happen if those who have the management of the machinery use proper care, it 
+affords reasonable evidence, in the absence of explanation of the defendant, that the accident arose 
+from want of care. (at 601)
+60
+p. 243
+61
+62
+63
+64
+8. Breach of duty: The standard of care
+Page 35 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Two things need to be met in order for the rule to come into play (although these often run together). First, 
+the thing which caused the accident needs to be ‘under the management of the defendant, or his servants’, 
+that is, the defendant needs to have control of the thing that 
+↵
+caused the injury. A defendant will not be 
+liable if, for example, someone steals their car and causes an accident, or for a hotel guest throwing furniture 
+out of a hotel window (Larson v St Francis Hotel [1948]). Secondly, the accident must be such as ‘in the 
+ordinary course of things, does not happen if those who have the management of the [things] use proper 
+care’. This, largely, depends on the circumstances of the case—it will be easier to prove negligence if you slip 
+on a wet floor near a swimming pool or gym (where the occupiers may be expected to know that the floor 
+might be wet and take appropriate precautions) than in a shopping centre (Ward v Tesco Stores Ltd [1976]). 
+The question for the court is whether the evidence taken as a whole points in the direction of the defendant’s 
+negligence. Thus, where the defendant is unable to explain how the accident occurred but is able to show that 
+they exercised all reasonable care in the circumstances, they will not be found liable (J v North Lincolnshire 
+County Council [2000]).
+Test your understanding by trying this section’s self-test questions <https://iws.oupsupport.com/  
+embed/access/content/horsey9e-student-resources/horsey9e-self-test-questions-8-6>.
+8.7  Conclusion
+In this chapter, we have considered the second part of a claim in the tort of negligence—breach of duty of care. 
+This occurs where a defendant has fallen below the standard of care required by law. In setting the standard 
+of care, the courts seek to balance issues relating to the public benefit against individual freedom and 
+responsibility. This takes the form of two questions: (1) what was the required standard of care in these 
+circumstances? (2) And did the defendant fall below this standard? When setting the standard of care the 
+courts compare the actions of the defendant to those of the ‘reasonable man’. This is an objective test 
+(although the courts, on occasions, may incorporate the defendant’s age and skills into their assessment). 
+When setting the standard of care required of the defendant—that is, what the defendant ought to have done 
+or what is reasonable in the circumstances of the case—the courts take a number of factors into account: 
+probability or risk of the injury; the seriousness of the injury; the cost of taking precautions; and sometimes 
+the social value of the activity.
+The second question—that is, proof of negligence—is largely a question of fact to be determined by the court 
+on the evidence before them. The claimant is sometimes helped when seeking to establish on the balance of 
+probabilities that the defendant breached their duty of care by the ‘doctrine’ of res ipsa loquitur.
+End-of-chapter questions
+After reading the chapter carefully, try answering the questions which follow.
+p. 244
+8. Breach of duty: The standard of care
+Page 36 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+1
+2
+3
+4
+→
+→
+→
+→
+→
+In Bolton v Stone the cricket club was not held liable. What was the role of reasonable foreseeability? Do you 
+agree with the outcome of the case?
+What was the reasoning behind Nettleship? Is it a fair decision? Fair (or unfair) to whom?
+When should a doctor warn patients of a risk related to their treatment?
+‘It is better to control liability by adjusting the standard of care than by restricting the circumstances in which 
+a duty of care arises.’ Discuss.
+If you would like to know what we think, check the answer guidance <https://iws.oupsupport.com/ebook/  
+access/content/horsey9e-student-resources/horsey9e-chapter-8-answers-to-end-of-chapter-questions? 
+options=showName>.
+Answering the problem question
+Consider again the problem question at the start of this chapter. Now having read about the topic, what 
+would be your advice to the various parties?
+Here are some pointers to get you started:
+Mpho’s claim against Gabriel is relatively straightforward—the question is whether Gabriel has fallen 
+below the standard expected of a reasonable driver. You should consider what difference, if any, the fact that 
+he’s just passed his test makes.
+Aput’s claim against the doctor is more complicated. You will need to consider whether the doctor has 
+breached their duty of care in failing to warn them about the risks of surgery—has Aput been given the 
+opportunity to give their ‘informed consent’? See Bolam, Montgomery and McCulloch.
+Also remember the question asks you to ‘advise Mpho and Aput’ so although this is a ‘breach’ question you 
+should consider all the elements of a claim in negligence.
+If you need some more guidance:
+See the annotated version of the problem with issues and cases to consider <https://  
+iws.oupsupport.com/embed/access/content/horsey9e-student-resources/horsey9e-chapter-8-annotated- 
+problem-question-interactive>.
+Check your answer against the suggested outline answer <https://iws.oupsupport.com/embed/access/  
+content/horsey9e-student-resources/horsey9e-chapter-8-answers-to-problem-question>.
+p. 245
+8. Breach of duty: The standard of care
+Page 37 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Further reading
+Much of the academic writing in this area focuses on medical negligence and, in particular, the effect of Bolam and 
+more recently Montgomery.
+Abraham, Haim ‘Queering the Reasonable Person’ in Kirsty Horsey (ed) Diverse Voices in Tort Law (Bristol University 
+Press 2023) 57
+Beever, Allan ‘Negligence and Utility’ (2017) 17 Oxford University Commonwealth Law Journal 85
+Brazier, Margaret and José Miola ‘Bye-Bye Bolam: A Medical Litigation Revolution?’ (2000) 8 Medical Law Review 85
+Cave, Emma and Caterina Milo ‘Informing Patient: The Bolam Legacy’ (2020) 20 Medical Law International 103
+Conaghan, Joanne ‘Tort Law and the Feminist Critique of Reason’ in Anne Bottomley (ed) Feminist Perspectives on the 
+Foundational Subjects of Law (Cavendish 1996) 47
+Gardiner, Bruce ‘Liability for Sporting Injuries’ [2008] Journal of Personal Injury Law 16
+Goudkamp, James and Melody Ihuoma ‘A Tour of the Tort of Negligence’ [2016] Professional Negligence 137
+Herbert, Rebecca ‘The Compensation Act 2006’ [2006] Journal of Personal Injury Law 337
+Heywood, Robert and José Miola ‘The Changing Face of Pre-operative Medical Disclosure: Placing the Patient at the 
+Heart of the Matter’ (2017) 133 Law Quarterly Review 296
+↵
+Miola, José ‘The Standard of Care in Medical Negligence—Still Reasonably Troublesome?’ in Janice Richardson and 
+Erika Rackley (eds) Feminist Perspectives on Tort Law (Routledge 2012) 163
+Mulheron, Rachael ‘Trumping Bolam: A Critical Legal Analysis of Bolitho’s “Gloss”’ [2010] Cambridge Law Journal 609
+Nolan, Donal ‘Varying the Standard of Care in Negligence’ [2013] Cambridge Law Journal 651
+Sheldon, Sally ‘A Responsible Body of Medical Men Skilled in that Particular Art: Rethinking the Bolam Test’ in Sally 
+Sheldon and Michael Thomson (eds) Feminist Perspectives on Health Care Law (Cavendish 1998)
+Additional suggestions for further reading can be found in this chapter’s web links <https://iws.oupsupport.com/  
+ebook/access/content/horsey9e-student-resources/horsey9e-chapter-8-web-links?options=showName>.
+Notes
+ 
+1. Since July 2021, Little Amal, a 12-foot puppet, has travelled over 9,000km across 13 countries representing all 
+children fleeing war, violence and persecution. Read more here: www.walkwithamal.org <http://  
+www.walkwithamal.org>.
+ 
+2. Tony Weir An Introduction to Tort Law (2nd edn OUP 2006) 57.
+p. 246
+1.
+2.
+8. Breach of duty: The standard of care
+Page 38 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+3. See e.g. Press Association ‘Paralysed teacher loses £5m “welly-wanging” damages claim’ The Guardian 13 August 
+2012 (discussing Cornish Glennroy Blair-Ford v CRS Adventures Ltd [2012]), BBC News ‘Charlotte Shaw mother loses 
+death claim’ 28 June 2012 (discussing Wilkin-Shaw v Fuller & Kingsley School Bideford Enterprises Ltd [2012]) and BBC 
+News ‘Former RAF man wins right to sue MoD over game injury’ 2 February 2011 (discussing Uren v Corporate Leisure 
+(UK) Ltd [2011]); Alexandra Topping ‘Parents win appeal over head injury on bouncy castle’ The Guardian 1 August 
+2008 (discussing Perry v Harris [2008]).
+ 
+4. See e.g. Ragnar E Löfstedt ‘Reclaiming Health and Safety for all: a review of progress one year on’ January 2013; 
+Ragnar E Löfstedt ‘Reclaiming Health and Safety for all: an independent review of health and safety legislation’ 
+November 2011; Health and Safety Executive ‘School trips and outdoor learning activities: tackling the health and 
+safety myths’ 6 June 2011.
+ 
+5. Indeed school compensation claims are increasingly ‘big business’—see e.g. Matthew Davis ‘Schools pay £1.5m in 
+compensation cases including £7,500 for a child who had a splinter’ Daily Mirror 22 August 2015. One may have a 
+certain amount of sympathy with Tomlinson LJ’s observation in Richards v London Borough of Bromley [2012] that ‘[i]t 
+needs to be understood that not every misfortune occurring on school premises attracts compensation’ (at [15]). See 
+further on the ‘compensation culture’, section 1.3.2.
+ 
+6. Joanne Conaghan ‘Tort Law and the Feminist Critique of Reason’ in Anne Bottomley (ed) Feminist Perspectives on 
+the Foundational Subjects of Law (Cavendish 1996) 47, 52.
+ 
+7. ibid 58. See also Mayo Moran Rethinking the Reasonable Person (OUP 2003) and Haim Abraham ‘Queering the 
+Reasonable Person’ in Kirsty Horsey (ed) Diverse Voices in Tort Law (Bristol University Press 2024) 57.
+ 
+8. Not everyone agrees with this point. See e.g. Peter Cane and James Goudkamp who argue that the reasonable 
+person is invoked in order to obscure the role of the judge as a policy-maker (Atiyah’s Accidents, Compensation and the 
+Law (9th edn CUP 2018) 30).
+ 
+9. However, as we will see later, the courts have developed a number of modifications to the general standard, e.g. in 
+relation to children and people professing to have a particular skill.
+ 
+10. On the relevance of a criminal conviction on a civil claim, see section 8.6.
+ 
+11. See section 10.4.
+ 
+12. Cane and Goudkamp n8 40.
+ 
+13. The Australian High Court, in a case on very similar facts, refused to follow Nettleship and described it as ‘contrary 
+to common sense and the concept of what is reasonable in the circumstances’ (Cook v Cook [1986]) (though in this 
+case the defendant had fallen below the (lower) standard of care required of a learner driver).
+ 
+14. Though cf Wooldridge v George [2017] in which it was held that the driver, who was within the speed limit and who 
+was not distracted, should have seen the claimant crossing the road and taken evasive action to avoid hitting him.
+ 
+15. An argument made by Patrick Atiyah in The Damages Lottery (Hart 1997).
+ 
+16. Tort Law (Macmillan 2021) 5.
+ 
+17. See further James Goudkamp and Melody Ihuoma ‘A Tour of the Tort of Negligence’ [2016] Professional Negligence 
+137, 138–44 and Maria Orchard ‘Liability in Negligence of the Mentally Ill: A Comment on Dunnage v Randell’ (2016) 45 
+Common Law World Review 366.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+8. Breach of duty: The standard of care
+Page 39 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+18. WE Peel and James Goudkamp Winfield & Jolowicz on Tort (19th edn Sweet & Maxwell 2014) 277.
+ 
+19. See also e.g. Wells v Cooper [1958], where a do-it-yourself (DIY) carpenter was not liable for injuries caused by his 
+failure to use adequate screws to fix a door handle. He had not fallen below the standard of care expected of a 
+reasonably competent non-professional carpenter (which was lower than that required of a professional carpenter). 
+See also Perry v Harris [2008] (discussed in section 8.4.1).
+ 
+20. Note: the decision in Wilsher was appealed to the House of Lords on the issue of causation where the standard of 
+care issue was not discussed.
+ 
+21. Margaret Brazier and José Miola ‘Bye-Bye Bolam: A Medical Litigation Revolution?’ (2000) 8 Medical Law Review 85, 
+87.
+ 
+22. The issue as to the extent to which ‘doctors know best’ was alive and kicking in the heated debates surrounding the 
+(failed) Medical Innovation Bill 2014–15 (the so-called ‘Saatchi Bill’) and its later reincarnation as the Access to Medical 
+Treatments (Innovation) Act 2016. They both attracted significant—and well-judged—criticism from legal and medical 
+professionals alike. See e.g. José Miola ‘Bye-Bye Bolitho? The Curious Case of the Medical Innovation Bill’ (2015) 15 
+Medical Law International 124.
+ 
+23. Sally Sheldon ‘A Responsible Body of Medical Men Skilled in that Particular Art: Rethinking the Bolam Test’ in Sally 
+Sheldon and Michael Thomson (eds) Feminist Perspectives on Health Care Law (Cavendish 1998) 20–1.
+ 
+24. ibid 19. For an insightful ‘update’ of Sheldon’s critique of the standard of care, see José Miola ‘The Standard of Care 
+in Medical Negligence—Still Reasonably Troublesome?’ in Janice Richardson and Erika Rackley (eds) Feminist 
+Perspectives on Tort Law (Routledge 2012) 163.
+ 
+25. Lord Woolf ‘Are the Courts Excessively Deferential to the Medical Profession?’ (2001) 9 Medical Law Review 1–16 at 
+1.
+ 
+26. Miola n24 614. See further McGuinn v Lewisham and Greenwich NHS Trust [2017] applying Bolitho to find the doctor 
+in breach of their duty of care (in failing to appreciate that the foetus the claimant was carrying was at risk of suffering 
+from microcephaly) because their actions ‘lacked a sufficiently logical and rational basis’ (at [175]) and Simon Fox 
+‘Bolam is Dead. Long Live Bolam’ (2019) 4 Professional Negligence 213.
+ 
+27. Rachael Mulheron ‘Trumping Bolam: A Critical Legal Analysis of Bolitho’s “Gloss”’ [2010] Cambridge Law Journal 
+609, 613.
+ 
+28. Indeed, in Ministry of Justice v Carter [2010] the Court of Appeal overturned the decision of a trial judge who did this. 
+For a clear example of the judicial process of determining whether a defendant has breached their duty of care, see 
+Wells and Smith v University Hospital Southampton NHS Foundation Trust [2015].
+ 
+29. Brazier and Miola n21.
+ 
+30. Lords Reed and Kerr, Montgomery at [86]. In Chester, the majority of the House of Lords stepped around Sidaway 
+(rather than deviating from it) to hold that a doctor who had not informed the patient of a very small risk which 
+accompanied the course of treatment he was suggesting had not only breached his duty of care but also that the 
+patient’s ability to make an informed choice about her treatment was so important that they were willing to extend 
+the rules on causation in order to allow her claim: ‘Her right of autonomy and dignity can and ought to be vindicated 
+by a narrow and modest departure from traditional causation principles’ (Lord Steyn at [24]). On the causation 
+aspects of Chester, see further section 9.2.2.3.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+8. Breach of duty: The standard of care
+Page 40 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+31. It took 16 years for Montgomery to make its way through the courts. At its heart is the care of a—now—16-year-old 
+boy. It has since been reported that Ms Montgomery has been awarded between £5–5.25 million in damages which will 
+allow her, in her words ‘to ensure Sam receives the best possible care for the rest of his life’ (BBC News ‘Nadine 
+Montgomery wins £5m from NHS Lanarkshire over brain damage to son’ 11 March 2015). You may also like to listen to 
+this excellent podcast episode (Kings Chambers Debrief E10: ‘Montgomery v Lanarkshire Health Board (Part II <http://  
+www.buzzsprout.com/179951/2134727>)’) produced by Kings Chambers which features a conversation between Nigel 
+Poole KC and Nadine Montgomery. They talk about her experience of taking her case all the way to the Supreme Court 
+and the ramifications of the judgment. The podcast is just over 22 minutes long so if you don’t have time to listen to it 
+right now, just make a note to return to it later—or perhaps download it to listen to on the way to your tort seminar!
+ 
+32. See Kirsty Keywood ‘The Death of Sidaway: Values, Judgments and Informed Consent’ Journal of Medical Ethics 
+blog 15 March 2015.
+ 
+33. See discussion of the so-called forced caesarean section cases in section 15.5.1.
+ 
+34. See further Erika Rackley Women Judging and the Judiciary: From Difference to Diversity (Routledge 2013) chs 5 and 
+6.
+ 
+35. Keywood n32.
+ 
+36. NHS Litigation Authority ‘Ten Years of Maternity Claims: An Analysis of NHS Litigation Authority Data’ (2012).
+ 
+37. See here the Royal College of Surgeons guidance on Montgomery discussed in David Hart ‘Informed consent: 
+Surgeons respond to Montgomery’ UK Human Rights blog 30 October 2016.
+ 
+38. See David Hart ‘Supreme Court reverses informed consent ruling: Sidaway is dead’ UK Human Rights blog 13 March 
+2015.
+ 
+39. Andrew Hockton ‘“Informed consent” has arrived’ The Times 19 March 2015.
+ 
+40. See further, Nigel Poole ‘After Montgomery—Part Two: Recommended Treatment, Risk and Dialogue’ Learned 
+Friend 12 September 2018.
+ 
+41. NHS Resolution ‘Case of note: McCulloch (deceased) v Forth Valley Health Board (Supreme Court—12 July 2023)’ 19 
+October 2023.
+ 
+42. See further Louise Austin ‘McCulloch v Forth Valley Health Board [2023] UKSC 26: Hello Bolam, the court’s old 
+friend’ [2024] Medical Law Review 264, 273.
+ 
+43. See e.g. Emma Cave and Caterina Milo ‘Informing Patients: The Bolam Legacy’ (2020) 20 Medical Law International 
+103; Gemma Turton ‘Informed Consent to Medical Treatment Post-Montgomery: Causation and Coincidence’ [2018] 
+Medical Law Review 108; George G Buttigieg ‘Re-visiting Bolam and Bolitho in the Light of Montgomery v Lanarkshire 
+Health Board’ (2018) 86 Medico-Legal Journal 42; Nigel Poole ‘After Montgomery—Part Two: Bolam Returns’ Learned 
+Friend 12 September 2018; Sarah W Chan et al ‘Montgomery and Informed Consent: Where Are We Now?’ (2017) 357 
+British Medical Journal 2224.
+ 
+44. For a summary of the literature, see Isabelle Le Gallez et al ‘Montgomery’s Legal and Practical Impact: A Systematic 
+Review at 6 Years’ (2022) 28(4) Journal of Evaluation in Clinical Practice 690.
+ 
+45. For a recent application of this principle, see Mohmed v Barnes and EUI Ltd [2019] in which the court held the 
+defendant had not fallen below the standard of a reasonable driver placed in the threatening and rapidly deteriorating 
+situation he found himself in (at [52]).
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+8. Breach of duty: The standard of care
+Page 41 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+ 
+46. ‘Social costs’ here include not only financial but also ‘immeasurable “soft” values such as community concepts of 
+justice, health, life and freedom of conduct’ (Western Suburbs Hospital v Currie [1987]). The assessment of community 
+values can be tricky. How are we to compare, to use Cane and Goudkamp’s example, the social value of playing cricket 
+with the safety of passers-by so as to decide whether it is negligent to play cricket without a fence (n8 33)?
+ 
+47. Cane and Goudkamp n8 32.
+ 
+48. Joanne Conaghan and Wade Mansell The Wrongs of Tort (2nd edn Pluto Press 1999) 62.
+ 
+49. It was agreed that nuisance could not be established in the absence of negligence (at 860).
+ 
+50. See also Lewis v Wandsworth London Borough Council [2020].
+ 
+51. See further section 13.2.3.
+ 
+52. Note this is the second of the Wagon Mound cases. The first, Overseas Tankship (UK) Ltd v Morts Dock and 
+Engineering Co (The Wagon Mound) (No 1) [1961], brought by the owners of the wharf, is discussed in the context of 
+remoteness in Chapter 9.
+ 
+53. Discussed in section 13.2.4.
+ 
+54. See more recently MacLeod v The Commissioner of the Police for the Metropolis [2015] discussed in Karen O’Sullivan 
+‘Sound the Alarm’ (2015) 165 New Law Journal 7678 at 10.
+ 
+55. See further Vowles v Evans [2003] and Elbanna v Clark [2024]) (rugby), Fulham v Jones [2022] (football), Watson v 
+British Boxing Board of Control Ltd [2001] (boxing) and Tylicki v Gibbons [2021] (horse racing).
+ 
+56. Part 2 of the Act addresses the aggressive marketing of the claims management industry, which the government 
+stressed was responsible, alongside irresponsible media reporting, for fostering the perception of a compensation 
+culture (see generally section 1.3.2 and Rebecca Herbert ‘The Compensation Act 2006’ [2006] Journal of Personal 
+Injury Law 337.
+ 
+57. Tony Blair ‘Common Sense Culture not Compensation Culture’ speech delivered at Institute of Public Policy 
+Research, 26 May 2005.
+ 
+58. See also comment of Smith LJ in Uren v Corporate Leisure (UK) Ltd [2011] that ‘it was common ground that [the Act] 
+… did not add anything to the common law position’ (at [13]).
+ 
+59. Social Action, Responsibility and Heroism Bill, Explanatory Notes at [6].
+ 
+60. The claimant must provide evidence of carelessness if an action in negligence is to disclose a good cause of action. 
+If the claimant is unable to do this, the defendant may apply for summary judgment (which means the claim will fail 
+without further argument).
+ 
+61. This difficulty was addressed by Parliament in Part 1 of the Consumer Protection Act 1987, see Chapter 12.
+ 
+62. See Lord Denning MR’s discussion of the claimant’s liability in Nettleship at 698–9.
+ 
+63. Patrick Atiyah ‘Res Ipsa Loquitur in England and Australia’ (1972) 35 Modern Law Review 337.
+ 
+64. Jenny Steele Tort Law: Text, Cases, and Materials (5th edn OUP 2017) 157.
+© Kirsty Horsey & Erika Rackley 2025
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+61.
+62.
+63.
+64.
+8. Breach of duty: The standard of care
+Page 42 of 42
+Printed from Oxford Law Trove. Under the terms of the licence agreement, an individual user may print out a single article for 
+personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: Serials Dept; date: 02 May 2026
+Related Books
+View the Essential Cases in tort law
+Related Links
+Test yourself: Multiple choice questions with instant feedback <https://learninglink.oup.com/access/content/brennan-  
+concentrate6e-student-resources/brennan-concentrate6e-diagnostic-test>
+Find This Title
+In the OUP print catalogue <https://global.oup.com/academic/product/9780198925231>

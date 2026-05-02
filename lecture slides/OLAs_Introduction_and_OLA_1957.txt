@@ -1,0 +1,174 @@
+Occupiers’ Liability 
+Acts (OLA)
+1957 and 1984
+DR. MEGAN B L AKELY
+M. BL AKELY@L ANCASTER.AC. UK
+Signposts
+ - The scope of the OLAs 
+ - OLA 1957
+ - OLA Cases
+ - Please have the full text of the statute available if possible. 
+ * Remember to check in.
+Occupiers’ Liability
+ Liability of occupiers for people injured or property where loss/injury 
+results from danger related to state of occupier’s premises
+ Such liability developed under the common law (Now primarily 
+governed by statute)
+Partial codification of negligence liability (duty and breach)
+Occupiers Liability Act 1957 – liability in respect of lawful visitors
+Occupiers Liability Act 1984 – liability in respect of trespassers/ non-
+visitors
+Pre-requisites for the 
+OLAs
+ 1) D is an occupier
+ 2) Incident occurred at relevant premises under the OLAs
+ 3) Danger is an occupancy (static) danger, as opposed to activity
+OLA Codification 
+Summary
+- Duty: 
+- Visitors: s 2(1) OLA 1957
+- Trespassers: s 1(3) OLA 1984
+- Breach:
+- Visitors: establish standard of care s2(3)(a); prove breach; 
+consider any mitigations, specialist visitors s2(3)(b), warnings 
+s2(4)(a); and/or independent contractors s2(b)(b)
+- Trespassers: standard of care, breach, but only warnings s1(5)
+- Causation: common law
+- Remoteness: common law
+OLA 1957
+ Duty of care owed by OCCUPIERS to lawful visitors
+ Who is an Occupier under the Act?
+◦S 1 (2) Occupier is someone who would be treated as such under common 
+law
+◦Wheat v E Lacon & Co Ltd [1966]
+◦Degree of control exerted over premises 
+Premises 
+ Premises; s1(3)(a) the obligations of a person occupying or having 
+control over any fixed or moveable structure, including any vessel, 
+vehicle or aircraft
+Occupiers
+ Private Occupiers:
+ In non-business occupier cases, if the occupier has taken reasonable 
+steps to bring the notice to the attention of a visitor, it will be effective.
+  
+ Private occupiers can determine the conditions upon which people 
+enter the land. 
+ Ashdown v Williams [1957] 1 QB 409: business occupiers 
+Business Occupiers (FYI 
+only!)
+ The definition of business liability is contained in UCTA, s. 1(3)(b):
+      “liability arising from occupation of premises used for business purposes of 
+occupier”
+ If there is business occupier, the following provisions apply:
+◦UCTA, s. 2(1) prohibition on notices excluding liability for death and personal injury by 
+negligence applies;
+◦UCTA, s. 2(2): reasonableness of excluding liability, by use of a notice, for other forms of 
+loss caused by negligence.
+◦NB UCTA, s.1(1)(c):includes liability under OLA 1957 in its definition of negligence.  It 
+therefore covers the ability of an occupier to exclude liability that would otherwise arise 
+under that Act.
+But remember the important difference between a warning of danger and a notice excluding 
+liability: s. 2(4)(a) only applies to warnings.
+OLA 1957 
+ Duty owed?
+◦S 2 (1) Common duty of care 
+◦S 2 (2) “Common duty of care is a duty to take such care as in all the 
+circumstances of the case is reasonable to see that the visitor will be 
+reasonably safe in using the premises for the purposes for which he is invited 
+or permitted by the occupier to be there.”
+◦Nature of the duty owed depends upon the: 
+◦Nature of the danger
+◦Length of time the danger was in existence
+◦Steps necessary to remove the danger
+◦Likelihood of the injury being caused
+Lawful Entrants: Visitors 
+(OLA 1957)
+ Who is a lawful entrant?
+◦Anyone with permission to be there (see guidance s 1 (2))
+◦Visitor or contractual entrant
+◦Can either be express or implied and those with a right to be there as conferred by law (s 2 
+(6)).
+◦Purpose of visit important: 
+‘When you invite a person into your house to use the staircase, you do not 
+invite him to slide down the banisters, you invite him to use the staircase in 
+the ordinary way in which it is used.’ 
+- Scrutton LJ, The ‘Carlgarth’ [1927] 
+◦Occupier will only owe the visitor a duty in respect of the purpose for which they are visiting
+◦Tomlinson v Congleton [2003]
+Lawful Entrants: Visitors 
+(OLA 1957)
+Express or implied (on the facts)
+-Three categories: 
+- Invitees (eg, guest at a party)
+- Licensees at common law (eg, postal worker)
+- Right conferred by law (eg, police ofÏcer stopping breach of peace)
+ Glasgow Corp v Taylor [1922] 1 AC 44
+ Jolley v Sutton LBC [2000] 1 WLR 1082
+Jolley v Sutton (small advice 
+break…) 
+council flats at Hayling 
+Court at North Cheam 
+in Surrey; ‘grassed area 
+where children played’
+AKA WHY 
+LAWTEACHER.NET 
+ET AL. ARE BAD.
+ - council flats at Hayling Court at 
+North Cheam in Surrey; ‘grassed area 
+where children played’
+ - ‘beach’
+ - why do we care?
+Special classes of visitor 
+Children
+◦Special precautions to be taken where children are concerned; s 2 (3) (a) 
+◦Jolley v Sutton LBC [2000]
+◦Glasgow Corporation v Taylor [1922] 
+◦Bourne Leisure v Marsden [2009] 
+◦Phipps v Rochester Corporation[1955]
+Persons exercising a ‘calling’ are also recognised as a special class of 
+visitor
+◦They will be expected to ‘appreciate and guard against any special risks ordinarily 
+incident to it;’ – s 2 (3) (b)
+◦Roles v Nathan [1963]
+◦Eden v West [2002] EWCA Civ 991 (but must be given appropriate information)
+Independent 
+contractors
+ The defendant occupier may have discharged his duty even though injury befalls a visitor if 
+the injury can be attributed to the fault of an independent contractor who has worked on 
+the occupier's premises.
+ Section 2(4)(b) imposes three requirements for this to occur:
+   (4)In determining whether the occupier of premises has discharged the common duty of 
+care to a visitor, regard is to be had to all the circumstances, so that (for example)—
+◦(a)where damage is caused to a visitor by a danger of which he had been warned by the 
+occupier, the warning is not to be treated without more as absolving the occupier from 
+liability, unless in all the circumstances it was enough to enable the visitor to be reasonably 
+safe; and
+◦(b)where damage is caused to a visitor by a danger due to the faulty execution of any work 
+of construction, maintenance or repair by an independent contractor employed by the 
+occupier, the occupier is not to be treated without more as answerable for the danger if in 
+all the circumstances he had acted reasonably in entrusting the work to an independent 
+contractor and had taken such steps (if any) as he reasonably ought in order to satisfy 
+himself that the contractor was competent and that the work had been properly done.
+Defences: Volenti & 
+Cont. Neg.
+◦Volenti [consent] - “The common duty of care does not impose on an occupier any 
+obligation to a visitor in respect of risks willingly accepted as his by the visitor...” – s 2 
+(5) OLA 1957
+◦Darby v National Trust [2001] PIQR P27
+◦Contributory Negligence – reduces damages
+ 
+Defences: Warnings 
+◦OLA 1957, s 2(4)(a) – may be a defence but depends on circumstances... 
+◦“Where damage is caused to a visitor by a danger of which he had been 
+warned by the occupier, the warning is not to be treated without more 
+as absolving the occupier from liability, unless in all the circumstances it 
+was enough to enable the visitor to be reasonably safe…”
+◦Warnings 
+◦Staples v West Dorset District Council [1995] PIQR 439
+◦With obvious danger, no need to warn
+◦Darby v National Trust [2001] EWCA 189 
+◦Similarly obvious risks of open nature
+Next class…
+- OLA 1957 Review
+- OLA 1984
+- Please review both OLAs in full

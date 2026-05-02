@@ -1,0 +1,379 @@
+LAW OF TORT
+Duty of Care cont.
+LAW OF TORT
+Duty of Care: The Current 
+Approach (cont.)
+LAW OF TORT
+ABC v St George’s Healthcare 
+Trust [2020] EWHC 455 
+(QB) 
+Facts:
+Ds’ clinicians treating both C and C’s father (‘XX’).
+Ds learned that C carried the gene for Huntington’s disease 
+through treating C’s father.
+C’s father did not consent to that information being passed to 
+C, and Ds took the view they should not override their 
+patient’s conﬁdentiality.
+C felt the Ds should have told her about this before it was too 
+late for her to terminate her pregnancy. 
+LAW OF TORT
+ABC v St George’s Healthcare 
+Trust [2020] EWHC 455 
+(QB) 
+“29. … the Supreme Court has stressed that there is no general 
+principle capable of providing a practical test applicable in every 
+situation in order to determine whether a duty of care exists and, 
+if so, its scope. … Rather, the courts must use existing authorities 
+to apply established principles to the facts of the case. It is only in 
+a novel type of case, where established principles do not provide 
+an answer, that the courts need to ask whether a duty of care 
+should be recognised, developing the law incrementally and by 
+analogy with existing authority. The exercise of judgment in those 
+circumstances involves consideration of what is fair, just and 
+reasonable.”
+LAW OF TORT
+ABC v St George’s Healthcare 
+Trust [2020] EWHC 455 
+(QB) 
+At trial, C’s counsel identiﬁed three potential routes to a duty of care [30]:
+1.
+“The claimant was a patient of the defendants … so that the case falls 
+within the scope of the established duty of care arising out of the 
+doctor-patient relationship.
+2.
+The forensic psychiatry unit …assumed responsibility for the welfare 
+of the claimant, both in the context of providing family therapy and 
+through her long-standing relationship with the team caring for XX 
+and her involvement in his rehabilitation programme.
+3.
+If neither of the above routes are found to apply, by the application of 
+established principles to the facts of this case by incremental extension 
+…”
+LAW OF TORT
+ABC v St George’s Healthcare 
+Trust [2020] EWHC 455 
+(QB) 
+Case 1: Duty owed as a patient
+C was a patient of the D’s family therapy team. There is an 
+established category of duty: “the duty owed by hospital trusts to 
+patients to deliver their services competently applied to all those 
+undertaking the family therapy.” [138]
+But, that established duty “does not bring with it a right to receive 
+conﬁdential information about other participants” [141]
+“The duty owed to the claimant in the context of family therapy was 
+quite simply to conduct the therapy with reasonable professional 
+skill and care.” [148]
+LAW OF TORT
+ABC v St George’s Healthcare 
+Trust [2020] EWHC 455 
+(QB) 
+Case 2: Assumption of responsibility
+“I do not consider that the claimant can rely upon an 
+assumption of responsibility in the sense required to bring 
+her within the established category of cases where a duty 
+of care exists.” [152]
+“In my view, this [case] does not involve the application of 
+an established duty to a diﬀerent factual situation (such as 
+in Darnley) but is a novel claim in relation to which a duty 
+of care has not previously been recognised.” [156]
+LAW OF TORT
+ABC v St George’s Healthcare 
+Trust [2020] EWHC 455 
+(QB) 
+Case 3: Should the court recognise a duty of care in this novel situation?
+Duty argued for: “a duty to balance the Claimant’s interest in being 
+informed of her risk of a genetic disorder against her father’s interest in 
+having the conﬁdentiality of that diagnosis preserved.” [158]
+“[C’s counsel] did not identify any existing authorities in which a 
+doctor or hospital trust had been found to owe a duty to a relative of a 
+patient or to any third person outside the scope of the doctor-patient 
+relationship.” [160]
+“[D’s counsel] conceded that the existing authorities do not preclude 
+the court ﬁnding that a duty is owed by a doctor to a third party.” [161]
+LAW OF TORT
+ABC v St George’s Healthcare 
+Trust [2020] EWHC 455 
+(QB) 
+Step 1 — analogies
+“the orthodox position is that proximity exists only as 
+between a doctor and his patient and that the doctor’s duty 
+of care does not extend to a third party.” [167]
+“However … a doctor often owes duties to more than one 
+person.” [167]
+“Wrongful birth claims involving failed vasectomies may be 
+seen as further examples of doctors owing duties to more 
+than one person …” [169]
+LAW OF TORT
+ABC v St George’s Healthcare 
+Trust [2020] EWHC 455 
+(QB) 
+Step 2 – foreseeability and proximity
+“There was a direct line of communication with the claimant. 
+Had [D] decided to disclose the information to her, the 
+family therapy team oﬀered a route to do so in a supportive 
+environment. In those circumstances, there was a close 
+proximal relationship …” [173]
+“That the claimant was at risk of suﬀering harm if the 
+information about her genetic risk was withheld from her 
+was not only foreseeable, it was actually foreseen by [D].” 
+[174]
+LAW OF TORT
+ABC v St George’s Healthcare 
+Trust [2020] EWHC 455 
+(QB) 
+Step 3 – policy: fairness, justice, and reasonableness
+“it has long been recognised that the duty of conﬁdence is not absolute.” [178]
+“I do not consider that a duty to weigh up the claimant’s interests alongside 
+the duty of conﬁdence to XX would damage the relationship of trust and 
+conﬁdence between doctors and patients and/or be detrimental to the public 
+interest.” [179]
+“I do not accept that recognising a duty to this claimant on the particular facts 
+of this case would open the ﬂoodgates to numerous claims. … [T]here was 
+close proximity between the claimant and [D]. Recognising a duty to her is 
+nowhere near the giant leap that might be required to recognise a duty to 
+multiple relatives around the world.” [182]
+LAW OF TORT
+ABC v St George’s Healthcare 
+Trust [2020] EWHC 455 
+(QB) 
+Step 3 – policy: fairness, justice, and reasonableness
+“I would readily accept that a duty that distracts medical professionals from the primary 
+care of their patients or which places unreasonable demands on an already stretched 
+National Health Service would be inappropriate. Finding the existence of a duty on the 
+facts of this case would not have that eﬀect.” [183]
+“recognising a legal duty in circumstances already covered by professional guidance 
+represents only a modest incremental step.” [186]
+“Article 8 covers both the right to medical conﬁdentiality … and the right to have 
+information about one’s own health. … Recognising a common law duty to both parties to 
+conduct a proper balancing exercise in accordance with the professional guidance is 
+consistent with the way in which the law has developed to take account of the Convention.” 
+[187]
+LAW OF TORT
+ABC v St George’s Healthcare 
+Trust [2020] EWHC 455 
+(QB) 
+Conclusion on duty of care
+“I conclude that it is fair, just and reasonable to impose on [D] a 
+legal duty to the claimant to balance her interest in being 
+informed of her genetic risk against her father’s interest in 
+preserving conﬁdentiality in relation to his diagnosis and the 
+public interest in maintaining medical conﬁdentiality generally. 
+The scope of the duty extends not only to conducting the 
+necessary balancing exercise but also to acting in accordance with 
+its outcome.” [188-189]
+LAW OF TORT
+ABC v St George’s Healthcare 
+Trust [2020] EWHC 455 
+(QB) 
+Held:
+No breach of duty: “the decision not to disclose was 
+supported by a responsible body of medical opinion and 
+cannot be considered to have amounted to a breach of the 
+duty I have identiﬁed.” [231]
+No causation: “the claimant has not proved that she would 
+have undergone a termination if notiﬁed of the risk during 
+pregnancy.” [253]
+LAW OF TORT
+Duty of Care: The 
+History
+LAW OF TORT
+The early days
+Negligence was ‘fragmented’ – a series of speciﬁc duties in speciﬁc 
+contexts 
+• Gladwell v Steggall (1839) – Duty of doctor to patient
+• Smith v Baker & Sons (1891) – Duty of employer to employee
+• Blacker v Lake & Elliot (1912) – D not liable when he sold product to A which then, because of defect, 
+injured C
+“It is remarkable how diﬃcult it is to ﬁnd in the English authorities 
+statements of general application deﬁning the relations between 
+parties that give rise to the duty. The Courts are concerned with the 
+particular relations which come before them in actual litigation, and 
+it is suﬃcient to say whether the duty exists in those circumstances.” 
+(Lord Atkin, in Donoghue)
+LAW OF TORT
+The fundamental 
+breakthrough: Donoghue
+“You must take reasonable care to avoid acts or omissions 
+which you can reasonably foresee would be likely to injure 
+your neighbour. Who, then, in law is my neighbour? The 
+answer seems to be — persons who are so closely and 
+directly aﬀected by my act that I ought reasonably to have 
+them in contemplation as being so aﬀected when I am 
+directing my mind to the acts or omissions which are called 
+in question.” 
+(Lord Atkin)
+LAW OF TORT
+The fundamental 
+breakthrough: Donoghue
+The dissents:
+“the common law … though its principles are capable of 
+application to meet new conditions not contemplated 
+when the law was laid down … cannot be changed nor can 
+additions be made to them because any particular 
+meritorious case seems outside their ambit.” (Lord 
+Buckmaster)
+“If one step, why not ﬁfty?” (Lord Buckmaster)
+LAW OF TORT
+The ‘established 
+category’ from Donoghue
+To this day, Dongohue and the cases immediately after it 
+stand as good authority for the following propositions:
+You have duty not to do negligent acts which will 
+reasonably foreseeably cause physical injury to others.
+You have duty not to do negligent acts which will 
+reasonably foreseeably cause damage to others’ property.
+LAW OF TORT
+The era of expansion
+“[W]hen a new point emerges, one should ask not whether it 
+is covered by authority but whether recognised principles 
+apply to it. Donoghue … may be regarded as a milestone, and 
+the well known passage in Lord Atkin's speech should I 
+think be regarded as a statement of principle. …[T]he time 
+has come when we can and should say that it ought to apply 
+unless there is some justiﬁcation or valid explanation for its 
+exclusion.” 
+(Dorset Yacht Co Ltd v Home Oﬃce [1970] UKHL 2, per Lord 
+Reid, p.1026–1027)
+LAW OF TORT
+The era of expansion
+The “two stage test” from Anns v Merton LBC [1977] UKHL 
+4:
+1. Could D reasonably foresee that their negligence would 
+cause damage to C? If ‘yes’, then a prima facie duty of 
+care arises.
+2. If yes, are there any considerations which negate, reduce, 
+or limit the scope of the duty? If ‘no’, then there is a duty.
+LAW OF TORT
+The era of expansion
+The high-water mark: Junior Books Ltd v Veitchi Co Ltd 
+[1983] 1 AC 520 — duty of care extended to pure economic 
+loss arising from defective property! 
+But, everyone (mostly) agreed things had gone too far:
+Anns overruled by Caparo in 1990
+Junior Books overruled in 1991 by Murhpy Brentwood DC
+LAW OF TORT
+Reining it in: Caparo v 
+Dickman [1990] 2 AC 605 
+“in addition to the foreseeability of damage, necessary 
+ingredients in any situation giving rise to a duty of care are 
+that there should exist between the party owing the duty 
+and the party to whom it is owed a relationship 
+characterised by the law as one of 'proximity' or 
+'neighbourhood' and that the situation should be one in 
+which the court considers it fair, just and reasonable that 
+the law should impose a duty of a given scope upon the 
+one party for the beneﬁt of the other.” (Lord Bridge)
+LAW OF TORT
+Reining it in: Caparo v 
+Dickman [1990] 2 AC 605 
+But Caparo did not intend to create a “general test”!
+“[Foreseeability, proximity, and fairness, justice & 
+reasonableness] amount in eﬀect to little more than convenient 
+labels to attach to the features of diﬀerent speciﬁc situations 
+which, on a detailed examination of all the circumstances, the 
+law recognises pragmatically as giving rise to a duty of care …” 
+(Lord Bridge)
+“the law should develop novel categories of negligence 
+incrementally and by analogy with established categories …” 
+(Lord Bridge, citing Brennan J. in the High Ct of Australia)
+LAW OF TORT
+Misunderstanding 
+Caparo: courts love tests
+Over 100 uses of the phrase “the Caparo test” before 2018. 
+E.g.:
+Robinson in the Court of Appeal (now overruled) — “the 
+Caparo test applies to all claims in the modern law of 
+negligence”. (Hallet LJ, [40])
+Many references to the three-part “Caparo test” — 
+foreseeability, proximity, and fair, just and reasonable
+LAW OF TORT
+Trying to get back to 
+incrementalism
+“In Caparo … Lord Bridge …. emphasised the inability of any 
+single general principle to provide a practical test which could 
+be applied to every situation to determine whether a duty of 
+care is owed and, if so, what is its scope. … Paradoxically, this 
+passage in Lord Bridge’s speech has sometimes come to be 
+treated as a blueprint for deciding cases, despite the pains 
+which the author took to make clear that it was not intended to 
+be any such thing.” 
+(Michael v CC of South Wales [2015] UKSC 2, Lord Toulson, 
+[106])
+LAW OF TORT
+The current approach 
+(again): Robinson
+“The proposition that there is a Caparo test which applies to all 
+claims in the modern law of negligence, and that in consequence the 
+court will only impose a duty of care where it considers it fair, just 
+and reasonable to do so on the particular facts, is mistaken … [T]he 
+whole point of the Caparo case … was to repudiate the idea that there 
+is a single test which can be applied in all cases in order to 
+determine whether a duty of care exists, and instead to adopt an 
+approach based, in the manner characteristic of the common law, on 
+precedent, and on the development of the law incrementally and by 
+analogy with established authorities.” 
+(Lord Reed, [21])
+LAW OF TORT
+Does the case fall 
+within an “established 
+category” of duty?
+YES
+DoC 
+Does coherence with 
+analogous cases imply 
+that there should be a 
+DoC? 
+Are there policy 
+reasons for imposing a 
+DoC?
+Is there reasonable 
+foreseeability & proximity, and 
+would it be fair, just, and 
+reasonable to impose a DoC?
+No DoC
+NO
+YES
+NO 
+NO 
+YES
+YES
+NO
+UNCLEAR
+UNCLEAR
+Establishing a Duty of Care — Flowchart 
+LAW OF TORT
+Aﬃrming Robinson: N v 
+Poole BC [2019] UKSC 25 
+“[Robinson] explained, as Michael had previously done, 
+that Caparo did not impose a universal tripartite test for the 
+existence of a duty of care, but recommended an incremental 
+approach to novel situations, based on the use of established 
+categories of liability as guides, by analogy, to the existence and 
+scope of a duty of care in cases which fall outside them. The 
+question whether the imposition of a duty of care would be fair, 
+just and reasonable forms part of the assessment of whether such 
+an incremental step ought to be taken. It follows that, in the 
+ordinary run of cases, courts should apply established principles 
+of law, rather than basing their decisions on their assessment of 
+the requirements of public policy.” [64]
+LAW OF TORT
+Applying Robinson
+Darnley shows you how it works for cases 
+which are inside an “established 
+category” — and how we deﬁne the 
+breadth of those categories 
+ABC shows you how it works for cases 
+which do not fall within established 
+categories, where policy reasoning must 
+be applied 
+LAW OF TORT
+Back to the early days?
+Does all of this take us back to the original position, where 
+the courts focused on speciﬁc duties in speciﬁc contexts, 
+rather than general principles? Not quite:
+The era of expansion means that there are now many more 
+established categories than there were in the early days.
+In the early days it was just established categories, and no 
+general principle. Now we have a mix: we begin with 
+established categories, and turn to principle where things 
+are unclear.

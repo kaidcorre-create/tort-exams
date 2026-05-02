@@ -1,0 +1,110 @@
+OLA 1957 
+& OLA 
+1984:
+Review and 
+Apply
+Dr. Megan Blakely
+m.Blakely@Lancaster.ac.uk
+Tort Law 25/26
+Signposts:
+• Brief review of Week 11
+• MCQs for Practice
+• Problem Question Application and Technique
+•
+IMG: Blakely, M. Good morning from Evie! 2026.
+Occupiers’ Liability
+ Liability of occupiers for people injured or property where loss/injury results 
+from danger related to state of occupier’s premises
+ Such liability developed under the common law (Now primarily governed by 
+statute)
+Partial codification of negligence liability (duty and breach)
+Occupiers Liability Act 1957 – liability in respect of lawful visitors
+Occupiers Liability Act 1984 – liability in respect of trespassers/ non-visitors
+OLA Codification Summary
+- Duty: 
+- Visitors: s 2(1) OLA 1957
+- Trespassers: s 1(3) OLA 1984
+- Breach:
+- Visitors: establish standard of care s2(3)(a); prove breach; consider 
+any mitigations, specialist visitors s2(3)(b), warnings s2(4)(a); 
+and/or independent contractors s2(b)(b)
+- Trespassers: standard of care, breach, but only warnings s1(5)
+- Causation: common law
+- Remoteness: common law
+OLA Similarities (non-exhaustive)
+• ** Much more to come in workshops!
+• Partially codify negligent liability in certain circumstances
+• Standards for warnings
+• Require causation and remoteness
+• Volenti and contributory negligence defences available
+OLA Differences (non-exhaustive)
+• Claimant status
+• Duty (broader for visitors)
+• Standard of care
+• NB specific variations in 1957
+• Explicit standards for warnings (including OLA 84 ‘statutory escape hatch)
+• Property damage recovery
+OLA 1957 
+MCQ
+• Bonus: Think of the most 
+applicable cases for each 
+answer.
+• https://forms.ofÏce.com/e
+/tFa8B8rSCw?origin=lprLi
+nk
+ 
+OLA 1984 MCQ
+• Bonus: Think of the most 
+applicable cases for each answer.
+• https://forms.ofÏce.com/e/aeB0jdc
+S0u?origin=lprLink
+(very) short problem question
+• Maeve rents a house with an outdoor hot tub. She has a seven-year-old 
+daughter, Anna, and two cats. She often invites her neighbours, Bob and 
+his eight-year-old son, Gene over for hot tub night. Maeve knew one side 
+of the tub was loose, so when they came over last night, Maeve said, 
+‘Hey, be extra careful; you know you could slip!’ Bob went first, climbed 
+over the loose edge (which gave way), and he broke his smart watch and 
+cut his foot.  He and Gene left immediately.
+• Gene was sad he did not get to play in the hot tub or spend time with the 
+cats. He sneaked back over. Anna saw him and came out. They started 
+chasing the cats together. Gene slipped on excess water that had drained 
+from the broken hot tub edge. He landed on his smartphone and also 
+broke his ankle.
+• Advise parties on liability.
+Move to checklist and 
+apply.
+(5 minutes).
+Start with Bob v Maeve.  Go to Gene v 
+Maeve if you have time!
+PQ ‘cheat sheet’ start
+• Parties: B v M, G v M. 
+• B v M.
+• Facts: B invited by occupier (wheat) M. Static property danger (Tomlinson), known to M. 
+InsufÏcient /ineffective warning (Tomlinson) not enabling B to be reasonably safe in all 
+circumstances. B using for invited purposes (Calgarth). Physical and property injury..  (Notes for 
+yourself).
+• ‘Bob may be able to successfully claim for his physical and property damage under the 
+Occupier’s Liability Act 1957 (OLA 57). The OLA 57 applies to invited visitors …’
+• First, the occupier of the relevant premises must be determined. The occupier, who exercises a 
+degree of control over the premises is the correct defendant 
+• The occupier (Maeve) must exercise a ‘common duty of care’ to all visitors (s 2.1), which is to 
+‘such care as in all the circumstances of the case is reasonable to see that the visitor will be 
+reasonably safe in using the premises for the purposes for which he is invited or permitted by 
+the occupier to be there.’ (s 2.2)
+• Maeve breached by… (2.3).She did not discharge her duty with a warning because… (s 2.4.b)
+• Causation/remoteness (Barnett/Wagon Mound)
+• Defences? 
+• Remedies (later)
+Consider…
+• And what if…
+• Maeve had given a different warning to Bob?
+• Maeve had called the landlord, and the 
+repair person told Maeve the hot tub was 
+fixed. How can Maeve check the hot tub?
+• Gene (a child) had gone in first?
+• Gene had gone into the hot tub when he 
+sneaked back in and was then injured?
+• Bonus: Are cats an allurement for children?
+•
+IMG: Blakely, M. ‘Evie in Catio’ 2025
